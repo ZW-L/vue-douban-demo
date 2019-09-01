@@ -2,46 +2,31 @@
   <div class="list">
     <div class="header">List View</div>
     <div class="content">
-      <div class="item" v-for="item in list" :key="item.id">
-        <movie-card :item="item"></movie-card>
+      <div class="item" v-for="item in cinemaHot.list" :key="item.id">
+        <movie-card :item="item" :type="cinemaHot.type"></movie-card>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import axios from 'axios';
 import MovieCard from '../components/MovieCard';
 
 export default {
-  props: {},
-
-  data(){
-    return {
-      list: {}
-    }
-  },
-
-  created() {
-    this.handleGetList()
-  },
-
-  methods: {
-    handleGetList() {
-      axios.get('http://localhost:8080/api/movie_hot_now')
-        .then(res => {
-          this.list = res.data.data;
-          // console.log(this.list);
-        })
-        .catch(err => {
-          console.log(err);
-        })
-    }
-  },
-
   components: {
     MovieCard
   },
+
+  created() {
+    console.log(this.list);
+  },
+
+  computed: {
+    cinemaHot() {
+      return this.$store.state.hotAndNew.cinemaHot;
+    }
+  }
+
 }
 </script>
 

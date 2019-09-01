@@ -1,7 +1,7 @@
 <template>
   <div class="content">
     <div class="wrapper">
-      <img :src="item.cover">
+      <img :src="require(`../../public/img/${type}/${picName}`)">
     </div>
     <div class="name">
       <span>{{item.title}}</span>
@@ -14,18 +14,26 @@
 </template>
 
 <script>
+import { getPic } from '@/api/get.js';
+
 export default {
   name: 'movie-card',
   props: {
     item: Object,
+    type: String
   },
   data() {
     return {
-      src: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566158271.jpg',
+      picName: 'movie_default_medium.png',
+    }
+  },
+  methods: {
+    getPic() {
+      this.picName = this.item.cover.match(/([^/]+\.(jpg|png))/)[0];
     }
   },
   mounted() {
-    // console.log(this.cover)
+    this.getPic();
     const el = this.$refs.stars;
     const position_y = (Math.ceil(this.item.rate) + 1) * 10;
     el.style.backgroundPosition = `0 ${position_y}px`;
