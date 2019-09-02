@@ -2,6 +2,11 @@
 node_modules
 /dist
 
+# json_file and pics
+/public/mock/list
+/public/img/movies
+/public/img/tvs
+
 # local env files
 .env.local
 .env.*.local
