@@ -1,0 +1,1195 @@
+{
+  "title": "波西米亚狂想曲",
+  "url": "https://movie.douban.com/subject/5300054/",
+  "rate": "8.7",
+  "id": "5300054",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg",
+  "info": [
+    "导演: 布莱恩·辛格",
+    "编剧: 安东尼·麦卡滕 / 皮特·摩根",
+    "主演: 拉米·马雷克 / 本·哈迪 / 约瑟夫·梅泽罗 / 格威利姆·李 / 艾伦·里奇 / 露西·宝通 / 艾丹·吉伦 / 汤姆·霍兰德 / 麦克·梅尔斯 / 阿隆·麦克卡斯克 / 梅内卡·达斯 / 迪基·博 / 蒂姆· 普莱斯特 / 杰克·罗思 / 马克斯·班内特 / 基兰·哈德卡斯托 / 罗斯·格林 / 布鲁斯·麦克金伦 / 米歇尔·邓肯 / 马特·格林伍德 / 罗茜·本杰明 / 约翰·奥特曼 / 詹姆斯·华莱士 / 文森特·阿德里安 / 拉斯科·阿特金斯 / 乔纳森·奇塔姆 / 迈克尔·科布 / 耶稣·加洛 / 亚当·兰伯特 / 豪尔赫·莱昂·马丁内斯 / 杰森· 莱恩斯 / 伊斯雷尔·鲁兹",
+    "类型: 剧情 / 同性 / 音乐 / 传记",
+    "制片国家/地区: 英国 / 美国",
+    "语言: 英语",
+    "上映日期: 2019-03-22(中国大陆) / 2018-11-02(美国)",
+    "片长: 135分钟 / 131分钟(中国大陆)",
+    "又名: 波希米亚狂想曲：摇滚传说(港) / 波希米亚狂想曲(台)"
+  ],
+  "desc": "本片是对皇后乐队、传奇主唱弗雷迪·莫库里以及他们音乐的致敬盛宴，这是一段充满爱、痛苦、接纳和音乐的旅程。\n                                    \n                                　　弗雷迪·莫库里（拉米·马雷克 饰）曾是希思罗机场的一名普通搬运工，对音乐满腔热血的他，与布莱恩·梅（格威利姆·李 饰）、罗杰·泰勒（本·哈迪 饰）、约 翰·迪肯（约瑟夫·梅泽罗 饰）组成皇后乐队。这个殿堂级乐队的从无到有，从疏离到重聚，从低谷到巅峰，仿佛就是弗雷迪一生的缩影。在最后的日子里，弗雷迪做了生命中最重要的决定——在音乐史上最伟大的“拯救生命”大型摇滚乐演唱会上，将所有热血付诸于歌声。\n                        \n©豆瓣",
+  "members": {
+    "director": {
+      "name": "布莱恩·辛格 Bryan Singer",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1403264395.93.jpg"
+    },
+    "cast": [
+      {
+        "name": "拉米·马雷克 Rami Malek",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1860.jpg"
+      },
+      {
+        "name": "本·哈迪 Ben Hardy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548177691.13.jpg"
+      },
+      {
+        "name": "约瑟夫·梅泽罗 Joseph Mazzello",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13772.jpg"
+      },
+      {
+        "name": "格威利姆·李 Gwilym Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1463815670.88.jpg"
+      },
+      {
+        "name": "艾伦·里奇 Allen Leech",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548167297.75.jpg"
+      },
+      {
+        "name": "露西·宝通 Lucy Boynton",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1491489396.24.jpg"
+      },
+      {
+        "name": "艾丹·吉伦 Aidan Gillen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p28202.jpg"
+      },
+      {
+        "name": "汤姆·霍兰德 Tom Hollander",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5887.jpg"
+      },
+      {
+        "name": "麦克·梅尔斯 Mike Myers",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8498.jpg"
+      },
+      {
+        "name": "阿隆·麦克卡斯克 Aaron McCusker",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1540475459.48.jpg"
+      },
+      {
+        "name": "梅内卡·达斯 Meneka Das",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547812812.81.jpg"
+      },
+      {
+        "name": "迪基·博 Dickie Beau",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548324395.24.jpg"
+      },
+      {
+        "name": "蒂姆· 普莱斯特 Tim Plester",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548143984.81.jpg"
+      },
+      {
+        "name": "杰克·罗思 Jack Roth",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pzj1oJqg0g90cel_avatar_uploaded1390123220.06.jpg"
+      },
+      {
+        "name": "马克斯·班内特 Max Bennett",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1385981147.06.jpg"
+      },
+      {
+        "name": "基兰·哈德卡斯托 Kieran Hardcastle",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524723922.94.jpg"
+      },
+      {
+        "name": "罗斯·格林 Ross Green",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484716927.54.jpg"
+      },
+      {
+        "name": "布鲁斯·麦克金伦 Bruce Mackinnon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p54600.jpg"
+      },
+      {
+        "name": "米歇尔·邓肯 Michelle Duncan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36625.jpg"
+      },
+      {
+        "name": "马特·格林伍德 Matt Greenwood",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514467632.84.jpg"
+      },
+      {
+        "name": "罗茜·本杰明 Rosy Benjamin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pGjVf4Cm1t4ocel_avatar_uploaded1485442347.9.jpg"
+      },
+      {
+        "name": "约翰·奥特曼 John Ottman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13112.jpg"
+      },
+      {
+        "name": "詹姆斯·华莱士 James Wallace",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548143558.69.jpg"
+      },
+      {
+        "name": "文森特·阿德里安 Vincent Andriano",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548143717.48.jpg"
+      },
+      {
+        "name": "拉斯科·阿特金斯 Lasco Atkins",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1439124770.35.jpg"
+      },
+      {
+        "name": "乔纳森·奇塔姆 Jonathan Cheetham",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547812964.94.jpg"
+      },
+      {
+        "name": "迈克尔·科布 Michael Cobb",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541745486.97.jpg"
+      },
+      {
+        "name": "耶稣·加洛 Jesús Gallo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548838014.72.jpg"
+      },
+      {
+        "name": "亚当·兰伯特 Adam Lambert",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1383968645.43.jpg"
+      },
+      {
+        "name": "豪尔赫·莱昂·马丁内斯 Jorge Leon Martinez",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485423797.12.jpg"
+      },
+      {
+        "name": "杰森· 莱恩斯 Jason Lines",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547813100.55.jpg"
+      },
+      {
+        "name": "伊斯雷尔·鲁兹 Israel Ruiz",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1538564858.74.jpg"
+      },
+      {
+        "name": "普丽亚·布莱克本 Priya Blackburn",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pxjhggO5txd8cel_avatar_uploaded1548146195.07.jpg"
+      },
+      {
+        "name": "安德鲁·鲍尔曼 Andrew Bowerman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pxjhggO5txd8cel_avatar_uploaded1548324992.5.jpg"
+      },
+      {
+        "name": "罗伊斯·克罗宁 Royce Cronin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pxjhggO5txd8cel_avatar_uploaded1548324716.33.jpg"
+      },
+      {
+        "name": "埃斯·巴蒂 Ace Bhatti",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pxjhggO5txd8cel_avatar_uploaded1548145842.4.jpg"
+      },
+      {
+        "name": "菲利普·安德鲁 Philip Andrew",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pxjhggO5txd8cel_avatar_uploaded1548144701.41.jpg"
+      },
+      {
+        "name": "亚当·劳夫 Adam Rauf",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pxjhggO5txd8cel_avatar_uploaded1548145080.51.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2528229036.jpg?",
+        "src": "http://vt1.doubanio.com/201908311046/fb983040f3f64479b434d4bbd31280d1/view/movie/M/402330799.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2531515582.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2546131031.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2525677271.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2520574043.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "Christy",
+      "avatar": "https://img1.doubanio.com/icon/u10061910-57.jpg",
+      "content": "大荧幕让我这个晚出生十几年的人，能听到Queen的live show！感动的一塌糊涂"
+    },
+    {
+      "user": "私~川流",
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "content": "从Freddie第一次在钢琴上轻轻敲出Bohemian Rhapsody的旋律开始，我的泪腺和毛孔便会为每一缕熟悉旋律而收缩。而最后Live Aid如临现场的冲击力，让我意识到此生都没有可能真正看一次Queen的Live ——莫名的痛苦卷着鼓点的狂骚将我击溃在影院最后一排的座椅之上，鼓膜轰鸣。"
+    },
+    {
+      "user": "赵贾森",
+      "avatar": "https://img3.doubanio.com/icon/u1063508-3.jpg",
+      "content": "坐在几百个白发的叔叔阿姨中间观影，感觉我们虽隔了二十多年但共享了一段青春。"
+    },
+    {
+      "user": "小四不象",
+      "avatar": "https://img1.doubanio.com/icon/u4188822-19.jpg",
+      "content": "Rami Malek该拿个奥斯卡提名了，台风简直神还原。最后Live Aid拍出了那么点伟大的范儿，我特意去油管看了原视频，电影这段还原得原汁原味，高空航拍越过人山人海的观众，然后镜头直接连到主舞台钢琴下对Freddie的特写，这个合成长镜头实在太酷了！万众瞩目，集全宇宙之光于一身的感觉；开头唱到Life had just begun就开始泪崩，结合他之前跟乐队成员说出自己得了艾滋，再看Bohemian Rhapsody的歌词，感觉每一句都是重磅催泪弹，于是才明白为啥这部传记片要用这首歌名当电影名；Live Aid上演出的每分每秒，都是Freddie燃烧生命的表演，这是他传奇人生的伟大谢幕。"
+    },
+    {
+      "user": "爬行隧道",
+      "avatar": "https://img3.doubanio.com/icon/u1716303-6.jpg",
+      "content": "牛逼！！！好音乐真是颗幸福的原子弹！！！"
+    },
+    {
+      "user": "Peter Cat",
+      "avatar": "https://img1.doubanio.com/icon/u1663648-59.jpg",
+      "content": "其实也只三十年功夫，摇滚作为行动和爱的时代已经灰飞烟灭，我们究竟生活在什么样世代？"
+    },
+    {
+      "user": "糯木",
+      "avatar": "https://img1.doubanio.com/icon/u35711522-19.jpg",
+      "content": "前半部分剧情潦草得仿佛赶着去投胎，内心OS：这拍的什么鬼？！大皇后好不容易有个传记片求别毁啊啊啊。最后Live Aid部分神奇地力挽狂澜，OS：壮哉你大皇后，片子拍得再水都能靠歌救回来。但严肃地说，布莱恩·辛格对牙叔私生活的呈现有哗众取宠之嫌，而对他真正的音乐精神和生命力却轻描淡写，“天才巨星”整个像撞大运一样【虽然人家牙叔是这么说的，但你也不能真这么拍吧。"
+    },
+    {
+      "user": "米粒",
+      "avatar": "https://img3.doubanio.com/icon/u4416375-54.jpg",
+      "content": "只能说是合格的人物小传吧，除去音乐外并无任何特别之处，而且主次取舍很值得商榷，前一小段非常走马观花地皇后就爆红了，后面都是其实粉丝更熟悉的单飞矛盾花边新闻等等。全部看完感觉不仅Freddie的形象不够丰满，配角们似乎也难有出彩的地方。不过音乐就是一种有魔力的东西啊，前奏一响起来马上脑袋就嗡地一下然后什么都不愿意多想了。歌真是太好听了。所有的歌"
+    },
+    {
+      "user": "暹罗copen",
+      "avatar": "https://img3.doubanio.com/icon/u1881299-343.jpg",
+      "content": "一想到我这一生从一开始就注定无法亲眼见到Freddie，无法亲身参与Queen的现场演出，无法和上万人一起跺脚一起鼓掌一起大喊，我的眼泪就停不下来。这是我今年最喜欢的电影，没有之一。"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "跨四个八度音阶的唱将传奇，迷失和寻找自我的璀璨之旅。难得的是没有因为换导演而烂尾，反而颠覆了很多外界对这位双性恋巨星的误解。温暖而澎湃，就像皇后乐队其他成员写给Freddie Mercury的一首爱歌。最后的拯救生命演唱会感动得人灵魂出窍啊，贯穿全片的原声非常过瘾！（IMAX燃燃燃燃燃燃燃燃）"
+    },
+    {
+      "user": "螃蟹|依然武汉",
+      "avatar": "https://img3.doubanio.com/icon/u1312772-13.jpg",
+      "content": "妈妈，Life has just 毕赣"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "作为传记片其实挺普通的，不过，结尾那段live aid 还是给煽到热泪盈眶。唉，这就是音乐的魔力吧。"
+    },
+    {
+      "user": "夏奈呀！",
+      "avatar": "https://img3.doubanio.com/icon/u16249062-770.jpg",
+      "content": "看了一场不属于自己年代的演唱会，Queen的音乐真是太棒了，尽管觉得剧情和剪辑上有瑕疵，却仍旧下不去手给四星。"
+    },
+    {
+      "user": "水包酱",
+      "avatar": "https://img3.doubanio.com/icon/u43087284-2.jpg",
+      "content": "特理解为什么这部专业评分和大众口碑相差很大，因为除去音乐的部分, 拍得实在乏善可陈。可舞台的灯光一亮起，音乐鼓点和拍手声一响起, 一切就都不一样了。把十几分钟的Live Aid放在最后也实在很聪明，试问哪个观众听完We are the champions走出影厅不是血脉贲张得像刚看完演唱会。这些五星和高分与其说是打给这部电影，不如说是人们对这支伟大的乐队和这些经典的作品, 以及为这个世界留下了这么多宝贵legacy的Freddie Mercury的一次致敬。（演Roger Taylor的那个男孩子也实在是有点漂亮的）"
+    },
+    {
+      "user": "影志",
+      "avatar": "https://img1.doubanio.com/icon/u1005928-127.jpg",
+      "content": "“我昨晚做了个噩梦，我就跑过来了。我尝试跟你聊天，但你没了声音” 最亲密人的直觉往往最准，Mary这样的挚爱和灵魂伴侣值得一辈子。“我早已知道，但我不愿承认…虽然每次都这样，但这次不同，因为根本错的就不是你”、“这些人不在乎你”当爱成骗局，你会更看清自己，“我想你在我的生命里”。2019《爱乐之城》+《与歌同行》，这才是真正的《一个明星的诞生》。听Queen的歌不多，依然享有天堂般的体验。最劲的Freddie，真正的传奇。最后演唱会现场一开喉，就止不住的飙泪…@香港 The Grand cinema"
+    },
+    {
+      "user": "薛特勒拉底",
+      "avatar": "https://img3.doubanio.com/icon/u52189374-14.jpg",
+      "content": "在最后LiveAid台上的Freddie眼中看到了星辰大海。音乐的感染力太神奇，最后的现场万分动容，作为一个非粉都激动得心潮澎湃，热泪盈眶。"
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "演技、摄影灯光美术是厉害的漂亮的，而剧情倒变得弱，或者说要表达的东西太杂，看到最后本应被人物本身所打动，反而那些精彩的音乐和现场起到了喧宾夺主的效果 @festival grand cinema"
+    },
+    {
+      "user": "老晃",
+      "avatar": "https://img3.doubanio.com/icon/u1019579-12.jpg",
+      "content": "太帅了！充满激情、甜蜜又无比心碎。三度落泪。你选择看《波西米亚狂想曲》的夜晚，会是一个节日。"
+    },
+    {
+      "user": "阿瞢",
+      "avatar": "https://img3.doubanio.com/icon/u46689864-26.jpg",
+      "content": "对于一个初中被《波西米亚狂想曲》打开新世界大门的人来说，听到Freddie弹前奏就炸了。谁特么关心剧本和电影完成度！重现LIVE AID还不够堵住你们的嘴吗！"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "听过很多遍Live Aid演唱会的专辑，看到电影最后的高潮直接是复刻了一遍当年演唱会的现场，瞬间就被点燃了。前面的剧情虽然有点流水账，不过最后演唱会上再听Queen的那几首经典歌曲，歌词突然变成了Freddie命运的注解，有一种宿命感，突然有种从未听懂过这些歌的感觉，很感动！对于歌迷来说，花一张电影票钱看一场皇后乐队的演唱会，也值了。拉米·马雷克的表演虽然有些过火，但演唱会上的肢体动作还是模仿的惟妙惟肖，不过更硬的是这部电影里的歌曲都是用的原唱。"
+    },
+    {
+      "user": "OreoOlymLee",
+      "avatar": "https://img3.doubanio.com/icon/u136593943-56.jpg",
+      "content": "这类“电影”和片中所有演员的表演理念一样，实际上是模仿秀的一种，却要承载着成为历史资料馆的意义。最后的Live Aid更是疯狂地对口型，有半点诚意么。这个剧作让一些矛盾的外因指向性过于明显，几乎成了编剧我行我素的甩锅。喜欢的地方几乎独立在画面外，是一首首“真实”歌曲的迁移。"
+    },
+    {
+      "user": "肖恩恩恩恩肖",
+      "avatar": "https://img3.doubanio.com/icon/u60599665-40.jpg",
+      "content": "我算看穿了，音乐电影拍到哪种程度，主要看OST的质量…"
+    },
+    {
+      "user": "谢飞导演",
+      "avatar": "https://img3.doubanio.com/icon/u114515320-21.jpg",
+      "content": "有两位皇后乐队的老成员保驾，这部表现7、80年代风靡全球的摇滚乐队主唱费雷迪的传记片几近纪录片式的真实，特别是最后二十分钟的“非洲慈善义演”非常震撼。为了用这个高潮煞尾，编剧将后来发生的事情移前表现，也应该是可以接受的。遗憾，由于我们生活的时代与这个乐队及摇滚乐完全的排斥与隔绝，看片时就没有多少共鸣，只好打个及格分。"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "没有配乐也能掀翻屋顶，没有球棚仍能响彻寰宇，没有酒杯也能隔空共饮，没有声音仍能唱给你听。只要一起拍手跺脚，不用乐器也能摇滚；只要一起开灯关灯，不用相爱也能同在。电视里说，治愈病毒尚需数年时间，治愈偏见却遥遥无期。你与角落里那虚弱男孩诶欧着呼应，从此别人都苍老，唯独你永远风华正茂。"
+    },
+    {
+      "user": "蜉蝣",
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "content": "如果直接把当年演唱会实况放出来，效果会不会一样？【重看2019.03.24】"
+    },
+    {
+      "user": "NarvikAustin",
+      "avatar": "https://img1.doubanio.com/icon/u7632975-7.jpg",
+      "content": "传记片有无数种无功无过的拍法，而布莱恩辛格把最后30分钟留给了复活，演绎令人咋舌的现场复刻和再现。奥斯卡影帝种子也在此间呼之欲出。"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "犹如亲临人类历史上最伟大的演唱会，仿佛佛莱迪·摩克瑞复活重生，带领皇后乐队在你面前为你演唱，亲身体会人潮人海、振聋发聩，让人筋脉活络、热泪盈眶……感谢电影为我们缔造了一场最真实的梦境。\n正如他们取名叫“皇后乐队”的初衷，他们特立独行、我行我素，他们不属于任何人，他们只做自己，完美诠释自由和豪情。\n他们的音乐也是唱给和他们一样的人，那些受排挤处在人生低谷的人，给予他们信念和力量。\n他们终于做到了，在Live Aid引吭高歌、荡气回肠，被世人和历史铭记。\n而当初低估他们、轻视他们的人，真正成为了那个“失去皇后乐队的男人”。\n生命不止，激情不止。\n生命不止，音乐不止。\n皇后乐队不仅是一支乐队，更是一种精神。\n“我们虽然老了一点，但也还是那个皇后乐队。”"
+    },
+    {
+      "user": "shibuya emiri",
+      "avatar": "https://img3.doubanio.com/icon/u1781499-40.jpg",
+      "content": "一开始就知道自己要做什么的人都是怎么开悟的？ "
+    },
+    {
+      "user": "咱说",
+      "avatar": "https://img1.doubanio.com/icon/u1030253-159.jpg",
+      "content": "看完这部我必须表示今年的金球奖被疯狂吐槽一点都不冤枉，本片作为传记电影来说太平庸了，得个鬼的最佳影片啊。特别是前三分之一流水帐的讲述方式完全失败。中间没能展现出这类天才艺术家灵感凸显创作出名曲的高光时刻。打高分的观众，要么是Queen忠粉，要么就是给最后Live爽到的，但这不是要你评价音乐会而是评价电影啊！我只能给听起鸡皮疙瘩的Live加半颗星。\n单独指出一下：双方为发行《波西米亚狂想曲》吵翻那场戏，掰扯了那么久，老板都赌咒了，接下来怎么着也该来个戏剧性的反差吧，比如歌迷如何热烈反应从而登顶了各种榜单，结果并没有。到最后大家都沉浸在Live之中的时候，那个早已被观众遗忘的老板反而又露了一次脸，结尾还用字幕来介绍这首歌后来再次登顶榜单的信息，这两样都是多此一举。【LUXE天环】"
+    },
+    {
+      "user": "LORENZO 洛伦佐",
+      "avatar": "https://img1.doubanio.com/icon/u1127622-139.jpg",
+      "content": "这不是Queen，电影弱化了Freddie的同志身份，删减提前了他最重要的艾滋经历，他的享乐主义（夜店咖），对性欲的大胆追求以及和Jim在夜店相识的经历也被篡改，无怪乎萨莎·拜伦·科恩拒演。如果不尊重人物的真实经历而只是避重就轻，那和瞎编有什么区别？人物肤浅、只有花边新闻没有人物成长，更没有内心。反感某些乐队成员一心想洗白的功利心，把浪荡全部推给了Freddie，还让他自我救赎（恶不恶心），真是毁了这部电影。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "首先得明白，一个传奇的人物，几首家喻户晓的旋律，和一场无功无过的表演，并不等于一部好电影；其次得承认，就最后一段来讲的确拍得极具感染力，但仔细想一想，这跟本片质量有直接挂钩吗，似乎是没有，换言之，把皇后乐队当年这段演唱会实况直接放出来恐怕效果只增不减，而前面俩小时又拍得太过中规中矩。总的来讲，经历换导风波后对成片影响还是挺明显，这个颁奖季目前为止整体都是令人失望的。"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "一星给伟大的Queen，一星给表演。剧本灾难，极其蜻蜓点水般的流水账剧情，磨平了mercury痛苦而孤独的自我蜕变，也抹去了乐队和个人都遭遇到的现实阻碍，达成的目标没有经历演绎，只有结果呈现；拍得极为俗气，且非常流于表层，其他人几乎是面目模糊的。结尾的live感动也是基于原样复刻，但这样的完全拷贝，对一部电影来说究竟有何意义？"
+    },
+    {
+      "user": "舌在足矣",
+      "avatar": "https://img3.doubanio.com/icon/u44889149-3.jpg",
+      "content": "最后Live Aid现场有多激情澎湃，整部电影就有多空洞肤浅。编剧Anthony McCarten之前的「万物理论」、「至暗时刻」至少靠着导演的能力挽回不少，但这次彻底击穿地心的程度实在是无药可救了。任凭Rami Malek再怎么卖力，也无法掩盖剧本对人物塑造的乏力，更不用说那些罔顾史实的狗血而又俗套的改编了"
+    },
+    {
+      "user": "judy",
+      "avatar": "https://img3.doubanio.com/icon/u1956648-61.jpg",
+      "content": "3.5。老實說影評分不高是可以理解的。因為做為\"傳記電影\"，他的刻劃不夠，十幾年間的大事件只有偏向平面陳述。Freddie以外其他團員也都邊緣化了(不是還找了May和Taylor當顧問嘛...) 但! 其實我覺得這片比較類似於爽片，真的就是看爽的。一首首皇后金曲MV放好放滿，非常落力重現的Live Aid演唱會，配上Rami Malek傳神演繹。可以有力的帶動觀影情緒。"
+    },
+    {
+      "user": "次等水货",
+      "avatar": "https://img1.doubanio.com/icon/u42131499-18.jpg",
+      "content": "神！最后一场戏，基本还原了当年皇后乐队在live aid演唱会的盛况，曲目百分之八十保留，还有龅牙叔献给母亲的那个吻。"
+    },
+    {
+      "user": "舒农",
+      "avatar": "https://img1.doubanio.com/icon/u1303086-68.jpg",
+      "content": "又是一个假嗨电影。live aid蓝光都有了请问我为什么要看对口型？"
+    },
+    {
+      "user": "西帕克",
+      "avatar": "https://img3.doubanio.com/icon/u49097402-173.jpg",
+      "content": "从头到尾流水账八卦集，实在看不出编导有什么想表达。拉米·马雷克演技大爆发，虽然长得一点不像弗雷迪，但真是天生的影帝。作为一部标题是“波西米亚狂想曲”的电影，却从头到尾没有把这首歌完整放完，难道导演也嫌六分钟太长？"
+    },
+    {
+      "user": "室内滂沱",
+      "avatar": "https://img3.doubanio.com/icon/u5812768-70.jpg",
+      "content": "主人公在身体逐渐腐败的过程中精神逐渐圣化，太典型的奥斯卡命题作文，少数族裔，男同，艾滋患者，没想到弗雷迪·墨丘里也有登上政治正确顶峰的一天。无数柔光、金光意图还原艺术摇滚全盛时代，但和之前所有摇滚片比起来，基本全无任何自己的创见，就因为后面要将主角全面伟光正，所以去掉了这类片必须要有的放浪形骸，用轻喜剧把所有人物所有事件萌化、卡通化，以遮掩深度上的力有未逮之处。还是非常爆米花的，里面出现的所有次要人物，都像是为了配合完成过程而设立的道具，没有一个人有深度，马雷克也像是全程戴上墨丘里面具，全在模仿没有发挥。为了迎合目前流行趋势，将七十年代摇滚乐手geek化，没有让时代精神真正还魂，可视为一次虚情假意的致敬，一次功利目的明显的怀旧。"
+    },
+    {
+      "user": "张小北",
+      "avatar": "https://img1.doubanio.com/icon/u2279829-8.jpg",
+      "content": "作为官方认可的传记电影，背后的人性故事挖掘不足。但作为音乐电影，看到最后舞台上的人生高光时刻，必然热泪盈眶。"
+    },
+    {
+      "user": "夜第七章",
+      "avatar": "https://img3.doubanio.com/icon/u4448539-32.jpg",
+      "content": "出生在某些年代真是够幸运的，同时见证了Queen，米克·贾格尔，大卫·鲍依，埃尔顿·约翰，保罗·麦卡特尼， The Who，Led Zeppelin，鲍勃·迪伦等的黄金时代。电影以1985年的Live Aid为结，后半段完全能看哭。Freddie Mercury有多孤独，舞台上的感染力就有多强大。听到他在Live Aid上唱道：“I sometimes wish I'd never been born at all ”鼻子一酸。"
+    },
+    {
+      "user": "光头",
+      "avatar": "https://img1.doubanio.com/icon/u63870964-9.jpg",
+      "content": "毫无故事性可言的流水账（虽然电影不一定需要故事，但这部剧情片也没什么别的东西可以展示了），非常空洞，人物也扁平，走马观花地瞄了眼Freddie的职业生涯… p.s. Odeon Lux在IMAX厅放躺椅不合适，画面被挡，银幕比例也不对！"
+    },
+    {
+      "user": "SongSongSong",
+      "avatar": "https://img3.doubanio.com/icon/u1571077-45.jpg",
+      "content": "2007年，60岁的皇后乐队吉他手 Brian May 凭借论文 A survey of radial velocities in the zodiacal dust cloud（《黄道带尘埃云径向速度测量》）获得天体物理学博士学位。论文豆瓣条目（英文原版亚马逊有售）：https://douc.cc/21B4pU"
+    },
+    {
+      "user": "大蒂茎蕾",
+      "avatar": "https://img1.doubanio.com/icon/u45251073-18.jpg",
+      "content": "真没想到能烂到如此令人发指，这剧本完全对不起制作水平，人物塑造浅薄如草纸，结尾直接搞成演唱会直播是不是真的太偷懒了一点？"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "3.5。1.如果你是皇后乐队真正的死忠粉，难道不会对这部所谓的高分音乐传记片心存遗憾吗？赋予这部电影的所有荣光，又有多少是来自电影本身，而非沾着皇后乐队的光？2.空有造势，没有狂想，哪怕能在精神层面多迈出一步都是奢求，更别提跻身影史杰作之列了。3.当然，终究还是没办法打低分，尽管男主拉米·马雷克的演技有很大的可复制性，但他真的是拼尽全力演活了牙叔；况且影片整体的硬件都是顶级水准。4.至于影片最后那场神还原的Live Aid现场，固然十足震撼人心，但也难免给未来其他乐队的音乐传记片留下一个“隐患”，借用河濑阿姨吐槽山田孝之的语气：你以为在电影里加一场神还原演唱会，就笃定能拿奥斯卡了吗？"
+    },
+    {
+      "user": "杨迪",
+      "avatar": "https://img3.doubanio.com/icon/u2704850-13.jpg",
+      "content": "因为这片 皇后乐队开始进入歌单"
+    },
+    {
+      "user": "爱罗武勇",
+      "avatar": "https://img1.doubanio.com/icon/u4366971-398.jpg",
+      "content": "Rami饰演的Freddie有种纯真的想保护他的欲望，只希望他能好好的活在他的世界里不受外界侵蚀。最令人动容的是mary和freddie一生的情谊，他为她写了\"Love of My Life\"，他说“我所有的爱人们都问我为何mary不可取代，而这件事就是不可能。她是我唯一的朋友，我不需要任何其他人。“ 86年在Wembley的live，这首歌真令人落泪。"
+    },
+    {
+      "user": "AilsonAir",
+      "avatar": "https://img3.doubanio.com/icon/u91325440-12.jpg",
+      "content": "能把一个摇滚巨星的传记片拍成这样我也是无话可说。平淡无奇根本不足以形容它的乏味。比流水账更流水账，台词苍白无力，对内心情感的挖掘表现彻底放弃，连带着主角所有的人物形象根本不是脸谱化了，是根本没有脸。音乐极富感染力，那是皇后乐队的功劳，和这片子没有半毛钱关系。看这电影我远没有看传记书籍更加激情澎湃。要说唯一的优点就是拍演出这些大场面的镜头调度还不错。"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "金马影展第3场。很燃！应该是年度最适合在大银幕观看的影片之一了吧，小屏幕看最后的20分钟音乐会还原效果怕是会大打折扣。即使不是皇后乐队的粉丝，看完也会很快爱上他们，并有极大的兴趣去听他们的音乐、了解他们的生平，作为一部传记片，已经很好地完成了任务，当然由于线索繁杂，前面的人物部分还能做的更好，关于同性的段落做的足够克制隐晦，还蛮喜欢的。通过前面的铺垫，在音乐段落绽放高潮，这种方法也许称不上高明，但行之有效。"
+    },
+    {
+      "user": "大奇特(Grinch)",
+      "avatar": "https://img3.doubanio.com/icon/u1074463-104.jpg",
+      "content": "Queen的歌迷当然是必看的，服化道还原度颇高，几乎是在回顾纪录片与演唱会，马雷克的表演其实有些过，但配合歌曲还是很具有感染力，尤其最后we will rock you一段达到高潮。最重要的是每首歌与乐队的互动都十分配合剧情，不过歌曲有些喧宾夺主，全面性压倒剧情了。"
+    },
+    {
+      "user": "把噗",
+      "avatar": "https://img3.doubanio.com/icon/u42097517-14.jpg",
+      "content": "可以说长得丑吗……"
+    },
+    {
+      "user": "哪吒男",
+      "avatar": "https://img3.doubanio.com/icon/u42174843-51.jpg",
+      "content": "作为传记片剧作可以说非常套路了，感觉是十多年前的剧本。但歌是真好听，大篇幅使用也不觉得滥，最后20分钟酣唱我旁边的人哭了20分钟。"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "我在听Queen专辑的时候脑子里面浮现的画面都比这片子有意思，作为人物传记既不挖掘角色内心又不展现音乐理想，完全就是金曲大串烧，一段MV接着另一点MV，情节推进平淡如水，整个就是一出流水账，我看的是电影，不是音乐录像带，ok？"
+    },
+    {
+      "user": "Madison",
+      "avatar": "https://img3.doubanio.com/icon/u34347136-6.jpg",
+      "content": "5星不是给剧本割裂的二流传记电影，而是给Freddie本人，最后一场Live Aids暴哭，尤其是之前被称作“无意义”的<Bohemian rhapsody>的前奏响起，Freddie唱出I don’t wanna die那句歌词的时候。one of the greatest performers all time for sure!"
+    },
+    {
+      "user": "迷丁中的站起来",
+      "avatar": "https://img1.doubanio.com/icon/u115641028-19.jpg",
+      "content": "和ASIB同质，和绿皮书同质，建立在消灭丰富性消灭可能性之上的生理快乐电影。每一步都算好需要什么然后拍出来，“风格”被压制如一潭死水。人物没有真正的情绪，适时摆出表情即可。这样的片子就像妓女，爽完穿上裤子走人完事，不需要一点留恋。"
+    },
+    {
+      "user": "余小岛",
+      "avatar": "https://img3.doubanio.com/icon/u55323010-42.jpg",
+      "content": "无比震撼，热泪盈眶。伟大的乐队，永不落幕。。波西米亚狂想曲的钢琴声响起，一下子回到了那些挂着垃圾mp3听着摇滚晨跑的日子。皇后、滚石、枪花、涅槃、蝎子、披头士、鲍勃迪伦、平克·佛洛依德，一整个青春时代啊。"
+    },
+    {
+      "user": "咯咯精",
+      "avatar": "https://img3.doubanio.com/icon/u41608208-13.jpg",
+      "content": "作为Queen学家我认可这个三流biopic里的Freddie和May了！想立刻打飞的去伦敦Prince Charles cinema看一场sing-a-long-a！有什么区别吗现在已经在电影院不要脸sing along并且买了明天第一场的票二刷毕竟我是全世界听don’t stop me now最多遍的人嘤嘤嘤。"
+    },
+    {
+      "user": "翻滚吧！蛋堡",
+      "avatar": "https://img3.doubanio.com/icon/u7542909-93.jpg",
+      "content": "Freddie fucking Mercury！！！最后20分钟Live Aid眼泪根本没停过！上映两个多月电影院依然爆满也是很神奇了！"
+    },
+    {
+      "user": "切伦卡普",
+      "avatar": "https://img1.doubanio.com/icon/u1126483-117.jpg",
+      "content": "当熟悉的音符如电流般直抵高潮，纯粹的角色塑造显得无足轻重，对你，摇滚传奇Freddie Mercury而言，再没有比歌声更精确的人格注脚了。\n一成不变的天空，偶尔会有燃烧的陨星击穿云层，即兴地闪耀，清脆地焚毁，散成光艳袭人的碎片，巡游在历史里，巡游在半空，被人呼吸，被不同的时代回忆。"
+    },
+    {
+      "user": "家禽腿部保健",
+      "avatar": "https://img1.doubanio.com/icon/u26035329-8.jpg",
+      "content": "只有七个观众，两对中年夫妻，三个中年人，最后大家红着眼眶一起大合唱"
+    },
+    {
+      "user": "寒枝雀静",
+      "avatar": "https://img3.doubanio.com/icon/u93124222-46.jpg",
+      "content": "D / 整体结构其实是短视频拼贴思维（另一种PPT电影）建立起来的，最后又变成了对口型综艺节目。当然最灾难的还是剧本，一个极端孤立的中心人物旁边一堆木偶一样的NPC。然而即便知道拍得多平庸多么支离破碎，历史中的原人物却还是能透过这些浮尘感染我一个纯路人，导演或许还是抓住了一些神韵。除了音乐本身，大概还是要归功于拉米·马雷克极具弹性与力量感的表演吧。"
+    },
+    {
+      "user": "伯樵·阿苏勒",
+      "avatar": "https://img3.doubanio.com/icon/u1756440-11.jpg",
+      "content": "之前，只知道Queen是个乐队，然后就啥也不知道了；电影看到30分钟才知道这是一部关于Queen的电影……全程一边Google学习一边看……发现原来We will rock you和We are the champions都是他们唱的……感觉自己是个文盲"
+    },
+    {
+      "user": "掉线🌈",
+      "avatar": "https://img1.doubanio.com/icon/u45134592-69.jpg",
+      "content": "【C】浮华而空洞。用了一个排的配角去陪衬主角，Freddie这个人物最后却还是塑造失败，编剧是听歌听到脑膜损伤了吗？给剧情套了个“成功-挫败-再起“的励志模板，看着像模像样，当中却没有切实的事件来体现。于是情绪没法立住，主角总是突然就开始迷茫，困顿，痛苦，醒悟，如同吃饱了撑的。人物间分分合合也因此显得随意，眼一闭一睁，乐团散了，再一闭一睁，乐团和好了，你们小学生撕逼呢？说白了，现实中皇后乐队就是一路顺风顺水，根本没法强行成编剧想呈现的结构，结果自然是强扭的瓜不甜。Live Aid那段确实燃，但也不过是借的皇后本身的音乐力量。这种将台上演唱的主角，台下流泪感动的配角们拼接在一起的廉价煽情蒙太奇，各位在《老男孩》里还没看够吗？唯一值得称道的只有拉米的表演，远超我预料的好。"
+    },
+    {
+      "user": "特洛伊虾",
+      "avatar": "https://img3.doubanio.com/icon/u163149322-51.jpg",
+      "content": "其实，传记类电影终究都逃不过ppt放映。但人物本身的故事就足够震撼，再加上Rami神仙一样的演技（说实话我觉得他已经不是在演了而是在那段时间里把自己完全变成了Freddie），真的没几个观众会不在大银幕前热泪盈眶。这就是电影的魅力，还原一场你未曾有机会亲自赶赴的约，圆一个后生的梦，在震耳欲聋的影厅音效中短暂地逃离现世去体会不一样的人生。于我来说，已是足够。"
+    },
+    {
+      "user": "汽车大师",
+      "avatar": "https://img3.doubanio.com/icon/u1064115-93.jpg",
+      "content": "片子谈不上喜欢，只让我突然觉得阿伦索金那么写乔布斯有多了不起，但最后的复刻LIVE AID完全值回票价，起了一身鸡皮疙瘩。旁边的老头不住擦眼睛，大概是让他回忆起几十年前看的皇后现场了吧。曾经有过全息投影版的Freddie Mercury，前年还看过他跟年轻人的隔时空对唱，这个无疑该叫VR还魂了。"
+    },
+    {
+      "user": "饱肚师叔",
+      "avatar": "https://img1.doubanio.com/icon/u45446265-48.jpg",
+      "content": "音乐响起就开始哭，青春种种如同幻灯片历历在目，这两天看音乐会看电影都更让人觉得，音乐的妙处不仅是它本身，更是音乐牵连的时光和记忆。"
+    },
+    {
+      "user": "柏林苍穹下",
+      "avatar": "https://img3.doubanio.com/icon/u1121362-5.jpg",
+      "content": "所有的平庸、混乱与压抑，终将是不朽音符的无尽燃料。"
+    },
+    {
+      "user": "发不沾霓",
+      "avatar": "https://img1.doubanio.com/icon/u1930210-9.jpg",
+      "content": "Queen Works！基本把所有的典藏金曲都塞进来了，我还在想都快演完了要怎么放《Don't Stop Me Now》，结果，就“Tonight～”了！；Freddy一出场就金光闪闪，已经注定了本片的粉丝向路线，整部影片就像最后对Live Aid那段神一般的还原一样（连他妈那几杯百事可乐都栩栩如生）——以膜拜的姿态试图企及本尊，反倒缺少了最能打动人的小设计、小细节；-“我们得把那表演场子的屋顶给掀翻喽”-“温布利球场可没屋顶”；“You are 《Love of My Life》.”"
+    },
+    {
+      "user": "汀",
+      "avatar": "https://img3.doubanio.com/icon/u40974431-154.jpg",
+      "content": "电影的格式感觉有点安全 前期和中期的有几处叙事要是能更调皮一点就好了。但不妨碍Queen的音乐和Freddie的人生动人。哪怕只是为了LIVE的部分也是可以考虑IMAX的。"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "技术性胜利，电影不神，而是声音、视觉，还有乐队本身神。故事很像《冲出康普顿》，剧本是很工整的传记片。最后Live Aid的20分钟太提气了，IMAX画面身临其境， 台型神还原，几乎是跨越时空，看了一场不属于自己年代的演唱会，皇后乐队的动感、深情的音乐，哪怕不是粉丝也能被被感染。奥斯卡加持下的音效爆棚，尤其是足球迷，那两首歌的煽动力实在太强了，泪流满面！（简单对比了原版，内地公映版删除了一些涉及同性的台词和亲热场面，以及一首女装歌曲，但保留了包括酒吧等画面，典型的内地尺度：不能公开讨论和显露，但也没避讳。。。整体无伤大雅）"
+    },
+    {
+      "user": "CyberKnight电子骑士",
+      "avatar": "https://img3.doubanio.com/icon/u1819911-2.jpg",
+      "content": "一定要看大银幕！最后20分钟我真的是头皮发炸，浑身颤抖，手心里全是汗——这是影像、音乐、表演的完美结合，是不朽摇滚精神的最强力体现，是对皇后乐队及Freddie最闪亮的描绘！完全可以入选音乐电影中最震撼和最感人的表演桥段！\n影片还是传统的拍法，把人物成名历史上的关键事件用音乐串起来。这种拍法往往会让人物和故事有些流于表面，不能深入到角色以及摇滚乐队最内在最本质的一面。不过本片的剪辑很灵动，让影片始终很有动感和活力。音乐的运用也相当出色——结尾部分以皇后乐队的歌曲为Freddie的一生做了极其精准的概括，真的是完美极了！\n已经无法单纯把本片当做电影来评价了。梦想、摇滚乐、七八十年代、自由、反叛、身份认同、性别与性等等都已融于一体。\n看完电影，我依然相信：摇滚不死！伟大的音乐永存！而这已经足够。"
+    },
+    {
+      "user": "SingLesinger",
+      "avatar": "https://img3.doubanio.com/icon/u2217677-36.jpg",
+      "content": "血脉喷张，热泪盈眶。Fuck the critics, no time for losers ;)"
+    },
+    {
+      "user": "CharlesChou",
+      "avatar": "https://img1.doubanio.com/icon/u55862575-149.jpg",
+      "content": "Rami surely deserves an Oscar in saving this mediocrity mess with his brilliance."
+    },
+    {
+      "user": "YellowRita",
+      "avatar": "https://img3.doubanio.com/icon/u176067689-10.jpg",
+      "content": "主演跟牙叔相似度为0"
+    },
+    {
+      "user": "盲忙",
+      "avatar": "https://img3.doubanio.com/icon/u2206329-131.jpg",
+      "content": "他用生命唱完最后四首歌，我也在电影最后二十分钟里听到几近虚脱，仿佛身临其境看了一场世纪演出，英雄已逝但热情未散，繁华散尽只剩悲壮。并不寻常的传记电影，甚至一开始对剪辑风格不很适应，但越往后却越感觉那些细节的难得与美好，前100分钟都是浅尝辄止，没有一首完整再现，反而让最后的演出更加震撼人心催人泪下。"
+    },
+    {
+      "user": "不良生",
+      "avatar": "https://img1.doubanio.com/icon/u2065435-38.jpg",
+      "content": "走耳不走心。"
+    },
+    {
+      "user": "你大立",
+      "avatar": "https://img3.doubanio.com/icon/u35546552-21.jpg",
+      "content": "不喜欢queen的人也会哭，最感人竟然是under pressure响起的时刻"
+    },
+    {
+      "user": "嘟嘟熊之父",
+      "avatar": "https://img3.doubanio.com/icon/u2201715-15.jpg",
+      "content": "感觉读了一遍百度百科，搭配了一些色彩鲜艳的有声连环画。所有渲染情绪的方式都是最土的那种。"
+    },
+    {
+      "user": "Doublebitch",
+      "avatar": "https://img3.doubanio.com/icon/u1917438-180.jpg",
+      "content": "热泪盈眶难以理智打分，都别嘴炮儿说没活在QUEEN的年代了，赶紧买机票去看你喜欢的那些还在的乐队才是正经事"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "Live Aid做落幕真是超有感染力，看完立刻哭着滚去B站又刷了遍真人版现场作安可。"
+    },
+    {
+      "user": "宋雯婷",
+      "avatar": "https://img1.doubanio.com/icon/u43728521-18.jpg",
+      "content": "平庸粗暴，技巧拙劣。如果我是queen的歌迷，我会觉得受到了侮辱。"
+    },
+    {
+      "user": "血刀老祖",
+      "avatar": "https://img3.doubanio.com/icon/u59999741-4.jpg",
+      "content": "对欧美音乐文化毫无兴趣"
+    },
+    {
+      "user": "发条饺子",
+      "avatar": "https://img3.doubanio.com/icon/u1996037-3.jpg",
+      "content": "拉米马雷克的咬合肌和天包地的门牙比多数流量明星会演戏，不仅教科书一般展示十几种微表情解读，还有种独特的语音表情不同步的延迟表演，完美演绎一个羞涩与狂妄、混球与圣骑士的矛盾体。结尾20分钟高度还原的演唱，每句低吟都有直击心灵的战栗，每次振臂都有撕胸裂肺的激昂，我血压始终保持在140-160，幸亏没有在现场，否则跟唱到\"we will keep on fighting till the end\"时，我应当就自爆了。"
+    },
+    {
+      "user": "寂地",
+      "avatar": "https://img3.doubanio.com/icon/u1074067-64.jpg",
+      "content": "小时候听过的歌，忽然懂得了它们背后的意义。摇滚的黄金时代一去不回了，我们渐渐长了白发，看着再不会重现的画面红了眼睛。还会去电影院再看一次。"
+    },
+    {
+      "user": "时间之葬",
+      "avatar": "https://img1.doubanio.com/icon/u2126832-179.jpg",
+      "content": "好莱坞套路式的好看，情怀加分式的好看。演唱会的部分毫无疑问是燃点。但关于弗雷迪的心理变化和成长，其实并没有呈现更多的细节"
+    },
+    {
+      "user": "vivi",
+      "avatar": "https://img3.doubanio.com/icon/u2129993-253.jpg",
+      "content": "但是我不是要看你们演他们的演唱会啊"
+    },
+    {
+      "user": "Eveyのn个晴天",
+      "avatar": "https://img3.doubanio.com/icon/u119316126-10.jpg",
+      "content": "有时候电影和音乐就是美好到，让你觉得整个世界的消极都可以被洗刷掉。又一次地令人思考音乐、竞技体育等到底是何等存在，让无数人群付真心地抛头颅洒热血。大概有些人类共通的情绪与legend就是值得并且可以永远留存吧。Freddie演员神貌俱佳，眼神戏非常到位。鼓手的颜值太好，Mary也美丽动人，不光是个好听的电影同时也是美色十足的视觉享受了。喜欢Freddie和爸爸和解的拥抱，喜欢Freddie和队友们坦白AIDS的时候整个乐队的温暖，喜欢Live aid舞台后Jim, Mary和男友看着Freddie的神情，还有每一首歌的精彩绝伦的完美演绎。电影音乐最易触及灵魂。完美的观影体验。三刷纪念。"
+    },
+    {
+      "user": "Richthofen",
+      "avatar": "https://img3.doubanio.com/icon/u57124272-1.jpg",
+      "content": "Freddie真是令人厌恶又才华横溢，好在片子最后那场Live Aid太惊艳了，把他从糟糕的私生活里那个无可救药的混蛋拉回到Queen’s Greatest Hit里那个被世人铭记的传奇。当片中他在温布利那场告别演出般的演唱会上弹起Bohemian Rhapsody前奏的时候真是让人热泪盈眶。ps. 没人觉得天体博士吉他手长得很像哥白尼和牛顿？pss. 还有Paul很像卖羊肉串的梅西？"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "这部电影的好都是属于皇后乐队的，他们伟大的音乐掩盖了这部流水账电影的平庸，影片没有像《莫扎特传》这种优秀的传记电影一样，找到一个合适的角度和线索来创造性表现弗雷迪特立独行的创作生涯，最不能忍的是比起弗雷迪来，拉米马雷克太丑了。"
+    },
+    {
+      "user": "TWY",
+      "avatar": "https://img3.doubanio.com/icon/u80915199-11.jpg",
+      "content": "勉强两星，电影引发的所有好感都是Queen的，而影像本身呈现音乐韵律的水准几乎为零（看看结尾真实录像高下立判），最后演唱会再莫名其妙的切走到一些外人身上真是蠢的不能更蠢。"
+    },
+    {
+      "user": "水英俊",
+      "avatar": "https://img3.doubanio.com/icon/u49707884-83.jpg",
+      "content": "Rami Malek那叫演技？撑死只能算模仿。编剧还有Peter Morgan哈哈哈！是是是，全世界都是皇后的粉丝。比起拍给观众，电影更像是乐队成员拍给自己的自恋作品，甚至一度把Freddie Mercury塑造成了反派，这不是欺负死人吗……"
+    },
+    {
+      "user": "godannar",
+      "avatar": "https://img3.doubanio.com/icon/u1434290-241.jpg",
+      "content": "看完后有一点点感动，然而正是这一点点感动让我愤怒了，因为好莱坞流水线又把弗莱迪框进了那个乐队起起伏伏私生活来来去去最终一曲尽救赎的公式中去。弗莱迪是谁？弗莱迪是火焰啊，是终其一生也未曾熄灭的，永远绽放起舞的火之花啊，那个瘦弱的神经质除了龅牙哪一点像他了？在舞台上他甚至不能纯真地笑上一次！"
+    },
+    {
+      "user": "L'automne",
+      "avatar": "https://img3.doubanio.com/icon/u47974911-21.jpg",
+      "content": "之前的预告片有点崩，这个编剧又亲手毁过霍金和丘吉尔，所以期待值非常低，没想到完全被震到！片子用细节捕捉到费雷迪对父母、太太、队友所深藏的复杂感情，又不忘显露他的诙谐可爱。一个活生生的费雷迪渐渐拼凑起来，最后带着观众一起沉入他震撼人心的表演现场里。男主演技可圈可点，将费雷迪对家人爱人和音乐的爱都藏在了表情里。几处剪辑也让人印象深刻。比较不喜欢的是美国巡演那一段的表现形式太PPT。最喜欢在录音室录制波希米亚狂想曲的那一段，以及费雷迪告诉妻子自己是双性恋那一段。"
+    },
+    {
+      "user": "蓝色波丽露",
+      "avatar": "https://img3.doubanio.com/icon/u148027236-35.jpg",
+      "content": "就算不是生在那个年代，就算不是皇后乐队的粉丝，就算连摇滚乐都很少听，可是在这部电影里，就完全被带入那个世界。那些熟悉的歌曲，震撼人心的演唱会场景，30年40年过去了，依旧经久不衰。"
+    },
+    {
+      "user": "木由",
+      "avatar": "https://img1.doubanio.com/icon/u67858795-18.jpg",
+      "content": "观影前跟朋友吐槽一群人闲的没事干居然妄想做Queen的传记，简直是自取灭亡。现在，嗯，真香。"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "好棒啊，一个音乐天才的燃烧过程，好久没见这么有感染力的乐队传记片了，难怪朋友圈有人在香港看片之后会激动地第一时间官宣“出柜”！演员太好了，拉米·马雷克灵魂附体，毫无违和感，基本上演活了大家心目中的弗雷迪，最后时刻的演唱会，基本上像一团火焰在炽热燃烧。"
+    },
+    {
+      "user": "焚紙樓",
+      "avatar": "https://img3.doubanio.com/icon/u80722428-35.jpg",
+      "content": "每個人物的「輪廓」都厲害，隨便一顆特寫都能讓人為其演其妝過目不忘。Bryan Singer則是老毛病，他心頭所好的男同志／猶太人孤情只有藏在商業大片當隱喻的時候才顯得犀利，一旦要他正面拍開，空有同情的本質就一覽無遺。"
+    },
+    {
+      "user": "离净语",
+      "avatar": "https://img1.doubanio.com/icon/u1244527-118.jpg",
+      "content": "强调各种正确，毫无电影魅力。"
+    },
+    {
+      "user": "法兰西胶片",
+      "avatar": "https://img1.doubanio.com/icon/u2316731-67.jpg",
+      "content": "两星半吧，从头到尾一切都小心翼翼的，完全没有进入到人格深处，包括最后音乐会的壮阔也有种再多一个人就不够整齐的洁癖。"
+    },
+    {
+      "user": "渡口无边",
+      "avatar": "https://img3.doubanio.com/icon/u50386362-52.jpg",
+      "content": "2.5。脸谱化的人物构建只是作者对于艺术家“疯魔”印象的惯有思维和臆想吧，最致命的是，对Freddie的魅力展现能力全无。叙事稀烂，连拯救生命的live场都没啥张力，两小时不如结尾的当年两分钟录像。"
+    },
+    {
+      "user": "海带岛",
+      "avatar": "https://img3.doubanio.com/icon/u2717987-15.jpg",
+      "content": "剧本碎片到单薄 没有任何电影魅力 一切高潮都来自音乐本身"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "入坑Queen不是如雷贯耳的《We Will Rock You》也不是感人肺腑的《We Are The Champions》，而是看《僵尸肖恩》时那首非常契合氛围的《别拦我》，此后就一发不可收拾：神探夏洛克里听到《我想推翻》，自杀小队听到《波狂》，钢铁侠听到《吃土》，甚至在JOJO里因为吉良吉影想到《杀手皇后》。\n什么是经典？这就是伟大。"
+    },
+    {
+      "user": "Pearciac",
+      "avatar": "https://img3.doubanio.com/icon/u4810525-152.jpg",
+      "content": "剧本对主角的刻画真是恶俗至极，drama的点一个都不能少，男主表演之肤浅也成功把主角演成了一个讨人厌的drama queen，一点魅力都没有，本尊片尾出现几分钟的巨星魅力简直把前面130分钟直接衬成惨案。也只有靠几首神曲救场了，好多人大概是冲电影院的音效听歌去的吧，其实我也留到了【演出必须继续】唱完。和【明星诞生】半斤八两水平，想不通媒体评价怎么会天上地下。@Intrastevere"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "好喜欢男主的长相！有年轻时的Steve Buscemi味！"
+    },
+    {
+      "user": "Sidney",
+      "avatar": "https://img1.doubanio.com/icon/u83192271-17.jpg",
+      "content": "（我是一个Queen歌迷，电影好听好看很感动；但是作为一部剧情片，看完我有点失望了...）那首Queen的Bohemian Rhapsody有五个章节，从向上帝倾诉到命运审判，从金属的反抗到不甘认命。Freddie好像就是这样起起伏伏，至少在电影里是的，曾饱受争议也曾迷失堕落，但在摇滚音乐上却从不屈服直到生命绝唱。Queen也无疑是最伟大的，甚至多数人看这部电影都是为了看Freddie的故事听Queen的音乐，当一场华丽震撼的演唱会来看，而不是为了看这部剧情空洞零碎的电影本身。除了男主角的故事线，身边的木偶角色都完全立不起来，情感仅仅浮于表面，莫名其妙的举止看不出缘由。"
+    },
+    {
+      "user": "過期罐頭",
+      "avatar": "https://img3.doubanio.com/icon/u4627124-21.jpg",
+      "content": "皇后乐队会被人铭记，这部电影会迅速被人遗忘"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "从籍籍無名到傳奇巔峰，雞皮疙瘩起了一身又一身，熱淚盈眶。搖滾似乎總意味著華麗災厄的人生，用音符將生命發掘得血肉模糊。但是，承受這些迷狂、缺失、孤獨，再用一曲道盡生命之虛妄與豐盛，他們做到了。Salute to the wounded soldiers. "
+    },
+    {
+      "user": "朝阳区陆依萍",
+      "avatar": "https://img3.doubanio.com/icon/u50060410-16.jpg",
+      "content": "整体就像那种5分钟看完某某的一生那种小视频差不多，表演是OK的，虽然最后的LIVE表演是假唱，但还是想和Rami Malek啪啪...#片名叫波西米亚狂想曲，但是全程没听这首歌哎#"
+    },
+    {
+      "user": "康报虹",
+      "avatar": "https://img3.doubanio.com/icon/u89528523-10.jpg",
+      "content": "世界上有两个个Freddie：\n一个是舞台上的Freddie，自信满满，独领风骚，像是掌控一切的君主。\n另一个是Mary面前的Freddie，含情脉脉，满怀期待，像一个热恋中的少年，又像一个害羞而拘谨的孩子。"
+    },
+    {
+      "user": "文泽尔",
+      "avatar": "https://img3.doubanio.com/icon/u1781395-110.jpg",
+      "content": "看过不少queen的现场蓝光 这部传记电影甚至连音乐部分都是不合格的 调色没有合理匹配出氛围 马雷克饰演的freddie不够骚气也不够有力 没有对比就没有伤害 建议大家可以去看一下比如蒙特利尔现场的那个版本 至于对freddie其人的理解 如果有兴趣的话 真的还是推荐去看一些货真价实的纪录片 比如rock the world都好 总体是一部令人失望的传记电影"
+    },
+    {
+      "user": "失意的孩子",
+      "avatar": "https://img3.doubanio.com/icon/u64544029-22.jpg",
+      "content": "7.1 琐碎平庸廉价，只要不唱歌就如坐针毡。"
+    },
+    {
+      "user": "柴斯卡",
+      "avatar": "https://img3.doubanio.com/icon/u53336808-163.jpg",
+      "content": "专程留到imax上映了才来看 边缘男孩的灵魂呐喊 真的太好看了 太热血了 看哭了好几次 开场就炸裂 仿佛自己站在体育场的中央 对熟悉Queen音乐的人来说一秒钟都不能错过 否则就会与重现伟大诞生的刹那失之交臂 摇滚乐真是大不列颠国粹 我这把年纪了辞职去当摇滚明星还来得及吗？！！"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "戏说不是胡说，改编不是乱编。★★"
+    },
+    {
+      "user": "锦",
+      "avatar": "https://img3.doubanio.com/icon/u3505640-5.jpg",
+      "content": "作为传记片实在平庸，不过结尾的live aid还是泪目。这一场戏几乎完全复刻演唱会现场，创作是最接近神迹的事情，创作者就是神。然而这部电影最缺的就是创作  @ Philippines "
+    },
+    {
+      "user": "猪大腿",
+      "avatar": "https://img3.doubanio.com/icon/u3830249-160.jpg",
+      "content": "除了“最花里胡哨”和“最华而不实”之外不应该入任何年度电影榜单的前三，比《冲出康普顿》还差二十个《海盗电台》。歌好听，是真的好听，没有这部电影的存在也会永远一样地好听。"
+    },
+    {
+      "user": "牛腩羊耳朵",
+      "avatar": "https://img1.doubanio.com/icon/u1761378-208.jpg",
+      "content": "I want every paire of jean of Freddie 【可以拉黑写剧本的人了，这么有魅力的人物写成这样"
+    },
+    {
+      "user": "九個9",
+      "avatar": "https://img1.doubanio.com/icon/u26731068-39.jpg",
+      "content": "电影院里听原声，想想都奢侈的感动。"
+    },
+    {
+      "user": "无耻不混蛋",
+      "avatar": "https://img3.doubanio.com/icon/u1400288-42.jpg",
+      "content": "传记片最难的地方，或许在于：在像，与不像之间，究竟该如何取舍。这部电影，显然把握到了传记片的精髓——比起皮毛来，骨头里的，才更重要。影片聚焦顶级华丽摇滚“皇后乐队”主唱传奇一生，最后15分钟，在live aid上的演唱，直把我看得稀哩哗啦。在伟大谢幕前，燃烧到最后一刻，Freddie做到了。影片选择止于此，显然是最聪明的选择。"
+    },
+    {
+      "user": "Panda的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u53485894-4.jpg",
+      "content": "我是如此幸运能够如此狂（享）爱（受）着电影和音乐！无论自己的人生漫长或简短，在这段光阴里，我完全不用担心这两个精神食粮会匮乏，因为电影和音乐我这辈子都看不完也听不完。—— 幻想着 Oasis 看完 Queen 的《Bohemian Rhapsody》能复合重组并有他们自己的音乐传记电影《Morning Glory》，也期待着未来有一天能看到 Linkin Park 的《Hybrid Theory》、Nirvana 的《Nevermind》、The Beatles 的《Abbey Road》、Pink Floyd 的《The Wall》…Coldplay 的《Viva La Vida》、Radiohead 的《OK Computer》、Muse 的《Absolution》、Suede 的《Coming Up》、Placebo 的《Sleeping With Ghosts》、Maroon 5 的《Overexposed》、Green Day 的《American Idiot》、OneRepublic 的《Dreaming Out Loud》…以及五月天的《自传》、苏打绿的《你在烦恼什么》……"
+    },
+    {
+      "user": "悍客.罗",
+      "avatar": "https://img3.doubanio.com/icon/u2366981-316.jpg",
+      "content": "刚看完，被震撼！IMAX食用效果更佳！"
+    },
+    {
+      "user": "心生",
+      "avatar": "https://img3.doubanio.com/icon/u45811878-20.jpg",
+      "content": "LIVE | 鲜活"
+    },
+    {
+      "user": "天马星",
+      "avatar": "https://img3.doubanio.com/icon/u68499588-11.jpg",
+      "content": "看看豆瓣评论的关键词「音乐」、「情怀」、「Live Aid」你就知道这是一部没啥内涵的大型演唱会串烧，所有好的方面都来自于皇后乐队的经典音乐，而在挖掘影像叙事的深度和建立人物形象的弧光上都毫无建树，这不是一部传记片该有的样子，甚至这都不能算一部电影。"
+    },
+    {
+      "user": "拐子流星锤",
+      "avatar": "https://img1.doubanio.com/icon/u26384755-19.jpg",
+      "content": "这主角儿让徐锦江演可能还原度更高"
+    },
+    {
+      "user": "TimberNord",
+      "avatar": "https://img1.doubanio.com/icon/u47222520-67.jpg",
+      "content": "fucking goosebumps"
+    },
+    {
+      "user": "shu",
+      "avatar": "https://img1.doubanio.com/icon/u1543465-99.jpg",
+      "content": "太特么阳光健康了，适合小学生集体观影！男主角就一副好人脸，缺乏丰富立体层次。而且全片很直，对于Freddie 探索自身性向的方面几乎就是一曲带过。 每一首歌都比这电影好无数倍！"
+    },
+    {
+      "user": "Xaviera",
+      "avatar": "https://img3.doubanio.com/icon/u48953772-16.jpg",
+      "content": "不好意思我哭着打五星.是的，确实是流水账，但就是他妈的燃啊！是的，Rami Malek确实演得有点过火，尤其是龅牙的部分，但他的眼神变化实在是演得太动人了，最后Live Aid上台前那个眼神真的狂飙泪。是的，就算和真正好的传记电影有距离，而且如此碎片式地描写会造成情感断层，但He is fucking Freddie Mercury!!!!“没有风格就是最大的风格，我们都是怪人，不受拘束地想做能给所有人共鸣的音乐。” Yes,The show must go on."
+    },
+    {
+      "user": "冰山的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u57004536-34.jpg",
+      "content": "毫无重点。"
+    },
+    {
+      "user": "MackAFish",
+      "avatar": "https://img1.doubanio.com/icon/u55471925-9.jpg",
+      "content": "前段时间发现肚子里的宝宝对会随着Queen的金曲起舞，我们还是很勇敢地去电影院看了。嗯，丫头在肚子里翻滚了大概俩小时吧。。。又：人家一听MJ就睡觉，我先mark下，等生出来再试试"
+    },
+    {
+      "user": "猫伯爵",
+      "avatar": "https://img1.doubanio.com/icon/u1126291-7.jpg",
+      "content": "看着看着就忘记了是电影，不是歌迷却熟悉每一首歌，音乐是要听现场的，声浪带着原始的力量直接将我包围，不知道怎么就哭了。"
+    },
+    {
+      "user": "Ada的B计划",
+      "avatar": "https://img3.doubanio.com/icon/u137426958-11.jpg",
+      "content": "无法想象任何人将此称之为电影，只看到狰狞的爪牙，看到弗雷迪第一次开嗓时立刻切向两人的突然欣喜而惊讶的神情了吗"
+    },
+    {
+      "user": "shoegazerbaby",
+      "avatar": "https://img1.doubanio.com/icon/u3823154-467.jpg",
+      "content": "平庸到尴尬，主角把Freddie演丑了，摄影是MV视角，剧本是避重就轻，拍不出乐队乃至Freddie对于音乐的热情是最可惜的，一切都是那么生硬俗套，仿佛一个传记模板"
+    },
+    {
+      "user": "深邃",
+      "avatar": "https://img1.doubanio.com/icon/u80075921-7.jpg",
+      "content": "这片很好的说明了布莱恩辛格为何无法成为真正的一线大导演，那么有感染力的题材居然就这样拍成了流水账。要知道最后那场复刻不是电影的功劳，是当初Queen自己现场表现的功劳啊。那些看到这个伪现场就激动的粉丝为什么不去多看几遍真的现场呢，至少那里的观众不是电脑特效做的，也不是电影里找的这种群演假装嗨嗨的，那才是互动好吧。前面剧情需要的改编也就算了，不能容忍最后这场秀为什么有两首歌没了，你都想靠这场秀来找补你羸弱的片子了还不完整呈现？这连我都不能接受，粉丝真的能接受么？辛格你要有想法你学学丹尼鲍尔和艾伦索金，我干脆不拍秀我就拍演唱会前面的事照样震撼到你。我很喜欢辛格的嫌疑人和x战警系列，但这片子真的确认他的失败不是什么超人归来的魔咒，就是能力不行，不信将来诺兰碰一碰这个题材就知道了。"
+    },
+    {
+      "user": "Ice Bear",
+      "avatar": "https://img1.doubanio.com/icon/u48027905-19.jpg",
+      "content": "三刷完还是很难给分，明明故事结构和镜头语言都比较薄弱，但情绪还是被调动起来了。剪辑和音乐配合的很优秀，比如love of life配合Freddie向Mary坦白的戏，who wants to live forever配合确诊的戏，under pressure配合Freddie在雨中的戏，让人忍不住鼻酸，；another one bites the dust配合gay bar的戏真sexy嘿嘿。最后20分钟的Live Aid燃炸，想跟着Ay-Oh和挥着手唱radio ga ga和we are the champions。人物的感情戏拍得挺细腻的，台上非凡的掌控力，台下的失控，孤独，安全感和感情的缺失，媒体的穷追猛打，身边人的背叛。有一些剧情对话需要对皇后有点了解才能理解，比如i want to break free的mv被美国禁播，失去美国市场，乐队结成十几年的疲倦，让Freddie和乐队不欢而散的剧情合理。片子完全可以加长为3小时，更多的探究Freddie的成长才华和事业。"
+    },
+    {
+      "user": "南悠一",
+      "avatar": "https://img3.doubanio.com/icon/u3739650-36.jpg",
+      "content": "自媒体一篇文章原标题是“看完《波西米亚狂想曲》，非‘皇后’迷成功被圈粉！”我的评价是，“看完《波西米亚狂想曲》，非‘皇后’迷昏天黑地路人转黑！”"
+    },
+    {
+      "user": "seabisuit",
+      "avatar": "https://img3.doubanio.com/icon/u1293096-21.jpg",
+      "content": "可能由于在台北的宾馆里没看完令人不快的金马颁奖就赶着去午夜场，最后20分钟的Live Aid被发泄式的哭到颤抖，一连串经典音乐和完美还原现场的冲击力还是招架不住，尤其那首《We are the champions》。马雷克饰演的主唱佛莱迪虽然形不像但神像，对皇后乐队并不熟悉的我回来翻看真人视频才发现他在诠释人物时加入了不少个人的动作来演活这个巨星。印度裔的面孔和家庭，双性恋自卑自大的性格以及单飞得病堕落，剧情表现得并不好。就是在登上温布利的舞台后从同伴观众和演出性质能看到80年代东西方还存在壁垒并没有全球化时那种特有的纯粹激情和团结。艺联删减版告别场深影二刷"
+    },
+    {
+      "user": "赱馬觀♣",
+      "avatar": "https://img3.doubanio.com/icon/u2101822-90.jpg",
+      "content": "白兰度嘴里塞棉花，扩大口腔面积，说话含糊不清，成就教父；马雷克嘴前增门牙，扩大口腔面积，音域显著加宽，再现皇后。"
+    },
+    {
+      "user": "惘然",
+      "avatar": "https://img1.doubanio.com/icon/u1240460-27.jpg",
+      "content": "演员表演比剧本故事好，歌唱部分比剧情部分好。"
+    },
+    {
+      "user": "Impulcie_🐘",
+      "avatar": "https://img3.doubanio.com/icon/u96804322-101.jpg",
+      "content": "我为什么不直接翻看当年 Live Aid 现场…… 这样的片子居然能直逼9分…… 就算高分能吸引来更多人去了解Queen去听他们的歌，还是无法接受。所有令人感动的点是因为人物和歌曲本身，并不是因为电影。Queen 很牛逼很伟大，但这片儿就是 totally bullshit。"
+    },
+    {
+      "user": "朱熠",
+      "avatar": "https://img1.doubanio.com/icon/u1514785-29.jpg",
+      "content": "蜻蜓点水般的碎片化叙事，适合粉丝，不适合路人"
+    },
+    {
+      "user": "席德",
+      "avatar": "https://img3.doubanio.com/icon/u1145437-152.jpg",
+      "content": "一直在等Rami Malek演厄齐尔，不曾想竟然等来了Freddie Mercury？！一副假龅牙配上那双三星堆大眼睛实在太出戏，直到乐队第一次公开演出，梅博士轻轻一句“Ready Freddie？”心跳才腾地加快起来。但是接下来很长一段又像在看《Glee》——高中生幼稚撕逼，只有听歌的时候爽。音乐确实用得很好，尤其是Under Pressure，前奏几个节拍就让人感到了紧张。后半段有泪点，所以结尾处Live Aid那整整13分钟的翻拍表演也像过山车最后的大翻转一样充满气势（不是歌迷的人此刻可能骂街）。也庆幸电影在这里落幕，让Mercury的形象定格在最辉煌的一刻。所以布莱恩·辛格这家伙做人可能不行，出活还是有保障的。最后还是要说，黑客小哥始终使我出戏。"
+    },
+    {
+      "user": "tintin",
+      "avatar": "https://img1.doubanio.com/icon/u1557995-28.jpg",
+      "content": "炸裂，年度前三"
+    },
+    {
+      "user": "4cats",
+      "avatar": "https://img1.doubanio.com/icon/u1021572-37.jpg",
+      "content": "等了二十年的传记片。cry my eyes out in the cinema！The show must go on coz we are the champions!（补充一下，当演唱会看，不要当传记片看）"
+    },
+    {
+      "user": "某四",
+      "avatar": "https://img3.doubanio.com/icon/u1184438-35.jpg",
+      "content": "如果人物外形与表演现场的“神还原”算优点，这可能是本片最大的优点了，然而对一部传记片来说，光有工匠精神显然是不够的……最难接受的是We Are The Champions被拍成了We are family，老师，这是举世无双的Queen欸，能不能别搞得这么速激？【喂】不过拉米•马雷克小哥璀璨的眼球好适合拍特写啊！最后说一点小事：看到有小朋友说，本片虽然不够完美，但是成功地唤起了人们对皇后乐队的记忆……大兄弟啊你成功唤起了我的吐槽之魂！只要人类还在继续开奥运会、踢世界杯，皇后乐队就不会被忘记你信不？"
+    },
+    {
+      "user": "阿巴厮",
+      "avatar": "https://img1.doubanio.com/icon/u1078120-58.jpg",
+      "content": "传说中的最后二十分钟还没看到，但是快要被无聊死了，同看的文青妹妹已经在玩开心消消乐，同看的假眼镜去煮粥了，他压根就不认识谁是皇后乐队。如果非要被最后的演唱会点燃，那干嘛不去看演唱会现场呢？"
+    },
+    {
+      "user": "荔枝超人",
+      "avatar": "https://img3.doubanio.com/icon/u1114759-42.jpg",
+      "content": "剧作本身中规中矩，但是各部分配合的相当厉害，尤其是剪辑和男主的亮眼表现。综合来说，单是最后15分钟便可值回票价！"
+    },
+    {
+      "user": "poppy",
+      "avatar": "https://img3.doubanio.com/icon/u5023543-5.jpg",
+      "content": "最后的表演眼泪不停流，直击心灵的颤栗感，感动的不知如何是好，把我陷在影院座位里动弹不得。这种体验真好。唯有音乐是最伟大的艺术，使你我共情，纯粹却有千钧之力。天才总是捧着一颗澄净的心趟尘世的泥，每一次寂寞的拨打电话都让人很心疼。只希望你献给世人最棒的音乐礼物，世界能给你最温柔的回礼。记忆里演埃及法老的配角小哥演技竟然这么成熟，每个人的表演都很好。ps：婊子真的不分男女，好想进屏幕爆揍经纪人。"
+    },
+    {
+      "user": "小斑",
+      "avatar": "https://img3.doubanio.com/icon/u1548489-33.jpg",
+      "content": "这部电影有卡拉OK场，算是开辟了一种新类型——互动型。不过真的想听现场合唱还得抱一大团去才去，否则自己一个人羞耻play不来。比起其他那些rocker的传记，这部居然是传统正能量——爱与理解，忏悔与原谅。live aid作为结尾非常完美。当然喽，我有感情分加成。"
+    },
+    {
+      "user": "Enjolras",
+      "avatar": "https://img3.doubanio.com/icon/u49104376-24.jpg",
+      "content": "作为一部传记电影并不那么杰出，能够熟练驾驭商业片的布莱恩·辛格擅长把故事讲得轻快顺畅，但对于人物的刻画除了龅牙叔之外都乏善可陈，尤其是对Mary这一前妻角色，是如何在龅叔的生命中除却爱情依然可以扮演灵魂伴侣的角色的，只是点到即止了，很可惜。然而皇后音乐的力量太过伟大，再加上主演充满张力的表演和整个主创团队对皇后的诚意还原，使得影片的观赏性大大提升，每次音乐响起LIVE开演的时候都足够激动人心，足够抹去一切瑕疵了。"
+    },
+    {
+      "user": "Goodlife07",
+      "avatar": "https://img3.doubanio.com/icon/u162449201-20.jpg",
+      "content": "最伟大的乐队，最酣畅淋漓的表演！活生生演唱会，音乐听得热血沸腾(好想看IMAX )观感好于明星诞生，情节还是平平淡淡，但总体更稳重，不像明星部分有些崩。又是一群传奇人物的诞生，也可叫＂一群明星的诞生＂，但弗莱迪永远是队的精神核心。音乐的震撼下叙述没有深入挖掘内在，是只在表面泛泛而谈，不过它带来的是人们的回味与狂欢，至少留下了许多宝贵的记忆。"
+    },
+    {
+      "user": "晚不安",
+      "avatar": "https://img3.doubanio.com/icon/u50205806-15.jpg",
+      "content": "低开高走，渐入佳境。前一个小时人物形象相当破碎，用满溢的歌曲去拼凑乐队成名的过程，这个托举的动作非常无力。后半段收束到“浪子回头”这个老套而经典的主题，往一处使劲后Freddie的挣扎愈发清晰。最后演唱会的二十分钟表演直击人心，调度上完爆《一个巨星的诞生》——它是这列摇滚火车开足马力奔向的终点。电影拓展了观众的时空体验，有一种东西确实掀翻了天空。但必须承认的是，音乐的力量凌驾了影像的力量、戏剧的力量。"
+    },
+    {
+      "user": "超级玛丽·苏",
+      "avatar": "https://img3.doubanio.com/icon/u2622458-52.jpg",
+      "content": "辛格作为一名导演究竟多么缺乏想象力啊。"
+    },
+    {
+      "user": "BBpanda",
+      "avatar": "https://img1.doubanio.com/icon/u1385730-87.jpg",
+      "content": "就当看演唱会了……"
+    },
+    {
+      "user": "何婊砸",
+      "avatar": "https://img3.doubanio.com/icon/u35346929-91.jpg",
+      "content": "IMAX完全看哭！！！！！Freddie is amazing!故事流水账欠缺重点，Queen激奋人心的音乐，震撼立体的音效，绝佳视听体验和演员的精湛表演救场。Live Aid如果可以长点就好了！四位各怀其才，各施其长，亲如手足的优秀年轻人，极富创造力，戏剧性感染力，大胆糅杂各元素的音乐风格和舞台表演，尤其狂野风骚无比的主唱龅牙叔，使Queen成为这个星球上最伟大，最具感染力的摇滚乐队！每次将镜头对准现场表演的部分我都忍不住拍手抖腿念唱，只想跳起来跟着音乐摇摆！！！！！没想到Freddie也是超级猫迷一位！！！没想到在片里也能吸猫(´･ω･`)！鲜嫩可爱的Ben Hardy演技最投入忘我！Joseph Mazzello的炯炯和原型最像！！！简直一模一样！！其次是帅哥Gwilym Lee的校长！！Lucy Boynton继《初恋这首情歌》(也有AG叔)后又在摇滚片里演乐队主唱的女友了。"
+    },
+    {
+      "user": "zeeko",
+      "avatar": "https://img3.doubanio.com/icon/u2199183-32.jpg",
+      "content": "星星全给皇后乐队，电影本身跟个500字作文差不多。"
+    },
+    {
+      "user": "凹凸",
+      "avatar": "https://img3.doubanio.com/icon/u60689518-41.jpg",
+      "content": "出色的表演和视听语言 拯救了一个连流水账都称不上的剧本"
+    },
+    {
+      "user": "朝阳区妻夫木聪",
+      "avatar": "https://img1.doubanio.com/icon/u57750369-57.jpg",
+      "content": "救命，最后那场Live Aid太他妈燃了吧，即便理性上认为这部传记片特别流水账，尤其是剧作恐怕连平庸都不及，但感性上还是在最后被煽哭，而我甚至都不是Queen的粉丝啊…之后去YouTube上搜了当年的现场，真的是神还原，对于我们这些无法亲身经历那个年代那个现场的观众们，这部影片或许勉强可以算是一种小小的弥补吧（如果能看大银幕就更好了）。音乐太美妙了，伟大的音乐是全人类之光。"
+    },
+    {
+      "user": "玄辂",
+      "avatar": "https://img3.doubanio.com/icon/u4665983-94.jpg",
+      "content": "也好意思说自己是弗雷迪墨丘里的纪录片"
+    },
+    {
+      "user": "基瑞尔",
+      "avatar": "https://img1.doubanio.com/icon/u57783734-258.jpg",
+      "content": "一开始并不太懂当中为了戏剧化处理，为什么一定要犯这么多肉眼可见的错误；然后最喜欢的一首《Under Pressure》显然没有“唱”过瘾；“小司机”Allen Leech让人心碎死了...但最后对Live Aid的还原和长达20多分钟的震撼，冲掉了内心所有挑剔、怀疑和无意义的比较，只剩下注视着大屏幕上憨憨地望着Rami的一张痴汉脸和不经意起了鸡皮疙瘩的手臂，因为这一刻终于知道无论是真人还是饰演他的演员，都在深切地感动我，这便是传记片不可言喻的魅力。"
+    },
+    {
+      "user": "小区爱豆冲浪里",
+      "avatar": "https://img3.doubanio.com/icon/u128161138-76.jpg",
+      "content": "A bit cheesy. 作为电影来说节奏控制得不太好。感觉像在看幻灯片。歌，那歌当然都是好听到妈都不认识的了。"
+    },
+    {
+      "user": "很好很会吃米",
+      "avatar": "https://img1.doubanio.com/icon/u51085162-18.jpg",
+      "content": "不知道怎么打分。是一个没什么深度，人物不够丰满，演得也真的一般的三星传记片。但，但，但：我永远喜欢皇后乐队！！！！！！！！！"
+    },
+    {
+      "user": "@large",
+      "avatar": "https://img3.doubanio.com/icon/u56800653-14.jpg",
+      "content": "歌是好歌，传奇是传奇，所有令人激动落泪的点都与电影本身无关，rami malek的表演矫揉造作，透露着一股子直男装gay的气息，毫无艺术感，完全拙劣的模仿。鼻子假到令人出戏，电影节奏混乱，配角全都脸谱化没有生命，仿佛是假人一般的存在。"
+    },
+    {
+      "user": "汪金卫",
+      "avatar": "https://img3.doubanio.com/icon/u4285566-30.jpg",
+      "content": "【喜满客绝色影城】很不错的皇后乐队主唱传记片。即使对皇后乐队不熟悉的观众也能看得很爽快，并能感受到男主的演技。《We will rock you》等各种耳熟能详的经典金曲轮番上演。结尾高度还原Live Aid，制造全片冲击力最强的最高潮，在各种摄影机运镜调度下如同亲临演唱会现场一般目瞪口呆，激动震撼//二刷特地选的Screen X影厅，效果好到差点被燃哭，比普通厅观感好百倍。所有的演唱会段落都配备了左右两侧投屏，270度环绕画面带给观众身临其境VR视频般的震撼感受。尤其是20分钟Live Aid表演全程三面屏，一个空中俯拍长镜头下来立刻激动到头皮发麻。犹如亲临现场般！更妙的是记者会一段，两侧画面与正面同步闪现闪光灯效果，加以压抑的画面，更加凸显弗雷迪内心的焦虑。绝对是用心设计的！绝非鸡肋"
+    },
+    {
+      "user": "beige babe",
+      "avatar": "https://img3.doubanio.com/icon/u38198766-115.jpg",
+      "content": "PPT式电影，三颗星都送给Queen"
+    },
+    {
+      "user": "Capariel",
+      "avatar": "https://img3.doubanio.com/icon/u98400017-14.jpg",
+      "content": "\"You can do anything with my legacy,you can do anything with my music,but never make me boring.”——Freddie Mercury"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "无可争议的影帝，灵魂附体似的境界。希望能有机会补看IMAX版，就为了最后20分钟也值得。7.5/10"
+    },
+    {
+      "user": "犹在镜中",
+      "avatar": "https://img3.doubanio.com/icon/u93158337-283.jpg",
+      "content": "怎么会比本届奥斯卡最佳影片最有力的竞争者巨蛋还烂呢？"
+    },
+    {
+      "user": "胡一郎",
+      "avatar": "https://img1.doubanio.com/icon/u58290287-18.jpg",
+      "content": "拍的什么傻吊玩意 海伦娜卡特的扮相演天赋异禀的钟楼怪人？一个劲的嘬牙花子 龅牙叔也不是这么表现的吧 整场金曲串烧 剧情什么的要不要吧 就拍成这德行 尽管无数镜头给尬感动的前妻男友 尽管突然一个闪现镜头表达没眼光的发行商追悔莫及 最后大合唱还是让人感动 你试试 闭上眼睛不看更感动 你看有时候一锅老鼠屎也未必坏的了艺术家的天才创作 人是音乐家 让你拍出来了个没经历没高光没冲突没转变的二维平面大傻吊 （对 连高光都是蹭的金曲串烧和专辑封面）真棒 另外 优点有没有呢 大致是有的吧 或许有"
+    },
+    {
+      "user": "猪头妖怪",
+      "avatar": "https://img1.doubanio.com/icon/u2437825-49.jpg",
+      "content": "平心而论，从单纯的电影角度来看，本片绝非出类拔萃，实在是受音乐和粉丝加持太多。而我作为一个歌名和歌手千年对不上的人，看完才发现那么多好听的歌居然都是出自Queen啊……"
+    },
+    {
+      "user": "五花王",
+      "avatar": "https://img3.doubanio.com/icon/u1000380-6.jpg",
+      "content": "在去波希米亚的飞机上看完的波希米亚狂想曲，算不算是一种缘分？The Queen的作品里我最喜欢的一首歌叫《The Show Must Go On》，就像整个Glam Rock时代结束于Disco一般，重金属乐队在90年代末也纷纷去搞电音了，舞台之下与舞台之上，人格的对立与统一永远是Rock Star绕不开的话题"
+    },
+    {
+      "user": "咖喱娜",
+      "avatar": "https://img1.doubanio.com/icon/u4901541-128.jpg",
+      "content": "我相信，这部电影之所以被追捧被铭记，是因为Freddie Mercury和Queen炫目的魅力、惊艳的才华和传奇的经历，绝不是流水账似的剧情和复刻机般的模仿。"
+    },
+    {
+      "user": "摔死的鬼魂",
+      "avatar": "https://img1.doubanio.com/icon/u30712419-8.jpg",
+      "content": "之前因为删减考虑不去看，毕竟原则性问题。最后还是没忍住。现在我只想大叫皇后乐队天下第一！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！"
+    },
+    {
+      "user": "帕拉",
+      "avatar": "https://img3.doubanio.com/icon/u58059498-5.jpg",
+      "content": "乐队成长史和弗莱迪的自我认知过程两条线，很常规的叙事。一切都中规中矩的情况下，导演把这个故事拍得很燃很有气势，当然拉米·马雷克的表演也是很厉害的。[B-]"
+    },
+    {
+      "user": "周游雪场",
+      "avatar": "https://img3.doubanio.com/icon/u3285194-4.jpg",
+      "content": "下班之后跑去看。到了最后的演唱会，安静的影厅里开始响起口哨声，击掌声，跟随大屏幕里欢呼的观众。有青少年跑到出口通道的地方对着屏幕开始扭动。我身边的女孩儿，在手提包上跟着旋律击鼓。开始有人们举起手来晃动。仿佛在看一场真正的live。在字幕出现之后，人们从座位上站起来，模仿freddie著名的动作。在荧幕前跳舞。 摇滚还没有死。"
+    },
+    {
+      "user": "德卡的羊",
+      "avatar": "https://img3.doubanio.com/icon/u146177041-46.jpg",
+      "content": "60/100，其实什么都是套路，故事虽然实但是浮光掠影，对于弗莱迪的成长与经历也潦草而不真实，但是一切就胜在最后20分钟啊，超高水准复刻！！！所以牛逼的是Queen，而不是这部电影。"
+    },
+    {
+      "user": "阿富汗奸细",
+      "avatar": "https://img3.doubanio.com/icon/u1037929-23.jpg",
+      "content": "❤️"
+    },
+    {
+      "user": "溺水的鱿鱼",
+      "avatar": "https://img1.doubanio.com/icon/u3073495-7.jpg",
+      "content": "波西米亚狂想曲，前奏响起，我已泪流不止"
+    },
+    {
+      "user": "丢了的心",
+      "avatar": "https://img3.doubanio.com/icon/u44901258-4.jpg",
+      "content": "于我而言，或许是无声的悸动"
+    },
+    {
+      "user": "Thor(in)Asgard",
+      "avatar": "https://img3.doubanio.com/icon/u1256697-74.jpg",
+      "content": "不熟悉皇后乐队如我，都觉得电影好看，那是真的好看。"
+    },
+    {
+      "user": "安德烈大叔",
+      "avatar": "https://img3.doubanio.com/icon/u7315956-50.jpg",
+      "content": "虽是皇后乐队官方背书过的电影，但整部影片真的是过于平庸了，影片一切最好的观影体验只和电影之外的文化背景构建的共识有关（当然是皇后杰出的音乐）。那么问题就来了，这部电影有啥存在的意义？难道只是为了提醒我们有空不妨回味一下皇后？"
+    },
+    {
+      "user": "海边的安托万",
+      "avatar": "https://img1.doubanio.com/icon/u108040008-7.jpg",
+      "content": "好看，但是缺少惊喜，开头点出父子矛盾时就知道结尾一定会实现和解，前半段展现乐队大起时也知道后半段一定有低谷和挫折，常见的传记片模式，看时总有一种似曾见过的感觉。音乐是加分项，但也是传主本身自带的，这类戏托人的片子拿几个演技奖提名绰绰有余，难得的是剧本滴水不漏，可能稍显不足的就是主角与保罗的情感线没有清晰呈现，只把保罗作为一个反派处理。将“拯救生命”演出作为结尾再合适不过了，这也是主角对自己人生的一次拯救，歌词唱的就是他自己啊。"
+    },
+    {
+      "user": "η阿青",
+      "avatar": "https://img3.doubanio.com/icon/u138795069-4.jpg",
+      "content": "午夜场还是满场，其它的就不用说了吧。另：在电影院听演唱会真的很赞！"
+    },
+    {
+      "user": "匡匡",
+      "avatar": "https://img3.doubanio.com/icon/u1017464-80.jpg",
+      "content": "20岁的时候对Queen无感，果然现在还是无感。但最后一场 Live Aid 看得真是泪喷啊。吉他手Brian可爱炸了，简直是个软甜萌。"
+    },
+    {
+      "user": "潜意识",
+      "avatar": "https://img1.doubanio.com/icon/u1901885-49.jpg",
+      "content": "文本有瑕疵，剪辑有点乱但已经不重要了，纯粹粉丝向，感动得稀里哗啦，珍贵现场的还原度又很高，看过不少音乐传记片剧情片，这一部很真诚、很讲究，还要再刷。"
+    },
+    {
+      "user": "远子",
+      "avatar": "https://img3.doubanio.com/icon/u14597285-44.jpg",
+      "content": "看完电影重看了下85年Live Aid的现场，简直原版重现，连钢琴盖上摆放的可乐杯子的位置都一模一样。回想当年拿MP3去网吧下载Queen的歌曲，然后单曲循环一整天的经历，也就顾不上剧本平庸的事实了。/(ㄒoㄒ)/~~"
+    },
+    {
+      "user": "雪盲",
+      "avatar": "https://img1.doubanio.com/icon/u1172326-28.jpg",
+      "content": "很多角度看，这电影都傻逼极了。但那可是全世界第六好听的queen啊，怎么忍心打低分呢？相信你们也一样吧。"
+    },
+    {
+      "user": "发条橙",
+      "avatar": "https://img3.doubanio.com/icon/u169721244-4.jpg",
+      "content": "影院重温。过于寡淡琐碎的流水账，完全沾题材的光，剧情和人物都太干瘪扁平，叙事水准完全是“百度百科”式的既定程序。不过导演也挺聪明，他显然准确把握住了观众的“耐烦点”，知道快看不下下去了就赶紧塞歌强行制造“共鸣”，基本上全片都是这个套路，却又屡试不爽。难以想象没有最后二十分钟的“Live Aid”还原时刻，这片子得无趣到什么程度，不争气被燃哭的同时还是默默打个三星走人吧。"
+    },
+    {
+      "user": "JulyChan",
+      "avatar": "https://img3.doubanio.com/icon/u1338358-20.jpg",
+      "content": "瑞思拜。如果我是一个经纪人，第一次听到《波西米亚狂想曲》DEMO时，一定毛孔全开、热泪盈眶。为什么还会纠结于6分钟的歌电台不播放、成本太高、生僻词太多这些破规则……最后一段的神还原简直了，一股电流从脚底板一直酥麻到天灵盖。"
+    },
+    {
+      "user": "大海里的针",
+      "avatar": "https://img3.doubanio.com/icon/u65569388-3.jpg",
+      "content": "基本是音乐传记片的常规套路，剧情没什么深度，音乐很燃。"
+    },
+    {
+      "user": "狼矛",
+      "avatar": "https://img3.doubanio.com/icon/u62855309-3.jpg",
+      "content": "影片很快节奏地讲完了这位双性恋唱将传奇的一生，熟悉的音乐🎵让人太感动了！我敢说Adam Lambert＋Queen超过7年的巡演很大程度上促成了本片的诞生。"
+    },
+    {
+      "user": "RS",
+      "avatar": "https://img3.doubanio.com/icon/u2108995-52.jpg",
+      "content": "这片能告诉陌生人什么，只是一个传奇傻逼的傻逼传奇一生。"
+    },
+    {
+      "user": "肥嘟嘟左卫门",
+      "avatar": "https://img1.doubanio.com/icon/u2411826-9.jpg",
+      "content": "算半个Queen粉丝，以我对其成员的浅薄了解，这片算神还原了吧？不过我这么不懂摇滚的人还看得挺high，是不是意味着这片也是个摇滚外行拍摇滚的成果？就像《海盗电台》那样"
+    },
+    {
+      "user": "萨库拉",
+      "avatar": "https://img1.doubanio.com/icon/u4193588-7.jpg",
+      "content": "身为传记片却塑造了一个单薄的人物应该算某种程度的失败。但谢谢它说你热爱的东西最终会把你拯救。就像此刻有个黑暗的电影院可以让你尽情哭。"
+    },
+    {
+      "user": "加肥猫",
+      "avatar": "https://img1.doubanio.com/icon/u1046236-37.jpg",
+      "content": "虽然影评人诸多挑剔，或许是嫌弃不够堕落和阴暗，甚至太有爱了一点，然而作为真名实姓的传记片，也不能瞎鸡巴扯没影的事情吧。我很喜欢，又暖又燃。最后的演唱会可以多刷几遍！"
+    },
+    {
+      "user": "Z星驰007",
+      "avatar": "https://img3.doubanio.com/icon/u139728342-10.jpg",
+      "content": "最后的演唱会真的是燃到老泪纵横，希望他能多唱几首，然后像王者一样告别舞台、告别他的传奇人生。"
+    },
+    {
+      "user": "-西/西/弗/斯-",
+      "avatar": "https://img3.doubanio.com/icon/u75602395-11.jpg",
+      "content": "很遗憾Queen的传记片被拍成这样，其实从最开始看预告片的流水账就有种不详的预感，再加上导演的中途换人注定导致导演意志、影片风格的不统一。没想到看了成片以后发现娱乐性也大打折扣，风格上居然没有割裂，也足够说明片子多么平稳到平庸了。导演根本从头迷茫到尾，不知道要干什么。传记片不同于记录片，需要对素材有所取舍、截取角度加以编排。前半部分的剪辑极度随意懒散，到后半部分开始心血来潮地利用每个扁平化的人物来烘托主角，除了主角外的人物情感没有任何铺垫。广受称赞的结尾Live在我看来反而是败笔，不经取舍地搬运和还原现场对于节奏感没有丝毫益处，何况导演的场面调度就是一场灾难，化牙叔的生命力为滑稽，不知道是有意往《飞鹰艾迪》喜剧方向靠拢或无意所为，都是不可取的。口型对不上，抠图打光痕迹太重，主演身材略显单薄。"
+    },
+    {
+      "user": "cbvivi",
+      "avatar": "https://img3.doubanio.com/icon/u1017897-5.jpg",
+      "content": "有几处「正能量」到有看日剧的感觉，但有音乐的场景还是无敌。"
+    },
+    {
+      "user": "litanerr",
+      "avatar": "https://img1.doubanio.com/icon/u49500887-17.jpg",
+      "content": "从剧本的零碎和断层中能感受到主创的冲突，这样妥协下的产物真的不是一部好电影。几乎可以说毫无电影质感，完全沦为音乐刺激神经。"
+    },
+    {
+      "user": "黄青蕉",
+      "avatar": "https://img1.doubanio.com/icon/u2524948-39.jpg",
+      "content": "就凭这个音乐也满分了。不过有一点很妙的是演那个存在感很低的贝斯手的约瑟夫也是社交网络脸书四人组里存在感最低的一个，果然天生贝斯手的命啊（？看得我频频笑场"
+    },
+    {
+      "user": "喵呜不停",
+      "avatar": "https://img3.doubanio.com/icon/u79682679-4.jpg",
+      "content": "强烈推荐，一定要去影院看，最好是巨幕，唱得震撼人心呐！尤其是最后LIVE AID那段，腿不由自主跟着抖起来，当弗莱迪喊出Mama那一句，热泪盈眶啊！另外片中几只猫也是“演得”相当可爱，完全被它们迷住了——原来主唱也是严重猫奴，这也是推荐之重要原因！"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "从冉冉上升到分崩离析再到东山再起，真要成为这类电影的路数了。当早期的意气风发滑向彼此的重重矛盾，差点感到就剩一个Brian是依然可爱的，而Mary要比Freddie更叫人心碎。但幸好，还有后半段。生命的高光除了Live Aid的灵魂震颤，还有Jim与Freddie着墨不多的地老天荒。拉米·马雷克当然不错，但阿隆·麦克卡斯克和艾伦·里奇也选得极好。原声如此出色的电影不能在杜比厅或IMAX厅看，太可惜。（哈？亚当·兰伯特演了个卡车司机？）"
+    },
+    {
+      "user": "H!karu",
+      "avatar": "https://img3.doubanio.com/icon/u4206449-155.jpg",
+      "content": "平平的叙事，缺乏深层挖掘的人物形象。Bo Rap的前奏一响起还是热血沸腾。"
+    }
+  ]
+}

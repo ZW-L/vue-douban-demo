@@ -1,0 +1,1333 @@
+{
+  "title": "好莱坞往事",
+  "url": "https://movie.douban.com/subject/27087724/",
+  "rate": "",
+  "id": "27087724",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551119672.jpg",
+  "info": [
+    "导演: 昆汀·塔伦蒂诺",
+    "编剧: 昆汀·塔伦蒂诺",
+    "主演: 莱昂纳多·迪卡普里奥 / 布拉德·皮特 / 玛格特·罗比 / 埃米尔·赫斯基 / 玛格丽特·库里 / 蒂莫西·奥利芬特 / 茱莉亚·巴特斯 / 奥斯汀·巴特勒 / 达科塔·范宁 / 布鲁斯·邓恩 / 麦克·莫 / 卢克·贝里 / 戴米恩·路易斯 / 库尔特·拉塞尔 / 阿尔·帕西诺 / 玛雅·霍克 / 西德妮·斯威尼 / 哈莉·奎恩·史密斯 / 达蒙·海瑞曼 / 凯特·贝兰特 / 洛伦扎·伊佐 / 迈克尔·马德森 / 拉莫·威利斯 / 斯科特·麦克纳里 / 小克利夫顿·克林斯 / 维多利亚·佩德雷蒂 / 吕蓓卡·盖哈特 / 佐伊·贝尔 / 莱斯利·贝加 / 瑞贝卡·瑞滕豪斯 / 萨曼莎·罗宾森 / 莉娜·邓纳姆 / 德瑞玛·沃克 / 克鲁·古拉格 / 丹妮拉·皮克 / 布伦达·瓦卡罗 / 尼古拉斯·哈蒙德 / 米奇·麦迪森 / 詹姆斯·兰德里·赫伯特 / 妮可·加利西亚 / 麦迪逊·贝蒂 / 佩内洛普·卡普迪雅 / 莫里斯·孔特 / 科斯塔·罗宁 / 卢·坦普尔 / 斯宾塞·加雷特 / 布丽安娜·乔伊·乔默 / 奥玛·杜姆 / 娜塔莉·科恩 / 拉法尔·扎维鲁查 / 马尔科·罗德里格斯 / 堪萨丝·宝琳 / 维森特·拉雷斯卡 / 殷巴尔·阿米拉夫 / 拉蒙·弗兰克 / 莫妮卡·斯塔吉丝 / 克雷格·斯塔克 / 大卫·斯廷 / 朱丽叶·吉达 / 埃迪·佩雷斯 / 布蕾迪·拉多娜 / 凯拉·拉多姆斯基 / 布里安娜·温 / 卡萝莱娜·瓦加斯 / 加里·派怀特",
+    "类型: 剧情 / 喜剧",
+    "制片国家/地区: 英国 / 美国 / 中国大陆",
+    "语言: 英语",
+    "上映日期: 2019-05-21(戛纳电影节) / 2019-07-26(美国)",
+    "片长: 165分钟 / 161分钟(戛纳电影节) / 162分钟(院线版)",
+    "又名: 从前，有个荷里活(港) / 从前，有个好莱坞...(台) / 好莱坞杀人事件 / 荷里活往事 / Once Upon a Time in Hollywood / Once Upon a Time ... in Hollywood"
+  ],
+  "desc": "故事在1969年瞬息万变的洛杉矶展开，在那个风起云涌的变革时代，嬉皮文化盛行，好莱坞大制片厂制度瓦解，新的好莱坞明星纷纷崛起。电视明星里克·道尔顿（莱昂纳多·迪卡普里奥 Leonardo DiCaprio饰）与他长期合作替身搭档克里夫·布斯（布拉德·皮特 Brad Pitt 饰）如何在逐渐陌生的娱乐圈里，找到自己的一席之地。他们正力图扬名电影圈，却发现这个行业早已不是他们想象的样子了…… 这是昆汀自编自导第9部影片，汇集星光闪闪的卡司与交错的情节，纪念好莱坞不再复返的黄金年代。",
+  "members": {
+    "director": {
+      "name": "昆汀·塔伦蒂诺 Quentin Tarantino",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10798.jpg"
+    },
+    "cast": [
+      {
+        "name": "莱昂纳多·迪卡普里奥 Leonardo DiCaprio",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p470.jpg"
+      },
+      {
+        "name": "布拉德·皮特 Brad Pitt",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39053.jpg"
+      },
+      {
+        "name": "玛格特·罗比 Margot Robbie",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389939796.3.jpg"
+      },
+      {
+        "name": "埃米尔·赫斯基 Emile Hirsch",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1375191645.46.jpg"
+      },
+      {
+        "name": "玛格丽特·库里 Margaret Qualley",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1414917998.81.jpg"
+      },
+      {
+        "name": "蒂莫西·奥利芬特 Timothy Olyphant",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p57951.jpg"
+      },
+      {
+        "name": "茱莉亚·巴特斯 Julia Butters",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563876628.09.jpg"
+      },
+      {
+        "name": "奥斯汀·巴特勒 Austin Butler",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1373112675.24.jpg"
+      },
+      {
+        "name": "达科塔·范宁 Dakota Fanning",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p28311.jpg"
+      },
+      {
+        "name": "布鲁斯·邓恩 Bruce Dern",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389946367.04.jpg"
+      },
+      {
+        "name": "麦克·莫 Mike Moh",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534331575.6.jpg"
+      },
+      {
+        "name": "卢克·贝里 Luke Perry",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41284.jpg"
+      },
+      {
+        "name": "戴米恩·路易斯 Damian Lewis",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357070723.14.jpg"
+      },
+      {
+        "name": "库尔特·拉塞尔 Kurt Russell",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21227.jpg"
+      },
+      {
+        "name": "阿尔·帕西诺 Al Pacino",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p645.jpg"
+      },
+      {
+        "name": "玛雅·霍克 Maya Hawke",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514389723.12.jpg"
+      },
+      {
+        "name": "西德妮·斯威尼 Sydney Sweeney",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563876761.92.jpg"
+      },
+      {
+        "name": "哈莉·奎恩·史密斯 Harley Quinn Smith",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1429970462.04.jpg"
+      },
+      {
+        "name": "达蒙·海瑞曼 Damon Herriman",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41817.jpg"
+      },
+      {
+        "name": "凯特·贝兰特 Kate Berlant",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pNlOcvUG0WLgcel_avatar_uploaded1497029546.64.jpg"
+      },
+      {
+        "name": "洛伦扎·伊佐 Lorenza Izzo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541092758.57.jpg"
+      },
+      {
+        "name": "迈克尔·马德森 Michael Madsen",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27707.jpg"
+      },
+      {
+        "name": "拉莫·威利斯 Rumer Willis",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22259.jpg"
+      },
+      {
+        "name": "斯科特·麦克纳里 Scoot McNairy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p25940.jpg"
+      },
+      {
+        "name": "小克利夫顿·克林斯 Clifton Collins Jr.",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3173.jpg"
+      },
+      {
+        "name": "维多利亚·佩德雷蒂 Victoria Pedretti",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1544892430.95.jpg"
+      },
+      {
+        "name": "吕蓓卡·盖哈特 Rebecca Gayheart",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23148.jpg"
+      },
+      {
+        "name": "佐伊·贝尔 Zoe Bell",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1459703617.68.jpg"
+      },
+      {
+        "name": "莱斯利·贝加 Leslie Bega",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565346565.56.jpg"
+      },
+      {
+        "name": "瑞贝卡·瑞滕豪斯 Rebecca Rittenhouse",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537191497.15.jpg"
+      },
+      {
+        "name": "萨曼莎·罗宾森 Samantha Robinson",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/peaas3JJxm1Icel_avatar_uploaded1483351776.59.jpg"
+      },
+      {
+        "name": "莉娜·邓纳姆 Lena Dunham",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363345731.94.jpg"
+      },
+      {
+        "name": "德瑞玛·沃克 Dreama Walker",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34150.jpg"
+      },
+      {
+        "name": "克鲁·古拉格 Clu Gulager",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p14718.jpg"
+      },
+      {
+        "name": "丹妮拉·皮克 Daniela Pick",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507971260.66.jpg"
+      },
+      {
+        "name": "布伦达·瓦卡罗 Brenda Vaccaro",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485176567.8.jpg"
+      },
+      {
+        "name": "尼古拉斯·哈蒙德 Nicholas Hammond",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371906844.53.jpg"
+      },
+      {
+        "name": "米奇·麦迪森 Mikey Madison",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pSsJjLmSNe5kcel_avatar_uploaded1473762593.93.jpg"
+      },
+      {
+        "name": "詹姆斯·兰德里·赫伯特 James Landry Hébert",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1358372047.66.jpg"
+      },
+      {
+        "name": "妮可·加利西亚 Nichole Galicia",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536542951.13.jpg"
+      },
+      {
+        "name": "麦迪逊·贝蒂 Madisen Beaty",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1368150336.53.jpg"
+      },
+      {
+        "name": "佩内洛普·卡普迪雅 Penelope Kapudija",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1546593209.46.jpg"
+      },
+      {
+        "name": "莫里斯·孔特 Maurice Compte",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536648380.4.jpg"
+      },
+      {
+        "name": "科斯塔·罗宁 Costa Ronin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424803560.88.jpg"
+      },
+      {
+        "name": "卢·坦普尔 Lew Temple",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22354.jpg"
+      },
+      {
+        "name": "斯宾塞·加雷特 Spencer Garrett",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p42759.jpg"
+      },
+      {
+        "name": "布丽安娜·乔伊·乔默 Brianna Joy Chomer ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1475057402.54.jpg"
+      },
+      {
+        "name": "奥玛·杜姆 Omar Doom",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1414328516.27.jpg"
+      },
+      {
+        "name": "娜塔莉·科恩 Natalie Cohen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565346634.05.jpg"
+      },
+      {
+        "name": "拉法尔·扎维鲁查 Rafal Zawierucha",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p_075vxsUZCEcel_avatar_uploaded1535516150.98.jpg"
+      },
+      {
+        "name": "马尔科·罗德里格斯 Marco Rodríguez",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1400750937.89.jpg"
+      },
+      {
+        "name": "堪萨丝·宝琳 Kansas Skye",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565346804.92.jpg"
+      },
+      {
+        "name": "维森特·拉雷斯卡 Vincent Laresca",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1432892097.62.jpg"
+      },
+      {
+        "name": "殷巴尔·阿米拉夫 Inbal Amirav",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509436022.58.jpg"
+      },
+      {
+        "name": "拉蒙·弗兰克 Ramón Franco",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1351681655.04.jpg"
+      },
+      {
+        "name": "莫妮卡·斯塔吉丝 Monica Staggs",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359622002.89.jpg"
+      },
+      {
+        "name": "克雷格·斯塔克 Craig Stark",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/ppDXKi3PYznscel_avatar_uploaded1451201364.79.jpg"
+      },
+      {
+        "name": "大卫·斯廷 David Steen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565346817.34.jpg"
+      },
+      {
+        "name": "朱丽叶·吉达 Juliette Kida",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pA6xRpJ9q3-Qcel_avatar_uploaded1535728697.68.jpg"
+      },
+      {
+        "name": "埃迪·佩雷斯 Eddie Perez",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1532577194.76.jpg"
+      },
+      {
+        "name": "布蕾迪·拉多娜 Bridie Latona",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550996168.74.jpg"
+      },
+      {
+        "name": "凯拉·拉多姆斯基 Kayla Radomski",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1429260956.23.jpg"
+      },
+      {
+        "name": "布里安娜·温 Breanna Wing",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pirVqOLAV4_Qcel_avatar_uploaded1552301824.51.jpg"
+      },
+      {
+        "name": "卡萝莱娜·瓦加斯 Carolina Vargas",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565346910.4.jpg"
+      },
+      {
+        "name": "加里·派怀特 Gary Private",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565347046.33.jpg"
+      },
+      {
+        "name": "詹姆斯·麦斯登 James Marsden",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p276.jpg"
+      },
+      {
+        "name": "蒂姆·罗斯 Tim Roth",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6281.jpg"
+      },
+      {
+        "name": "马丁·科夫 Martin Kove",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7570.jpg"
+      },
+      {
+        "name": "詹姆斯·瑞马尔 James Remar",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20081.jpg"
+      },
+      {
+        "name": "丹尼·斯特朗 Danny Strong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p57223.jpg"
+      },
+      {
+        "name": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10798.jpg"
+      },
+      {
+        "name": "苏珊妮·拉切塞斯 Suzanne LaChasse",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p_rML454A80Icel_avatar_uploaded1566381108.53.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2557373020.jpg?",
+        "src": "http://vt1.doubanio.com/201908311759/17204895b1b7d9103059d2ad5899f791/view/movie/M/402470473.mp4"
+      },
+      {
+        "pic": "https://img1.doubanio.com/view/photo/photo/public/p2564338707.jpg?",
+        "src": "https://sv1.doubanio.com/201908311759/7bb087a70247f03ad6c5ba7bd226ea6f/video/2019/M/401030606.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2551283898.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2558840258.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "小油飞",
+      "avatar": "https://img3.doubanio.com/icon/u1918202-5.jpg",
+      "content": "一如既往有让人非常不舒服的种族和性别问题。昆汀跟波兰斯基关系很好吧，这意淫都让人有点感动了。但是他跟李小龙到底什么仇什么怨，那满满的恶意都要溢出来了…"
+    },
+    {
+      "user": "LORENZO 洛伦佐",
+      "avatar": "https://img1.doubanio.com/icon/u1127622-139.jpg",
+      "content": "昆汀电影里一贯的成吨的血浆没有了，无穷无尽的暴力没有了，源源不断的话痨也没有了，这让电影显得冗长且无聊，只有恋足癖和最后半小时的高潮能挽回颜面。小李子的表演依然不懂得节制，各种用力过猛，劲儿劲儿的。皮特虽然耍帅，但也只是耍帅而已，和李小龙的那段耍帅更是觉得有失偏颇。所谓的迷影情节，因为全程被割裂，最后被“嫁接”进来的感觉很违和。吹得有点过了，这不是昆汀最好的作品。"
+    },
+    {
+      "user": "水怪",
+      "avatar": "https://img3.doubanio.com/icon/u2673286-22.jpg",
+      "content": "大概是一部对影迷有着极高知识储备要求的电影，的确堪比泛影史意义上的终极之战。备考不足如我，仅看最后三十分钟也是酣畅淋漓的，就是前面梗若接不住大概就会酿成不少尿点，以及直觉上李小龙段落反而在内地或有风险。"
+    },
+    {
+      "user": "谋杀游戏机",
+      "avatar": "https://img1.doubanio.com/icon/u10969301-317.jpg",
+      "content": "看到最后半小时才确定，这仍然是我们最熟悉的那个狂想天才昆汀，在酣畅淋漓之下铺一层温柔的底色，也难怪他要防剧透。小李和皮特这对片中好基友都很可爱，带着我们像孩子一样游历在1969那个放荡无序、礼崩乐坏、焦虑又美好的年代。很多梗，很多美足，很多老朋友，很出彩的表演，期待能被热烈讨论的那一天，可能会稍有点影迷门槛。小李癫狂可爱依旧，皮特让我又找回了初中对他心动的感觉。"
+    },
+    {
+      "user": "我的身体拒绝",
+      "avatar": "https://img3.doubanio.com/icon/u122673635-2.jpg",
+      "content": "布拉德皮特开车能看路吗"
+    },
+    {
+      "user": "南悠一",
+      "avatar": "https://img3.doubanio.com/icon/u3739650-36.jpg",
+      "content": "当向往六十年代好莱坞时会想到什么？喧闹快节奏的宣传片、盛大的明星访谈，这便是影片的开头。当然还有生机勃勃的美国精神，永动的趴体、镁光灯、车载广播声、旋转的留声机、名利场和人情交往……在昆汀眼中，光怪陆离的好莱坞如西部那般广袤、包容，表面上人性苍凉，内里有复杂的情感交织，每个人都可以追逐电影梦想。昆汀用迷影梗，用怀有电影梦的明星和他替身司机的故事，拼凑出和西部片质感和西部精神相通的好莱坞旧梦，讲这样一个“拍西部片”的故事。他像是借着缅怀过去，对好莱坞的现状表达不满，像是带着不收敛的情绪喊，“这些才是好莱坞啊，你们这些恶魔究竟想搞什么？” 如果影片极致，背后的导演就会愈发理智；如果导演情绪化，那影片大多也没那么极致了。3.8"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "如果你也是个影迷，一定会感动的，这就是给影迷的礼物！我爱死《好莱坞往事》了！！！！！果然不能剧透，虽然有预感，但没想到……最后真是止不住眼泪。昆汀又一次，嗯，又一次。这就是我爱电影的原因啊！小李演技很不错，皮特超硬汉，玛格特罗比超可爱！这里仍有昆汀对电影、对暴力、以及对美足的热爱。昆汀继续牛逼！爱死这片了，哭了！！"
+    },
+    {
+      "user": "CyniCyniCyniC",
+      "avatar": "https://img1.doubanio.com/icon/u72684898-7.jpg",
+      "content": "可看度并不差，然而这种“重写历史”的一厢情愿又肤浅，又cheesy，又糟蹋情怀，又消费逝者，又不负责任，还散发着沙文猪的恶臭。"
+    },
+    {
+      "user": "余生",
+      "avatar": "https://img3.doubanio.com/icon/u154039834-13.jpg",
+      "content": "导演对李小龙有偏见吗？把他塑造成这样"
+    },
+    {
+      "user": "Madison",
+      "avatar": "https://img3.doubanio.com/icon/u34347136-6.jpg",
+      "content": "说了不让剧透就改下点评，免得胡思乱想，这是一部前两个小时让你觉得云里雾里，最后40分钟完全blow your mind的电影，昆汀太好了，调度太好了，小李的演技太好了，皮特的表演节奏也真他妈太屌了！"
+    },
+    {
+      "user": "拾玖",
+      "avatar": "https://img1.doubanio.com/icon/u146852422-29.jpg",
+      "content": "光怪陆离下的苍凉质感，这就是我对电影的热爱。"
+    },
+    {
+      "user": "斯大凌",
+      "avatar": "https://img3.doubanio.com/icon/u172079197-1.jpg",
+      "content": "这就是昆汀写给好莱坞的情书，真的没有想到会这么温柔。"
+    },
+    {
+      "user": "疯中飘摇",
+      "avatar": "https://img3.doubanio.com/icon/u65657614-3.jpg",
+      "content": "很平铺直叙的无聊故事。演技确实爆棚。 还有为什么非要丑化李小龙？亚洲男人在美国还不够惨吗？"
+    },
+    {
+      "user": "woodhead",
+      "avatar": "https://img1.doubanio.com/icon/u46195773-7.jpg",
+      "content": "#Cannes2019·23rd film# 前两个小时是好莱坞往事，后半个小时是好莱坞狂想。真的没想到昆汀会以这种天才的方式处理曼森家族事件，确实是不能剧透的惊喜。但是前两个小时的铺垫，太漫长，和最后半小时也太割裂了。"
+    },
+    {
+      "user": "PIERROT",
+      "avatar": "https://img3.doubanio.com/icon/u19619577-13.jpg",
+      "content": "影片主旋律：Out of Time。不得不承认奔六的昆汀已经没那么酷了，喜欢昆汀的电影也已经不是件多酷的事了"
+    },
+    {
+      "user": "柯诺",
+      "avatar": "https://img1.doubanio.com/icon/u43338884-9.jpg",
+      "content": "前面是你没见过的昆汀，后面是你见过的昆汀。"
+    },
+    {
+      "user": "徐林",
+      "avatar": "https://img3.doubanio.com/icon/u172049786-10.jpg",
+      "content": "如果說現在的我會緬懷25年前的「低俗小說」\n那麼25年後的我談起「好萊塢往事」眼睛絕對會熠熠生光，滔滔絮絮的說個沒完。那種感覺跟初看「低俗」是完全一致的。\n(別再問我怎麼先看的了，發行商有自己專門的「購片場」！！，但簽了協議不能劇透）"
+    },
+    {
+      "user": "米粒",
+      "avatar": "https://img3.doubanio.com/icon/u4416375-54.jpg",
+      "content": "昆汀的电影和他本人一样，很容易就沉浸在自己的世界里出不来，旁人很容易陷入迷惑，不知道他为什么在一个虐杀案故事前花那么多时间去讲看似无关痛痒的60年代末电影明星朝电视发展的阵痛，或者像赌博似的去意大利跟鸡同鸭讲的外国人拍通心粉西部片。要求每个观众都像他这样如痴如醉地沉迷电影，似乎是件奢侈的事，但昆汀是那么的对史料、八卦、明星、好莱坞的点点滴滴信手拈来，他就像一个永远都挖不尽的宝藏资料库，把自己的一辈子都和电影连在一起，并有着很强的诉说欲。这样的感情基础下，这部好莱坞往事不会让人产生距离感、“大师感”，融进了自己童年回忆之后，还确实有些总结篇的味道——昆汀把自己对好莱坞的爱，和对小李和皮特的爱（看完本片谁还会不爱他们俩呢？！），都放在这部电影里了"
+    },
+    {
+      "user": "西蔚",
+      "avatar": "https://img3.doubanio.com/icon/u40634354-6.jpg",
+      "content": "事实一再证明，大家开画之前吹的时候千万得悠着点，期待拔得过高真是要命……"
+    },
+    {
+      "user": "福·宋",
+      "avatar": "https://img3.doubanio.com/icon/u4425585-4.jpg",
+      "content": "本届戛纳第一爽片！《革命之路》之后第一次认同小李子的演技！"
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "前面还是普通略带恶搞的传记性故事片模式，到最后导演做了一个大胆、充满创意又似乎在情理之中的处理，给血腥残酷的历史事实披上了一层温暖的面纱，一如那条走向波兰斯基豪宅的洒满月光的小路。让一切的单纯美好生动地停留在银幕上，这是电影最最独特和吸引人的魅力"
+    },
+    {
+      "user": "盛唐气象",
+      "avatar": "https://img3.doubanio.com/icon/u151724330-4.jpg",
+      "content": "还是一如既往地富有昆汀特色，暴力，情色，犯罪，荒诞的历史，无处不在的冷幽默，加州的艳阳与小镇让人印象深刻。各种元素杂糅在一起，紧凑而不散乱，娱乐性与艺术表达拿捏的很准，可以看得出昆汀的突破及野心，有惊喜，也有传承。小李子和皮特似乎挺适合这种角色，两个人合作也比较默契。凭着大卡司的光环，首映场自然是座无虚席。"
+    },
+    {
+      "user": "Zack Han",
+      "avatar": "https://img3.doubanio.com/icon/u93040810-5.jpg",
+      "content": "中途离场，侮辱丑化李小龙。0星。看着李小龙被羞辱，和他们的那些笑声真的难过。还有人说就是戏说历史，开个玩笑而已，看着李小龙被Brad Pitt打得满地找牙，伴随着白人刺耳的笑声，这算是好莱坞对整个Asian群体的扭曲态度吧，让你出来，但要羞辱你一番。"
+    },
+    {
+      "user": "图书馆的电脑",
+      "avatar": "https://img3.doubanio.com/icon/u68089438-3.jpg",
+      "content": "几乎融合了昆汀之前所有的元素：暴力，话痨，冷幽默，足控，迷影情节等等 男性荷尔蒙一刻不停喷涌而出。全片无尿点 唯一的缺点就是空调太冷把我从梦里冻醒了 害我没梦完"
+    },
+    {
+      "user": "复古风影录",
+      "avatar": "https://img3.doubanio.com/icon/u153806797-1.jpg",
+      "content": "5星，前面以为阿莫多瓦金棕榈能拿了吧，看完这部，嗯，不一定哦，哈哈。剧透一点，有李小龙模仿秀，世界影史和流行趋势大融合，戏中戏，讲的是有电影梦的明星和替身的故事，开头描绘好莱坞的梦幻豪华，中间各种致敬，后半段情感升华，整部影片不管是摄影，剧本，演员表演都是顶级水准，影片节奏让我很兴奋，也不知道怎么回事，看完戳中泪点了。但觉得，即使戛纳大奖分猪肉，好莱坞往事和痛苦与荣耀都是有资格拿金棕榈的，这两部片也可能会出男演员奖（小李子有戏，我觉得同片他的层次和空间更好），此片商业与艺术两不误嘛。"
+    },
+    {
+      "user": "PureSucker",
+      "avatar": "https://img3.doubanio.com/icon/u34316735-2.jpg",
+      "content": "电影中的电影中的电影中的电影。“点燃”了戛纳。"
+    },
+    {
+      "user": "Puff",
+      "avatar": "https://img3.doubanio.com/icon/u185084570-5.jpg",
+      "content": "昆汀最私人且最為平淡的一部作品，同時也是昆汀迷影情懷感最重的一部作品，很難用三言兩語形容他好不好看，因為那要看你對昆汀致敬的過往年代有沒有共鳴，至少我是喜歡的，畢竟觀影前有做一點功課，但絕對沒有昆汀過往作品那麼喜歡，全片最讓我感到憐憫的角色就是布萊德彼特的角色了，特技演員在那個年代真的是個心酸、不被看好的職業，昆汀對莎朗蒂事件的處理可說是處理的相當溫柔，今年剛好是莎朗蒂事件的50周年，昆汀用溫柔的方式處理該事件，除了對是對該影星的緬懷外，也是他對好萊塢黃金年代的緬懷，昆汀鏡頭下的過往LA樣貌，陽光、美女、party、嬉皮、凱迪拉克，敘事方式走散漫、純樸風，前2小時平淡，後半小時才是重頭戲，我想沒有人比他更愛西部片了，昆汀自己說這是他的《羅馬》，的確所言不假。"
+    },
+    {
+      "user": "忘言",
+      "avatar": "https://img3.doubanio.com/icon/u4161339-23.jpg",
+      "content": "这不是李小龙，昆汀什么时候死，我也拍个电影抹黑一下他。"
+    },
+    {
+      "user": "Peter Cat",
+      "avatar": "https://img1.doubanio.com/icon/u1663648-59.jpg",
+      "content": "票房存疑。"
+    },
+    {
+      "user": "舒农",
+      "avatar": "https://img1.doubanio.com/icon/u1303086-68.jpg",
+      "content": "看了一个小时，以后也不打算补了。人生中也没什么非看不可的片子"
+    },
+    {
+      "user": "蔕",
+      "avatar": "https://img3.doubanio.com/icon/u52458935-51.jpg",
+      "content": "李小龙不是功夫高手，但他为功夫影片所做出的的努力和贡献，绝对不是昆汀你可以歪曲侮辱嘲讽的"
+    },
+    {
+      "user": "肖申克的囚徒",
+      "avatar": "https://img1.doubanio.com/icon/u4517067-9.jpg",
+      "content": "昆汀，莱昂纳多，皮特，还有帕西诺，这是什么超神组合了不要太期待了好不好"
+    },
+    {
+      "user": "印子",
+      "avatar": "https://img1.doubanio.com/icon/u139845819-7.jpg",
+      "content": "【8】校内提前点映！感谢USC啊啊啊啊！我感觉这对于昆汀来说是一部非常私人的电影，塞了很多迷影梗，充满了对60s好莱坞年代感的渲染和年代质感的配乐，影迷会很喜欢吧！然后，剧情走向完！全！猜！不！到！看之前千万不能被剧透！！我看到后面下巴都掉下来了。这回昆汀下了一步险棋！缺点大概就是两个多小时的铺垫实在太冗长了，高潮虽爽但是太短，血浆比昆汀大部分电影都少。我觉得只能算中游水准的昆汀作品？"
+    },
+    {
+      "user": "大奇特(Grinch)",
+      "avatar": "https://img3.doubanio.com/icon/u1074463-104.jpg",
+      "content": "无聊透顶，本以为我这种老片迷会喜欢。谁知是一出废戏、烂梗多多的肥皂剧，和《无耻混蛋》一样重改历史、夸大意淫。花一半时间字面意义上戏谑、模仿好莱坞1969新旧交替的时代，所有的迷影、情怀梗都是蜻蜓点水，浪费情怀。结尾15分钟不就是血浆让你嗨了一下吗？对剧情和结尾的意义大吗？李小龙的戏份则完全没有存在的理由（只与莎朗.塔特看《勇破迷魂阵》时的\"闪回\"挂了个钩），没任何叙事目的，只为让克里夫显得强硬，让李看起来是个好斗的大嘴巴，完全是在消费逝者。"
+    },
+    {
+      "user": "辰",
+      "avatar": "https://img3.doubanio.com/icon/u141350859-4.jpg",
+      "content": "绝了 把李小龙塑造成这样 一星不解释 刻意抹黑不要太明显"
+    },
+    {
+      "user": "X.",
+      "avatar": "https://img3.doubanio.com/icon/u143877500-32.jpg",
+      "content": "🙃和我想象中的完全不同。"
+    },
+    {
+      "user": "B面A面",
+      "avatar": "https://img3.doubanio.com/icon/u132899463-5.jpg",
+      "content": "这片对亚裔的偏见真的很不舒服，李小龙不是不可以被打败，但是却被刻意贬低成一个小瘪三，真的很让人不舒服"
+    },
+    {
+      "user": "蛋堡的波特",
+      "avatar": "https://img3.doubanio.com/icon/u164148207-2.jpg",
+      "content": "名副其實的「好萊塢往事」，60/70好萊塢黃金年代的再現，各種迷影梗層出不窮，算得上本屆主競賽類型片集大成者，但同時框架搭的夠大，想說的也太多了，過於飽和，難以消化，就比如影片中段的……"
+    },
+    {
+      "user": "马克爱马克",
+      "avatar": "https://img3.doubanio.com/icon/u3688051-44.jpg",
+      "content": "自恋，无聊，破碎，一厢情愿的情怀和审美疲劳的昆丁元素，最要命的，还是故事讲得烂，不是看小李子演的那么卖力，零星都不给的。"
+    },
+    {
+      "user": "祥子",
+      "avatar": "https://img3.doubanio.com/icon/u2782473-42.jpg",
+      "content": "对华人和李小龙的刻版印象，还以为昆丁会show some respect"
+    },
+    {
+      "user": "雨人",
+      "avatar": "https://img3.doubanio.com/icon/u98561997-5.jpg",
+      "content": "1969年往事。那一年，过气的电视演员道尔顿想转型成为电影演员。那一年，怀有身孕的好莱坞著名女演员莎朗·塔特被邪教组织残忍杀害，她是电影大师罗曼·波兰斯基的妻子，他当时在欧洲拍电影，躲过一劫。那一年，李小龙还健在，他当时是罗曼·波兰斯基的私人教练。那一年，尼克松就职美国总统。。。"
+    },
+    {
+      "user": "醉饮狂歌",
+      "avatar": "https://img3.doubanio.com/icon/u48902013-4.jpg",
+      "content": "昆汀的疯狂意淫，可能也是好莱坞的疯狂意淫，看完恶心的差点吐出来"
+    },
+    {
+      "user": "只只软",
+      "avatar": "https://img3.doubanio.com/icon/u190699984-1.jpg",
+      "content": "这不是李小龙 整部片子只能看到昆汀的傲慢和无礼"
+    },
+    {
+      "user": "Gargamel",
+      "avatar": "https://img3.doubanio.com/icon/u43453949-15.jpg",
+      "content": "又臭又长"
+    },
+    {
+      "user": "圐圙",
+      "avatar": "https://img3.doubanio.com/icon/u140034276-6.jpg",
+      "content": "为什么要对李小龙这样？！"
+    },
+    {
+      "user": "嗯嗯嗯嗯yuki",
+      "avatar": "https://img1.doubanio.com/icon/u1528964-28.jpg",
+      "content": "裤子都脱了就给我看这个"
+    },
+    {
+      "user": "甄甏甏",
+      "avatar": "https://img3.doubanio.com/icon/u41378347-14.jpg",
+      "content": "看完我就明白为什么昆汀不让剧透了，也明白为什么非要演波兰斯基邻居的故事了，昆汀可能是信佛了吧……他是真的喜欢脚啊。但还是觉得戏中戏有点儿太多了。"
+    },
+    {
+      "user": "bbesantev",
+      "avatar": "https://img3.doubanio.com/icon/u154123118-5.jpg",
+      "content": "侮辱李小龙，话说我一直对昆丁印象不好，女演员被性侵向他求助不仅熟视无睹还骂人不知好歹。"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "属于电影的理想主义时空已在《低俗小说》的兔餐厅里建立过一次，如今昆汀将其拓展引入童年迷影记忆中的现实世界，从《无耻混蛋》开始真正步入的“小说电影”阶段对文学性与写作欲的追求不再局限于胶片上的架空历史，莱昂内式片名却更多在讨论考布西，接连相同题材的“姜戈”和《八恶人》激发出了强烈的对西部片乃至其整个亚类型历史探究重访的游戏兴致，后三十分钟的伦纳德小说式情节接棒对影史八卦考据戏说构成的前两个小时，组成了最符合昆汀多重身份的一部作品。替身皮特和小李的友情歌颂传统拍摄，也是现实的西部硬汉传奇，客串的女特技师佐伊·贝尔与当年的史蒂夫·麦奎因同样闪耀，电影诞生于团结、勇敢和牺牲，幕后英雄与银幕英雄联起手来，扫清浑浊邪恶，圆影迷们一个美好的梦，嬉皮文化与骑士精神共舞，那些浪漫菲林的叛逆和善良将被永远传颂。"
+    },
+    {
+      "user": "spondee",
+      "avatar": "https://img3.doubanio.com/icon/u4348955-2.jpg",
+      "content": "3.5。(1)李奧養樂多一邊責罵自己是很廢又過氣的演員，一邊努力的把戲演好，演得真好。(2)兩人這種惺惺相惜式的搭檔演出，倒是可以多合作幾次。(3)改寫Sharon Tate 事件，成了大快人心結局，但後面45分鐘突地加上旁白，即使對Sharon Tate 事件一無所知的觀眾，也感覺刻意(好像要強調什麼，卻又沒什麼關係?)。\n(4)把李小龍往車子砸過去的橋段，一直在偷笑 ! \n(5)前2小時迷影式的閒筆與閒聊，個人反而比較喜歡。"
+    },
+    {
+      "user": "是空惹啼痕啊",
+      "avatar": "https://img3.doubanio.com/icon/u171457046-1.jpg",
+      "content": "原来昆汀也这个屌样"
+    },
+    {
+      "user": "babydog不Muyan",
+      "avatar": "https://img3.doubanio.com/icon/u1641010-22.jpg",
+      "content": "电影节1/2 35mm胶片|看似闲散，其实工整"
+    },
+    {
+      "user": "HarperDie",
+      "avatar": "https://img3.doubanio.com/icon/u1591741-2.jpg",
+      "content": "依旧是昆汀式美足盛宴，依旧有塔伦蒂诺天马行空的暴力场面，但纵览整片节奏，离那个熟悉的昆汀·塔伦蒂诺真的很远。迷影化的细节铺设，并不能弥补整体结构的脱节。李奥纳多·迪卡普里奥更是制造了一种充满委屈感的暴怒式表演，你绝对不能说这种表现不好，但组合出的效果真的很奇怪。遗憾。"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "当大门开启，音乐响起那一刻，眼泪都流下来了"
+    },
+    {
+      "user": "SageBlue",
+      "avatar": "https://img3.doubanio.com/icon/u63646159-10.jpg",
+      "content": "我还以为昆汀多了不起，原来喜欢拿非白人角色去塑造白人角色。"
+    },
+    {
+      "user": "藤井树",
+      "avatar": "https://img3.doubanio.com/icon/u2211649-14.jpg",
+      "content": "《好莱坞往事》是昆汀写给所有影迷的一封情书，太多迷影梗了，简直遍地是宝藏。看完才知道为什么他要再三强调不能剧透，确实耗费160分钟的精心铺陈，只为了最后一个Surprise，可谓用心良苦。英文无字幕还是非常考验人的听力，很多地方看的一知半解。好在，博纳是资方之一，所以肯定会引进。从尺度来讲，将来国内版也不会有太大的删减困扰。别急，咱就安心等国内二刷三刷吧。最后要说，皮特好硬，小李很糙，都是好汉！"
+    },
+    {
+      "user": "JianShenggggg",
+      "avatar": "https://img3.doubanio.com/icon/u189156969-4.jpg",
+      "content": "东亚病夫的招牌我们又要背回来了"
+    },
+    {
+      "user": "豆友181859717",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "李小龙被黑得太过分了"
+    },
+    {
+      "user": "zzhr",
+      "avatar": "https://img3.doubanio.com/icon/u157196119-1.jpg",
+      "content": "所以看过的大佬们，李小龙是不是真像预告片里的那样，貌似被戏弄了😨想知道还怕被剧透，我替好奇这个部分的人提个问吧（等资源+等引进补票）ps.可别说我是战狼之类的……就是看预告片单纯好奇这一点，因为预告片整体气氛还是欢脱，但是大家又都知道故事背景是一个惨案，所以除了李小龙这一点还并没有太多别的了解到的"
+    },
+    {
+      "user": "舌在足矣",
+      "avatar": "https://img3.doubanio.com/icon/u44889149-3.jpg",
+      "content": "什么是好莱坞？从某种意义上来说，好莱坞与西部片是同气连枝的。当牛仔被嬉皮士取代，好莱坞的黄金年代自然也就不复存在了。Sharon Tate，李小龙，Steve McQueen代表的都不是他们自己，而是一个美好却又早逝的时代。感谢昆汀，借用两个虚构的西部片演员，让我们重新体验了这样一个梦幻"
+    },
+    {
+      "user": "私~川流",
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "content": "这是一首舒缓的小情歌 \n由一个足控 \n写给几个老帅哥\n有一些巧合 \n有一些不可言说 \n都在酒精麻药里 \n飘散如歌"
+    },
+    {
+      "user": "咯咯精",
+      "avatar": "https://img3.doubanio.com/icon/u41608208-13.jpg",
+      "content": "消化了一天昆汀的厉害，尝试在自己知识积累薄弱的情况下去理解。他们都是他昂贵的装饰品，电影节是他的巡演，他是摇滚明星。电影是造梦，可以改变心中的世界。//三刷A quiz that i failed. "
+    },
+    {
+      "user": "刀刀ian",
+      "avatar": "https://img3.doubanio.com/icon/u167949223-1.jpg",
+      "content": "這是昆汀對於過去曾經發生過的真實事件，進行了一次許願式的主觀性敍事，是祝福、療癒，以及對60、70年代最為羅曼蒂克的告白。而我也發現自己，已經很久不曾像這樣在電影院裡失控地尖叫狂笑了！兩位男神的演出都很精彩，尤其是小李子，根本巔峰。"
+    },
+    {
+      "user": "木卫二",
+      "avatar": "https://img1.doubanio.com/icon/u1128221-98.jpg",
+      "content": "有如演员与替身的搭档组合关系，《好莱坞往事》既有昆汀非常慷而慨的一面——爱表演艺术，爱通心粉西部片，比波兰斯基更爱莎朗塔特。另一面又是十足的私人趣味，不加节制，令观众完全摸不透他的古灵精怪枪（牧场入室探秘老头），更不要说爱飙车爱血浆。电影院与前排座的两组恋足癖，更能继续俘获舔狗。我最爱的一组戏，是小李搭手小萝莉的两场。霓虹灯亮起的空镜头，也是片中不多的宁静抒情时刻。除此以外，观众很容易被片中片以及闪回片场之类的桥段，搞得七荤八素。譬如小李的西部片，明明重点发生室内，昆汀偏要让人物在外头磨磨蹭蹭，放上一炮，再进入正题。李小龙的出现，更像是博纳于冬要求加戏，随便给搞上了一场，否则要从剧作上来说……抱歉，这部电影不太需要剧作这回事，你可以在意淫大作和平行宇宙中间，搞一票重写电影史的重任。"
+    },
+    {
+      "user": "达不溜",
+      "avatar": "https://img3.doubanio.com/icon/u48949582-10.jpg",
+      "content": "完全没想到昆汀这么拍 感觉很感动 感觉昆汀是个善良的人"
+    },
+    {
+      "user": "阿C",
+      "avatar": "https://img3.doubanio.com/icon/u59349524-36.jpg",
+      "content": "导演不怕李小龙夜里来打爆你狗头？"
+    },
+    {
+      "user": "谢立停",
+      "avatar": "https://img3.doubanio.com/icon/u130323965-10.jpg",
+      "content": "皮特 你真的好丑呀"
+    },
+    {
+      "user": "试飞时期",
+      "avatar": "https://img3.doubanio.com/icon/u128095550-84.jpg",
+      "content": "看的首映场,工作日人不多，挑到了最好的位置欣赏昆汀。那么多华丽的音乐和电影，那些熟悉的台词和对话，“我看着电影里的人看电影”这样奇幻的体验让人仿佛置身于那个年代。但回不去又何妨，就像这部好莱坞往事一样，也许现在就是最好的年代。我也是在电影院看过好莱坞往事的人，这件事值得我吹一辈子。"
+    },
+    {
+      "user": "薛定谔的彗星",
+      "avatar": "https://img3.doubanio.com/icon/u142176365-13.jpg",
+      "content": "这是《穆赫兰道》前两个小时的好莱坞噩梦，只不过昆汀给主角转了性，给噩梦撒上了糖霜。梦里有大小人物的奋斗，有未遂的杀人行动，有美好的好莱坞式结局。对应《穆赫兰道》里的床上女尸，晚年潦倒躺在床上的布鲁斯·邓恩是做梦者强烈排斥的对现实的提示。昆汀没有拍摄梦醒之后的现实，而选择让影片结束在对惨剧的浪漫化处理之中。镜头俯视第五人进入房中，此时房中的人数与当年的死者数相等，这是昆汀留给观众的通往历史和现实的出口，而字幕在此时浮现，电影就此停留在梦醒的一瞬。从指涉电影的角度，本片呈现了电影的前期制作、拍摄（戏中拍戏）、后期制作、宣传、上映（戏中看戏）并被评论和产生影响的过程，借演员的角度讲述电影人的挣扎和坚持以及对电影的爱，同时戏仿了多种电影类型。昆汀的黑色幽默贯穿至彩蛋，B级元素则在部分段落大放异彩。"
+    },
+    {
+      "user": "明月何时照哥谭",
+      "avatar": "https://img1.doubanio.com/icon/u63718313-18.jpg",
+      "content": "从知道昆汀要拍这片就担心搞不好会冒犯亲历者，果然前不久波兰斯基的家人表达不满，我看完却释怀了，真是最温柔的一次恶搞。从皮特反杀开始，心领神会，眼泪就忍不住了，Sharon或许象征了那个黄金时代，昆汀想让那个疯狂与浪漫并存的年代如她一般，在故事里留下。感谢有电影这台造梦机器，愿努力的人都能得偿所愿，善良的人都被温柔以待，悲剧在平行时空里不曾发生"
+    },
+    {
+      "user": "酸奶芝士",
+      "avatar": "https://img3.doubanio.com/icon/u160470480-3.jpg",
+      "content": "我很喜欢李小龙"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "形散神不散，片名即所得。既看到了暴力，也感到了温柔。昆汀把镜头拉回60年代末的西部片片场，以近乎1:1的比例还原好莱坞的台前幕后与日常。喋喋不休的怀旧是血浆四射的前奏，暴力才能改写往事不堪回首。看到结局竟然有些感动了，不知道波兰斯基会怎么想？小李子和皮特各带万丈气场，基情四射好莱坞啊~"
+    },
+    {
+      "user": "MN",
+      "avatar": "https://img3.doubanio.com/icon/u178532318-1.jpg",
+      "content": "我也喜欢李小龙"
+    },
+    {
+      "user": "hzzyzxc",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "不明白为什么抹黑李小龙，而且个人感觉比八恶人无聊"
+    },
+    {
+      "user": "锐利修蕊",
+      "avatar": "https://img1.doubanio.com/icon/u12544519-58.jpg",
+      "content": "前两个小时繁复无聊，甚至有点cheesy到感觉不出是昆汀的电影，更像是借着那个时代的“历史”，讽刺这个时代现状的无知。最后半个多小时的“营救”，才找回昆汀电影的精神内核，那些迷影气质因此来的举重若轻，无关紧要。也许是抱着过高的期待，这一出元电影情结，其实没有预想中的精彩，双主角被强行按进刻板印象，火花也并没有红毯丰富。更像是导演给伟大电影的一封公邮，里面都是无限温柔的悼念，因为心知肚明：电影本身就都是假的。但拍电影和创作电影，不该也是假的。"
+    },
+    {
+      "user": "杜少卿",
+      "avatar": "https://img3.doubanio.com/icon/u159530972-1.jpg",
+      "content": "一个怪圈:当某导演失去了自己常用的符号时，他的电影评分就会蹭蹭往下掉。举例:昆汀，诺兰，埃德加赖特，甚至是宁浩，连托米韦索和jj艾布拉姆斯也一样。"
+    },
+    {
+      "user": "Anubis",
+      "avatar": "https://img3.doubanio.com/icon/u2077901-13.jpg",
+      "content": "没料到是这么温情的buddy comedy / 恐怕是pulp fiction以来最佳发挥 / 60年代LA街景真的奇观 / 发胖的小李像jack black / Spahn Ranch一场绝妙 / 狗逼又把全部女主的脚都拍了一遍 / \"Don't cry in front of the Mexicans\""
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "六十年代末的荷里活，西部片没衰落，演员Rick先衰落了，而明星生涯衰落了，一场痛定思痛后的表演又冲击着衰落。迷影与迷情大半段，要到末尾，才惊觉昆汀依旧。何止是Cliff致幻，整场对峙、杀戮，仿佛能感觉音符与色彩迸裂出实体来，癫狂有了喷涌的逍遥，爽透。煞费心思走进波兰斯基的宅邸，没想到是以这样一件事勾连起来。小李子依然是以硬碰硬的戏骨作为，以为是他的主场，结果即便皮特演一个被调侃成他儿子的角色，几场大戏就举重若轻地跑赢了，屋顶那段帅成50+典范，不服不行。至于Sharon，还有Pussycat她们，兴许更大的功能是满足昆汀的恋足。而对李小龙这般呈现，难怪引发口舌之战。片末有彩蛋。@香港皇室戏院，沙发椅一动就会发出连环屁声的神奇空间。"
+    },
+    {
+      "user": "扑火飞蛾",
+      "avatar": "https://img1.doubanio.com/icon/u171717199-19.jpg",
+      "content": "美足 血浆  无耻 你想要的都有！！！！牛逼！！！！"
+    },
+    {
+      "user": "V的骨牌",
+      "avatar": "https://img3.doubanio.com/icon/u64047033-4.jpg",
+      "content": "看完爽翻！持续了好一会儿！上一次观影这么爽还是王男！和王男那种R级片里做巧妙的类型建构解构的爽不同，本片的爽在于，无论是作为串联前作的自我回顾还是基于往事的独立表达，都用独属于昆汀的气象，构建了多线发散又逐渐交织汇总的闭合宇宙，那种忠于自我又和自我重复绝无关系的好，刚好用当年借用加缪去形容波兰斯基的后半句话来说就是“它是一体的，充满张力，绝不退让。里面充满了精神上的统一性。贯穿所有这些岁月的只有一个念头”，“他才是小说，当然要重读。”\nPS 每一条线都耐看又不同，想了半天我想说 回味胜过总结，以及布拉德皮特的选角真是本片妙中之妙的地方。"
+    },
+    {
+      "user": "狮与羊",
+      "avatar": "https://img3.doubanio.com/icon/u48198672-45.jpg",
+      "content": "Rick作为一个也曾经辉煌过的电视演员在失意时没去到处鬼混，而是选择继续不断努力做好自己工作，这一点挺感人的，而结尾属于自己的童话也成了真。"
+    },
+    {
+      "user": "尹山南",
+      "avatar": "https://img3.doubanio.com/icon/u85664926-3.jpg",
+      "content": "希望豆瓣那些给昆汀洗地的人，日后父母被人侮辱的时候，也可以心平气和的说：“要有自信，别人骂我爹，只是和我死去的爹开玩笑呢，这是一种艺术手法，毕竟白皮才是我亲爹嘛。”"
+    },
+    {
+      "user": "杨",
+      "avatar": "https://img3.doubanio.com/icon/u49897097-10.jpg",
+      "content": "昆丁连小李子的脚都没放过…"
+    },
+    {
+      "user": "Bing Sting",
+      "avatar": "https://img1.doubanio.com/icon/u13887915-28.jpg",
+      "content": "昆丁说这部片子是他的Roma 因为2部片子都可以让人看的昏昏欲睡吗？ 昆丁不一定要b级要血浆 但是导演其他作品台词制造气氛的张力 这部片子没有 很多片段让我质疑why tf do i need to see this... 结尾30分钟 也没有觉得酣畅淋漓。 不是昆丁 还有多少人 认为这是一部好片...?"
+    },
+    {
+      "user": "豆友198279752",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "侮辱民族英雄，李小龙"
+    },
+    {
+      "user": "AllAlone",
+      "avatar": "https://img3.doubanio.com/icon/u1889467-123.jpg",
+      "content": "我不确定这个结局是comforting的 还是更是往当事人伤口上撒盐了 我还是不喜欢这种无意义的暴力和莫名其妙的话痨 有些笑点还是很好笑的"
+    },
+    {
+      "user": "孙二娘",
+      "avatar": "https://img1.doubanio.com/icon/u3936888-7.jpg",
+      "content": "…长大以后的我，三观变得很正，就无法欣赏这种艺术了呵呵"
+    },
+    {
+      "user": "ye",
+      "avatar": "https://img3.doubanio.com/icon/u30653785-15.jpg",
+      "content": "你可以调侃李，那我也可以一星调侃你的电影。有人说你不要太敏感，我说你也不要太敏感。"
+    },
+    {
+      "user": "Ecthelion",
+      "avatar": "https://img3.doubanio.com/icon/u51614369-4.jpg",
+      "content": "大失所望。超闷超无聊，甚至看到睡着。最后那场谋杀戏才勉强找回点昆汀的感觉。李小龙的戏份非常offensive，扣一星。但是我不懂，昆汀不是李小龙的粉丝吗？这么恶意满满是为什么？"
+    },
+    {
+      "user": "Carnett",
+      "avatar": "https://img3.doubanio.com/icon/u54207079-3.jpg",
+      "content": "《好莱坞往事》是19年我看过最烂的电影，饿着肚子看了三个小时，全是毫无意义的话痨，所有的故事线和镜头都毫无用处，我姜戈的时候给了昆汀机会了，八恶人也给，这次是最后一次，以后决定不可能再看他电影了，感谢广电局不让这部电影在国内上映，因为实在是太烂了"
+    },
+    {
+      "user": "知暖",
+      "avatar": "https://img3.doubanio.com/icon/u3514692-70.jpg",
+      "content": "我的天啊，我的人生不可能有更好的观影体验了！我在家楼下电影院看此片，看着电影里，女主也走进了这家电影院看自己演的电影？？！太meta了我的天啊……"
+    },
+    {
+      "user": "天上的约定",
+      "avatar": "https://img3.doubanio.com/icon/u178250460-1.jpg",
+      "content": "莱昂纳多跟背景那车造成一种视觉错误“WC”中"
+    },
+    {
+      "user": "冰镇西瓜橘子水",
+      "avatar": "https://img3.doubanio.com/icon/u65400706-1.jpg",
+      "content": "昆汀电影里丑化李小龙之后在媒体会上说 李小龙的傲慢众所周知？？？"
+    },
+    {
+      "user": "Killjoy",
+      "avatar": "https://img1.doubanio.com/icon/u2275648-7.jpg",
+      "content": "我到底看了什么东西…致敬了又如何…这类幽默和“天才”我都理解不能…这种情书不然还是撕了吧"
+    },
+    {
+      "user": "豌豆的布丁",
+      "avatar": "https://img3.doubanio.com/icon/u47213263-2.jpg",
+      "content": "昆丁真是龙哥的好粉丝，能想出这样的办法来把偶像气活。"
+    },
+    {
+      "user": "唐小万",
+      "avatar": "https://img3.doubanio.com/icon/u2011896-62.jpg",
+      "content": "前面太散，最后半小时的高潮和柔情脉脉。"
+    },
+    {
+      "user": "ParkerLI",
+      "avatar": "https://img3.doubanio.com/icon/u139788361-2.jpg",
+      "content": "【YVR-Park】两星半。说不好看是假的：细节的考究，各种影视致敬引用都令人会心一笑。但说不失望也是假的：前半段一改风格的叙事和后40分钟的回归形成的不是对比，而是断裂。对那段历史是回忆，是赞美，是戏谑，但也是对其的逃避。如果你期待的是典型的昆汀，你会失望。如果你期待的是完全不同的昆汀，你也会失望。如果你喜欢挖细节找致敬，那你会满载而归，但昆汀何时成漫画电影导演只能靠这些细枝末节了呢？如果你喜欢看昆汀如何看待那段历史，那你可能会喜欢甚至爱它。但如果这样，你爱的是导演还是作品？而本片更不是一部令你两者兼得的作品。"
+    },
+    {
+      "user": "十二辰子",
+      "avatar": "https://img3.doubanio.com/icon/u70850814-45.jpg",
+      "content": "迷影梗很多。铺垫两个小时就为了最后半小时，昆汀真是对好莱坞爱的深沉。"
+    },
+    {
+      "user": "北溟鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1339639-63.jpg",
+      "content": "迟到半小时 看了没几分钟就睡着了 醒来已经在杀人 。。。"
+    },
+    {
+      "user": "palette",
+      "avatar": "https://img1.doubanio.com/icon/u147256813-18.jpg",
+      "content": "很失望"
+    },
+    {
+      "user": "大聪看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1402913-10.jpg",
+      "content": "或许带着非常高的预期去看，但前面却有些难以进入气氛，这应该是昆汀最柔情的一部作品，说《好莱坞往事》是送给好莱坞的情书不为过。\n小李的演员魅力，静静看他我也愿意，当小李落泪时我也难挡感伤。影片后三分之一渐入佳境，最后的高潮让人高燃和极具娱乐化！\n曼森事件处理得也很高级，片尾落幕时，确实让人感叹好莱坞的往事，一去不复返。"
+    },
+    {
+      "user": "市政厅梧桐涅娃",
+      "avatar": "https://img1.doubanio.com/icon/u54311140-69.jpg",
+      "content": "昆老师是坚定决心做行为艺术了"
+    },
+    {
+      "user": "Maria",
+      "avatar": "https://img3.doubanio.com/icon/u142793077-5.jpg",
+      "content": "某昆，奉劝你一句：别把玩弄胡扯当个性。虽然还是滋生了一群洗地狗，依旧没能改变这就是一部彻头彻尾的烂片。"
+    },
+    {
+      "user": "伪装的甘党",
+      "avatar": "https://img3.doubanio.com/icon/u2700292-5.jpg",
+      "content": "“Is everyone alright? “ “The hippies aren’t.That’s for fucking sure!” "
+    },
+    {
+      "user": "天马星",
+      "avatar": "https://img3.doubanio.com/icon/u68499588-11.jpg",
+      "content": "第一次看的时候非常激动与惊喜，但过了找彩蛋的兴奋感之后总是觉得150分钟的铺垫实在太长，对于剧情也是管中窥豹无法了解全貌，但这一次更加清楚每一个铺陈段落的用意。这150分钟的铺垫，除了昆汀一如既往的迷影致敬与恶搞自己的作品之外，更多的是对于昆汀自己童年往事的回忆，一点一滴都是为了结局那一刻的情怀，150分钟的积蓄在最后一刻达到高潮。这一刻是现实与幻想的交互，充满了敬畏与伤感，昆汀用一部电影去造梦去回忆去致敬自己心中的女神，已经达到了迷影的最高境界。"
+    },
+    {
+      "user": "儒",
+      "avatar": "https://img1.doubanio.com/icon/u1562637-7.jpg",
+      "content": "最温柔的昆丁，大爱神仙结尾，想哭。和贾木许一样，昆丁这部迷影片也略偏离他的风格且打上了当下的烙印。双男主+女主一起呈现了各种对好莱坞的爱，更动人的是荣华间隙的落寞、挣扎与平淡（好像也没怎么表现荣华…恭喜小李子终于拥有了神仙演技！头一次真的被他的表演感动，他哭我也想哭，其它时候觉得他好可爱…不会忘记他在车里自己和自己吵架以及和小女孩一起读书那两场戏。"
+    },
+    {
+      "user": "yoshimi",
+      "avatar": "https://img3.doubanio.com/icon/u1013777-1.jpg",
+      "content": "觉得大导演挺扑街的 复古风加明星效应加暴力渲染模式 跟拍小品似的…"
+    },
+    {
+      "user": "李三叔🐷",
+      "avatar": "https://img3.doubanio.com/icon/u92443408-2.jpg",
+      "content": "选择好莱坞附近的amc看，一路开车回来都是电影里的景，这条街道有数不清的理智故事，也成就了那些努力奋斗的电影人。"
+    },
+    {
+      "user": "海樹",
+      "avatar": "https://img3.doubanio.com/icon/u1067265-2.jpg",
+      "content": "观看门槛略高，目测会有类似《头号玩家》那种埋梗解说特辑，不过文章写了也火不了，因为一般观众多半一个也看不出来…0成就感…影迷能get到1/5就算过瘾了（无知如我，要是能看懂一半我可能就给5星了我…）一言蔽之，这铺垫这反转，这好莱坞往事，证明昆汀他爱电影…爱得深沉………😂，马大虎大等人应该乘机卖一波书是真的"
+    },
+    {
+      "user": "燃烧侠",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "有昆汀，莱昂纳多，皮特，你想奢望什么？这一定是我这代人这辈子最想看的一部片子了"
+    },
+    {
+      "user": "丰老",
+      "avatar": "https://img3.doubanio.com/icon/u43832384-4.jpg",
+      "content": "毋庸置疑，这绝对是昆汀近十年来的最佳作品，可以与《低俗小说》一决高下的代表作。尽管昆汀的片子我基本都看过，但他并算不上我特别喜欢的导演。然而，这一部还是要大赞特赞的。它几乎集合了昆汀多年来凝聚的所有技法与灵气，轻逸、雅痞、悖戾、暗藏杀机，它似一股嵌着时代感的冷冽的暖流，暖得热情四溢，冷得沁人心脾。"
+    },
+    {
+      "user": "藍熊船長",
+      "avatar": "https://img1.doubanio.com/icon/u44957091-19.jpg",
+      "content": "看到後來一直在想京阿尼的事，被損壞的只有在夢裡能夠修復。"
+    },
+    {
+      "user": "broken flower",
+      "avatar": "https://img3.doubanio.com/icon/u2444418-15.jpg",
+      "content": "非西部片影迷get不到很多梗。前半段铺垫漫长，后面神展开爆发很爽，还是熟悉的昆汀套路，自己致敬自己可还行。两位男神的CP很好磕，演技火花噼里啪啦。小李走苦逼谐星路线太适合了，全场贡献最多笑点。皮特太能打了，越老越帅，演技层次更游刃细腻，巨像Robert Redford。李小龙的段落肯定要起争议……"
+    },
+    {
+      "user": "Intercept",
+      "avatar": "https://img3.doubanio.com/icon/u3529919-14.jpg",
+      "content": "暴力人物塑造和情节复杂度都不如之前的昆汀啊，玩心变成恻隐之心了，改编历史还没无耻混蛋有逻辑。可能还原60s的好莱坞风情本身才是重点？小李子演戏还是那么用力，其实我是为了还阿尔帕西诺电影票去看的。"
+    },
+    {
+      "user": "Dragmedown",
+      "avatar": "https://img3.doubanio.com/icon/u2256841-151.jpg",
+      "content": "brad pitt假装要打人的时候 啊 梦回fight club！他开头结尾的i tried 我苏了 他让狗狗别乱动 也苏 啊 还是那句话 男孩不会成长 只会老去 脱下西装的瞬间准备打架时 啊 独自拿出米黄色香烟的那段 我鼻尖甚至若有若无感觉到一丝丝烟草的味道 昆汀可真厉害啊！小李的角色很适合他 marggot robbie是真美 像古龙笔下的“每分每寸都是女人” 我能看她跳两个半小时的舞 没有异议 在金色阳光中从书店走进电影院的时候 完全目眩神迷 迷恋brad pitt的那个女孩眉目神似jennifer conelly 昆汀疯狂夹带fetish私货hhhh"
+    },
+    {
+      "user": "Nightingale",
+      "avatar": "https://img3.doubanio.com/icon/u59018976-4.jpg",
+      "content": "标签式的西部片、B级片情节穿插，繁琐的时间轴线上的细节、血浆分别对应了八恶人、无耻混蛋和磨坊系列；一个很简单的疑惑是，69年的年轻人至今已有七老八十，为何还要精致还原时代和戏谑般曼森家族的复仇宣泄？对于娱乐化的历史演义来说，这仅是基于历史的一段扩充了诸多电视电影类型片段的昆汀个人自我致敬；"
+    },
+    {
+      "user": "柠檬水露",
+      "avatar": "https://img1.doubanio.com/icon/u48264778-7.jpg",
+      "content": "怀旧童话，借两个虚构人物的经历写了一封给电影和好莱坞的情书。最后一幕伴随着out of time响起进入最佳状态，人人都爱的那个昆汀回来了，对历史的小小改动造了一个最棒的梦。牛逼，牛逼（昆汀本人口音）。"
+    },
+    {
+      "user": "alfredo",
+      "avatar": "https://img3.doubanio.com/icon/u1260032-22.jpg",
+      "content": "一位自以為重要但發現原來不重要的好萊塢明星，和一位不知道酷了他幾百倍的替身兼司機的故事。這是昆丁神選角嗎？很影迷很鬆散充滿典故的虛擬時代重建，結尾加一星。"
+    },
+    {
+      "user": "DINGAYIN",
+      "avatar": "https://img3.doubanio.com/icon/u55943262-2.jpg",
+      "content": "感覺聽到昆汀說：把假的變成真，把真正的美好留在影像上，電影價值不就是這樣嗎？昆汀幾乎把那年代荷里活的元素都共冶一爐，而且煮得又香又甜。\n看完整個愛上布萊德彼德，人設跟演員魅力都爆錶，真的是這部電影才懂他的帥。片子有他的幾場打戲都確實的大快人心。"
+    },
+    {
+      "user": "儿 子",
+      "avatar": "https://img3.doubanio.com/icon/u1440051-203.jpg",
+      "content": "布拉德皮特太帅了吧我哭泣，我也想躺他腿上"
+    },
+    {
+      "user": "karta454515",
+      "avatar": "https://img3.doubanio.com/icon/u133600186-1.jpg",
+      "content": "比起昆丁以往的电影，这片显得不那么娱乐。与其说爽，不如说看了很舒服。真的很舒服。三个主要角色代表着不同的阶级（稍嫌过气的演员、打拚一辈子仍无所获的特技演员、当红大明星），也代表着三个时间点（过去、现在、未来）。一如往常，昆丁笔下的角色非常真实立体，也有着各不相同且自洽的性格。过气演员活在过去，担心自己无法再造颠峰，但又不愿改变。他有能力，但太想成名而不那么专注于自己的表演。特技演员生活不稳定，但又处之泰然，接受生活中的一切，有自信地活在当下。当红女星也没有因成功而停下脚步，她依然对一切抱持好奇，相信一切可能性。不同于昆丁以往的作品，三位角色并没有戏剧性的连结，整片故事性也不强，但相当真实自然地拍出三人的日常。"
+    },
+    {
+      "user": "Linsey涤生",
+      "avatar": "https://img1.doubanio.com/icon/u3777252-108.jpg",
+      "content": "吹成了神作，前两小时真看不下去，节奏忒慢，也是因为我对60年代电影没什么所谓情怀吧，如果是情书那不是该感动路人的么。"
+    },
+    {
+      "user": "拉黑",
+      "avatar": "https://img3.doubanio.com/icon/u188952595-6.jpg",
+      "content": "李小龙太自大了"
+    },
+    {
+      "user": "离净语",
+      "avatar": "https://img1.doubanio.com/icon/u1244527-118.jpg",
+      "content": "我也不知道电影到今天究竟是该取悦谁了"
+    },
+    {
+      "user": "WayLee",
+      "avatar": "https://img3.doubanio.com/icon/u161471746-1.jpg",
+      "content": "for Bruce"
+    },
+    {
+      "user": "zhang 2nd",
+      "avatar": "https://img3.doubanio.com/icon/u2343960-135.jpg",
+      "content": "1.没觉得羞辱李小龙，反而很尊重他。2.整部电影很有做梦的感觉。3.这是一封情书，幼稚又任性，很感人"
+    },
+    {
+      "user": "ChanelFive",
+      "avatar": "https://img1.doubanio.com/icon/u2004050-57.jpg",
+      "content": "在昆丁一贯的戏虐和暴力外 难得在银幕里看到了他温情感性的一面 p.s.去影院前的背景知识建议：1）至少观看一部西部片（Sergio Leone导演作品尤佳）2）对波兰斯基导演以及曼森家族有稍许了解"
+    },
+    {
+      "user": "Xaviera",
+      "avatar": "https://img3.doubanio.com/icon/u48953772-16.jpg",
+      "content": "前半段門檻太高，非西部片愛好者恐睡著。然而昆汀就真的按照我最想看到的走向拍。該爽的爽，該血漿的血漿，該惡趣味的惡趣味，最後半小時暢快淋漓，本波蘭斯基影迷看到最後真的笑死然後哭死。真心真心真心地感謝電影的存在，因為有了電影那麼多遺憾才能不再是遺憾。\n好比Lalaland，好比好萊塢往事"
+    },
+    {
+      "user": "大猫先生",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "黑李小龙，果断1星，赛脸"
+    },
+    {
+      "user": "蓝白江原道",
+      "avatar": "https://img3.doubanio.com/icon/u76771175-15.jpg",
+      "content": "戏里戏外，“好莱坞”最迷人的都是它的虚实交错。Leo代表虚的一端，西部牛仔、戏中戏、多处镜像，连最后的制胜武器都是电影道具，活成戏痴，也活在梦幻镜像里；Pitt则是实的一端，leo是扮演嬉皮士，他则是真正走入嬉皮士的地域去探寻一个“历史死人”的真相，最真实的暴力都由这位看似虚晃的替身完成；那么，波兰斯基和沙朗就是虚实线的中点，波兰斯基的《魔鬼圣婴》为现实中的他带来灾祸，虚实相互勾连，真正的“电影改变人生”。于是，这部电影迷人的地方来了，当所有人都呼吁电影向生活靠拢时，还有一个迷影的昆汀用最后半小时给你造个大泡泡说，看，电影有它自己改变生活、甚至改变历史的方式。"
+    },
+    {
+      "user": "肥嘟嘟左卫门",
+      "avatar": "https://img1.doubanio.com/icon/u2411826-9.jpg",
+      "content": "和多年前的往事三部曲系列有类似的气质，都是对一个时代的怀念。昆汀掉书袋般的抖出1970年好莱坞的点点滴滴，虽都是表面的细节，但也反映出情怀。为了免于平淡，也不忘搭上自己拿手的紧张桥段（布拉德皮特独闯嬉皮士巢穴，还有结尾那算精彩绝伦的暴力动作戏），算是首尾兼顾。尤其是对嬉皮废青的憎恶大快人心"
+    },
+    {
+      "user": "肌腱必断",
+      "avatar": "https://img3.doubanio.com/icon/u34005309-171.jpg",
+      "content": "除了低俗小说的第二爱"
+    },
+    {
+      "user": "一樂拉面",
+      "avatar": "https://img3.doubanio.com/icon/u176341114-5.jpg",
+      "content": "什么垃圾电影？在一个面对全世界的大荧幕抹黑李小龙！牛逼嗷，借别人一句话，李小龙不是不可以被打败，而不是让你把一代宗师塑造成一个小瘪三的形象！  去你妈的好莱坞往事"
+    },
+    {
+      "user": "冷翳",
+      "avatar": "https://img3.doubanio.com/icon/u1638621-4.jpg",
+      "content": "2019.7.23一个人@Brattle。又是一部讲述60年代末的片子（最近真是太密集）。小李子有时还是用力过猛，皮特还是一直帅。无脑Hippie第一次让人这么讨厌，李小龙那段被黑得够惨，最后结局真是美好的愿望。影迷梗太多，能接住梗的数量和深度决定了观影时候爽的程度。"
+    },
+    {
+      "user": "水原吸管",
+      "avatar": "https://img3.doubanio.com/icon/u158031162-75.jpg",
+      "content": "Leonardo DiCaprio和Brad Pitt都表現得非常好，Margot Robbie也很有Sharon Tate的風姿，我不算是昆汀粉，也不是西部片迷，其實這部片對於一般觀眾來說不太友好，60年代美國盛行西部片，而亞洲卻是盛行梁祝或是白話文小說改編的電影⋯⋯等，文化差異之下很難接收電影給的大量資訊及彩蛋，昆汀開出的十部片單，是接收此片的重要依據。片長將近三小時，其中兩小時是迷影情懷的昆汀，後面三十分鐘是純情的昆汀，Sharon Tate對昆汀、和那個時代的人來說都不曾改變吧。"
+    },
+    {
+      "user": "Muto",
+      "avatar": "https://img3.doubanio.com/icon/u2667219-14.jpg",
+      "content": "时至今日，好莱坞明显已经把真实当做电影制作的标准，这让昆汀不得不考虑拍一部完全虚假的电影——借此来表达他对于电影艺术的理解以及他对于电影未来的担忧。在这位迷影天才看来，历史是由光鲜的银幕形象与不为人知的真相共同合作完成的一档电视节目。为此他的《好莱坞往事》必须要把好莱坞与往事拆开来看，影片真正的主角不仅是那些过气的演员，也是那些实力派的替身，更是那些藏在摄影机背后的导演。这部让人想起《五月之后》的回忆录既讽刺了整体目盲的电影工业也狠狠戏弄了虚实不分被假象蒙蔽双眼的跨掉一代。在虚实互文的结尾，一直站在旁观者立场上的昆汀终于未能一直客观，以极其动情的方式走进了历史。因为作为创作者他不愿意看到历史与未来的重合，他希望那些真正演变成悲剧的往事最终只是一场戏。"
+    },
+    {
+      "user": "破＿",
+      "avatar": "https://img3.doubanio.com/icon/u43106130-4.jpg",
+      "content": "第一次看昆汀的片子翻了白眼（金刚不败都没有），但是仍然不舍得给两星。确实有很多情愫和情怀，但于我个人产生的共鸣和共情都十分有限。最喜欢是莱昂纳多和小女孩的那两场戏。"
+    },
+    {
+      "user": "更深的白色",
+      "avatar": "https://img3.doubanio.com/icon/u2224434-10.jpg",
+      "content": "真给我看嗨了，那些恣肆的迷影，消逝的沧浪，澎湃的暴力，最后都是对电影院椅背上一对脚底有点小脏的脚丫子的温柔抚慰，太深情了，太浪漫了。"
+    },
+    {
+      "user": "林明杰Eric",
+      "avatar": "https://img3.doubanio.com/icon/u43914899-6.jpg",
+      "content": "《好莱坞往事》将昆汀对电影和电视的迷恋发挥到极致，这次直接用特效把本片演员放进该年代的电影里，戏中戏效果惊喜，一众主演明显乐在其中。美术道具高度还原60年代。剧情所有铺垫凝聚在最后十分钟，将真实的Sharon Tate兇杀案作出意想不到的翻转，引发观众大叫。敢想就是电影的力量。"
+    },
+    {
+      "user": "化學超爛男子",
+      "avatar": "https://img3.doubanio.com/icon/u1878963-3.jpg",
+      "content": "「身為一名電影導演，有個拐棍板手在身邊也很合邏輯」，所以有了莽氣十足的《黑色追緝令》、《追殺比爾》；但突然昆丁似乎不再是那個錄影帶店的痞子了，他的電影從血性殘殺、類型拼貼，居然慢慢走向溫緩與自省，於是一封對往日時光的追憶因應而生，不再拼貼、少了貧嘴、缺了惡搞，甚至連標誌性的誇張暴力都只被壓縮到十分鐘以內，更多的是前半段那種難以言喻的情緒，黃金時代裡演員面對的自我懷疑與掙扎，在最輝煌的時光裡感覺自己是NOBODY，再差一點諷刺就成了60年代寫實版《馬男》了。但連結尾都輕輕放下，小心翼翼的維護著一個好萊塢舊夢，輕到彷彿不願醒來，看到了痞子也能柔情若水。但作為觀眾，有太多GET不到的點，前兩小時都在一種疲軟氛圍中，人物形象雖鮮明但缺乏故事推動，各種行車＋老歌像玩GTA，尤其沙朗蒂，特別沒必要。"
+    },
+    {
+      "user": "煽情破坏者",
+      "avatar": "https://img1.doubanio.com/icon/u37507203-128.jpg",
+      "content": "前面两小时真的看得意兴阑珊，直到最后半小时，那个熟悉的昆汀才重现，而我果然也只好他暴力的那一口。"
+    },
+    {
+      "user": "QR",
+      "avatar": "https://img3.doubanio.com/icon/u56891362-5.jpg",
+      "content": "前面被各种开车骑马帅哭 然后最后一段感动想哭"
+    },
+    {
+      "user": "影毒肥佬",
+      "avatar": "https://img3.doubanio.com/icon/u69880425-2.jpg",
+      "content": "全都係他一貫風格.....只係想問,  小女孩原型係咪朱迪科士打小姐.....另那位李生做得好....我估他無笑李生,  李生口提的那些高手,  現在記得的人有多少,  但李生仍在,  還被認為係MMA之父.....借畢生口說李不如那位,  但現實是....看事不能只看表面,  後面還插入李在指導的溫柔鏡頭,  請看有貶低味嗎.....再看李提的比試要求, 並沒串到以為贏定,  3盤2勝,  也說明打在地就算,  這算很囂張嗎, 他打慣的, 知道打架要看體重,  體重不如往往難贏....."
+    },
+    {
+      "user": "第八团军嫂",
+      "avatar": "https://img3.doubanio.com/icon/u2459976-143.jpg",
+      "content": "算是昆丁最正常的一部了"
+    },
+    {
+      "user": "如烟",
+      "avatar": "https://img3.doubanio.com/icon/u174395098-1.jpg",
+      "content": "我喜欢李小龙"
+    },
+    {
+      "user": "TWY",
+      "avatar": "https://img3.doubanio.com/icon/u80915199-11.jpg",
+      "content": "最动人之处是Sharon Tate出现的每一个场景，在整部历史人物被虚构化的影片中，仅有她好似真的从历史中走来，不需要太多描绘，仅仅简单地存在着，并与“复数的历史”碰撞擦出火花。"
+    },
+    {
+      "user": "(^_^)",
+      "avatar": "https://img3.doubanio.com/icon/u167451179-1.jpg",
+      "content": "严重种族歧视"
+    },
+    {
+      "user": "绿子",
+      "avatar": "https://img3.doubanio.com/icon/u90973850-56.jpg",
+      "content": "Kill more people but  you are very gentle"
+    },
+    {
+      "user": "kyou",
+      "avatar": "https://img3.doubanio.com/icon/u43783147-24.jpg",
+      "content": "哈哈哈哈哈哈哈嗝哈哈哈 含广告的三个小时过去了 我以为还有30多分钟 但是结束了 最后有小李广告彩蛋 小李戏多又敏感 皮特演智障那段也是没谁了 brandy狗狗金棕榈实至名归 看完觉得自己也high了"
+    },
+    {
+      "user": "此去经年",
+      "avatar": "https://img1.doubanio.com/icon/u3310259-7.jpg",
+      "content": "当自己的偶像在电影中被丑化，被奚落，被打倒，然后还要舔着脸说拍得好？\n真恶心。\n说不是矮化的认真看杀死比尔系列了？白人女穿成香蕉色大杀四方，刘玉玲就只能演日本黑道被削脑袋？一身衣服的致敬瞧把你们高潮的。"
+    },
+    {
+      "user": "flave",
+      "avatar": "https://img1.doubanio.com/icon/u51914724-7.jpg",
+      "content": "让我生气的是，丑化（或说讽刺调侃）一个已故亚裔演员，在好莱坞完全不是问题；影院观众笑得很开心，也好像没有任何问题。您这么搞一个已故 african american 女演员试试？我对于这种恶搞本来没有意见，但是这种不敢拿别的族裔开涮调侃亚裔没问题的双标和虚伪的 \"inclusive\" 我真是受够了。除此之外。电影还是很好看的。"
+    },
+    {
+      "user": "lisa|离",
+      "avatar": "https://img3.doubanio.com/icon/u2237664-164.jpg",
+      "content": "小李子这一营业竟然把肚皮减到几乎平了哈哈。看预告片好害怕是历史重现啊，直到最后我还在想完了嬉皮找错门了吧？结果是隔壁，真是难得的温柔啊。梗满满的，我非常确定有一半梗我没get到，但是还是很好看啊！而且我不知道为啥总记得al pacino死了，好莱坞老中青男神集会啊。"
+    },
+    {
+      "user": "fifi",
+      "avatar": "https://img3.doubanio.com/icon/u10358661-20.jpg",
+      "content": "虽然昆粉很多，虽然有很多致敬及怀旧情节，但是不得不说故事真的太松散了。"
+    },
+    {
+      "user": "丁酉戊戌",
+      "avatar": "https://img3.doubanio.com/icon/u98500983-10.jpg",
+      "content": "电影本身不怎么出色就不谈了，单单就片中丑化李小龙这一点，就能反映出美国人那种无法阻止中国强大的抓狂、歇斯底里，却又不能把中国怎么样的心态暴露无遗。这种特朗普式的好莱坞电影，着实是把米国人自己当成小丑一般，供世界嘲笑"
+    },
+    {
+      "user": "捡漏儿。",
+      "avatar": "https://img1.doubanio.com/icon/u70280077-49.jpg",
+      "content": "不敢说不好！不好就是没看懂！最后一段爽翻。"
+    },
+    {
+      "user": "Mr. Fahrenheit",
+      "avatar": "https://img3.doubanio.com/icon/u104095795-3.jpg",
+      "content": "以電影改寫電影史，滿部言語惡趣味，但其實整體偏沉悶，除最後一幕外，與導演舊作差別很大。第一期宣傳時說是以Charlie Manson故事藍本，但很快就放棄這部法。後來宣傳以導演掛帥，沒有強調幾位大明星，是因為觀眾對導演的期望高，以為是品質保證。影片正式上映時開始有負評，一眾人仕卻說「觀映門檻高」，讓觀眾以為看不懂是自己的錯，不是導演的錯。坐我旁邊那個中年大叔應該睡了近兩小時，真的想問問他覺不覺得自己有錯。"
+    },
+    {
+      "user": "逃跑不需要计划",
+      "avatar": "https://img3.doubanio.com/icon/u2996899-26.jpg",
+      "content": "Maybe my last movie in the states. I will miss you. I will miss my lonely late night movie. I will miss driving 100+ at midnight with my lovely Maserati. Good luck."
+    },
+    {
+      "user": "Pincent",
+      "avatar": "https://img3.doubanio.com/icon/u1692454-2.jpg",
+      "content": "84/100 居然是一部不太一样且有文化门槛的昆汀作品，其作者性和私人性强了不少，且并没有那么服务他的目标观众了，而更多是自我迷影趣味的展示输出，他的审美还真不是一般人容易共情的，故事和人物上不太经得起深究，只是“玩”罢了，太认真你就输了，且多线叙事和过多戏中戏已经牺牲了叙事节奏，连从前擅长的戏剧张力都相对减弱了，说改编自曼森谋杀案其实也都是幌子。复古的时代质感仍然精致，整体视听调度仍然优秀。其实这也是一部《痛苦与荣耀》，带有自我总结性，也是个人情怀的温柔输出，相同的都是对电影的爱。好莱坞黄金时代的结束是西部牛仔的落幕和新一代嬉皮士的兴起。谁知道结果事件、配角都不那么重要，落点就是双主角的友情与过气演员的自我认同。皮特太有魅力，且这次，小李子的“过度表演”反而因为本就喜剧化而显得没那么违和了"
+    },
+    {
+      "user": "哥斯拉",
+      "avatar": "https://img3.doubanio.com/icon/u141165692-1.jpg",
+      "content": "昆汀最差作品"
+    },
+    {
+      "user": "cutedog",
+      "avatar": "https://img3.doubanio.com/icon/u50563502-2.jpg",
+      "content": "丑化李小龙不能忍。"
+    },
+    {
+      "user": "贱草",
+      "avatar": "https://img1.doubanio.com/icon/u1248454-69.jpg",
+      "content": "知道真实历史的人，肯定会被最后半小时爽到。我看之前什么都不知道，所以更多的是 what the fuck?"
+    },
+    {
+      "user": "🌻🌻🌻",
+      "avatar": "https://img3.doubanio.com/icon/u2788848-36.jpg",
+      "content": "本片最大的驚喜: Lena Dunham ! Hahahaha"
+    },
+    {
+      "user": "何婊砸",
+      "avatar": "https://img3.doubanio.com/icon/u35346929-91.jpg",
+      "content": "说真的，不太喜欢，这次对昆汀失望了。主线不明朗，剧情模糊，两大主角的故事视角走马观花，泛泛而谈不知所云，完全体现不出上世纪那个好莱坞变革时代的风起云涌和星光熠熠。姗姗而至如同丧尸片的暴力恶趣味高潮大戏，登峰造极的恋脚癖，又是虚实相加改写历史，让人应接不暇的配曲首首皆尤为动听！！！想要昆汀的歌单！！！ToT Lena Dunham，Scoot McNairy和Maya Hawke的出现令人惊喜！Dakota Fanning和Austin Butler是全片最大亮点！黄发造型的Brad Pitt挺帅的，而且还有点像高司令？"
+    },
+    {
+      "user": "阿汪和小萝贝儿",
+      "avatar": "https://img3.doubanio.com/icon/u50264741-5.jpg",
+      "content": "给三星不是因为不好，而是比起他早期的电影，它差不多三星了。导演一贯的风格一直都在，只是温柔了不少。昆丁的电影必须一场一场慢慢看，才体会得到那种舒爽。不过李小龙的部分是有点让人看的不舒服，把李小龙写的像只猴子。"
+    },
+    {
+      "user": "HOW",
+      "avatar": "https://img3.doubanio.com/icon/u83188680-11.jpg",
+      "content": "从前有个坞，坞里头有两个人，千千万万人中的两个而已。这片子剧透也没意义。（我郑重为第一次看预告片的时候把小李说自己是个has-been听成lesbian道歉）"
+    },
+    {
+      "user": "蓝调共和",
+      "avatar": "https://img1.doubanio.com/icon/u1038939-69.jpg",
+      "content": "布莱特.彼得在片中好粗犷性感啊。最后一幕非常的惊悚，同时又很有喜剧效果。说起波兰斯基，他的影片我还真看了不少。ranch那一幕如邪教一般的封闭空间，让人细思极恐。小女孩演技太好太美了！"
+    },
+    {
+      "user": "blessedroll",
+      "avatar": "https://img1.doubanio.com/icon/u34792032-8.jpg",
+      "content": "失望了"
+    },
+    {
+      "user": "日王仔",
+      "avatar": "https://img1.doubanio.com/icon/u67840454-19.jpg",
+      "content": "昆汀还是讲故事的大师，将一个人尽皆知的故事拍的有声有色，视点选得尤其好，该有的元素都在，昆汀迷不会失望。"
+    },
+    {
+      "user": "维城乱马",
+      "avatar": "https://img3.doubanio.com/icon/u1367110-160.jpg",
+      "content": "相信我，在你了解了影片大的时代背景和真实案件的历史之后，还能保持相对审慎/理性/开放式的期待，一定能更好的欣赏这部电影～"
+    },
+    {
+      "user": "凶兆",
+      "avatar": "https://img3.doubanio.com/icon/u28336099-2.jpg",
+      "content": "照这么玩的话，我可以搞个Once upon a time宇宙出来——两个屌丝阻止了刺杀马丁路德金、两个屌丝阻止了刺杀列侬、两个屌丝阻止了刺杀里根、两个屌丝阻止了刺杀林肯、两个屌丝阻止了刺杀斐迪南……you name it"
+    },
+    {
+      "user": "岛田贝基塔",
+      "avatar": "https://img3.doubanio.com/icon/u55480551-20.jpg",
+      "content": "最后部分非常嗨，布拉德皮特帅得离谱。不是资深影迷，我得承认所有梗我几乎都接不住，甚至被砸得有点狼狈。未来是一定要重看一遍的。"
+    },
+    {
+      "user": "beige babe",
+      "avatar": "https://img3.doubanio.com/icon/u38198766-115.jpg",
+      "content": "二十一世纪最美丽的女演员扮演二十世纪最美丽的女演员。但电影本身来说，应该是昆丁最无聊的一部。"
+    },
+    {
+      "user": "忽而惊寤皆是梦",
+      "avatar": "https://img3.doubanio.com/icon/u145240631-76.jpg",
+      "content": "40/100 #香港百老汇院线# 昆汀在失去萨莉·门克的意见和约束后，原先被压制的问题大量暴露和放大在《好莱坞往事》中。首先这部电影的非线性叙事是不成功的，在视听和叙事没有达到相应的下以往昆汀依靠大量对话的自我指涉形式丧失了其根本的生命力。其次它的创新能力也不够，你不光可以看到昆汀痴迷的话痨和血浆，几乎他以往所有的作品均有涉及，但这些毫无节制的小机灵在一部三小时的电影里是撑不住主线故事的。最后，昆汀在这部电影中的野心太大，这个看似极具意识流的叙事手法实际还是停留在传统电影的叙事结构内，而且你会发现他最后还是放弃了此前所做出种种努力都失去效用，还是和《八恶人》一样靠着血浆和粗口把一个生硬的结局强行上升到本不属于它的主题。"
+    },
+    {
+      "user": "Respect!",
+      "avatar": "https://img3.doubanio.com/icon/u3113091-1504.jpg",
+      "content": "作为综艺，类似崔永元的《电影往事》，作为电影，类似《一步之遥》、《新喜剧之王》甚至《海上传奇》。对于作者导演最悲剧的就是，掌握无限资源的时候，丧失了创作能力和欲望，只剩下“弄一个伟大作品”这种野心的惯性。从《无耻混蛋》开始，昆丁在剧作都出现解决不了的结构性问题（症状为形式上越来越频繁的旁白、闪回、机械降神，以及情节上总是加入突兀的阉割/爆阴，仿佛无意识地自我指涉“我不行了”），至此整段垮掉。"
+    },
+    {
+      "user": "十万蜡烛香蕉船",
+      "avatar": "https://img3.doubanio.com/icon/u152383865-6.jpg",
+      "content": "#villageeast"
+    },
+    {
+      "user": "Maverick",
+      "avatar": "https://img1.doubanio.com/icon/u51586895-7.jpg",
+      "content": "爽不到"
+    },
+    {
+      "user": "耐磨抗静电",
+      "avatar": "https://img3.doubanio.com/icon/u154312114-5.jpg",
+      "content": "对李小龙的恶意都要溢出屏幕了还说喜欢李小龙？真的很喜欢昆汀的暴力美学风格，但这个电影真喜欢不来"
+    },
+    {
+      "user": "罌至",
+      "avatar": "https://img3.doubanio.com/icon/u120761271-3.jpg",
+      "content": "看到李小龍那一段在電影院裡尷尬癌犯了，皮特再帥也沒法忍受看到這麼一段醜陋不堪的「精心」設計，醜化亞洲人確實是刻在白精男骨子裡的習慣。無論如何也不會再喜歡昆汀了。除了腳底板和最後半小時也確實認不出來是他拍的。"
+    },
+    {
+      "user": "幸运+++",
+      "avatar": "https://img3.doubanio.com/icon/u52258502-44.jpg",
+      "content": "前两小时都太琐碎了。出字幕了得再看一遍，我感觉好多没看懂。但了解了下历史背景后再看最后三十分钟，真的是感觉好温柔，非常昆汀。"
+    },
+    {
+      "user": "落水狗",
+      "avatar": "https://img3.doubanio.com/icon/u2433078-5.jpg",
+      "content": "一部有些奇怪的电影 可能源于缺少60年代迷影文化 节奏有些碎 结局非常让人失望 全片只认出了虎虎虎的海报，the outer limits的开场白，和mcqueen的大逃亡，一星给满屏的美腿和全程开挂的皮特"
+    },
+    {
+      "user": "又又",
+      "avatar": "https://img1.doubanio.com/icon/u3051458-238.jpg",
+      "content": "慢慢看，还是挺有味道的"
+    },
+    {
+      "user": "Mo",
+      "avatar": "https://img3.doubanio.com/icon/u2401213-5.jpg",
+      "content": "基本上快看睡着了"
+    },
+    {
+      "user": "麦唛",
+      "avatar": "https://img3.doubanio.com/icon/u49761983-83.jpg",
+      "content": "对昆汀路人转黑。\n真的贱。\n希望豆瓣早日加个“不想看”的选项。"
+    },
+    {
+      "user": "Baristina",
+      "avatar": "https://img3.doubanio.com/icon/u2748328-194.jpg",
+      "content": "看一个小时以后睡了大概半小时  醒了发现完全跟得上剧情  （朋友：有剧情吗？"
+    },
+    {
+      "user": "Vi",
+      "avatar": "https://img3.doubanio.com/icon/u1143429-555.jpg",
+      "content": "原声碟来一张谢谢"
+    },
+    {
+      "user": "栗色雪",
+      "avatar": "https://img3.doubanio.com/icon/u50051173-4.jpg",
+      "content": "当然是更喜欢早期的昆汀，不过迷影之温存细腻之心仍无法不令人动容。"
+    },
+    {
+      "user": "荆棘",
+      "avatar": "https://img3.doubanio.com/icon/u1562754-30.jpg",
+      "content": "不断拜服在神剪辑，神长镜头和神跳跃叙事的同时，情绪渐渐累积到最后半小时的热血沸腾和泪流满面。好莱坞亲儿子对曾经荒谬却辉煌的黄金时代最温柔的回忆和重塑，好像是昆汀用全部生命写出的故事，或说是私家回忆，是送给他的影迷太好的礼物。"
+    },
+    {
+      "user": "一碗云吞",
+      "avatar": "https://img3.doubanio.com/icon/u1349428-10.jpg",
+      "content": "第一次在电影院抖腿。。。拍和演这样的片子应该超过瘾吧，虽然都老了，第一个镜头差点没认出来小李子，但是皮特的身材我的妈。。。。看到结尾我居然差点哭了。。。"
+    },
+    {
+      "user": "Lidan.HK",
+      "avatar": "https://img3.doubanio.com/icon/u1104430-13.jpg",
+      "content": "布拉德皮特真帅。小李子很可能去拍西部片。"
+    },
+    {
+      "user": "chuchu",
+      "avatar": "https://img1.doubanio.com/icon/u86728823-19.jpg",
+      "content": "真心喜歡這部片的每一秒鐘!虛實之間,昆丁帶來屬於影迷的舊好萊塢童話!兩位男主角各自展現了完全不同,但都非常極致的魅力!看得出導演和演員們所有人都玩得很盡興XD 啊啊啊~怎麼可以這麼好看~準備二刷!!"
+    },
+    {
+      "user": "丁不起",
+      "avatar": "https://img3.doubanio.com/icon/u1239443-24.jpg",
+      "content": "难看死了"
+    },
+    {
+      "user": "Lu",
+      "avatar": "https://img3.doubanio.com/icon/u2240229-413.jpg",
+      "content": "最后十五分钟电影院热闹得像开party似的"
+    },
+    {
+      "user": "本初老儿",
+      "avatar": "https://img3.doubanio.com/icon/u1349000-51.jpg",
+      "content": "我真的不是特别确定这种梦该不该做。"
+    },
+    {
+      "user": "red.",
+      "avatar": "https://img3.doubanio.com/icon/u1294931-146.jpg",
+      "content": "故事完全服务于idea。一场场戏割裂开，看起来的确是多年写成。完全没有浑然天成，一气呵成的感觉。35mm的胶片版从观影享受上还是很不错。女人出现的片段剪出来可以变成mv或者写真。有种极力自证自己花了很多精力来营造那个年代的感觉。有些跟拍镜头有些多了，长了。最后打人一段还是很quentin。帅哥迟暮感觉快赶上美人迟暮的感觉了，与其说是所谓新旧好莱坞的关系，不如说是导演内心深处的独白吧？女人在这部片里的花瓶作用是这几年来的电影里少见的。"
+    },
+    {
+      "user": "索尔之锤",
+      "avatar": "https://img3.doubanio.com/icon/u74937470-11.jpg",
+      "content": "说实话能在电影院看未被刀的昆汀是一件非常幸福的事，虽然前十分钟因为困小盹了一会，但后面两个半小时真的是屏神凝息看完的。没想到继无耻混蛋后昆汀再一次用电影改变历史，用最后血腥的二十分钟为波兰斯基狠狠出了口气，虽然不知道波兰斯基看到这部电影会怎么想，但我相信他会接受昆汀用电影为他圆掉遗憾的好意。正如昆汀在戛纳上说的，这个尾真的剧透不得，这是一个电影大师对另一个电影大师诚挚的温柔，观众值得享受这份感动。昆汀做单场戏的能力依旧无与伦比，小李子皮特帕西诺只有到昆汀手上才用的出完全不一样的味道。当然作为合格粉丝的首要任务当然是看昆汀花样秀自己的恋足癖，看昆汀怎样不顾合理也要让这些女角色全程不穿鞋，可惜这届女演员的脚不行。和小李子对戏的八岁小女孩太灵了，非常喜欢"
+    },
+    {
+      "user": "Ms.M四点三十分",
+      "avatar": "https://img3.doubanio.com/icon/u57906332-23.jpg",
+      "content": "低于期待值 李小龙part再扣一分"
+    },
+    {
+      "user": "养生达人挖煤",
+      "avatar": "https://img3.doubanio.com/icon/u41624434-36.jpg",
+      "content": "这啥？"
+    },
+    {
+      "user": "Walawa",
+      "avatar": "https://img3.doubanio.com/icon/u79875584-4.jpg",
+      "content": "就算你是昆汀也不行"
+    },
+    {
+      "user": "Helicopter",
+      "avatar": "https://img3.doubanio.com/icon/u1155157-31.jpg",
+      "content": "不迷影的话大概就是还好吧...最后集体爽一下，好像也是标配而没有太大惊喜..."
+    },
+    {
+      "user": "這個人",
+      "avatar": "https://img3.doubanio.com/icon/u170176667-1.jpg",
+      "content": "沃草！超級喜歡啊！昆汀這老頭果然是個超級影迷，就算鎖定在西部片的年代，也呈現出非常多不同的風味和特色！看小李子和布萊德彼特兩位大叔飆戲實在過癮，光是看就夠了，劇情什麼的都不用提！整部片看下來真的太有趣了，高潮迭起看的我心情好澎湃，真的是獻給影迷的最佳作品之一！昆汀呀昆汀，你從來就不是個鬼才，你是超級鬼才兼死忠影迷呀！愛死了！激推激推！"
+    }
+  ]
+}

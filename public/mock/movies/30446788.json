@@ -1,0 +1,1201 @@
+{
+  "title": "轮到你了",
+  "url": "https://movie.douban.com/subject/30446788/",
+  "rate": "8.7",
+  "id": "30446788",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2553707144.jpg",
+  "info": [
+    "导演: 佐久间纪佳 / 小室直子",
+    "编剧: 福原充则 / 秋元康",
+    "主演: 原田知世 / 田中圭 / 西野七濑 / 木村多江 / 生濑胜久 / 竹中直人 / 浅香航大 / 奈绪 / 山田真步 / 三仓佳奈 / 大友花恋 / 峰村理惠 / 大方斐纱子 / 德井优 / 金泽美穗 / 坪仓由幸 / 中尾畅树 / 小池亮介 / 井阪郁巳 / 荒木飞羽 / 袴田吉彦 / 片桐仁 / 真飞圣 / 和田聪宏 / 野间口彻 / 林泰文 / 片冈礼子 / 皆川猿时 / 田中要次 / 长野里美 / 坂田雅信 / 安藤政信 / 田中哲司",
+    "类型: 剧情 / 悬疑 / 犯罪",
+    "官方网站: https://www.ntv.co.jp/anaban/",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "首播: 2019-04-14(日本)",
+    "集数: 20",
+    "单集片长: 46分钟",
+    "又名: It Is Your Turn"
+  ],
+  "desc": "新婚夫妇菜奈（原田知世饰）和翔太（田中圭饰）搬进了公寓的新房，幸福甜蜜的两人对新生活充满期待。搬家当天公寓要开居民会，菜奈猜拳输给了翔太，便独自前去参加。\n                                    \n                                　　除会长早苗（木村多江饰）、管理人床岛（竹中直人饰）以外，还有田宫（生濑胜久饰）、黑岛（西野七濑饰）等共十三人参加了居民会。闲聊时，床岛一句“谁都有想杀某个人的瞬间”让众人虽有些犹豫但还是纷纷谈论起恨不得他死的那个人，接着话题就意外地转向了“只要交换杀人目标就不会被抓”。\n                                    \n                                　　床岛向众人提议，每个人都公布自己想杀的人。大家觉得只是个游戏，并未多想，就在多余的投票纸上写下了那个人的名字，随后还抽了签。\n                                    \n                                　　这一次居民会，拉开了菜奈和翔太深陷其中的恐怖杀人游戏的序幕……！",
+  "members": {
+    "director": {
+      "name": "佐久间纪佳 Noriyoshi Sakuma",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1526993612.52.jpg"
+    },
+    "cast": [
+      {
+        "name": "原田知世 Tomoyo Harada",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386602737.37.jpg"
+      },
+      {
+        "name": "田中圭 Kei Tanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530158100.46.jpg"
+      },
+      {
+        "name": "西野七濑 Nanase Nishino",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1515323546.48.jpg"
+      },
+      {
+        "name": "木村多江 Tae Kimura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367155814.66.jpg"
+      },
+      {
+        "name": "生濑胜久 Katsuhisa Namase",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1409417275.4.jpg"
+      },
+      {
+        "name": "竹中直人 Naoto Takenaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474.jpg"
+      },
+      {
+        "name": "浅香航大 Kôdai Asaka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1369920424.29.jpg"
+      },
+      {
+        "name": "奈绪 Nao.",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1532946692.79.jpg"
+      },
+      {
+        "name": "山田真步 Maho Yamada",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pr8XIwxwbrYcel_avatar_uploaded1466510763.19.jpg"
+      },
+      {
+        "name": "三仓佳奈 Kana Mikura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59024.jpg"
+      },
+      {
+        "name": "大友花恋 Otomo Karen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1520352492.91.jpg"
+      },
+      {
+        "name": "峰村理惠 Rie Minemura",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1442414956.29.jpg"
+      },
+      {
+        "name": "大方斐纱子 Hisako Ohkata",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1525571286.1.jpg"
+      },
+      {
+        "name": "德井优 Yu Tokui",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20177.jpg"
+      },
+      {
+        "name": "金泽美穗 Miho Kanazawa ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502166243.56.jpg"
+      },
+      {
+        "name": "坪仓由幸 Yoshiyuki Tsubokura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521809131.5.jpg"
+      },
+      {
+        "name": "中尾畅树 Nakao Masaki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1562067143.39.jpg"
+      },
+      {
+        "name": "小池亮介 Ryosuke Koike",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p33XNcgud5NIcel_avatar_uploaded1552638714.58.jpg"
+      },
+      {
+        "name": "井阪郁巳 Ikumi Isaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1555825182.76.jpg"
+      },
+      {
+        "name": "荒木飞羽 Towa Araki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1543327241.85.jpg"
+      },
+      {
+        "name": "袴田吉彦 Yoshihiko Hakamada",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8545.jpg"
+      },
+      {
+        "name": "片桐仁 Jin Katagiri",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pddooPrX8nnUcel_avatar_uploaded1375838285.1.jpg"
+      },
+      {
+        "name": "真飞圣 Sei Matobu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534966558.37.jpg"
+      },
+      {
+        "name": "和田聪宏 Toshihiro Wada",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15221.jpg"
+      },
+      {
+        "name": "野间口彻 Tôru Nomaguchi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1393242931.67.jpg"
+      },
+      {
+        "name": "林泰文 Yasufumi Hayashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20181.jpg"
+      },
+      {
+        "name": "片冈礼子 Reiko Kataoka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2947.jpg"
+      },
+      {
+        "name": "皆川猿时 Sarutoki Minagawa",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461228756.89.jpg"
+      },
+      {
+        "name": "田中要次 Yôji Tanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8581.jpg"
+      },
+      {
+        "name": "长野里美 Satomi Nagano",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pL8bBHwvKHxUcel_avatar_uploaded1521804074.7.jpg"
+      },
+      {
+        "name": "坂田雅信 Masanobu Sakata",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1384751840.64.jpg"
+      },
+      {
+        "name": "安藤政信 Masanobu Andô",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53248.jpg"
+      },
+      {
+        "name": "田中哲司 Tetsushi Tanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p19253.jpg"
+      },
+      {
+        "name": "田村海优 Miyu Tamura",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1555899097.79.jpg"
+      },
+      {
+        "name": "大野琉功 Riku Oono",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1555899239.36.jpg"
+      },
+      {
+        "name": "田中玲 Rei Tanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1555899347.61.jpg"
+      },
+      {
+        "name": "笕美和子 Miwako Kakei",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1392307830.75.jpg"
+      },
+      {
+        "name": "永岡卓也 Takuya Nagaoka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524821794.68.jpg"
+      },
+      {
+        "name": "横滨流星 Ryûsei Yokohama",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534813736.12.jpg"
+      },
+      {
+        "name": "前原滉 Maeko",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1510822578.97.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2554194029.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2557845535.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2559295396.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2560268080.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2557845490.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "心火",
+      "avatar": "https://img3.doubanio.com/icon/u152433875-10.jpg",
+      "content": "日剧万能定律：撑过第一集，熬完整个夜。"
+    },
+    {
+      "user": "金妮白玉糖",
+      "avatar": "https://img3.doubanio.com/icon/u49339521-5.jpg",
+      "content": "再一次感叹 日本人那种顺从合群的性格有时候真的挺扭曲的"
+    },
+    {
+      "user": "kyloshair",
+      "avatar": "https://img3.doubanio.com/icon/u121288094-12.jpg",
+      "content": "就想跟热评内位说一下，田中圭真不是我的菜，不要随便代表别人，靴靴"
+    },
+    {
+      "user": "水泳泳",
+      "avatar": "https://img3.doubanio.com/icon/u185767431-4.jpg",
+      "content": "只有我觉得尾野外形像圆润低配版苍井优吗"
+    },
+    {
+      "user": "剁椒羊头",
+      "avatar": "https://img3.doubanio.com/icon/u4573421-2.jpg",
+      "content": "公寓版狼人杀？"
+    },
+    {
+      "user": "北海怪兽",
+      "avatar": "https://img3.doubanio.com/icon/u133302941-11.jpg",
+      "content": "甜圭太可爱了，小奶狗我可以（不喜欢就不喜欢，非要说出来就很讨厌把）"
+    },
+    {
+      "user": "努力向上の攸然",
+      "avatar": "https://img3.doubanio.com/icon/u40691818-20.jpg",
+      "content": "甜圭太甜了吧也！"
+    },
+    {
+      "user": "周旋久",
+      "avatar": "https://img1.doubanio.com/icon/u73489613-8.jpg",
+      "content": "第一集有点乱。第二集往后都超级无敌贼他妈好看。好刺激啊！！！！刚看完第三集直播，好想看第四集啊啊啊啊啊啊，番外篇也很恐怖！！！"
+    },
+    {
+      "user": "小狐狸增增",
+      "avatar": "https://img3.doubanio.com/icon/u4016064-14.jpg",
+      "content": "好久好久都没有那麼愛一部劇了，這劇如果全部屯著一起看的話一定超爽的！！但屯著不是我的風格，還有為什麼已經出到第6集了還有人認為女主是兇手，女主她絕對不是兇手！！！她如果是兇手的話我吃屎！！！"
+    },
+    {
+      "user": "TwelveMargaret",
+      "avatar": "https://img3.doubanio.com/icon/u119224522-5.jpg",
+      "content": "田中圭是不是“最想和他结婚的男演员”第一名？是的话大家选的对，不是的话他必须马上给我是！"
+    },
+    {
+      "user": "拍照的蘑菇",
+      "avatar": "https://img1.doubanio.com/icon/u4356691-47.jpg",
+      "content": "原田小姐姐保养的可太好了，五十的人了，和田圭虽然有点年龄差，但是cp感很强，讲真最佩服的还是日本女星，就算是老了皮肤还是很好而且还是有温柔的少女感，重点是没有整容痕迹不假面，到底是怎么做到的？"
+    },
+    {
+      "user": "戚阿九",
+      "avatar": "https://img3.doubanio.com/icon/u55885396-33.jpg",
+      "content": "一个楼想要集齐这么多神经质也真是不容易"
+    },
+    {
+      "user": "Xxxpsd",
+      "avatar": "https://img3.doubanio.com/icon/u140812312-3.jpg",
+      "content": "剧情还挺新颖有趣的，但是田中圭有事吗？又油又丑一脸褶子还夹着嗓子装奶狗卖萌，实在是惊悚"
+    },
+    {
+      "user": "三日月猫",
+      "avatar": "https://img3.doubanio.com/icon/u178404092-33.jpg",
+      "content": "田中圭可以不要演小奶狗吗感觉实在是一把年纪了"
+    },
+    {
+      "user": "瑜籽酱",
+      "avatar": "https://img3.doubanio.com/icon/u76354589-5.jpg",
+      "content": "看一群神经病杀人居然看上瘾了，我这个狂热又胆小的推理剧爱好者。20集真的很过瘾但周更真的很煎熬啊！忍不住想看剧本！！秋元康你什么时候出书我要买！！"
+    },
+    {
+      "user": "庞大人",
+      "avatar": "https://img3.doubanio.com/icon/u1005539-4.jpg",
+      "content": "不挺好看的么？你们要求真多。"
+    },
+    {
+      "user": "胡萝卜喂喂",
+      "avatar": "https://img3.doubanio.com/icon/u81318015-5.jpg",
+      "content": "太精彩了，悬疑推理类的也算是阅片无数，这个是真实地让人害怕，意想不到，而且观众并没有比主角多知道一些信息，很多人带着秘密死了，很多人说的话也可能是假的，和主角一起在经历的感觉，一开始觉得哪哪都是bug，田中圭演的也太傻白甜，后来觉得有这么一个圣母在真好啊，后面就是看怎么解释清楚不要出bug"
+    },
+    {
+      "user": "一只肥鸽子",
+      "avatar": "https://img3.doubanio.com/icon/u182595915-3.jpg",
+      "content": "表白娜娜赛，五星观望，不要烂尾"
+    },
+    {
+      "user": "懒懒",
+      "avatar": "https://img3.doubanio.com/icon/u58009265-10.jpg",
+      "content": "唉，那个老婆婆真的...只能说演技真好...无语..."
+    },
+    {
+      "user": "天地無用",
+      "avatar": "https://img1.doubanio.com/icon/u167101230-29.jpg",
+      "content": "田中圭！停止卖萌！谢您全家！"
+    },
+    {
+      "user": "masami",
+      "avatar": "https://img1.doubanio.com/icon/u112966596-27.jpg",
+      "content": "这公寓住的是一群神经病吧，无聊又拖沓，故弄玄虚"
+    },
+    {
+      "user": "胡嫂",
+      "avatar": "https://img3.doubanio.com/icon/u115849665-13.jpg",
+      "content": "好讨厌看田中圭装嫩啊！"
+    },
+    {
+      "user": "芳川",
+      "avatar": "https://img3.doubanio.com/icon/u93389106-16.jpg",
+      "content": "田中圭入我2019年霓虹男演员黑榜了"
+    },
+    {
+      "user": "Somnambulist",
+      "avatar": "https://img3.doubanio.com/icon/u175382759-1.jpg",
+      "content": "田中圭真的是被选成最想嫁的男艺人吗……剧里完全演不出小奶狗的样子啊，我看的全是油腻……为田中圭扣两星"
+    },
+    {
+      "user": "桃桃",
+      "avatar": "https://img3.doubanio.com/icon/u154135194-4.jpg",
+      "content": "感觉根本逻辑上说不通啊...假如凶杀大部分都是由身边的人/认识的人造成的，那么一个公寓里的13个人聚在一起互相帮对方杀人，就算没动机，还是会被抓到啊，因为有共同点（同样的住所）..."
+    },
+    {
+      "user": "囚鲸",
+      "avatar": "https://img3.doubanio.com/icon/u5354150-4.jpg",
+      "content": "田中圭一把年纪了能不能不要再刻意追求这种傻白甜的角色啊，简直用力过猛到令人作呕的程度了，尤其是第六集。而且所谓的决选也是因为一众优质男优都已婚了吧，宽叔小七西岛叔福山叔等人都结婚了才轮得到他吧。剧情走向也越来越狗血，仿佛在侮辱观众智商，这么多坑看你怎么填，简直就像推理小说拿精神分裂凑数一样，毫无逻辑"
+    },
+    {
+      "user": "雪·法妮奥",
+      "avatar": "https://img3.doubanio.com/icon/u60997951-5.jpg",
+      "content": "这是鼓励社恐人士努力赚钱买独栋别买公寓啊……"
+    },
+    {
+      "user": "zts",
+      "avatar": "https://img1.doubanio.com/icon/u52470011-7.jpg",
+      "content": "开头交换杀人的噱头做的很足，可是接着几十个人物扎堆出场实在是记不住啊，还要跨季播半年，有人会一直追下去么？"
+    },
+    {
+      "user": "故此东西",
+      "avatar": "https://img3.doubanio.com/icon/u154587273-10.jpg",
+      "content": "演医生的那个，在假面骑士w里演蟑螂怪。有些人表面上是医生，背地里却是个蟑螂怪"
+    },
+    {
+      "user": "_Helga",
+      "avatar": "https://img3.doubanio.com/icon/u127759166-3.jpg",
+      "content": "田中圭真的是太恶心了我窒息//肥秋原案以后再也不碰 看得让人想翻白眼"
+    },
+    {
+      "user": "阿鹤",
+      "avatar": "https://img3.doubanio.com/icon/u152564532-1.jpg",
+      "content": "男女主的恋爱线真的是看得烦躁，腻的不行。现在无语的是男主是个推理迷人设，结果推理没有多少，全都是鲁莽的冲进别人家，先要菜奈救，然后又要堂忍救。另外男主妻子死了，大家要围着他转吗？黑岛凌晨还在接他的电话，堂忍要熬夜做ai系统。他还要把木下收集的资料拿走，木下借出了，你记录完总要还吧，他目前仍然不愿意归还。他自己不会收集资料吗？"
+    },
+    {
+      "user": "306号房客",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "垃圾剧。演员演技夸张，人物性格全部中二，就女主稍为正常一点，男主三十多岁的人还强装奶狗，剧情幼稚到爆。九集前死了四个人，这幢公寓还不被记者扒光了？每天不应该到处是长枪短炮的狗仔队吗？买楼的才怕公开，租屋子的怕个毛，把交换杀人情报卖给记者，这笔收入怎么说不好过打工？被人要胁两句教唆杀人就去杀人，这是多么脑残的行为，教唆杀人还能打官司，自己去杀人还被某人知道得一清二楚，这么简单的帐不会算？公寓接二连三的死人，住户居然还要考虑其他人的心情，说好的保护家人呢，难道家人的性命比邻居风评还要轻吗？某个警察说自查就自查，男女主角就两弱智，这是性命攸关的大案，这个警察是你爹，你这么信他？"
+    },
+    {
+      "user": "River",
+      "avatar": "https://img1.doubanio.com/icon/u51076240-37.jpg",
+      "content": "日剧逐渐变成人类行为大赏"
+    },
+    {
+      "user": "小长假总工程师",
+      "avatar": "https://img3.doubanio.com/icon/u53426826-25.jpg",
+      "content": "田中圭打算演智障到什么时候？"
+    },
+    {
+      "user": "新世纪腐淫战士",
+      "avatar": "https://img1.doubanio.com/icon/u59024812-157.jpg",
+      "content": "用LINE群聊能解决的事，非得线下会晤，晤出事来了吧。值得关注的是，本剧是日剧中少有的跨季度剧，战线足足拉成20集，这体量，「白色巨塔」、「不毛地带」也不过如此了。这回我倒是要看看秋元康这老葫芦里卖的是什么药"
+    },
+    {
+      "user": "骑着狮子追虱子",
+      "avatar": "https://img3.doubanio.com/icon/u177852391-1.jpg",
+      "content": "这个医生长得还能再丑点吗…"
+    },
+    {
+      "user": "长袜子皮皮",
+      "avatar": "https://img3.doubanio.com/icon/u44741698-22.jpg",
+      "content": "田中奎这种半截身子入土的奶狗老婆迷是怎么回事，太油腻了大哥！交换杀人这个设定太喜欢了，日本人名不虚传。"
+    },
+    {
+      "user": "アイリス",
+      "avatar": "https://img3.doubanio.com/icon/u52555204-16.jpg",
+      "content": "公寓住民都有种讨厌感。神经兮兮的特写让人吃不消。还有这个海报太密集了。"
+    },
+    {
+      "user": "胡枝子",
+      "avatar": "https://img3.doubanio.com/icon/u48514087-13.jpg",
+      "content": "四星送女主，少女感很强，跟田中竟然完全没有违和感的一组cp。可见人要上了年纪，第一是不能胖，胖一点点都会显得油腻。"
+    },
+    {
+      "user": "F条咸鱼",
+      "avatar": "https://img3.doubanio.com/icon/u115915996-4.jpg",
+      "content": "bug太多，田中圭太丑，一惊一乍的配乐太让人出戏。\n看到精通计算机还能打的内向天才帅哥出场真是惊叹一声绝了，原来这是一部师奶悬疑。\n（丑八怪）小奶狗+天才帅哥联手破案，不填bug只撒狗血，媚俗得不讲基本法了。"
+    },
+    {
+      "user": "游",
+      "avatar": "https://img1.doubanio.com/icon/u49020461-57.jpg",
+      "content": "感觉就是日本不动产为了推广新築而来黑的二手房…………………………"
+    },
+    {
+      "user": "梦想飞天的肥罗",
+      "avatar": "https://img3.doubanio.com/icon/u178005003-1.jpg",
+      "content": "为什么大家评价都这么高?只有我一个人觉得这部剧除了\"交换杀人\"这个剧情新颖一点。在剧情上漏洞百出，剧中人物反应反常。槽点过多，节奏拖沓么?"
+    },
+    {
+      "user": "满满",
+      "avatar": "https://img1.doubanio.com/icon/u3481727-17.jpg",
+      "content": "一星预定，以日本这类悬疑剧喜欢故弄玄虚的一贯尿性，前面悬念越吊人胃口，结局往往越wtf，中间的小结局已经很雷人了，对那些大段细致分析剧情疑点的剧评，我真想问，需要这么认真吗？这剧明明透着一股烂尾相吧（希望打脸），另外，对男主卖萌感到不适"
+    },
+    {
+      "user": "Giroro",
+      "avatar": "https://img3.doubanio.com/icon/u156084837-4.jpg",
+      "content": "讲真的田中圭，小奶狗，我不可以，有点油腻"
+    },
+    {
+      "user": "至此不谈风月",
+      "avatar": "https://img3.doubanio.com/icon/u59188959-3.jpg",
+      "content": "5集弃。太难看了吧……一个这么有意思的设定能被写得这么无趣，我唯一的感慨就是日本人活得太憋屈了。都能想象这要是个美剧得有多好看，我等拍了美剧再看吧。节奏这么慢能扯20集，完了番外居然还有18集？！我的时间没这么不值钱啊。唯一的可取之处就是参与游戏的人也被写在纸上了吧，但是一开始就用了这个可以当最终反转的情节，还让这种事发生好几次，不禁好奇会怎么收场啊……【人都被杀完了还留下谁杀人？！"
+    },
+    {
+      "user": "Pipokie",
+      "avatar": "https://img3.doubanio.com/icon/u137699070-21.jpg",
+      "content": "竟然真有会把女主写死的编剧？？权游都没你们狠👍🏻"
+    },
+    {
+      "user": "cathyice",
+      "avatar": "https://img3.doubanio.com/icon/u3805998-10.jpg",
+      "content": "为田中圭扣一颗星"
+    },
+    {
+      "user": "Bibles",
+      "avatar": "https://img3.doubanio.com/icon/u65714592-32.jpg",
+      "content": "今夏能够让我持续追半年的剧也只此一部了。收回之前的话，虽然没有危险妻子好看。别人一集一反转，这剧是一集一个坑。交换杀人和微笑杀人，两条线索穿插，才看是觉得有些乱，追到反击篇，线索也就愈来愈清晰"
+    },
+    {
+      "user": "黄青蕉",
+      "avatar": "https://img1.doubanio.com/icon/u2524948-39.jpg",
+      "content": "爹啊娘喂甜圭演这种被大十几岁的大叔大姐姐宠爱的乖甜毛毛狗真是不能更合适！职业吃软饭选手！有毛毛狗在线发嗲连剧情都不那么吓人了！姐姐爱你！姐姐养你！姐姐来买三万块的咖啡机（且骗你只要五千八！"
+    },
+    {
+      "user": "名为一尾鱼",
+      "avatar": "https://img3.doubanio.com/icon/u83496302-10.jpg",
+      "content": "不及格，营销推广做得好，剧情一般，前十几集我都看的开心的，突然告诉我护士杀人了，这基本等同于导演认自己是傻逼。 \r前面各种恐怖片风格的配乐、镜头，奇奇怪怪的假线索，最后来个局外狼，你快去你妈的吧，白瞎了我两晚上的熬夜。"
+    },
+    {
+      "user": "叶清圆",
+      "avatar": "https://img3.doubanio.com/icon/u125348811-11.jpg",
+      "content": "逻辑漏洞太多，情节转折也多不合理，豆瓣日韩剧分数普遍虚高是真的"
+    },
+    {
+      "user": "fujiko",
+      "avatar": "https://img1.doubanio.com/icon/u172742218-9.jpg",
+      "content": "悬疑不悬疑，无聊且拖沓，公寓住了一群变态"
+    },
+    {
+      "user": "frozenmoon",
+      "avatar": "https://img3.doubanio.com/icon/u1233038-2.jpg",
+      "content": "看一会觉得实在接受不了，放下，然后想想，觉得再看一看吧，坚持一会，还是不行，就这样断断续续看了几集。真是受不了一惊一乍的表演方式，那警察每次提到尸体就跟漫画里的人物一样，大家真的都可以接受是吧？这些日剧里的人就不能要求他们表现得正常一点吗？"
+    },
+    {
+      "user": "メヤ",
+      "avatar": "https://img3.doubanio.com/icon/u1538733-43.jpg",
+      "content": "喜欢设定和氛围，想把田中圭这个令人石化的角色直接荧光打码叉出去。"
+    },
+    {
+      "user": "剧说",
+      "avatar": "https://img3.doubanio.com/icon/u155091512-1.jpg",
+      "content": "这部剧并没有挑战观众的智商，也没有挑战观众的胆量，充其量是在挑战观众的记忆力，一开场塞这么多人物进来算是讲故事的大忌，首先别说代入故事中去，光记人脸就要浪费太多时间，当然编剧为了能让每个出场的人物留下记忆点，从外貌、从行为语言等方面都充满了神经的气息，但这种神经质仅仅只是为了区分人物而已，除此之外，也别无他用，看来看去就是一场死亡闹剧，从头到尾炫耀着死法和诡计，挺无聊的。"
+    },
+    {
+      "user": "激辣",
+      "avatar": "https://img3.doubanio.com/icon/u53868898-2.jpg",
+      "content": "演技差，长得丑，剧情差，bgm装神弄鬼。"
+    },
+    {
+      "user": "Fern",
+      "avatar": "https://img3.doubanio.com/icon/u148099939-2.jpg",
+      "content": "轮到你了，人设有问题 第一天晚上女主在内的居民们玩了狼人杀 第二天出现的第一个死者明显是他杀 作为侦探迷的男女主在目睹了杀人现场  警察判定是自杀时 他们还觉得是自杀不是他杀？！"
+    },
+    {
+      "user": "www",
+      "avatar": "https://img3.doubanio.com/icon/u139475020-2.jpg",
+      "content": "感觉不像电视剧而是情景剧，但是场景的布置摄像机的拍摄还没有家有儿女好，演员的演技好奇怪，像在看一群郑爽飙演技，真的很神经病，剧组经费有限吗？人物性格也很夸张，既然这样，那你做成动漫可能更合适。剧情很吸引人，但拍成这样，追得我好难受。"
+    },
+    {
+      "user": "曾良君",
+      "avatar": "https://img3.doubanio.com/icon/u40960942-235.jpg",
+      "content": "这剧有毒，我已经连续四天梦见杀人和埋尸了。"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "3.5  摄制、表演皆廉价，但靠遍布反转、走向异常神奇的剧情，成为本季最爆款日剧。\np.s.最终集还是没透露幕后boss是谁👋光靠自己的脑子无论如何也想不到👋看长评区解析又不信👋"
+    },
+    {
+      "user": "芦哲峰",
+      "avatar": "https://img1.doubanio.com/icon/u1329080-9.jpg",
+      "content": "最大的意外是结局竟然没完，答案留给下一季揭晓，真是坑。论变态，我只服男主，动辄撒娇，十分肉麻。"
+    },
+    {
+      "user": "安不虚",
+      "avatar": "https://img1.doubanio.com/icon/u175975365-9.jpg",
+      "content": "看第一集觉得有点浮夸，第二集立马就真香。无论是悬疑氛围还是刺激的point都很刚好，值得看！"
+    },
+    {
+      "user": "牛奶全坏了",
+      "avatar": "https://img3.doubanio.com/icon/u44653541-133.jpg",
+      "content": "剧情可以，但是对笑起来一脸褶子的田中圭怎么也喜欢不起来，才35岁啊，笑起来怎么这么可怕。。。而且傻白甜过了头，虽然有时候很搞笑。但是，还是算了吧。。"
+    },
+    {
+      "user": "王小叶儿",
+      "avatar": "https://img3.doubanio.com/icon/u50809981-21.jpg",
+      "content": "悬疑片的根本创作方式就是要做一个耍流氓的上帝，你的故事你做主，误导观众，忽略部分“逻辑”，只要你足够强硬自圆其说。所以那些有强烈逻辑性和道德感的人，反而容易把自己绕进去，写出的作品可能逻辑缜密，少有bug，但是却充满着完美的平庸感。所以，不要害怕缺陷，首先要让自己雄于众人。这是我学到的。不完美本身意味着无限的遐想与空间，而哪还有比悬疑片更需要遐想的题材。"
+    },
+    {
+      "user": "hellen",
+      "avatar": "https://img3.doubanio.com/icon/u42608063-4.jpg",
+      "content": "姐弟夫妇的戏份不快进实在受不了，假得没边了，有点肉麻。其他戏份也都很拖沓，无聊，演员人设夸张，表演浮夸，男主的表演已经到了一开口就必须快进的地步。"
+    },
+    {
+      "user": "游泳鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1234432-96.jpg",
+      "content": "人是越死越多，局越做越大，不会烂尾吧。"
+    },
+    {
+      "user": "白苏打饼干",
+      "avatar": "https://img3.doubanio.com/icon/u49267129-3.jpg",
+      "content": "这是34岁的男人么，我以为他14岁。用力过猛的姐弟恋浪费大量时长。剧情遮遮掩掩，拖拖拉拉，以为要结束了，原来还有第二季。。这种挖坑规模让人想起了南派三叔。"
+    },
+    {
+      "user": "Strawberry Ju",
+      "avatar": "https://img1.doubanio.com/icon/u40930379-37.jpg",
+      "content": "这个剧情太真空了。。"
+    },
+    {
+      "user": "fox",
+      "avatar": "https://img3.doubanio.com/icon/u1880974-21.jpg",
+      "content": "如果他真的十集就结束 我肯定要吐槽烂尾，但最后留了一个如此大的坑，就必须点赞了。现在我只有一个问题：第二季啥时候出"
+    },
+    {
+      "user": "sirius_flower",
+      "avatar": "https://img3.doubanio.com/icon/u3402721-82.jpg",
+      "content": "故弄玄虚成分过多了 有些看起来很有料的角色轻易就死了（像女主前夫）有些无关紧要的角色则占了太多戏份。当然这可以是故意调戏观众注意力 拖延大揭秘的发生。其实看不到拍两季的意义 一季铺垫一季揭秘？"
+    },
+    {
+      "user": "人間食粮",
+      "avatar": "https://img1.doubanio.com/icon/u58843582-57.jpg",
+      "content": "为了悬疑而悬疑就很没意思了 凑一栋楼神经病来玩狼人杀根本没意义 神经病才不管游戏规则 设定一开始就有太多硬伤了"
+    },
+    {
+      "user": "Tia.",
+      "avatar": "https://img3.doubanio.com/icon/u1430473-54.jpg",
+      "content": "气氛烘托得可以。第四集开始渐入佳境。私以内，全员容疑者。我对这个神番只有一个要求：最后把所有伏笔都圆回来。"
+    },
+    {
+      "user": "捌拾伍頁",
+      "avatar": "https://img3.doubanio.com/icon/u159020463-4.jpg",
+      "content": "楼里住的就是一群神经病吧，太多的住户太多的表现过于夸张莫名其妙了，如此多神经病统一约好住在同一栋楼里 这么大的逻辑bug"
+    },
+    {
+      "user": "大爷一支花",
+      "avatar": "https://img1.doubanio.com/icon/u4595467-17.jpg",
+      "content": "这片厉害了，虽然放了很多烟雾弹，但是依旧很难猜出幕后boss。最后一集追逐戏毁了，智障般的操作匪夷所思，期待第二部填坑。"
+    },
+    {
+      "user": "BLUE",
+      "avatar": "https://img3.doubanio.com/icon/u188158635-2.jpg",
+      "content": "之前看到第七集觉得很差 现在越看越有意思了 就是演员演戏过猛"
+    },
+    {
+      "user": "一只瘸鹅",
+      "avatar": "https://img3.doubanio.com/icon/u178626900-1.jpg",
+      "content": "甜圭让我撑下去了！拜托小甜甜再接再厉嘤"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "田中圭是弃剧的最大理由，扯喉咙卖萌实在太不适合他了，姐弟发糖毫无触动。深井冰一样的神展开，已不想再看越来越巨型的坑，日剧果真要88。交换杀人的经典案例请参考希胖之《火车怪客》。"
+    },
+    {
+      "user": "昼夜温沉",
+      "avatar": "https://img3.doubanio.com/icon/u152907622-4.jpg",
+      "content": "明明是烧脑剧却根本就是恐怖片嘛我丢！！！作为一个看了还算不少烧脑片但依旧算是个小白的我来说，这程度不是高考数学压轴题也是倒数第二题了吧……一点钟看完去翻影评到四点都没睡着，这种咬着笔头钻研剧情脉络的精神也是有史以来了呢，因为太害怕干脆开着灯等天亮了哭啊，现在六点半了终于有了一丝安全感，可以考虑睡觉了……"
+    },
+    {
+      "user": "NOREASON",
+      "avatar": "https://img3.doubanio.com/icon/u58302789-6.jpg",
+      "content": "这个开局也太硬了，一群业主没事莫名坐下玩杀人游戏，日本劳力短缺老龄化严重真的不冤…还在看，后面好看我会回来改分的（这个时候没人发挥一下民族大义写个川普什么的也太自私了"
+    },
+    {
+      "user": "栗子侠",
+      "avatar": "https://img3.doubanio.com/icon/u49413948-30.jpg",
+      "content": "甜圭在bg里还能不能好好恋爱了？第一集出场人物太多根本记不住，不过确实有点怕怕的。"
+    },
+    {
+      "user": "Hideo",
+      "avatar": "https://img1.doubanio.com/icon/u6296367-17.jpg",
+      "content": "艰难的看完了，这是第一个不论从剧作还是表演还是剪辑都让我感觉看不下去的日剧……与期待的严谨伏笔不同的是，这剧的伏笔大多数都没啥用，多数时候是为了营造出“悬疑”氛围而滥用的……导致了一个推理剧竟然自己吃设定……竟然是个超长预告片……最后别说还想弄个剧场版做解答篇……"
+    },
+    {
+      "user": "SYLVIA",
+      "avatar": "https://img3.doubanio.com/icon/u84757334-20.jpg",
+      "content": "日剧真的是太容易让人感觉油腻和尴尬了……所有演技不做评价，暂且看看悬疑推理的剧本怎么样。//追评，因为少有此类题材吧，所以分数这么高。此类犯罪不可能是同楼居民的互相作案，很想看真正的完美犯罪啊，所以有些失望……bug也有，其他不多做评价了，维持三星及格分吧。另，男女主对手戏全部快进了……"
+    },
+    {
+      "user": "秋庭怜子",
+      "avatar": "https://img3.doubanio.com/icon/u98362865-10.jpg",
+      "content": "千万不要招惹邻居啊喂，天天住一个楼里还敢互相玩狼人杀，死都不知道怎么死的。\n看了八集才发现一共二十集，事情远远没有那么简单，我还认真做了破案笔记呢。"
+    },
+    {
+      "user": "祸害王",
+      "avatar": "https://img3.doubanio.com/icon/u2333815-24.jpg",
+      "content": "不知道分数怎么这么高的 随便看过几本日本推理就看不下去好吧...如果玩过弹丸论破就更加了 akimoto桑也不是什么都行的嘛 反击篇终于露出了秋元康的本意，那就是推nanase，所以她就算不是反派肯定也是最重要的角色，靠卡司猜剧情走向···"
+    },
+    {
+      "user": "GIVIND",
+      "avatar": "https://img3.doubanio.com/icon/u59203564-123.jpg",
+      "content": "顺着剧情看就得，一开始就没有人是正常的，未知的谋杀总吊人胃口，除此也并无特别亮眼之处 ——不过如此令人讨厌的一群乱嚼舌根自作自受被迫害妄想症患者能聚在一起互相变态互相恐吓互相残杀也是蛮清奇了 /"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "4.5。第10集结尾一个wtf，第11集继续一个wtf。男主出院的时候，护士说，已经通过电话了，你太太下班后会来接你的。可女主是自由职业者也没有下班这个概念，而且发现的时候都已经臭了。所以一直在照顾男主的人，到底是谁……#我的短评为什么被吞了一次，有啥好和谐了……"
+    },
+    {
+      "user": "熬夜真的很不好",
+      "avatar": "https://img3.doubanio.com/icon/u1288503-14.jpg",
+      "content": "突然get到日剧的诡计：一本正经胡说八道的内容➕是人都懂的道理=理直气壮的台词&生拱情节。可是这开头真的有点扯啊！我们家小区都没有这么些个臭毛病惯的规律和欠揍的邻居！想杀我？EP.01我就当面撕你撕到搬家好吗？"
+    },
+    {
+      "user": "后自愈",
+      "avatar": "https://img1.doubanio.com/icon/u75391386-29.jpg",
+      "content": "真现实版狼人杀，人数太多已经看到昏迷，像我这种逢玩狼人杀必划水的选手，看这种剧脑子里完全没有逻辑可言，看到翔太一本正经的推理只剩下头大。另外也是展现了众生百态，人各有病。"
+    },
+    {
+      "user": "mOco",
+      "avatar": "https://img3.doubanio.com/icon/u2290115-320.jpg",
+      "content": "这一季果然没有填上这个大坑。虽然有些信息并未和观众共享，但还是很大程度实现了和观众的互动（参与推理）。日剧浮夸的表演方式真影响观感。男主小奶狗的设置太刻意讨好女性观众了。"
+    },
+    {
+      "user": "hikari",
+      "avatar": "https://img1.doubanio.com/icon/u36591097-18.jpg",
+      "content": "这剧到底是什么人在看啊……为了赵女士的主题曲看了几集，太烂了，尬的我头疼，实在坚持不下去了"
+    },
+    {
+      "user": "岑思录",
+      "avatar": "https://img3.doubanio.com/icon/u34485416-21.jpg",
+      "content": "公寓版狼人杀。连环杀人的设定不错，但男主的忠犬人设也太傻白甜了，看得我尴尬癌发作…& 婆婆真的是恶心"
+    },
+    {
+      "user": "暂命名",
+      "avatar": "https://img3.doubanio.com/icon/u49545854-6.jpg",
+      "content": "“微博吹捧的剧/电影必定垃圾”这个定理至今没被打破过。很无聊的剧，要说恐怖，无。要说悬疑，bug很多。这幢公寓招租的时候广告语是“神经病之家，拒绝正常人入住”吧。槽点太多了。"
+    },
+    {
+      "user": "elaineOoo",
+      "avatar": "https://img1.doubanio.com/icon/u115640400-8.jpg",
+      "content": "观测中，毕竟才出了第一集，田中圭选剧的眼光还蛮特别的"
+    },
+    {
+      "user": "小J²",
+      "avatar": "https://img1.doubanio.com/icon/u37483485-8.jpg",
+      "content": "铺垫的时间太长了。。。。"
+    },
+    {
+      "user": "iktir_w",
+      "avatar": "https://img1.doubanio.com/icon/u74271115-7.jpg",
+      "content": "ep01 目前2019春季最佳（补：看了小吉高的我要准时下班 觉得这两部目前并列最佳）// ep02 咖啡机价格那地儿真的看得我白眼快翻出来了 这对儿接下来绝对会出事儿// ep03 突然觉得效率过低 大家都是随便抽签的 我杀了我抽到的纸条上的人 然后一个个连续杀下去 这得猴年马月轮到抽到我那张纸条的人啊 当然了运气好了可能互相抽到 然后就闭合了 两集完事儿// ep04 本集有关于女主的重大情报！// ep10 一直在看 只是没什么好说的..等第二季 // 第二季在看 但是没什么好说的"
+    },
+    {
+      "user": "汉尼拔萝卜青菜",
+      "avatar": "https://img3.doubanio.com/icon/u155764027-4.jpg",
+      "content": "本来前几集很好，真的是很好。到了十二三集的时候，编剧发现前边的一万个坑有点圆不上了，于是开始加新人，以后就变成每一集编剧都硬塞给你，这个人特别可疑，那个人特别变态，这些人就是有问题……让原本觉得一直在紧紧张张推理的你，渐渐发现：自己从始至终都是个傻子。🙃"
+    },
+    {
+      "user": "昏昏糕",
+      "avatar": "https://img3.doubanio.com/icon/u50197852-14.jpg",
+      "content": "…………好难看"
+    },
+    {
+      "user": "跳楼汽水",
+      "avatar": "https://img3.doubanio.com/icon/u80853946-5.jpg",
+      "content": "设定还是蛮吸引人的，可惜剧情展开太慢支线太多，很多镜头也很莫名其妙，围观别人吵架偷听他人讲话这些镜头看了真的很尴尬，最糟糕的是这部剧70%的演员连演技都没有，失望🤷"
+    },
+    {
+      "user": "A-sun*",
+      "avatar": "https://img3.doubanio.com/icon/u1365397-136.jpg",
+      "content": "播到中间剧情已经莫名其妙了还说本季最强……"
+    },
+    {
+      "user": "喾χ",
+      "avatar": "https://img3.doubanio.com/icon/u156898494-3.jpg",
+      "content": "早苗和尾野是全剧最可怕的两个人"
+    },
+    {
+      "user": "刘康康",
+      "avatar": "https://img1.doubanio.com/icon/u46843344-18.jpg",
+      "content": "只有我看不下去这部剧吗？既不本格又不社会派的恐怖搞笑片？奇怪的大杂烩"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img1.doubanio.com/icon/u165379620-8.jpg",
+      "content": "真的很棒，细节很多，烧脑的地方很多，每一集结束都会跟朋友讨论很久，值得一追的电视剧！"
+    },
+    {
+      "user": "Izumii",
+      "avatar": "https://img1.doubanio.com/icon/u50894170-118.jpg",
+      "content": "不结合现实来看的话，剧情扣人心弦，音效配合得好，很有恐怖悬疑的气氛。其实我看完之后在想，这并不是一个悬疑片，而是借“杀人游戏”来反应一下社会的问题，每个家庭都是一个象征，有温情的也有病态的，编剧没有故作深刻，而是点到即止，由观者去自己品味思考。所以凶手是谁其实反倒不是最重要的..."
+    },
+    {
+      "user": "俗人庸人小人",
+      "avatar": "https://img3.doubanio.com/icon/u97070896-41.jpg",
+      "content": "17集弃，前期只是逻辑弱，后期毫无逻辑"
+    },
+    {
+      "user": "The rest of my",
+      "avatar": "https://img3.doubanio.com/icon/u186428942-1.jpg",
+      "content": "原田小姐姐保养的可太好了，五十的人了，和田圭虽然有点年龄差，但是cp感很强，讲真最佩服的还是日本女星，就算是老了皮肤还是很好而且还是有温柔的少女感，重点是没有整容痕迹不假面，到底是怎么做到的？"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "觉得并不是很有意思啊，后期画风像是十八线电视台的奇闻探秘故事节目一样，土土的。"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "狼人杀游戏反转剧，情节还是挺烧脑的，就是个别几个演员的演技浮夸又用力，令人实在吃不消。结局挖了一堆坑和线索没解释，总觉烂尾可能性非常高。以及西野七濑倒是蛮耐看的。"
+    },
+    {
+      "user": "音無 知檜",
+      "avatar": "https://img3.doubanio.com/icon/u52957612-3.jpg",
+      "content": "菜奈，下一季我还能看见你，对吧？"
+    },
+    {
+      "user": "一大点",
+      "avatar": "https://img3.doubanio.com/icon/u144452471-2.jpg",
+      "content": "我们对日剧评价这么宽容的嘛？跟真正意义上优秀的日剧差得太远"
+    },
+    {
+      "user": "绿其實是夜光魚",
+      "avatar": "https://img3.doubanio.com/icon/u2891005-631.jpg",
+      "content": "安藤政信真好看"
+    },
+    {
+      "user": "Me张小彩",
+      "avatar": "https://img3.doubanio.com/icon/u87599429-15.jpg",
+      "content": "只有日本人才会这么敢，说是15岁的年龄差，就真敢找相差15岁还多的人来演cp，说白了还是剧本和演技过关，才敢这么玩。卧槽，看完了更新的前十集，根本不敢不打五星，果然像那个评论说的，熬过第一集，撑完一整夜，昨天绝对是我近半年来熬过最狠的夜了（虽然也就不到凌晨1点而已）"
+    },
+    {
+      "user": "臭臭不臭1977",
+      "avatar": "https://img3.doubanio.com/icon/u74682347-1.jpg",
+      "content": "推理剧不及格。真的是咬着牙硬看到第八集，几个人在那中二病爆发进行游戏推理。还真有人相信是在交换杀人？？？人类的行为准则中，当你只是教唆犯罪时，你并不会为了洗脱这个罪名，而去成为真正的杀人犯。因为如此一来面临的情况只会更糟糕。集体不报案的这种行为，更是绝对不可能发生的事情。完全就是强行设定的逻辑。"
+    },
+    {
+      "user": "☀️林同学🖖",
+      "avatar": "https://img3.doubanio.com/icon/u50300019-3.jpg",
+      "content": "看到13集忽然觉得之前12集简直就是浪费我时间，什么鬼啊"
+    },
+    {
+      "user": "白衣卿相",
+      "avatar": "https://img1.doubanio.com/icon/u1538764-97.jpg",
+      "content": "日本电视剧终于开始扩容了。。。但如果把所有内容都汇到一起，拍一部剧，效果应该会更好吧。"
+    },
+    {
+      "user": "没有感情的",
+      "avatar": "https://img3.doubanio.com/icon/u148663958-25.jpg",
+      "content": "要是烂尾我就回来改四星，二阶堂出事我就改三星哼"
+    },
+    {
+      "user": "伍零一",
+      "avatar": "https://img3.doubanio.com/icon/u66228668-23.jpg",
+      "content": "看了十集，一楼神经病，尴尬的剧情，浮夸的演技"
+    },
+    {
+      "user": "炸鱼条和蛋奶糊",
+      "avatar": "https://img3.doubanio.com/icon/u48159954-70.jpg",
+      "content": "越往后越好看！"
+    },
+    {
+      "user": "XFire",
+      "avatar": "https://img3.doubanio.com/icon/u71979549-3.jpg",
+      "content": "看不下去了，节奏慢，剧情烂，人物普遍变态，前面是悬疑剧，后面是社会剧，最难以忍受的还是人物个个畸形"
+    },
+    {
+      "user": "陶者无缰",
+      "avatar": "https://img1.doubanio.com/icon/u28302780-7.jpg",
+      "content": "希望反擊篇不要爛尾，雖然擔心幾率有點高。強烈拒絕甜圭是boss論，老子的釘鞋在哪？"
+    },
+    {
+      "user": "小水",
+      "avatar": "https://img3.doubanio.com/icon/u1453929-10.jpg",
+      "content": "看了三集真的看不下去"
+    },
+    {
+      "user": "Pury",
+      "avatar": "https://img3.doubanio.com/icon/u63615698-5.jpg",
+      "content": "表演摄影布景可能都是这么多年日剧里最烂最廉价的，但靠着肥秋这个创意先行的点子竟然还看得下去，田中圭的奶狗形象真是令人作呕。"
+    },
+    {
+      "user": "wise🐾喵悠哉",
+      "avatar": "https://img1.doubanio.com/icon/u1769218-228.jpg",
+      "content": "坑太多，BGM总是一惊一乍，一栋楼都是神经病。"
+    },
+    {
+      "user": "九头身日奈",
+      "avatar": "https://img3.doubanio.com/icon/u65943772-51.jpg",
+      "content": "太难看了，从角色到剧情没有一点逻辑，做作的要命，恐怖气氛也只能靠bgm烘托，唯一感想就是以后对一切微博营销声势过大的影视剧都要敬而远之。"
+    },
+    {
+      "user": "Justina",
+      "avatar": "https://img3.doubanio.com/icon/u53083392-11.jpg",
+      "content": "好久没精彩的日剧了，这个还不错。每周都看影评，太精彩了。"
+    },
+    {
+      "user": "ReeZan",
+      "avatar": "https://img3.doubanio.com/icon/u44232292-85.jpg",
+      "content": "动画片水准"
+    },
+    {
+      "user": "阿狸",
+      "avatar": "https://img3.doubanio.com/icon/u121941388-4.jpg",
+      "content": "追完了才发现竟然全部都是坑！ 加上做作的演技 恶心的人设 越来越不想看日剧啊"
+    },
+    {
+      "user": "雨过天青",
+      "avatar": "https://img3.doubanio.com/icon/u2721730-3.jpg",
+      "content": "莎奶奶之厉害在于无人生还、东方快车谋杀案都被设定在密闭的环境里，逻辑自洽，天衣无缝。而该剧只能漏洞百出，媒体不采访不曝光、警察愚蠢无能还腐败，以为是非现代社会里，一群心灵扭曲的人碰巧做了邻居。"
+    },
+    {
+      "user": "ChrisKirk",
+      "avatar": "https://img3.doubanio.com/icon/u58244021-43.jpg",
+      "content": "人类迷惑行为大赏。"
+    },
+    {
+      "user": "打工妹小萝",
+      "avatar": "https://img3.doubanio.com/icon/u48766134-16.jpg",
+      "content": "立意，杀人动机和番外比杀人有意思"
+    },
+    {
+      "user": "侧目而",
+      "avatar": "https://img3.doubanio.com/icon/u168645414-4.jpg",
+      "content": "挖这么多坑，以为第二季多精彩呢，每一集拖沓得要命，故弄玄虚，浪费时间。"
+    },
+    {
+      "user": "Polaris.J",
+      "avatar": "https://img3.doubanio.com/icon/u60169569-5.jpg",
+      "content": "挺有意思  但是日剧的演技真的是。。。。\n看着看着觉得主角们实在太蠢了。"
+    },
+    {
+      "user": "回转艾丽卡",
+      "avatar": "https://img3.doubanio.com/icon/u3968796-60.jpg",
+      "content": "这个西野七濑太可爱了，恋爱了"
+    },
+    {
+      "user": "李三",
+      "avatar": "https://img3.doubanio.com/icon/u175224315-2.jpg",
+      "content": "看到第九集准备弃了 没有想象中的好 逻辑上常有bug 在人性探讨没有耐心没有深度 在推理上没有灵活度 在人物刻画上模板化严重 可能这种题材的日剧已经拍滥了 到了一个微妙的创作瓶颈"
+    },
+    {
+      "user": "沉默的包几",
+      "avatar": "https://img1.doubanio.com/icon/u67779870-9.jpg",
+      "content": "写名字的纸是从死亡笔记上撕下来的吧，哈哈哈"
+    },
+    {
+      "user": "xoxo00",
+      "avatar": "https://img3.doubanio.com/icon/u43716096-3.jpg",
+      "content": "强迫自己从众这件事真是……要不得。"
+    },
+    {
+      "user": "Q·ian·Sivan",
+      "avatar": "https://img1.doubanio.com/icon/u86835059-19.jpg",
+      "content": "「最近大家看起來都越來越像殺人犯了.」"
+    },
+    {
+      "user": "1995",
+      "avatar": "https://img3.doubanio.com/icon/u114382959-13.jpg",
+      "content": "真的太啰嗦了 弃"
+    },
+    {
+      "user": "Whatever-ing",
+      "avatar": "https://img3.doubanio.com/icon/u45118346-62.jpg",
+      "content": "感情生活真的很烦了 凶手到底是谁"
+    },
+    {
+      "user": "JF",
+      "avatar": "https://img1.doubanio.com/icon/u1285271-28.jpg",
+      "content": "看到第二集就放弃，实在看不下去，每个演员用力过猛，虽然知道这就是日剧的特点，但是这种没有逻辑故弄玄虚的台词实在受不了，逻辑诡异低能惊悚镜头，让人浑身不舒服。"
+    },
+    {
+      "user": "一定要早睡觉",
+      "avatar": "https://img1.doubanio.com/icon/u47064034-8.jpg",
+      "content": "开始好看了"
+    },
+    {
+      "user": "土豆没有泥",
+      "avatar": "https://img1.doubanio.com/icon/u69249814-78.jpg",
+      "content": "蛋糕之夜氛围塑造是相当好了...以及倒数第二集 cn 死去小意外..."
+    },
+    {
+      "user": "般若多目",
+      "avatar": "https://img1.doubanio.com/icon/u3214496-27.jpg",
+      "content": "形式有点弹丸论破…「你不是答应了我不说的吗？」「对不起！我这个人是说话不算数的。」get"
+    },
+    {
+      "user": "飞行员",
+      "avatar": "https://img3.doubanio.com/icon/u1176118-31.jpg",
+      "content": "除了搞笑情节没有丝毫无用信息量"
+    },
+    {
+      "user": "蓦山溪",
+      "avatar": "https://img3.doubanio.com/icon/u3699020-2.jpg",
+      "content": "侮辱智商，全员智障，剧情都懒得说了，十分无趣。男主最影响观感，前面操痴情小奶狗忠犬小男友人设就已经很烦了，后面一转变暴躁疯狗就更劝退了，怎么的你老婆死了全世界都要伺候着你是吗？还什么反击篇，除了强迫人家给你做AI就只看到各种冲动暴躁加哭亡妻，不要侮辱反击两个字谢谢"
+    },
+    {
+      "user": "(｡･ω･｡)ﾉ♡",
+      "avatar": "https://img1.doubanio.com/icon/u140659552-7.jpg",
+      "content": "最喜欢的就是夫妇俩都喜欢看推理小说，搬家对那一盒子书进行了好多次特写，看到了死了七次的男人，哈哈哈，我好敏锐呀，因为看过这本书。"
+    },
+    {
+      "user": "Ciao-xi",
+      "avatar": "https://img3.doubanio.com/icon/u136017060-11.jpg",
+      "content": "轮到你失望了。\n1、不认可编剧挖坑的方式，为了吸引观众而不断挖坑，这和标题党有何异同？只剩下3集了，请问您有多少坑没有填？而且依据编剧的尿性，我盲猜大boss不是公寓里的人，可能与微笑猥琐男一样是外来者，这样有什么意思？一切的未来都掌握在编剧手上而不是依据自己的推理得出。\n2、编剧对中国女孩有stereotype？剧中出现再磕碜的女性角色穿的都比较得体大方，例如石崎洋子，更遑论黑尾、北川、菜奈这种讨喜的女性角色了，而看看片中唯一的中国女孩，每天穿的大红大绿，头上还别着一根发卡，这难道不是对中国女性的穿着认知狭隘吗？\n3、一切都太过戏剧化了，没有真实感。例如藤野想要杀人，一直找不到，茫茫人海，被杀者自己送上门。\n4、总一是真帅。"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "交换杀人的概念还挺有意思的，一定要记得看番外篇《房门之内》，很多角色人设上的疑惑都能解开。"
+    },
+    {
+      "user": "绑定手机号干啥",
+      "avatar": "https://img3.doubanio.com/icon/u61314598-1.jpg",
+      "content": "按理来说，这种模式的杀人案，是破了一个案子然后才发生下一个案子。这尼玛的，死了一个接一个，故意抛噱头，根本不收包袱。更过分的是连环杀人案也不是发生在啥前不着村后不着店的暴风雪山庄，就tmd光天化日朗朗乾坤，一栋楼里连着死了一面包车人，警察还能觉得它们之间没关系呢？我可去nmd，我城乡结合部民警都知道“大案要案快破必破”，你狗日的资本主义还有没有效率？有没有王法？\n这套路就是吊胃口把人当傻子玩呢，老子不吃这一套。"
+    },
+    {
+      "user": "橘生淮北",
+      "avatar": "https://img3.doubanio.com/icon/u152394764-5.jpg",
+      "content": "看不下去"
+    },
+    {
+      "user": "色烈芬_",
+      "avatar": "https://img1.doubanio.com/icon/u69475039-9.jpg",
+      "content": "1、如果讨厌一个人 那就打他一顿好了 都不会想杀了他的 我是不是太善良了？2、里面的人衣品都好好啊！日本人的装扮都不花又有设计感 好喜欢！3、好像大家都喜欢西野七濑？可是我觉得护士更好看啊！那我把笕和美子抱走了啊。"
+    },
+    {
+      "user": "zc",
+      "avatar": "https://img3.doubanio.com/icon/u4617398-4.jpg",
+      "content": "剧情拖拉 公寓里不是神经病变态就是智力低下 真的是边看边骂 但还是想知道结局"
+    },
+    {
+      "user": "红叶@提不起劲",
+      "avatar": "https://img3.doubanio.com/icon/u2768499-2.jpg",
+      "content": "期待结局。千万不能烂尾或者洗白。"
+    },
+    {
+      "user": "WIKI魏",
+      "avatar": "https://img3.doubanio.com/icon/u27465503-26.jpg",
+      "content": "他们低头写名字的时候，很多人也在默默思考写谁或者谁们的名字吧。前9集以为是交换杀人太烧脑子了，10集怎么就变画风了？不过里面未知的事情太吊胃口：孩子、冰柜装肉的大叔、收贿赂的警察、之前这间屋子发生了什么？第二季更了，刷起来"
+    },
+    {
+      "user": "一米攒RP",
+      "avatar": "https://img3.doubanio.com/icon/u4107805-16.jpg",
+      "content": "有点扯啊。。。\r忍不了那么多逻辑不通的地方\r弃了"
+    },
+    {
+      "user": "中堂的世界",
+      "avatar": "https://img3.doubanio.com/icon/u66168101-13.jpg",
+      "content": "真的是好过瘾的一部日剧，虽正看到第8集，离结局还很遥远。但每一集，简直就像游戏里的关卡一样，需要跟着剧情，动脑推理，但又不故弄玄虚，令人云里雾里，堪称真人版柯南了。加上一众演员的扎实演技，在神剧《切尔诺贝利》之后，又入坑了《轮到你了》。先给满分五颗星，烂尾的话，再来修改，哈哈 Ps：看到12集，男主的复仇反击篇，更是扑朔迷离，观剧体验真的是堪比玩狼人杀游戏了"
+    },
+    {
+      "user": "P0P",
+      "avatar": "https://img1.doubanio.com/icon/u1307390-177.jpg",
+      "content": "食之无味弃之可惜，提前把分打了，其实6月底的时候就已经不是很想看下去了，更何况男主的人设开始改变。以下是6.26.的在看短评，跟现在的感想也没啥 差别:室内剧，做成舞台剧紧凑一点应该蛮好看的，现在这走向估计是要烂尾。近年来悬疑剧的样本《为了N》看样子很久都不会遇到对手了，白期待这部了"
+    },
+    {
+      "user": "阿暖",
+      "avatar": "https://img1.doubanio.com/icon/u3771212-59.jpg",
+      "content": "不想剧透但是……日本编剧还是懂得怎么在套路和肥皂剧里找到兴奋点的，这份讨好观众的劲儿其实也值得学习。"
+    },
+    {
+      "user": "组宠个瘠薄",
+      "avatar": "https://img1.doubanio.com/icon/u191362840-7.jpg",
+      "content": "这剧真是吹大了 坚持到第七集实在看不下去了"
+    },
+    {
+      "user": "Dissipator。",
+      "avatar": "https://img1.doubanio.com/icon/u43946084-289.jpg",
+      "content": "= = 根本什么也没讲……"
+    },
+    {
+      "user": "轻唱牛郎织女星",
+      "avatar": "https://img3.doubanio.com/icon/u183988258-1.jpg",
+      "content": "一开始追的时候还觉得蛮有趣的，后面拍的都是什么玩意儿。。故弄玄虚的地方太多了"
+    },
+    {
+      "user": "我只是怪谈一个",
+      "avatar": "https://img3.doubanio.com/icon/u47868139-35.jpg",
+      "content": "杀人动机找不到，作案手法也全都没了？一个个都高手？警察都是废物？演员演得真实，虚假皮笑肉不笑反而更讨厌了，死的人也的确挺欠的。角色还都挺啰嗦的，这种纠结的心理放剧里面必要但是很烦。每一个人都藏着掖着还想破案？除了女大学生和出场不多的角色，一个一个都太特么烦了。(也许是真实人生)"
+    },
+    {
+      "user": "起个名字累身汗",
+      "avatar": "https://img3.doubanio.com/icon/u39695685-1.jpg",
+      "content": "有烂尾倾向"
+    },
+    {
+      "user": "阿鲁",
+      "avatar": "https://img1.doubanio.com/icon/u1754144-19.jpg",
+      "content": "差点被吓死，真的不是恐怖片吗。这个楼里的住户换成豆友的话，一群社恐，啥事没有。"
+    },
+    {
+      "user": "蜉蝣",
+      "avatar": "https://img3.doubanio.com/icon/u50839846-4.jpg",
+      "content": "行为动机牵强，感情走向牵强，悬念设置套路化，推理几乎无进展，似是想要在人性上做文章，但人物设定充满刻意，缺乏合理性和真实感，反而无法代入"
+    },
+    {
+      "user": "Fishwang_",
+      "avatar": "https://img3.doubanio.com/icon/u138550638-6.jpg",
+      "content": "才看一集忍不住吐槽下女主五十多岁保养成这样确实不容易不过整个造型显得又宽又矮头发和眼影也是有点滑稽就算设定非要用这个年纪段的女主造型也好歹要跟上吧？再说男主就算是年纪差了十五岁也三十五六了非要演成个傻缺反衬女主的成熟？还有管理员死的也是搞笑看完第一集感觉是一场大型的闹剧现场，先不打分了看完补"
+    },
+    {
+      "user": "同学，西瓜掉了",
+      "avatar": "https://img1.doubanio.com/icon/u51297351-9.jpg",
+      "content": "对不起，大家，我错了。仅就第一季目前展示内容而言，《轮到你了》这部日剧仅是悬疑剧，不是推理剧。至于前面的坑后面能不能填完，暂且拭目以待吧。另外，男主这个人设，我看的有点尴尬。"
+    },
+    {
+      "user": "粟冰箱",
+      "avatar": "https://img3.doubanio.com/icon/u42755936-21.jpg",
+      "content": "节奏快，转折多……但还是有不少槽点的，就看最后怎么圆回来了，番外跟特别篇增加了不少好感~"
+    },
+    {
+      "user": "犹在镜中",
+      "avatar": "https://img3.doubanio.com/icon/u93158337-283.jpg",
+      "content": "缺少最基本的人物脉络变化，当然这可以用“人性复杂”来搪塞。"
+    },
+    {
+      "user": "陈先生",
+      "avatar": "https://img1.doubanio.com/icon/u60072533-9.jpg",
+      "content": "感觉节奏有点慢，可能因为需要撑足20集的关系。另外我脸盲，里面出场人物多，看到第五集我才差不多搞清楚谁是谁了，更别说推理剧情了。一开始的时候一直在纠结要不要弃剧，坚持看了几集以后竟然上瘾了。总感觉后面会有诈尸（已知的已死角色中有人是假死或者用别人的尸体冒充自己）。另外，不知道会不会有一个“全员恶人”的结局（所有活下来的人都杀过人）。"
+    },
+    {
+      "user": "Clarke",
+      "avatar": "https://img1.doubanio.com/icon/u1054908-49.jpg",
+      "content": "漫改有风险，尤其是这么多集，可信度就不行了"
+    },
+    {
+      "user": "复仇者的从容",
+      "avatar": "https://img3.doubanio.com/icon/u4412878-16.jpg",
+      "content": "五集弃。纯噱头剧，我讨厌这种全剧没有一个正常人的恐怖片。一群法盲看着心累。||哇，我被这剧的粉丝追着骂了，神奇。"
+    },
+    {
+      "user": "蓝格子",
+      "avatar": "https://img3.doubanio.com/icon/u1822972-2.jpg",
+      "content": "中间几集还是不错的，最后一集是什么鬼，看的我困死了，结果竟然是个坑，还为没吃到的南蛮猪排留下了眼泪……"
+    },
+    {
+      "user": "笨黛",
+      "avatar": "https://img3.doubanio.com/icon/u96048469-4.jpg",
+      "content": "03目前为止，觉得恶婆婆好恐怖没用的男人好恶心。男主装嫩跟傻子一样，丸子头女油腻得好变态……\n一口气刷完，这个剧，蛇精病哦"
+    },
+    {
+      "user": "sorry打搅",
+      "avatar": "https://img3.doubanio.com/icon/u2056281-6.jpg",
+      "content": "默默打上迟早烂尾的标签..."
+    },
+    {
+      "user": "LocoRey",
+      "avatar": "https://img3.doubanio.com/icon/u2344208-50.jpg",
+      "content": "oh my Julia！"
+    },
+    {
+      "user": "桃叽喵喵。",
+      "avatar": "https://img3.doubanio.com/icon/u73377355-106.jpg",
+      "content": "抛开个人不太喜欢的男女主的甜腻剧情，基本上每一集都扣人心弦，一开始的时候觉得怎么这个剧那么多人，每个人的名字好复杂，结果看了几集之后，发现每个人物角色刻画的很深刻，很有个人特色，竟然能记住每个人名，跟上剧情节奏推理了，总的来说这部剧真的炒鸡精彩！！！"
+    },
+    {
+      "user": "託菈呼吸了一天",
+      "avatar": "https://img1.doubanio.com/icon/u155438035-7.jpg",
+      "content": "3.5   节奏有点慢 男主有点油腻 之前看见有人说恐怖 其实 还蛮戳我笑点的 太可爱了"
+    },
+    {
+      "user": "Anamnesis",
+      "avatar": "https://img1.doubanio.com/icon/u1667702-57.jpg",
+      "content": "康子还是有想法的"
+    },
+    {
+      "user": "il",
+      "avatar": "https://img3.doubanio.com/icon/u42829720-12.jpg",
+      "content": "想到野餐司屠同morestudio合作的小开本句读散诗里一句，“如果我有一个目的，我就讨厌各种铺垫”。人们在平淡日常中体会到的惊喜错愕，今日或他日，粘稠着一张像是蜥蜴肚子一样苍白的脸，幡然醒悟。/《轮到你了》喜剧小品文来说，读档日常的复仇黄昏咏叹来说，感觉2010年前的三谷幸喜和中岛哲也，都可以扔掉了。/后段反击篇放送中/前段完结就很好。"
+    },
+    {
+      "user": "程菲菲",
+      "avatar": "https://img3.doubanio.com/icon/u67005146-40.jpg",
+      "content": "你瓣日剧评分真的让我震惊，我觉得自己可能汗你瓣审美格格不入"
+    },
+    {
+      "user": "Yulia",
+      "avatar": "https://img3.doubanio.com/icon/u2516585-1.jpg",
+      "content": "挑战读者这样拍就很好嘛，期待下一季能追着看，excel都拉好了。突然出现的综艺感会有很强的跳戏效果；男女主都不喜欢，守护来守护去的，却还说些站不住脚的借口。疯子们的笑容居然各有各的恐怖，又害怕又想看。"
+    },
+    {
+      "user": "请你吃糖哦",
+      "avatar": "https://img1.doubanio.com/icon/u177589772-9.jpg",
+      "content": "这个楼可真是奇特，几乎集合了半个日本的变态啊"
+    },
+    {
+      "user": "松仁糖",
+      "avatar": "https://img1.doubanio.com/icon/u1461216-28.jpg",
+      "content": "为之后的走向担心，但是看到最后还是被吓了一跳值得五星"
+    },
+    {
+      "user": "Miffygaga",
+      "avatar": "https://img3.doubanio.com/icon/u1433899-516.jpg",
+      "content": "绝对是我热爱的剧集类型！！细思极恐太过瘾了也！！！太烧脑太好看了，可能会耽误正事儿哈哈哈哈。完全不舍得挪屁股干别的，留下番外篇我先去工作一会儿。"
+    },
+    {
+      "user": "路西法尔",
+      "avatar": "https://img3.doubanio.com/icon/u4214564-2.jpg",
+      "content": "比较在意谁抽中了写着管理员名字的那张字条，我认为这个人就是幕后boss或者和boss有关。目前可以排除的人选：女主、医生、电梯男、黑道、会长。"
+    },
+    {
+      "user": "倔强的人字拖",
+      "avatar": "https://img3.doubanio.com/icon/u19769109-4.jpg",
+      "content": "所有杀人推理剧的内核反应出来的都是——沟通的重要性"
+    },
+    {
+      "user": "来福灵",
+      "avatar": "https://img3.doubanio.com/icon/u1053858-1.jpg",
+      "content": "看到第五集就有点看不进去了:日本人都这么心大和蠢直吗？身边死了这么多人都该吃吃该睡睡毫不慌乱？日本警察都这么蠢和没有责任心吗？死了这么多人几乎是无动于衷？我给这剧添了个标签是\"搞笑\""
+    },
+    {
+      "user": "礼佳",
+      "avatar": "https://img3.doubanio.com/icon/u49014999-32.jpg",
+      "content": "欣赏不来可能。努力看了一集多，剩下的全部快进完了，被各种配角浮夸的演技和剧情恶心到了，经常出戏，导演是变态搞笑的吗，烦躁，想杀了他们（微笑）"
+    },
+    {
+      "user": "嘟噜嘟",
+      "avatar": "https://img3.doubanio.com/icon/u145479770-2.jpg",
+      "content": "这bug也太多了吧… 看得令人捉急 女主造型设计是谁啊 发型也丑 蓝绿眼影更迷 田中圭真的很可爱啊… / 这花哨的镜头真的太呱噪了 全是故弄玄虚"
+    },
+    {
+      "user": "不知返",
+      "avatar": "https://img1.doubanio.com/icon/u90182409-7.jpg",
+      "content": "烂尾预感十分强烈……情节稍微刻意了一点，不过目前来讲节奏整体上不错，忽略着实不太接地气的地方（比如一栋住户不算多的居民楼楼短时间内发生这么多恶性案件网上都闹大了居然都不会被列为警方重点监控对象吗？或者是单纯为了体现日本警方无能？太为了设定而设定了），总体上还是值得推荐的，本来以为是十集，没想到居然是二十集，这种类型的剧就是要稳准狠快，这么多集的话不免让人有点担心后面的节奏了。"
+    },
+    {
+      "user": "伪会计",
+      "avatar": "https://img3.doubanio.com/icon/u3886949-126.jpg",
+      "content": "擦一直留着没看竟然还没有结尾！"
+    },
+    {
+      "user": "SEetHelOCO",
+      "avatar": "https://img3.doubanio.com/icon/u189809366-4.jpg",
+      "content": "让人摸不着头脑 反击篇男主太垃圾"
+    },
+    {
+      "user": "若蚊",
+      "avatar": "https://img3.doubanio.com/icon/u42766512-685.jpg",
+      "content": "这剧真的提高了我的工作效率，紧赶慢赶回来捧着电脑看。看完觉得还是得赶紧找人一起登牢屋里厢"
+    },
+    {
+      "user": "大頭魚㍿",
+      "avatar": "https://img3.doubanio.com/icon/u4055301-2.jpg",
+      "content": "20190625 給力的爽劇，可惜在自己復盤前已看了太多推理，就根據第二章再繼續猜吧。PS甜膩奇葩小奶狗真的是吃不消的，看看第二章如何solo carry"
+    },
+    {
+      "user": "✖️",
+      "avatar": "https://img3.doubanio.com/icon/u175523861-3.jpg",
+      "content": "框架不错，就是演员设定堪忧，男女主十分不讨喜，这种小奶狗我真的是……不能接受，还没看到奶狗暴走，但希望后面的剧情能把前面的坑好好的填满，毕竟有些杀人方式十分不合理，漏洞百出，警察还抓不到。  这两年对日剧的评分怎么这么夸张，这个分咋评出来的"
+    },
+    {
+      "user": "Vi",
+      "avatar": "https://img3.doubanio.com/icon/u1143429-555.jpg",
+      "content": "悬疑拉太长了，有完没完"
+    },
+    {
+      "user": "方熙芯",
+      "avatar": "https://img3.doubanio.com/icon/u3084505-81.jpg",
+      "content": "勉强给三分给演员和镜头，剧情本身真的太中二了……说好的吓人呢？？我好几次半夜看得笑出猪叫……"
+    },
+    {
+      "user": "andypxq",
+      "avatar": "https://img3.doubanio.com/icon/u125696693-4.jpg",
+      "content": "期待结局！"
+    },
+    {
+      "user": "KinG羽",
+      "avatar": "https://img3.doubanio.com/icon/u3744974-245.jpg",
+      "content": "一整楼的神经病，从一开始就无法接受这个剧情设定，因而毫无代入感，导致越看越觉得荒谬和夸张，追不下去。杀人游戏也就罢了，这可是真的杀人，结果比过家家还随意？"
+    },
+    {
+      "user": "挞别芭",
+      "avatar": "https://img1.doubanio.com/icon/u35391288-47.jpg",
+      "content": "托了这部剧的福，身边的朋友们都认识了西野七濑小姐，并对她的颜值赞不绝口。"
+    }
+  ]
+}

@@ -1,0 +1,1245 @@
+{
+  "title": "信号",
+  "url": "https://movie.douban.com/subject/26310143/",
+  "rate": "9.2",
+  "id": "26310143",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2304228229.jpg",
+  "info": [
+    "导演: 金元锡",
+    "编剧: 金恩熙",
+    "主演: 李帝勋 / 赵震雄 / 金惠秀 / 张铉诚 / 金元海 / 郑涵妃",
+    "类型: 剧情 / 科幻 / 悬疑 / 犯罪",
+    "官方网站: program.interest.me/tvn/signal",
+    "制片国家/地区: 韩国",
+    "语言: 韩语",
+    "首播: 2016-01-22(韩国)",
+    "集数: 16",
+    "单集片长: 64分钟",
+    "又名: 解码追凶(港) / 暗号 / Signal"
+  ],
+  "desc": "谜案搜查队的刑警朴海英（李帝勋 饰），是一个不满爆棚、对警察充满不信任感的警队异端分子。为了维持生计，海英把才能浪费在了调查名人隐私，然后再卖给媒体的事情上，一直到一部10多年的老无线电响起。而曾在80年代活跃在警界的刑警李材韩（赵镇雄 饰），不会耍小聪明，只会向前冲的耿直男人，材韩用无线机与海英联系，开始解决过去的未解事件。",
+  "members": {
+    "director": {
+      "name": "金元锡 Won-seok Kim",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535326073.57.jpg"
+    },
+    "cast": [
+      {
+        "name": "李帝勋 Je-hoon Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34967.jpg"
+      },
+      {
+        "name": "赵震雄 Cho Jin-woong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512941290.55.jpg"
+      },
+      {
+        "name": "金惠秀 Hye-soo Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1373429987.3.jpg"
+      },
+      {
+        "name": "张铉诚 Hyeong-seong Jang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5355.jpg"
+      },
+      {
+        "name": "金元海 Won-hae Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1457263776.52.jpg"
+      },
+      {
+        "name": "郑涵妃 Han-bi Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pvv2E8Kq6thYcel_avatar_uploaded1395862720.96.jpg"
+      },
+      {
+        "name": "李振权 Jin-kwon Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEo5kpcNt4Qccel_avatar_uploaded1512793160.38.jpg"
+      },
+      {
+        "name": "薛昌熙 Seol Chang-hee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512705797.17.jpg"
+      },
+      {
+        "name": "文英东 Young-dong Moon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512373623.58.jpg"
+      },
+      {
+        "name": "申怡濬 Yi-joon Shin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1523155601.42.jpg"
+      },
+      {
+        "name": "郑宗烈 Jong-yeol Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1527304511.01.jpg"
+      },
+      {
+        "name": "金学善 Hak-seon Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509336313.21.jpg"
+      },
+      {
+        "name": "李宥俊 Yoo-joon Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506694656.3.jpg"
+      },
+      {
+        "name": "金贤成 Hyun-sung Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506334345.01.jpg"
+      },
+      {
+        "name": "郑英珠 Young-ju Jung",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505125392.67.jpg"
+      },
+      {
+        "name": "李澾 Lee Dal",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509941958.61.jpg"
+      },
+      {
+        "name": "琴东贤 Geum Dong-hyeon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504514242.85.jpg"
+      },
+      {
+        "name": "金贤彬 Hyun-bin Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513337126.08.jpg"
+      },
+      {
+        "name": "严志满 Ji-man Eom",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533175624.78.jpg"
+      },
+      {
+        "name": "尹炳熙 Yoon Byeong-hee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507527492.26.jpg"
+      },
+      {
+        "name": "李彩京 Chae-kyung Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533491159.45.jpg"
+      },
+      {
+        "name": "徐珠熙 Joo-hee Seo ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1532998034.29.jpg"
+      },
+      {
+        "name": "徐东甲 Dong-gab Seo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524848271.84.jpg"
+      },
+      {
+        "name": "郑基燮 Gi-seop Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506333018.76.jpg"
+      },
+      {
+        "name": "梁大赫 Dae-hyeok Yang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1523200516.01.jpg"
+      },
+      {
+        "name": "黄泰光 Tae-kwang Hwang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519820395.61.jpg"
+      },
+      {
+        "name": "孟奉鶴 Bong-hak Maeng",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi1jLpabrpE4cel_avatar_uploaded1518219678.52.jpg"
+      },
+      {
+        "name": "金基天 Ki-cheon Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1398165540.95.jpg"
+      },
+      {
+        "name": "李英恩 Yeong Eun Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514290781.51.jpg"
+      },
+      {
+        "name": " 利旻 Ri Min ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514290237.21.jpg"
+      },
+      {
+        "name": "金旻奎 Kim Min-gyoo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1562644131.65.jpg"
+      },
+      {
+        "name": "孙贤周 Hyun-joo Son",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59220.jpg"
+      },
+      {
+        "name": "孙荣顺 Young-soon Son",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503302258.19.jpg"
+      },
+      {
+        "name": "李恩宇 Eun-woo Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1379621394.98.jpg"
+      },
+      {
+        "name": "黄胜妍 Seung-eon Hwang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pQpLLnMOHO9Ucel_avatar_uploaded1436111692.15.jpg"
+      },
+      {
+        "name": "李相烨 Sang-Yeob Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p54413.jpg"
+      },
+      {
+        "name": "李东河 Lee Dong-Ha",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2WuehRBlEiIcel_avatar_uploaded1457845975.25.jpg"
+      },
+      {
+        "name": "姜澯熙 Chan-hee Kang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458486002.39.jpg"
+      },
+      {
+        "name": "郑锡勇 Seok-yong Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1397578432.03.jpg"
+      },
+      {
+        "name": "徐志焄 Ji-Hoon Seo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1486278094.13.jpg"
+      },
+      {
+        "name": "吴妍儿 Yeon-A Oh",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1490248394.04.jpg"
+      },
+      {
+        "name": "金钟求 Kim Jong-goo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503293736.36.jpg"
+      },
+      {
+        "name": "申文成 Mun-sung Shin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502702883.21.jpg"
+      },
+      {
+        "name": "金正英 Jung-young Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502433381.34.jpg"
+      },
+      {
+        "name": "林华映 Lim Hwa-yeong",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501818557.57.jpg"
+      },
+      {
+        "name": "张赫镇 Jang Hyeok-jin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503309047.41.jpg"
+      },
+      {
+        "name": "刘河福 Yoo Ha-bok",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1499193234.78.jpg"
+      },
+      {
+        "name": "朴莳恩 Park Si Eun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501811284.24.jpg"
+      },
+      {
+        "name": "徐恩雅 Eun-ah Seo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1438262532.16.jpg"
+      },
+      {
+        "name": "郑海钧 Hae-kyun Jung",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467302475.53.jpg"
+      },
+      {
+        "name": "李诗雅 Shi-ah Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pu0cvWS1zyGUcel_avatar_uploaded1462470089.85.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2296449197.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2325445556.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2325447535.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2316305977.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2325445585.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "A R I A。",
+      "avatar": "https://img3.doubanio.com/icon/u1723228-12.jpg",
+      "content": "其实差不多可以给五星了，节奏掌握得很棒。韩国社会和中国还是有很多相似的地方的。他们的主流文化在自省的时候，我们还在讨论哪个版本的孙悟空是最好看的。"
+    },
+    {
+      "user": "端木果子",
+      "avatar": "https://img3.doubanio.com/icon/u134026402-1.jpg",
+      "content": "#Signal# 最近看的最揪心的一个镜头就是李在汉拿着源晶在活着的时候没能送出的电影票，坐在情侣座上，虽然看着喜剧片却哭的满脸泪水。"
+    },
+    {
+      "user": "曾良君",
+      "avatar": "https://img3.doubanio.com/icon/u40960942-235.jpg",
+      "content": "李帝勋的演技基本就是“现在情况很紧急，你听我讲，你闭嘴，来不及了，叫你听我讲。”"
+    },
+    {
+      "user": "江暮",
+      "avatar": "https://img3.doubanio.com/icon/u33300333-1.jpg",
+      "content": "看完第四集，感叹真的拍得好好，破案后还花了十几分钟来塑造人物，讲诉主角们各自的伤痛，告诉我们每个人都不是冷冰冰的一个名字或照片而已。怀着对人极大的关怀，所以场景和描述才能那么自然地煽情吧。在满场笑声的喜剧电影放映厅一个人痛哭，真的不能更伤了…"
+    },
+    {
+      "user": "Josh",
+      "avatar": "https://img3.doubanio.com/icon/u1404976-1.jpg",
+      "content": "11点23了，呲…呲…呲…果断买房，千万别炒股…呲…呲…呲…"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "1、要是能缩成一部13集的美剧……2、要是能换个刘亚仁之类的男主……3、要是能给个大团圆的结局……"
+    },
+    {
+      "user": "月夜刺死燕尾蝶",
+      "avatar": "https://img3.doubanio.com/icon/u74855673-2.jpg",
+      "content": "酷！忍过第一集的前半个小时就是春天。剧情节奏快而精致（每集都是电影级别质感），编剧智商一直在线，而且每个案件都是会引发社会深思的经典，最棒的是片尾曲秒杀性的极其赞！"
+    },
+    {
+      "user": "奤森碟",
+      "avatar": "https://img3.doubanio.com/icon/u1231653-20.jpg",
+      "content": "果然是「未生」的亲兄弟，第一集就黑wuli时完和素拉，两部剧画风都是一模一样。\n韩国15年取消杀人公诉时效，16年初就出一部剧来回应，导演真真是业界良心。\n不負責任揣測韓國司法界可能比我朝更黑暗。\n但這種題材劇，先不說能不能過审，就说我朝没一个导演能拍，没一个编剧会写。"
+    },
+    {
+      "user": "GOT_LLL",
+      "avatar": "https://img3.doubanio.com/icon/u102872045-2.jpg",
+      "content": "tvn最近开挂了！为什么剧都这么好看"
+    },
+    {
+      "user": "昆提良",
+      "avatar": "https://img3.doubanio.com/icon/u4447333-35.jpg",
+      "content": "看到一半的时候脊背发凉 因为这吊打国家机器、警察体系腐败和揭露这世界似乎都是串通一气的胆量和力度让这些每天停留在探讨手撕鬼子和婆媳打架的电视剧的我们感到食了屎"
+    },
+    {
+      "user": "小明明",
+      "avatar": "https://img1.doubanio.com/icon/u4621746-7.jpg",
+      "content": "电视剧做的很用心。感觉电视剧只要演2015年，采用的输出是16:9。演回过去，就是4:3的输出。。。"
+    },
+    {
+      "user": "小锡兵",
+      "avatar": "https://img3.doubanio.com/icon/u2015570-26.jpg",
+      "content": "立意不错，可惜免不了韩式拖沓煽情。怕观众看不懂，巨细靡遗破坏了节奏，然而结局留白加分。牵强有之，狗血有之，人物过于脸谱化，不过瑕不掩瑜。蚍蜉撼树，蝴蝶振翅，水滴石穿，拨云见日。"
+    },
+    {
+      "user": "BlackScholes",
+      "avatar": "https://img3.doubanio.com/icon/u3332378-126.jpg",
+      "content": "忠武路卡司版<失踪的黑色M>，每集干净浅淡，没有韩剧往常的矫情和浮夸。请回答1997时我就说过tvN会越来越强大的，如今的剧本卡斯质感配乐吊打三大台绰绰有余。 李帝勋会回春么？ 金惠秀宝刀不老，赵大雄难得不浮夸一会。"
+    },
+    {
+      "user": "停损",
+      "avatar": "https://img1.doubanio.com/icon/u52675266-7.jpg",
+      "content": "第一集阅毕，紧迫感十足，就是男主太像潘玮柏听他讲话老出戏。"
+    },
+    {
+      "user": "小田想去奈良",
+      "avatar": "https://img3.doubanio.com/icon/u46487063-323.jpg",
+      "content": "朴海英因为目睹15年后李材韩爸爸终于等回来儿子尸骨差点崩溃，上司为失去爱慕的人泣不成声，于是对他说不要追真相了，危险。另外个时空的李材韩偷偷跟着小小的朴海英，看到他失去亲人孤独可怜，给他买饭，狭长的小巷送他回家。于是对他说没关系你要幸福。他们都在无线电接通的那个瞬间一心成全着别人。"
+    },
+    {
+      "user": "falsefish",
+      "avatar": "https://img1.doubanio.com/icon/u1366918-8.jpg",
+      "content": "并非完美，但对我而言足够感动。以时间线为核心的电影电视很难做到自圆其说，本片在这方面也有bug。但在叙事、情感、表演层面，这部片能打动我。尤其是赵镇雄大叔，演一个伟光正的主角一不小心就假了，而他演出了一个让人信服的好警察。看到最后几集时真心舍不得让它完结。"
+    },
+    {
+      "user": "すでに恒司ロス",
+      "avatar": "https://img3.doubanio.com/icon/u45203942-61.jpg",
+      "content": "tvN再次证明了一点，你以为只有ocn会拍犯罪悬疑吗，那只是我还没有开始涉猎这一块而已…"
+    },
+    {
+      "user": "黄青蕉",
+      "avatar": "https://img1.doubanio.com/icon/u2524948-39.jpg",
+      "content": "前四集一流电影水准，桥段美镜头佳，节奏感好得飞起，第五集开始进入韩剧套路，咆哮、瞪眼、往死里煽，还好最后一案给拉回来了点。最有好感的部分是老饭炒出了新意，穿越时空沟通算编剧烂梗top3了，居然用得克制，不俗，还非常动人。全剧最跳戏的大概就是每过五分钟需要提醒自己一次“这不是潘玮柏”吧"
+    },
+    {
+      "user": "栗子沙",
+      "avatar": "https://img1.doubanio.com/icon/u80936991-18.jpg",
+      "content": "果然tvn不会让人失望，但是男主演技会不会有点奇怪。。。"
+    },
+    {
+      "user": "冈田花生",
+      "avatar": "https://img3.doubanio.com/icon/u103200464-2.jpg",
+      "content": "有电影质感啊 tvn开年就不给3大台活路了"
+    },
+    {
+      "user": "嘴嘴",
+      "avatar": "https://img3.doubanio.com/icon/u2632248-13.jpg",
+      "content": "又是一个“主角以外的警察都好蠢”系列。男主演技全靠咬牙切齿和大吼，第二个案子又完全来自于犯罪心理。穿越时空的bug巨大。真不明白为什么评价这么高。拜拜不追了"
+    },
+    {
+      "user": "air",
+      "avatar": "https://img3.doubanio.com/icon/u6303192-2.jpg",
+      "content": "看得极不耐烦"
+    },
+    {
+      "user": "jessica",
+      "avatar": "https://img3.doubanio.com/icon/u49095176-4.jpg",
+      "content": "3.5 虽然有bug但也还可以，不过这剧不老实走悬疑路线，有时候哭戏和喊戏太多，走不出韩剧的套路，这点减分"
+    },
+    {
+      "user": "shininglove",
+      "avatar": "https://img1.doubanio.com/icon/u2849243-79.jpg",
+      "content": "你不要失望，荡气回肠是为了最美的平凡。"
+    },
+    {
+      "user": "ayoyoo",
+      "avatar": "https://img3.doubanio.com/icon/u38702110-3.jpg",
+      "content": "很棒，忍过第一集前十分钟，后面超刺激的，追！"
+    },
+    {
+      "user": "你还有没有梦想",
+      "avatar": "https://img3.doubanio.com/icon/u47203117-10.jpg",
+      "content": "TVN十周年巨献，看过最好的韩剧，颠覆了我对韩剧的看法，案件根据真实事件改编，剧情连贯bug少，所有演员演技都嗨到爆炸！命运石之门模式的经典呈现，也只有韩国电影才能这么孜孜不倦的敢于黑自己的政府！满分！！！"
+    },
+    {
+      "user": "重重是紊乱小姐",
+      "avatar": "https://img1.doubanio.com/icon/u1906915-178.jpg",
+      "content": "没有人长得美，没有人谈恋爱，编剧智商在线，演员演技随身，这还是韩剧么？～全程刷完感觉和太阳的后裔们以及陷阱里的奶酪们从此是陌路了……近年来韩剧最佳。"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "韩国出了这么多悬案也是醉了，当年警方的无能简直是在给今天的艺术创作攒素材啊。借用了“黑洞频率”的idea，用改变过去来改变未来。剧是好剧，可惜李帝勋颜值演技双双下线～"
+    },
+    {
+      "user": "SulJoo",
+      "avatar": "https://img1.doubanio.com/icon/u106341534-8.jpg",
+      "content": "我只是惊讶于韩国电视剧已经可以拍出这种水平了 果然【三大奖的影后男配男新+未生导演+幽灵编剧】的阵容不是开玩笑的 浓浓的电影氛围和质感 第一集15分钟通过男主成人和儿时的对视切换到过去的运镜惊艳到我了 剧情干脆利落一集一案 至于画面和OST一直都是tvN的强项 就不赘述了"
+    },
+    {
+      "user": "一厘鲸",
+      "avatar": "https://img3.doubanio.com/icon/u50760945-26.jpg",
+      "content": "明明是部悬疑犯罪片，而我个冷血汉子居然看哭了？？？每一个案子单独抽出来拍电影都可以8.5+的分数，演员和编剧都是实力咖。上次看片这么动容还是很多年前许鞍华的《桃姐》，那种观影完后整个人都被抽空了的懵逼感……"
+    },
+    {
+      "user": "遇见彩虹🌈",
+      "avatar": "https://img3.doubanio.com/icon/u2431044-4.jpg",
+      "content": "从第一集开始就很吸引人，节奏感也不错。通篇没有讲大道理，却真实的被李材韩警官感动了，那个可以深深理解受害者家属的警官，那个看着喜剧电影独自哭泣的男人，那个愤怒的问着已经过去这么多年了，世界还是那样么的警官，那个一直说着不能放弃的警官。"
+    },
+    {
+      "user": "范思鱼",
+      "avatar": "https://img1.doubanio.com/icon/u3992724-48.jpg",
+      "content": "泡菜国影视作品创作环境真心蛮自由啊，像本剧金恩熙，简直专注黑警界好多年啊，而像这样敢于抨击法律弊端，乐于嘲笑police大人们的无能和虚伪的态度，一个大写的牛，越开放越进步，TVN十周年真的开挂了。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "评分虚高系列，好奇大家以前看的剧是有多烂，好像抓住一根救命稻草一样，一部平庸之作就这样被捧上了神坛，穿越梗什么的玩烂了，除了金惠秀可看外几乎无亮点"
+    },
+    {
+      "user": "欣欣向荣",
+      "avatar": "https://img3.doubanio.com/icon/u3574203-2.jpg",
+      "content": "这个强烈推荐啊，好看，特别刺激，一个可以穿越时空的无线电"
+    },
+    {
+      "user": "百里即墨殇",
+      "avatar": "https://img3.doubanio.com/icon/u170141647-3.jpg",
+      "content": "韩国拍这种现实题材确实很擅长了，这部剧也很良心，悬疑，题材也比较新意，与出意外的警官的对话，两方努力～～～案件来说倒也觉得不会特别不好猜中，毕竟很多韩国电影也会有一些相似的犯罪手法，但对于剧来说还是特别值得一看"
+    },
+    {
+      "user": "春焼辰",
+      "avatar": "https://img3.doubanio.com/icon/u23599586-776.jpg",
+      "content": "女一那随时都想把男一瞪死的“假大眼”和男一那随时都想即兴rap的浮夸大嘴让人觉得很魔幻"
+    },
+    {
+      "user": "Anemone",
+      "avatar": "https://img1.doubanio.com/icon/u12644505-7.jpg",
+      "content": "男主丑，我忍了。演技不行，我忍了。但是第四集作到我实在忍不下去了。配上丑脸+只会吼的演技，原来抛弃之前很期待的剧是那么简单。"
+    },
+    {
+      "user": "抱抱",
+      "avatar": "https://img1.doubanio.com/icon/u47358295-8.jpg",
+      "content": "我的妈啊啊啊！太好看了！看到十集左右的时候还在想说这剧肯定没有失踪的黑色M好看评分还高成这样。花了五个小时看完的人只想说这剧真的比M还要好看啊！其实设定跟九回时间旅行比较相似都是现在不断改变过去的事，但是这片儿真的比九回强，光是那个后面的开放式结局就看得我合不拢嘴。太好看，强推！"
+    },
+    {
+      "user": "朱朱朱古力♥",
+      "avatar": "https://img1.doubanio.com/icon/u1205843-129.jpg",
+      "content": "好的 我Gai到编剧的点了 虽然16集很混乱 恶人的结局也和我期待的不同 但科幻部分的设定基本是圆了的 主旨更是鲜明的 不放弃就永远有希望 坐等第二季。赵镇雄把这个前辈这个角色演绎的太迷人太精彩 你就算把双眼皮割成乔琪姑娘我都爱你！！"
+    },
+    {
+      "user": "小飞侠6414",
+      "avatar": "https://img3.doubanio.com/icon/u4076931-3.jpg",
+      "content": "棒子们的脑洞和天朝剧已经不是一个level了……\n良！心！剧！"
+    },
+    {
+      "user": "烟波人长安",
+      "avatar": "https://img1.doubanio.com/icon/u60115789-18.jpg",
+      "content": "万万没想到，最后居然是开放式结局！不过这么走心的电视剧，出第二季一样要追！"
+    },
+    {
+      "user": "人间洗具",
+      "avatar": "https://img3.doubanio.com/icon/u57968508-2.jpg",
+      "content": "男主演技略捉急啊，最受不了他老说“那是什么意思”。第12集电视剧公式——刚要吐露真相就死了。无线电导致的改变有点简化，但是莫比乌斯环一般到底谁让谁知道了这个无线电可以连通过去未来这点很有趣。"
+    },
+    {
+      "user": "沐梵",
+      "avatar": "https://img3.doubanio.com/icon/u43316233-16.jpg",
+      "content": "《信号》的游戏规则和《九回时间旅行》类似，借助道具跨越时空，产生蝴蝶效应，改变过去重写现在，而知道道具作用的人的记忆却不被覆盖。信号是版块联结结构，犯罪悬疑主导，九回是环形结构，伦理情感主导，但“跨时空互动”都是用抗争抚平遗憾，“一个人的意志不结束，事情就不会停止”。"
+    },
+    {
+      "user": "前田罗绮",
+      "avatar": "https://img3.doubanio.com/icon/u172428022-10.jpg",
+      "content": "tvn经典之剧。力推。期待第二季继续烧脑。"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "熬夜看完了韩剧《信号》，应该是韩剧追击美剧制作方式的最高章了，有智商，有爆点，有泪点，四星推荐，后面四集有点拖沓。导演真狠，片中美女、女学生、萝莉不是被弄死，就是被侵犯凌辱。大叔的初恋，窃贼的女儿，苦练基本功的外围小演员，喜欢上连环杀手的忧郁女生，校园孤独小女生，都美，都惨。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "编剧技巧爆棚，电影质感，不过也领略了韩剧节奏拖沓、颠来倒去、强行煽情的毛病。前两个案子最精彩，11集以后变言情剧，忍不住开始快进。最后一集用很大篇幅为第二季做了铺垫。金惠秀演个男人婆刑警，始终不露身材，也算是深藏功与名了。"
+    },
+    {
+      "user": "老袁",
+      "avatar": "https://img3.doubanio.com/icon/u49599056-123.jpg",
+      "content": "李帝勋表演焦虑只有两招，一是咆哮二是永远合不拢的嘴。"
+    },
+    {
+      "user": "糕员外",
+      "avatar": "https://img3.doubanio.com/icon/u1030765-52.jpg",
+      "content": "韩剧这是要逆天啊！紧凑，好看，抓人。拿拍电影的劲头拍电视剧，大写的服气！\n看完后补充：太赞！五星好评持续到十六集，期待下一季！好喜欢李警官啊！"
+    },
+    {
+      "user": "Maia",
+      "avatar": "https://img1.doubanio.com/icon/u53962901-118.jpg",
+      "content": "5集弃"
+    },
+    {
+      "user": "Clarke",
+      "avatar": "https://img1.doubanio.com/icon/u1054908-49.jpg",
+      "content": "基于看过的大半集。我对时空穿越系设定的接受上限真心就在九回时间之旅那了。拜托放开神探剧吧。千万。"
+    },
+    {
+      "user": "荞麦",
+      "avatar": "https://img3.doubanio.com/icon/u1123004-1.jpg",
+      "content": "虽然设定非常狗血，但编剧运用强大的能力一直Hold住……不过看到结尾我也是懵逼了。"
+    },
+    {
+      "user": "fish",
+      "avatar": "https://img3.doubanio.com/icon/u2697744-22.jpg",
+      "content": "讲真，真的过誉了。除了心理侧写稍有亮点（这个你去看心理罪也能看出来），其他推理调查神马的真的通通看不到。而每次很早就能预知坏人以及他们的犯罪动机，比如公车那个是因为每天晚班车那些人的存在害父亲不能早回家，所以要杀掉，便利店小帅哥一定是因为家里有人抑郁症太痛苦他为了帮抑郁的人解脱。"
+    },
+    {
+      "user": "Isidora",
+      "avatar": "https://img3.doubanio.com/icon/u1789118-76.jpg",
+      "content": "李财韩警官被杀的时候把对讲机藏在身旁的落叶堆里，后来却出现在物品报废的袋子里被朴海英捡到，这是编剧的bug吗"
+    },
+    {
+      "user": "暖晴",
+      "avatar": "https://img3.doubanio.com/icon/u32658852-14.jpg",
+      "content": "适合一口气看完的剧…"
+    },
+    {
+      "user": "白無硯",
+      "avatar": "https://img1.doubanio.com/icon/u1028667-77.jpg",
+      "content": "好吧，还是没有明确结局的时间循环"
+    },
+    {
+      "user": "小锦95",
+      "avatar": "https://img3.doubanio.com/icon/u123300020-2.jpg",
+      "content": "虽然13集开始出现了韩剧习惯性的拖沓，以及过多的回闪。但真的真的是非常值得一看的一部剧。\n对社会问题的批判，对正义和邪恶的思考，对希望和坚持的呐喊，在故事里听到了很多声音。能出演这样的故事才是当演员的乐趣吧，能看到这样的故事的我都觉得很幸运呢。\n不要放弃，就能改变未来。\n"
+    },
+    {
+      "user": "河堤上的貓",
+      "avatar": "https://img3.doubanio.com/icon/u172039742-4.jpg",
+      "content": "會一集接一集的看下去，主演太會演了 超精彩的！"
+    },
+    {
+      "user": "大米虫子",
+      "avatar": "https://img3.doubanio.com/icon/u89529154-3.jpg",
+      "content": "看完发现这是一个所有主角都轮番死而复生一次的神话故事"
+    },
+    {
+      "user": "吵",
+      "avatar": "https://img1.doubanio.com/icon/u1363225-37.jpg",
+      "content": "在中国，估计审查都通不过"
+    },
+    {
+      "user": "幕天席地",
+      "avatar": "https://img3.doubanio.com/icon/u119429128-6.jpg",
+      "content": "很悲壮，又无能为力，平行时空永远无法相见"
+    },
+    {
+      "user": "玄辂",
+      "avatar": "https://img3.doubanio.com/icon/u4665983-94.jpg",
+      "content": "没有一个案子是完结得圆满的，再看这张海报感觉无比心酸，三个人好好坐下来喝一顿酒这么简单的事，就是办不到"
+    },
+    {
+      "user": "Sputnik",
+      "avatar": "https://img3.doubanio.com/icon/u54249913-3.jpg",
+      "content": "真不明白这得多少脑残的哈韩粉才能把这部剧捧到9.2的高分，剧情大纲给一分，部分演员演技给一分（浮夸的那些我都不算了），还剩什么？为了剧情的发展让剧中人物智商强行下线，时间线的不合理，强行催泪，强行无能，主要剧情的逻辑漏洞...看到十五集才来吐这个槽是为了负责任的评价一下，真的只值两星。"
+    },
+    {
+      "user": "Pius",
+      "avatar": "https://img3.doubanio.com/icon/u1955648-24.jpg",
+      "content": "每一个案件最后那微妙的重逢或无奈都叫人哭到不成形，如同灿烂骄阳下忽然暴雨倾盆，却也在悲怆中学着更冷静坚定地走下去。可以改变时间线、可以改变命数，而不可以改变一个人，这么老土的道理演绎到令人深陷，好像这二十年间的各种也从你我的生命里划了过去。了不起的剧集。"
+    },
+    {
+      "user": "熊阿姨",
+      "avatar": "https://img3.doubanio.com/icon/u1005588-3.jpg",
+      "content": "想起4年前在GQ时合写的王护士长《铁岭往事》，警察内部斗争、抱政治大腿，亲近权力与财力向上爬，现实跟电视剧并无区别。被排挤出主流的警察会遇到整个队伍的背叛，腐蚀、污蔑、入狱、转行，都是一样的。用对讲机的时空穿梭来讲这个故事，比任何苦大仇深的正向叙述都难都好看，对编剧跪服了。"
+    },
+    {
+      "user": "折扇",
+      "avatar": "https://img3.doubanio.com/icon/u41334510-2.jpg",
+      "content": "整个构思很完整有新意，bug少有，最遗憾的是男主的哥哥，但这也许就是现实，一个对讲机不可能带给这个世界大圆满的结局，我们都只是在一个遗憾与另一个遗憾之中纠结挣扎"
+    },
+    {
+      "user": "Vamei",
+      "avatar": "https://img3.doubanio.com/icon/u3206680-10.jpg",
+      "content": "演员不错。有的地方逻辑不通。"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "配乐泛滥，听得好累。虽然开场和收尾并不理想，但总得来说，系列构成好，特别是四至八话的展开。但除结构和形式外的台词台风等内容……如果改编成美剧，让JJ和Bad Robot去搞，应该会更好看。"
+    },
+    {
+      "user": "JulyChan",
+      "avatar": "https://img3.doubanio.com/icon/u1338358-20.jpg",
+      "content": "原谅我真的GET不到神剧之神。"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "前十集剧情跌岩起伏，环环相扣，精彩绝伦；十集后从仁州女高中生案起就崩不住了，韩式煽情过重，情节也变得拖沓，但瑕不掩瑜依旧是佳作。隔世对话破案这种老梗都能拍的如此有新意，泡菜的刑侦剧也是越来越让人刮目相看了，虽然开放式结局倒是真有点蛋疼....."
+    },
+    {
+      "user": "ღ 狐不悔，",
+      "avatar": "https://img3.doubanio.com/icon/u3940268-306.jpg",
+      "content": "呃…说好看的估计没看过郭晋安的《隔世追凶》吧…这就是韩版隔世追凶的节奏啊…期望值太高，明显失望了…"
+    },
+    {
+      "user": "款款",
+      "avatar": "https://img3.doubanio.com/icon/u2604381-70.jpg",
+      "content": "很多回放的镜头是无用的，一开始紧凑的节奏到后面越来越拖沓，结局虽然没有什么不好，但是还是让人感到传达的信息：就算再努力，强大的势力还是会压制住正义。"
+    },
+    {
+      "user": "哈哈哈啊啊啊",
+      "avatar": "https://img3.doubanio.com/icon/u156967679-2.jpg",
+      "content": "很好看哎，推荐。这是一部不靠颜值的犯罪剧情片，演员表演有层次，整剧完成度很高，剧情连贯不突兀，推理合理，节奏把握得很好。羡慕人家的编剧，哎，国内要想拍出一部好剧制作方是得顶住多多方势力吧，真难，真正想做好片的少之又少。"
+    },
+    {
+      "user": "惘然",
+      "avatar": "https://img1.doubanio.com/icon/u1240460-27.jpg",
+      "content": "一边害怕一边看一边百度还要一边流眼泪……现实永远比文艺作品更加残酷。"
+    },
+    {
+      "user": "吴松张",
+      "avatar": "https://img3.doubanio.com/icon/u49806396-63.jpg",
+      "content": "压缩到十集左右可以五星。"
+    },
+    {
+      "user": "真兮",
+      "avatar": "https://img3.doubanio.com/icon/u49511491-83.jpg",
+      "content": "李帝勋 李帝勋 李帝勋，tvN tvN tvN。"
+    },
+    {
+      "user": "呆萌小七",
+      "avatar": "https://img3.doubanio.com/icon/u169216507-4.jpg",
+      "content": "看过的人都说超赞，当然我也不例外！值得推荐！"
+    },
+    {
+      "user": "一起吃地瓜",
+      "avatar": "https://img3.doubanio.com/icon/u172924438-2.jpg",
+      "content": "有电影质感很不错，熬过开始三十分钟就好了，好看。"
+    },
+    {
+      "user": "变形的文科生",
+      "avatar": "https://img1.doubanio.com/icon/u40134553-8.jpg",
+      "content": "暗黑风很日式，节奏有力，但是还是略拖沓，以及本剧最大的败笔：演员，一个个演得吹胡子瞪眼的，贼拉尴尬。。。【多久没完整刷一部电视剧了，为自己赞一个╭(╯^╰)╮"
+    },
+    {
+      "user": "女宛心兑",
+      "avatar": "https://img3.doubanio.com/icon/u41637500-5.jpg",
+      "content": "男主演技太浮夸，像潘玮柏，不过整个剧情还可以，当初为了杀人回忆同案件来的，不过默默觉得办案水平还是太低，我还是弃剧吧。"
+    },
+    {
+      "user": "安金水",
+      "avatar": "https://img3.doubanio.com/icon/u51608797-2.jpg",
+      "content": "生活就是很多黑暗面，国内制作太执着于粉饰太平，是时候学习下了，直面血淋淋的现实，舔着伤口互相扶持更能暖人心，给人慰藉。"
+    },
+    {
+      "user": "wwwwww",
+      "avatar": "https://img1.doubanio.com/icon/u2595488-8.jpg",
+      "content": "亚洲电视剧所能达到的最高水准。"
+    },
+    {
+      "user": "木偶",
+      "avatar": "https://img3.doubanio.com/icon/u1333942-42.jpg",
+      "content": "韩剧NO1，线性结构+惊悚悬疑+美剧范儿+宿命轮回，欲罢不能。同样是韩剧，有人选择看《信号》，有人选择看《太阳的后裔》。在这一刻，智商和品位被残忍的拉开了差距。"
+    },
+    {
+      "user": "n.",
+      "avatar": "https://img3.doubanio.com/icon/u2540466-83.jpg",
+      "content": "這尼瑪超乎預料地好看！為演技爆燈的趙大叔點100個讚！吐槽點在現代男女主的演技：一受不了女主瞪眼；二受不了男主咆哮。這劇要是沒有女主就好了啊..."
+    },
+    {
+      "user": "神的孩子羊咩咩",
+      "avatar": "https://img3.doubanio.com/icon/u48411818-3.jpg",
+      "content": "这部剧是一个浪漫主义者对世界正邪之争的超时空幻想。"
+    },
+    {
+      "user": "大卫·独处尼",
+      "avatar": "https://img1.doubanio.com/icon/u1205892-9.jpg",
+      "content": "TVN已经疯了，部部精品的节奏啊。。"
+    },
+    {
+      "user": "次非",
+      "avatar": "https://img3.doubanio.com/icon/u1255665-16.jpg",
+      "content": "好，只能说这个编剧集大成了。在电视剧中吸收很多韩国犯罪电影的手法杂糅。几个互相连接的案件中可见《手机》的穿越道具，《杀人回忆》中的红衣女子、《母亲》中的两代关系、《追击者》中性缺失的独居少年……看完再说／很感动，为了世界变得更好，有这样的人在，并人在拍这样的电视剧。"
+    },
+    {
+      "user": "林探惜",
+      "avatar": "https://img1.doubanio.com/icon/u4016017-7.jpg",
+      "content": "一口气看完余韵悠长，不觉得烂尾啊。看短评分析说大叔男主是十五年前预知自己昏迷然后设局自救，觉得相当有道理。时空嵌套的逻辑确实要想半天。大叔拖着一身的伤把女主拥入怀中的画面，酥翻了我一地少女心！！！虽然最后的阴谋揭盅稍微单薄了点，但总的来说还是强推！！！"
+    },
+    {
+      "user": "爱情海",
+      "avatar": "https://img3.doubanio.com/icon/u157237265-2.jpg",
+      "content": "差点错过了一部好剧，出乎意料的好看。"
+    },
+    {
+      "user": "宸。",
+      "avatar": "https://img3.doubanio.com/icon/u142749358-4.jpg",
+      "content": "为什么评分这么高....拖沓的剧情和支线还有无聊的回忆.....拖拖拉拉婆婆妈妈...还有我觉得这穿越设定一点也不新颖，黑警和制度腐败一点也不新颖，真的除了主角心里侧面推测，还有啥亮点？"
+    },
+    {
+      "user": "饱",
+      "avatar": "https://img3.doubanio.com/icon/u2545925-383.jpg",
+      "content": "天呐 要是韩剧都这么拍 我可能早就变成棒粉了啵 虽然跟欧美罪案剧比还是有些拖 但是环环相扣 挖的坑都填上了 编剧不会打算还拍续集打造韩版迷失啵！！！感情线也不腻人 要知道我可是个基本不会被情爱剧情打动的石头啊！都被感动了……"
+    },
+    {
+      "user": "阿离",
+      "avatar": "https://img3.doubanio.com/icon/u32115474-32.jpg",
+      "content": "剧情新颖且逻辑很严整。韩剧的高度真的不错，一直在深刻的反应国家问题。"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "全剧节奏紧迫，扣人心弦。小bug太多，心理学上的推理太程式化，科幻穿越改变过去改变未来这个太bug了。细节的衔接生硬，有些地方还是免不了韩剧惯有的啰嗦。但是通篇的这种程序正义、司法公正以及对草菅人命的权贵和贪污腐败的公务员的憎恨，对人的关怀，对罪犯的同情，都是令人敬佩的。8.6"
+    },
+    {
+      "user": "早优生夫斯基",
+      "avatar": "https://img3.doubanio.com/icon/u3969646-462.jpg",
+      "content": "权贵算什么，两个男主毕竟开着挂"
+    },
+    {
+      "user": "绿川的猫",
+      "avatar": "https://img3.doubanio.com/icon/u172619084-14.jpg",
+      "content": "不愧是破了收视记录拿下大奖的电视剧，剧本编剧导演演员配合天衣无缝，按键扑朔迷离但又能峰回路转，扣人心弦。"
+    },
+    {
+      "user": "樹一",
+      "avatar": "https://img3.doubanio.com/icon/u4402286-16.jpg",
+      "content": "人生中看的上一部韩剧还是蓝色生死恋，这次是深深被开挂的剧情折服了！非常节约地花了一个多月才看完，接下来终于可以直面惨淡无聊的人生了（哭。）结局暗藏玄机，看来剧组心很大啊，不单止下了一盘大棋，还打算再来一盘！"
+    },
+    {
+      "user": "放烟火的高楼",
+      "avatar": "https://img1.doubanio.com/icon/u4568473-9.jpg",
+      "content": "看完秘密森林想起来了信号。两者各有千秋，都好看！相比而言，信号的情节更有新意更让人记忆深刻，而秘密森林更强在人物设定和主角魅力。"
+    },
+    {
+      "user": "严杰夫",
+      "avatar": "https://img1.doubanio.com/icon/u1085884-29.jpg",
+      "content": "让人想起经典《杀人回忆》，这部剧还有前两年的《未生》才是韩剧制作水准的巅峰。虽然金慧秀和宋慧乔同喜欢，但我还是要说，忘掉《太阳的后裔》吧，看看什么才是真正的韩剧。"
+    },
+    {
+      "user": "小瓣生🌈",
+      "avatar": "https://img1.doubanio.com/icon/u58231376-129.jpg",
+      "content": "即使身处在欲望和权杖的囹圄，即使目睹着生命或理想在惨败。即使所踏的每一步都将是混沌深渊，即使所爱的每一个与每一刻都不过走马流星。即使正午日头下的每一次躬身、午夜梦醒间的每一点刺痛，都不得不被视作一番错付或徒劳。你所坚信的意志能够改变未来。「在未知的岁月里，我们曾是最好的伙伴」"
+    },
+    {
+      "user": "zts",
+      "avatar": "https://img1.doubanio.com/icon/u52470011-7.jpg",
+      "content": "前半段不断翻案的剧情很过瘾，最后几集回放有点多了快进看的，总体上而言是一部不错的剧，泪点嗨点都不错，有的过去可以改变，有的不能改变，总之我是看了别人的分析才懂这个循环的，不剧透了"
+    },
+    {
+      "user": "乔治",
+      "avatar": "https://img3.doubanio.com/icon/u172484086-1.jpg",
+      "content": "一部很棒的悬疑犯罪电视剧，看了前面几集，节奏很好，第一集刚看的时候还有点不懂啥套路，有点怕怕的以为是恐怖片，后来就是一步一步，看到停不下来，每个未结案都能吸引人去看的欲望，不说了我要接着看后面的剧集了😂"
+    },
+    {
+      "user": "七十三",
+      "avatar": "https://img3.doubanio.com/icon/u25174155-1355.jpg",
+      "content": "只要不放弃就会有希望。虽然漏洞百出，但是也算精良了，没有狗血俗套，一向鄙视的韩剧都能做到如此我们国家的犯罪探案悬疑剧什么时候能够进步，少些天雷。"
+    },
+    {
+      "user": "梦朝大海",
+      "avatar": "https://img3.doubanio.com/icon/u2095404-6.jpg",
+      "content": "本片是强迫症观影患者的死敌！"
+    },
+    {
+      "user": "夕霏",
+      "avatar": "https://img3.doubanio.com/icon/u4637318-721.jpg",
+      "content": "又一经典韩剧。拍出电影质感的电视剧，每集都干净利索，每个案件都让人心生寒凉又赚人泪水，片尾曲超爱。紧接尾声时我便试想过千万种结局的安排，李材韩活着众人喜，仍然被害死便众人悲。但也许这样留人无限遐想的结局安排是最理想的。非常享受如此过瘾的追剧过程。"
+    },
+    {
+      "user": "醉桃子",
+      "avatar": "https://img3.doubanio.com/icon/u42878123-1355.jpg",
+      "content": "更令人唏嘘的，是剧中所有案件在真实中的结局。人心鬼蜮，幽暗如斯。"
+    },
+    {
+      "user": "Hallstatt",
+      "avatar": "https://img3.doubanio.com/icon/u122819794-13.jpg",
+      "content": "为便利店小哥疯狂打call"
+    },
+    {
+      "user": "jess",
+      "avatar": "https://img3.doubanio.com/icon/u72178441-1.jpg",
+      "content": "忠武路卡司，镜头有电影质感，悬疑气氛也不错，可惜这些案子，现实里还未得到真相。"
+    },
+    {
+      "user": "某J。624",
+      "avatar": "https://img1.doubanio.com/icon/u2223174-29.jpg",
+      "content": "tvN对\"煽情\"的掌控已经炉火纯青，前半部分各种震撼与泪目，但后半段明显节奏慢了，主线的\"情\"高出了\"故事\"。更喜欢前面孤军奋战与现实胶着的沉重无力。男主的演戏方式看到后面很疲劳；大叔一个人坐在电影院里哭和陪着小男主走夜路这两段印象深刻。哥哥那么好，以至于虽然知道与女主无关还是心塞了。"
+    },
+    {
+      "user": "包大人",
+      "avatar": "https://img3.doubanio.com/icon/u39232497-63.jpg",
+      "content": "正义和柔情永在！"
+    },
+    {
+      "user": "屎霸",
+      "avatar": "https://img3.doubanio.com/icon/u1309654-111.jpg",
+      "content": "刚看到第三集就想弃了 犯罪悬疑题材最重要的难道不是严谨吗 为了剧情离奇吸引观众而大肆编写剧情 一点儿真实感都没有 狗血的不行 韩剧的套路永远都是最大的bug 这个评分也是离奇的吓人 还是1988这种家庭温情剧靠谱点儿"
+    },
+    {
+      "user": "血手人屠",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "一群SB的故事，两星；创意也是来自别人的，再减一星。"
+    },
+    {
+      "user": "潇湘烟雨",
+      "avatar": "https://img3.doubanio.com/icon/u165023952-1.jpg",
+      "content": "为数不多我看的下去的韩剧，情节故事都很不错，悬疑紧张煽情，反映了一些社会现实问题，气氛有点压抑恐怖，很不错的电视剧，不知道有没有第二季"
+    },
+    {
+      "user": "仲曰",
+      "avatar": "https://img1.doubanio.com/icon/u33360778-57.jpg",
+      "content": "每集三到五星来回波动，不稳定。缺点是时间线和记忆设定bug，为了拖延剧情故意各种有话不直说，节奏太拖沓，本可以更精巧。太多不必要的回忆杀和煽情，故事发展也过于戏剧化。但你一旦接受了这个signal设定，编剧也算工整巧妙。尤为一提的优点是，本剧的现实意义卓越，堪比《白色巨塔》。"
+    },
+    {
+      "user": "虾米",
+      "avatar": "https://img3.doubanio.com/icon/u1329593-10.jpg",
+      "content": "前半甚好，后半又变回典型的韩式滥情和拖沓了。编剧是动了脑子的，演员的表演则要么过力要么乏力。批判公权力的无能和腐败是亮点，反观之下某国禁止抹黑“人民**”的现状让人真心觉得这个国家没有出路和希望。"
+    },
+    {
+      "user": "维城乱马",
+      "avatar": "https://img3.doubanio.com/icon/u1367110-160.jpg",
+      "content": "四点五星，四舍五入为五星。"
+    },
+    {
+      "user": "盐",
+      "avatar": "https://img3.doubanio.com/icon/u58090436-31.jpg",
+      "content": "太能煽乎了"
+    },
+    {
+      "user": "吃辣条的贡丸儿",
+      "avatar": "https://img3.doubanio.com/icon/u76635599-16.jpg",
+      "content": "主角演技做作 在正义的深度上挖掘的没有黑色M深  9.2，exm？"
+    },
+    {
+      "user": "JOJOORC/Z",
+      "avatar": "https://img1.doubanio.com/icon/u1322447-169.jpg",
+      "content": "刷新了对韩剧的认识，甩中国十年。"
+    },
+    {
+      "user": "夏天一",
+      "avatar": "https://img3.doubanio.com/icon/u3549287-2.jpg",
+      "content": "看了三集刘哔的《信号》解说，被安利了这部剧！真的很精彩，剧情节奏紧凑！前半部可以说是很成功了！最后一部分在剧情逻辑细节上还有一些没有交代的！最后的长镜头，意犹未尽"
+    },
+    {
+      "user": "杨三恨🌈",
+      "avatar": "https://img3.doubanio.com/icon/u54245479-2.jpg",
+      "content": "没有那么好看吧？还是我看不懂？"
+    },
+    {
+      "user": "愿此间山有木兮",
+      "avatar": "https://img3.doubanio.com/icon/u171128175-3.jpg",
+      "content": "这部韩剧让我跳进了韩剧坑，我原本对韩剧非常不喜欢，看了这个之后发生了巨大的改观。剧情脑洞大开但是逻辑严密，前后呼应，结局也给人一种无限遐想希望的仪式感，拍摄手法渲染的也很好。BGM也恰到好处。真的非常喜欢这部电视剧，推荐给身边的朋友都说好看完全入迷。而且大叔太帅了啊！！！！"
+    },
+    {
+      "user": "我不是服务器",
+      "avatar": "https://img3.doubanio.com/icon/u155769304-1.jpg",
+      "content": "越到最后剧情越紧张，过去的事情一步步被揭开，一部神奇的对讲机改变了两个人的命运，不过最终的结局过去的那个大叔可能还是出了意外，但是他们在互相帮助的过程中，男主开始相信警察，大叔也开始慢慢的触碰到当年案件的真相，挺刺激的一部韩剧"
+    },
+    {
+      "user": "SingLesinger",
+      "avatar": "https://img3.doubanio.com/icon/u2217677-36.jpg",
+      "content": "看到ep4,觉得有些意思。表演是夸张的，情节是抓人的，当然严谨度和细腻度不能喝电影不能比咯。"
+    },
+    {
+      "user": "xīn",
+      "avatar": "https://img3.doubanio.com/icon/u1296250-20.jpg",
+      "content": "第一二集的开篇比较好，信息穿越的过去、现在两条线确实很难写"
+    },
+    {
+      "user": "爱睡午觉黄少天",
+      "avatar": "https://img3.doubanio.com/icon/u55309623-115.jpg",
+      "content": "很不错！我其实不觉得很拖沓啊，节奏算不错的了。韩剧拖的你们估计没见过，有些韩剧我可以一路快进只看喜欢的演员部分"
+    },
+    {
+      "user": "吴鲸鲸",
+      "avatar": "https://img1.doubanio.com/icon/u1838432-48.jpg",
+      "content": "为什么我就真的觉得很一般。剧情拖沓。啰啰嗦嗦。真是什么都能拍成苦恋爱情剧的感觉。"
+    },
+    {
+      "user": "jun@live.jp",
+      "avatar": "https://img3.doubanio.com/icon/u2424446-1.jpg",
+      "content": "第十集开始拖沓不堪差评！腾讯水军刷分极差评！！"
+    },
+    {
+      "user": "三点。",
+      "avatar": "https://img3.doubanio.com/icon/u48960882-1.jpg",
+      "content": "从头到尾看的韩剧不多，看过的总能留下特别深的印象。大叔的初恋，和男二的蛋包饭。大叔在电影院看着喜剧却哭到哽咽，大叔跟在还是男孩的男二后面，嘱咐烤肉店老板娘每次他来都给他一碗蛋包饭的时候。想起男二知道后说，一直以为那样的时光是自己一个人，却从来不知道还有人懂你的难过，也尊重你的坚强"
+    },
+    {
+      "user": "郡主酱",
+      "avatar": "https://img3.doubanio.com/icon/u2894919-43.jpg",
+      "content": "最后几集略拖沓，编剧圆不回来啦"
+    },
+    {
+      "user": "阿瓦尔古丽",
+      "avatar": "https://img1.doubanio.com/icon/u2959888-8.jpg",
+      "content": "虽然这种隔世追凶的路数很老套，但被悬疑的情节和纯纯的爱情和良知感动了。值得看。"
+    },
+    {
+      "user": "雪雪卡特",
+      "avatar": "https://img3.doubanio.com/icon/u46539454-26.jpg",
+      "content": "冲着9.1的分数来看的，也许是期望值太高了，反而有点失望。剧情比较拖沓不紧凑；编剧脑洞太大感觉他自己都快补不回来了；男主永远是便秘脸；结尾太仓促，真心没看懂"
+    },
+    {
+      "user": "37°2",
+      "avatar": "https://img3.doubanio.com/icon/u1224197-31.jpg",
+      "content": "任性打五星，这是继“请回答1988”后看过的最佳韩剧。虽然片头仿效了“真探”，节奏稍稍拖了一丢，李帝勋永远眉头紧锁用力过猛，最后几集逻辑疏漏，但是真是非常难得的良心剧，编剧扎实，制作电影化。被熊叔和车警官的精湛演技虐哭，捐掉我几公升的眼泪，强烈安利。"
+    },
+    {
+      "user": "媛木子",
+      "avatar": "https://img3.doubanio.com/icon/u156064887-5.jpg",
+      "content": "挺良心的剧，通过案件来揭露人性。"
+    },
+    {
+      "user": "浅浅四月",
+      "avatar": "https://img3.doubanio.com/icon/u1810574-32.jpg",
+      "content": "后面几集崩坏了，但是架不住前面好看啊！一口气追完系列。"
+    },
+    {
+      "user": "韧勉",
+      "avatar": "https://img3.doubanio.com/icon/u2860322-104.jpg",
+      "content": "应该承认本片与英美侦探剧还是有差距的，其一每个案子时间很长都能赶上一部电影，其二最终还没个结局满满的续集感简直就是骗人。但的确韩式悬疑谋杀剧的类型特色淋漓尽致，另外，我觉得女主角长得太像马伊琍了，分分钟出戏。"
+    },
+    {
+      "user": "渡边。",
+      "avatar": "https://img3.doubanio.com/icon/u1862228-10.jpg",
+      "content": "我竟然在B站看韩剧。"
+    },
+    {
+      "user": "依旧西兰花",
+      "avatar": "https://img3.doubanio.com/icon/u2229021-42.jpg",
+      "content": "8.0 二刷发觉很多煽情和编剧的刻意。女1男1演得很卖力但真的不讨好，男二真挚感人！受害者的10-11集好赞~ 最后三集真是煎熬，特讨厌女1，真心的12集紧紧的多好。中年女警还是更喜欢「live」的裴宗玉啊。"
+    },
+    {
+      "user": "Z",
+      "avatar": "https://img3.doubanio.com/icon/u4207189-60.jpg",
+      "content": "集合了犯罪、腐败、爱情、黑洞频率的正义感电视剧用心拍起来一定不会难看，剧情不拖沓画面也很棒演员又到位，只是朴海英的鼻子尖得可以把冰山戳断了那种锋利感简直溢出屏幕啊！"
+    },
+    {
+      "user": "鹰婕",
+      "avatar": "https://img3.doubanio.com/icon/u38770929-133.jpg",
+      "content": "80/ 怎么会怎么好看！16集刷刷看完了还意犹未尽！"
+    },
+    {
+      "user": "李妙生",
+      "avatar": "https://img1.doubanio.com/icon/u1443553-39.jpg",
+      "content": "虽然穿越时空的剧肯定有bug的，但作为韩剧来说真的已经超棒了，没有高颜值国民老公，没有换来换去的衣服配饰，没有来来去去的你撩我撩，但是人与人之间的那种感情却非常真实动人。"
+    },
+    {
+      "user": "蓝下老婆",
+      "avatar": "https://img3.doubanio.com/icon/u155986714-2.jpg",
+      "content": "过去和现实的切换，剧情的无缝连接，紧张的揭露案情真相，从头到尾吸引人的眼球，真心好看"
+    },
+    {
+      "user": "aglaonema",
+      "avatar": "https://img3.doubanio.com/icon/u2147050-4.jpg",
+      "content": "后劲不足，十集之后开始拖戏，各种煽情。直面现实不是一味卖惨和虐心。“乐而不淫、哀而不伤”这种审美趣味棒子看来是永远也理解不了了。除了现实题材做噱头之外，还有什么可说的？豆瓣这么高分真心不能理解。"
+    },
+    {
+      "user": "沙漏之瞳",
+      "avatar": "https://img3.doubanio.com/icon/u3859503-185.jpg",
+      "content": "不负搜妹的推荐，是我看过最精彩的韩剧没有之一，即使将其和美剧比较，也绝对是最精彩的之一。唯二的瑕疵是红院洞案为了推进剧情而造成逻辑略不通顺，以及官二代的梗用了两次，但瑕不掩瑜，依然五星推荐。价值观正，演绎细腻，将蝴蝶效应揉进现实悬案的神剧本，让我只能唏嘘天朝和棒子国影视作品的差距"
+    },
+    {
+      "user": "如小果",
+      "avatar": "https://img1.doubanio.com/icon/u1289463-29.jpg",
+      "content": "后半部很好看！特别喜欢看平行时空的剧！男一是都教授他哥么~~~"
+    },
+    {
+      "user": "Bill",
+      "avatar": "https://img3.doubanio.com/icon/u2767575-6.jpg",
+      "content": "节奏无法接受，一集弃"
+    },
+    {
+      "user": "Yuyii",
+      "avatar": "https://img1.doubanio.com/icon/u2467021-179.jpg",
+      "content": "玩时间线却没落入俗套，李材韩＋车秀贤这样的cp也是萌萌哒～ps：演得好！"
+    },
+    {
+      "user": "熊猫宝宝爱电影",
+      "avatar": "https://img3.doubanio.com/icon/u155985816-2.jpg",
+      "content": "第一次看破案韩剧。"
+    },
+    {
+      "user": "莫吉托",
+      "avatar": "https://img3.doubanio.com/icon/u81006765-2.jpg",
+      "content": "看到停不下来"
+    },
+    {
+      "user": "你大立",
+      "avatar": "https://img3.doubanio.com/icon/u35546552-21.jpg",
+      "content": "硬伤太多，演技太差，节奏太慢。再也不看韩剧了"
+    },
+    {
+      "user": "库索",
+      "avatar": "https://img1.doubanio.com/icon/u1127293-69.jpg",
+      "content": "如果这都不叫烂尾。。。"
+    },
+    {
+      "user": "月章星句",
+      "avatar": "https://img3.doubanio.com/icon/u60504195-5.jpg",
+      "content": "故事和线索都层层推进，两条时间线结合的很好。选取的案件都触目惊心，借此想讲的问题也都黑暗沉重，但在这黑暗中还有秉持着良心和正义决不放弃的警察，像是黑暗里的光。两大主演都是强大的实力派，李帝勋表现也不错，虽然还有点用力过度的感觉。"
+    },
+    {
+      "user": "元宝宝",
+      "avatar": "https://img3.doubanio.com/icon/u152434281-2.jpg",
+      "content": "没想到韩剧的刑侦题材也有精品剧集，确实是近些年来比较喜欢的韩剧了！"
+    },
+    {
+      "user": "榜上有名猫",
+      "avatar": "https://img3.doubanio.com/icon/u77659294-2.jpg",
+      "content": "第一部认真追的韩剧，推理逻辑很棒，心理侧写师不同凡响的侦查手段涨见识；因为用到“穿越”元素，时间轴未免出现漏洞或者自圆解释是失分点，尽管情节吸引，单案件耗集数较长，需要一定耐心坚持，高水准推理剧还是值得推荐。"
+    },
+    {
+      "user": "猫语猫寻",
+      "avatar": "https://img3.doubanio.com/icon/u10864734-74.jpg",
+      "content": "前面都很好，让我熬到凌晨5点，可是最后三集实在是太难熬了，一个镜头回忆很多遍，一集一个小时啊，还真的是耗费体力。难得有一个喜欢的韩剧女主，真不容易。赵镇雄影帝级的演技让我都想嫁给他了。还是无法喜欢结局啊，第一次看剧这么期望大团圆啊，结果他还在结尾告诉我让我自己想，我@#@%@！"
+    },
+    {
+      "user": "elevenvg",
+      "avatar": "https://img1.doubanio.com/icon/u23076990-59.jpg",
+      "content": "看过最厉害的韩剧！！！！！！从剧本、演员、到美工都是电影的质感和节奏"
+    },
+    {
+      "user": "恪彥",
+      "avatar": "https://img3.doubanio.com/icon/u47103277-133.jpg",
+      "content": "私以为,无论桥段,镜头,表演,配乐,还是剧本等均属同类剧上乘,并脑洞突破天际.而且,该剧真正做到了,面向全年龄、职业段无死角囊括.部分桥段略有拖沓.综合来看,五星力荐!!!P.S. 连女十七号配角随手翻的书都是本雅明原文的《德意志悲苦剧的起源》,这逼格...随意感受..."
+    },
+    {
+      "user": "weib^^心里难受了要死",
+      "avatar": "https://img3.doubanio.com/icon/u1446104-3.jpg",
+      "content": "十一长假推荐电视剧，靠近日剧的篇幅，接近美剧的紧凑，一气呵成，韩剧No.1"
+    },
+    {
+      "user": "亚比煞",
+      "avatar": "https://img1.doubanio.com/icon/u1025094-38.jpg",
+      "content": "编剧还是有新意的，但实在还是受不了韩剧的节奏，各种回放，各种煽情，看的好烦一直在快进。"
+    },
+    {
+      "user": "我lu不会飞",
+      "avatar": "https://img3.doubanio.com/icon/u157224553-1.jpg",
+      "content": "真的超级好看，根本停不下来，希望我们也可以好好学习学习，别总只有重案六组了。"
+    },
+    {
+      "user": "乌斯托克",
+      "avatar": "https://img3.doubanio.com/icon/u53089083-13.jpg",
+      "content": "又作又拖"
+    },
+    {
+      "user": "貓小三的意思其實是如果先生",
+      "avatar": "https://img3.doubanio.com/icon/u2473154-161.jpg",
+      "content": "每当因为恐怖气氛的渲染和细节给4星，往往又被可怕的裹脚布般的煽情吓软了。韩国影视在无论叙事还是抒情上的结构性的拖沓可能跟韩语的语言构成有关系吧。"
+    },
+    {
+      "user": "略略略你管我",
+      "avatar": "https://img3.doubanio.com/icon/u48501189-10.jpg",
+      "content": "题材并不算新，但是整体氛围特别棒"
+    },
+    {
+      "user": "阿莱",
+      "avatar": "https://img3.doubanio.com/icon/u3766915-13.jpg",
+      "content": "犯罪类型套用时间结构 没有案件了节奏就出问题 关弹幕保智商 悸动tvN：）"
+    },
+    {
+      "user": "仙贝",
+      "avatar": "https://img3.doubanio.com/icon/u45521984-14.jpg",
+      "content": "我看过的最优质的韩剧之一。"
+    },
+    {
+      "user": "夏",
+      "avatar": "https://img3.doubanio.com/icon/u3988850-20.jpg",
+      "content": "word妈呀！好看！"
+    },
+    {
+      "user": "西四小二",
+      "avatar": "https://img3.doubanio.com/icon/u22071761-26.jpg",
+      "content": "我们寄希望于通过改变过去来改变现在，实际上是希望通过现在改变未来。设定、剧作、演技上的弱点都在男主身上，他知道两重事实，每次被问到对讲机都迟疑、答非所问，推迟了剧情的发展，令人不快。金惠秀和赵震雄都棒极了。"
+    },
+    {
+      "user": "朱熠",
+      "avatar": "https://img1.doubanio.com/icon/u1514785-29.jpg",
+      "content": "有不少BUG啊，作为强迫症患者真是抓狂，以及最后几集那叫一个拖沓。除此之外，完美。"
+    },
+    {
+      "user": "李棂夏Qian",
+      "avatar": "https://img3.doubanio.com/icon/u3563102-221.jpg",
+      "content": "药不能停。"
+    },
+    {
+      "user": "Viola",
+      "avatar": "https://img3.doubanio.com/icon/u4547717-10.jpg",
+      "content": "四星半 特别带感 但这种剧非常容易上帝视角 看着看着就容易生气 =  =！"
+    },
+    {
+      "user": "梅山君",
+      "avatar": "https://img1.doubanio.com/icon/u136505664-108.jpg",
+      "content": "有一种以前tvb的《隔世追凶》的味道。\n喜欢过去的故事，本片最大过去的悬疑故事，引人入胜的节奏，据说很多故事都是真实案例改编的，看得出用心的编剧。\n李材韩警官的饰演者真的好棒，同样大爱这个角色。\n\n不过看完后有一个疑问，\n是不是无论怎么改变过去\n人的品行行为是不是都不会改变？"
+    },
+    {
+      "user": "寂寞冷落清秋",
+      "avatar": "https://img1.doubanio.com/icon/u59958107-8.jpg",
+      "content": "2016韩剧最佳。"
+    },
+    {
+      "user": "大P™",
+      "avatar": "https://img1.doubanio.com/icon/u1028676-8.jpg",
+      "content": "刷新对韩剧的印象"
+    },
+    {
+      "user": "咪子",
+      "avatar": "https://img3.doubanio.com/icon/u1663174-31.jpg",
+      "content": "感动的一塌糊涂啊！！！第一次一掷15块买会员啊！！！"
+    },
+    {
+      "user": "茉瑜DaisyLee",
+      "avatar": "https://img3.doubanio.com/icon/u17244000-161.jpg",
+      "content": "长这么大看的唯一一部想要二刷的电视剧！"
+    },
+    {
+      "user": "没什么想说的",
+      "avatar": "https://img3.doubanio.com/icon/u104460998-2.jpg",
+      "content": "韩国的犯罪剧真的是看得我一脸冷漠，在豆瓣居然还能有9.1的高分。前10集除了主角其他警察都像傻逼一样，后6集主角也像傻逼一样，明知道情况紧急还非要在不安全的地方抒情诸如此类的低智商bug层出不穷，一边看一边吐槽以至于最后无力吐槽。节奏也是慢的要死，不停的闪回回忆，"
+    },
+    {
+      "user": "方洛洛",
+      "avatar": "https://img1.doubanio.com/icon/u4479976-68.jpg",
+      "content": "这部剧最神奇的地方是：每一集都有泪点。最值得夸的是超级正的三观：无论世界多么黑暗，仍然有人在追求公平和正义。最美中不足的是：煽情和回闪戏份过多。如果精简到14集就完美了。看到最后，我深深地爱上了李警官。静待第二季，必须要有第二季啊~~~~~~"
+    },
+    {
+      "user": "鯨",
+      "avatar": "https://img3.doubanio.com/icon/u45588933-44.jpg",
+      "content": "讲真，男主角这样看到别人衣着打扮就能推理出其性格爱好交际圈的能力真是大写的一个扯淡"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "拍得很用心，虽然有点拖沓，压缩进十二三集会更紧凑。赵震雄和金惠秀演得也太好了吧，还有如果有谁喜欢李济勋的话请告诉我，我有个朋友和他长得超级像，单身且在老静安有房，可以介绍给你们！"
+    },
+    {
+      "user": "党阿飞",
+      "avatar": "https://img3.doubanio.com/icon/u91510616-145.jpg",
+      "content": "这部戏最有意思的地方在于个人与体制之间的关系上，几个最有才华最有责任心的刑侦技术骨干，却被排挤到一个体制内最冷门的岗位上。即使他们出类拔萃，却换不来应有的价值和尊重，只能利用自己的才智搞一些跟踪明星的八卦赚钱，这点才是最值得玩味和有意思的。"
+    },
+    {
+      "user": "zhang 2nd",
+      "avatar": "https://img3.doubanio.com/icon/u2343960-135.jpg",
+      "content": "前四集节奏超赞，有几个关键的转折点，我想如果X样的话就神作了，然后编剧还真就X样了。中段节奏慢下来后有些托。第12集是最赞的，那种现实的无奈，小人物的妥协同流合污。让我想到多年前的《黑洞》。因为这一集，所以给满分"
+    },
+    {
+      "user": "Baileys",
+      "avatar": "https://img3.doubanio.com/icon/u47486983-5.jpg",
+      "content": "破案情节紧凑，时空交错的讲解方式很特别。三个人的感情戏也没有太过拖拉。只是最后1集的结局，真是牺牲我一人，幸福千万家啊。。。"
+    },
+    {
+      "user": "水知寒",
+      "avatar": "https://img3.doubanio.com/icon/u143001653-1.jpg",
+      "content": "超级好看全程紧张刺激，演员演技超赞！感觉会有第二季结局是开放式的！不谈情说爱的电视剧居然更加好看！强烈推荐此片！喜欢此片类型的还可以去看《幽灵》这部韩剧！也超级好看！"
+    },
+    {
+      "user": "花觉",
+      "avatar": "https://img3.doubanio.com/icon/u69546835-4.jpg",
+      "content": "好看到废寝忘食啊"
+    },
+    {
+      "user": "宋小卡",
+      "avatar": "https://img3.doubanio.com/icon/u1281192-95.jpg",
+      "content": "评价一部电视剧比评论一部电影要难很多，因为信息量太大，每一部口碑好的剧总有很多闪光，但因为太长也少不了瑕疵和硬伤。电视剧最好的地方就在于，能带给人一段牵肠挂肚的时光，生活会跟着剧一起留下很多烙印，回忆起来觉得很好。"
+    },
+    {
+      "user": "锦翼",
+      "avatar": "https://img3.doubanio.com/icon/u1346048-10.jpg",
+      "content": "那部对讲机，我想起一句广告词“充电24小时，通话两分钟。”"
+    },
+    {
+      "user": "曈曈",
+      "avatar": "https://img1.doubanio.com/icon/u3683925-188.jpg",
+      "content": "窝火，一分钟的信号不会长话短说，闲聊什么?！！！！从第三集开始一路烂到底，鸡汤不好喝。男主，请停止你的皱眉式演法！"
+    },
+    {
+      "user": "一二三四",
+      "avatar": "https://img3.doubanio.com/icon/u160051873-2.jpg",
+      "content": "不知道为什么，我是真的记得以前有一部类似情节的港剧来着。"
+    },
+    {
+      "user": "没头脑又不高兴",
+      "avatar": "https://img3.doubanio.com/icon/u2121604-75.jpg",
+      "content": "简直就是中国的写照"
+    },
+    {
+      "user": "牛佬",
+      "avatar": "https://img3.doubanio.com/icon/u1410853-46.jpg",
+      "content": "对讲机勾联时空的创意绝赞，就是突破类型片的那一下，前几集也好看，后面逐渐就失控，用力过猛，煽情过度，不断的闪回，不断在爱里打转，在黑政府上做文章，是韩剧和韩国电影的通病。好失望。"
+    },
+    {
+      "user": "饱の嗝",
+      "avatar": "https://img3.doubanio.com/icon/u1000905-1801.jpg",
+      "content": "打不死的赤诚刑警典范、瘦脸赵镇雄 ！！ 眼珠子突突着泪花，满脸的正义牺牲相..\n\n编导架构精致幻妙，用心良苦治愈，除了十来集的地方有些剪辑拖沓，男主小哥脸丑还苦，--瑕不掩瑜，依然够9分以上了。\n\n牵心动容的还是红院洞一案"
+    },
+    {
+      "user": "白衣卿相",
+      "avatar": "https://img1.doubanio.com/icon/u1538764-97.jpg",
+      "content": "第一部从头到尾看完的韩剧，不曾想算个烂尾，应该是还有续集吧应该。有些地方太煽情了，幸亏几个老男人演技非常好，不会很尴尬。案件水平一般，不过节奏感很好，从头到尾没怎么疲软。"
+    },
+    {
+      "user": "Xaviera",
+      "avatar": "https://img3.doubanio.com/icon/u48953772-16.jpg",
+      "content": "虽负盛名 但坚持到第9集觉得无比拖沓 至今仍未看完"
+    },
+    {
+      "user": "Sai.",
+      "avatar": "https://img3.doubanio.com/icon/u1475299-63.jpg",
+      "content": "好像从没有哪个犯罪类型的影视剧让我掉了如此多的眼泪，不得不承认剧本的强大，导演的精心布局和演员走心的演技。终于在韩剧上体现了韩国电影的水准，想给它太多称赞！"
+    },
+    {
+      "user": "mie",
+      "avatar": "https://img3.doubanio.com/icon/u41491855-11.jpg",
+      "content": "大概是我活到现在唯一认真看完的韩剧。"
+    },
+    {
+      "user": "kayouka",
+      "avatar": "https://img3.doubanio.com/icon/u43997881-2.jpg",
+      "content": "我想吃蛋包饭~~"
+    },
+    {
+      "user": "雪盲",
+      "avatar": "https://img1.doubanio.com/icon/u1172326-28.jpg",
+      "content": "《信号》是我此生看的第三部韩剧，确实好看，对韩剧的固有偏见完全矫正了！"
+    },
+    {
+      "user": "琪琳君亦很美",
+      "avatar": "https://img3.doubanio.com/icon/u56192491-4.jpg",
+      "content": "韩剧里面的异军突起，像美剧一般的韩剧很难得。"
+    },
+    {
+      "user": "归安",
+      "avatar": "https://img3.doubanio.com/icon/u164796497-5.jpg",
+      "content": "剧情不断反转很刺激，知道是剧情需要，但想说的是能不能说重点，把时间浪费在无关紧要的话上，真的让人很捉急啊，强行推动剧情的着急方面不喜欢，但是故事情节，演技没得挑"
+    },
+    {
+      "user": "nevercry",
+      "avatar": "https://img3.doubanio.com/icon/u1897501-26.jpg",
+      "content": "麻痹挖了个这么大的坑不填！ 随便填我就给五星了"
+    },
+    {
+      "user": "nocturne",
+      "avatar": "https://img1.doubanio.com/icon/u2786689-9.jpg",
+      "content": "竟然会后怕  看的时候还在吐槽线索设置过于巧合  一个人走夜路心慌"
+    },
+    {
+      "user": "U'si",
+      "avatar": "https://img3.doubanio.com/icon/u39265502-104.jpg",
+      "content": "莫比乌斯环（bug：记忆能不能被连续改变）"
+    }
+  ]
+}

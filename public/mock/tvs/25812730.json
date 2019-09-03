@@ -1,0 +1,1344 @@
+{
+  "title": "如懿传",
+  "url": "https://movie.douban.com/subject/25812730/",
+  "rate": "7.4",
+  "id": "25812730",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460165077.jpg",
+  "info": [
+    "导演: 汪俊",
+    "编剧: 流潋紫",
+    "主演: 周迅 / 霍建华 / 张钧甯 / 李纯 / 辛芷蕾 / 董洁 / 胡可 / 邬君梅 / 童瑶 / 陈昊宇 / 经超 / 黄宥明 / 陈冲 / 李沁 / 张佳宁 / 曹曦文 / 何泓姗 / 陈小纭 / 袁文康 / 曾一萱 / 于子洋 / 赵柯 / 刘美彤 / 韩丹彤 / 齐欢 / 李琦 / 蒋雪鸣 / 郭虹 / 宫晓瑄 / 闵春晓 / 关雪盈 / 张举举 / 林澄 / 夏楠 / 屈楚萧 / 吴倩 / 王纯 / 陈木易 / 孟召重 / 杨柳 / 王小橙 / 胡明 / 王伟 / 张丰毅 / 王劲松 / 李光洁 / 余少群 / 王鹤润 / 张棪琰",
+    "类型: 剧情 / 历史 / 古装",
+    "制片国家/地区: 中国大陆",
+    "语言: 汉语普通话",
+    "首播: 2018-08-20(中国大陆)",
+    "集数: 87",
+    "单集片长: 45分钟",
+    "又名: 后宫·如懿传 / 甄嬛传续集 / Ruyi's Royal Love in the Palace"
+  ],
+  "desc": "18世纪上半叶，满清王朝迎来了最后一位长寿皇帝的时代。风华正茂的弘历（霍建华 饰）正式登基，定年号为乾隆。与此同时，自幼与弘历青梅竹马相知相亲的侧福晋如懿（周迅 饰）也随驾入宫册封娴妃。遽然身处政治斗争的核心，心心相映的二人逐渐体味到巨大的撕裂感。皇太后（邬君梅 饰）与如懿娘家乌拉那拉有着深仇大恨，自然视娴妃为眼中钉。政治舞台，后宫专政、老臣跋扈从四面八方分割皇权。暗潮涌动的皇宫，皇帝与娴妃相互扶持，共同进退，终于逐一扫除障碍。如懿升为皇后，看似一切美好，但是在坎坷荆棘之路上，成熟老练的帝王已经和人生旧爱貌合神离。靡不有初，鲜克有终……\n                                    \n                                　　本片根据流潋紫的小说改编。\n                        \n©豆瓣",
+  "members": {
+    "director": {
+      "name": "汪俊 Jun Wang",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465101587.15.jpg"
+    },
+    "cast": [
+      {
+        "name": "周迅 Xun Zhou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53446.jpg"
+      },
+      {
+        "name": "霍建华 Wallace Huo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1414655610.66.jpg"
+      },
+      {
+        "name": "张钧甯 Chun-Ning Chang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1498102847.89.jpg"
+      },
+      {
+        "name": "李纯 Chun Li",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465875448.99.jpg"
+      },
+      {
+        "name": "辛芷蕾 Zhilei Xin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501237550.08.jpg"
+      },
+      {
+        "name": "董洁 Jie Dong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1352362838.1.jpg"
+      },
+      {
+        "name": "胡可 Ke Hu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1401438840.47.jpg"
+      },
+      {
+        "name": "邬君梅 Vivian Wu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31577.jpg"
+      },
+      {
+        "name": "童瑶 Yao Tong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536662362.13.jpg"
+      },
+      {
+        "name": "陈昊宇 Haoyu Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551804805.95.jpg"
+      },
+      {
+        "name": "经超 Chao Jing",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1497690286.27.jpg"
+      },
+      {
+        "name": "黄宥明 Youming Huang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464837257.68.jpg"
+      },
+      {
+        "name": "陈冲 Joan Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5526.jpg"
+      },
+      {
+        "name": "李沁 Qin Li",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549079266.08.jpg"
+      },
+      {
+        "name": "张佳宁 Jianing Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464837085.91.jpg"
+      },
+      {
+        "name": "曹曦文 Xiwen Cao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1408114144.95.jpg"
+      },
+      {
+        "name": "何泓姗 Hongshan He",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1532516173.56.jpg"
+      },
+      {
+        "name": "陈小纭 Xiaoyun Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1555920534.75.jpg"
+      },
+      {
+        "name": "袁文康 Wenkang Yuan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537202539.42.jpg"
+      },
+      {
+        "name": "曾一萱 Yixuan Zeng",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474635565.28.jpg"
+      },
+      {
+        "name": "于子洋 Ziyang Yu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537860023.37.jpg"
+      },
+      {
+        "name": "赵柯 Karina Zhao",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551893296.97.jpg"
+      },
+      {
+        "name": "刘美彤 Meitong Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484724639.22.jpg"
+      },
+      {
+        "name": "韩丹彤 Dantong Han",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535093572.2.jpg"
+      },
+      {
+        "name": "齐欢 Huan Qi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41007.jpg"
+      },
+      {
+        "name": "李琦 Qi Li",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535345579.28.jpg"
+      },
+      {
+        "name": "蒋雪鸣 Xueming Jiang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465884482.47.jpg"
+      },
+      {
+        "name": "郭虹 Hong Guo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386212158.57.jpg"
+      },
+      {
+        "name": "宫晓瑄 Xiaoxuan Gong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13944.jpg"
+      },
+      {
+        "name": "闵春晓 Chunxiao Min",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371613392.05.jpg"
+      },
+      {
+        "name": "关雪盈 Xueying Guan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1402222292.24.jpg"
+      },
+      {
+        "name": "张举举 Juju Zhang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1539319028.79.jpg"
+      },
+      {
+        "name": "林澄 Cheng Lin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1539147581.19.jpg"
+      },
+      {
+        "name": "夏楠 Nan Xia",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516068404.14.jpg"
+      },
+      {
+        "name": "屈楚萧 Chuxiao Qu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533348792.03.jpg"
+      },
+      {
+        "name": "吴倩 Qian Wu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489393398.73.jpg"
+      },
+      {
+        "name": "王纯 Chun Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1480943178.49.jpg"
+      },
+      {
+        "name": "陈木易 Muyi Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1351925462.41.jpg"
+      },
+      {
+        "name": "孟召重 Zhaozhong Meng",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464328394.95.jpg"
+      },
+      {
+        "name": "杨柳 Liu Yang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pFh0GJQN2lNkcel_avatar_uploaded1537862693.6.jpg"
+      },
+      {
+        "name": "王小橙 Xiaocheng Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pMDu-1bs-MJUcel_avatar_uploaded1537005081.63.jpg"
+      },
+      {
+        "name": "胡明 Ming Hu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12471.jpg"
+      },
+      {
+        "name": "王伟 Wei Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496976631.19.jpg"
+      },
+      {
+        "name": "张丰毅 Fengyi Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46345.jpg"
+      },
+      {
+        "name": "王劲松 Jinsong Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40326.jpg"
+      },
+      {
+        "name": "李光洁 Guangjie Li",
+        "avatar": "https://img3.doubanio.com/f/movie/14960825e118267b5857fc0ae9f306ef8c74da8f/pics/movie/has_douban@2x.png"
+      },
+      {
+        "name": "余少群 Shaoqun Yu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22866.jpg"
+      },
+      {
+        "name": "王鹤润 Herun Wang",
+        "avatar": "https://img3.doubanio.com/f/movie/14960825e118267b5857fc0ae9f306ef8c74da8f/pics/movie/has_douban@2x.png"
+      },
+      {
+        "name": "张棪琰 Yanyan Zhang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464871780.38.jpg"
+      },
+      {
+        "name": "胡先煦 Xianxu Hu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1494944042.02.jpg"
+      },
+      {
+        "name": "李解 Jie Li",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30959.jpg"
+      },
+      {
+        "name": "荣梓杉 Zishan Rong",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1493562567.49.jpg"
+      },
+      {
+        "name": "边程 Cheng Bian",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1544165002.41.jpg"
+      },
+      {
+        "name": "吴雨珏 Yujue Wu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pSqbFqieQpKkcel_avatar_uploaded1500817443.4.jpg"
+      },
+      {
+        "name": "周笑琴 Xiaoqin Zhou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pDBnjvZFQqDAcel_avatar_uploaded1505268405.2.jpg"
+      },
+      {
+        "name": "马柏全 Boquan Ma",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p89esR7EdF7ocel_avatar_uploaded1531016874.38.jpg"
+      },
+      {
+        "name": "黄杨钿甜 Tiantian Huangyang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9ltmSLp1a9ocel_avatar_uploaded1508411001.07.jpg"
+      },
+      {
+        "name": "叶恺文 Kaiwen Ye",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550147135.35.jpg"
+      },
+      {
+        "name": "安杰 Jie An",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p89esR7EdF7ocel_avatar_uploaded1532836739.74.jpg"
+      },
+      {
+        "name": "黄雯 Wen Huang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pNbUogtBXYGQcel_avatar_uploaded1508939274.19.jpg"
+      },
+      {
+        "name": "李梦洋 Mengyang Li",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535983423.3.jpg"
+      },
+      {
+        "name": "袁祎一 Yiyi Yuan",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1476716553.38.jpg"
+      },
+      {
+        "name": "丁桥 Qiao Ding",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6vyWI0Ie008cel_avatar_uploaded1537326144.2.jpg"
+      },
+      {
+        "name": "陈梦希 Mengxi Chen",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1463324608.47.jpg"
+      },
+      {
+        "name": "韩英群 Yingqun Han",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1373425357.77.jpg"
+      },
+      {
+        "name": "武泽锦熙 Zejingxi Wu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456667738.75.jpg"
+      },
+      {
+        "name": "白澜 Lan Bai",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552098859.68.jpg"
+      },
+      {
+        "name": "黄露露 Lulu Huang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1538522633.09.jpg"
+      },
+      {
+        "name": "程星源 Xingyuan Cheng",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1546831079.35.jpg"
+      },
+      {
+        "name": "马亚楠 Yanan Ma",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536716601.17.jpg"
+      },
+      {
+        "name": "蔡雯艳 Wenyan Cai",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541232316.95.jpg"
+      },
+      {
+        "name": "刘佳 Jia Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1553674066.84.jpg"
+      },
+      {
+        "name": "宋庆琳 Qinglin Song",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1555162935.66.jpg"
+      },
+      {
+        "name": "刘子恺 Zikai Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pPqBxVFwbvvUcel_avatar_uploaded1557318588.53.jpg"
+      },
+      {
+        "name": "黄德毅 Deyi Huang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1470896930.28.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2532381886.jpg?",
+        "src": "http://vt1.doubanio.com/201908311542/6b2e7f119f6df495198c64a6312f41d3/view/movie/M/402350513.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2499594053.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2437194312.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2387804064.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2531643294.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "看了前三集，基本符合预期。没看过原著，但从氛围的营造和场景的还原，感觉应该也会符合原著粉的期望。主要周迅的身上确实有一种迷人的吸引力，青樱这个人物从一出场就背负了太多的包袱，姑母陈冲反复向她强调的家族荣光，皇帝霍建华对她的绵绵情意，这些本该是人世间最美好的东西却成为了她一生负重前行的枷锁，而周迅的表演令你很快走进这个人物，并能够为她的喜怒悲欢感同身受。朋友说前面的故事有多甜蜜，后面的故事就有多心塞，董洁童瑶胡可辛芷蕾等一众嫔妃已经各怀鬼胎，还有大boss甄嬛邬君梅在那里不停设置障碍，已经可以猜想到后面青樱的路有多难走。至于服化道那些，就不多提了，片花有目共睹，单说乾隆登基那一段，就是我近年来印象中古装剧最气派的场景之一，希望后面的84集对得起我们的这份期待。"
+    },
+    {
+      "user": "最爱口水鸡",
+      "avatar": "https://img3.doubanio.com/icon/u180442103-4.jpg",
+      "content": "想不到这片子除了大红大绿的审美辣眼睛外最赶客的竟然是周迅！整个人呈现出无法掩饰的老态，远景脸肿，近景皮松双眼皮瞩目大浓妆脸涂的和猴屁股一样。然后配上公鸭嗓唤一声，弘历哥哥！我只想大喊，皇上快跑！还有，太监衣服都比主角的精致！整个剧质感怎么和甄嬛差那么多？宫斗伪正剧还是要看郑晓龙啊！太失望了这个片子目前，关键还是个闷片。雷声大雨点小不值得特地开vip观看。"
+    },
+    {
+      "user": "summer palace",
+      "avatar": "https://img3.doubanio.com/icon/u147520611-2.jpg",
+      "content": "周迅的演技完爆电视咖我相信是没有问题的，但是周迅作为一个曾经拿过金马金像的女演员，如今沦落到和电视咖比演技的地步，真的是很可悲了。"
+    },
+    {
+      "user": "草莓公主",
+      "avatar": "https://img3.doubanio.com/icon/u2626256-144.jpg",
+      "content": "如懿传真的是一生一次的大剧。。演员也好。。导演制作也好。。都是顶配的阵容。。还有韩忠、张叔平和陈同勋等大师坐镇的服化道。。汪俊我是真佩服。。航拍俯拍还有各种缓缓推进的镜头。。美轮美奂的空镜把观众带的如痴如醉。。再说周迅。。她的戏像是有魔力一样。。一个眼神一句台词就能生生的把人撕碎捏拢又撕碎。。与姑母陈冲的诀别戏太精彩。。心一直纠着痛。。精美到乍舌的打光和构图简直就是视觉盛宴"
+    },
+    {
+      "user": "Echo湲",
+      "avatar": "https://img3.doubanio.com/icon/u59106131-3.jpg",
+      "content": "《如懿传》是一部用心在拍的剧。\n原著小说的文本根本不合格，随处都是流潋紫这个不入流的作家自以为古典，实际上矫情又无聊的描写，对剧情毫无推动就算了，还审美极差。（多说一句，这么差的文本，居然还是抄袭的，真是让人不知道该骂抄袭者还是被抄袭者。）但是这个小说有一点好，它写了一个别的宫斗剧很少涉及到的东西，天家帝王，封建王权之下，没有人是赢家，你用计谋也好，用真心也罢，都没用。皇权之下，什么算计都是徒劳，紫禁城里尽是可怜虫，连一个名义上的赢家都没有。所以斗争是没有意思的事情，真正有意思的是，大家都在徒劳地付出真心，为情所困，然后心甘情愿地走向既定的悲剧。这个剧里，除了权力和位分，每个人都有自己真正在意的东西，但最终，谁也没能得偿所愿。这是这部剧里，最接近那些曾经打动过我们的古装剧的气质。"
+    },
+    {
+      "user": "七号猪肉铺",
+      "avatar": "https://img3.doubanio.com/icon/u180442385-3.jpg",
+      "content": "周迅的原音有些违和，看到后半程最喜欢海兰，最讨厌令妃，女主依然没有宫斗的自觉"
+    },
+    {
+      "user": "李阿瓦",
+      "avatar": "https://img3.doubanio.com/icon/u124391371-5.jpg",
+      "content": "看不下去了……台词好一般，演出了现代戏的感觉。本来不想看霍建华，现在更不想看周迅……"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "这两天也跟着全世界看了《如懿传》，不明白怎么那么多人黑周迅的声音，她的声音不是天生这样吗？多么有辨识度的声音，你又不是第一次看她演戏。其实第5集开始就进入正式的剧情了，周迅演少女也就只是前两集的人设而已，对于这种八十多集的电视剧，前几集根本就不是重点，集数的零头都没播完呢，如果换个年轻演员演这个阶段，那这几集就是过场戏，传统电视剧那种严肃历史正剧式的拍法不就是这样吗？凭着周迅的气场和演技，好戏还在后头呢！先打五星平衡一下那么多的一星，继续追下去再来评。"
+    },
+    {
+      "user": "岁月荣光",
+      "avatar": "https://img3.doubanio.com/icon/u180173404-2.jpg",
+      "content": "跟当时看到海报的感觉一样，丧气，整个剧的上映过程也是丧的不行，最后整成这样也是可以预见了。周迅说灵说了十几年，终于迎来了决堤"
+    },
+    {
+      "user": "Saoirse Ronan",
+      "avatar": "https://img3.doubanio.com/icon/u167568911-13.jpg",
+      "content": "如懿\n一个聪慧明智的女子却被“你放心”三字哄骗了一辈子\n一个明知帝王家无情却痴信自己能与帝王相扶相守一世的一国之后\n正是因为期望越高失望越大，才会决然断发自戕，也正是因为是一国之后才不能如此不自持，可是如若不是皇后能与他并肩相称真正的夫妻吗？当真矛盾，当真讽刺，也许如懿生来就不属于那个时代。\n也许自戕是这辈子做的唯一释放自己的一件事，让自己的精神灵魂去体会一遍自由的滋味，远离金砖绿瓦、红墙叠影、嫡庶尊卑、步规蹈矩、云橘波诡，她终于不再属于紫禁城，她本身也不属于紫禁城。\n她还是那个斜倚窗前，盼君晚归的青樱。再唤一句\n“弘历哥哥”"
+    },
+    {
+      "user": "燕喜爱孔雀",
+      "avatar": "https://img3.doubanio.com/icon/u148074376-1.jpg",
+      "content": "看片会看了前三集，演员们表现都不错，有幸看到陈冲、邬君梅、张丰毅、周迅飙戏，前期用比较幽默的方式展开剧情，竟然有一些笑点，不过男女主不够青涩有一点尬，幸好也只有两集，后面看起来就比较和谐了。场景和服化上，布景大概是复制了故宫，大气精致，分分钟感受到经费在熊熊燃烧。"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "演员阵容大气，场景恢弘，台词里都是话里有话，从第一集开始“末代皇妃”直接就斗了一把，第二集甄嬛秒青樱，看上去的稀疏平常的日常，到第八集又不动声色的埋下伏笔的小斗了几次，接着剧情已经不断的开始撕扯了！隔壁的令妃传更像推理系，宫斗太弱，在《如懿传》才能看见真正的宫斗！最厉害的是不脏了自己的手而成功~在钟鸣鸟叫的后宫生活里，演绎宫斗背后帝后离心的婚姻悲剧。"
+    },
+    {
+      "user": "新之助",
+      "avatar": "https://img3.doubanio.com/icon/u141720657-2.jpg",
+      "content": "很多人真的挺秀下限，书没有看几本，就谈历史；很多人也真的是肤浅，华语圈没有几个比周迅适合的了，后期那种花开花落自有时的悲凉哪那么好驾驭，她的声音刚刚好。"
+    },
+    {
+      "user": "怯",
+      "avatar": "https://img3.doubanio.com/icon/u139997097-6.jpg",
+      "content": "别的不说了，这剧的光影运用太绝了。第八集周迅坐在延禧宫那幕被我永久珍藏。导演对这部剧有自己的想法，与其说它本质是宫斗剧，我更愿意称之为后宫两三事。在阴谋诡计之外，还有对婚姻对人性的考量。\n富察皇后终于不是那个无悲无喜的女菩萨了，就连乾隆的好色都是坦坦荡荡的爱这群女性的皮相。如懿没有金手指，她这一生的悲剧，是时代的产物，她不过是个“受限而挣扎的人”啊。"
+    },
+    {
+      "user": "冰镇西瓜橘子水",
+      "avatar": "https://img3.doubanio.com/icon/u65400706-1.jpg",
+      "content": "真正剧王 品质标杆 三金影后周迅加上老戏骨邬君梅 陈冲 打烂所有碰瓷low剧"
+    },
+    {
+      "user": "青珏",
+      "avatar": "https://img1.doubanio.com/icon/u51484329-17.jpg",
+      "content": "平淡得很高级。"
+    },
+    {
+      "user": "十三潮",
+      "avatar": "https://img3.doubanio.com/icon/u43942894-4.jpg",
+      "content": "对那些恶意刷低分的，拉一下分数，这个剧情7.5分不为过"
+    },
+    {
+      "user": "富满囤",
+      "avatar": "https://img3.doubanio.com/icon/u163535576-1.jpg",
+      "content": "演员挑的精细 不用说成名成角的 就是三宝四心这样的生面孔也甩许多明星十条街 倒是评论里条条批评演员容颜老去 不争论了 你们还是去看那些各种小鲜肉的戏去吧 周迅的妆发确实有些槽点 无伤大雅 "
+    },
+    {
+      "user": "_囧ray",
+      "avatar": "https://img1.doubanio.com/icon/u142017212-8.jpg",
+      "content": "周公子的演技slay全场"
+    },
+    {
+      "user": "iiiiiiiisu",
+      "avatar": "https://img3.doubanio.com/icon/u146788292-1.jpg",
+      "content": "本来不急着打分的，结果开播才几分钟，就有看完三集的？？？？而且你们在说什么广告，为啥我真的没有看到飞鹤啊"
+    },
+    {
+      "user": "( •̀∀•́ ).C",
+      "avatar": "https://img3.doubanio.com/icon/u170425892-1.jpg",
+      "content": "虽然前两集有点生硬 但是后面越来越优秀 服道化很精致旗装的刺绣都好好看啊 周迅依旧演技杠杠的 配角的演技也不赖 对于一些喷子真是无语 搞得自身生活在乾隆时期一样 对乾隆喜欢谁了如指掌???看了某剧就把自己当个历史专家了每个人都会衰老对于临近五十岁的迅哥还是充满着灵气让人真的很佩服"
+    },
+    {
+      "user": "柠檬",
+      "avatar": "https://img3.doubanio.com/icon/u175354845-1.jpg",
+      "content": "如懿传的剧情就是遇喜，流产，再遇喜，再流产，生出来害死，没生出来害死，谁害死了我的孩子，是如懿？不是如懿，是贵妃，皇后，嘉妃，海兰，玫嫔，令妃……"
+    },
+    {
+      "user": "长安一夜雨",
+      "avatar": "https://img3.doubanio.com/icon/u180199149-4.jpg",
+      "content": "节奏很慢，又臭又长，年龄和原音的违和感都很重根本拉不了近景，张叔平做的造型任性又随意，周迅为什么就不能好好找个配音？？？"
+    },
+    {
+      "user": "浠墨",
+      "avatar": "https://img3.doubanio.com/icon/u1496881-424.jpg",
+      "content": "节奏感这种东西简直能决定一部片的生死，这么慢的节奏，还不带丁点儿养分和实料，整得个皇帝天天只懂得情情爱爱痴痴缠缠，基本的心智都不健全，根本就脱离实际纯粹往苦情戏上靠，谈何深度。周迅的声音简直是败笔，出戏出到天边去了。一集弃。"
+    },
+    {
+      "user": "蔚蓝主义共和国",
+      "avatar": "https://img3.doubanio.com/icon/u180439936-13.jpg",
+      "content": "周迅老了，时间对女演员真残忍。腾讯吃相难看，全程贴片广告，影响观感。"
+    },
+    {
+      "user": "嗷大喵",
+      "avatar": "https://img3.doubanio.com/icon/u177549740-4.jpg",
+      "content": "她叫如懿 可她一生未能如意 但她按照了自己的心意而活 又可以说是另一种形式的如意\n"
+    },
+    {
+      "user": "认想",
+      "avatar": "https://img3.doubanio.com/icon/u176608619-2.jpg",
+      "content": "看或听 都容易出戏。违和感重。将历史和原型人物 窜改诋毁的太多太重了。\n剧情没意思 俗 没梗 消极抑郁负能量。\n画面质感和调色 伤眼。磨皮严重 抠图多。台词不考究 俗 不走心 废语多。\n演技太固化 演出的没说服力 与剧及与剧中它人有不搭感突兀 不适合角色感。\n如懿传 不尊重历史 窜改诋毁了 富察皇后 乾隆 令妃..。\n霍建华 饰乾隆 选如懿为嫡福晋 而不选富察。\n乾隆不喜欢富察 如懿从一开始就是挚爱。\n大婚之夜 乾隆不愿和原配妻子富察行周公之礼 而去和如懿圆房。\n富察给如懿下药手镯 让如懿难怀孕。\n写令妃 内心坏 阴险又做恶..。\n看剧后不能记得 因和历史严重不符。\n服化造型 艳俗浮夸 廉价感。\n周迅 饰如懿 原音不适合角色 也不好听 听着跳戏，嘟嘴 脸僵 妆容 仪态 气质 演出..看着出戏"
+    },
+    {
+      "user": "GirlsRule🌈",
+      "avatar": "https://img1.doubanio.com/icon/u131427102-8.jpg",
+      "content": "吹爆如懿传！真正的精良大作"
+    },
+    {
+      "user": "可爱多",
+      "avatar": "https://img3.doubanio.com/icon/u175358703-2.jpg",
+      "content": "个人感觉《如懿传》打开了清宫剧的新视角，从废后这个角度来讲述她坎坷的一生，是现在少有的清宫题材故事，个人还是很看好它的播出。"
+    },
+    {
+      "user": "吃水果小疯魔",
+      "avatar": "https://img3.doubanio.com/icon/u52087627-1.jpg",
+      "content": "这是一部什么剧呢？就凭夕阳下如懿因第一次连环套落下的几滴泪，就值得五分。谁会这样演？这样真实，细到极致的表演只有周迅有。这是一部充满诗意的电视剧，可惜观众实在太浮躁肤浅了。你们配不上它。"
+    },
+    {
+      "user": "Jay",
+      "avatar": "https://img3.doubanio.com/icon/u165085275-16.jpg",
+      "content": "我没见过塑造性如此强的女演员，周迅真的是演什么是什么，太美了。美人低眉转星眸，美人抬首月华羞。未见以前，只以为西施昭君只是传说，沉鱼落雁也只是夸口，而今见到才知，这份美真的在这个世界存在过。欺人若彩虹，遇上方知有。\n至此刻，我才知道，如懿美的太惊天动地。"
+    },
+    {
+      "user": "神马时尚SH",
+      "avatar": "https://img3.doubanio.com/icon/u148467751-1.jpg",
+      "content": "追完了，维持五星好评，这年头不缺一部宫斗剧，缺一部正常的宫廷爱情悲剧，如懿传从各个角度来说都值得细细品味"
+    },
+    {
+      "user": "小二佳",
+      "avatar": "https://img3.doubanio.com/icon/u41603115-23.jpg",
+      "content": "目前剧集已经播到了第14集，前两集作为整部剧的前期铺垫承担了太多的吐槽：周迅的脸僵了、周迅的公鸭嗓、周迅年纪大了不适合演少女、主角衣服阿宝色影楼风、剪辑支离破碎节奏莫名其妙……不少人因为这些理由而选择了“一集弃”。的确，前两集的水准放在整部剧中都不算上乘，然而当观众适应了这部剧的节奏就会发现，后面几集渐入佳境，还是原来的配方，还是熟悉的味道，后宫这群女人撕起来没有最狠，只有更狠。"
+    },
+    {
+      "user": "风林火山",
+      "avatar": "https://img3.doubanio.com/icon/u124958921-3.jpg",
+      "content": "能不能学一学以前的《大明宫词》，少女期一位演员，婚后另一位演员？这脸已经影响到观看情绪了。而且强按青梅，富察嫁给弘历时，如懿(青茵)还没有十岁，哪里来的青梅竹马，两人一起选秀？历史上乾隆与富察感情确实不错，如懿这个非要反着来，有点不能接受"
+    },
+    {
+      "user": "夜空中最胖的星",
+      "avatar": "https://img3.doubanio.com/icon/u145158975-2.jpg",
+      "content": "于正可以改名于则成了，我怀疑他是潜伏在延禧剧组实际是如懿的导演啊。周迅可以演霍建华他妈，少女如懿她奶奶了。造型雷人，滤镜闪人，声音杀人。我尝试了很多次，还是理解不了两位主人公的心理。"
+    },
+    {
+      "user": "江海度余生",
+      "avatar": "https://img3.doubanio.com/icon/u147055137-13.jpg",
+      "content": "色调服装质感都差的不行，更可怕的是演员都肿的吓人，还有丧心病狂的广告。"
+    },
+    {
+      "user": "白衣",
+      "avatar": "https://img3.doubanio.com/icon/u179090821-1.jpg",
+      "content": "个人还是很喜欢看古装剧的，大制作的剧更是良心，这部剧的选角还是很不错的，都是实力派的老演员，不错！"
+    },
+    {
+      "user": "阿珂",
+      "avatar": "https://img1.doubanio.com/icon/u64319704-8.jpg",
+      "content": "再好的演技（单指周迅）也抹平不了岁月的痕迹，更何况周迅的声音如同一个老嬷嬷。那一声“弘历哥哥”吓到我了"
+    },
+    {
+      "user": "墨璃鸢",
+      "avatar": "https://img3.doubanio.com/icon/u162255036-1.jpg",
+      "content": "抛开原著小说抄袭不说，说剧，不吹不黑，首先你们的历史是体育老师教的么，真是看的气人，为了写悲剧，生生把一个皇帝不爱的女人写成了圣母(顺便打脸了甄嬛传)这颠倒黑白的能力没谁了，其次周公子啊，真的没有少女感啊，年纪真的大了，完全不是大明宫词和橘子红了里面的感觉了好么，不要睁着眼睛说瞎话好么，至于男主霍建华，我还是更喜欢花千骨里高冷的上仙，华哥年纪也大了，说实话，他和她，演少年乾隆如懿真的很出戏，还有那绿色的马甲，金色的袖子，蓝色的围脖，还有女主绿色的蝴蝶结领带...这是审美被门夹了，简直了，希望越大失望越大😪"
+    },
+    {
+      "user": "西北看客",
+      "avatar": "https://img3.doubanio.com/icon/u136934580-10.jpg",
+      "content": "全都是老戏骨耶，但是……有各种红高粱啊，花千骨啊等等的感觉。实在太出戏了。主角声音真的出戏，没有一个演员脸上没褶子的😂。还有就是下边的广告！！！！"
+    },
+    {
+      "user": "NoTeaNoShade",
+      "avatar": "https://img3.doubanio.com/icon/u103277074-12.jpg",
+      "content": "1.腾讯想钱想疯了，片头完广告中间小剧场广告全程会员都去不掉字幕处广告，观剧体验负分！\n2.时间对女人太残忍，年纪都写在脸上，再加上造型奇葩，对着周迅不仅夸不出一句好看，甚至还有点让人不忍直视。"
+    },
+    {
+      "user": "猫不吃饭",
+      "avatar": "https://img1.doubanio.com/icon/u60433721-27.jpg",
+      "content": "千吹万吹就搞出这么个货色，周迅演的是乡下大龄姑娘出阁吗，好可怕"
+    },
+    {
+      "user": "鸡汁小汤包",
+      "avatar": "https://img3.doubanio.com/icon/u121553297-5.jpg",
+      "content": "本以为榴莲子的巨作嘲点集中在抄袭和违背历史，没想到从剧情到演员到服化道到播放网站全都是嘲点……周迅晚节不保阿。霍建华的皇帝太垃圾了…总体而言辣眼睛"
+    },
+    {
+      "user": "strawberry ",
+      "avatar": "https://img3.doubanio.com/icon/u150058258-2.jpg",
+      "content": "周迅定不会让我失望"
+    },
+    {
+      "user": "遥远",
+      "avatar": "https://img3.doubanio.com/icon/u161590814-3.jpg",
+      "content": "我要吹爆周公子！！少女感明明很足啊，演技超棒！！(演二十几岁到近五十岁没有违和感)，超喜欢她的声音！！整部剧布景情节还可以，霍建华缺了点皇帝的气质了吧 建议从第三集看前两集的铺垫做的实在累赘。"
+    },
+    {
+      "user": "密封",
+      "avatar": "https://img3.doubanio.com/icon/u180443206-2.jpg",
+      "content": "看完第一集，决定弃剧，周迅真的太老了，脸都松了，再用个公鸭嗓的原音，怎么演的出少年感，实在是太违和了。没有实景拍摄也就算了，那个特效我觉得五毛都没有，第一集里远处那宫殿，一看就是粗制滥造做出来的特效，是因为钱都拿去给演员做片酬了嘛？"
+    },
+    {
+      "user": "花间一壶酒",
+      "avatar": "https://img1.doubanio.com/icon/u153541746-8.jpg",
+      "content": "人不服老真的不行 ballball各位在合适的年纪演合适的人物  只想看帅哥美女谈恋爱不想看中年人的爱情故事 完全没有让人看下去的欲望 服装调色都什么玩意号称3亿的大制作钱都花哪去了 真的是期望越大失望越大"
+    },
+    {
+      "user": "、小洋",
+      "avatar": "https://img1.doubanio.com/icon/u60797432-27.jpg",
+      "content": "我他妈很喜欢周迅"
+    },
+    {
+      "user": "Ruan_",
+      "avatar": "https://img3.doubanio.com/icon/u159712102-16.jpg",
+      "content": "摄影每一帧都很美。甄嬛传还是不可超越。制作虽然精良，但悲剧的结局不会想看第二遍。"
+    },
+    {
+      "user": "樱花飞舞时",
+      "avatar": "https://img1.doubanio.com/icon/u172804916-7.jpg",
+      "content": "一堆三四十岁的脸来选秀真的容忍不了………and打光组磨皮组是来练手的吗？太可怕了……"
+    },
+    {
+      "user": "孤舟长河",
+      "avatar": "https://img3.doubanio.com/icon/u139896761-6.jpg",
+      "content": "艳俗的画面，某宝高定的服化道。周迅+霍建华，一脸的玻尿酸也挡不住夕阳红硬凹纯情少年的无力感。感觉迅公子的灵气已经被岁月无情的偷走了。霍版乾小四更是猥琐有余，正气不足。另外霍建华的配音严重出戏！学学隔壁聂远好吗？"
+    },
+    {
+      "user": "zygyl",
+      "avatar": "https://img3.doubanio.com/icon/u137153114-2.jpg",
+      "content": "这部剧算是我期待了很久的电视剧，今天腾讯开播，我去看了第一集就迫不及待来评分了，真的很好看啊，画风很古风，演员表演也很好，尤其是霍建华，真是对他改观了。"
+    },
+    {
+      "user": "嬴耸",
+      "avatar": "https://img3.doubanio.com/icon/u164515975-1.jpg",
+      "content": "看了六集，真的挺好的。因为前两集而弃剧的真的不值得。从第五集开始颇有甄嬛传的风范了。看看这分数，只能说某攻略的水落太多"
+    },
+    {
+      "user": "嗯～",
+      "avatar": "https://img3.doubanio.com/icon/u180135400-3.jpg",
+      "content": "啊，反正谁都会老的啊，坦然接受比做手术要好的吧，反正还是喜欢她，更喜欢她的原声"
+    },
+    {
+      "user": "四道风",
+      "avatar": "https://img1.doubanio.com/icon/u4199724-7.jpg",
+      "content": "就是喜欢周迅的原声，台词说不好老是被配音还当什么演员，隔壁四字剧脑残粉太多。这可能是国内电视剧史上最另类的结局，一部分人可能无法接受，不论制作还是剧情以及演员的付出都值得五星！"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "确实花了大价钱 迅迅的脸一帧一帧修啊"
+    },
+    {
+      "user": "今天喝可乐了吗",
+      "avatar": "https://img3.doubanio.com/icon/u179721829-14.jpg",
+      "content": "看到分数上升真的特别感动，好剧还是有人看的啊。看到微博如懿传被全网黑真的挺难过的。明明制作的都是挺好的，除了片尾曲的字幕有点丑以外。周迅的台词功底真的很不错啊，辛芷蕾演技也超好啊……就算音乐也做的很精良（此处没有bgm差评）为什么被黑的这么惨……"
+    },
+    {
+      "user": "Christmas",
+      "avatar": "https://img3.doubanio.com/icon/u164925837-4.jpg",
+      "content": "看了第一集觉得弘历太他妈智障了"
+    },
+    {
+      "user": "happy_6_years",
+      "avatar": "https://img1.doubanio.com/icon/u52247250-7.jpg",
+      "content": "请网友提高观剧欣赏水平"
+    },
+    {
+      "user": "KILALA",
+      "avatar": "https://img1.doubanio.com/icon/u178158024-9.jpg",
+      "content": "抄袭是原罪，没得洗。广告吃相太难看，观剧感受是差评。哑嗓的原音，并不贴合角色设定尤其是前期的少女期。年纪是真的不适合了，不止周迅，霍建华也是，还是演合适的角色才好不要硬扛。服化道就不说了，求张叔平退出古装界，谢谢了。"
+    },
+    {
+      "user": "东冬LEELI",
+      "avatar": "https://img3.doubanio.com/icon/u164307718-4.jpg",
+      "content": "让有些人明白明白，莫兰迪色不是在阿宝色上蒙一层透明的灰就能做成的，不入流的东西终究只是昙花一现，不得长久。\n演员演技都在线的话，什么色调都盖不住他们的光辉。黑服化道的那些人，怕是得重学几次历史再发表意见。"
+    },
+    {
+      "user": "我爱吃葡萄",
+      "avatar": "https://img3.doubanio.com/icon/u179334151-3.jpg",
+      "content": "我只能说宫里的妃子一个个都应该是花样年华的年纪吧！怎么这剧里的妃子都是差不多40左右的?周迅年纪是硬伤声音更是让人一秒想出戏"
+    },
+    {
+      "user": "clefable",
+      "avatar": "https://img3.doubanio.com/icon/u121519771-12.jpg",
+      "content": "淑芬表示满意"
+    },
+    {
+      "user": "HiMaWArI",
+      "avatar": "https://img3.doubanio.com/icon/u63847160-10.jpg",
+      "content": "奶粉广告叉都叉不掉，太毁观剧感受了。张叔平的造型连统一基准都没有，两把头、旗头、少女辫，想怎么出现怎么出现，也不管出现在同一个画面里会有多繁复。我原本很期待周迅，现在真的要缓缓了。"
+    },
+    {
+      "user": "小牛",
+      "avatar": "https://img3.doubanio.com/icon/u169114023-1.jpg",
+      "content": "最终影评：这部剧最大的两个槽点就是删减太多和流潋紫的编剧水平，除此之外各方面皆是国产同类型作品乃至古装剧中的顶配水准。最难得的一点就是在如今这个快节奏的消费年代，剧组没有任何讨好现代年轻人审美喜好的行为，而是专注于讲好自己的故事，剧组欲打造长久经典而非短期爆款的野心我看的到，所以总结起来这就是一部缺点很多，但优点更多的古装巨制。\nPS：虽说物质水平一直是绝大多数普通人衡量是否足够成功的标准，但是我不得不说如懿的境界比甄嬛高的太多了。如懿，你真棒！！！"
+    },
+    {
+      "user": "FACAI",
+      "avatar": "https://img3.doubanio.com/icon/u168553898-24.jpg",
+      "content": "如懿传最开始被看流量剧的延禧攻略的黑子蠢逼粉疯狂打一星 现在越来越精彩的剧情 随便拿出一个配角都吊打所谓吃面女主角 从最开始的6.5活活涨分到7.0分 我真是出了一口恶气 傻逼的观众造就傻逼的市场 和当初小时代系列一样 虽然烂得出奇 但票房依旧大红 但是制片课的教授都每每拿小时代作为反面教材 谓之ppt电影 现在觉得延禧攻略比如懿传优秀的人 你们就是中国影视行业越来越烂的刽子手 每一个都是"
+    },
+    {
+      "user": "眼神总会认得",
+      "avatar": "https://img3.doubanio.com/icon/u163995646-1.jpg",
+      "content": "周迅演的很好，越到后面越精彩，画面质感很棒，不愧是大制作。"
+    },
+    {
+      "user": "夏天喝咖啡",
+      "avatar": "https://img3.doubanio.com/icon/u166073300-2.jpg",
+      "content": "配色太压抑了。周迅真的没有少女感了，原声嗓音不好听。继续观望吧。"
+    },
+    {
+      "user": "早睡早起身体好",
+      "avatar": "https://img3.doubanio.com/icon/u141598779-12.jpg",
+      "content": "周公子脸是真崩了，霍建华演技是真不行。先不说原著小说抄袭的那点破事，如懿传剧组不是成天吹投资过三亿制作精良吗，衣服质感差得简直没眼看。不是说最大限度还原史实吗，结果第一集阿哥就能自己选妻妾。延禧攻略好不好看我不知道，如懿传是真的恶心。"
+    },
+    {
+      "user": "嘟嘟熊之父",
+      "avatar": "https://img3.doubanio.com/icon/u2201715-15.jpg",
+      "content": "为那些疯狂吐槽周迅老了垮了的言论怒打五星。 观众真的被惯坏了，恨不得首集播出就披头散发疯狂开撕，完全耐不下性子看韬光养晦兵不血刃。开盘很稳，乾隆智商在线，如懿人设讨巧，相信定是渐入佳境之作。"
+    },
+    {
+      "user": "🤢🤢🤢",
+      "avatar": "https://img1.doubanio.com/icon/u148940751-8.jpg",
+      "content": "看了第一集，只想说，有多期待就有多失望。滤镜晃眼睛，磨皮磨的脸煞白，满屏幕的花花绿绿，随随便便的台词，剪辑乱七八糟，镜头毫无章法。不忍心周迅，但是希望后面会好一些吧"
+    },
+    {
+      "user": "云晕胡乎",
+      "avatar": "https://img3.doubanio.com/icon/u139612087-16.jpg",
+      "content": "虽然才两集～调色很漂亮，很青春烂漫，觉得以后色调应该会有变化，周迅演少女也毫无违和感，霍建华的眼神当真是一个初尝情爱的少年，年龄都不是问题，主要看演技。开头曲片尾曲都很棒，周迅没用配音真庆幸，开头望远镜一拿我仿佛又看到了杜心雨"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "4.0。1.渐入佳境之作；难得的日常感与烟火气，显然比打怪上位要高级得多。2.开局惨遭冷箭实属遗憾，所幸靠演技攥紧观众，也并未疏懒于服化道，细微处见真章。3.周公子的演法更向内，与如懿的个性熨帖，无论诀别姑母时的悲泣，独自倚门落泪，抑或惨遭诬陷时的百口莫辩，都是造戏的火花；第八集结尾，如懿说最爱听皇上说“你放心”三个字，殊不知，她自己终将成为被这三个字耽误一生的女人。4.陈冲与邬君梅的对手戏太抓心，可惜陈冲只是客串，幸有邬君梅撑起甄嬛后半生，早已看穿一切的上届冠军继续宫斗到死。5.董洁、辛芷蕾、张钧甯等也都是经得起深究的好演员，坐等飙戏。6.贴片广告太密集，着实影响观感。"
+    },
+    {
+      "user": "橙",
+      "avatar": "https://img3.doubanio.com/icon/u154781385-2.jpg",
+      "content": "即便是有很多老戏骨但就目前来看真的不出彩。本人没那么大的情怀，既不是书粉也不是会因为是某某主演就捧上天，更何况还与史实不符，以及，抄袭。"
+    },
+    {
+      "user": "落羽杉",
+      "avatar": "https://img3.doubanio.com/icon/u155764069-1.jpg",
+      "content": "畸形的观剧标准正在影响着当代很多人的审美观，一部影视剧不看演员演技、不看镜头语言、不看拍摄手法、不看隐晦台词下暗流涌动的宫斗，只看颜值只看流量，沉醉于女主一路开挂打怪升级似的毫无逻辑一厢情愿的主角光环下的粗暴肤浅的剧情，我除了觉得悲哀还有深深的无力感。《如懿传》10分。"
+    },
+    {
+      "user": "HONEsty",
+      "avatar": "https://img3.doubanio.com/icon/u149039569-1.jpg",
+      "content": "看了一下给1.2星人的主页，多半是看过延禧攻略的，且多半的打分为4.5星，那我就得强行给5了，抵制无脑黑"
+    },
+    {
+      "user": "王二",
+      "avatar": "https://img3.doubanio.com/icon/u46250052-11.jpg",
+      "content": "看到有人无缘无故打一星，那我就打五星来平衡一下你们的戾气🙂 人生第一次追宫斗剧，只有一个原因：周迅！！！ 那些黑周迅的群众，自己扪心自问一下，你们追的那些快餐剧里哪个能和迅哥比🙂 拜托多看几集，自己回来改一下你们的评分，蟹蟹٩('ω')و"
+    },
+    {
+      "user": "-FishXy",
+      "avatar": "https://img3.doubanio.com/icon/u178554831-4.jpg",
+      "content": "……只有我觉得服饰场景很尴尬吗？？？还不是看着霍建华和周迅的面子来的（摊手）"
+    },
+    {
+      "user": "杀掉那只彩色狗",
+      "avatar": "https://img1.doubanio.com/icon/u62638114-7.jpg",
+      "content": "服化道，演员演技，无一不牛，剧本扎实，渐入佳境，五星没商量"
+    },
+    {
+      "user": "小栗旬",
+      "avatar": "https://img3.doubanio.com/icon/u43961399-3.jpg",
+      "content": "截止2018年8月20日，2116条评论，居然豆瓣不显示分数，连豆瓣都如此堕落了吗？真的是逐梦演艺圈了。。。周迅这演了不如不演，已经是2年前的戏了，又是一帧一帧修的她的脸，结果开场5分钟，过往的印象全崩。脸是真的崩了，还不如朱七七看着年轻。声音也不如以前有感觉了，说话可能是想演出少女感，可听着却像是含着核桃似的，越演越回去了。眼神是到位了，可惜啊脸却是崩了。以至于她每个“少女”动作都让我觉得异常惊恐。可惜啊可惜，当年的大明宫词永远是我心里的小美好。。至于这部抄袭剧本身无话可说，全部女人心思歹毒，天天能想到的手段就是互相祸害，并且只许自己害人不许别人反击，这种垃圾三观居然还能洋洋得意自诩揭露封建社会呵呵。。明明是满屏玛丽苏。榴莲子本人怕就是这样的人吧。也不知道这部剧被修改现在修成啥样了。"
+    },
+    {
+      "user": "梵荼",
+      "avatar": "https://img1.doubanio.com/icon/u153997625-18.jpg",
+      "content": "周迅的演技真没有夸的这么好！还有心疼我富察皇后啊，明明她才是乾隆白月光，你要是不拍流潋紫的书，正正经经拍一部像苍穹之昴接近历史的剧多好啊。就冲流潋紫黑富察和令妃，无法好评。辛亏剧里是炩妃，我看广电总局都没眼看吧！两星给中间场景，毕竟花了钱了。"
+    },
+    {
+      "user": "可可爱爱",
+      "avatar": "https://img3.doubanio.com/icon/u176009018-3.jpg",
+      "content": "迅哥儿的声音 脸 以及开始的角色的少女的年龄…我需要消化消化"
+    },
+    {
+      "user": "Crassula",
+      "avatar": "https://img3.doubanio.com/icon/u149094041-2.jpg",
+      "content": "今晚看饱和度已经比前几集低了，现在的色调非常好看。吊打延禧攻略灰得不明不白，还被尬吹成莫兰迪色、传统色的滤镜。相比乾隆喜欢的无敌繁复鲜艳，剧里怕也照顾了观众吧。看过原著，几千页电子书看得头大，一股子网络文学又臭又长的气息，但可取的是主角选了最有反抗精神的断发皇后。电视剧的改编是成功的，特别是前几集狂立flag让我胆战心惊，编剧是想后期多虐?演员让如懿传有正剧的气场，各人有各自的行为和语言习惯，甚至是一众丫鬟，表演都到位。如懿最可贵的是敢和皇帝求真情的勇气，在封建社会的顶点——紫禁城，哪里容得下独立的女人？如懿的悲剧在于，她带有古代女权的萌芽，又带有天真的幻想，这种女权注定是悲剧收场的，不管怎么开挂都是难以成功的。甄嬛看透了所以成了老佛爷，如懿不愿看透也不敢看透。打五星是平衡一下一星黑子。"
+    },
+    {
+      "user": "句号。",
+      "avatar": "https://img3.doubanio.com/icon/u179268632-1.jpg",
+      "content": " 我觉得自己觉得好就好，不想再去争论了，特别喜欢豆友说的那句话，我给十分是我开心我高兴，劳资才没心情跑到yxgl 去骂人呢。"
+    },
+    {
+      "user": "好青年bobo",
+      "avatar": "https://img3.doubanio.com/icon/u151821993-3.jpg",
+      "content": "这什么鬼东西啊，颜值，演技，服化道都垃圾的剧也不常见了"
+    },
+    {
+      "user": "tiggfdruifffju",
+      "avatar": "https://img1.doubanio.com/icon/u48183944-9.jpg",
+      "content": "只能说岁月不饶人了，ps，Mac版腾讯视频无广告哦耶"
+    },
+    {
+      "user": "妈呀普利斯卡呀",
+      "avatar": "https://img3.doubanio.com/icon/u146914829-5.jpg",
+      "content": "人生若只如初见，如果青樱没有入府的话，或许她和四阿哥还能佳话依旧"
+    },
+    {
+      "user": "觉寸",
+      "avatar": "https://img1.doubanio.com/icon/u135247786-18.jpg",
+      "content": "咋感觉周迅霍建华扮年轻有点违和了……感觉迅哥的眼睛变得好老态了，还有穿的真的好雷啊"
+    },
+    {
+      "user": "塘桥夜话",
+      "avatar": "https://img3.doubanio.com/icon/u159188035-3.jpg",
+      "content": "这屎一样的配色，这尴尬的声音，两个主演加起来快一百岁的年纪，都让我觉得尴尬。服道化和剧情没有一点合格的地方，导演你要是被绑架了你就眨眨眼"
+    },
+    {
+      "user": "douban",
+      "avatar": "https://img3.doubanio.com/icon/u177864253-33.jpg",
+      "content": "制作精良，剧本有槽点，但是总的来说也还行吧，越是在乎一个人就越是要费力去抹去她的一切存在，这个逻辑居然也蛮有说服力的。不过更关键的是立意问题，本来觉得延禧挺好看，看完如懿传真的觉得延禧就是个过家家的脑残言情剧，完全经不起推敲那种。宫斗这种东西本来就是封建社会对女性的摧残，以现代人的视角去审视宫斗题材，反省才是该有的态度，我真的不知道什么样的人才会用一种沾沾自喜的态度来拍宫斗剧，以斗赢了为骄傲，以压迫别的女性为“爽”。反观如懿传，讲的是女性在后宫里的无奈与悲哀，结局没有一个赢家。如此看来延禧宫略从根本立意上来讲给如懿传提鞋都不配。更不要说五斤盐要演技没演技，要长相没长相，要德性没德性，演技烂成这样还是配音，被周迅吊打100条街不为过。顺带一提霍建华挺适合演渣男的。"
+    },
+    {
+      "user": "随遇而安",
+      "avatar": "https://img1.doubanio.com/icon/u60456459-19.jpg",
+      "content": "抄袭剧负分，差差差差差评"
+    },
+    {
+      "user": "迈克尔·唐僧",
+      "avatar": "https://img3.doubanio.com/icon/u137336545-1.jpg",
+      "content": "这么说吧。甩延禧攻略10086条街。随便喷我。我只会说你欣赏水平只能欣赏开挂攻略。"
+    },
+    {
+      "user": "隰苓",
+      "avatar": "https://img3.doubanio.com/icon/u1553684-80.jpg",
+      "content": "看样子这剧迟迟上不了星不是因为过不了审，就这个质量，八成是被各大卫视退货的。镜头特别脏，本来三分美的人都变成了十分丑。剧情就更好笑了，流潋紫就是个文盲。至于演技，各位有吗呵呵？"
+    },
+    {
+      "user": "星卷卷-",
+      "avatar": "https://img3.doubanio.com/icon/u82231172-2.jpg",
+      "content": "这么好看的电视剧，被小人抢先了，真可惜。"
+    },
+    {
+      "user": "公顕",
+      "avatar": "https://img3.doubanio.com/icon/u49118031-73.jpg",
+      "content": "观望一周，台词礼仪比不上甄嬛传，但分镜摄影可以说是电视剧拍摄手法的先锋了吧。如懿夕阳下独坐门槛一幕，冬日炭炉一幕，以及莲心灯火阑珊处一幕，如懿受惊流苏特写一幕，此外汪俊对自然光的运用也让人印象深刻。另外周迅原音出演给流俗的审美扔了颗炸弹，看着那些人跳脚就过瘾。"
+    },
+    {
+      "user": "林末",
+      "avatar": "https://img3.doubanio.com/icon/u163092745-3.jpg",
+      "content": "该怎么满足你们这些无脑刷一星的"
+    },
+    {
+      "user": "诸建军老婆李燕",
+      "avatar": "https://img3.doubanio.com/icon/u149118205-2.jpg",
+      "content": "因为周迅看的，可是霍建华猥琐的脸和尴尬的演技硬生生把我逼退！"
+    },
+    {
+      "user": "周宏翔",
+      "avatar": "https://img1.doubanio.com/icon/u1428875-17.jpg",
+      "content": "看完大结局，就冲最后两集，我决定还是不改成三星了，虽然剧本实在问题太多，但是如懿还是打动我了，霍建华真的是有进步的。"
+    },
+    {
+      "user": "西风记",
+      "avatar": "https://img3.doubanio.com/icon/u135383084-4.jpg",
+      "content": "渐入佳境，故事不急不躁的推进。PS 我喜欢黄昏下的故宫，感觉很有温度"
+    },
+    {
+      "user": "红色鲱鱼1997",
+      "avatar": "https://img3.doubanio.com/icon/u151004781-3.jpg",
+      "content": "我想收起我的矜持，收起我的原则，就冲从第18集22分钟开始到最后，跪献我的五星给周迅！！！！今天吹爆你！！！这是我写的最脑残粉的影评了，但是要什么逻辑？神仙演技下凡了。"
+    },
+    {
+      "user": "兔兔兔兔兔",
+      "avatar": "https://img3.doubanio.com/icon/u180176268-1.jpg",
+      "content": "喜欢古装剧，是因为喜欢人物造型的服装。一个好的电视剧一定要有服装和背景的支持。好的演员也是需要服装支持的，人靠衣装，马靠鞍。"
+    },
+    {
+      "user": "小贵族",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "挺好看的！这才放到第10集就这么多人给1分的，耐心看完了再打分不好吗？8集以后越来越好看"
+    },
+    {
+      "user": "我是取名无能君",
+      "avatar": "https://img3.doubanio.com/icon/u59743689-5.jpg",
+      "content": "比那个啥啥攻略不知道高了多少个等级，打一星的人是不是都穷酸得舍不得开个会员啊？"
+    },
+    {
+      "user": "xoxosingler",
+      "avatar": "https://img3.doubanio.com/icon/u48920864-5.jpg",
+      "content": "并没有网上抨击的那么差，开杜比视听看就是电影效果赏心悦目，有些细节和画面美感远超延禧，并且不想快进。不知道那么多评1星的是何居心，周公子的眼泪直击人心啊，想跟着流泪。"
+    },
+    {
+      "user": "Arthur",
+      "avatar": "https://img3.doubanio.com/icon/u153829164-1.jpg",
+      "content": "这部剧怎么也不该比延禧低！！！那些说周迅不适演的人真的很恶心。"
+    },
+    {
+      "user": "亚眠乌鸦",
+      "avatar": "https://img3.doubanio.com/icon/u130633236-5.jpg",
+      "content": "服化道设计考究，调色和画面有电影的质感。张丰毅的雍正皇帝暮年不衰，伐决果断沉稳有力，帝王风范呼之欲出。周公子原音出演是为锦上添花，大花出马，眼睛眉毛里可都是戏。"
+    },
+    {
+      "user": "华丽的麻子",
+      "avatar": "https://img3.doubanio.com/icon/u172320352-1.jpg",
+      "content": "看了2集多一点，真心看不下去了，周迅脸上的肉都要掉出屏幕了，嘴巴也不知道打了多少针，声音也不好听。古装剧嘛都会有点不符历史，但是这个也太过了吧，乾隆三个皇后中最不爱的就是辉发那拉，在这剧里变成了最爱的！历史中的辉发那拉死后按皇贵妃礼葬实际为嫔，不举行国孝，没有和乾隆葬在一起，她的儿子到乾隆死还都是阿哥都没有封王！改成这样也气活了乾隆磕碜辉发那拉！"
+    },
+    {
+      "user": "一指流砂绕思素",
+      "avatar": "https://img3.doubanio.com/icon/u138658381-6.jpg",
+      "content": "墙头马上遥相顾 一见知君即断肠\n不懂为什么一直抨击周迅的年龄跟声音，周迅的台词简直是一种享受，而且年龄大了怎么了，谁能永远18，自己到了人家40多还不一定能保养成那个样子，而且如懿跨度很大，少女戏份也没几集，我觉得挺好的。再怎么样，周迅的地位也是在这的，就是三金影后，期待下面的后续剧情，如懿这个人物真是太惨了。"
+    },
+    {
+      "user": "你可以喝我的水",
+      "avatar": "https://img3.doubanio.com/icon/u68174370-33.jpg",
+      "content": "宫斗不是最终目的 它只是窥见人性的一种途径 剧情合理 演技在线 迅哥slay！！！"
+    },
+    {
+      "user": "划个毛欧",
+      "avatar": "https://img1.doubanio.com/icon/u155422793-8.jpg",
+      "content": "挺好看的 就是周迅脸有一点点老"
+    },
+    {
+      "user": "九勺烟灰",
+      "avatar": "https://img3.doubanio.com/icon/u142704096-3.jpg",
+      "content": "所有的等待都是值得的了"
+    },
+    {
+      "user": "你的枪声里",
+      "avatar": "https://img3.doubanio.com/icon/u89557880-21.jpg",
+      "content": "演技真的吊打延禧，还有，不知道是不是现场收音还是后期配音太强，有些场景里能听见窗外的鸟叫声。我记得有一个场景，先拍了外面在下雨，然后镜头转进屋内，背景里的下雨声很真实。全然不似别的电视剧，只听见背景音乐和主角的配音。"
+    },
+    {
+      "user": "shirly",
+      "avatar": "https://img3.doubanio.com/icon/u181325622-6.jpg",
+      "content": "汪俊导演的是什么东西？！周迅又为什么要接这样的剧？？？剧情，台词，场景无不显示这剧粗制滥造到了极点！加上那个配音也太赶客了吧？"
+    },
+    {
+      "user": "咖啡还是绿茶",
+      "avatar": "https://img3.doubanio.com/icon/u157629452-1.jpg",
+      "content": "除了前三集色调太鲜明，第三集中间皇帝登基了之后色调变正常了...细节场景布置都是上等，宫斗不一定要每集斗的你死我活，冷冷的心计从骨子里透出来的坏才是最还原历史的"
+    },
+    {
+      "user": "莫徒",
+      "avatar": "https://img3.doubanio.com/icon/u61286105-1.jpg",
+      "content": "台词太出戏了啊。。女主：啊，我不去选秀不去选秀。。 过了一会儿，丫鬟：格格，您慢点儿，我都追不上您了。。。男主他妈：选秀得选高察氏和高氏。 一转头：放开眼光好好选。。"
+    },
+    {
+      "user": "鲁泰",
+      "avatar": "https://img3.doubanio.com/icon/u2901102-52.jpg",
+      "content": "看了几分钟"
+    },
+    {
+      "user": "♥\"Kim",
+      "avatar": "https://img3.doubanio.com/icon/u152883222-2.jpg",
+      "content": "真佩服那些张口闭口嘲笑演员老～批评色调难看的人，怎么这么事逼呢？！你到了40还能保持这样？你牛逼你去导演一部剧再来逼逼！一开始并不期待此剧，看到第五集以后就停不下来了。。延禧里那样的女主能活到最后真是笑话。反而如懿传才是有含量的宫斗！少逼逼不符合历史…要看真正历史谢谢去看教科书！"
+    },
+    {
+      "user": "lala2343",
+      "avatar": "https://img3.doubanio.com/icon/u121715759-1.jpg",
+      "content": "4星吧，看到这么多无脑黑，多1星"
+    },
+    {
+      "user": "福山雅治说爱我",
+      "avatar": "https://img3.doubanio.com/icon/u178441780-5.jpg",
+      "content": "其实看到第十集，我劝大家不要再带入纯粹宫斗的视角去看这部戏了。这部戏看到现在，从导演各种比较生活意识的镜头可以看出来，导演确实想拍的不只是纯粹的宫斗，而是展现繁华盛世的清宫生活日常和对深宫中人性的探讨。而承载这些东西的主线是一对帝王夫妻的婚姻围城。\n\n电视剧的开始是弘历的梦，这其实也是一种宿命的暗示，梦里面青樱唤的那声弘历哥哥，大概从弘历梦醒的那一刻，就只会永远存在于他的梦境中了。这部剧整个最终的基调是悲的，我想随着剧情的缓缓铺开而来，那种深宫情感的繁华到悲凉会体现得淋漓尽致，也许回头再看青樱弘历，并不会那么违和。其实片头曲已经唱出了那种悲凉的情感：笙箫远去灯火稀微，忆往事竹马青梅。"
+    },
+    {
+      "user": "UUR",
+      "avatar": "https://img1.doubanio.com/icon/u1673529-19.jpg",
+      "content": "前半部分除了一二集其他确实不错也有质感导演很棒可以打五星，可是皇后死了以后的剧情都什么鬼一集比一集无聊，永远都是怀孕生孩子打胎害孩子真是看的心累，如懿这个皇后当的真憋屈看的都气！！最后几集凌云测那段更是无语了，榴莲子真是变态！！！而且感觉删了很多有的地方剧情也莫名其妙。"
+    },
+    {
+      "user": "比比最萌",
+      "avatar": "https://img3.doubanio.com/icon/u172865456-1.jpg",
+      "content": "我觉得蛮好的 评论里面打一星的 就是因为腾讯视频下面的广告 真不好意思我还真没看到 演技甩碰瓷剧不知道多少条街 某些评论不要太酸 拜高踩低 除了吐槽第一集以外 后面的剧情演技根本就是碾压好吗！"
+    },
+    {
+      "user": "卡夫卡",
+      "avatar": "https://img3.doubanio.com/icon/u66870395-6.jpg",
+      "content": "鄙视于正这种恶心的人，所以我支持如懿传即使它没有五星那么好，以后谁还愿意用心拍剧呢？花大钱拍了被人碰瓷占先机。"
+    },
+    {
+      "user": "嘎子未来女朋友",
+      "avatar": "https://img3.doubanio.com/icon/u131124236-2.jpg",
+      "content": "拉一下被延禧攻略于正鬼逼恶意伤害打压的评分\n布景还是剧情各方面都好看考究啊"
+    },
+    {
+      "user": "粟愉",
+      "avatar": "https://img3.doubanio.com/icon/u144612615-1.jpg",
+      "content": "低开高走，目前看到20集预告，走势见佳，越来越好看，看好后期翻盘，看到微博一众尬黑，无聊。18集迎来第一波高潮，看好后期剧情。"
+    },
+    {
+      "user": "我喔",
+      "avatar": "https://img3.doubanio.com/icon/u167999339-1.jpg",
+      "content": "周迅竟然也能让你们推下神坛？至今现役演技最好女演员！！！！"
+    },
+    {
+      "user": "百年树袋熊",
+      "avatar": "https://img1.doubanio.com/icon/u1482740-18.jpg",
+      "content": "作为尊贵的vip看完14集，今天是没有更新的第二天，想它想它想它。如懿传真的好看，像我平时看剧都开两倍速，但是这部能让我正常看完，第一第二集是必要的交代和铺垫，没有那么多冲突和高潮，但是从第三集开始剧情跌宕起伏，不论主配角，都非常鲜活有特色，值得一追"
+    },
+    {
+      "user": "呼呼哈哈",
+      "avatar": "https://img3.doubanio.com/icon/u155101657-5.jpg",
+      "content": "这部剧说真的没有那么烂，只不过都是被带风气了而已，两部剧我都看过也都在追，各有各的缺点和优点，捧一踩一真的很恶心了。拿看过的一句话总结，延禧攻略表面素净内里热闹，如懿传表面繁华内里寂寥。大概就是这样吧"
+    },
+    {
+      "user": "喝一杯可乐y",
+      "avatar": "https://img3.doubanio.com/icon/u154709598-5.jpg",
+      "content": "第十八集真的绝了，巨好看！！"
+    },
+    {
+      "user": "HOPE",
+      "avatar": "https://img3.doubanio.com/icon/u132325954-33.jpg",
+      "content": "麻烦把置顶的一星评论挪到别处可好，看了糟心"
+    },
+    {
+      "user": "京客隆小丸子",
+      "avatar": "https://img3.doubanio.com/icon/u1107947-16.jpg",
+      "content": "正经宫斗+1，周迅+1。迅哥儿太好了，趴在皇帝胸口的一滴泪，让人恨不得把所有的好，都摆在她面前"
+    },
+    {
+      "user": "HsuChiuYing",
+      "avatar": "https://img3.doubanio.com/icon/u90777659-3.jpg",
+      "content": "第十八集迅哥儿演绝了！！我要提前为她打分！！"
+    },
+    {
+      "user": "琉西西",
+      "avatar": "https://img3.doubanio.com/icon/u56978199-3.jpg",
+      "content": "说实话服装台词什么的比延禧宫略看着要舒服，本来想给四星，看到那么多一星的决定给个五星拉拉分"
+    },
+    {
+      "user": "tw",
+      "avatar": "https://img1.doubanio.com/icon/u147781046-17.jpg",
+      "content": "我只想说看不下去就滚！行不，屎不会因为无人问津而高贵！影视作品是给人看的，不是用来装B的，恶心的国人！起码周迅还轮不到你们这些不知道是什么东西的喷！"
+    },
+    {
+      "user": "Dospy💕",
+      "avatar": "https://img3.doubanio.com/icon/u104634550-43.jpg",
+      "content": "无法理解，如懿传竟然比延禧攻略评分低。"
+    },
+    {
+      "user": "大姑娘自以为是",
+      "avatar": "https://img3.doubanio.com/icon/u150784845-1.jpg",
+      "content": "周迅告诉大家什么叫演技，真不愧是拿了三金的影后，而且我觉得她的烟酒嗓真的很好听，很喜欢周迅一是她的演技超好，二就是她那特别的烟酒嗓。"
+    },
+    {
+      "user": "莫元纶",
+      "avatar": "https://img3.doubanio.com/icon/u119457443-1.jpg",
+      "content": "我觉得给低分的人真的有点过分了  这部剧看到后面真的越来越好了！只是周迅没有少女感而已。"
+    },
+    {
+      "user": "Ly",
+      "avatar": "https://img3.doubanio.com/icon/u150257882-1.jpg",
+      "content": "方方面面比延禧强太多！所有演员年龄是偏大些，但我想看演技，不想看脑残的小鲜肉"
+    },
+    {
+      "user": "喂自己",
+      "avatar": "https://img3.doubanio.com/icon/u173136849-1.jpg",
+      "content": "看了六集的人回来看评分果然吓人，那些打一星的什么心理，因为第一集周迅年龄大了扮少女就说尴尬，马上跑来打低分。但前两集就不是重点好吗，所以才进展迅速。看到后面越来越好看，正剧既视感，演员都演技在线，迅哥真会哭，还有人说不如隔壁莫兰迪伪高级色调，满屏玻尿酸撞脸的偶像剧？厉害厉害。"
+    },
+    {
+      "user": "混沌",
+      "avatar": "https://img3.doubanio.com/icon/u155920411-1.jpg",
+      "content": "第八集结尾处，周迅一个人坐在门框那儿，一脸酸楚又执拗，抹掉了眼泪。烙在脑子里的一个场景了。"
+    },
+    {
+      "user": "三千年后",
+      "avatar": "https://img3.doubanio.com/icon/u171944843-1.jpg",
+      "content": "这注定不会是个爽剧，苦逼悲情才是主线，青梅竹马敌得过政治碾压和人性的复杂？周迅的演技没的挑剔。"
+    },
+    {
+      "user": "叁壹",
+      "avatar": "https://img3.doubanio.com/icon/u67014711-3.jpg",
+      "content": "一定要如懿传拉拉分，凭啥被踩，隔壁那是什么剧咋好意思相提并论的，生气。"
+    },
+    {
+      "user": "hi 🍓",
+      "avatar": "https://img3.doubanio.com/icon/u172434970-1.jpg",
+      "content": "求求大家看看6集之后的剧情吧，画面光影摄像真的美哭"
+    },
+    {
+      "user": "渋滞中",
+      "avatar": "https://img3.doubanio.com/icon/u159803017-13.jpg",
+      "content": "五星全给周迅，周迅的演技有多好呢？好到我隔着屏幕都想给她打钱。"
+    },
+    {
+      "user": "雪千寻宝宝",
+      "avatar": "https://img3.doubanio.com/icon/u171959259-1.jpg",
+      "content": "太辣眼睛了，简直丑爆了，还我水灵灵的迅哥儿😡"
+    },
+    {
+      "user": "CHRI$=👿",
+      "avatar": "https://img3.doubanio.com/icon/u146911967-5.jpg",
+      "content": "如懿传比延禧攻略好看了十个甄嬛传。延禧攻略除了主角光环就是强行装逼，乾隆跟个白痴一样，天天朝事政务不理，就知道谈恋爱，还要强行发糖，想呕！到后来基本只看佘诗曼。如懿传到现在基本没怎么快进过。剧情演技都在线，皇帝的人设也正常不少。主角也没那么玛丽苏和光环笼罩，看的人舒服太多了。 "
+    },
+    {
+      "user": "阿凱",
+      "avatar": "https://img3.doubanio.com/icon/u4646500-414.jpg",
+      "content": "这里面的演员演得实在太好了…特别是周迅"
+    },
+    {
+      "user": "hjx960801",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "真的没得黑 全员演技在线 服装 光线 构图 调色都是一级棒 周迅演技内敛又重细节 剧情不拖沓 国产古装剧的高质量产品无疑 丝毫不输以往"
+    },
+    {
+      "user": "夜影",
+      "avatar": "https://img3.doubanio.com/icon/u178118613-1.jpg",
+      "content": "女演员实在老得太快了，董洁没什么表情现在还看不发出，但是气质绝对不是十几岁的，周迅给人的感觉整个就是个三十岁的熟女，别装十五岁的小姑娘了好不好。两星里一星给陈冲和邬君梅，因为我妈妈看了说这两人比较正常"
+    },
+    {
+      "user": "安不虚",
+      "avatar": "https://img1.doubanio.com/icon/u175975365-9.jpg",
+      "content": "1飞鹤奶粉毁所有，尊贵的会员也得不到良好的观剧体验。2张叔平做造型真的只凭他自己喜欢从不考虑实际和演员，导致不同时期的发式一同出现，少女和妇人根本无以区分。3周迅的脸和原音扮少女违和感很重，只想快进到后期黑化奈何剧集又臭又长简直要命。"
+    },
+    {
+      "user": "济沧海君",
+      "avatar": "https://img3.doubanio.com/icon/u147779790-2.jpg",
+      "content": "打五星是为了平衡一下那些看了1.2集就慌忙下定论恶语频出打1星的人。"
+    },
+    {
+      "user": "简片",
+      "avatar": "https://img3.doubanio.com/icon/u154791222-21.jpg",
+      "content": "服化道讲真相对还原了，虽然艳丽但片子整个色调偏暗符合啊。周迅演技真无可挑剔，年轻时期也就1.2集。台词设计和一些镜头语言惊喜到我了，挺好的。"
+    },
+    {
+      "user": "阿盏",
+      "avatar": "https://img3.doubanio.com/icon/u123822967-24.jpg",
+      "content": "剧情比较稳也很吸引人，制作和演技更是相当大气精致的，画面是电影的质感，哪怕是宫女配角演技都完全在线。相比于甄嬛传只有台词上逊色了些，不够典雅蕴藉。打一星的大约并没有欣赏何为宫廷剧匠心的审美能力。即使的确不如甄嬛传经典，如懿传的制作也是四星往上的。期待李沁的寒香见。\rps. 60集往后剧情崩了，反派简直是为坏而坏，毫无逻辑，扣掉一星。"
+    },
+    {
+      "user": "Miho",
+      "avatar": "https://img3.doubanio.com/icon/u154728340-2.jpg",
+      "content": "被隔壁黑的体无完肤，米老鼠荷花ps截一些图说老说丑，都是没看过剧的人瞎扯淡的，于正才是抄抄集大成的抄者。\n"
+    },
+    {
+      "user": "电电电",
+      "avatar": "https://img3.doubanio.com/icon/u157812037-1.jpg",
+      "content": "看了两集，演员演技都在线，特别老戏骨们，求别尬黑了。"
+    },
+    {
+      "user": "évan.",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "什么是大女主戏？楚乔传，扶摇，延喜都是以一个女主的成长史来贯穿主线。没有演技的女主挑不起大梁，分钟被秒成渣。又不是青春校园剧，用得着小花小草吗？只有经历过才能演的出。港剧，日剧，美剧，英剧活跃在一线的演员始终要在30岁开外，能更好的揣摩人心理。那些豆瓣只看过延喜的人跑这里打一星，是收了于正多少钱？这样做真的好吗？平心而论，国内演技能跟周迅持平的女演员数不出几个，这样的大女主戏不看反而踩，有必要吗？看的就是周迅！！！"
+    },
+    {
+      "user": "炯之",
+      "avatar": "https://img3.doubanio.com/icon/u137057832-24.jpg",
+      "content": "被低估的如懿传，观至四分之一处体现出来的火候就已经极其的纯熟浓烈，却又不张扬，有一种精致的体面，在某些方面可以说是细致入微的，这也就使得整体看上去缓慢而随性，我倒不觉得这种慢有何不好，其实正体现着如懿成长的过程，由漫步人生到极致紧张，由岁月静好到步步为营，由嫁于帝王、位列后妃、琴瑟和谐到人生失意、夫妻围城、永恒孤独，所有都像是一个过程，一个如何蜕化的过程，一个特定时代女人逐渐走向人生的困境的过程，如懿传此刻的慢是为了更好的凸显下一刻的举步维艰、落子无悔，其实这部剧的骨子和如懿的本性一样倔强，一样有心性，你可以在任何一个场景看到它企图创造一场极致的清宫戏的想法，这种感觉就像如懿面对背叛与屈辱时的眼神一般坚定炙热，就像一团火，燃起了我心中对如懿的一番深情，乌拉那拉氏的荣耀，如懿会一步步夺回来。"
+    },
+    {
+      "user": "嘟啦",
+      "avatar": "https://img3.doubanio.com/icon/u148322940-1.jpg",
+      "content": "评分被拉上来了，我迅终于得到大家对于她演技的肯定了，甚是欣慰"
+    },
+    {
+      "user": "穆如寒江",
+      "avatar": "https://img3.doubanio.com/icon/u151841463-1.jpg",
+      "content": "重新评价！作为14年就开始追的老粉，说实话，第一二集确实不适应，但慢慢越看越有味道，可能有人会吐槽迅哥的声音，但我觉得这恰恰是迅哥的特色。全员演技颜值在线这都不用说了，第18集真的被震撼到！另外，我觉得7分对于这样一部作品有点儿不公平，黑子请离如懿传远点儿，谢谢"
+    },
+    {
+      "user": "晦涩时代",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "开篇略有不足，但渐入佳境，看得出用心，5星给周迅、大小琵琶精，剧本立意可以，逻辑不行，扣1星"
+    },
+    {
+      "user": "红拂夜奔",
+      "avatar": "https://img3.doubanio.com/icon/u51287343-5.jpg",
+      "content": "跟甄嬛传比差得不是一星半点，编剧太水了"
+    },
+    {
+      "user": "清河",
+      "avatar": "https://img3.doubanio.com/icon/u166998548-1.jpg",
+      "content": "给一颗星的是怎么想的？"
+    },
+    {
+      "user": "小木头团子",
+      "avatar": "https://img3.doubanio.com/icon/u157350902-2.jpg",
+      "content": "服化道像2008年的，劣质的布料，炫酷的色彩。镜头跳跃恍惚，台词尴尬。果然，延禧攻略不是赢了一点半点。也就是个高配版的欢天喜地七仙女。"
+    },
+    {
+      "user": "匀笑颜",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "很多人拿延禧攻略来对比，我只想说，如懿属于第二眼美女，不惊艳但是细水长流，延禧攻略属于第一眼美女，看了觉得挖槽太漂亮了，可是尼玛多看几眼就觉得很腻很腻。两部剧，完全没可比性！"
+    },
+    {
+      "user": "普罗旺斯",
+      "avatar": "https://img3.doubanio.com/icon/u1243672-5.jpg",
+      "content": "对于细节控来说，故事成立不成立，演员的表情，神态，动作，腔调比所谓的莫兰迪服装画面，爽感更重要。"
+    },
+    {
+      "user": "三川",
+      "avatar": "https://img3.doubanio.com/icon/u64039875-4.jpg",
+      "content": "那些说周迅演少女打一星的祝你们永远不老永远嘴贱…"
+    },
+    {
+      "user": "大弛子内我瓷器",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "是真的好看 网上喷的那些辣鸡为啥这么骂这个剧是有某些剧的原因的"
+    },
+    {
+      "user": "柳词",
+      "avatar": "https://img3.doubanio.com/icon/u178661672-1.jpg",
+      "content": "在一位女演员初露老态开始，键盘侠开始用极其刻薄的语言贬损讽刺，即使是周迅尚且如此更何况其它女演员。为了迎合这些观众的审美而去整容，他们依然可以心安理得讽刺女演员不能安心的老去，再装模作样的回忆这她们的青葱过去，掉几滴做作的眼泪。有些人永远的不会意识到自己的愚蠢与恶毒。"
+    },
+    {
+      "user": "沈咩咩",
+      "avatar": "https://img3.doubanio.com/icon/u130278569-1.jpg",
+      "content": "幸好，你们都不喜欢"
+    },
+    {
+      "user": "瞌睡猫",
+      "avatar": "https://img3.doubanio.com/icon/u150238920-3.jpg",
+      "content": "甄嬛传是披着宫斗的外衣讲职场；如懿传是披着宫斗的外衣讲婚姻；某四字剧只是披着宫斗和历史的外衣演了一场琼瑶剧……"
+    },
+    {
+      "user": "傅可可",
+      "avatar": "https://img3.doubanio.com/icon/u166734814-1.jpg",
+      "content": "如懿传不上7.5简直是天理难容！"
+    },
+    {
+      "user": "红蓝西萨",
+      "avatar": "https://img3.doubanio.com/icon/u119148170-1.jpg",
+      "content": "我承认第一集是有点辣眼睛，但因为几个镜头就吐槽周迅的脸吐槽色彩是不是太过断章取义了。我不是会员，只看了前八集，但周迅的少女感真的极好。且不说重头戏了，就说是皇上上朝，周迅从被子里钻出来那段，满屏幕的可爱娇俏都要溢出来了。好的演员就是这样的，只看照片脸可能一般，甚至崩了，但是动起来之后一颦一笑都带着灵动的光彩。可惜那些无脑黑的人，欣赏不了。"
+    },
+    {
+      "user": "磕猫吗",
+      "avatar": "https://img3.doubanio.com/icon/u171232168-1.jpg",
+      "content": "吹爆迅哥演技  今晚剧情真的给我气哭了   真的是应了预告里的那句清白这两个字都他妈说倦了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊如懿赶紧给我弄他们"
+    },
+    {
+      "user": "小蜜蜂嗡嗡嗡",
+      "avatar": "https://img3.doubanio.com/icon/u4614773-5.jpg",
+      "content": "吃亏在延迟播出……剧情、人物、美术、摄影等等都在线上，一些关于礼仪的细节到位，很多可还原我们资料里的清宫生活……其中对宫女惢心印象很好，她的台词音调把我拉回《红楼梦》……想想贾府那些男人女人，挺像的"
+    },
+    {
+      "user": "Viva la vida",
+      "avatar": "https://img3.doubanio.com/icon/u155455418-2.jpg",
+      "content": "7.0，如懿女孩冲鸭\n想说那种一集弃两集弃的人啊真是一点耐心都没有\n为什么才6.5？\n预告片，五星。\n第一集，三星。\n我想看宫斗！！！"
+    },
+    {
+      "user": "江念",
+      "avatar": "https://img3.doubanio.com/icon/u170322032-1.jpg",
+      "content": "精致的服化道，看到一些人尬黑，真得为这部剧的主创们心疼。五分，越看越好看，一代帝王的婚姻围城，值得我们用心去体会剧情。"
+    },
+    {
+      "user": "单曲循环没意思",
+      "avatar": "https://img1.doubanio.com/icon/u114263854-8.jpg",
+      "content": "拖沓"
+    },
+    {
+      "user": "TONY东",
+      "avatar": "https://img3.doubanio.com/icon/u4280033-193.jpg",
+      "content": "《如懿传》大结局，知道会很丧，但没想到丧的如此极致，丧的细腻，丧的高级，丧的大气，甚至丧的华丽！佩服汪俊导演的功力，整部剧的基调，摄影运控，配乐恢宏，每一位演员都发挥出细致表演，周迅演活了如懿。如懿真是我，最喜欢，最深刻的戏剧角色了，她太真实，太超脱了，看似多年被金瓦红墙挡住，实则心自由的如同天地般广阔。她心中执念的往日情，虽已逝去，可少年郎终究在薨前，用他的执念让青樱与弘历永远在一起了。"
+    },
+    {
+      "user": "石锅拌饭",
+      "avatar": "https://img3.doubanio.com/icon/u126809180-2.jpg",
+      "content": "先看的延禧攻略，对后宫的各位娘娘有了一点先入为主的印象和想法。但是看过几集之后，完全被演员带入情景。服化道、背景音乐、表演细节都很到位，很有真实感和日常感，有VIP一下子连着看了好几集。整体上感觉这会是一部好片子。没看过小说，从前几集的基调推测，后期可能会有点让人害怕，因为太过于真实，有一种历史的厚重感，但也有一种后宫的阴森感。"
+    },
+    {
+      "user": "樱一出生便有命",
+      "avatar": "https://img3.doubanio.com/icon/u148562852-1.jpg",
+      "content": "看这么多一星，也得打个五星！热评都什么评论，腾讯广告关剧什么关系，还有演员好不好看的，年轻人员说演技不好，老演员又说脸老气了，真TM难伺候！"
+    },
+    {
+      "user": "leung_wei",
+      "avatar": "https://img3.doubanio.com/icon/u62109847-1.jpg",
+      "content": "2018年开年大戏被一拖再拖直至八月上映 微博里被踩的大戏感觉比戏里的还精彩 对打的如果真有本事 怕什么正面比拼？！看了两集 讯哥初期造型的确亦遭人诟病 但追剧难道是为了看她的造型么！除了这一点目前本剧无可挑剔！神一般的演技不是随便说说的！尬黑司马哟"
+    },
+    {
+      "user": "八月雨丶",
+      "avatar": "https://img3.doubanio.com/icon/u173784385-1.jpg",
+      "content": "有内涵 有质感 \n周迅演技没的说"
+    },
+    {
+      "user": "Rosasolis",
+      "avatar": "https://img3.doubanio.com/icon/u158380584-6.jpg",
+      "content": "除了前面两集有点画蛇添足之外，其它都很不错，剧情服装布景都是一流，黑太过了"
+    },
+    {
+      "user": "半酒",
+      "avatar": "https://img3.doubanio.com/icon/u52818662-6.jpg",
+      "content": "进入宫斗终于有意思起来了，但是有些地方还是有bug"
+    },
+    {
+      "user": "往北的海夜未眠",
+      "avatar": "https://img3.doubanio.com/icon/u123427920-2.jpg",
+      "content": "我对周迅从来就没法客观。一集出陈，二集易新，三集起渐入佳境，入了宫我的少女迅哥儿就回来了，况且眼神和演技不是恶臭营销号可以抹黑得了的，让我一分钟不快进地一集集追下去，这剧经得起考验。"
+    },
+    {
+      "user": "树花",
+      "avatar": "https://img3.doubanio.com/icon/u131117756-2.jpg",
+      "content": "周迅太可怕了！神仙演技豪不夸张！我觉得往后看看还想再加点分"
+    },
+    {
+      "user": "Vania🎵",
+      "avatar": "https://img3.doubanio.com/icon/u47332080-3.jpg",
+      "content": "什么世道，吃屎吃多了看见饭还觉着奇怪。"
+    },
+    {
+      "user": "得风",
+      "avatar": "https://img3.doubanio.com/icon/u64972746-2.jpg",
+      "content": "精致的故事，大气的铺陈，用心的选角，美剧的节奏，自然而然的剧情里却又出乎意料的悬念，让人越看越欲罢不能，就这种剧，我不知道为什么这么多人黑，我看是墙倒众人推，无脑狗是非！你们这帮键盘侠，不配被我骂，我要看剧了！这个剧，今年前三甲无疑！恭喜我主荣登七点三❤"
+    },
+    {
+      "user": "王小兔儿",
+      "avatar": "https://img1.doubanio.com/icon/u2578516-39.jpg",
+      "content": "如懿传没有那么差，延禧宫略没有那么好。"
+    },
+    {
+      "user": "satoya",
+      "avatar": "https://img3.doubanio.com/icon/u167592319-2.jpg",
+      "content": "各位女主角的演技相当相当在线。周迅不是只演十四五岁的少女，而是要演出一个女人的一生，观众对女演员要求太苛刻了。现在那些小花，哪怕和二十代的周迅比，差得也不是一点半点，庆幸这部剧找了这么多好演员。"
+    },
+    {
+      "user": "ecstasy",
+      "avatar": "https://img1.doubanio.com/icon/u137283631-7.jpg",
+      "content": "豆瓣那么多低星是怎么回事？！开头两集的确不好看，看到后面根本停不下来好嘛！/本来想给四星的，无脑一星的太多了，等评分正常了再改回来"
+    },
+    {
+      "user": "跟着感觉走",
+      "avatar": "https://img3.doubanio.com/icon/u159702588-1.jpg",
+      "content": "如懿传不说明星阵容，剧情第一集就已经很好的展开了，电视剧最主要的就是剧情，演技，台词以及配乐。这里方面如懿传做的很好！不要为黑而黑。说剧情不好的，还是扪心自问吧，这才是最真实的后宫宫斗！"
+    },
+    {
+      "user": "yamiwin",
+      "avatar": "https://img3.doubanio.com/icon/u141005585-3.jpg",
+      "content": "我看完了到现在为止播出的所有集数，只能说那些只看了一集就说周迅老相而给一星的人真的很不负责。人总是会老的，可是除了老了，周迅还有演技还有精神气，除了少女阶段还有少妇还有熟女阶段。这部戏如果不是周迅，而且别的少女演员...能撑得起来吗？"
+    },
+    {
+      "user": "温凯尔",
+      "avatar": "https://img3.doubanio.com/icon/u68939871-312.jpg",
+      "content": "渐入佳境，8.8分。"
+    },
+    {
+      "user": "前田罗绮",
+      "avatar": "https://img3.doubanio.com/icon/u172428022-10.jpg",
+      "content": "被这乡村气息的服化道和调色打光震惊到了。初初以为只是个别片段被网友非议。还觉得这届网友过于苛责了。结果今天上线之后，一口气拉了好多集。是真的让我目瞪口呆，怎么能一部大制作拍的这么掉价。也是佩服。"
+    },
+    {
+      "user": "清晏",
+      "avatar": "https://img1.doubanio.com/icon/u56677691-7.jpg",
+      "content": "服化道个人还算喜欢。看不少豆友吐槽主演太老，我也同感。但真正让我失去兴趣的，是导演和编剧对故事节奏的把控——节奏不是速度快慢，不是着急让谁领便当，而是这个人物处在高低起伏的情节里，情绪状态是否跟得上：开心时飞得起来，悲伤时落得下去。对开场即背负了太多的周迅而言，从剧情安排到人物表现，都没有拿捏好这个节奏。"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u73032681-5.jpg",
+      "content": "剧本抄袭匪大，宣传海报抄袭延禧攻略，镜头抄袭故宫纪录片，真是集抄袭之大成，服化道辣眼睛，大制作还扣图，恶心"
+    },
+    {
+      "user": "小菜籽",
+      "avatar": "https://img3.doubanio.com/icon/u177270079-2.jpg",
+      "content": "看到这么多打一星的黑粉简直了，在看了前面一点点居然就直接给出一星，本来这剧打算给四星，因为这些不负责任的黑粉加半星，因为于正继步步惊心之后在如懿传上又使了同样的手段表示不齿，再加半星。"
+    },
+    {
+      "user": "公子Rong",
+      "avatar": "https://img3.doubanio.com/icon/u75717283-11.jpg",
+      "content": "我真的会觉得《如懿传》比《延禧攻略》好看诶。曾经追完《如懿传》导演汪俊的《苍穹之昴》，当时就感到清朝晚期的历史比康乾盛世精彩多了。以宫斗失败者为主角的套路也比胜利者更吸引我。\n结尾很震撼！"
+    },
+    {
+      "user": "B.W YC",
+      "avatar": "https://img3.doubanio.com/icon/u88325782-2.jpg",
+      "content": "感谢迅哥儿，真正的艺术家🌹今天饭局听到中年男性大声讽刺迅哥儿演绎少女，突然间非常难过，赶紧为瑰宝精灵迅哥儿拉分尽绵薄力。（其实抄袭还是需要诟病，前方年少钟情青樱的剧情也令人眼瞎，但是对导演的封建挽歌初心，很感动，祝福期待）"
+    },
+    {
+      "user": "歌迪亚",
+      "avatar": "https://img3.doubanio.com/icon/u154505399-1.jpg",
+      "content": "前两集是败笔，会赶走很多人，但大概第四集开始步入正轨，有《甄嬛传》的气质，当然台词不够优秀。总体是很喜欢的，等了这么多年终于等到能媲美《甄嬛传》在作品。服饰比前者更精良，很美。个人不太喜欢霍建华演皇上，不够过多看几集，感觉也不错。"
+    }
+  ]
+}

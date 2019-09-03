@@ -1,0 +1,1184 @@
+{
+  "title": "怪奇物语 第三季",
+  "url": "https://movie.douban.com/subject/27119156/",
+  "rate": "8.8",
+  "id": "27119156",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558683543.jpg",
+  "info": [
+    "导演: 马特·达菲 / 罗斯·达菲 / 肖恩·利维 / 乌塔·布里兹维茨",
+    "编剧: 马特·达菲 / 罗斯·达菲 / 凯特·特雷弗里 / 威廉·布里奇斯 / 保罗·迪赫特 / Curtis Gwinn",
+    "主演: 薇诺娜·瑞德 / 大卫·哈伯 / 菲恩·伍法德 / 米莉·波比·布朗 / 伽塔·马塔拉佐 / 凯莱布·麦克劳克林 / 诺亚·施纳普 / 萨迪·辛克 / 娜塔莉·戴尔 / 查理·希顿 / 乔·基瑞 / 戴克·蒙哥马利 / 玛雅·霍克 / 普莉雅·弗格森 / 卡拉·布欧诺 / 西恩·奥斯汀 / 杰克·布塞 / 乔·克里斯特 / 凯瑟琳·科廷 / 迈克尔·帕克 / 弗兰切丝卡·雷阿莱 / 亚历克·乌特戈夫 / 卡拉·曼泰拉 / 安妮斯顿·普莱斯 / 婷斯莉·普莱斯 / 肖恩·索斯 / 加布里埃拉·皮佐罗",
+    "类型: 剧情 / 科幻 / 惊悚",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "首播: 2019-07-04(美国)",
+    "季数: 1234",
+    "集数: 8",
+    "单集片长: 60分钟"
+  ],
+  "desc": "故事发生在 1984 年的印第安纳州霍金斯镇，正值炎夏，学校放假了，镇上新开了一家购物中心，霍金斯小组成员也即将成年。情窦初开的同时，也使小组成员的动态变得更加复杂，他们必须找出一起长大的方法。与此同时，危险迫在眉睫。当小镇受到新旧敌人的威胁时，小十一和她的朋友们意识到，邪恶永远不会结束，它会一直存在。现在，他们必须团结一致才能活下来，并牢记友谊的力量永远比恐惧更强大。",
+  "members": {
+    "director": {
+      "name": "马特·达菲 Matt Duffer",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1468742518.74.jpg"
+    },
+    "cast": [
+      {
+        "name": "薇诺娜·瑞德 Winona Ryder",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2318.jpg"
+      },
+      {
+        "name": "大卫·哈伯 David Harbour",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21214.jpg"
+      },
+      {
+        "name": "菲恩·伍法德 Finn Wolfhard",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517993529.86.jpg"
+      },
+      {
+        "name": "米莉·波比·布朗 Millie Bobby Brown",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477066064.22.jpg"
+      },
+      {
+        "name": "伽塔·马塔拉佐 Gaten Matarazzo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1529953835.19.jpg"
+      },
+      {
+        "name": "凯莱布·麦克劳克林 Caleb McLaughlin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541741954.63.jpg"
+      },
+      {
+        "name": "诺亚·施纳普 Noah Schnapp",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511213169.72.jpg"
+      },
+      {
+        "name": "萨迪·辛克 Sadie Sink",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1528449649.08.jpg"
+      },
+      {
+        "name": "娜塔莉·戴尔 Natalia Dyer",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469112220.64.jpg"
+      },
+      {
+        "name": "查理·希顿 Charlie Heaton",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1475493696.38.jpg"
+      },
+      {
+        "name": "乔·基瑞 Joe Keery",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509288344.13.jpg"
+      },
+      {
+        "name": "戴克·蒙哥马利 Dacre Montgomery",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506752011.5.jpg"
+      },
+      {
+        "name": "玛雅·霍克 Maya Hawke",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514389723.12.jpg"
+      },
+      {
+        "name": "普莉雅·弗格森 Priah Ferguson",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3O4pF8RTTC8cel_avatar_uploaded1509350377.27.jpg"
+      },
+      {
+        "name": "卡拉·布欧诺 Cara Buono",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9089.jpg"
+      },
+      {
+        "name": "西恩·奥斯汀 Sean Astin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11727.jpg"
+      },
+      {
+        "name": "杰克·布塞 Jake Busey",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26029.jpg"
+      },
+      {
+        "name": "乔·克里斯特 Joe Chrest",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1399951484.51.jpg"
+      },
+      {
+        "name": "凯瑟琳·科廷 Catherine Curtin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1425378697.35.jpg"
+      },
+      {
+        "name": "迈克尔·帕克 Michael Park",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517974461.99.jpg"
+      },
+      {
+        "name": "弗兰切丝卡·雷阿莱 Francesca Reale",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565271457.53.jpg"
+      },
+      {
+        "name": "亚历克·乌特戈夫 Alec Utgoff",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1432955549.9.jpg"
+      },
+      {
+        "name": "卡拉·曼泰拉 Cara Mantella",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pSsJjLmSNe5kcel_avatar_uploaded1462806884.85.jpg"
+      },
+      {
+        "name": "安妮斯顿·普莱斯 Anniston Price",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469431804.31.jpg"
+      },
+      {
+        "name": "婷斯莉·普莱斯 Tinsley Price",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469431842.52.jpg"
+      },
+      {
+        "name": "肖恩·索斯 Shawn South",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997631.66.jpg"
+      },
+      {
+        "name": "加布里埃拉·皮佐罗 Gabriella Pizzolo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1562678474.56.jpg"
+      },
+      {
+        "name": "加利·艾尔维斯 Cary Elwes",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534498761.88.jpg"
+      },
+      {
+        "name": "威尔·切斯 Will Chase",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1402747433.6.jpg"
+      },
+      {
+        "name": "阿莉莎·布鲁克 Allyssa Brooke",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1523507749.3.jpg"
+      },
+      {
+        "name": "艾比·格洛弗 Abby Glover",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1562642159.49.jpg"
+      },
+      {
+        "name": "肖恩·迈克尔·韦伯 Sean Michael Weber",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1562679299.28.jpg"
+      },
+      {
+        "name": "安德烈·伊夫琴科 Andrey Ivchenko",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pyLTVkK8of4ocel_avatar_uploaded1562584882.31.jpg"
+      },
+      {
+        "name": "克里斯托弗·康夫瑞 Christopher Convery",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563025134.66.jpg"
+      },
+      {
+        "name": "阿瑟·达尔比尼扬 Arthur Darbinyan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1562653758.93.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2560249824.jpg?",
+        "src": "http://vt1.doubanio.com/201908311534/af07cad7f3e165cfb842e3283c86e695/view/movie/M/402480865.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2551289992.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2551313992.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2551313997.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2551289996.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "3.5  较前两季滑坡严重，但好歹保住了能一口气看完的质量，勉强给四星。整个盘甩得越来越大，各种注水，连美苏冷战交锋都要在这个小镇大干一场，还杂交僵尸片的设定。不少戏仿老B级片的色彩，以至于场面越来越火爆、剧情越来越儿戏，令人不适。不变的倒是每个角色的聒噪，前两季还能因为年龄小觉得可爱，这季真是看谁都不太顺眼。"
+    },
+    {
+      "user": "悟饭婆婆",
+      "avatar": "https://img3.doubanio.com/icon/u63922576-5.jpg",
+      "content": "还有什么比暑假第四天宅在家里追着怪奇物语第三季更惬意的事吗……如果有，请你一定要告诉我！"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "多线满分，群戏满分，节奏满分，到第三季终于出现同志角色了啊啊啊！结尾大泪目，爱所有小伙伴们！！！"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "仍然是多线叙事，小孩们一组，达斯汀、史蒂夫、罗宾一组，乔伊、霍珀一组，乔纳森、南茜一组，在第8集集结，然后又分头行动，合力对抗怪兽。\n前2季小11是实力最强的存在，第3季特意让她失去了超能力，从而为主角们增加一点难度，使大家不会赢得太容易，同时也是给予其它人展示自己的机会。\n不仅是小11，每个人都面临了巨大的困难，然后靠自己克服困难。\n小11和迈克出现了矛盾，最终共同解决了矛盾；\n威尔和小伙伴分崩离析，后来冰释前嫌；\n小11读了霍珀写给自己的信，明白了他的良苦用心……\n爱情、友情、亲情三种感情面面俱到，感人肺腑。\n所有人都不相信南茜，于是她用实力证明了自己；\n达斯汀启到了关键作用，罗宾破解了密码，就连比利都拯救了他人。\n每个人都发挥了自己的价值，每个人都有他存在的理由，没有一个人是多余的，堪称群戏教科书."
+    },
+    {
+      "user": "独爱人山人海",
+      "avatar": "https://img3.doubanio.com/icon/u51910216-1.jpg",
+      "content": "人啊，一上了年纪就容易缺剧。过去我经常补剧，可是一天三遍地补，很麻烦。现在，有了怪奇物语第三季，一集顶过去的五集，方便！您看我，一口气看八集，不费劲。怪奇物语，各种水果味，一小时一集，效果不错还实惠！"
+    },
+    {
+      "user": "该用户己注销",
+      "avatar": "https://img1.doubanio.com/icon/u106162551-9.jpg",
+      "content": "前几集无论是小11她们注意到比利有问题，女水手店员破解俄语信息，侦探南西寻求老鼠得真相，威尔妈妈注意到磁性的消失...全是women solve the problems！男角色们要不变坏，要不就只会打打嗝放放屁lol...【但后面几集男角色们光荣牺牲了也很酷！！】"
+    },
+    {
+      "user": "忈聿",
+      "avatar": "https://img3.doubanio.com/icon/u80669319-6.jpg",
+      "content": "OMG这还是我喜欢的怪奇物语吗？除了will每个人都是恋爱脑，特别是中年组无休止的争吵看的真的很烦，还加了那么多新的人物，多条线，夹杂各种，看的真心累，以为这是最后一季，或许过于期待了吧"
+    },
+    {
+      "user": "schoolgirlhihi",
+      "avatar": "https://img1.doubanio.com/icon/u116162082-38.jpg",
+      "content": "Mike也太帅了吧 一脸摇滚明星的劲儿！"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "1.美国人民再次挫败苏联“阴谋”。（怪物形似放大版毒液是我的错觉吗……2.cp太多，磕不过来，可怜will，单身至今。求求编剧做个人吧，下季写个妹子（或者男孩子？😏）配给他吧😭3.本季Nancy＆Jonathan意外神勇，刷足好感～4.真（后宫）男主没牙仔，还是很讨喜，换了团队依然无可取代～5.艾瑞卡小妹可爱，阿列克谢有点萌～6.没想到还有罗宾的（单箭头）百合线7.小十一吻戏太多差评😠好在战斗力不减，最后一集刮骨去“毒”好心疼TAT 8.孩子们不要长太快，希望下一季不要等太久❤"
+    },
+    {
+      "user": "波大叔pro",
+      "avatar": "https://img3.doubanio.com/icon/u3271259-104.jpg",
+      "content": "这剧有多吸引人呢？！就是我自己一个人看都觉得浪费，因为想跟男票一起看！（本人男"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "拯救世界的是小Eleven吗？不是～是普朗克常数！伟大的量子力学！"
+    },
+    {
+      "user": "p！ig",
+      "avatar": "https://img1.doubanio.com/icon/u143430180-9.jpg",
+      "content": "爱打几星打几星，相比于第一季，梗越来越烂俗剧情越来越蠢还不让人说了？看完整季，恭喜整部剧从第一季的灵气少年直接变为油腻大叔。"
+    },
+    {
+      "user": "茶底世界",
+      "avatar": "https://img3.doubanio.com/icon/u155106521-3.jpg",
+      "content": "虽然我很喜欢这个系列，但我不得不说我讨厌这一季，所有的角色都要谈恋爱，还加入了同性恋，女权，冷战等元素，好吧，毕竟要政治正确，但麻烦要黑苏联黑俄罗斯也好歹尊重一下敌人的战斗力和智商好吧，尤其后者，四个屁孩子在人家秘密基地跟过家家似的左藏右躲，还能轻易脱身，我都看呆了，这光环开的也太过分了吧，这一季所有人物没有丝毫成长，除了个头，el几度沦为了工具人，这一季给我留下深刻印象的反倒是那个比利，多线叙事很好，但节奏有所崩坏，四星够不着。"
+    },
+    {
+      "user": "Lotte-F",
+      "avatar": "https://img3.doubanio.com/icon/u140594033-5.jpg",
+      "content": "这一季故事水准肉眼可见的下降了，虽然还是前两季熟悉的三线并进叙事，但是紧张程度大减，最后的结局还把我的中年组拆了，他妈的我为什么要熬夜看到大结局啊！而且这一季的爱情戏太多太嘈杂太腻歪了，不过冰淇淋小分队好评，黑人小妹妹本季最佳！倒数第二季了，且看且珍惜吧，希望最后一季可以好看回来吧！"
+    },
+    {
+      "user": "SiriJoy",
+      "avatar": "https://img3.doubanio.com/icon/u176679553-2.jpg",
+      "content": "没有第二季剧情好，但小孩角色仍然可爱，El和Max太可爱了🥰，max: friends don’t lie, but boyfriends lies ALL the time我笑死"
+    },
+    {
+      "user": "木石子",
+      "avatar": "https://img3.doubanio.com/icon/u146536630-5.jpg",
+      "content": "被一开始的柠檬🍋酸着了"
+    },
+    {
+      "user": "CastiEven",
+      "avatar": "https://img3.doubanio.com/icon/u189604528-1.jpg",
+      "content": "3.5\n一季一季质量稳步下滑，尤其是对两位中年焦虑组的角色刻画，我都怀疑编剧跟他们有仇，刻薄一点来讲的话Hopper要说OOC也不为过……实在太令人无语了。\n亮眼的点没几处，但亮的那几处又确实够亮：男女生两条线在Starcourt处交汇的自然调度美妙得像首轻盈灵动的诗；一夜之间挥别了童年，不得不突飞猛进被迫成长的伤痛总是像Will所处的那个潮湿的夜晚，连天都跟着自己一起揪起了心，那么深刻，万千愁绪搅成一团让呼吸都变得困难。\n只是仍然可惜，苏联给了这个世界多少题材啊，编剧们对于这部剧的挖掘终于也要黔驴技穷了吗？对终结者的致敬真的没什么意思，毕竟这里的社会主义路线就算一刀砍了问题也不是太大。\n节奏一样垮了，一切全靠各类元素堆积乱炖，终于落俗，再也没有第一季清冽精巧的灵气。"
+    },
+    {
+      "user": "Magic Jie",
+      "avatar": "https://img3.doubanio.com/icon/u160540699-2.jpg",
+      "content": "威尔他妈是克夫命啊，两季搞死了两个男朋友。紧凑，四线操作各有分工，但又殊途同归。"
+    },
+    {
+      "user": "厄科",
+      "avatar": "https://img3.doubanio.com/icon/u71455928-5.jpg",
+      "content": "第一时间滚来评分的肯定不止我一个对不对！我的小11我的探险小队妈妈爱你们！！"
+    },
+    {
+      "user": "刘小流",
+      "avatar": "https://img3.doubanio.com/icon/u66469764-151.jpg",
+      "content": "最后一集十几分钟太戳人了啊，2.1米高的海浪、17年可以装进一天中的人生、8分尺的空隙已经没法再留给别人。小演员已经处在一天一变脸的巅峰成长期了，所以一个告别，就是一个告别。孩子就不pick了，pick一下比利和单纯的俄国小哥吧！"
+    },
+    {
+      "user": "Allen丶Zst",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "讲真 这一季好看在哪里？？？？一口气看完觉得真心无聊，怪物造型，剧情，政治正确，每个环节都好无聊好没有新意啊。。。。谁能告诉我好看在哪里/过了20天后再来看，好评基本都是无理由写段子觉得好看。。毕竟他们真说不出好看在哪里"
+    },
+    {
+      "user": "孤孤芒",
+      "avatar": "https://img3.doubanio.com/icon/u84755098-56.jpg",
+      "content": "-Friends don't lie. -Yeah, boyfriends lie. All the time. -There's more to life than stupid boys. 【哈哈哈哈哈哈哈全员可爱【Hopper你是非常非常好的父亲 El肯定会一直留门的"
+    },
+    {
+      "user": "Stretch",
+      "avatar": "https://img1.doubanio.com/icon/u76025225-27.jpg",
+      "content": "质量相比前两季明显下降，注水好多，一共8集，前4集相当于废片。"
+    },
+    {
+      "user": "Mathilda",
+      "avatar": "https://img3.doubanio.com/icon/u171267436-20.jpg",
+      "content": "离开霍金斯，请马上回来！😭"
+    },
+    {
+      "user": "撕咬苏菲",
+      "avatar": "https://img3.doubanio.com/icon/u49073631-4.jpg",
+      "content": "最后一集真是各种不合理，人设都惹人厌，无语"
+    },
+    {
+      "user": "Kurt",
+      "avatar": "https://img3.doubanio.com/icon/u3685687-2.jpg",
+      "content": "第三季太平庸了，连音乐都太平庸了，这一季塑造得最好的角色是南西(上两季她挺讨人厌的)关于和男朋友吵架互相指责,还有在工作岗位上被歧视，崩溃后和妈妈的对话都让我感同身受，妈妈说你要在这世界keep trying and finish it，边说边流泪，要在这些蠢猪面前捍卫自己啊，girls"
+    },
+    {
+      "user": "苏乏",
+      "avatar": "https://img1.doubanio.com/icon/u1123223-28.jpg",
+      "content": "小孩长大之后表演的痕迹会明显一些，刚开始有些不太适应。本季对阴谋论的探究渗透整条直线，但男孩掉到歧视链的底端，且推进的方法没有主角年龄段的特征，这使得资本啊、权利啊、阴谋啊这些社会元素，附着在超自然剧集上让人失去了耐心，有钱猛造反而没了氛围，只有小豁牙和新人艾瑞卡的部分桥段让人欣慰，结尾“玩具3”帮助不大"
+    },
+    {
+      "user": "留声机与小提琴",
+      "avatar": "https://img3.doubanio.com/icon/u156499008-20.jpg",
+      "content": "都第三季了居然还有人觉得剧情扯？"
+    },
+    {
+      "user": "cmaaaaa",
+      "avatar": "https://img3.doubanio.com/icon/u180761585-2.jpg",
+      "content": "编剧不行了。可以压缩到4集。"
+    },
+    {
+      "user": "⚪️HelloThere🔵",
+      "avatar": "https://img3.doubanio.com/icon/u35510811-184.jpg",
+      "content": "从保护欲过度的白人红脖老父亲到正义美国人大战邪恶苏联人，S3就是80年代cheesy garbage集大成者。每一条线你都能猜到结尾剧情，每一个角色都过度表演，聒噪到让人无法忍受。S1的灵性在S2就没了，充满粉丝服务的S3只是为了满足喜欢头号玩家和权游5-8的智障情怀党而已。"
+    },
+    {
+      "user": "Luna",
+      "avatar": "https://img3.doubanio.com/icon/u1184412-14.jpg",
+      "content": "The fuck... 本来也没什么太大期待，因为第二季已经够掉水准了，这一季简直就是拖沓，无聊，cliche，stereo type到极致了...我今天一天到底看了什么....今年出的续集，从GOT开始全线崩坏，只有Toy Story还算坚挺，简直看一部烂一部。"
+    },
+    {
+      "user": "Maxii",
+      "avatar": "https://img3.doubanio.com/icon/u3881947-2.jpg",
+      "content": "质量越来越下滑，苏联剧情搞得太傻比了吧。。。那么多苏联人出现在印第安纳？？！excuse me！！？美帝国主义抗苏神剧吗？？？怪奇物语不好好专注地讲讲奇幻的怪物，跑过来应掺和苏联的事干啥？？？再加上动不动角色开始就无脑咆哮，不明白这么多人打五星是哪里好了。。。这一季真的很失望。。。"
+    },
+    {
+      "user": "大使伯爵子",
+      "avatar": "https://img1.doubanio.com/icon/u51425915-7.jpg",
+      "content": "真心觉得第三季和前两季不是一个团队，首先节奏慢，各种尴尬搞笑完全不好笑，各种尴尬煽情完全不感动，演员动不动情绪爆发跟神经病一样。要不是后面几集怪物撑场，真的不敢相信这是stranger things。"
+    },
+    {
+      "user": "杀死金鱼",
+      "avatar": "https://img3.doubanio.com/icon/u76545433-2.jpg",
+      "content": "本有十分的热情，看完第六集只剩一半，前五集和最后三集是两部剧，严重怀疑是两个导演拍出来的，熬夜刷完，还是给了差评，失望，失望透顶。"
+    },
+    {
+      "user": "null",
+      "avatar": "https://img3.doubanio.com/icon/u2905324-35.jpg",
+      "content": "这一季的节奏怎么回事"
+    },
+    {
+      "user": "Angelene",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "刚补完巨人第三季来追怪奇第三季，顿时发觉无比幼稚、拖沓、套路化。同样的打怪，友情，少年，战斗，成长，勇敢，坚毅，热血，青春……竟可以如此无聊和缺乏逻辑。这不是我爱的怪奇。"
+    },
+    {
+      "user": "中文版",
+      "avatar": "https://img3.doubanio.com/icon/u36148707-6.jpg",
+      "content": "第2016个看过，不是那个美国人，霍珀可能被抓来了。"
+    },
+    {
+      "user": "LeungChanXXX",
+      "avatar": "https://img3.doubanio.com/icon/u48687824-52.jpg",
+      "content": "八小时几乎不停歇的精彩，依旧用诸多迷影致敬与流行文化元素去呈现八十年代最迷人的一面，角色继续多方行动解决危机，对怪物的塑造注入更多Body Horror元素（幽浮魔点+怪形）。最令人感动莫过于惊心动魄后以青春剧的基调收尾（如上一季的舞会），述说着各自的成长——不同的是，这个夏天不再只是亲吻、烟火与怪物，还有离别的眼泪与留下的信。"
+    },
+    {
+      "user": "陀螺凡达可",
+      "avatar": "https://img1.doubanio.com/icon/u45641610-29.jpg",
+      "content": "2 > 3 > 1"
+    },
+    {
+      "user": "Juno",
+      "avatar": "https://img3.doubanio.com/icon/u71881513-3.jpg",
+      "content": "很爱第一季，第二季能接受。但这一季水平只到了30%（第四集正常），剩下的70%都是老套、墨迹和尴尬。情感戏我的老天，节奏完全不对，每场戏每个人的表情都可以剪掉几秒。开头和全场的苏联黑，粗糙至极，升级打怪，最后时刻跳出来的救营，无时无刻的松懈，我给零分......季数越多越稀释"
+    },
+    {
+      "user": "卢贝尼",
+      "avatar": "https://img3.doubanio.com/icon/u55438282-6.jpg",
+      "content": "真的很失望。不能带脑子看，各处逻辑bug，设定bug，关键时候总是给你抖机灵，完全丧失了第一季的格调和节奏。剧情背景也是开始越铺越大，让人完全找不着调。中途一度迷失在各种角色的聒噪斗嘴中，最后还要硬核煽情一波就真很不耐烦了。（Dustin和女票唱歌那段瞬间让我魂穿《歌舞青春》片场..."
+    },
+    {
+      "user": "qwer191",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "为什么我觉得这季是系列最差呀！逻辑掉线。。"
+    },
+    {
+      "user": "般若多目",
+      "avatar": "https://img1.doubanio.com/icon/u3214496-27.jpg",
+      "content": "第一集观感就是特别想打男女主，亲亲亲个鬼啊，太腻了瞎了快。（好在之后有了MAX，不亲了:）这季怪物像怪形"
+    },
+    {
+      "user": "林子不能再拖稿",
+      "avatar": "https://img3.doubanio.com/icon/u36887455-23.jpg",
+      "content": "开头以为《切尔诺贝利》……"
+    },
+    {
+      "user": "光鲜组遗民",
+      "avatar": "https://img3.doubanio.com/icon/u61225173-13.jpg",
+      "content": "熬夜刷完了，我日了编剧的大血碧，拢共八集，后三集是什么玩意？中年男女朋友拌嘴戏狂拖剧情，警长强行祭天，女主超能力消失，化身知心大姐感化黑化比利，反抗大boss唤醒本我？各种老美意识形态宣传，两个10岁小孩潜入重兵把守的毛子基地，还全身而退，还指导别人又进了一次😊编剧厉害"
+    },
+    {
+      "user": "福罗呗",
+      "avatar": "https://img3.doubanio.com/icon/u153207413-1.jpg",
+      "content": "一整个俄国军队加一大堆科学家在美国地底下建了个庞大的基地这么扯的事情也能编出来？一只那么大的怪兽攻击人的时候竟然一只触手一只触手的上。女主能力值一直是个谜，最后竟然还...？四个小孩子在全副武装含有数百俄国军人的地下基地里穿梭自如甚至还能劫狱，甚至还能指引我的小伙伴回来继续溜达。非常刻意的丑化俄国人，把俄国人表现的凶残野蛮没有人性又喜欢脑袋缺根筋一样大笑。突然就联想到了国产抗日神剧呢。顺便说一下还有彩蛋，俄国人终于回自己的土地作死啦，呃...都在自己的土地上了，天寒地冻的，喂狗的时候考虑一下自家人好吗。"
+    },
+    {
+      "user": "阿V",
+      "avatar": "https://img3.doubanio.com/icon/u2745404-482.jpg",
+      "content": "普朗克常数：我也想有姓名😊"
+    },
+    {
+      "user": "次等水货",
+      "avatar": "https://img1.doubanio.com/icon/u42131499-18.jpg",
+      "content": "第三季还是很稳。1985年，可口可乐推出了“新可乐”，志在与百事可乐竞争，不料是场灾难，差点就搞垮自己。1985年，科幻电影《回到未来》上映，引发万人空巷式的观看，是当年北美票房总冠军。"
+    },
+    {
+      "user": "间客",
+      "avatar": "https://img3.doubanio.com/icon/u144253093-4.jpg",
+      "content": "老毛子:人在家中坐，锅从天上来，尼玛怪物又是我放出来的然后你们美国人拯救世界\n几个小主演发育太快，有点出戏，还有编剧能想出点新花样吗？小11操控几个玩具依旧会出鼻血，敢情这几季能力就不会长进的，第二季季终她可是“秒杀”了大Boos啊\n私心希望《怪奇物语》止步S3，审美疲劳了"
+    },
+    {
+      "user": "林檎Gabrielle",
+      "avatar": "https://img3.doubanio.com/icon/u144666252-32.jpg",
+      "content": "激动！！等了一年！"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "1＞2＞＞3，三季剧情衔接较好，人物成长也明显，然而下滑趋势明显。第一季的“异形+双峰”感仍保持，回归多线并行，但愈发直白流俗、淡而无味，开初的惊喜泯然众人矣。前几集废话连篇，宛如在拍校园青春片（孩子们毕竟长成少年，感觉本剧人设得适当调整），后几集如假包换丧尸片，打怪打得头晕眼花还不忘谈恋爱调剂，尤其成人组嘴炮简直能逼疯人，只想为俄语翻译这一段点赞：“无休无止的拌嘴开始还挺有意思，但现在毫无新鲜感了，所以你俩能不能别瞎扯了！饶了我吧，要么闭嘴别吵了，要么回家把衣服扯掉！”"
+    },
+    {
+      "user": "Helte",
+      "avatar": "https://img3.doubanio.com/icon/u74319847-1.jpg",
+      "content": "大数据下热点一锅炖，连镜头处理都一个套路，孩子们都已经长大，这个IP也彻底完结好了，别再出来溜粉了"
+    },
+    {
+      "user": "请我吃Mango",
+      "avatar": "https://img1.doubanio.com/icon/u141838088-117.jpg",
+      "content": "双峰style+怪兽系列……莫名好厌烦了？！！！背后的政治隐喻才是黑暗中的手吧！独立日儿童吊打共产主义幽灵~牛逼的哟"
+    },
+    {
+      "user": "橡皮鼓",
+      "avatar": "https://img1.doubanio.com/icon/u153286649-18.jpg",
+      "content": "6.5\n质量下滑也太太太太严重了!!除了主线打怪组，其他两条线都是什么jb？\n中年组:其实就是两个中年疯逼一路歇斯底里狂叫，我求你们俩赶紧回家做个爱然后闭嘴好吗？\n冰激凌组:这他妈难道不是抗苏神剧？\n只有el和will这两个小可怜支撑我看到最后。求求回到第一季快准狠的风格吧"
+    },
+    {
+      "user": "握不住的灵魂",
+      "avatar": "https://img1.doubanio.com/icon/u5498220-68.jpg",
+      "content": "有些对话真的听不下去，不过整体还是棒！看到天亮..."
+    },
+    {
+      "user": "文刀大土申",
+      "avatar": "https://img1.doubanio.com/icon/u88652488-7.jpg",
+      "content": "不知是不是对第二季有点记忆模糊了，这一季的笑点铺陈地很好，尤其毒舌又精明的小妹妹艾瑞卡的台词。多线叙事起效，整一季的节奏把控不错。一口气追完陷入了空虚…"
+    },
+    {
+      "user": "SPMK",
+      "avatar": "https://img1.doubanio.com/icon/u40073667-59.jpg",
+      "content": "不愧是全世界洗脑冠军，美利坚"
+    },
+    {
+      "user": "Niiii",
+      "avatar": "https://img1.doubanio.com/icon/u64190669-38.jpg",
+      "content": "结尾看起来警长可能没死呀，喜欢这个剧的地方在于每个小孩都能发挥作用，最后一集唱歌那里太可爱了"
+    },
+    {
+      "user": "糯木",
+      "avatar": "https://img1.doubanio.com/icon/u35711522-19.jpg",
+      "content": "水准在肉眼可见地滑坡，1>>2>>>3。这部剧当年横空出世，靠的基石就是①节奏、②氛围，③一点80年代情怀复刻。第二部前面两点基本keep住，但已开始给情怀让道，疯狂加塞80年代流行文化。到第三部连前面两点都被压缩了，为了照顾全员恋爱脑而节奏崩坏，小镇怪谈的氛围一哄而散转为青少年丧尸片，对80年代的复刻溢出屏幕甚至还复刻了冷战思维。但却无视了在新时代的语境下，全盘还原某种已经过时的意识形态依然只会让人感到过时，即使你打着复古的旗号。这比单纯流行文化的致敬要复杂很多，唯有夸一下主创的勇气了：为了给挚爱的80年代寄出这封情书而最终失去理智。"
+    },
+    {
+      "user": "null",
+      "avatar": "https://img1.doubanio.com/icon/u2458096-8.jpg",
+      "content": "节奏比第一二季还要差一些，往里塞了太多的青春期嘴炮和成年人假装青春期的嘴炮，拖延主线就比较无聊了。另外，强行黑苏联怪没意思的，而且都是低级黑，导致剧情有巨大的漏洞，虽然可以说是为了娱乐搞笑，但容易让人出戏。各扣一星，给三颗星吧。看了彩蛋还蛮期待第四季：《堪察加拟石食人蟹》"
+    },
+    {
+      "user": "蔕",
+      "avatar": "https://img3.doubanio.com/icon/u52458935-51.jpg",
+      "content": "剧情越来越无聊，拖沓，其实就是编剧编不出来了"
+    },
+    {
+      "user": "室内滂沱",
+      "avatar": "https://img3.doubanio.com/icon/u5812768-70.jpg",
+      "content": "成长就是一件stranger things，因为不再是前两季的哭天抹泪找孩子，这季整体变成主角安危无虞的动作喜剧，结尾笔锋一转这么处理也挺好。Shawn Levy导的那几集最棒，在人物人设已经建好的情况下把用力点全放在拍摄技法上，将每个人各自做的事情娴熟拼接成一个大事件的整体，动作剪辑和匹配镜头的教科书，想拍好动作片，反复学这季的前五集就行了。剧作简明、直接、有条理，在次要人物身上没多费一点笔墨，却一点也不显得角色功能化，第一集的苏西是个首尾呼应的明梗这点不新奇，厉害在梗后还有梗（口袋里的信）。作为资本主义标志的购物天堂下面是苏联国家机器在疯狂运转，更明显地隐喻了美国式生活对“来自另一个世界的怪物”的恐惧是对共产主义入侵的恐惧，同是旨在复刻八十年代文化，复刻当时动作片常见的主题，比上一季动不动就放劲歌来得更深层。4.5"
+    },
+    {
+      "user": "Morgan",
+      "avatar": "https://img3.doubanio.com/icon/u35859918-21.jpg",
+      "content": "网飞蜜汁品控，剧本依然注水。第一季的戏剧张力到底去哪里了？"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "前几集的剪辑真炫啊...网飞不容易，这么个奇幻剧拍到第三季还能保持住水准，除了继承了前两季的元素外，这一季加入的美苏冷战背景也不错，算是为这个系列“续命”找到了新的突破口，而且竟然还在苏联阵营中造出了两个特别美式的角色，一个是操着一口俄语毫无顾忌泄露机密的苏联工程师，一个是顶着一张施瓦辛格盗版脸的面瘫反派，前者不仅被优待归顺无果后还赢得了美国人的几滴热泪，后者虽然过关斩将酷炫了整部剧最后还是被小镇警探塞“回”了机器里。有趣。"
+    },
+    {
+      "user": "MojoEl",
+      "avatar": "https://img3.doubanio.com/icon/u173880113-2.jpg",
+      "content": "对bad things做好了充分的心理准备，但什么用都没有.\n最大的问题从来不是mind flayer或者evil Russian，最大的问题是grow apart和move on.\n才反应过来最后警长没给死亡镜头，而是直接消失，监狱里的美国人必是警长！！！今早转悲为喜哈哈哈哈哈哈哈哈"
+    },
+    {
+      "user": "虫咂",
+      "avatar": "https://img3.doubanio.com/icon/u70517284-22.jpg",
+      "content": "霍普比利死的毫无必要。这是最难看的一季，却也是评分最高的一季，做为老粉，看到自己喜欢的作品被更多人喜欢当然是开心的，可是总不能人云亦云吧？"
+    },
+    {
+      "user": "Alan",
+      "avatar": "https://img3.doubanio.com/icon/u2099122-11.jpg",
+      "content": "这季怪物太恶心了，恐怖程度也有上升。整体还是前两季熟悉的套路，分组通关打怪，最后关头汇合斗大boss。新人物都还算不错吧，可惜11这集真的不出彩了。最后一集真是又笑又哭啊。希望下一季玩出点新花样。"
+    },
+    {
+      "user": "怎么肥四",
+      "avatar": "https://img1.doubanio.com/icon/u25964959-18.jpg",
+      "content": "节奏崩成这样有事吗？？唱歌那段怎么回事？？？那么强硬的一个便当发得有意思嘛？？？"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "《赤色黎明》+《天外魔花》，苏维埃意识形态与逆世界肉体躯壳的双重入侵，在八零年代风韵的加持下同时解读新世纪的议题：每个人都走在独立、觉醒或重生的道路上，剔除了El这个杀器而让霍金斯的普通人保卫自己小镇的最后决战更是这一主题的最好诠释。那喋喋不休的爱的拌嘴固然令人生厌，但这何尝不是另一种Vintage？"
+    },
+    {
+      "user": "东湖废人",
+      "avatar": "https://img3.doubanio.com/icon/u53320609-5.jpg",
+      "content": "这季水平下滑严重，整体的感觉就是赶剧情，相比前两季主要人物几乎没有成长，编剧通过制造eleven和mike的cp并为eleven赋上女权主义的光环来讨好观众成功将这剧变成了一个平庸俗套的剧集。"
+    },
+    {
+      "user": "m",
+      "avatar": "https://img3.doubanio.com/icon/u47552098-50.jpg",
+      "content": "儿童科幻 第三季加入了冷战背景 不如前季 废话不少 漏洞很多"
+    },
+    {
+      "user": "Valentina",
+      "avatar": "https://img3.doubanio.com/icon/u1851885-32.jpg",
+      "content": "感觉像把第二季又看了一遍..."
+    },
+    {
+      "user": "五加皮",
+      "avatar": "https://img3.doubanio.com/icon/u98082359-1.jpg",
+      "content": "呃，反正每一季都是同一季，故事套路我要看吐了，一味复古那你还不如出个80年代版的Glee。唯一好感的就是新加的角色Erica。"
+    },
+    {
+      "user": "tabokie",
+      "avatar": "https://img3.doubanio.com/icon/u91872582-11.jpg",
+      "content": "复古感只剩调色和人物情景剧般可预测的行事逻辑，电感的悬疑气息几乎绝迹，隔绝猜疑的冷战被改编为虚构感十足的电游关卡，人物任务变多却顾此失彼，仍然是故事指代性框架感太强，丧失系列真味，最后的彩蛋是越来越向二战僵尸片发展了"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "《怪奇物语》剧集适合一口气看完，每一季剧本的框架都是在用电影剧本的写作方式在做，就像一部超长的电影，还有导演的迷影情结和具有一定辨识度的个人美学，真的比那些只是流水化的专业剧集高出了一个段位。站在一个全局的角度回味一下，好感度更高了。期待下一季！"
+    },
+    {
+      "user": "皮革业",
+      "avatar": "https://img3.doubanio.com/icon/u1264081-15.jpg",
+      "content": "还是太像用数据做出来的产品，情节始终在消费80年代流行文化，视觉也遵从了NWR引领的霓虹美学，嘉年华的场景还撞上了今年的US，可以说，原创成分已经越来越少了。"
+    },
+    {
+      "user": "sakula",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "油腻而且无聊，完全比不上前两季"
+    },
+    {
+      "user": "Castieal",
+      "avatar": "https://img1.doubanio.com/icon/u25000668-7.jpg",
+      "content": "第一次用四倍速，天亮一陣子了看到最後一集，還是沒能堅持完睡死過去了。把壞事安在本來就有點壞的比利身上，這樣的做法不太喜歡，更想看到讓警長或是媽媽/男女主角來幫摧心魔辦事。"
+    },
+    {
+      "user": "方小孬",
+      "avatar": "https://img3.doubanio.com/icon/u1713584-182.jpg",
+      "content": "这一季最大的问题不是家庭成员的感情分离？几个家庭，家长各自找答案，完全不管不担心孩子……？"
+    },
+    {
+      "user": "Hideo",
+      "avatar": "https://img1.doubanio.com/icon/u6296367-17.jpg",
+      "content": "作为有一定时间跨度的剧集，已经让观众们移情去关注角色们的成长已经算是成功了。但是此季作为一个单独的作品来看有些失败，用八集的篇幅讲了一个B级片般俗套的故事。没有给观众提供太多可供挖掘的内容，不论是深度还是立意都比不上剧情十分类似的《世界尽头》和《极度空间》。唯一能让此剧显得特别一点的地方只有尽力还原出来的八十年代氛围和流行文化一瞥。"
+    },
+    {
+      "user": "团小团",
+      "avatar": "https://img3.doubanio.com/icon/u46901014-4.jpg",
+      "content": "开始注水了"
+    },
+    {
+      "user": "猛虎嗅蔷薇",
+      "avatar": "https://img3.doubanio.com/icon/u90560685-2.jpg",
+      "content": "没那个味道了"
+    },
+    {
+      "user": "三生一Finn",
+      "avatar": "https://img3.doubanio.com/icon/u2839288-16.jpg",
+      "content": "感情戏和打怪都想看！！最喜欢患难见真情了！！（？）and好希望一直拍下去啊....\n715更新：慢慢悠悠看完了……哭成狗，这也太青春疼痛了！"
+    },
+    {
+      "user": "秋水文章🌈",
+      "avatar": "https://img3.doubanio.com/icon/u77169131-1.jpg",
+      "content": "差不多快消耗完我的热情了，不反对冷战思维，但也不能把俄国人当白痴啊。果然看来看去还是双峰厉害很多。"
+    },
+    {
+      "user": "willamette",
+      "avatar": "https://img3.doubanio.com/icon/u46003030-44.jpg",
+      "content": "这一季真的收了很多广告费吧。。。小朋友们长大了拍青春期戏可以理解，但一个个基本都成了看客和摆设，多线叙事追求复杂，可中年线烦得想快进。这剧也染上了众多美剧电影的坏毛病——关键时刻谈情说爱讲笑话..."
+    },
+    {
+      "user": "梅威斯",
+      "avatar": "https://img1.doubanio.com/icon/u1536207-99.jpg",
+      "content": "刚看了一集暂不评分吧…这和前两季还是一个剧？第一集也太水了，甚至不想再看下去…这剧前两季挺好看，但不至于好看到三季一开播就N多品牌蹭热点，甚至还建主题乐园的地步吧…"
+    },
+    {
+      "user": "陈灼",
+      "avatar": "https://img3.doubanio.com/icon/u1017379-76.jpg",
+      "content": "看了三集，节奏非常紧凑啊，很不错，感觉比第二季好。"
+    },
+    {
+      "user": "Stiles",
+      "avatar": "https://img3.doubanio.com/icon/u177394808-14.jpg",
+      "content": "STARCOURT简直美得不像话！！！各种致敬元素玩到嗨的同时画面设计越来越炫酷，多线叙事越来越精彩，怪物场面越来越过瘾。Mike又长帅了，秃鹰大叔又点鸳鸯谱了，小胖子的异地恋好可爱……但是为什么又死了我喜欢的角色我真的要心绞痛了。下一季千万要回归啊啊啊啊啊！！！！！(彩蛋应该是暗示没死吧！"
+    },
+    {
+      "user": "Sophie  Z",
+      "avatar": "https://img3.doubanio.com/icon/u2081801-91.jpg",
+      "content": "苏联人能如此规模地在美国小镇下部署一个实验室这件事比怪物本身还让我惊奇…想快进所有的teenage感情线，唯一有好感的是Robin和Steve被嗑药的那一段。80年代的复古潮其实蛮容易腻的，真不如十年后再拍下一季…"
+    },
+    {
+      "user": "聂隐",
+      "avatar": "https://img3.doubanio.com/icon/u53342237-45.jpg",
+      "content": "一口气刷完。太喜欢11跟mike了。剧情依旧每一集都很紧张刺激，蹦紧了心。 最后一集看哭啊。（我就知道Hopper不会死，11之后恢复了能力应该就会找到她的papa吧。）又要等一年半了啊喂！！！！！！！！！"
+    },
+    {
+      "user": "长袜子",
+      "avatar": "https://img3.doubanio.com/icon/u60158145-3.jpg",
+      "content": "节奏提神，只论爆点应该比第二季多。不过故事更加失望。上次争议极大的小十一个人集留下的姐妹线索居然在这季屁用都没有，可以说再次鞭尸第二季了。一如既往的兵分几路最后汇合套路到了第三季已经不存在惊喜了，只会让人觉得既视感严重外加中段散乱。四条线索，最喜欢冰淇淋小队，而罗宾更是取代11（第一季除外）成为我最喜欢的角色，但为了戏弄观众特意误导+反转未免对某男角色太惨了吧？“该死的C字头人士”“邪恶的俄罗斯人”…全季下来重复了几十次，怎么就不能学学隔壁神剧，描写核泄漏也没为了口头过瘾乱骂。也不要意图用故事年代背景作为借口了，既然能用新时代观念去为八十年代女性角色赋权，就不要还用过时的冷战思维接角色之口过嘴瘾。好奇未来的第四季是不是继续新瓶装旧酒，毕竟一路下来的高口碑肯定让主创觉得敷衍了事也能大爆。"
+    },
+    {
+      "user": "Edmund Firth",
+      "avatar": "https://img3.doubanio.com/icon/u144659224-1.jpg",
+      "content": "等了1年半了，一口气看完，怎么说呢，还是有点失望吧，剧情漏洞百出，好多地方都禁不起推敲，逻辑问题也很大。剧情发生的时间跨度很短，按理来说一个会和第二季一样紧凑但总感觉节奏有点迷，不太对。最后一集更是各种狗血桥段聚齐起来，集狗血大成的一集。不管怎样，还是喜欢怪奇物语和这一群小朋友的。结尾的彩蛋很炸裂，希望第四季能玩出一些新花样吧。"
+    },
+    {
+      "user": "理绪",
+      "avatar": "https://img1.doubanio.com/icon/u54141112-9.jpg",
+      "content": "怕是一季不如一季。"
+    },
+    {
+      "user": "二货云",
+      "avatar": "https://img1.doubanio.com/icon/u64011512-29.jpg",
+      "content": "三天刷完三季，如果说1是金，2是银，3就是连铜都不是的石头，彻底变质了，简直low到爆。老毛子小伙伴们突然长大变样了，整季都拿各个cp之间拌嘴合好凑集数，勇猛警长霍普突然就变身肥宅老父，被老毛子打的只能落荒而逃？“克夫”威尔妈妈磨磨唧唧却又不等霍普上来启动开关？没有第四季了，所以故意把霍普写死？最稀奇的莫过于老毛子军队+地下如此浩大工程，在一个人烟稀少的小镇，居然无人察觉？"
+    },
+    {
+      "user": "中华剑殇™",
+      "avatar": "https://img3.doubanio.com/icon/u64544380-2.jpg",
+      "content": "吃老本 情怀不能一直这样玩啊"
+    },
+    {
+      "user": "robertooo",
+      "avatar": "https://img1.doubanio.com/icon/u81134392-47.jpg",
+      "content": "八小时天外魔花 我太可以了 凌晨五点半打卡"
+    },
+    {
+      "user": "大颗粒水母",
+      "avatar": "https://img1.doubanio.com/icon/u142188265-18.jpg",
+      "content": "快进看完 还口以 孩子们都长大了 如果有第四季该怎么展开啊？"
+    },
+    {
+      "user": "MJØLK",
+      "avatar": "https://img3.doubanio.com/icon/u3226573-1101.jpg",
+      "content": "這一季更加強調女性的作用，無論是第一個解出蘇聯人密碼的冰淇淋店小妹，還是第一個察覺磁力異常的媽媽，都非常勇敢而且智慧。而一一也不再想做麥可百依百順的小寶貝，甚至出現了分手的戲碼，體現了女性的獨立意識（不用為男人或取悅男人而活著）。另外從最後一幕蘇聯囚房出現的「不是那個美國人」，我懷疑霍普並沒有死。"
+    },
+    {
+      "user": "影人疯",
+      "avatar": "https://img3.doubanio.com/icon/u148059286-32.jpg",
+      "content": "脑残粉报道，从第一季追到第三季。暑假除了空调、哈根达斯，还有《Stranger Things》陪着我。"
+    },
+    {
+      "user": "反人主义虔诚者",
+      "avatar": "https://img3.doubanio.com/icon/u97902590-6.jpg",
+      "content": "个人观感：好拖 好无聊。唯一看点是直男Steve和姬女Robin之间的友情。Jim挂的时候，只为Will他妈惋惜。Will依旧单身，差评。总的来说就是，人设有有趣的，但故事真的寡淡就是那种看完就忘的感觉，这样一对比第二季都没那么无聊了的感觉。开头几集还进展那么慢，高潮感觉就像没，Billy觉醒时居然有那么一丝丝想翻白眼。"
+    },
+    {
+      "user": "Mr李",
+      "avatar": "https://img3.doubanio.com/icon/u173374608-1.jpg",
+      "content": "我再也看不懂了，可能是心境变了吧。"
+    },
+    {
+      "user": "姜小白",
+      "avatar": "https://img3.doubanio.com/icon/u42844970-316.jpg",
+      "content": "这行云流水的节奏，骚气腾腾的BGM，神秘却不惊悚的氛围，Trump在医院尸变一点不吓人还很搞笑。上一季就看好Erica，终于入队nerd family，跟Justin很配。经常为社交网上男女互相仇视而感到遗憾，突然被小朋友们的感情治愈到了，“boyfriend lie（all the time)and girlfriend spy”，好笑又治愈，感情戏不输《怦然心动》。剧里的成年人都有点儿孩子气，因此整体氛围特别可爱。Eleven的talent就是5G？随时联网，电视冰箱收音机都行。"
+    },
+    {
+      "user": "荒淫少女朴赞郁",
+      "avatar": "https://img3.doubanio.com/icon/u2359245-34.jpg",
+      "content": "好好看！牺牲了两个晚上的养生觉！值得的"
+    },
+    {
+      "user": "Herring",
+      "avatar": "https://img1.doubanio.com/icon/u46894371-18.jpg",
+      "content": "3.5/第一季无法超越，第二季表现尚可，这一季吗emmmm可爱的那些点，怀旧复古，小11和小伙伴，亲情和友情还有爱情都还在，就是没了之前剧集带来的新鲜感/节奏还好，前四集铺垫紧凑，后面就有点撒了疯似地胡乱来了，俄罗斯人，生物药水，游乐场，shopping mall元素太多有点杂乱无章。一口气看完居然还留个第四季的引子，也不知道这次网飞要我们等几年。"
+    },
+    {
+      "user": "粟冰箱",
+      "avatar": "https://img3.doubanio.com/icon/u42755936-21.jpg",
+      "content": "这是少年们的夏日历险。如果一切都只是一场梦，那么世界也可以旋转成热夜里的美妙嘉年华。然而啊，夏天更是告别的季节，那些深爱过的、珍藏过的，如果不能带走，那最好以泪封笺。"
+    },
+    {
+      "user": "这货是牛奶",
+      "avatar": "https://img3.doubanio.com/icon/u40357733-13.jpg",
+      "content": "还是喜欢前两季末日和冷战背景若隐若现的感觉。续集编剧越来越明目张胆，口味也越来越重简直要成生化危机了"
+    },
+    {
+      "user": "装逼富",
+      "avatar": "https://img1.doubanio.com/icon/u68333655-17.jpg",
+      "content": "对第二季的全面升级，把第二季挖的坑都填掉并明朗了其承上启下的作用，剧情更加紧凑。继承前作的卖点和设定，群像刻画和OST一如既往出色。重点突出孩子们的成长为青少年，感情描写明显增多。走出了旧有套路，尤其是大人不再是单纯的babysitter而是有自己独立的故事线，跟孩子们一起成长并完善人设。不顾忌提及性、平权、伦理和体制等敏感话题，甚至还会玩起了隐喻。反派也比前作较为多元化。总的来说这季还是相当优秀的。最喜欢警长，丑角、硬汉、慈祥老父亲的各种切换，当之无愧的主角。大结局比前七集长，相当催泪，但有彩蛋抚慰。"
+    },
+    {
+      "user": "YthguaN",
+      "avatar": "https://img1.doubanio.com/icon/u53644977-17.jpg",
+      "content": "不负两年期待 幼年青年成年三组线索又开始齐头并进 刺激冒险的同时还有欢快的喜剧元素 怀旧和致敬年代元素 女性角色各个睿智敏捷强力输出 新角色和老队友共迎大敌 8集克苏鲁都能在这个应景的阴雨周末大快朵颐 不打五星真的说得过去吗 "
+    },
+    {
+      "user": "葱星人",
+      "avatar": "https://img1.doubanio.com/icon/u52598445-9.jpg",
+      "content": "一天看完了第三季，感觉缺少了很多之前的悬疑元素，更像一部加长版小鬼当家。中间睡着了好几次。剧情就更牵强了，俄罗斯军方登陆美国大陆建造了一个军事基地，被一个小镇的警官一举歼灭。不过我也并不是挑剔剧情，毕竟没什么比这个怪物更让人觉得难以置信的了。只是这一季实在让人提不起兴趣了。我估计不会再有下一季"
+    },
+    {
+      "user": "庄草草",
+      "avatar": "https://img3.doubanio.com/icon/u41038510-72.jpg",
+      "content": "有什么能比“你刚刚拯救了世界”更动人的表白？“我更想你，乘以全银河系所有的恒星。”达斯汀宝宝唱歌那段真的太浪漫了，最后的《Heroes》太感人了，太好了这一季。"
+    },
+    {
+      "user": "押沙龙",
+      "avatar": "https://img1.doubanio.com/icon/u3154083-78.jpg",
+      "content": "Erica 666............................"
+    },
+    {
+      "user": "傅执南",
+      "avatar": "https://img3.doubanio.com/icon/u131065452-10.jpg",
+      "content": "真的很适合大夏天看的剧！角色们也一直黏糊糊汗津津的，满满的summer感都快溢出屏幕了。\n依旧是熟悉的n线叙事，最后交汇在一起（虽然比起第一季无论是拆线还是合线都有点生硬不自然）。不过故事是其次，剧集最招人喜欢的果然还是浓浓的上世纪复古风。大多优秀的作品，人物越苦大仇深越有层次感越好。但这部剧人物可以尽可能地一根筋，最大程度放大某个特质，反而别有80年代的风味。s3最出彩的应该是飞机头新组的冰淇淋cp吧，印象最深的感情戏就是厕所告白。其实s2除了小十一也是飞机头最讨我喜。相对这次小十一的戏份就少了很多，几乎沦为背景板。怀念s2大背头的惊艳。\n另外想提下可能因为人气颇高新加入主角团的小黑妹，戏份变多反而显得刻意而失去了以前的点睛感，之前昙花一现的小大人毒舌吐槽真是精准戳中我的笑点。"
+    },
+    {
+      "user": "痴子望知了",
+      "avatar": "https://img3.doubanio.com/icon/u59273339-13.jpg",
+      "content": "old fashion American soap opera "
+    },
+    {
+      "user": "巽",
+      "avatar": "https://img3.doubanio.com/icon/u2072047-230.jpg",
+      "content": "盛夏吃满满一大桶坚果海盐巧克力冰淇淋的幸福感"
+    },
+    {
+      "user": "mOco",
+      "avatar": "https://img3.doubanio.com/icon/u2290115-320.jpg",
+      "content": "小朋友们手撕苏联鬼子拯救世界系列，反正都已经很扯了，索性就任性到底（Dustin和Susie电台隔空对唱浪漫死了）。这一季幼青中三条感情线为主，Will和El总有些怪怪的（大概是觉得什么人都配不上El），倒是青年组现实到令人感动。ps：Dustin和Susie教科书般浪漫担当，Steve和Robin刻意避免俗套也算是挺好。pps：Hopper老父亲的信太让人心碎。"
+    },
+    {
+      "user": "哪 吒",
+      "avatar": "https://img3.doubanio.com/icon/u1209738-44.jpg",
+      "content": "依旧是老中青各打各的副本，共战鸭脖怪。老中青同样面临恋爱的烦恼、不约而同打起粉红色嘴炮。girls’ power、LGBT也算是与时俱进。新加入的角色也是nerd气息实足，最喜欢Robin、Steve无牙仔分队，无线电K歌最高潮！把主战场设置在shopping mall，电影院、冰淇淋、夏日游泳池、国庆游乐场、迷幻剂、新式可口可乐、回到未来，连苏共都黑出美式特色。地下室狂鼠、老太婆吃肥料、活死人聚集废弃钢厂共筑鸭脖怪简直是老金附体！唯独可惜的是儿童冒险喜剧的新定位，使苏联秘密基地过于儿戏，有些显而易见的漏洞难以忽略，但依旧是整个夏天的期待！"
+    },
+    {
+      "user": "Eleanor D.",
+      "avatar": "https://img3.doubanio.com/icon/u98862405-4.jpg",
+      "content": "越拍越好了"
+    },
+    {
+      "user": "Louis_YY",
+      "avatar": "https://img3.doubanio.com/icon/u69100954-1.jpg",
+      "content": "比一二季更精彩，一个个小团体分头行动到最后又聚到一起，可惜结局有点伤感。第三季的剪辑，音乐，配色，剧情都出乎意料的棒"
+    },
+    {
+      "user": "恃南林以司",
+      "avatar": "https://img1.doubanio.com/icon/u133824715-17.jpg",
+      "content": "比起前二季，这是啥？"
+    },
+    {
+      "user": "连城叁月",
+      "avatar": "https://img3.doubanio.com/icon/u40067511-4.jpg",
+      "content": "再无第一季的神秘感，本以为这个剧有希望发展成克苏鲁风格，可结果却还是b级片的怪兽格局。第三季里各角色组cp的情感关系让剧情有朝着向家庭肥皂剧发展的趋势，借着冷战背景搞意识形态对立，把一众苏联士兵塑造成被小屁孩耍得团团转的蠢货。这究竟是惊悚剧还是喜剧？最后的怪兽boss更是雷神大雨点小，被几个炮仗打到半死。"
+    },
+    {
+      "user": "啊啊啊啊啊噗",
+      "avatar": "https://img3.doubanio.com/icon/u90155456-21.jpg",
+      "content": "操警长他娘的死了？！第四季不看了，这季啰里啰嗦剧情emmmmmm\n越想越气再扣一分"
+    },
+    {
+      "user": "|",
+      "avatar": "https://img1.doubanio.com/icon/u135816483-18.jpg",
+      "content": "节奏一如既往要夸下(隔壁西安24h 学习下在强悬念下铺线的正确做法 再来谈美剧感) 前几集相对本片一贯的水准是很无聊地铺线索来着但也能让人一口气看完 多线的紧张感和衔接都还行 但是！！尼玛怪兽这么弱还变成丧尸片了合适吗！大半剧情都在苏美争霸加谈恋爱合适吗！为了探长领便当铺垫了那么多神经病戏合适吗!我要看小孩儿和村民又简陋又奇思妙想的打怪！妈妈在家挂彩灯连接两个世界那种！这季只剩焰火炸怪兽有点意思！求你们别再拍续集了！！"
+    },
+    {
+      "user": "雨宫萤",
+      "avatar": "https://img3.doubanio.com/icon/u1150428-1.jpg",
+      "content": "不如前两季好看了。进入怪兽升级再打怪模式。怪兽进化成液态，可以无障碍前行，还可以总分总，太恶心了。警察是不是没死？最后俄狱警说“不是那个美国人”。但他在众多美国警察包围下怎么被俄国人抓走的是个谜。"
+    },
+    {
+      "user": "SixAlien3",
+      "avatar": "https://img3.doubanio.com/icon/u2636289-2.jpg",
+      "content": "。。。不该拍的"
+    },
+    {
+      "user": "Torrilla",
+      "avatar": "https://img3.doubanio.com/icon/u52071601-3.jpg",
+      "content": "弃。"
+    },
+    {
+      "user": "Z",
+      "avatar": "https://img3.doubanio.com/icon/u52081497-6.jpg",
+      "content": "缩成一部一个半小时的电影正好，还是那种让人忍不住快进的爆米花电影。第一季的怪奇到了第三季剩下了什么呢？大BOSS都是个鼻涕状的傻大个罢了。"
+    },
+    {
+      "user": "爆米花教主",
+      "avatar": "https://img3.doubanio.com/icon/u64213791-15.jpg",
+      "content": "怀念第一季的三线结构，怀念四小只并肩作战，为了注水强加角色真是够了，国产剧的注水方式是谈恋爱加撕逼，美剧的注水方式是增加角色"
+    },
+    {
+      "user": "乌鸡鲅鱼",
+      "avatar": "https://img3.doubanio.com/icon/u87824435-5.jpg",
+      "content": "失望啊，前几集感情戏这么多我都忍了，没想到大结局还搞那么多感情戏，警察和威尔妈从头吵到尾，吵得我太阳穴疼，最后一集苏西和小胖子居然还有时间唱歌我也是醉了，还唱一整首！！！真的不是拖时间吗？？？（苏西很可爱，没有针对她的意思）编剧在想什么？警察打架戏也太多了吧，这又不是动作片！黑苏联我懂，科学家和门卫也太尬黑了吧，我以为我在看南韩都教授的代表作，最后居然是关了门就行，这逻辑？？上一季关了门，漏网之鱼还能蹦跶，这一季这么大一坨关门就没事了？最最无语的就是怪兽控制了这么多人居然只是养着等待融合，我以为起码是寄生兽的剧情，这也太小儿科了吧，难怪这怪兽活不过8集，智商不行啊。彩蛋苏联的怪兽居然是灰色人形，难道是俄罗斯太冷被冻白了？估计下一季会继续黑苏联吧。PS:警察最好是死了，下一季再复活真的劝退。"
+    },
+    {
+      "user": "三七",
+      "avatar": "https://img1.doubanio.com/icon/u1938235-257.jpg",
+      "content": "还是不爱看青春期恋爱的戏份，跟Will一样心情复杂。这季的角色塑造都很到位特别是the girl team，三条线的节奏紧凑，苏联背景显得很儿戏但是冰激凌小队的可爱可以战胜一切！"
+    },
+    {
+      "user": "一棵花生",
+      "avatar": "https://img1.doubanio.com/icon/u36775297-68.jpg",
+      "content": "完全不惊喜…中间还一直政治正确"
+    },
+    {
+      "user": "queserasera",
+      "avatar": "https://img3.doubanio.com/icon/u91543095-34.jpg",
+      "content": "出现了想要快进的片段 前两季没有过。 "
+    },
+    {
+      "user": "图图",
+      "avatar": "https://img3.doubanio.com/icon/u41557946-6.jpg",
+      "content": "很一般了！！！"
+    },
+    {
+      "user": "鱼没有脚印",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "演技下降了啊 看得出在刻意表演 剧情比起前面也差远了"
+    },
+    {
+      "user": "Lalmirch",
+      "avatar": "https://img3.doubanio.com/icon/u53494761-74.jpg",
+      "content": "只有这个剧我要熬夜看😂"
+    },
+    {
+      "user": "Thor(in)Asgard",
+      "avatar": "https://img3.doubanio.com/icon/u1256697-74.jpg",
+      "content": "我看到怪物出现：哇好大一滩湿垃圾！"
+    },
+    {
+      "user": "柯东侦探",
+      "avatar": "https://img3.doubanio.com/icon/u49013117-1.jpg",
+      "content": "还有什么比暑假宅在屋子里两倍速看完怪奇物语第三季更酸爽的事吗？。。不过看完之后觉得要是小时候暑假在家和小伙伴边吃零食边看会更快乐吧~~     最后真的要再次吐槽。。美国人对怪物的想象力真的。。没想象力，咱能不能别老是走恶心的异形丧尸风！（這幾個月一直看上個世紀大師電影養生……集中時間灌點精神快餐真過癮……）"
+    },
+    {
+      "user": "茗嫣",
+      "avatar": "https://img3.doubanio.com/icon/u46188146-5.jpg",
+      "content": "整部剧有点逻辑好吗？前两季的编剧和导演都被怪兽吸走了吗？"
+    },
+    {
+      "user": "夏骡子",
+      "avatar": "https://img3.doubanio.com/icon/u97365780-4.jpg",
+      "content": "看第三季之前：这剧不管烂成什么样我都能看十季 看第三季之后：他妈的 没想到这么烂，看五季算了。故事线乱七八糟，剧情莫名其妙，节奏也远没有前两季好。原以为我最喜欢的是看这群小孩打怪，现在才发现我最喜欢的是霍珀大叔打怪，哪个小孩没了我都能接受，霍珀没了不行！天杀的编剧！"
+    },
+    {
+      "user": "W",
+      "avatar": "https://img3.doubanio.com/icon/u65041138-23.jpg",
+      "content": "中老年组一直逼逼逼逼逼逼逼吵个没完没了"
+    },
+    {
+      "user": "K.Rmos",
+      "avatar": "https://img3.doubanio.com/icon/u186766466-1.jpg",
+      "content": "退步太明显，这部极低质量，我要睡觉去了"
+    },
+    {
+      "user": "欲盛",
+      "avatar": "https://img1.doubanio.com/icon/u4521076-57.jpg",
+      "content": "阿列克谢QAQ；感情线棒; 达斯汀和小女友对唱笑喷：)"
+    },
+    {
+      "user": "Springman",
+      "avatar": "https://img1.doubanio.com/icon/u2374847-139.jpg",
+      "content": "第三季水准整体还是在线，三层感情和张力不用多说，几个小瑕疵也可以忽略。这一季警长和无牙很亮眼，11和Mike的故事线也增加了11的人物深度，不过不得不说，童星一旦长大就会失宠这个真香定律，上一季的Will在这一季镜头少得可怜。期待第四季新的故事。"
+    },
+    {
+      "user": "PEY!",
+      "avatar": "https://img3.doubanio.com/icon/u66957428-94.jpg",
+      "content": "感情线好垃圾且没必要，整篇就像讨好粉丝的同人。故事线同上季没有新意，已经陷入黔驴技穷状态循环自我。台词也写得很懒，你确定这还是八十年代？"
+    },
+    {
+      "user": "不死者",
+      "avatar": "https://img3.doubanio.com/icon/u180070658-4.jpg",
+      "content": "唉，严重滑坡，《怪奇》系列也要跌下神坛了？\n\n感情戏泛滥，泛滥到不分场合不合时宜地煽情，拌嘴吵架也可以砍掉很多，will妈和霍普互相咆哮的桥段吵的我神经衰弱……\n剧情也严重注水，“夺心”这个点可以玩出花来结果只是养猪，剧情从第五集开始就几乎没有了。美苏冷战这条线的引入挺失败的，格局架设得这么大编剧根本驾驭不住，反派和苏联军队总是智商不在线，而主角们也想不出什么妙计了，永远是小11mvp。\n个人觉得编剧需要花点时间好好推敲一下剧本，实在没必要赶着催着一年一季\n\n（ps:Will取代了小11变成了全季最美的了，端庄的坐姿比妹子们还养眼呢）\n"
+    },
+    {
+      "user": "llxx8023",
+      "avatar": "https://img1.doubanio.com/icon/u1191238-19.jpg",
+      "content": "这个夏天的礼物，超喜欢！"
+    },
+    {
+      "user": "一刀捅死齐达内",
+      "avatar": "https://img3.doubanio.com/icon/u171116422-1.jpg",
+      "content": "第三季感觉就是在看一遍第二季……剧情没有实质性发展，前面几集节奏拖沓，废话太多…演员们长大了演技确实很生硬，特别是mike。本季完全没有前两季那么惊艳了。看着结尾还会有第四季，真的没必要再拍下去。"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "冰淇淋店地下苏联基地密码揭秘，欢乐屋大战斯拉夫山寨阿诺德终结者，The Thing融尸生化合体巨兽，三英寸门缝的道别信……儿戏、悲壮和重口味共存，不过开始谈恋爱后确实没有小屁孩拯救地球的那种乐趣了"
+    },
+    {
+      "user": "克小强",
+      "avatar": "https://img3.doubanio.com/icon/u1806011-284.jpg",
+      "content": "超级无聊的剧情节奏适合大发超级无聊的时间。"
+    },
+    {
+      "user": "岬",
+      "avatar": "https://img3.doubanio.com/icon/u1745245-721.jpg",
+      "content": "不太行啊这季既没惊吓也没多少惊喜。要不是Dustin和Suzie在大气电波中（和一个银河系的无语中）情歌对唱了一分钟，只能给三星。"
+    },
+    {
+      "user": "CharlesChou",
+      "avatar": "https://img1.doubanio.com/icon/u55862575-149.jpg",
+      "content": "滑坡严重的一季，cuz it's love love love love love（唱"
+    },
+    {
+      "user": "熊仔俠",
+      "avatar": "https://img1.doubanio.com/icon/u3559650-68.jpg",
+      "content": "蘇西沒聯繫上，結果聽到蘇聯密電。結果，蘇制阿諾舒華哈密瓜飾演的終結者華麗登場。這一季致敬Red Dawn的地方就更多了。期待第四季。"
+    },
+    {
+      "user": "西帕克",
+      "avatar": "https://img3.doubanio.com/icon/u49097402-173.jpg",
+      "content": "一曲美国文化的赞歌！"
+    },
+    {
+      "user": "BY",
+      "avatar": "https://img1.doubanio.com/icon/u1553687-39.jpg",
+      "content": "复古趣味赏味期过去，昭然若揭的本质是各种过时，桥段、视听、世界观…"
+    },
+    {
+      "user": "三童",
+      "avatar": "https://img3.doubanio.com/icon/u2335658-64.jpg",
+      "content": "美国人真的是怕苏联啊，现在还有后遗症。像是重看了一遍第二季，没什么新意，就是打怪兽的套路。"
+    },
+    {
+      "user": "早餐店老板娘",
+      "avatar": "https://img3.doubanio.com/icon/u71097435-13.jpg",
+      "content": "失望... 起码有3集无聊至极。看在多线battle的份上，给多一星。"
+    },
+    {
+      "user": "燕爷",
+      "avatar": "https://img3.doubanio.com/icon/u1046793-16.jpg",
+      "content": "孩子们都很好。最喜欢的一幕是肥仔跟苏西隔空合唱，大怪兽在后面紧追不已，太刺激了"
+    },
+    {
+      "user": "OreoOlymLee",
+      "avatar": "https://img3.doubanio.com/icon/u136593943-56.jpg",
+      "content": "Porn of 80s'. 结局比较感人。但八十年代元素不再是过眼云烟般的点缀，冷战、怪兽和核辐射阴霾已经实体化为可见的威胁，同时也更加二元对立，牺牲氛围构建转而制造更加激烈（而B级）的场面，似是给“续写”寻找简易的出口。对传统小镇的冲击来自于更资本化的方式，苏联基地却被安排在该商场之下，政客-资本-外敌-异形的剧作逻辑同时也各自对应四组角色的行为逻辑。对系列本身的改变则是取消小十一的主体性，由保护者向被保护者的转向。再指望本剧求变似乎不再可能，也许自己持续看它只是为了追溯美好的八十年代。从凝结时光的一面来看，它也的确是悲悯的。"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "4.0。"
+    },
+    {
+      "user": "王食欲",
+      "avatar": "https://img1.doubanio.com/icon/u53452905-47.jpg",
+      "content": "史蒂夫再次失恋💔"
+    },
+    {
+      "user": "解High人",
+      "avatar": "https://img3.doubanio.com/icon/u120175485-2.jpg",
+      "content": "比前两季差太多太多了。是天太热的原因吗所有角色都急躁得仿佛得了狂躁症，除Will以外全员恋爱脑生死关头了也要斗嘴表白甚至唱歌？节奏乱七八糟，剧情也完全在为下一季拖着，没加入一点新的走向和设定，把之前好不容易关上的缝再搞开也太偷懒糊弄了吧？上一季就应该剧终完事。"
+    },
+    {
+      "user": "要丸",
+      "avatar": "https://img3.doubanio.com/icon/u127632179-5.jpg",
+      "content": "小时候的夏天看着《行尸走肉》爱上了美剧，现在的夏天有《怪奇物语》让我知道什么是真正好看的电视剧，真好啊，不知道以后的夏天会是怎么样的呢\n这一季还是一如既往的好看，不过说实话编剧已经放飞自我开始胡乱编了，老毛子的加入是又要再次扩大版图吗?希望不要没完没了，免得像《行尸走肉》一样越拍越烂。"
+    },
+    {
+      "user": "Ricky",
+      "avatar": "https://img3.doubanio.com/icon/u41548655-26.jpg",
+      "content": "每个人都在忙着发春，导演在忙着扎刀子，只有will在关心正经事儿...I mean D&D... no I mean Peter tingle...改叫恋爱物语得了。分线推进时候汇总还是很帅的，El小天使太惨了。天下父母心啊。最后一集帅的。打平第二季。It's about moving on."
+    },
+    {
+      "user": "无非",
+      "avatar": "https://img3.doubanio.com/icon/u1473794-234.jpg",
+      "content": "虽然噱头很多，但没有前两季精彩，各种情节特别爆米花，一点思考的内涵和深度都没有，完全就是为了拍而拍。"
+    },
+    {
+      "user": "WilliamOsborne",
+      "avatar": "https://img3.doubanio.com/icon/u157548945-2.jpg",
+      "content": "不同小队不同的线，结尾集合收线。一些角色本季降低了存在感只有一些无关痛痒的戏份，最后彩蛋预示还有下一季(其实可以完结了，没必要拍了)\n吐槽:薇诺娜全剧克夫"
+    },
+    {
+      "user": "吃柠檬不吐皮",
+      "avatar": "https://img1.doubanio.com/icon/u142316543-19.jpg",
+      "content": "熬夜看完，等待第四季"
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "水戏多，要不了八集就可以讲完的"
+    },
+    {
+      "user": "孤岛影者",
+      "avatar": "https://img1.doubanio.com/icon/u153625938-7.jpg",
+      "content": "三星半↑。海报明显一季比一季飞，内容则相反一季比一季稳。在80年代中加入苏联元素，结合时代同时铺大格局。在第二季人设基础上进一步深入：小11角色变化配合年龄成长，用第二季最没有铺展的角色来“黑化”（但只能说有想法而执行差），用第二季“洗白”的人来提供虐心（剧中几处虐心都代入感极强）。\n全季更为话痨，但前半季重拾首季的悬念感，因此更喜欢前半季的节奏，而不喜后半季的喜剧化——更像多线叙事里单线剧情不足的强撑，也导致结局没那么有力，也因此对我来说：第四集更像是一个高潮。某角色致敬了故事线刚上映一年的《终结者》，第六集结尾更是在套路致敬中令人发渗。但有些坑还是只字未提丢给第四季，也算是让观众为第四季留个坑吧。总结：如何堆砌套路又玩得新颖是门学问，如何平衡多线又让角色不显多余是个问题。"
+    },
+    {
+      "user": "呵呵呵",
+      "avatar": "https://img3.doubanio.com/icon/u178078528-3.jpg",
+      "content": "比不上前两季"
+    },
+    {
+      "user": "樂啊樂",
+      "avatar": "https://img1.doubanio.com/icon/u144896651-18.jpg",
+      "content": "说实话，还真没有前两季好看了，没有第一季的悬疑感，第二季的科幻感，这一季的分线比较散，不是特别集中，悬疑点在第三才渐渐出来，这一季的重点更加放在剧中的cp的感情与笑点上了。"
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "八十年代元素玩得比沙东菏泽曹县还666，致敬了一刚！片末彩蛋竟然爆出彼岸岛就在勘察加，震惊"
+    },
+    {
+      "user": "蚊多多",
+      "avatar": "https://img1.doubanio.com/icon/u35496190-1778.jpg",
+      "content": "为什么不能对steve好一点呜呜呜(ಥ_ಥ)大伙儿果不其然长残率80%了...Max还是橘色小可爱！最后一集免不了哭了(；д；)"
+    },
+    {
+      "user": "月关",
+      "avatar": "https://img3.doubanio.com/icon/u4712241-31.jpg",
+      "content": "这么多老毛子是打地洞来的吗"
+    },
+    {
+      "user": "犇赑猋靐矗麤毳",
+      "avatar": "https://img3.doubanio.com/icon/u44824245-3.jpg",
+      "content": "中间无用的吵架感情线不停的按快进，大人的戏请缩减到1%好吗？"
+    },
+    {
+      "user": "放开那个浪味仙",
+      "avatar": "https://img3.doubanio.com/icon/u2014360-183.jpg",
+      "content": "前些天还和朋友说怪奇物语越来越套路，可能看不下去了…然后我就真香了。主线打怪，副业谈恋爱。几组人物线基本割裂开来，所以最后的大战显得有点刻意。细节彩蛋和年代还原依旧很优秀。喜欢新入局的Robin，警长给El的信泪目。"
+    },
+    {
+      "user": "二丁目艺仔",
+      "avatar": "https://img3.doubanio.com/icon/u42136258-31.jpg",
+      "content": "一季不如一季。已经喜欢teenager组胜过少儿组了（少儿吻戏引发生理不适），神勇lesbian和傻白甜直男最喜欢了。求别再虐will妈妈了她做错了什么。"
+    },
+    {
+      "user": "soperklura",
+      "avatar": "https://img3.doubanio.com/icon/u155682455-10.jpg",
+      "content": "嘤嘤嘤好看！！！！一如既往！！！！Now can i play D&D? 为什么总要死掉妈妈的心上人…！！！\r五味杂陈。"
+    },
+    {
+      "user": "柯里昂阁下",
+      "avatar": "https://img3.doubanio.com/icon/u96758842-2.jpg",
+      "content": "忘记了前两季的内容，单独第三季来看，在流畅度和技巧性方面借鉴了相当多的恐怖片元素，商业视角上的可看性增强。略显尴尬的是过于刻意消费、营造笑料和强扭的情感，愈来愈感觉后期的《怪奇物语》会走上边打怪升级边谈情说爱的道路。"
+    },
+    {
+      "user": "窥窗桃枝",
+      "avatar": "https://img3.doubanio.com/icon/u3497932-44.jpg",
+      "content": "好久没有刷一部剧到停不下来的节奏，中间六集是一口气看完的，多线程的把控和人物群像都超赞，就算我没看过多少美国老电影都可以依稀get和回忆起一些小时候接触过的美国流行文化，喜欢过上一季。"
+    },
+    {
+      "user": "老罗Lazzaro",
+      "avatar": "https://img1.doubanio.com/icon/u52337061-7.jpg",
+      "content": "多线推进，扩展混入谍战和意识形态，惊悚程度加重，格局越搞越大，可看度不及S1&S2。不少迷影致敬，配色舒服。E1 Hopper为小11操碎了心。E4夺心怪残余真容初现。E5杀手简直就是终结者加身，扔枪太逗。小孩们能一路避过这么多苏联人进到核心机房有点扯。E6一开始差点以为Hopper突然变蠢，Erica很酷啊。夺心怪原来是分裂繁殖。E7小11帅。E8 R.I.P. Hopper，立flag：衔接彩蛋暗示了他一定没死。"
+    },
+    {
+      "user": "Dragmedown",
+      "avatar": "https://img3.doubanio.com/icon/u2256841-151.jpg",
+      "content": "die in ur arms和 never ending story好听诶！dustin和suzie唱歌那段xswl哈哈哈哈 还有无语的两个等着密码的大人~ 小11在商场二楼横空用念力举起汽车那段帅爆了燃爆了！和max在商场购物那段也很可爱诶 max说 Life is bigger than stupid boys哈哈哈哈 uma thurman的女儿挺好看的~ 不过没有uma的脸那么有记忆点~ 最后老爹写给11的信 我看得眼睛酸酸的 老父亲的心啊~ 忘不了每一季11都会软软地叫mike的名字 最后一集的吻也是 演技太细腻了啊喂 前途不可限量 （btw ep5 黏糊糊的怪物在地上爬的时候  我正在往脸上抹fresh的黑茶面膜……代入感一下就有了！"
+    },
+    {
+      "user": "洛伦兹不变换",
+      "avatar": "https://img1.doubanio.com/icon/u81769237-9.jpg",
+      "content": "3.5。这个系列拍到第三季，也终究无可避免地疲软下来了。尽管整体而言仍旧算得上好看，但是招数用老，第一季的绝佳氛围开始慢慢淡化，剧情逻辑也漏洞渐生，不突破这种模式的话，很难想象下一季会有令人惊喜的展开。"
+    },
+    {
+      "user": "◣東京浮春◢",
+      "avatar": "https://img3.doubanio.com/icon/u2255635-235.jpg",
+      "content": "剧情太差，只有音乐和美术在线"
+    },
+    {
+      "user": "色烈芬_",
+      "avatar": "https://img1.doubanio.com/icon/u69475039-9.jpg",
+      "content": "首先 这个故事是优质的 就算已经第三季了 就算还是关门开门的走向 不能否定在剧情走向上还是精彩的。这一季（或者说整个系列）最精彩的还是各位开始发现小镇不妥时逐渐显露的智商上线以及一步一步地接近真相 这些悬疑部分是最棒的。这一季亮点在于在幼年组和青年组之间多了一个雪糕店组 Erica自带rap的对白太有趣了 Robin也好看 这是智商最高的一组。然而 Max和Billy的存在其实并没有更丰满剧情 但他们长得很好看就不纠结了。8号姐姐也还是伏笔状态。Steve也依旧被虐 居然也没能和Robin凑成一对有点可惜。不方便剧透 但希望下一季老年组能给点惊喜。"
+    },
+    {
+      "user": "生人回避",
+      "avatar": "https://img3.doubanio.com/icon/u51911319-11.jpg",
+      "content": "节奏和叙事都比上两季有过之而无不及，故事都是在前后短短几天发生，虽然中段部分疲软有拖延时长的感觉，但不难看出整季都在为下一季驶离小镇后更大的世界观做铺垫，不能更期待！"
+    },
+    {
+      "user": "栗文",
+      "avatar": "https://img3.doubanio.com/icon/u4576316-15.jpg",
+      "content": "这季的节奏比前一季好。"
+    },
+    {
+      "user": "奋斗的大象🐘",
+      "avatar": "https://img3.doubanio.com/icon/u120494091-4.jpg",
+      "content": "可能是我对异形什么的不太感冒，所以对叙的这个事也不太感兴趣，然而观影体验又回到了第一季，甚至更差，人物为了叙事而存在，失去了个体的魅力。连Mike都失去了他的独特性，他仿佛变成了个平庸而愚蠢的青少年，要不就在抱怨，要不就在叫El。我欣赏编剧会提到女权和原生家庭，算是想要拔高立意的尝试，但是太过强行，因为姐姐和Billy都缺乏人物成长：当姐姐意识到要为自己撑腰的时候，报社已经不复存在了，不是很好；Billy最后一集也是强行回归，为什么就他一个人没被归为一体？薇诺娜面对Hopper牺牲的演技一塌糊涂，失望。"
+    },
+    {
+      "user": "这货不是人",
+      "avatar": "https://img3.doubanio.com/icon/u37648516-4.jpg",
+      "content": "请问这一季讲了什么！随便翻一集第一季的都完完整整秒杀掉这一整季啊。"
+    },
+    {
+      "user": "安德烈大叔",
+      "avatar": "https://img3.doubanio.com/icon/u7315956-50.jpg",
+      "content": "60-80美帝世界观法则：坏蛋不够，苏俄来凑。怪奇物语的多线叙事弱在简单，也胜在简单，群戏也很工整。所以吸引来众多中国的网剧大佬们闭门研（CHAO）究（XI）。2>1>3"
+    },
+    {
+      "user": "Haleyrink1897",
+      "avatar": "https://img3.doubanio.com/icon/u53180194-10.jpg",
+      "content": "良心的八集连送，诸多经典致敬元素，基本把8485年美国片回顾一遍 虽然恶心程度升级 叙事也不够简洁但还是要给满分"
+    },
+    {
+      "user": "富嶽百景",
+      "avatar": "https://img1.doubanio.com/icon/u13592823-19.jpg",
+      "content": "埃里克斯+比尔+霍普……这一季将成长刻画得更细致了！好多情侣！"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "1.导演的群戏把控功力深厚，依旧是多线相互交织最后汇集一线的拍法，节奏感十足，非常工整流畅的一种好看；2.青春期到了，到处都弥漫着恋爱的酸臭味，可怜威尔还是单身狗；3.卷毛达斯汀这季简直刷足了存在感，私以为他的故事线最精彩；4.伊桑乌玛的女儿虽是新人，但整体表现不俗，未来可期； 5.在经历了怪物连环三季的摧残蹉跎，威尔终于搬家了；6.我薇的情路忒坎坷了，就不能让她谈一次正经甜蜜的恋爱吗摔！"
+    },
+    {
+      "user": "阳光正好",
+      "avatar": "https://img3.doubanio.com/icon/u197886003-1.jpg",
+      "content": "相比于第一季，梗越来越烂俗剧情越来越蠢，从第一季的灵气少年直接变为油腻大叔。"
+    },
+    {
+      "user": "萌发奇想",
+      "avatar": "https://img3.doubanio.com/icon/u9881459-121.jpg",
+      "content": "3.5星，还是熟悉的复古味儿配方，各种80年代娱乐文化风，孩子们都长大了，开始牵小手谈恋爱了！愁坏了老父亲。小11一如既往的炫酷，并且这季开始展现浓浓的women power！特喜欢罗宾这个新角色，长得很像乌玛瑟曼(那是她妈，不像才怪)。多线叙事，群戏精彩，但是还是觉得故事本身没有前两季带劲了，俄罗斯人在美国小镇地下建基地什么的好扯，可是这个故事本身就很超现实。结尾被老父亲的信看的泪流满面，彩蛋里坚信他应该没有死，一如既往的期待S4。(没想S3不是完结季) PS.男孩纸里最帅的will却是单身狗，真是魔幻啊！可怜的will…😂"
+    },
+    {
+      "user": "薇羅尼卡",
+      "avatar": "https://img3.doubanio.com/icon/u1048262-16.jpg",
+      "content": "前半程一直有点乏力，结尾救回来了但是失去了前两季看故事的新奇和紧张感。为什么要让警长死啊！是不是每一个试图跟Will妈约会的人都是这个结局！编剧你摸着良心港一港！"
+    },
+    {
+      "user": "冯德的猫",
+      "avatar": "https://img3.doubanio.com/icon/u180647381-1.jpg",
+      "content": "我满心欢喜的看了第一集，what the F。。。。于是手动五倍速把剩下的七集一个小时看完了。好爽"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "哈哈，拍的很可爱，这季拍成惊悚喜剧了。多线叙事。吉姆大叔命运究竟如何呀"
+    },
+    {
+      "user": "Yuanbaeee",
+      "avatar": "https://img1.doubanio.com/icon/u38718181-8.jpg",
+      "content": "比前两季还是掉了一星的水平"
+    },
+    {
+      "user": "伊夏",
+      "avatar": "https://img3.doubanio.com/icon/u30123013-41.jpg",
+      "content": "这也太！好看了吧！结尾留有彩蛋，略弱可以原谅……啊！赞美！"
+    },
+    {
+      "user": "zhang 2nd",
+      "avatar": "https://img3.doubanio.com/icon/u2343960-135.jpg",
+      "content": "阿诺梗，回到未来梗，怪形梗，还有薇诺娜女神穿军装扎起头发恍惚又年轻了。继续，不要完结"
+    },
+    {
+      "user": "viennavirus",
+      "avatar": "https://img3.doubanio.com/icon/u1014188-36.jpg",
+      "content": "未知的恐惧不复存在，故事也因此而空洞了些，角色开始变得话痨和歇斯底里，好在还不至于毁掉前两季留下的好印象。至少，还是呈现了值得留恋的、属于二十世纪的超自然科幻冒险世界啊。另外，第二季的那个变种人坑果然被弃了。"
+    }
+  ]
+}

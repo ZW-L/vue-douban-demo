@@ -1,0 +1,1155 @@
+{
+  "title": "协商",
+  "url": "https://movie.douban.com/subject/27040853/",
+  "rate": "6.9",
+  "id": "27040853",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533160941.jpg",
+  "info": [
+    "导演: 李钟奭",
+    "编剧: 崔成贤",
+    "主演: 孙艺珍 / 玄彬 / 金相浩 / 张荣男 / 张光 / 赵勇进 / 朴成根 / 朴修荣 / 金民尚 / 李诗雅 / 崔秉默 / 李贤 / 金熙镇 / 李珠英 / 康德铉 / 李文植",
+    "类型: 动作 / 悬疑 / 犯罪",
+    "制片国家/地区: 韩国",
+    "语言: 韩语",
+    "上映日期: 2018-09-19(韩国)",
+    "片长: 114分钟",
+    "又名: 智命谈判(港) / 极智对决(台) / 谈判 / The Negotiation"
+  ],
+  "desc": "该片讲述恐怖主义者（玄彬 饰）与女谈判专家（孙艺珍 饰）之间反复对决的恐怖犯罪题材故事，恐怖分子时时刻刻用各种难以预料的方法进行施压，双方将进行一场激烈的脑力斗争。",
+  "members": {
+    "director": {
+      "name": "李钟奭 Jong-Seok Lee",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533234569.62.jpg"
+    },
+    "cast": [
+      {
+        "name": "孙艺珍 Ye-jin Son",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43174.jpg"
+      },
+      {
+        "name": "玄彬 Hyun Bin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41248.jpg"
+      },
+      {
+        "name": "金相浩 Sang-ho Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27658.jpg"
+      },
+      {
+        "name": "张荣男 Young-nam Jang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37051.jpg"
+      },
+      {
+        "name": "张光 Gwang Jang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371092021.42.jpg"
+      },
+      {
+        "name": "赵勇进 Yeong-jin Jo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513904976.03.jpg"
+      },
+      {
+        "name": "朴成根 Park Sung-geun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512379244.11.jpg"
+      },
+      {
+        "name": "朴修荣 Park Soo-young",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503304621.66.jpg"
+      },
+      {
+        "name": "金民尚 Kim Min-sang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548992932.28.jpg"
+      },
+      {
+        "name": "李诗雅 Shi-ah Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pu0cvWS1zyGUcel_avatar_uploaded1462470089.85.jpg"
+      },
+      {
+        "name": "崔秉默 Byung-mo Choi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501477234.47.jpg"
+      },
+      {
+        "name": "李贤 Lee Hyeon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516969749.66.jpg"
+      },
+      {
+        "name": "金熙镇 Hee-jin Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533241468.41.jpg"
+      },
+      {
+        "name": "李珠英 Joo-young Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496084113.66.jpg"
+      },
+      {
+        "name": "康德铉 Doo-hyeon Kang",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "李文植 Mun-shik Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5633.jpg"
+      },
+      {
+        "name": "朴亨洙 Park Hyoung-soo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502704402.74.jpg"
+      },
+      {
+        "name": "裴真雅 Jin-ah Bae",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507527606.42.jpg"
+      },
+      {
+        "name": "郑仁谦 In-gyeom Jeong",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451382750.49.jpg"
+      },
+      {
+        "name": "韩基重 Ki-jung Han",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550424765.04.jpg"
+      },
+      {
+        "name": "金钟求 Kim Jong-goo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503293736.36.jpg"
+      },
+      {
+        "name": "朴智勋 Park Ji-hoon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1510045698.81.jpg"
+      },
+      {
+        "name": "李学周 Hak-joo Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1558330988.79.jpg"
+      },
+      {
+        "name": "吕茂英  Moo-yeong Yeo ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531312327.37.jpg"
+      },
+      {
+        "name": " 郭子亨 Ja-hyeong Kwak ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3DaRMYd3pE8cel_avatar_uploaded1526004972.1.jpg"
+      },
+      {
+        "name": "刘延洙 Yeon-soo Yoo ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1537816392.54.jpg"
+      },
+      {
+        "name": "车来亨 Rae-hyung Cha ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1537817608.28.jpg"
+      },
+      {
+        "name": " 金宝敏 Bo-min Kim ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1551411458.21.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2538045362.jpg?",
+        "src": "http://vt1.doubanio.com/201908311446/8c9abf7f9b5698aed4a800907bb65bdd/view/movie/M/402380448.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2530964801.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2530964800.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2530964798.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2543584895.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "如果我是悍匪，对面是穿着警服的孙艺珍，不用她说话，我投降。\n如果我是警察，对面是拿着AK的玄彬，不用他威胁，我缴械。"
+    },
+    {
+      "user": "喵咪。",
+      "avatar": "https://img3.doubanio.com/icon/u4502256-33.jpg",
+      "content": "请孙仙和玄彬演一部16集从头谈到尾且是HB的恋爱剧！#爱画饼的类型"
+    },
+    {
+      "user": "霁月清风",
+      "avatar": "https://img3.doubanio.com/icon/u159042743-1.jpg",
+      "content": "两张不可能差评的脸！南韩唯一的仙女和帅哥！不接受反驳😈\n"
+    },
+    {
+      "user": "fantasticming",
+      "avatar": "https://img3.doubanio.com/icon/u65208001-1.jpg",
+      "content": "看到最后两个人看对方的眼神，感觉不谈场恋爱说不过去了。"
+    },
+    {
+      "user": "すでに恒司ロス",
+      "avatar": "https://img3.doubanio.com/icon/u45203942-61.jpg",
+      "content": "谈判专家吧，香港至少拍了一百部，你这整得也太业余，太不专业，太不严谨了，从头到尾都是槽点，最后还能绕到依法治国（汗），我要是玄彬，进屋就直接砰砰砰砰，你觉着跟那帮认钱不认人的当权者说，大佬行行好不要欺负我，他们会乖乖认罪说好么，是有多天真。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "两星半。不太情愿地讲，孙艺珍还是更适合活在人畜无害的爱情片中；不太负责任地讲，玄彬还是更适合那种穿着制服在街上跑一跑的犯罪片，看他在小屋里坐着我都替他的荷尔蒙憋得慌。"
+    },
+    {
+      "user": "elaineOoo",
+      "avatar": "https://img1.doubanio.com/icon/u115640400-8.jpg",
+      "content": "恩....感觉这片短评就够了。剧情真的很多bug，男主的报复理由不充分，女主谈判专家的能力站不稳，孙艺珍虽然美可是动不动就情绪崩溃真的不像个专家反而像个新手，玄彬演的绑匪明明有大把的证据在手却偏偏选择网络直播的方式公开政府丑闻，感觉为了谈判而谈判，更加好笑的是所有人都以为这是部谈判剧，结果电影名却叫做协商.....不过即便是脸上挂着伤疤、皮肤黝黑的玄彬依旧很帅"
+    },
+    {
+      "user": "草原上的马",
+      "avatar": "https://img3.doubanio.com/icon/u149612767-1.jpg",
+      "content": "孙艺珍有点老了，电影也很老套"
+    },
+    {
+      "user": "彦元",
+      "avatar": "https://img1.doubanio.com/icon/u145854069-17.jpg",
+      "content": "这不就是模仿的河正宇的《恐怖直播》吗？小空间内的言语交锋。\n然而仿得并不好，故事太老套，bug又太多，结局又太傻逼。我完全想不出男主为什么会不手刃仇人，而要把希望寄托给女主，首先她要真的有正义感和决心愿意帮他，其次她得有本事把反派送上法庭，最后还要法庭也秉公处理判他们有罪，然而即便三样都达成了，法庭估计也不会判他们死刑，也就监禁个几年。\n想来想去，只想出一种解释：韩国也有潜在的审查制度，你电影可以黑政府，但你不能直接杀官员，不然树立了这种示范，以后大韩民国的官员很多都要寝食难安了。毕竟命是自己的要珍惜，政府不是自己的你爱黑就黑。\nPS：这应该是我看的玄彬的第一个作品，原来他长这样，好帅，声音好好听。电影中和孙艺珍并没感觉有cp感，但是看那些发布会、记者会什么的，感觉他俩配一脸啊。"
+    },
+    {
+      "user": "Callvados",
+      "avatar": "https://img3.doubanio.com/icon/u42291551-22.jpg",
+      "content": "请来这两位神颜竟然不让他们谈个恋爱，编剧你的良心呢"
+    },
+    {
+      "user": "艾晨",
+      "avatar": "https://img3.doubanio.com/icon/u1140816-93.jpg",
+      "content": "作为谈判专家，孙艺珍太不专业了……"
+    },
+    {
+      "user": "朝阳区陆依萍",
+      "avatar": "https://img3.doubanio.com/icon/u50060410-16.jpg",
+      "content": "从今天起，我是玄彬的结发妻子！"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "韩国电影真是不黑官方不舒服思密达，只是，两个主演都太好看，过程还是很享受的，剧情什么的就那样吧。"
+    },
+    {
+      "user": "作姨",
+      "avatar": "https://img1.doubanio.com/icon/u103814477-9.jpg",
+      "content": "韩国电影真是有一万种方法抹黑政府（玄彬太他娘的帅了！！！我要把我的命都给他啊啊啊啊！！！"
+    },
+    {
+      "user": "无趣",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "剧情太老套，人设太脸谱，逻辑太缺乏。主题很现实，人物行动和情节却太虚假过于想当然了，男女主颜值加星。两星半。"
+    },
+    {
+      "user": "SleepWalker",
+      "avatar": "https://img3.doubanio.com/icon/u44564069-12.jpg",
+      "content": "协商个鸡毛，明明是谈判，豆瓣抓紧改片名好吗。韩国人黑政府继续黑得炉火纯青，后面漏洞较多而且反转也在意料之内好在节奏没丢。还有现实里怎么可能会有孙艺珍这么好看的谈判官，这才是片子最大的bug，就是来看她的，满足。"
+    },
+    {
+      "user": "十十",
+      "avatar": "https://img3.doubanio.com/icon/u40613317-14.jpg",
+      "content": "有那么点儿出乎意料，依然不遗余力的黑韩国政府，恐怖直播+隧道+黄海+局内人，one against all 的故事很难拍出新意，剧情没有尿点但是都是显而易见的梗，有的台词真的划水的过分了啊啊，但是冲两位的演技和颜值就可以打5.5（x.. 求求玄彬多拍点院线片吧，临终前最后一句是约艺珍姐姐喝酒真的犯规了呜呜呜……不愧是占用我一个单独标签的男人"
+    },
+    {
+      "user": "申由己",
+      "avatar": "https://img1.doubanio.com/icon/u4134449-17.jpg",
+      "content": "此片最大的看点是孙艺珍出场的前三分钟，到换衣服为止！其余的不值一提！"
+    },
+    {
+      "user": "安蓝·怪伯爵𓆝𓆟𓆜",
+      "avatar": "https://img3.doubanio.com/icon/u1056861-674.jpg",
+      "content": "啊啊啊啊啊玄彬也太帅了吧天啦噜你们怎么扣的下去扳机啊好狠心哇呜呜呜呜呜！而且那么认真干嘛啦！谁还看不出老套啊谁还挑不出bug啊真是的不就是想看这两只的颜吗！！！"
+    },
+    {
+      "user": "Z星驰007",
+      "avatar": "https://img3.doubanio.com/icon/u139728342-10.jpg",
+      "content": "第一场戏，韩国警察是脑残吗？狙击居然没有爆头就算了，还没有打死。屋里还有自己人就直接放弹？根本不顾人质死活就强攻进去！？？？！！？"
+    },
+    {
+      "user": "方枪枪",
+      "avatar": "https://img3.doubanio.com/icon/u2586116-96.jpg",
+      "content": "戏剧张力太足，反而导致漏洞增多。但整体类型化拍摄还不错。看来，韩国的电影审查尺度真的是十分宽松了，一部接一部的黑政府，一部接一部的上映。"
+    },
+    {
+      "user": "沙宣",
+      "avatar": "https://img1.doubanio.com/icon/u41686939-7.jpg",
+      "content": "发现日落之后全线崩坏，单独上去？高层能动用军队海外灭口，却不能……"
+    },
+    {
+      "user": "花轮君",
+      "avatar": "https://img3.doubanio.com/icon/u11396523-34.jpg",
+      "content": "这两人没有感情戏说得过去吗？！"
+    },
+    {
+      "user": "硬邦邦帮主胡子",
+      "avatar": "https://img3.doubanio.com/icon/u1531788-4.jpg",
+      "content": "又是黑政府。情节老套基本都能猜出来。玄彬有点用力过猛了。帅哥当“反派”很容易让人走神。"
+    },
+    {
+      "user": "Lotte-F",
+      "avatar": "https://img3.doubanio.com/icon/u140594033-5.jpg",
+      "content": "其实剧本本身真的很多漏洞，紧张感也不强，但是我好喜欢玄彬和孙艺珍这个组合，他们俩对手戏火花好足！「本想和你一起喝杯烧酒的」啊啊啊夹缝中抠糖"
+    },
+    {
+      "user": "greatabel",
+      "avatar": "https://img3.doubanio.com/icon/u3832050-42.jpg",
+      "content": "玄彬耍帅就行了：其实我不是要恐袭也不要真相，我只是害死妹妹后一心求死。"
+    },
+    {
+      "user": "Lucifer",
+      "avatar": "https://img3.doubanio.com/icon/u4266578-22.jpg",
+      "content": "这么多年了，你怎么还是辣么美啊"
+    },
+    {
+      "user": "Frances",
+      "avatar": "https://img3.doubanio.com/icon/u4356952-10.jpg",
+      "content": "剧本太差了，真的就看看演员。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "各方面都挺平庸的，密室交锋的思路是好的，但女主谈判专家的身份特质没发挥出来，男主作为绑匪的行为逻辑也不充分，黑政府机关也成了韩国电影的套路了。不知道为什么，对孙艺珍和玄彬这两张脸真是有点接受无能，觉得土气。"
+    },
+    {
+      "user": "小飞象",
+      "avatar": "https://img3.doubanio.com/icon/u134815318-33.jpg",
+      "content": "烂尾 我对孙艺珍从来就无感 真的get不到她的美 演技更是看不见 她演的是个啥 哪都有个大女主能乱窜 也怪编剧把人家写成那样 剧本再精进一点就很好了 所以我的玄彬是个民主斗士 我倒是希望这片能拍成双男主 一定更有看头 四星给我老公和前面剧情 张力够 其实三星半吧"
+    },
+    {
+      "user": "秀山鲤鱼",
+      "avatar": "https://img3.doubanio.com/icon/u128265644-3.jpg",
+      "content": "6分，整部戏动机不明，玄彬如果想给妹妹报仇，直接把手中资料爆料就可以，非得搞个网络谈判直播，分明就是为了拍电影用的故能玄虚。"
+    },
+    {
+      "user": "little ash",
+      "avatar": "https://img3.doubanio.com/icon/u4102139-12.jpg",
+      "content": "但在现实中，上了车关上窗，故事就ending了。正不压邪是事实，大家都心知肚明，只能从电影中找到一丝正义可能获胜的希望。ps，试映会上见到玄彬欧巴腿仅长八米吧。剧中孙艺珍仅换了三套衣服也无法撼动南韩唯一仙女的地位吧。"
+    },
+    {
+      "user": "煽情破坏者",
+      "avatar": "https://img1.doubanio.com/icon/u37507203-128.jpg",
+      "content": "冲着孙艺珍看的，不失望就足够了。"
+    },
+    {
+      "user": "咸菜帮老大",
+      "avatar": "https://img1.doubanio.com/icon/u49705531-19.jpg",
+      "content": "韩国犯罪类型片正常发挥，戏剧化到失真的剧本和满铺到麻木的配乐。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "超赞 给玄彬打电话"
+    },
+    {
+      "user": "来来lar",
+      "avatar": "https://img3.doubanio.com/icon/u164289384-5.jpg",
+      "content": "最强协商家什么也没协商成功，但“协商”于这部电影只是件外套，一个工具，揭开它的衣服一看，咦？里边全是韩国电影讲烂的故事。当然，两位主角的颜值以及与以往不同的人设，是一大亮点。"
+    },
+    {
+      "user": "华盛顿樱桃树",
+      "avatar": "https://img3.doubanio.com/icon/u49213881-4.jpg",
+      "content": "在类型片找不到新梗的情况下，故事和整体完成度算不错了。无尿点，但也不意外，两个演员看不够啊，喜欢。"
+    },
+    {
+      "user": "大卫·独处尼",
+      "avatar": "https://img1.doubanio.com/icon/u1205892-9.jpg",
+      "content": "长得好看可能是演员演技之路最大的障碍，我很好看的意识从小到大根深蒂固，最后成为挥之不去的本能，一不留神就流露出来，破坏了表演，这一点两位主演表现得很明显。"
+    },
+    {
+      "user": "从此刻到日出",
+      "avatar": "https://img1.doubanio.com/icon/u27953911-419.jpg",
+      "content": "好烂，当偶像剧看吧"
+    },
+    {
+      "user": "羽子令",
+      "avatar": "https://img3.doubanio.com/icon/u137169217-6.jpg",
+      "content": "三星半，没有想象中的惊艳，有我彬也不行😂一己之力以恶制恶的典范，叫板国家的电影，仔细想想，真没有发现这部电影的亮点，虽然让人想起恐怖直播，但是和恐怖直播还有差距。"
+    },
+    {
+      "user": "曼靑",
+      "avatar": "https://img3.doubanio.com/icon/u3335015-210.jpg",
+      "content": "孙艺珍脱掉军装，干练的卷起白衬衫袖子的时候，我的心跳都漏走了半拍。韩国电影一如既往的腹黑套路——拍南北问题的时候 一个劲的黑朝鲜，不拍朝鲜的时候 就一个劲的黑自己。一面是执拗的谈判专家女警卫，一面是亦正亦邪的军火走私贩。两个人的对手戏从一开始的针锋相对到最后的相知，可惜他的陨命早已是既定的事实。「唉，太可惜了，本来还想着要和你一起喝一杯烧酒呢。」说罢，狙击手的子弹穿过他的头颅，那一杯烧酒的执念成为了永久的遗憾。"
+    },
+    {
+      "user": "大眼睛很萌",
+      "avatar": "https://img3.doubanio.com/icon/u60073563-23.jpg",
+      "content": "韩国 协商 。"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "官商勾结草菅人命，恐怖分子为名除害，未果，人民警察接力干。没展现多少谈判技巧，悬念也一般"
+    },
+    {
+      "user": "不二喵",
+      "avatar": "https://img3.doubanio.com/icon/u3421214-11.jpg",
+      "content": "韩国黑政府还不是因为政府是摆设"
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "学足了交涉人，黑政府也是一样，孙艺珍真是差了米仓一截"
+    },
+    {
+      "user": "夜神月的猫",
+      "avatar": "https://img1.doubanio.com/icon/u54998502-7.jpg",
+      "content": "想拍成韩版《王牌对王牌》，可惜编剧水平太烂，只想着装逼，从《王牌对王牌》里学来谈判方法都可以把本片拆解成渣渣，片头的案件就看出来虎头蛇尾的导演水平。这也不知道，那也不知道，角色就傻逼了，《暗战》里刘青云的技巧也比你强啊。铺陈的气氛很紧张，节奏又慢慢挤，直接凸显了导演肚里没墨水的无能。"
+    },
+    {
+      "user": "孟克柔🌈",
+      "avatar": "https://img1.doubanio.com/icon/u2347635-18.jpg",
+      "content": "全程都在吃颜！"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "不过相识十几个小时，这场谈判却如同相亲。我们说好彼此坦诚，这房间每个人都面不改色说谎，隔着屏幕却跟你说了这么多似真似假的话。从你走进这个房间，我就关掉了引爆器。你看，从头到尾，我都没有伤害一个好人。本以为你并不是好人，一个失败的谈判专家。河彩允，真想和你喝杯烧酒的，这句话是真的。"
+    },
+    {
+      "user": "玉木大河",
+      "avatar": "https://img3.doubanio.com/icon/u1282199-4.jpg",
+      "content": "2.5星。我期待了一年啊！结果发现剧情这么单薄，布满了bug，一看也是没花什么钱的。可惜了艺珍欧尼和玄彬的演技啊。看看孙艺珍在这个戏里，动不动就得演崩溃，多累啊。但是一个谈判专家动不动就崩溃了，是怎么成为专家的啊。这么卖力演还是得给她一颗星的。"
+    },
+    {
+      "user": "影毒肥佬",
+      "avatar": "https://img3.doubanio.com/icon/u69880425-2.jpg",
+      "content": "也是模仿感,  結局特別有抄竊聽風雲第二集感,  前面也有很多影子.  制服孫小姐最英氣一次,  就是為她才看大銀幕的,  依然仙氣,  目光一會如電, 一會如水......"
+    },
+    {
+      "user": "mark",
+      "avatar": "https://img1.doubanio.com/icon/u1215748-8.jpg",
+      "content": "几乎所有的看点和魅力都在两位主演身上，但是孙艺珍这个谈判专家有些情绪过于激动了吧"
+    },
+    {
+      "user": "与碟私奔",
+      "avatar": "https://img3.doubanio.com/icon/u1305791-1.jpg",
+      "content": "好电影出韩国🇰🇷上至青瓦台下到警察局没有不敢揭露的"
+    },
+    {
+      "user": "五色全味",
+      "avatar": "https://img1.doubanio.com/icon/u1380001-9.jpg",
+      "content": "我的天菜孫藝珍，光靠顏就能讓我看完一部戲，人美戲還好，嘖嘖"
+    },
+    {
+      "user": "Eco",
+      "avatar": "https://img1.doubanio.com/icon/u45774932-27.jpg",
+      "content": "商业化的国家批判？无外乎弱化为一小撮国家蛀虫。#虚假的国家批判：韩国警匪片共同体背后的国家想象#"
+    },
+    {
+      "user": "月半弯",
+      "avatar": "https://img3.doubanio.com/icon/u60750210-1.jpg",
+      "content": "颜值简直可怕 但是剧情实在...没看完 三星为敬"
+    },
+    {
+      "user": "潜意识",
+      "avatar": "https://img1.doubanio.com/icon/u1901885-49.jpg",
+      "content": "孙艺珍嫁我。"
+    },
+    {
+      "user": "河狸",
+      "avatar": "https://img1.doubanio.com/icon/u2228416-29.jpg",
+      "content": "虽然是蚍蜉撼树，但是至少人家敢面对现实。"
+    },
+    {
+      "user": "流光溢彩`",
+      "avatar": "https://img3.doubanio.com/icon/u23034235-2.jpg",
+      "content": "在韩国电影里玩这种等级的政治课题，说实话算小儿科了，如果不是孙艺珍和元彬，这片估计也就B级片的关注度吧。本片片名为协商，显然指的是孙艺珍作为谈判专家这个角色需要靠协商的方式挑起大梁与罪犯周旋，然而主创呈现给观众的却是一个罪犯早已计划好一切，孙艺珍与之协商了半天其实就是被动的给人家分散了注意力完成人家的声东击西计划而已，这个角色从主动到被动的职能缺失如此严重，当然是编剧赶紧把锅接好，我家艺珍当然不可能背锅啦！"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "意料之中的黑政府。"
+    },
+    {
+      "user": "KinG羽",
+      "avatar": "https://img3.doubanio.com/icon/u3744974-245.jpg",
+      "content": "孙艺珍当谈判专家？玄彬当绑匪？这设定只能当电影看，这电影也只能看脸。一如既往地在黑韩国政府，但剧情方面真是毫无新意，恐怖直播不是那么容易被模仿的。"
+    },
+    {
+      "user": "王卡",
+      "avatar": "https://img3.doubanio.com/icon/u1219568-111.jpg",
+      "content": "人真好看啊"
+    },
+    {
+      "user": "陈赖汉",
+      "avatar": "https://img3.doubanio.com/icon/u1615988-3.jpg",
+      "content": "韩国电影真的是不黑政府不舒服斯基啊～"
+    },
+    {
+      "user": "蒸桑拿的冰激凌",
+      "avatar": "https://img1.doubanio.com/icon/u1350462-28.jpg",
+      "content": "玄彬怎么还这么帅…"
+    },
+    {
+      "user": "Ashin鲸",
+      "avatar": "https://img1.doubanio.com/icon/u54089026-8.jpg",
+      "content": "场场精彩有反转，编剧好会写。玄彬和孙艺珍这样的配搭，却没有感情戏！😢 "
+    },
+    {
+      "user": "Hideo",
+      "avatar": "https://img1.doubanio.com/icon/u6296367-17.jpg",
+      "content": "无法理解孙艺珍为什么要动眼睛和鼻子……谈判双方的信息不对称这个设计其实挺好的，但是没有深入挖掘。"
+    },
+    {
+      "user": "超cute侠",
+      "avatar": "https://img1.doubanio.com/icon/u3403686-9.jpg",
+      "content": "不遗余力黑政府，通过网络视频与罪犯交涉虽不新鲜但保证了可看度，谈判专家的专业度有些欠缺，基本靠孙艺珍的美颜强撑，她和玄彬的通话甚至有些偶像剧甜甜的味道。"
+    },
+    {
+      "user": "眯着眼的偎灶猫",
+      "avatar": "https://img3.doubanio.com/icon/u60664918-6.jpg",
+      "content": "没看完，看不下去了"
+    },
+    {
+      "user": "握不住的灵魂",
+      "avatar": "https://img1.doubanio.com/icon/u5498220-68.jpg",
+      "content": "不黑难受"
+    },
+    {
+      "user": "麦小白",
+      "avatar": "https://img3.doubanio.com/icon/u2034976-123.jpg",
+      "content": "悬念常规，日常黑，演员魅力值突出。"
+    },
+    {
+      "user": "左胸上的吸盘",
+      "avatar": "https://img3.doubanio.com/icon/u1128980-24.jpg",
+      "content": "勉强及格。又一个版本的《恐怖直播》，遭上司背叛的军火贩子玄彬为了给亲妹报仇，挟持人质向国情院发难，拉谈判专家孙艺珍步步揭开真相，当然全程是偷摸进行网络直播的（这种事可不会发生在中国，莫说一般人不跨墙，拥有直播服务器的泰国方面也不可能顶住中国的压力）。36岁的孙艺珍状态不错，还贡献了一次换衣服（无尺度可言），几乎在摄像头里演完全片的玄彬也不差，反倒是几个配角不争气，尤其那个被杀的警官瑟瑟发抖的恐惧表演太可笑了，国情院的那个秘书选的很好，从相貌到说话方式，是本片那种威势十足的官腔的代表。值得注意的是，孙艺珍的角色十分受不了亲眼看别人死掉（因此拼命阻止玄彬复仇，也不顾这是玄彬被击毙前最后的机会），但以法律的名义就没关系，她属于坚定的维法人士吧，或只是个不忍看杀生的梁惠王。全片节奏掌控还不错，始终有料"
+    },
+    {
+      "user": "Libra1001",
+      "avatar": "https://img3.doubanio.com/icon/u50197920-10.jpg",
+      "content": "女神也老了"
+    },
+    {
+      "user": "lzx",
+      "avatar": "https://img3.doubanio.com/icon/u65052544-10.jpg",
+      "content": "竟然 不谈恋爱 的么 。。。他两眼神都要燃着了竟然不谈一场恋爱 什么 本来还想和你喝一杯的 哇 心动 玄彬的脸 心动本身 孙艺珍的颜 灭火神器 （：开头为啥有孙艺珍婆婆来电？？她是结婚了的人设？？"
+    },
+    {
+      "user": "huyouyou",
+      "avatar": "https://img3.doubanio.com/icon/u1439441-31.jpg",
+      "content": "几次逆转，让一个小谈判官直接对抗了整个腐败集团，这片子拍的有点光明。#20181102"
+    },
+    {
+      "user": "A.M.",
+      "avatar": "https://img3.doubanio.com/icon/u49900100-4.jpg",
+      "content": "中规中矩的出色剧本"
+    },
+    {
+      "user": "终有剑心在",
+      "avatar": "https://img1.doubanio.com/icon/u2660214-7.jpg",
+      "content": "韩国电影尺度之大让人吃惊，男女主的颜值在线为电影加分了。"
+    },
+    {
+      "user": "sam",
+      "avatar": "https://img1.doubanio.com/icon/u53345300-39.jpg",
+      "content": "算是室内戏，很久没在韩影里看到这种紧迫感了。但是谈判真的很弱，全是开挂的主角光环，反派表演也很脸谱化。玄彬真的是帅炸了。"
+    },
+    {
+      "user": "yo911217",
+      "avatar": "https://img3.doubanio.com/icon/u85685369-3.jpg",
+      "content": "孙艺珍有点用力过度了。"
+    },
+    {
+      "user": "zzy花岗岩",
+      "avatar": "https://img3.doubanio.com/icon/u3718831-6.jpg",
+      "content": "节奏够紧凑，但人物行为欠缺说服力，结尾落入俗套。孙艺珍一如既往的美~"
+    },
+    {
+      "user": "风间隼",
+      "avatar": "https://img3.doubanio.com/icon/u2521825-70.jpg",
+      "content": "披了个警匪动作片的外衣，本质上还是偶像剧。狗咬狗黑吃黑的设定已经蚀穿了复仇的正义性，身经百战的佣兵费尽心机却宁愿放弃快意恩仇，选择信一个小女警查出真相的承诺，简直脑子有水。女谈判专家上司刚被打死，下一秒就一心帮对手脱罪，这思路也是够清奇。编剧大概把宝都压在了男女主的颜，可惜一盏明灯能照亮偶像的眼，却照不透那浆糊一般的剧情。"
+    },
+    {
+      "user": "牛油果沙拉",
+      "avatar": "https://img1.doubanio.com/icon/u31691815-49.jpg",
+      "content": "飞机上看的，结合最近胜利事件，感觉韩影现实题材真的棒棒哒，可惜看多了，总有种人在戏中，且现实比戏还要“精彩”的感觉，越来越无力。"
+    },
+    {
+      "user": "Dr. Ma",
+      "avatar": "https://img1.doubanio.com/icon/u43625639-17.jpg",
+      "content": "孙艺珍美人依旧，玄彬屌屌的又正义的样子真可爱~"
+    },
+    {
+      "user": "无事公",
+      "avatar": "https://img3.doubanio.com/icon/u64225096-2.jpg",
+      "content": "一直演下来都挺悬疑的，只是演到最后，我真想打这个女主，男主又这样被打死了。"
+    },
+    {
+      "user": "陈永仁",
+      "avatar": "https://img1.doubanio.com/icon/u1563045-109.jpg",
+      "content": "结尾有一些虎头蛇尾，剧情还是韩国电影的黑幕是大企业政府的调调。但是整个电影节奏紧张，孙艺珍还是不错的"
+    },
+    {
+      "user": "富贵ʟɪᴜ",
+      "avatar": "https://img3.doubanio.com/icon/u79559157-42.jpg",
+      "content": "5🌟是为了玄彬哦吧的颜值、演技、和无论演什么都很好看的孙艺珍哦你！年度韩影中最佳的商业剧情片！值得推荐！"
+    },
+    {
+      "user": "清凉",
+      "avatar": "https://img3.doubanio.com/icon/u2118020-23.jpg",
+      "content": "玄彬还是在《共助》里更帅一些"
+    },
+    {
+      "user": "Sodom程",
+      "avatar": "https://img3.doubanio.com/icon/u1030410-40.jpg",
+      "content": "结尾又不反转，就是狗尾。"
+    },
+    {
+      "user": "WIKI魏",
+      "avatar": "https://img3.doubanio.com/icon/u27465503-26.jpg",
+      "content": "1孙仙女用白衬衫、警服和小白裙子证明了自己的颜值，玄彬欧巴也是衬衫加人字拖稳稳shui服了观众。作为谈判官，孙仙女这个角色是真的是完全不在线的，但是，你美你说得都是对的。2合格的爆米花，明知道“正不压邪”，我们还是在电影里找着安慰。3韩国电影一部接一部的黑政府，他们是怎么审核过的？4这部片子不是明明《谈判》吗，怎么会是《协商》？2019.1.20 6/10"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "希望本片的玄彬和《S-最后的警官》的小田切让，日韩最帅的两个恐怖分子有机会可以合作（雾）"
+    },
+    {
+      "user": "大饿鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1148504-2.jpg",
+      "content": "看玄彬和孫藝珍尬戯，老阿姨越來越美了嘛"
+    },
+    {
+      "user": "Jason_波波",
+      "avatar": "https://img3.doubanio.com/icon/u44510845-22.jpg",
+      "content": "不论从哪个角度分析都是一部不过瘾抑或说太平庸的片子，好在没什么废话，剧情不拖沓，没有跌宕起伏没有百转千回，看颜了"
+    },
+    {
+      "user": "小真真",
+      "avatar": "https://img3.doubanio.com/icon/u48270062-382.jpg",
+      "content": "看韩国人坚持不懈地黑政府真是过瘾啊 第一次get到了玄彬的帅点 果然坏男人让人抗拒不了啊啊啊！"
+    },
+    {
+      "user": "沙粒🌈",
+      "avatar": "https://img1.doubanio.com/icon/u1039073-39.jpg",
+      "content": "玄彬 玄彬 玄彬  重三遍；电影也就值一颗星吧，孙美女真的不适合啊！你看看她那么美的一张脸那么细腻的皮肤，你就算让她时时刻刻叼着烟她也不像个警务人员啊！玄彬，玄彬当然帅啦，不过我说玄彬啊，咱能不能好好挑个剧本，这都是个啥？你笑起来那俩大酒窝不是摆设啊！艾玛 你一笑我就出戏。还有韩国人那些喜欢拍桌子瞪眼的套路真的，看的我头疼，最近都不想看韩国电影了。and 玄彬独闯大楼那场戏，真是哪儿哪儿都尴尬，尴尬！"
+    },
+    {
+      "user": "高压电",
+      "avatar": "https://img1.doubanio.com/icon/u44819703-689.jpg",
+      "content": "孙艺珍好看"
+    },
+    {
+      "user": "伊豆",
+      "avatar": "https://img1.doubanio.com/icon/u1410905-68.jpg",
+      "content": "结局不好，就应该按下引爆器大家一起去找妹妹。玄彬问：愿意跟我喝一杯烧酒吗？这个世界有不愿意的人吗？啊？一个人杀上vip室那段枪战真是帅疯！"
+    },
+    {
+      "user": "PROMISE921",
+      "avatar": "https://img3.doubanio.com/icon/u1679234-1.jpg",
+      "content": "玄彬真帅啊，艺珍没变啊"
+    },
+    {
+      "user": "努露Martin",
+      "avatar": "https://img3.doubanio.com/icon/u130217505-1.jpg",
+      "content": "韩国电影对黑government真的是一次次玩出了新花样！对于这类题材毫无抵抗力，每一部都可以用别国的事来打今朝的脸！（玄彬真的是帅了多少年了，我小时候辣么帅，现在丝毫没差啊啊啊啊！！！"
+    },
+    {
+      "user": "Bobi",
+      "avatar": "https://img1.doubanio.com/icon/u75853013-9.jpg",
+      "content": "期待孙艺珍"
+    },
+    {
+      "user": "Hancock",
+      "avatar": "https://img3.doubanio.com/icon/u7755053-5.jpg",
+      "content": "巧构思，妙演员"
+    },
+    {
+      "user": "阿顺",
+      "avatar": "https://img3.doubanio.com/icon/u1033549-5.jpg",
+      "content": "看到孙艺珍我就满足了"
+    },
+    {
+      "user": "酱酱酱酱",
+      "avatar": "https://img3.doubanio.com/icon/u2194341-56.jpg",
+      "content": "脸都值满分评价  这种题材也就大韩民国拍"
+    },
+    {
+      "user": "神哥",
+      "avatar": "https://img3.doubanio.com/icon/u62478064-3.jpg",
+      "content": "谷阿莫6分版。韩国电影天天骂政府，警察在没搞清楚大魔王的最终原因之前居然可以挂断人家电话的。最后没有同归于尽不是棒子的风格啊！"
+    },
+    {
+      "user": "Bill",
+      "avatar": "https://img3.doubanio.com/icon/u2767575-6.jpg",
+      "content": "脑洞太大，无法承载主题"
+    },
+    {
+      "user": "抱抱",
+      "avatar": "https://img1.doubanio.com/icon/u47358295-8.jpg",
+      "content": "片子一般，孙仙女尽力了，但是这样的谈判专家还是太弱鸡了，这种角色还是金惠秀来演比较合适。玄彬想要转型的决心还是挺明显的，最近接的片子基本上都是犯罪片，不过演技确实也是下了功夫。"
+    },
+    {
+      "user": "左眼看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1737624-3.jpg",
+      "content": "韩国电影黑起政府来真是肆无忌惮"
+    },
+    {
+      "user": "陈哈",
+      "avatar": "https://img3.doubanio.com/icon/u1458351-30.jpg",
+      "content": "主要是为了看孙艺珍，觉得比以前好看多了，应该说是有味道多了，眼睛和表情里有了岁月的沉淀。内容么，3星，一贯的抓着韩国政府猛薅。"
+    },
+    {
+      "user": "社会桃儿",
+      "avatar": "https://img3.doubanio.com/icon/u51771089-82.jpg",
+      "content": "依然是不遗余力地黑政府，绑匪依然死于话多，毫无新意，所以说嘛，我也好希望下次见到两位是在一个恋爱喜剧里哦！"
+    },
+    {
+      "user": "𝐋𝐨𝐮𝐋𝐨𝐮👅",
+      "avatar": "https://img3.doubanio.com/icon/u51100499-72.jpg",
+      "content": "圣母女主一人全程自带光环，一个谈判专家好似女警司咁，行动快过人地飞虎队，真系顶唔顺"
+    },
+    {
+      "user": "Ex",
+      "avatar": "https://img3.doubanio.com/icon/u1055848-241.jpg",
+      "content": "为了孙艺珍而看，即便过去了十五年（2013爱有天意），她还是很美啊～20181201"
+    },
+    {
+      "user": "小小人",
+      "avatar": "https://img3.doubanio.com/icon/u48138357-20.jpg",
+      "content": "是在太套路了，没什么惊喜，未有两位主演的颜百看不厌。"
+    },
+    {
+      "user": "夏季的天空",
+      "avatar": "https://img3.doubanio.com/icon/u141049149-3.jpg",
+      "content": "案中案的设定蛮不错的；孙艺珍的演技ok，就是角色设定在结尾决战桥段简直是圣母白莲花附体；玄彬还真的蛮适合演坏坏的角色；张光已成演大恶人专业户。片子整体而言与《恐怖直播》相比尚有一段距离。（给孙艺珍和玄彬的自由发挥的空间太小了。）"
+    },
+    {
+      "user": "kiki204629",
+      "avatar": "https://img3.doubanio.com/icon/u1849663-13.jpg",
+      "content": "在强大的对手面前，只能做到最大阵仗的曝光率事件才能逼着他们现形。女主对着男主从最开始的不屑厌恶到最后想要为他声张正义，也是观众情绪的走向。两位主演奉献了很不错的演技"
+    },
+    {
+      "user": "唐朝",
+      "avatar": "https://img3.doubanio.com/icon/u39696807-11.jpg",
+      "content": "好看又爱哭的谈判专家，依旧是很模式化的韩国政治黑幕电影，中规中矩。"
+    },
+    {
+      "user": "醉清风tonight",
+      "avatar": "https://img3.doubanio.com/icon/u1867736-2.jpg",
+      "content": "三星给玄彬"
+    },
+    {
+      "user": "大瘦瘦",
+      "avatar": "https://img3.doubanio.com/icon/u1804355-2.jpg",
+      "content": "有这两张颜在，要什么剧情？ "
+    },
+    {
+      "user": "七海",
+      "avatar": "https://img3.doubanio.com/icon/u144459333-22.jpg",
+      "content": "孙艺珍雷厉风行的女警，玄彬首演变态辛辣的匪徒，只是一开始我就知道要反转。"
+    },
+    {
+      "user": "ღ 狐不悔，",
+      "avatar": "https://img3.doubanio.com/icon/u3940268-306.jpg",
+      "content": "好看死了嗷！颜值与颜值的撞击哈哈哈哈。韩片里最典型最常见又无法令我抗拒的类型，揭露那个国家的黑暗，都快成家常便饭了。"
+    },
+    {
+      "user": "日光倾城",
+      "avatar": "https://img1.doubanio.com/icon/u37093154-27.jpg",
+      "content": "节奏很紧凑，不过新意不多"
+    },
+    {
+      "user": "对抗拖延",
+      "avatar": "https://img3.doubanio.com/icon/u3181219-11.jpg",
+      "content": "2018年10月21日11:32:27，韩国片拍的挺实在的。一个复仇故事，针对的都是高官。但是男主角不还是搭进去了姓名。这就是不公平，凭什么高官收到应有惩罚就这么困难呢。"
+    },
+    {
+      "user": "juni",
+      "avatar": "https://img3.doubanio.com/icon/u2366467-21.jpg",
+      "content": "@Jeju Island"
+    },
+    {
+      "user": "令狐小羊",
+      "avatar": "https://img3.doubanio.com/icon/u56680567-5.jpg",
+      "content": "韩国电影对政府的批判一直是很到位的。\n中国电影还没批判政府就出现技术问题。\n这部片子的角度也很清奇，政府军火采购的生意，政府买卖军火的生意。\n想到了《血观音》，民主未必是一个好的组织形式，但至少它没法那么坏。\n使用黑莓classic的孙艺珍身材一级棒。"
+    },
+    {
+      "user": "某妮",
+      "avatar": "https://img3.doubanio.com/icon/u2101394-23.jpg",
+      "content": "日常黑政府，颜值加星星"
+    },
+    {
+      "user": "走马",
+      "avatar": "https://img3.doubanio.com/icon/u3261682-162.jpg",
+      "content": "剥洋葱式的叙事，好看是好看，就是比较假"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "一般，打着斗智为卖点，可偏偏没看出多少“智”的成分...而且女主的人设在片里并没有得到很好的发展，而千篇一律的黑政府，在韩国片里真看得有点腻了。"
+    },
+    {
+      "user": "Augers",
+      "avatar": "https://img3.doubanio.com/icon/u141393488-13.jpg",
+      "content": "孙艺珍&玄彬果然就够了. 颜艺双百. 我只是为了治下头疼不过起作用了很开心😃 3.10.2019"
+    },
+    {
+      "user": "言之命至",
+      "avatar": "https://img3.doubanio.com/icon/u61389070-14.jpg",
+      "content": "今年最佳韩影。玄彬的角色简直帅气啊，还有孙艺珍也是美到无话可说，剧情也是逐层递进，步步为营，最后牵扯出韩国电影一贯的主题：黑政府，往死里黑。“本想和你一起喝杯烧酒的。”泪目！"
+    },
+    {
+      "user": "西祠",
+      "avatar": "https://img3.doubanio.com/icon/u3007182-26.jpg",
+      "content": "孙艺珍与玄彬的定情作。"
+    },
+    {
+      "user": "近似无限透明的蓝色",
+      "avatar": "https://img3.doubanio.com/icon/u1217525-1.jpg",
+      "content": "别说什么逻辑破绽，也别说强行安排的主旋律结局与我们殊途同归，流畅度与节奏都只是中规中矩，奈何玄彬与孙艺珍就是那种自身光环可以弥补一切缺陷的巨大发光体。救命，当玄彬说我们要坦诚相对时，满脑子都是孙艺珍在镜头前慢慢脱下制服的画面，这个经常请吃饭的漂亮姐姐，真是一娉一笑的脸庞，一呼一吸的胸口起伏，都让人目眩神迷。"
+    },
+    {
+      "user": "207",
+      "avatar": "https://img1.doubanio.com/icon/u1076416-29.jpg",
+      "content": "男女主都莫名其妙"
+    },
+    {
+      "user": "苹果干",
+      "avatar": "https://img3.doubanio.com/icon/u185984958-2.jpg",
+      "content": "男女演员这里面很有cp感，剧情一般，还可以。"
+    },
+    {
+      "user": "秋山",
+      "avatar": "https://img3.doubanio.com/icon/u65646908-16.jpg",
+      "content": "偶吧好酷～～～"
+    },
+    {
+      "user": "横丫肠",
+      "avatar": "https://img3.doubanio.com/icon/u1060981-5.jpg",
+      "content": "真是什么题材都要黑政权，每个孙艺珍和玄彬的特写镜头都是好看的。"
+    },
+    {
+      "user": "李青河",
+      "avatar": "https://img3.doubanio.com/icon/u33065317-16.jpg",
+      "content": "不是，看孙艺珍和玄彬对戏真的太享受了！虽然剧情故事老套+日常黑政府+意料之中的反转，但节奏平稳，全程无尿点，导演找这两位来演商业片也太犯规了吧！"
+    },
+    {
+      "user": "hitlike",
+      "avatar": "https://img3.doubanio.com/icon/u1153505-14.jpg",
+      "content": "这么夸张的故事必须适配更生猛的场景，情节发展看得让人着急，光靠老脸和那点演技显然太弱了。"
+    },
+    {
+      "user": "罗洋",
+      "avatar": "https://img3.doubanio.com/icon/u1871316-4.jpg",
+      "content": "能让人坚持看完吧，一般般"
+    },
+    {
+      "user": "O型血",
+      "avatar": "https://img3.doubanio.com/icon/u155502191-10.jpg",
+      "content": "Ye-jin Son不适合演这种角色，毫无代入感。Hyun Bin很适合演这种类型的电影。谈判专家https://www.bilibili.com/video/av51179224韩国又拍了我们不敢拍的电影https://www.bilibili.com/video/av35433660"
+    },
+    {
+      "user": "zts",
+      "avatar": "https://img1.doubanio.com/icon/u52470011-7.jpg",
+      "content": "靠女神和男神颜值撑起来的电影"
+    },
+    {
+      "user": "张天师",
+      "avatar": "https://img3.doubanio.com/icon/u1300332-134.jpg",
+      "content": "格局想做大，但太单调；女主角谈判水准很差，动不动就哭；特种部队更差莫名其妙就团灭了；玄彬演一个暴徒太没有说服力，声音气息很弱、没有狠气，还是更适合纨绔子弟的角色"
+    },
+    {
+      "user": "小哥2222",
+      "avatar": "https://img3.doubanio.com/icon/u154785243-1.jpg",
+      "content": "拍续集吧，阴阳两隔，也可以让编剧搞个爱情剧本的。"
+    },
+    {
+      "user": "路过蜻蜓",
+      "avatar": "https://img3.doubanio.com/icon/u150543635-4.jpg",
+      "content": "韩国电影又在不遗余力黑自家政府了hh…整部电影节奏紧张，火候掌握还不错，有《恐怖直播》的feel，遗憾后半段过分煽情与结局太理想美好，本应彻头彻尾一黑到底才符合画风主题。而且剧本硬伤未免有点多——谈判过程过于儿戏不严谨，部分剧情不符合逻辑，孙艺珍演技是没有问题的，该哭的该愤怒的都不错，只是人设本身塑造就很矛盾，行为、情感都有愧于“谈判专家”身份（应是导演问题吧）。不过整体还是在合格线上的。\n尤其是！我tm真的每看孙天仙一部作品都不得不花800字狂吹！为什么可以这么漂亮？到底为什么？？？真的…不论拍什么，目前南韩还没有人能撼动孙艺珍“南韩第一仙女”的神座！\n还有玄彬，完全就是行走的荷尔蒙，一直在镜头前干坐让我都替他的荷尔蒙憋不住啊！\n电影达三星及格线以上一点，颜值爆五星，均衡下来四星可以一看~"
+    },
+    {
+      "user": "Alec",
+      "avatar": "https://img1.doubanio.com/icon/u143433332-17.jpg",
+      "content": "7-分片。这电影的故事是典型的一手好牌打的稀烂，手里明明有证据，跑到海外传上网不就完了么，像斯诺登那样。偏不，又绑人质又闹直播又背炸弹，瞎胡闹一通，结果自己到死都没能翻盘。看的时候就一直期待后段能翻转，到最后也真转了，可是效果嘛…别人反转是一招将死反派，这片翻转，一招玩死自己。"
+    },
+    {
+      "user": "不会跳舞的小熊",
+      "avatar": "https://img1.doubanio.com/icon/u1957491-7.jpg",
+      "content": "玄彬的智商突然下线之后就不好看了。"
+    },
+    {
+      "user": "版王",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "太脱离现实了"
+    },
+    {
+      "user": "洛城上空的麦田",
+      "avatar": "https://img3.doubanio.com/icon/u1275227-1.jpg",
+      "content": "打高分纯粹为了大韩民国俩最漂亮的人。。。颜狗不如舔狗啊"
+    },
+    {
+      "user": "雪蕉",
+      "avatar": "https://img3.doubanio.com/icon/u1400056-86.jpg",
+      "content": "玄彬啊，你挑剧本的时候可长点心吧。。。"
+    },
+    {
+      "user": "😕",
+      "avatar": "https://img3.doubanio.com/icon/u47042347-33.jpg",
+      "content": "穿制服的孙艺珍！！！"
+    },
+    {
+      "user": "索尔之锤",
+      "avatar": "https://img3.doubanio.com/icon/u74937470-11.jpg",
+      "content": "珍姐自动加一星。节奏尚可，本以为是展示谈判技巧的片，没想到是来黑政府的。都8012年了还黑政府也太说不过去了吧，铁雨流感那种黑其他国家的思路才是正道吧。以及，校长升官好快"
+    },
+    {
+      "user": "依旧西兰花",
+      "avatar": "https://img3.doubanio.com/icon/u2229021-42.jpg",
+      "content": "6.5，很流水，帅男美女的魅力不在爱情剧情的话，真的需要更多演技实力来支撑啊～"
+    },
+    {
+      "user": "青石",
+      "avatar": "https://img3.doubanio.com/icon/u46921322-3.jpg",
+      "content": "玄彬从车上下来复仇那段，帅得没话说，剧情很扯，两位演员的颜值和演技拯救了这部电影"
+    },
+    {
+      "user": "PASSMEBY",
+      "avatar": "https://img3.doubanio.com/icon/u2116066-105.jpg",
+      "content": "怒赞玄彬的颜。孙欧尼最后一幕宣誓太帅气了"
+    },
+    {
+      "user": "一句话影评",
+      "avatar": "https://img3.doubanio.com/icon/u62457534-4.jpg",
+      "content": "很精彩 在选不出几部能看的韩国电影的今年 协商表现优秀 完成度可以打到满分 人物的形象虽然不够丰富 但十分准确 演员牢牢抓住了一个情绪点来演绎 整部剧就不会梳理和跑偏"
+    },
+    {
+      "user": "Noir",
+      "avatar": "https://img1.doubanio.com/icon/u61303633-27.jpg",
+      "content": "违和感很多…一是女谈判官看到队长被杀了就歇斯底里了…二是杀人不眨眼的佣兵头头怎么可能玩要挟啊啊我就要个公道这种戏码，以暴制暴不是简单有效得多？反派死于话多都8012年了还来这套？？"
+    },
+    {
+      "user": "阿不思议甜",
+      "avatar": "https://img3.doubanio.com/icon/u52259960-4.jpg",
+      "content": "玄彬你怎么回事儿，死得太仓促了叭。/韩国电影看多了，会真的觉得他们zf很emmmmm"
+    },
+    {
+      "user": "幻想家",
+      "avatar": "https://img1.doubanio.com/icon/u77791055-8.jpg",
+      "content": "一看是韩国电影就知道了，韩国政府一定不是正面角色。孙艺珍真是好看"
+    },
+    {
+      "user": "shs06",
+      "avatar": "https://img3.doubanio.com/icon/u55448326-5.jpg",
+      "content": "还是比较失望的吧，虽然有些悬疑的成分，但整部电影缺少张力，可惜了孙艺珍每次哭戏都那么拼，却始终找不到共鸣。整个故事从头到尾都没有一个清晰的交代，两个案件的连接也非常牵强和生硬，最后的结局太过仓促和简单。而且电影的主题应该是谈判/协商，但女主从头到尾的谈判都没有成功的……"
+    },
+    {
+      "user": "夜带猫",
+      "avatar": "https://img3.doubanio.com/icon/u41006416-21.jpg",
+      "content": "韩国的电影即便流水线作业也能有不错的质量保证，加上俊男靓女票房妥妥的。故事有恐怖直播的影子，黑政府黑高官成了政治正确，高层阴谋中总会因为正直小人物的据理力争而出现反转，不过更多的是石沉大海吧。"
+    },
+    {
+      "user": "Entrop1e",
+      "avatar": "https://img3.doubanio.com/icon/u34154206-111.jpg",
+      "content": "我只说一句 孙艺珍虽然老了 但是毕竟曾经是白夜行里面征服我的雪穗啊 还是那么美 玄彬的酒窝太犯规了"
+    },
+    {
+      "user": "vivien",
+      "avatar": "https://img3.doubanio.com/icon/u43947990-143.jpg",
+      "content": "如果不是因为有男女主角撑着的话。为何韩国老拍这类电影 明明是黑的还要说成白。"
+    },
+    {
+      "user": "杳圻",
+      "avatar": "https://img3.doubanio.com/icon/u38648875-4.jpg",
+      "content": "孙艺珍的颜值真的很能打……"
+    },
+    {
+      "user": "風來",
+      "avatar": "https://img3.doubanio.com/icon/u2944833-53.jpg",
+      "content": "不就是绑个架么，太做作了"
+    },
+    {
+      "user": "Riobluemoon",
+      "avatar": "https://img3.doubanio.com/icon/u51715849-3.jpg",
+      "content": "7分。这片子有个很不错的开头，但拍着拍着就走偏了。说是谈判，原本我期待的是类似《王牌对王牌》那样双方心理博弈的过程，但竟然拍成了政治黑幕片？？更让人没法理解的是最后竟然是这样一个莫名其妙的结尾？？要这么简单还搞这么多干嘛啊？？？还好男女主颜值在线，算是扳回一点分把。"
+    },
+    {
+      "user": "Sara",
+      "avatar": "https://img3.doubanio.com/icon/u86907086-63.jpg",
+      "content": "哟哟哟，原来艺珍没有和导演拍戏，而是和我们的金痞子拍戏了哇。"
+    },
+    {
+      "user": "木光",
+      "avatar": "https://img3.doubanio.com/icon/u57338332-16.jpg",
+      "content": "犯罪悬疑，拍的没一点张力，导演是真的不行。从头到尾看到孙艺珍和玄彬在那么努力的撑起影片我就着急，请这两人来拍个爱情片不行吗。都啥年代了，反派能不能不要用前特种兵退役做了雇佣兵这样的设定了！？还有这个谈判专家的水准还不如10年前的TVB剧来的专业。其次韩影自黑政府的桥段就别算什么加分项了吧。"
+    },
+    {
+      "user": "维克45",
+      "avatar": "https://img1.doubanio.com/icon/u63333099-9.jpg",
+      "content": "孙艺珍又演一些对剧情帮倒忙的角色，玄彬死后才做了正确的事，晕。"
+    },
+    {
+      "user": "烟视媚行",
+      "avatar": "https://img3.doubanio.com/icon/u2092765-1.jpg",
+      "content": "网络谈判和直播这种情节设置显得特别多余。之前整个计划让人感觉周密又保险还留足了余地，最后结局来个大散架。明明掌握了那些资料，谈判过程也已经在网上传播，那几个高管的罪行差不多算昭然若揭了。偏还要自己遣散了所有小弟冲进去寻仇，在门口倒杀的痛快，那干脆冲到里面一路杀个痛快啊。结果偏要废话一堆等狙击手来，最后还莫名其妙的自我牺牲。如果为了报妹妹的仇就要牺牲自己，那这种报仇一点意义都没有。"
+    },
+    {
+      "user": "樱桃蜂蜜",
+      "avatar": "https://img3.doubanio.com/icon/u129811370-2.jpg",
+      "content": "我真的 要被玄彬搞疯了"
+    },
+    {
+      "user": "蓉蓉酱",
+      "avatar": "https://img3.doubanio.com/icon/u53524787-2.jpg",
+      "content": "男女主演的颜值三分，故事一星"
+    },
+    {
+      "user": "低等游民",
+      "avatar": "https://img3.doubanio.com/icon/u52744740-3.jpg",
+      "content": "依然是黑政府的套路，人物设置太过典型，剧情冲突非常刻意，只能算是对现实不满的理想化心理投射，烂梗实在不少。韩国现在每年一到两部这样的电影几乎成标配了，但孙艺珍+玄彬还是很养眼。"
+    },
+    {
+      "user": "vivien",
+      "avatar": "https://img3.doubanio.com/icon/u1124946-46.jpg",
+      "content": "我是颜控的四星。。。。用玄彬的台词概括剧情：作为谈判专家你实在是太逊了"
+    },
+    {
+      "user": "毛毛毛男",
+      "avatar": "https://img3.doubanio.com/icon/u51997514-100.jpg",
+      "content": "看完电影结果发现并不是女主和罪犯俩人之间高智商的斗智斗勇。"
+    },
+    {
+      "user": "yuh̶a̶o",
+      "avatar": "https://img3.doubanio.com/icon/u54472824-2.jpg",
+      "content": "剧本太差了，差到演员的好演技也拯救不了"
+    },
+    {
+      "user": "钗头金",
+      "avatar": "https://img1.doubanio.com/icon/u1712238-118.jpg",
+      "content": "玄彬还是那么好看啊……"
+    },
+    {
+      "user": "满月",
+      "avatar": "https://img1.doubanio.com/icon/u115131162-7.jpg",
+      "content": "《协商》——可能很多恐袭和人为的灾难后面藏着咱们老百姓不敢想象的隐秘和丑恶。"
+    },
+    {
+      "user": "MK@1Q84",
+      "avatar": "https://img3.doubanio.com/icon/u1605269-4.jpg",
+      "content": "为什么出包的总是高层而救场的都是底层呢？"
+    },
+    {
+      "user": "Santorini",
+      "avatar": "https://img3.doubanio.com/icon/u150948299-25.jpg",
+      "content": "女主的身份应该更强势些才对吧，现在太柔了，少了些斗智斗勇的刺激感"
+    },
+    {
+      "user": "温带季风归来",
+      "avatar": "https://img3.doubanio.com/icon/u2680703-42.jpg",
+      "content": "大韩民国黑透了！😺😺😺"
+    },
+    {
+      "user": "范思鱼",
+      "avatar": "https://img1.doubanio.com/icon/u3992724-48.jpg",
+      "content": "零智商的剧情，只有自黑勇气一如往常。"
+    },
+    {
+      "user": "通叔",
+      "avatar": "https://img3.doubanio.com/icon/u47983459-3.jpg",
+      "content": "为孙艺珍和玄彬的颜值打call！！"
+    },
+    {
+      "user": "风中李子树",
+      "avatar": "https://img3.doubanio.com/icon/u56827554-2.jpg",
+      "content": "棒子敢想系列。故事挺不错的，女主演得有点不自然。其他都挺好，反正就是黑，喜闻乐见"
+    },
+    {
+      "user": "杀猪大娘",
+      "avatar": "https://img3.doubanio.com/icon/u4574689-13.jpg",
+      "content": "玄彬邪魅太好看 孙艺珍演啥都那样"
+    },
+    {
+      "user": "楊零度",
+      "avatar": "https://img1.doubanio.com/icon/u66737246-19.jpg",
+      "content": "在强权与阴谋面前，情商、智商再高的谈判专家也救不了人质，何况女神呈现的是一个并不足够聪明、徒有正义的谈判专家。"
+    },
+    {
+      "user": "文李",
+      "avatar": "https://img3.doubanio.com/icon/u13863979-13.jpg",
+      "content": "真难看"
+    },
+    {
+      "user": "KAPoOo",
+      "avatar": "https://img3.doubanio.com/icon/u14407242-56.jpg",
+      "content": "玄彬颜狗不适合做出理性评价"
+    },
+    {
+      "user": "丝竹宴音",
+      "avatar": "https://img1.doubanio.com/icon/u48149885-19.jpg",
+      "content": "感觉有点《恐怖直播》的感觉，但是孙艺珍的人设不行"
+    },
+    {
+      "user": "慕容白",
+      "avatar": "https://img3.doubanio.com/icon/u44276090-5.jpg",
+      "content": "喜欢孙艺珍，电影本身极端化英雄主义，不过喜欢这种风格"
+    },
+    {
+      "user": "张小胖",
+      "avatar": "https://img3.doubanio.com/icon/u41927171-5.jpg",
+      "content": "韩国的编剧真的非常不错，这电影是真实故事发生的吗？还有女主角的脸是不是整容了，怎么看着电影很容易就出戏呢？"
+    },
+    {
+      "user": "cult",
+      "avatar": "https://img3.doubanio.com/icon/u53088168-20.jpg",
+      "content": "谈判专家全程被绑匪牵着鼻子走，从未占据上风，一直在承担棋子的作用。为了戏剧冲突和反转，牺牲掉的是谈判的逻辑和专业性，况且谈判过程还不精彩，有张力的情节全部来自某种突然而至的真相，而不是谈判双方的博弈和周旋。同样是黑政府，这样的题材原本可以做成《恐怖直播》那种单一场景，但戏剧冲突强烈，观感紧张刺激的片子，但《协商》的野心太大，又国际犯罪团伙，又跨国行动，最后玩砸了。好在谈判双方是孙艺珍和玄彬"
+    },
+    {
+      "user": "小萧",
+      "avatar": "https://img3.doubanio.com/icon/u79942000-5.jpg",
+      "content": "演员认真，颜值高，剧情倒不复杂，结尾正经八百，还行。"
+    },
+    {
+      "user": "ShutUp 王書紀",
+      "avatar": "https://img3.doubanio.com/icon/u2394533-61.jpg",
+      "content": "孙艺珍应该推掉这样的反智角色"
+    },
+    {
+      "user": "志大无胸",
+      "avatar": "https://img3.doubanio.com/icon/u2529003-5.jpg",
+      "content": "女主长那么美，结果竟然没P用…… 这个设定是啥意思啊。"
+    },
+    {
+      "user": "花老板的猫",
+      "avatar": "https://img3.doubanio.com/icon/u68753727-13.jpg",
+      "content": "会跟《迷雾》里的女主比较。太弱了。谈判思维只局限在想要保证人质安全和玄彬的案子上，以及不想再次经历谈判失败的经历的一种执念，完全忽略了军政商勾结的这张几乎无法抗衡的网。"
+    },
+    {
+      "user": "白熊大王™",
+      "avatar": "https://img3.doubanio.com/icon/u1608475-6.jpg",
+      "content": "连悍匪都演绎得那么销魂"
+    },
+    {
+      "user": "杨三疯",
+      "avatar": "https://img1.doubanio.com/icon/u43703010-7.jpg",
+      "content": "相较之下某国在反腐的道路上任重道远啊，看看韩国已经利用国内惯常的假直播假代购的方式打击腐败了。反腐归反腐狗血归狗血，但棒子你们考虑过泰国黑帮的感受吗？"
+    },
+    {
+      "user": "梦行30",
+      "avatar": "https://img1.doubanio.com/icon/u57080555-27.jpg",
+      "content": "黑政府，黑高官，韩国电影人就是胆子大。后半部开始解谜才稍微刺激一点，还不错，这种电影，看到最后总是希望坏人获胜！为什么不炸死他们！"
+    },
+    {
+      "user": "峰瑞",
+      "avatar": "https://img3.doubanio.com/icon/u89451365-4.jpg",
+      "content": "两星半，一个人一个戏路，明星堆砌并不都会成功。"
+    },
+    {
+      "user": "维雪魂",
+      "avatar": "https://img1.doubanio.com/icon/u78957039-29.jpg",
+      "content": "你们韩国谈判专家就这水平真是可笑。最后又是低级黑体制政府那一套。"
+    },
+    {
+      "user": "雨诗",
+      "avatar": "https://img1.doubanio.com/icon/u27043457-9.jpg",
+      "content": "The.Negotiation.2018.1080p.FHDRip.H264.AAC-NonDRM"
+    },
+    {
+      "user": "无机客",
+      "avatar": "https://img3.doubanio.com/icon/u1065130-33.jpg",
+      "content": "个人感觉，这部片子里无论什么演员，都让位于剧本和故事了，韩国的影视产业的基础是这些轻轻恳恳搞创作的编剧啊。"
+    },
+    {
+      "user": "RealityBites",
+      "avatar": "https://img3.doubanio.com/icon/u51894959-273.jpg",
+      "content": "韩国电影黑政府系列已经是闭着眼睛随便写写都可以了，标准流程了。只是这俩主演也太养眼了，我真的只想看他们一起去喝杯烧酒谈个恋爱。"
+    },
+    {
+      "user": "untery",
+      "avatar": "https://img3.doubanio.com/icon/u60289458-4.jpg",
+      "content": "谷阿莫"
+    },
+    {
+      "user": "王喝冰",
+      "avatar": "https://img1.doubanio.com/icon/u52691766-9.jpg",
+      "content": "有些过于刻意了，戏剧冲突够了，但表现出来的张力不够。缺乏惊喜，无功无过的水准之作吧。说实话，孙艺珍演这种电影是大材小用了，以后孙女神接戏一定要好好挑剧本啊！"
+    }
+  ]
+}

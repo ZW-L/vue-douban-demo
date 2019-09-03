@@ -4,9 +4,6 @@
       <div class="title">
         <span class="title-left">{{categoryInfo.title}}</span>
         <span class="title-right" v-if="categoryInfo.subCategory">{{categoryInfo.subCategory}}</span>
-        <span class="title-more">
-          <router-link to="/list" :list="list" :type="categoryInfo.type">更多</router-link>
-        </span>
       </div>
       <div class="content">
         <div class="item" v-for="item of listPart6" :key="item.id">
@@ -34,18 +31,13 @@ export default {
     }
   },
 
-  data(){
-    return {
-      list: [],
-      listPart6: []
+  computed: {
+    list() {
+      return this.categoryInfo.list;
+    },
+    listPart6() {
+      return this.list.slice(0, 6);
     }
-  },
-
-  mounted() {
-    getList(this.categoryInfo.listName).then(res => {
-      this.list = res.data.data;
-      this.listPart6 = this.list.slice(0, 6)
-    })
   }
 }
 </script>

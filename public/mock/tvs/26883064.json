@@ -1,0 +1,1240 @@
+{
+  "title": "白夜追凶",
+  "url": "https://movie.douban.com/subject/26883064/",
+  "rate": "9.0",
+  "id": "26883064",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2483150767.jpg",
+  "info": [
+    "导演: 王伟",
+    "编剧: 指纹 / 顾小白",
+    "主演: 潘粤明 / 王泷正 / 梁缘 / 吕晓霖 / 尹姝贻 / 侯雪龙 / 宋乃刚 / 王余阳 / 博超 / 李胜强 / 韩烨洲 / 杨凯迪 / 马薇 / 张栋栋 / 李振涛 / 李胜荣 / 张芯宁 / 岳士涵 / 吴文璟 / 刘柏希 / 黄伟 / 孙蛟龙 / 周军 / 王政 / 梁刚 / 高梓刚 / 刘辛格 / 曾子建 / 刘天蔚 / 王剑明 / 张兆忠 / 张璐 / 刘宣 / 张伟 / 鹿时源 / 孙建江 / 孙乐天 / 张美琪 / 国立刚 / 杨大为 / 宋永恒 / 天笑 / 秦海 / 杨阳 / 宁小花 / 高果 / 于京京",
+    "类型: 剧情 / 悬疑 / 犯罪",
+    "制片国家/地区: 中国大陆",
+    "语言: 汉语普通话",
+    "首播: 2017-08-30(中国大陆)",
+    "集数: 32",
+    "单集片长: 45分钟",
+    "又名: 白夜追凶 第一季 / Day and Night"
+  ],
+  "desc": "一场灭门惨案，让原本逍遥浪荡的关宏宇成了在逃的通缉嫌犯。身为刑侦支队队长的双胞胎哥哥关宏峰，誓要查出真相，但出于亲属回避的原则，警队禁止关宏峰参与灭门案的调查工作。关宏峰义愤辞职。调任了代支队长的周巡处于破案压力，也为了追寻关宏宇的下落，设计让离职的关宏峰以“编外顾问”的身份继续参与各大重案要案的调查。而警队所有人都被隐瞒了。由于罹患“黑暗恐惧症”，白天和黑夜出现在警队的“顾问关宏峰”，其实是由孪生兄弟二人白夜分饰，性格迥异的兄弟两人在警队中马脚不断，背负着随时被周巡及各路人马发现的危险，一路侦破了各种大案要案，目的只是想伺机调阅灭门案的案卷查出真相，以还清白……",
+  "members": {
+    "director": {
+      "name": "王伟 Wei Wang",
+      "avatar": "https://img3.doubanio.com/f/movie/14960825e118267b5857fc0ae9f306ef8c74da8f/pics/movie/has_douban@2x.png"
+    },
+    "cast": [
+      {
+        "name": "潘粤明 Yueming Pan",
+        "avatar": "https://img3.doubanio.com/f/movie/14960825e118267b5857fc0ae9f306ef8c74da8f/pics/movie/has_douban@2x.png"
+      },
+      {
+        "name": "王泷正 Longzheng Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519454762.99.jpg"
+      },
+      {
+        "name": "梁缘 Yuan Liang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504950555.57.jpg"
+      },
+      {
+        "name": "吕晓霖 Xiaolin Lü",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519454680.72.jpg"
+      },
+      {
+        "name": "尹姝贻 Shuyi Yin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pjdnDANp4zBIcel_avatar_uploaded1496479877.66.jpg"
+      },
+      {
+        "name": "侯雪龙 Xuelong Hou",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1488255914.77.jpg"
+      },
+      {
+        "name": "宋乃刚 Naigang Song",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504413850.64.jpg"
+      },
+      {
+        "name": "王余阳 Yuyang Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504757179.43.jpg"
+      },
+      {
+        "name": "博超 Bo Chao",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507519622.67.jpg"
+      },
+      {
+        "name": "李胜强 Shengqiang Li",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "韩烨洲 Yezhou Han",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507635849.89.jpg"
+      },
+      {
+        "name": "杨凯迪 Kaidi Yang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1401112685.76.jpg"
+      },
+      {
+        "name": "马薇 Angelina Ma",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505557115.02.jpg"
+      },
+      {
+        "name": "张栋栋 Dongdong Zhang",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "李振涛 Zhentao Li",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "李胜荣 Shengrong Li",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504757658.2.jpg"
+      },
+      {
+        "name": "张芯宁 Xinning Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504757771.75.jpg"
+      },
+      {
+        "name": "岳士涵 Shihan Yue",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504757900.47.jpg"
+      },
+      {
+        "name": "吴文璟 William Wu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504758047.25.jpg"
+      },
+      {
+        "name": "刘柏希 Boxi Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504758147.73.jpg"
+      },
+      {
+        "name": "黄伟 Wei Huang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507023990.45.jpg"
+      },
+      {
+        "name": "孙蛟龙 Jiaolong Sun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506554572.56.jpg"
+      },
+      {
+        "name": "周军 Jun Zhou",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "王政 Zheng Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1457357340.92.jpg"
+      },
+      {
+        "name": "梁刚 Gang Liang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534862140.99.jpg"
+      },
+      {
+        "name": "高梓刚 Zigang Gao",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1486910554.69.jpg"
+      },
+      {
+        "name": "刘辛格 Xinge Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504759156.14.jpg"
+      },
+      {
+        "name": "曾子建 Zijian Zeng",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505649266.39.jpg"
+      },
+      {
+        "name": "刘天蔚 Tianwei Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1476002964.21.jpg"
+      },
+      {
+        "name": "王剑明 Jianming Wang",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "张兆忠 Zhaozhong Zhang",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "张璐 Lu Zhang",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "刘宣 Xuan Liu",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "张伟 Wei Zhang",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "鹿时源 Shiyuan Lu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1493284638.03.jpg"
+      },
+      {
+        "name": "孙建江 Jianjiang Sun",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "孙乐天 Letian Sun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504756900.4.jpg"
+      },
+      {
+        "name": "张美琪 Maggie Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504758674.64.jpg"
+      },
+      {
+        "name": "国立刚 Ligang Guo",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "杨大为 Dawei Yang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504756941.15.jpg"
+      },
+      {
+        "name": "宋永恒 Yongheng Song",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507196083.54.jpg"
+      },
+      {
+        "name": "天笑 Tian Xiao",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "秦海 Hai Qin",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "杨阳 Yang Yang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pYRPf40HZ-0Mcel_avatar_uploaded1507628024.83.jpg"
+      },
+      {
+        "name": "宁小花 Xiaohua Ning",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504756996.0.jpg"
+      },
+      {
+        "name": "高果 Guo Gao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504758865.02.jpg"
+      },
+      {
+        "name": "于京京 Jingjing Yu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505647239.39.jpg"
+      },
+      {
+        "name": "徐槿哲 Jinzhe Xu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pN_h468W_pDccel_avatar_uploaded1554291110.07.jpg"
+      },
+      {
+        "name": "夏锐锋 Ruifeng Xia",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pgyjfedISOh0cel_avatar_uploaded1537501280.47.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2494602885.jpg?",
+        "src": "http://vt1.doubanio.com/201908311539/5a744bd7b6e6de5085bf78fb30c21b82/view/movie/M/302190884.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2501758027.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2499330175.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2483152336.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2459436790.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "皮特飛絲",
+      "avatar": "https://img3.doubanio.com/icon/u64164984-4.jpg",
+      "content": "4星半，荣幸作为混录师和后期声音总监参与制作，历经三四个月，不紧不慢的完成。虽说剧情倒背如流，但依然绝对是少见的良心剧集。年轻的导演与主创团队尊重每一个技术环节，这点很赞。这也是我的团队多年来做的最认真最较真的一部剧。"
+    },
+    {
+      "user": "榴莲味的小包子",
+      "avatar": "https://img3.doubanio.com/icon/u39520405-4.jpg",
+      "content": "时而像韩庚，时而像郭涛，时而像黄渤。打一名男演员。"
+    },
+    {
+      "user": "洞🕳️",
+      "avatar": "https://img3.doubanio.com/icon/u38509400-20.jpg",
+      "content": "潘粤明老师是不是该减减肥（但实力派不需要减肥？"
+    },
+    {
+      "user": "大島",
+      "avatar": "https://img3.doubanio.com/icon/u2608560-91.jpg",
+      "content": "这部剧最大的反转就是我对酒吧女老板的好感"
+    },
+    {
+      "user": "Charlotte",
+      "avatar": "https://img3.doubanio.com/icon/u31348707-61.jpg",
+      "content": "真真的低估了当今的网剧质量，印象里仍停留在几年前粗制滥造页游水平，好看程度不亚于十几年前的《黑洞》。流量鲜肉带起的尬演风气当道，大大小小角色还能有板有眼游刃有余，都带着精神气和人味儿，忍不住逢人就推荐今天你看《白夜追凶》了吗？潘在离婚风波之后，演技终于在线确定成为其标签之一了。"
+    },
+    {
+      "user": "小江湖骗子林羽竹",
+      "avatar": "https://img3.doubanio.com/icon/u48486444-26.jpg",
+      "content": "七案紧扣主案的高完整度剧作，杀人回忆长镜头开篇，互换身份、双雄对立又联合的黑色电影设定，沉稳的本格推理和布局，潘粤明节制的表演，社会事件与警界内幕的影射，出色的动作音乐，13集出现爆点。作者个人风格还能更强，幽默巧合略多余，造型差评。和无证之罪一文一武，2017惊喜圆满（期待韩彬衍生剧"
+    },
+    {
+      "user": "大田切让",
+      "avatar": "https://img3.doubanio.com/icon/u66419220-63.jpg",
+      "content": "一口气看完五集的我表示欲罢不能！！！演员演技在线，编剧智商也在线，兄弟梗也太好嗑了吧！"
+    },
+    {
+      "user": "我的ABC",
+      "avatar": "https://img3.doubanio.com/icon/u34011099-10.jpg",
+      "content": "难得看到一部各工种智商都在线的罪案剧"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img1.doubanio.com/icon/u52240889-47.jpg",
+      "content": "潘粤明vs潘粤暗"
+    },
+    {
+      "user": "月饼小姐",
+      "avatar": "https://img3.doubanio.com/icon/u1737665-4.jpg",
+      "content": "最近最真诚的一部网剧。这个夏天被各种网剧高概念低制作晃瞎了双眼。想支持国产都要鼓起勇气，看两集就要换个美剧洗洗眼睛。这个剧算不错，故事可以，没有把观众当白痴。就是潘粤明怎么胖了那么多！"
+    },
+    {
+      "user": "瑾朵朵",
+      "avatar": "https://img3.doubanio.com/icon/u3961919-365.jpg",
+      "content": "弟弟呀，你可长点心吧，你哥他真把你当表弟坑啊！"
+    },
+    {
+      "user": "中产阎王希夷子",
+      "avatar": "https://img3.doubanio.com/icon/u1528641-60.jpg",
+      "content": "能get到BMI24.3的潘粤明的魅力了。"
+    },
+    {
+      "user": "闲人",
+      "avatar": "https://img3.doubanio.com/icon/u5054748-6.jpg",
+      "content": "双胞胎侦探加逃犯的设定新倒新了，但是变得非常奇怪，最奇怪的是“黑暗恐惧症”这种BUG级别的设定。"
+    },
+    {
+      "user": "直覺呈現",
+      "avatar": "https://img3.doubanio.com/icon/u41557850-3.jpg",
+      "content": "我有时候很不明白，好不好摆在那，为什么一定要强行差评，这部剧评一星两星你们真的觉得合适吗？这是电视剧逻辑顺畅就行，剧情上有 bug很正常，是剧就肯定有，没有的话那就是现实了而不是供大家娱乐的剧集了，5星给这部剧，他让我看的爽，我也跟着剧里的二关，希望找出凶手"
+    },
+    {
+      "user": "大瘦瘦",
+      "avatar": "https://img3.doubanio.com/icon/u1804355-2.jpg",
+      "content": "所有公众号都沦陷了，狂推这个渣渣，昨天熬着看了一集，就说开场那长镜头吧，还不如我们豆友云中拍的呢。。。"
+    },
+    {
+      "user": "viennavirus",
+      "avatar": "https://img3.doubanio.com/icon/u1014188-36.jpg",
+      "content": "编剧水平有点飘忽，但人物写的很好，逼死同行是没问题了。"
+    },
+    {
+      "user": "小岩井",
+      "avatar": "https://img3.doubanio.com/icon/u45442872-6.jpg",
+      "content": "白天高冷学霸关老师，晚上放飞自我社会关。双胞胎白天黑夜两种人格连续破案缉凶，兄弟俩的互动很有爱，各种性格迥异的微表情特好玩。这剧情越看越带感，破案的逻辑推理和刑侦细节很长知识，国产刑侦剧有种特别贴合现实的真实感，这部良心网剧比之前的《心理罪》和《暗黑者》更对我胃口。"
+    },
+    {
+      "user": "生活笔记",
+      "avatar": "https://img3.doubanio.com/icon/u1165759-2.jpg",
+      "content": "不值5星，女主演技太垃圾了，尴尬的不行，第一集节奏太拖沓，都不如法医秦明"
+    },
+    {
+      "user": "Amberose",
+      "avatar": "https://img3.doubanio.com/icon/u3244462-45.jpg",
+      "content": "潘粤明一人分饰两角，演技也过硬，挺让人惊喜的。剪辑、节奏、配乐和摄影都不错，网剧能做出美剧的效果实在是不容易。最关键的是剧本够扎实，细节也经得起考验，台词对得起观众智商。优酷上现在已经出了5集了。"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "险些因为这个有点山寨的剧名错过这部剧，第一季完结，三点：前半段一气呵成，标准的推理悬疑模板，20集之后风格变化，偏于社会派和人性描写，节奏相对不如前半，但结局峰回路转的铺设很精彩，期待第二季，潘粤明封神之作，很喜欢周巡"
+    },
+    {
+      "user": "眠去",
+      "avatar": "https://img3.doubanio.com/icon/u1418881-44.jpg",
+      "content": "终于从少年长成男人，魅力爆棚"
+    },
+    {
+      "user": "戚阿九",
+      "avatar": "https://img3.doubanio.com/icon/u55885396-33.jpg",
+      "content": "群演能不能走点儿心！迪厅里的大妈能不能舞动得有点儿灵魂！"
+    },
+    {
+      "user": "哈库拉玛塔塔",
+      "avatar": "https://img3.doubanio.com/icon/u2253927-30.jpg",
+      "content": "2017-67. 开头很不错，潘粤明演技真好，眼神利啊"
+    },
+    {
+      "user": "可风",
+      "avatar": "https://img3.doubanio.com/icon/u6227698-4.jpg",
+      "content": "五分钟弃，现实生活中有这种风衣装逼犯儿的警察吗？"
+    },
+    {
+      "user": "神探夏老师",
+      "avatar": "https://img3.doubanio.com/icon/u100665563-3.jpg",
+      "content": "虽说以前一直吐槽国产剧，但是这部真的惊艳到我了，可以说是一部相当真诚的网剧。首先目前来看主角全都演技在线，其次编剧没有把观众当傻子，情节推动合理，悬念设置得也恰到何处，其他特效灯光摄影也都挑不出毛病。值得一追。"
+    },
+    {
+      "user": "布",
+      "avatar": "https://img3.doubanio.com/icon/u44532718-4.jpg",
+      "content": "最近这剧挺火，看了4集(一个单元案件)。双胞胎一警一犯，日夜互换身份破案，挺有新意。民间痕迹学达人指纹参与编剧，让破案过程很有逼格和专业水准，一些现场和鉴定的镜头看着逼真。但演员演技还是一般，细节和逻辑硬伤不少，尤其是巧合的设计太过生硬。豆瓣评分9.0分虚高，可看，但请不要捧杀！"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "虚高，除了塞了个一人分饰两角的噱头在里面，其实拍的非常平庸，支线故事太不吸引人了，以类似单元剧的方式每几集一个案子，国产以往也有过，比如《重案六组》，甚至一人分饰两角也不是首次；大概国内大部分观众饿的太久，看到稍微新鲜一点的玩意儿就两眼发光，当然，这也是国内影视剧市场的病态表现。"
+    },
+    {
+      "user": "zytt919",
+      "avatar": "https://img3.doubanio.com/icon/u152378737-1.jpg",
+      "content": "潘粤明的演技可以啊，还有我的邰队，帅的怕人。电影的既视感。网剧越来越有范儿了。哦，对了，口味略重，至少第一集不比法医秦明差，关键还没打码，大家赶紧去看。希望后面不要让我们失望。"
+    },
+    {
+      "user": "呲哇哇",
+      "avatar": "https://img1.doubanio.com/icon/u3944717-8.jpg",
+      "content": "吹这剧好看的人，看过其他的刑侦剧吗？"
+    },
+    {
+      "user": "囧囧有神晨小咩",
+      "avatar": "https://img1.doubanio.com/icon/u2554130-199.jpg",
+      "content": "周舒桐整部剧最大败笔，15集因为她整个垮掉。"
+    },
+    {
+      "user": "方悄悄",
+      "avatar": "https://img1.doubanio.com/icon/u1783224-27.jpg",
+      "content": "质感还可以，谁看完说说感受，我还是觉得节奏有点慢，人没跑起来，是不是我有问题"
+    },
+    {
+      "user": "dayday",
+      "avatar": "https://img1.doubanio.com/icon/u50629676-18.jpg",
+      "content": "老潘可以啊，一人分饰两角，而且演绎地各有千秋，剧情引人入胜，有时候还挺吓人的，良心国产剧，良心网络剧！"
+    },
+    {
+      "user": "李九弟Jody",
+      "avatar": "https://img3.doubanio.com/icon/u64304532-10.jpg",
+      "content": "开场五分钟的场面调度相当显诚意，故事也有创新点。（看到小潘资源好起来我就放心了。）“1+7”的模式，7个分案应该都与主线相关，这个铺陈能力，野心很大。（除了26-27那个枪支案差了点，其他确实扎实。大结局哭死我了，不是那种虐心的难受，而是像历经双关三十年等待，往事如电影般浮现）"
+    },
+    {
+      "user": "罗弘霉素",
+      "avatar": "https://img3.doubanio.com/icon/u18194188-65.jpg",
+      "content": "我过去很不喜欢潘粤明，我现在改。这部剧，我舔屏。"
+    },
+    {
+      "user": "安蓝·怪伯爵𓆝𓆟𓆜",
+      "avatar": "https://img3.doubanio.com/icon/u1056861-674.jpg",
+      "content": "关宏宇曾因倒卖盗版音像被拘留，小白也在街边卖盗版盘！带小周蹦迪想起跟黎小星那段！薅猫跟拎狗子小白一样！满满情不自禁的回忆！潘小白到分裂潘，这次角色绝对有助演技爆发！虽然后程略乱但没垮掉！“嗓子那么好咋不去跨界歌王”于是大胆儿就唱白天不懂夜的黑啦~最后那邪魅一笑咱S2见！ps韩彬你个大骗子！"
+    },
+    {
+      "user": "儒家颜路",
+      "avatar": "https://img3.doubanio.com/icon/u171513759-1.jpg",
+      "content": "我看了五遍了，真正能让我看五遍的目前只有甄嬛传，琅琊榜和白夜了，真心吸引人。国内破案悬疑的优秀剧座，尤其是最后一幕，一张脸出现了哥哥弟弟两种表情，演技炸裂了。可我还喜欢那个戴眼镜的心理犯罪学家，登程上路，是我的梗，好帅。"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "绝没有营销号们炒作的那么了不起，却不失为一次勇敢的尝试。最难能可贵的是抛弃了令人生厌的IP，而是做原创剧本。即使双胞胎的设定充满逻辑上的漏洞，但仍值得鼓励和肯定，潘粤明没有隔壁秦昊演的流畅自然，不过这位荪亚少爷也该真正火一把了。网剧力量越来越强大，那些苟延残喘的垃圾导演该小心了"
+    },
+    {
+      "user": "切·格瓦斯",
+      "avatar": "https://img3.doubanio.com/icon/u50116284-150.jpg",
+      "content": "刚毕业的女警员是国产探案剧的标配"
+    },
+    {
+      "user": "弥呀",
+      "avatar": "https://img3.doubanio.com/icon/u2723668-61.jpg",
+      "content": "制作很诚意！双胞胎这个梗，玩儿这么久还能玩儿出新意，不错！潘粤明老师已然从文艺小鲜肉成长为胖大叔演技派，令人欣慰/心碎啊！"
+    },
+    {
+      "user": "UUR",
+      "avatar": "https://img1.doubanio.com/icon/u1673529-19.jpg",
+      "content": "难得看到这么好的国产剧，太好看了，，潘粤明演技炸裂，最后几集好喜欢老刘"
+    },
+    {
+      "user": "z先森",
+      "avatar": "https://img3.doubanio.com/icon/u33944868-72.jpg",
+      "content": "看了一集 大bug：1.哥哥弟弟相貌既然本就一模一样（除了刀疤） 警察怎么可能会不都抓来做排查；2.弟弟干嘛不一直待在家里 哥哥负责对外 搞定了再露面 弟弟晚上披上哥哥的外衣去公安局工作 自找麻烦 无异于作死。设定不严谨还号称推理剧 脸皮够厚。优点是不废话 智商还算及格"
+    },
+    {
+      "user": "橘猫",
+      "avatar": "https://img3.doubanio.com/icon/u162373563-3.jpg",
+      "content": "潘粤明一人分饰两角，实力演技派，良心网剧，值得推荐！"
+    },
+    {
+      "user": "已注销02",
+      "avatar": "https://img3.doubanio.com/icon/u72899199-4.jpg",
+      "content": "我就想问什么时候能有合格的女性角色！"
+    },
+    {
+      "user": "东篱",
+      "avatar": "https://img3.doubanio.com/icon/u96404793-2.jpg",
+      "content": "超级好看，必须给五星好评，潘老师演技杠杠的。"
+    },
+    {
+      "user": "扭腰客",
+      "avatar": "https://img3.doubanio.com/icon/u2603819-295.jpg",
+      "content": "且不说戏有多好，能看到一个这样的潘粤明，心里甚至有一丝感动。你以为潘老师是脱胎换骨，其实他披着小白脸的皮，多年前就是老戏精一个。膜拜、欣赏之余，还有一丝欣慰，男人的演艺生涯是很长、很长的，加油潘老师。"
+    },
+    {
+      "user": "末摘花",
+      "avatar": "https://img3.doubanio.com/icon/u152688532-2.jpg",
+      "content": "整个情节比较严谨，节奏把握比较好！潘粤明的演技得到了肯定👍"
+    },
+    {
+      "user": "月夜刺死燕尾蝶",
+      "avatar": "https://img3.doubanio.com/icon/u74855673-2.jpg",
+      "content": "剧情（逻辑经不起推敲）悬疑严肃中还带有幽默，男主演技带活整部剧的节奏，再者就是每个案件的凶手演技很重要！很重要！！弟弟人设简直当年《情不自禁》的小白。预测:此剧会火。"
+    },
+    {
+      "user": "咸鱼罐头🐼",
+      "avatar": "https://img3.doubanio.com/icon/u131264466-34.jpg",
+      "content": "第一次看大陆网剧，水准出乎意料，简直秒杀电视台的那些靠着明星和噱头来赚取流量和播放量的辣鸡！"
+    },
+    {
+      "user": "石家秀",
+      "avatar": "https://img3.doubanio.com/icon/u1238674-44.jpg",
+      "content": "看到第三集，有兴趣看下去，人设方面编剧一定是看过致命魔术吧……现在唯一有点担心的是…结局千万别哥哥是凶手拉弟弟进坑于是有了这个故事就行"
+    },
+    {
+      "user": "厷糸",
+      "avatar": "https://img3.doubanio.com/icon/u172427040-6.jpg",
+      "content": "烧脑的悬疑网剧，看的我懵懵的，第一次发现潘粤明的演技这么好。剧的节奏把握的很好。"
+    },
+    {
+      "user": "鸭王张",
+      "avatar": "https://img3.doubanio.com/icon/u65616379-12.jpg",
+      "content": "看了一集感觉不错，潘粤明一人分饰两角很精彩，潘粤明真是一个可惜了的好演员，所以这次和王泷正合作，感觉会有惊喜。反正演技摄影剪辑都在线，继续观望。"
+    },
+    {
+      "user": "甜鱼拌饭酱",
+      "avatar": "https://img3.doubanio.com/icon/u172535155-1.jpg",
+      "content": "\r难得的国产良心之作，演员演技在线，潘粤明一改往日白面书生的造型，身体力行地向我们演绎了男人的魅力不在于外表。"
+    },
+    {
+      "user": "夕梨",
+      "avatar": "https://img3.doubanio.com/icon/u76287806-1.jpg",
+      "content": "高质量的一部网剧，潘粤明一张脸把兄弟俩演出了不同！第二季请抓紧时间拍"
+    },
+    {
+      "user": "Manita",
+      "avatar": "https://img1.doubanio.com/icon/u148394577-19.jpg",
+      "content": "已经推向国外了，太让人骄傲了，现在的网剧质量越来越高了"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "到E8。既然是悬疑犯罪，难免考究bug，比如外卖碎尸案凶手是如何知道在里面的是弟弟关宏宇？而最大的bug就是兄弟互换身份的所有细节都要高度一致，所以后续会有很多比如换身份时弟弟看到尸体的反常表现居然没人质疑等bug需要填。摄影镜头质感十足，剧本细节十分考究，整体非常棒，是今年难得好剧。8.7"
+    },
+    {
+      "user": "沉甸甸",
+      "avatar": "https://img1.doubanio.com/icon/u63379696-47.jpg",
+      "content": "未婚好处多，要是结了婚在对象面前估计马上就藏不住了。ps.终于看到演哥俩像俩人的演员了……"
+    },
+    {
+      "user": "金社长",
+      "avatar": "https://img3.doubanio.com/icon/u59025385-13.jpg",
+      "content": "有人把这个跟美剧比，故事剧情和逻辑线明显没有跟上节奏，第二集在迪厅的整场都很散，学美剧倒是四不像了"
+    },
+    {
+      "user": "Bob",
+      "avatar": "https://img3.doubanio.com/icon/u50303843-4.jpg",
+      "content": "女配太出戏了，差评。"
+    },
+    {
+      "user": "百里即墨殇",
+      "avatar": "https://img3.doubanio.com/icon/u170141647-3.jpg",
+      "content": "刺激，过瘾，网剧质量很不错了，正视潘粤明"
+    },
+    {
+      "user": "陈苍苍",
+      "avatar": "https://img3.doubanio.com/icon/u3186129-22.jpg",
+      "content": "我终于也开始看了！看到第四集了！"
+    },
+    {
+      "user": "angel0205",
+      "avatar": "https://img3.doubanio.com/icon/u3534571-3.jpg",
+      "content": "看了三集，确实提不起兴趣了。除了男一，其他全是傻逼吗？一个人在那儿指点江山就把案子全破了，佩服！这么一个牛逼的神探要全国顾问一下，那还有什么悬案啊！就为了一个案卷，费这么大周折，也是不容易了！这男主女主设计不是看《蜗牛》看多了？！这分数暴露了我水平太低，和各位主流的大咖有差距！"
+    },
+    {
+      "user": "阿暖",
+      "avatar": "https://img1.doubanio.com/icon/u3771212-59.jpg",
+      "content": "潘粤明的演技得值十分才能让这个剧有这种分数吧，豆瓣真可笑。"
+    },
+    {
+      "user": "小懒懒",
+      "avatar": "https://img3.doubanio.com/icon/u172763441-5.jpg",
+      "content": "潘粤明的演技很赞，这次的角色选的很好，比以前的好点。为演技点赞。"
+    },
+    {
+      "user": "豆辛瓜辛",
+      "avatar": "https://img3.doubanio.com/icon/u172055431-1.jpg",
+      "content": "觉得这部剧全员演技都在线啊，说说我喜欢的几位。潘粤明不用多说，一人分饰两角诠释的非常好；周巡性格分明，知道是关宏宇的时候也没抓他，打戏的时候帅炸；高亚楠要技术有技术，要头脑有头脑，最主要长得还美啊；最意外的是老板娘，她怕是为数不多的演“妖艳贱货”还深得我心的人了。"
+    },
+    {
+      "user": "NANA",
+      "avatar": "https://img3.doubanio.com/icon/u41712552-2.jpg",
+      "content": "3星可以看看，但9分有点虚高了，推理槽点有的多"
+    },
+    {
+      "user": "柳无码",
+      "avatar": "https://img1.doubanio.com/icon/u19200301-9.jpg",
+      "content": "1指纹在写《刀锋上的救赎》时就是这个特点，破案部分很棒，主线部分玩太大；2见了潘老师本人，潘老师私下里很喜欢宫崎骏的动画哦，为了演好角色，潘老师特地买了套伊藤润二找感觉，当我告诉潘老师前不久有伊藤润二的展览时，他叹了口气“谁让咱不知道呢。”"
+    },
+    {
+      "user": "机器猫",
+      "avatar": "https://img3.doubanio.com/icon/u170698397-2.jpg",
+      "content": "这部网剧是我看过的最好的一部！潘粤明老师的演技真是出神入化！关宏宇和关宏斌，两个性格完全不一样的人物，看的时候真没觉得是一个人演的，这大概就是所谓的演技！剧情上也是非常的缜密！这剧从演员都编剧，都是非常出色的！期待第二部！"
+    },
+    {
+      "user": "大萌",
+      "avatar": "https://img3.doubanio.com/icon/u53091490-124.jpg",
+      "content": "潘粤明我记得是偶像派出道吧，现在可以说是演技派了。"
+    },
+    {
+      "user": "戴斯特布兰妮",
+      "avatar": "https://img3.doubanio.com/icon/u70451288-46.jpg",
+      "content": "第一个凶手的亮相和下线方式，简直让人笑岔。五星潜质，三星效果。追评：不提bug\n,接受设定之后好看很多，可以四星半了。就一个问题：85°C怎么得罪剧组了?"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "其实从卧底开始剧情就崩坏了，最后一集装逼装到不说人话，如果控制在24集会好很多。不过前一半真算有模有样，探案部分不弱智，主线和支线的互动很好。事实证明，如果审查底线放宽，中国是有可能拍出好看的刑侦剧的。"
+    },
+    {
+      "user": "余小岛",
+      "avatar": "https://img3.doubanio.com/icon/u55323010-42.jpg",
+      "content": "妈的，最后一集就给我看这个？下面请欣赏800字散文诗朗诵——《我的队长关宏峰》"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "1.5 看到一半弃剧了.....严重虚高且比隔壁《无证之罪》劣质不止一点点。无论是制作水平或写的这些纸片人物，都还是只能放在国产网剧框架内看待。"
+    },
+    {
+      "user": "周男神的迷妹YL",
+      "avatar": "https://img3.doubanio.com/icon/u143563066-2.jpg",
+      "content": "编剧给力，演员整体演技在线，潘老师一人分饰两角，细节处处理的很棒，喜欢兄弟俩的温情对手戏。作为17年唯一看过的网剧很满意"
+    },
+    {
+      "user": "尽欢",
+      "avatar": "https://img3.doubanio.com/icon/u147584043-3.jpg",
+      "content": "其实不太爱看犯罪片的，但是经不住朋友多次安利。为潘粤明老师的演技疯狂打call，一人分饰四角，很棒。"
+    },
+    {
+      "user": "七沐妹妹",
+      "avatar": "https://img3.doubanio.com/icon/u172831940-2.jpg",
+      "content": "“我因为潘粤明在追看《白夜追凶》。我喜欢这个故事：白衣少年陷入声名狼藉，成为公众的笑柄，他连这好皮囊也毁掉之后，最终，我们看到他的心。” ——影评人钱德勒 "
+    },
+    {
+      "user": "安东",
+      "avatar": "https://img1.doubanio.com/icon/u1042606-147.jpg",
+      "content": "初看确实挺惊艳，可演着演着就塌了，跟《无证之罪》真没法比，不接地气，像一出在空中楼阁上演的戏剧。"
+    },
+    {
+      "user": "前田罗绮",
+      "avatar": "https://img3.doubanio.com/icon/u172428022-10.jpg",
+      "content": "和哥哥相比更喜欢小可怜弟弟。😂😂😂。即使到最后发现自己被亲哥坑了，也依然坚守兄弟之间的感情。最后最后最后的那一幕，为潘老师打call。为弟弟打call。"
+    },
+    {
+      "user": "苏苧烵",
+      "avatar": "https://img3.doubanio.com/icon/u68486470-21.jpg",
+      "content": "分这么高啊\r首先，与犯罪嫌疑人有关系的人应该不能参与调查的吧\r还这么大摇大摆地继续工作，不担心影响调查结果吗？\r潘粤明演技到是没得说。"
+    },
+    {
+      "user": "囍囍",
+      "avatar": "https://img3.doubanio.com/icon/u65593052-35.jpg",
+      "content": "不如小时候看的重案六组，起码人家演技在线，为了突出一个主角，其他的公安干警就都要是白痴，只会问为什么为什么。。做作，浮夸。"
+    },
+    {
+      "user": "烟雨墨冷竹离殇",
+      "avatar": "https://img3.doubanio.com/icon/u172403171-3.jpg",
+      "content": "悬疑烧脑，潘粤明分饰两角演技爆棚，弟弟的桃花运比哥哥好多了，哈哈"
+    },
+    {
+      "user": "挽梦忆笙歌",
+      "avatar": "https://img3.doubanio.com/icon/u168467329-23.jpg",
+      "content": "看的比较晚，但是不影响，为潘叔打call"
+    },
+    {
+      "user": "清欢",
+      "avatar": "https://img3.doubanio.com/icon/u151760896-5.jpg",
+      "content": "为潘老师打call，一人分饰四角，自由切换，太厉害了，剧情也挺好。"
+    },
+    {
+      "user": "蔡要要不吃药",
+      "avatar": "https://img1.doubanio.com/icon/u1518879-159.jpg",
+      "content": "好！"
+    },
+    {
+      "user": "巴伐利亞酒神",
+      "avatar": "https://img3.doubanio.com/icon/u1218430-446.jpg",
+      "content": "我讨厌挖坑"
+    },
+    {
+      "user": "▲Lan1.",
+      "avatar": "https://img1.doubanio.com/icon/u28838012-8.jpg",
+      "content": "总的来说想法是好的。。就是有点过于牵强。。。角色设定太老套，案子也比较无趣。"
+    },
+    {
+      "user": "danyboy",
+      "avatar": "https://img1.doubanio.com/icon/u1186285-18.jpg",
+      "content": "几个主演演的都不错，前几个单独的案子也很好看，第一季结尾的悬念、伏笔可圈可点，最后还让周巡放了一个烟花一样绚烂精彩的独白。不满之处，是越到后来案子就越没劲，要知道，虚构就像一个圆，每增加一份虚构的界限，需要圆的地方就指数级增长，圆的难度就越大。"
+    },
+    {
+      "user": "快乐人生",
+      "avatar": "https://img3.doubanio.com/icon/u104118815-2.jpg",
+      "content": "好剧本，知人善用的好导演，难得的好演员，万事俱备，火起来很正常，这剧就是实例之一。"
+    },
+    {
+      "user": "o```me",
+      "avatar": "https://img3.doubanio.com/icon/u44517055-3.jpg",
+      "content": "这评价太高了，公正的说打6.5比较合理·制作很粗糙。··潘粤明演技之能说在演员之内，不出彩。 配角加女主的演技基本没有。剧情很一般，片头美剧的痕迹很重。最重要的这剧基本上没有颜值担当啊 都丑····"
+    },
+    {
+      "user": "李湘",
+      "avatar": "https://img3.doubanio.com/icon/u2055364-24.jpg",
+      "content": "自从离婚撕逼事件后，看到潘粤明就有点犯恶心。不是支持也不是讨厌，就是觉得不爱了就离婚，没必要撕。没想到，潘粤明运气还不错。接了这部网剧。台词对白接地气，像是日常的交流方式。不做作。剧情环环相扣，猜不透走向。有那么点意思。每个演员都演得不错。挺入戏的。实话，比《无罪之证》好看多啦！"
+    },
+    {
+      "user": "念",
+      "avatar": "https://img3.doubanio.com/icon/u1412174-84.jpg",
+      "content": "说出来挺不好意思，我真为了假期有时间抓紧追完这个充了个会员……为什么呢？因为它实在是让我重启了小时候夏天过暑假，洗完澡抹完花露水开着风扇，等着在电视里看重案六组的记忆。还有一个感受，就是董洁到底有多想不开，才放着潘粤明不亲去亲别的男人呢…"
+    },
+    {
+      "user": "微光视界",
+      "avatar": "https://img3.doubanio.com/icon/u35008425-5.jpg",
+      "content": "国内影视圈里，这部剧确实算上“精良”制作了！但现在的网友和各种媒体都得了一种“过犹不及”的病症。什么事儿只要有点“意思”，赞词大肆奉上，喜欢拔得虚高。是从众心理还是自身的审美缺失？“造神”的时代从未远去！6.3"
+    },
+    {
+      "user": "五色全味",
+      "avatar": "https://img1.doubanio.com/icon/u1380001-9.jpg",
+      "content": "大家對國產劇還是寬容啊，前兩案邏輯和人物動機太多無法自圓其說的地方，完全說服不了我，造型和陳設就不提了。雨天擊窗殺人案開始寫得不錯，特別是韓彬的角色出現，可以繼續追，不過韓彬的造型和casting一如既往難看；看完了，23集打后又开始烂尾，最后两集还可以"
+    },
+    {
+      "user": "自由的心",
+      "avatar": "https://img3.doubanio.com/icon/u45482879-10.jpg",
+      "content": "看了第一集 被豆瓣评分惊呆 潘真是狂拽炫酷屌炸天 开着车一路各种惊险动作各种飙 你TM就是去看下现场而已 看了约一分钟又走了 拽得不行 被其他警车狂追 你瞎鸡吧横冲直撞是去拯救世界么 路上其他司机技术都太强悍了不然怎么都得出个十起八起车祸 这霸气和“这个鱼塘被我承包了”不相上下"
+    },
+    {
+      "user": "好像在哪见过你",
+      "avatar": "https://img1.doubanio.com/icon/u78321087-18.jpg",
+      "content": "我呀 看了一集 但是我不敢评1星，怕被喷。不过这是什么无脑剧情？警察一个个大逼佬样？第一天毕业的民警小姑娘进现场？男主一顿超车结果到现场屁事没有？都是些什么鬼。。。。就这还烧脑？都tm要给我烧短路了。。。"
+    },
+    {
+      "user": "西瓜味的橙子君",
+      "avatar": "https://img3.doubanio.com/icon/u172701859-1.jpg",
+      "content": "3颗星呵呵潘粤明！！演技炸裂，半颗星给编剧，少有的推理剧逻辑清晰，剧情紧凑，而不是在看低观众智商……还有半颗给配乐，难得的好看的剧……"
+    },
+    {
+      "user": "暗夜精灵",
+      "avatar": "https://img3.doubanio.com/icon/u4415314-15.jpg",
+      "content": "惊艳的7分钟长镜头开篇，起点高，野心大，设定颇有噱头，节奏非常紧凑，电影级制作，构图与台词都不乏神来之笔，双片尾曲质量相当赞。挑刺的话，周队业务水平堪忧希望能圆回来，尸体在呼吸这种细节仍不过关。季终追评：结局大赞，几近完美。"
+    },
+    {
+      "user": "酒鬼一家小迷妹",
+      "avatar": "https://img1.doubanio.com/icon/u157061671-7.jpg",
+      "content": "潘粤明真的太帅了，演技啊，剧情也棒，环环相扣，看不过瘾。坐等第二季。"
+    },
+    {
+      "user": "懒人一枚",
+      "avatar": "https://img3.doubanio.com/icon/u169234305-1.jpg",
+      "content": "潘粤明老师实力演技派。一人分饰两角。把角色区别的很清晰。不串戏。就喜欢这种既有演技又有剧情的剧。无比期待第二季。"
+    },
+    {
+      "user": "davekozg",
+      "avatar": "https://img3.doubanio.com/icon/u2039887-2.jpg",
+      "content": "难得有一部国产的类型电视剧达到了美剧的工业水平 ，良心之作，毫无疑问让人眼前一亮。剧本，角色，表演，节奏，细节，质感等诸多方面都堪称扎实 #目前为止，年度最佳国产电视剧集，除非年底有什么幺蛾子，否则年度最佳电视剧集基本没跑了#"
+    },
+    {
+      "user": "ricky",
+      "avatar": "https://img3.doubanio.com/icon/u52142636-4.jpg",
+      "content": "看了第一集，看的非常吃力，非常难不走神。节奏感不合我意，开头的一段长镜头不明所以。没用的细节、桥段和台词还是显多。"
+    },
+    {
+      "user": "Alexa",
+      "avatar": "https://img3.doubanio.com/icon/u1740768-31.jpg",
+      "content": "太难看了，剧本漏洞百出，拍得也不咋地，下雨的戏只有镜头前表演水帘洞呢，神捧潘粤明不能理解，只能说他工作量挺大的。这破剧还有32集，真是浪费时间，弃了……"
+    },
+    {
+      "user": "凛凛临",
+      "avatar": "https://img3.doubanio.com/icon/u172207961-3.jpg",
+      "content": "如果我们的电视剧都能达到这个水准，我就不会剧荒了。我喜欢周巡。"
+    },
+    {
+      "user": "L～小洋洋Q",
+      "avatar": "https://img3.doubanio.com/icon/u162659470-10.jpg",
+      "content": "很棒的一部网剧，潘老师演的太棒了，两个不同角色演出两种不同风格，细微动作也处理的很到位，迫不急待想看第二部啊"
+    },
+    {
+      "user": "宝木笑",
+      "avatar": "https://img3.doubanio.com/icon/u62513788-6.jpg",
+      "content": "很多人提到这是我们近年来不多见的良心剧，很同意，从故事架构、叙事手法、节奏把握、布景人设、演员表现等方面都确实让人欣喜，却同时想到一个题外话，一个让人背后发凉的问题：既然我们实现这种水准作品的可能性一直存在，也许人们并非不知道如何去做好，大家都是一直故意那样去做的……"
+    },
+    {
+      "user": "水母母",
+      "avatar": "https://img3.doubanio.com/icon/u53283028-426.jpg",
+      "content": "拍得挺好的，潘粤明演技非常在线，女主角神似王子文……"
+    },
+    {
+      "user": "Necropolis",
+      "avatar": "https://img3.doubanio.com/icon/u3213065-334.jpg",
+      "content": "结尾周巡长达近10分钟的solo绝对可以载入国产剧的史册"
+    },
+    {
+      "user": "若梦",
+      "avatar": "https://img3.doubanio.com/icon/u161775167-3.jpg",
+      "content": "前面真的很吸引人，潘叔演的也非常好，但是后面有些剧情没有前面那么吸引我了。"
+    },
+    {
+      "user": "薄荷清凉",
+      "avatar": "https://img3.doubanio.com/icon/u162179553-2.jpg",
+      "content": "很不错的悬疑推理剧，直觉一直相信弟弟不是凶手，直到看到最后才知道原来是哥哥陷害的弟弟，心疼弟弟，不过好在有喜欢的女朋友和即将出世的孩子，期待第二季，潘粤明的演技真的不错，一人分饰四角，都各有特点"
+    },
+    {
+      "user": "凉公子",
+      "avatar": "https://img3.doubanio.com/icon/u42773853-111.jpg",
+      "content": "给5星！忒烦那么多冲上来就打一星的！"
+    },
+    {
+      "user": "將不動",
+      "avatar": "https://img3.doubanio.com/icon/u41298399-92.jpg",
+      "content": "关宏峰：什么破单位，天天加夜班，生（hài）气（pà）！"
+    },
+    {
+      "user": "修复的薄码.AVI",
+      "avatar": "https://img3.doubanio.com/icon/u4595312-6.jpg",
+      "content": "白夜比较像美剧。无证其实像港剧"
+    },
+    {
+      "user": "麦小白",
+      "avatar": "https://img3.doubanio.com/icon/u2034976-123.jpg",
+      "content": "先说一句，最后一集王泷正的那段大独白是来秀演技圈粉的吧！剧的主线以及一人分饰孪生兄弟的设定都不错，挺美剧的。头几集也的确煞有介事，破案有型有款，分析、推理像模像样。不过中后段就没那么抓人了，缺乏美剧那种每集一个牢牢抓住观众好奇心的点。高开低走的最新范本。"
+    },
+    {
+      "user": "梅花牛",
+      "avatar": "https://img3.doubanio.com/icon/u1910834-6.jpg",
+      "content": "看完才知道居然没完事儿，还有第二季。。。"
+    },
+    {
+      "user": "、尽有时",
+      "avatar": "https://img1.doubanio.com/icon/u163942967-57.jpg",
+      "content": "虽然剧情还是有蛮多bug，但是确实是一部不错的网剧，潘粤明也圈了很多粉，希望第二部也好好拍。"
+    },
+    {
+      "user": "好运遥遥刘",
+      "avatar": "https://img3.doubanio.com/icon/u4439818-60.jpg",
+      "content": "从头到尾，我最在意的就是屏幕下方字幕，“的、得、地”就没完全用对过。"
+    },
+    {
+      "user": "雅典娜",
+      "avatar": "https://img3.doubanio.com/icon/u1059709-61.jpg",
+      "content": "这个剧难得能找来一群相对靠谱的男演员服务（女）观众们，缺点就是绝大多数女演员不但演技差，还都是整容山寨脸，据统计有山寨王子文、山寨王鸥、山寨马伊琍、山寨范冰冰等等…导演对女演员的口味简直无语。"
+    },
+    {
+      "user": "S",
+      "avatar": "https://img3.doubanio.com/icon/u2235157-32.jpg",
+      "content": "新女警傻白甜真是败笔，分明就是高中生小记者走访当地民警。"
+    },
+    {
+      "user": "彼方有荣光",
+      "avatar": "https://img3.doubanio.com/icon/u2589250-132.jpg",
+      "content": "我这辈子都会记得潘粤明了！前20集很值得五星，后面几集就有点崩坏了，铺得太大，感觉收不回来"
+    },
+    {
+      "user": "许多多",
+      "avatar": "https://img3.doubanio.com/icon/u3709198-4.jpg",
+      "content": "节奏相当紧凑。女角除了法医都不成。"
+    },
+    {
+      "user": "天籁zzz",
+      "avatar": "https://img3.doubanio.com/icon/u60372840-72.jpg",
+      "content": "主线洗冤与个案交错节奏紧凑不注水，刑侦细节扎实，团队不人浮于事。潘粤明和潘粤暗单个各有苏点、同框双王炸！演技在骨不在皮，岁月打磨或刺痛都会留下来，成为或黯淡的疤或永恒的光。喜欢这句歌词『谁青春无悔，敬勇敢一杯，逆风踏凌霄，以光散黑』周巡透着股风骚狠劲对戏不落下风。法医姐姐怼人担当"
+    },
+    {
+      "user": "Q。",
+      "avatar": "https://img3.doubanio.com/icon/u2492362-171.jpg",
+      "content": "算是近些年国产剧集里的良心制作，并没有像传统电视剧那般把观众当傻子对待，只是越往后越拖沓水分越足。★★★☆"
+    },
+    {
+      "user": "边逍边笑",
+      "avatar": "https://img1.doubanio.com/icon/u30374839-8.jpg",
+      "content": "虎头蛇尾。最后十集几个主角都丧失了性格和行为的一致性。人设崩了，空留刻意营造的戏剧性。一个人在什么环境下，会做什么样的事情，是有一定的约束的。一个前后不连续的世界还有什么分析的意义。"
+    },
+    {
+      "user": "末宝儿",
+      "avatar": "https://img3.doubanio.com/icon/u2174195-72.jpg",
+      "content": "孪生兄弟从小动作、步履形态到声线都自然不造作的流畅塑造，眼神的明显区别简直是神来之笔。不是一味装活泼或者装深沉，即使是单个角色本身的的调皮或沉思状态，也都符合各自角色的特点，不尽相同。演技完美，为潘粤明打call。故事流畅环环相扣，配角的表演也都恰到好处。"
+    },
+    {
+      "user": "I'm ....Lu-L",
+      "avatar": "https://img3.doubanio.com/icon/u1152475-4.jpg",
+      "content": "也就还行，分数虚高."
+    },
+    {
+      "user": "松萝",
+      "avatar": "https://img3.doubanio.com/icon/u1967928-33.jpg",
+      "content": "制作精良，剧情实在有惊喜，潘粤明演技实力过硬，哥哥弟弟以及模仿哥哥的弟弟都能演的丝丝入扣。敲喜欢潘粤明和王泷正对戏，句句打机锋张力十足。就是潘满脸沧桑遮挡不住，心痛当年意气风发的小白憔悴成这般模样，盼你收之桑榆。"
+    },
+    {
+      "user": "方枪枪",
+      "avatar": "https://img3.doubanio.com/icon/u2586116-96.jpg",
+      "content": "主次线索分明，案件分析逻辑合理，条理清晰，悬疑设置层层深入，勾起观众深入看下去的欲望，人设与角色安排都不错，各个角色性格也比较突出，另外在环境设置上没有硬性的现实逻辑失误，这都是本片的绝对优势。当然也有缺点，就是有些情节上的确还是逃不了套路化和模式化，但整体，瑕不掩瑜，国产良心剧"
+    },
+    {
+      "user": "Julia",
+      "avatar": "https://img3.doubanio.com/icon/u2636449-4.jpg",
+      "content": "还不错，演员们的演技都在线，确实是天朝难得一见的还能看下去的电视剧。就是太长了，本来以为32集能结束了，又搞了第二季，不知道到时候还有没有耐心接着看。真是挺讨厌从国外传来的这种拍个几十季的方式。人生那么短，电视剧却那么长！"
+    },
+    {
+      "user": "思无邪",
+      "avatar": "https://img3.doubanio.com/icon/u169090174-6.jpg",
+      "content": "演技真的好，剧情也是蛮好的，就是没看完胆子小看到后面不敢看了😂"
+    },
+    {
+      "user": "好姑娘老妖",
+      "avatar": "https://img3.doubanio.com/icon/u24111692-73.jpg",
+      "content": "好看！演技真的屌爆了！"
+    },
+    {
+      "user": "Dustin",
+      "avatar": "https://img3.doubanio.com/icon/u42624697-41.jpg",
+      "content": "影片总共提到了201处刑侦分析学要点，325处人体解剖学，52条法律法规以及553条气象、历史、地理、心理等学术性知识要点，全部学会即可轻松成为一名小区片儿警。以上是我瞎编的，电视剧好看是真的。"
+    },
+    {
+      "user": "loonatic",
+      "avatar": "https://img3.doubanio.com/icon/u43781354-142.jpg",
+      "content": "结局什么jb？？？周巡表白那段我怀疑关都睡着了恍恍惚惚（。周队多穿制服谢谢"
+    },
+    {
+      "user": "魔云兽",
+      "avatar": "https://img3.doubanio.com/icon/u2375458-74.jpg",
+      "content": "潘粤明在剧里演得很有张力，以前看过一段采访，说看一个人有没有演技就看他演变态，第一集就拍的特有气氛，想一口气看完。"
+    },
+    {
+      "user": "小川叔",
+      "avatar": "https://img3.doubanio.com/icon/u1325623-666.jpg",
+      "content": "好看到一连看了五期停不下来！！"
+    },
+    {
+      "user": "0211",
+      "avatar": "https://img3.doubanio.com/icon/u154527101-26.jpg",
+      "content": "hai 呀 被结局气死了"
+    },
+    {
+      "user": "aholaho",
+      "avatar": "https://img1.doubanio.com/icon/u76079548-37.jpg",
+      "content": "怎么还有吹像美剧的…两星半不能再多了吧"
+    },
+    {
+      "user": "饺子好不好吃",
+      "avatar": "https://img3.doubanio.com/icon/u50737213-15.jpg",
+      "content": "没觉得女演员很出戏，可能因为今年我也刚毕业，也是周舒桐那认真不敢出错又傻兮兮跟着领导的呆样………"
+    },
+    {
+      "user": "狐狸修炼中",
+      "avatar": "https://img3.doubanio.com/icon/u139060717-14.jpg",
+      "content": "两集，再不敢小视网剧。。。八集，第二个案子落幕，很有趣也挺感人。。。十三集第三案收官，一缕阳光钻出乌云，洒向仰望天空的脸庞，我们不能以犯罪为代价来惩治罪恶。。。槽点：酒吧女老板每个镜头必弄眼翘臀卖弄风骚、驻唱歌手每次出场必风尘放荡故作洒脱、支队女高材生美瞳眼线直勾的眼神何这屌？"
+    },
+    {
+      "user": "梨树下的猫",
+      "avatar": "https://img3.doubanio.com/icon/u160267510-2.jpg",
+      "content": "第二季快出吧，第一季好多问题都没解呢。"
+    },
+    {
+      "user": "睡不着的猫怪",
+      "avatar": "https://img3.doubanio.com/icon/u162143454-2.jpg",
+      "content": "不得不说的良心剧"
+    },
+    {
+      "user": "春风不解意",
+      "avatar": "https://img3.doubanio.com/icon/u172195277-1.jpg",
+      "content": "有多久没有看到这种一口气想要追到底的国产悬疑剧了。果然演员还是要靠作品立身，期待第二部。"
+    },
+    {
+      "user": "Sean的7层巴士",
+      "avatar": "https://img1.doubanio.com/icon/u63429696-8.jpg",
+      "content": "第一次看到评分能从9.0变成9.1的剧，一般都是评分人数越多，分数越容易下滑，白夜果然不同一般啊"
+    },
+    {
+      "user": "zoey",
+      "avatar": "https://img3.doubanio.com/icon/u55461393-3.jpg",
+      "content": "白夜追凶怕是2017年最好看的一部电视剧了吧，兄弟俩的身份设定很吸引人，而且你无法分辨谁是好的谁是坏的，很有美剧的feel。此外，潘粤明演技非常棒，《白夜》这首歌更是抓耳。"
+    },
+    {
+      "user": "潇湘烟雨",
+      "avatar": "https://img3.doubanio.com/icon/u165023952-1.jpg",
+      "content": "发现潘粤明演技不错，很好的表演诠释出了两个性格截然不同的人，最后几集有点水，还留下很多悬念，坐等第二部"
+    },
+    {
+      "user": "野子",
+      "avatar": "https://img3.doubanio.com/icon/u129765675-14.jpg",
+      "content": "良心剧，看了几集已入坑。潘粤明再瘦点就好了。"
+    },
+    {
+      "user": "en",
+      "avatar": "https://img1.doubanio.com/icon/u57128399-17.jpg",
+      "content": "还行吧，完全的娱乐化。"
+    },
+    {
+      "user": "M_P",
+      "avatar": "https://img3.doubanio.com/icon/u39234304-5.jpg",
+      "content": "我一直觉得周巡莫名地喜欢在犯罪现场随便拿东西吃，看到现在才发现原来是为了老刘的死他被抓埋下伏笔。跑到人家办公室拿人家东西吃，也只有爱随便拿东西吃的周巡做得出来了"
+    },
+    {
+      "user": "云无心",
+      "avatar": "https://img3.doubanio.com/icon/u4332532-12.jpg",
+      "content": "国产良心剧，一夜看完头五集。能让我一口气看完的美剧都不多，希望后续剧情不要趋于狗血和逻辑涣散哈。希望尸体的镜头最终别被删减。另外男二和小女跟班越看越顺眼呀，哈哈哈哈。"
+    },
+    {
+      "user": "白胖饺子",
+      "avatar": "https://img3.doubanio.com/icon/u25531582-16.jpg",
+      "content": "潘粤明的表演真心棒（其它人的表演只能说完成了工作），至于其它警察基本都是智障情节细节也各种想当然，不过这应该是编剧的问题。总之别当罪案剧当个生活剧还能看看，豆瓣8.9分好评如潮，呵呵，呵呵呵呵。"
+    },
+    {
+      "user": "水浒三国金刚",
+      "avatar": "https://img3.doubanio.com/icon/u3322566-2.jpg",
+      "content": "9分谈不上，但确实是部诚意满满，制作精良的刑侦剧"
+    },
+    {
+      "user": "芋圆甜不甜",
+      "avatar": "https://img3.doubanio.com/icon/u173366926-3.jpg",
+      "content": "昨天在微博看到潘老师上热搜，想起之前看到的一句话“看他被命运拍到谷底，再一点一点爬起来，真好。”"
+    },
+    {
+      "user": "成知默",
+      "avatar": "https://img1.doubanio.com/icon/u2160581-37.jpg",
+      "content": "三星半，看第一集时，觉得除了潘粤明之外的一众男演员演技略油滑浮夸（确切地说双胞胎弟弟也包括在内），坚持追下来，发现虽然漏洞不少、反派太弱，但还算水准之上。典型的单元探案剧，并以灭门惨案作为主线贯穿始终，后半段一直担心有崩坏的危险。潘老师该减减肥了，当年毕竟也是翩翩美少年。"
+    },
+    {
+      "user": "潘海利根",
+      "avatar": "https://img3.doubanio.com/icon/u56882924-24.jpg",
+      "content": "打个五分让潘老师高兴高兴"
+    },
+    {
+      "user": "山水烟花",
+      "avatar": "https://img3.doubanio.com/icon/u52243498-13.jpg",
+      "content": "（15集后疯狂打call）双子设定的悬疑感做的非常到位，潘粤明演技提升整体网剧质感，大案套小案的模式有趣，完全调动人的情绪。希望不要烂尾，特别期待兄弟俩的秘密浮出水面。"
+    },
+    {
+      "user": "刘康康",
+      "avatar": "https://img1.doubanio.com/icon/u46843344-18.jpg",
+      "content": "主要是故事设定太好了，单集的有些案子就比较无聊，尤其是后半部分去长春找乔森的一大段戏，拖沓得不得了。但双胞胎兄弟共享一个身份的设定，太有意思了。"
+    },
+    {
+      "user": "Mumu",
+      "avatar": "https://img3.doubanio.com/icon/u1481725-34.jpg",
+      "content": "人家的侦探能穿大衣，我们的为什么不能……有时候真不是别人的月亮更圆，而是距离产生美。"
+    },
+    {
+      "user": "且隐杉木街",
+      "avatar": "https://img1.doubanio.com/icon/u50857787-7.jpg",
+      "content": "周巡说十五年没能交下关队这个朋友，关宏宇说哥俩从小到大一起长大却从未如此紧密，关队说即使在像家一样的警队也各有不为人知的心思。可见人与人之间走进彼此的内心是一件多么艰难的事，但值得庆幸的是，即使不懂，在关键时刻依然有人愿意无条件地信任与支持。猝不及防的结尾，第二季请快些来啊"
+    },
+    {
+      "user": "ivy.olivia",
+      "avatar": "https://img1.doubanio.com/icon/u6178645-7.jpg",
+      "content": "过誉了吧"
+    },
+    {
+      "user": "悠悠",
+      "avatar": "https://img3.doubanio.com/icon/u162223336-3.jpg",
+      "content": "很多人推荐我看这个剧，虽然是网剧，但是却比很多电视剧都强很多，潘粤明演技真心不错，演技不尬！很喜欢！"
+    },
+    {
+      "user": "德川咪咪",
+      "avatar": "https://img3.doubanio.com/icon/u2969861-10.jpg",
+      "content": "老关和周巡真是配一脸"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "就国内同类题材来讲，挺不错的，前面看着很本格，最后到军火贩、辛怡、林佳茵之类出现就又些凌乱了，这一张张网红脸的台风、故事推进方式，有些凑合，廉价的网大风就出来。可惜啊，本来还想看第二季，等大结局的，按目前这环境来讲，有好剧本也没法继续拍了。这剧的幸运在于拍于2017之前，也是在2017年底前播映。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "就说嘛 咱泱泱大国 总还是有些有才华的年轻人在认认真真搞创作滴"
+    },
+    {
+      "user": "与你走天涯",
+      "avatar": "https://img3.doubanio.com/icon/u156260866-1.jpg",
+      "content": "今年最好看的大陆剧，没有之一！"
+    },
+    {
+      "user": "冬未了i",
+      "avatar": "https://img3.doubanio.com/icon/u172449607-3.jpg",
+      "content": "全剧无尿点，演员演技不尴尬，还有最后几集留下的悬念也是令人深思，超级好看的一部良心网剧  期待第二部！"
+    },
+    {
+      "user": "烏滌非",
+      "avatar": "https://img3.doubanio.com/icon/u3797955-70.jpg",
+      "content": "兩位/三位男主演得沒毛病，人設也吸引雖然還有豐富的空間；單元案都不錯，緊張氣氛的營造也非常成功了。可惜後半截玩脫了吧，回歸主綫案件之後就像在閉著眼畫迷宮，可能覺得餅畫大點比較酷炫，人物情節合理性都沒了，最後還留一大坑。還有些謎之用鏡不知在炫啥。是優良之作，但也沒到拍案叫絕的地步。"
+    },
+    {
+      "user": "巽",
+      "avatar": "https://img3.doubanio.com/icon/u2072047-230.jpg",
+      "content": "一口气五集，潘粤明真好，马后炮地说当年梅兰芳他演的师哥就吊打余少群十条街这么晚才遇到一个好角色，幸也不幸吧。男二油帅油帅的竟然意外的不让人讨厌。【准确来说3.5，中间有些不尽人意的地方，好在结尾稳住了点。更何况人生在世不如意事常八九呢，好歹是看到点国产剧触底反弹的希望了。"
+    },
+    {
+      "user": "噼里啪啦",
+      "avatar": "https://img3.doubanio.com/icon/u45996090-2.jpg",
+      "content": "潘粤明，他真的是一个软弱的人，被背叛被插刀，窝囊了几年都不见狰狞面孔。他真的是一个强大的人，听着摇滚乐写毛笔字，腥风血雨不改少年心性。（转自知乎）"
+    },
+    {
+      "user": "lowdive",
+      "avatar": "https://img3.doubanio.com/icon/u2004565-30.jpg",
+      "content": "四星半。我应该是少数得等到Netflix 上了才看到这剧的人，希望它们多买中国的优质剧集吧。剧本的框架和设定很出彩，但后半段出戏的部分不少。希望第二季投资够了，能更精致点吧。"
+    },
+    {
+      "user": "🐈",
+      "avatar": "https://img3.doubanio.com/icon/u159159843-3.jpg",
+      "content": "第一集的猪肝差点没让我弃剧，刚掏出来竟然都不带一点点血，解剖切开的时候好像猪肉啊，不过剧还是挺不错的啦～"
+    },
+    {
+      "user": "雪里花蕾",
+      "avatar": "https://img3.doubanio.com/icon/u166750629-2.jpg",
+      "content": "以前对罪案剧不感兴趣，但是这部例外，真的很棒，导演👍希望潘粤明能有个幸福美满的家庭"
+    },
+    {
+      "user": "刀豆",
+      "avatar": "https://img3.doubanio.com/icon/u46139461-5.jpg",
+      "content": "所有女性角色里最爱女法医，用演技展现气质。"
+    },
+    {
+      "user": "Simple",
+      "avatar": "https://img1.doubanio.com/icon/u104468522-7.jpg",
+      "content": "前几集很很很很不错，刚开始感觉潘很做作后来想来可能是为了与弟更好的区分吧，开始几集，节奏，配乐，剧情，演技都在线，棒棒哒🎉。"
+    },
+    {
+      "user": "暴风雨来吧",
+      "avatar": "https://img3.doubanio.com/icon/u172426957-5.jpg",
+      "content": "潘粤明老师历害了，一人分饰多角，为潘老师演技打call,剧情也十分紧凑，让人看了一遍还想再刷一遍"
+    },
+    {
+      "user": "—",
+      "avatar": "https://img1.doubanio.com/icon/u51270183-97.jpg",
+      "content": "给四星太委屈，保持前五集的水准就不改分。潘粤明的长相和演技都在和黄渤逼近。"
+    },
+    {
+      "user": "陆念柒",
+      "avatar": "https://img1.doubanio.com/icon/u49859517-17.jpg",
+      "content": "我裤子都脱了，你给我看这个？"
+    },
+    {
+      "user": "十三",
+      "avatar": "https://img3.doubanio.com/icon/u1204715-934.jpg",
+      "content": "有人说取景长春后逼格立马提升，灰蒙蒙的特别有犯罪感。作为土生土长的我长春土著不由哈哈哈哈哈哈哈哈。印象里潘粤明还是《情不自禁》里的卧底小白。命运的车轮碾过来，他与我们一样未可幸免。现在这样其实也不错是吧？关队，欢迎回到残酷世间。"
+    },
+    {
+      "user": "如是",
+      "avatar": "https://img3.doubanio.com/icon/u151621608-1.jpg",
+      "content": "目前看过国内悬疑犯罪类电视剧最佳，潘粤明神演技。后半段有点放飞，目前还剩两集，不知道该怎么收尾，期待惊喜"
+    },
+    {
+      "user": "春衫步花溪",
+      "avatar": "https://img3.doubanio.com/icon/u2473195-3.jpg",
+      "content": "关:韩彬，你是罪犯吗？韩:关队，你还是警察吗？"
+    },
+    {
+      "user": "陈哈",
+      "avatar": "https://img3.doubanio.com/icon/u1458351-30.jpg",
+      "content": "一部剧情，表演，道具等细节都对得起智商的剧。编剧指纹说放美剧标准里也就60分，我看怎么着也得75分吧。上部看的国产剧是《大明王朝1566》，再上部是《天道》。潘粤明演技不错，但我见识过的巅峰演技在《大明王朝》里，尤其王劲松，是巅峰中的战斗机。潘粤明会火，王老师不会，没辙。"
+    },
+    {
+      "user": "牛",
+      "avatar": "https://img3.doubanio.com/icon/u174682500-1.jpg",
+      "content": "潘粤明和潘粤暗，天啊，快点出第二部吧，迫不及待想看了"
+    },
+    {
+      "user": "七毛",
+      "avatar": "https://img3.doubanio.com/icon/u51364015-60.jpg",
+      "content": "怀疑每个人都可能是终极boss的电视剧还有什么理由不追下去。"
+    },
+    {
+      "user": "留空",
+      "avatar": "https://img3.doubanio.com/icon/u1129205-3.jpg",
+      "content": "这部网剧明显有不少破绽，为什么没有人讨论？第一，关队患“黑暗恐惧症”，这样的人怎么可能当上刑侦支队队长？作为刑警，很多大案要案都是需要夜晚第一时间在现场勘察，有这样毛病的人，怎么掌握第一手信息？第二，这个周队看起来像个技术白痴？整部剧的警察几乎都没有什么技术精英，只依赖关宏峰？"
+    },
+    {
+      "user": "您的母亲余老師",
+      "avatar": "https://img3.doubanio.com/icon/u45995359-134.jpg",
+      "content": "我好喜歡"
+    },
+    {
+      "user": "嗷嗷嗷",
+      "avatar": "https://img3.doubanio.com/icon/u48802920-13.jpg",
+      "content": "在兄弟骨科和关周间摇摆了32集 最后一集周巡8分钟演技炸裂表白让我站定了关周 最佳损友春秋你瞒我瞒等经典苦情歌在脑内回响 十五年前的那天你围了一条（基佬）紫色围巾 从此一生为你改变 到最后 艹 没能交下你这个朋友 这他妈一篇同人文就出来了＃基佬脑没救＃ 表白潘老师！心疼老虎！"
+    },
+    {
+      "user": "自云",
+      "avatar": "https://img3.doubanio.com/icon/u2721776-2.jpg",
+      "content": "每次混得不如意就想想娱乐圈男女明星（八卦胚子…），很明白事业人生都有高低起伏。跌倒了很可怕，能漂亮的站回来就值得赞美。"
+    },
+    {
+      "user": "黛归否",
+      "avatar": "https://img3.doubanio.com/icon/u155394266-2.jpg",
+      "content": "剧情演技都很好，不错😘"
+    },
+    {
+      "user": "阿尔加维的葡萄干",
+      "avatar": "https://img3.doubanio.com/icon/u81294259-4.jpg",
+      "content": "难得优秀的国产剧啊！潘粤明离婚之后演技终于在线了- -"
+    },
+    {
+      "user": "茸雀雀爱吃糖",
+      "avatar": "https://img3.doubanio.com/icon/u163446182-4.jpg",
+      "content": "先打四星观察一下后面的剧情，潘粤明演的超级棒！冷漠的哥哥，蠢萌的弟弟！演技好棒呀！第四集哥哥威胁弟弟不要出去鬼混，否则就挥刀自宫让弟弟再比着造个相同的伤疤，笑死我了，你俩出门不穿裤子啊？！"
+    },
+    {
+      "user": "大鱼多多",
+      "avatar": "https://img3.doubanio.com/icon/u24992036-23.jpg",
+      "content": "前几集还不错，但越往后越老套无趣！总体上还算不错的剧，就是这个评分我觉得太高了，8分比较合理。"
+    },
+    {
+      "user": "哟哟哟",
+      "avatar": "https://img3.doubanio.com/icon/u152344862-1.jpg",
+      "content": "潘粤明一人分饰两角，演技真的炸裂，喜欢白夜这首歌，剧制作也精良，好久没见这么好的网剧了"
+    },
+    {
+      "user": "清风徐来",
+      "avatar": "https://img1.doubanio.com/icon/u50560714-8.jpg",
+      "content": "双胞胎刑警和逃犯设定，有意思  但搞不懂关宏峰心理有问题这么多年没被人发现？"
+    },
+    {
+      "user": "腿仔仔🍖",
+      "avatar": "https://img3.doubanio.com/icon/u42015799-515.jpg",
+      "content": "开篇就是杀人现场，一句话不啰嗦直接进入主题。中国的网剧做到这份上，非常可以了。"
+    },
+    {
+      "user": "断肠人在刷牙",
+      "avatar": "https://img3.doubanio.com/icon/u2292794-23.jpg",
+      "content": "像永恒燃烧的太阳，不懂得月亮的盈缺。"
+    },
+    {
+      "user": "junepig",
+      "avatar": "https://img3.doubanio.com/icon/u1484972-11.jpg",
+      "content": "编不下去了。。。？是不是准备第二季开篇，“二十五年后”，关宏宇高亚楠之子已经成长为新一代神探，又是潘粤明老师演！这演技是更上层楼，经过又一个32集，破了无数大案，终于和他大爷坐在了一起，准备聊聊大年夜灭门案，音乐响起，白追凶第三季，优酷独播。。"
+    },
+    {
+      "user": "蔓玫",
+      "avatar": "https://img1.doubanio.com/icon/u2649782-29.jpg",
+      "content": "好看，但也觉得有很多无法说服我的地方。周巡的暴烈冲动，富豪大叔的琐碎慌张等，其实都难与其身份吻合；更不提关能撩那若隐若现的杰克苏光环了。。相比王凯在《嫌疑犯X》里的演技，本剧中许多演员也存在背台词的情况。但架不住剧本好，镜头漂亮，观众方有超出预期的满足感。四星质量，一星做鼓励吧~"
+    },
+    {
+      "user": "张清和",
+      "avatar": "https://img3.doubanio.com/icon/u78964218-1.jpg",
+      "content": "真的没有不整容会演戏的女演员了吗😐全剧除了亚楠其他女性角色真是尴尬😐"
+    },
+    {
+      "user": "小米=qdmimi",
+      "avatar": "https://img3.doubanio.com/icon/u1392601-24.jpg",
+      "content": "极丰富的细节加越挖越深的大坑加满屏臭脸的冷硬风格，这就是你的创作公式。不过接下来的情节，实在可以考虑一下不要破坏苦心营造出的日常感和人设,为转折而转折的崩坏要不得啊。而且双胞胎这个梗几乎“只有新来的小妞还不知道”,如何继续下去是个问题,千万别像《越狱》那样为了续命而破绽百出。"
+    },
+    {
+      "user": "吾烨真",
+      "avatar": "https://img3.doubanio.com/icon/u159303018-2.jpg",
+      "content": "白夜追凶，今年国产剧的收获。潘粤明，好演员的回归。致敬该剧组所有的工作人员，你们刷新了国产刑侦剧的水准。\n观众的口碑是最好的奖励。"
+    },
+    {
+      "user": "Obtson",
+      "avatar": "https://img3.doubanio.com/icon/u2315257-63.jpg",
+      "content": "想问刘队借那本《做一个会说话会办事的聪明人》。"
+    },
+    {
+      "user": "蓝调共和",
+      "avatar": "https://img1.doubanio.com/icon/u1038939-69.jpg",
+      "content": "其实bug很多，不能细想。但起码演员演技都在线，就是不太能够忍整容脸。"
+    },
+    {
+      "user": "嘟嘟",
+      "avatar": "https://img3.doubanio.com/icon/u164088867-2.jpg",
+      "content": "现在的网剧大多数都好良心，让人蛮惊喜，就是一个人看有点害怕"
+    }
+  ]
+}

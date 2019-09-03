@@ -1,0 +1,1153 @@
+{
+  "title": "火星生活",
+  "url": "https://movie.douban.com/subject/27622822/",
+  "rate": "9.0",
+  "id": "27622822",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521727980.jpg",
+  "info": [
+    "导演: 李政孝",
+    "编剧: 李大日 / 马修·格雷厄姆 / 托尼·乔丹 / 阿什利·法罗",
+    "主演: 郑京浩 / 朴圣雄 / 高雅星 / 吴代焕 / 卢宗贤 / 金英弼 / 全锡浩 / 全慧彬 / 金栽经 / 金基天",
+    "类型: 科幻 / 悬疑 / 犯罪",
+    "官方网站: program.tving.com/ocn/lifeonmars/",
+    "制片国家/地区: 韩国",
+    "语言: 韩语",
+    "首播: 2018-06-09(韩国)",
+    "集数: 16",
+    "单集片长: 60分钟",
+    "又名: 韩版火星生活 / 回转干探 / Life on Mars"
+  ],
+  "desc": "韩版《火星生活》由OCN翻拍自同名英剧，讲述了因突发事故而穿越回到过去的刑警为了回归自己原先的生活而解决连环杀人案的故事。",
+  "members": {
+    "director": {
+      "name": "李政孝 Jung-hyo Lee",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1494350565.54.jpg"
+    },
+    "cast": [
+      {
+        "name": "郑京浩 Kyeong-ho Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1413177063.34.jpg"
+      },
+      {
+        "name": "朴圣雄 Seong-Woong Park",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455400493.88.jpg"
+      },
+      {
+        "name": "高雅星 Ah-sung Ko",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1410058271.6.jpg"
+      },
+      {
+        "name": "吴代焕 Oh Dae-hwan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517640873.03.jpg"
+      },
+      {
+        "name": "卢宗贤 No Jong-hyun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1528484748.6.jpg"
+      },
+      {
+        "name": "金英弼 Kim Young-pil",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524042717.08.jpg"
+      },
+      {
+        "name": "全锡浩 Suk-Ho Jun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1440852512.11.jpg"
+      },
+      {
+        "name": "全慧彬 Hye-bin Jeon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469004595.06.jpg"
+      },
+      {
+        "name": "金栽经 Jae-kyung Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549345151.59.jpg"
+      },
+      {
+        "name": "金基天 Ki-cheon Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1398165540.95.jpg"
+      },
+      {
+        "name": "韩根燮 Han Geun-sup",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524127415.29.jpg"
+      },
+      {
+        "name": "姜信哲 Kang Shin-chul",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517229512.84.jpg"
+      },
+      {
+        "name": "权赫洙 Kwon Hyuk Soo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEo5kpcNt4Qccel_avatar_uploaded1512382299.63.jpg"
+      },
+      {
+        "name": "文宇振 Woo-jin Moon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512383976.96.jpg"
+      },
+      {
+        "name": " 李圭燮 Lee Gyoo-seop",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEo5kpcNt4Qccel_avatar_uploaded1513708096.36.jpg"
+      },
+      {
+        "name": "閔政燮 민정섭",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534921829.69.jpg"
+      },
+      {
+        "name": "吴韩杰 Han-gyeol Oh",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3DaRMYd3pE8cel_avatar_uploaded1527843158.02.jpg"
+      },
+      {
+        "name": "朴庸 Yong Park",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508156726.74.jpg"
+      },
+      {
+        "name": "赵宇丽 Woo-ri Jo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1558329110.34.jpg"
+      },
+      {
+        "name": "李志夏 Ji-ha Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi1jLpabrpE4cel_avatar_uploaded1517803915.98.jpg"
+      },
+      {
+        "name": "李承勋 Seung-hoon Lee ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1537812204.42.jpg"
+      },
+      {
+        "name": "高圭弼 Ko Kyu-pil",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554523133.64.jpg"
+      },
+      {
+        "name": "裴浩根 Bae Ho-geun",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509686630.48.jpg"
+      },
+      {
+        "name": "吴雅琳 Ah-rin Oh",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519173139.07.jpg"
+      },
+      {
+        "name": " 俞智妍 유지연",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508172021.7.jpg"
+      },
+      {
+        "name": "崔福岩 Bool-am Choi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51606.jpg"
+      },
+      {
+        "name": "洪京 Kyung Hong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1544086856.1.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2524112080.jpg?",
+        "src": "http://vt1.doubanio.com/201908311653/2d9682387e2a9ee93dd0c5c21342712a/view/movie/M/402310998.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2521728078.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2521728076.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2521269352.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2524629797.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "jayandlovelyl",
+      "avatar": "https://img3.doubanio.com/icon/u83315011-20.jpg",
+      "content": "英剧美剧多么优秀都麻木了，看到韩国也翻拍出来这么赞的片真的是嫉妒了，我大中国啥时候能……哎，不说了，郑京浩太牛逼了反正就是一次次被圈粉呗"
+    },
+    {
+      "user": "某J。624",
+      "avatar": "https://img1.doubanio.com/icon/u2223174-29.jpg",
+      "content": "和隧道完全不同，看似穿越但前两集有太多潜意识的伏笔；腐国原版算是英剧的穿越鼻祖？玩惯了冷峻风的ocn这次加的这笔喜剧倒是挺有趣的，回到1988；画风就立刻变了。PS：别再问谁是女主了！女主难道不是郑少女么？！完结打卡：要是我也一定会选择纵身一跃的1988，哪怕只是大梦一场；ep15结局的话就是看似he的be，ep16结局则是看似be的he。"
+    },
+    {
+      "user": "Ruirui",
+      "avatar": "https://img3.doubanio.com/icon/u67374896-5.jpg",
+      "content": "哈哈哈哈系长真是又糙又萌，跟郑少女自带CP感。这可能是这段时间最喜欢的韩剧女主了，不是霸气的大女主，也不是无脑的傻白甜。日常里软软绵绵，说话语调慢慢的但很温柔，有自己的想法，但不锋利，问题是能文能武，绝对不拖泥带水，温柔但不需要别人保护。真棒。"
+    },
+    {
+      "user": "大将木的小树🌲",
+      "avatar": "https://img3.doubanio.com/icon/u74176631-6.jpg",
+      "content": "看了原著的我表示，你们把剧情想到太简单了，不是信号和隧道，而是穆赫兰道"
+    },
+    {
+      "user": "范思鱼",
+      "avatar": "https://img1.doubanio.com/icon/u3992724-48.jpg",
+      "content": "我们郑少女版的1988请回答以及爸，我回来了！"
+    },
+    {
+      "user": "oranges",
+      "avatar": "https://img3.doubanio.com/icon/u170889587-1.jpg",
+      "content": "不愧OCN,到14集结束，依旧五星，编剧借了BBC原版的背景，而悬疑结构及主线另辟蹊径，支线案子则层层递进推进主线案子，导演也并没有为了追求刺激过分解读犯罪过程，反而弱化了过程而探究犯罪背后的原因和动机，不少案子根据真实事件改编，真相浮出水面，所有主线案子都连系起来了,编剧的逻辑依旧稳健,真正让人感受到草蛇灰线,伏脉千里,力荐。"
+    },
+    {
+      "user": "YyyyyyyyW",
+      "avatar": "https://img1.doubanio.com/icon/u56170907-29.jpg",
+      "content": "穿着西装不苟言笑的郑叔叔真是太性感了！！！希望能在原作的基础上有些韩剧的特点吧 第一集的案件还是不错的！"
+    },
+    {
+      "user": "秋豆",
+      "avatar": "https://img1.doubanio.com/icon/u74266371-108.jpg",
+      "content": "如果没有最后的那个彩蛋就好了 恰到好处的结局就像恰到好处的爱～喜欢总结性发言的那句 能让你笑着生活的地方就是现实 毕竟 此心安处是我家。。。郑少女加油 请和朴可爱幸福生活！！！一定要小心她女儿！！！"
+    },
+    {
+      "user": "讲究不将就",
+      "avatar": "https://img3.doubanio.com/icon/u77055604-5.jpg",
+      "content": "郑京浩不接爱情剧之后荷尔蒙指数不降反升是怎么回事？从澡堂跑出来追犯人，领带耷拉在胸前像飘扬的红领巾？黑袜白鞋，郑少女真的永远时尚在线啊"
+    },
+    {
+      "user": "小扣柴扉",
+      "avatar": "https://img3.doubanio.com/icon/u130687315-3.jpg",
+      "content": "郑敬淏的演技比纯情时期更纯熟，比监狱时期更有张力，人设的性格优缺点都展示出来了。喜欢尹娜英，遇事从不含糊关键时刻给力。每个案件悬疑又爆笑。前八集紧凑精彩，笑点十足，亲情线和童年回忆的交融又暖又虐。过半剧情后连接主案件，过程惊心动魄悲喜交集，大结局非常妙，火星三班五人组一起就是幸福"
+    },
+    {
+      "user": "火火火",
+      "avatar": "https://img3.doubanio.com/icon/u143248684-3.jpg",
+      "content": "韩太柱即使一脸吃土妆也还是好看，和姜系长的日常太逗了，太柱眼睛一瞥系长就不敢动，好不容易一个公主抱还给撞满头包哈哈哈哈，第一次觉得刑侦和搞笑能融合得那么好，系长能文能武办得了案子耍的了宝，太柱你就嫁了吧\nMiss尹人设实在讨喜，说话柔柔的但是做事又条理清晰有魄力\n越看越耐看的剧，而且总在觉得它要烂了的时候成功圆回来，应该不会烂尾吧\n以前只看完结剧，第一次追剧真的太痛苦了，更新好慢啊啊啊啊\n完结打卡！希望在1988的太柱和重案3组永远笑口常开"
+    },
+    {
+      "user": "镜",
+      "avatar": "https://img3.doubanio.com/icon/u156690183-1.jpg",
+      "content": "这部剧真的出乎我的意料，看之前并没有多少期望，因为最近的剧评分也不能体现水平了。但是但是我必须给少女打call，这部剧设定有些类似信号隧道，但其实还是有些不同的，五星预定！！"
+    },
+    {
+      "user": "达令女青年",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "第一集有意思，真凶穿越到30年后杀人，警察穿越回30年前抓人！希望后面别烂尾！"
+    },
+    {
+      "user": "迷途一声喵",
+      "avatar": "https://img3.doubanio.com/icon/u168036582-2.jpg",
+      "content": "好看的停不下来，大陆剧真应该好好看看韩剧怎么拍的，韩剧短而精，好剧总是让你看完觉得意犹未尽，不想快进错过每一帧的画面，大陆剧99%的剧又臭又长，怪不得那些视频APP都出倍速播放。"
+    },
+    {
+      "user": "鯨",
+      "avatar": "https://img3.doubanio.com/icon/u45588933-44.jpg",
+      "content": "看过原版所以早就知道结局了，但并不影响我对这部剧的喜爱！！！每一集都好看！案件都很精彩！每个角色都很喜欢！！"
+    },
+    {
+      "user": "Q",
+      "avatar": "https://img3.doubanio.com/icon/u56803551-3.jpg",
+      "content": "机智牢房生活过来的。坐等郑少女新剧。20180208／郑敬淏简直就是理想型！！坐等第三集 20180615 / 0807看完，最后一集竟然泪目。"
+    },
+    {
+      "user": "安蓝·怪伯爵𓆝𓆟𓆜",
+      "avatar": "https://img3.doubanio.com/icon/u1056861-674.jpg",
+      "content": "一个个看似独立的案件，却串起了一条成长轨迹，充满了神秘的，疏离的，暖心的，各种莫名其妙的感动。配乐超燃~爸爸的爱看哭了好几次~那个，一下子穿越到没人能理解你的20年前，应该很孤独很艰难吧，但拜托请坚持住啊！会慢慢好起来哒！心疼地抱住~~~！就当人生是一场睡睡醒醒的梦吧！能留在梦里也不错呀！郑少女随随便便“恩”一声我这浑身都是酥的~朴胜雄超会演，搞笑担当！还把少女虐得体无完肤蛤蛤蛤！公主抱那段太可爱啦！ps，miss尹棒棒哒~"
+    },
+    {
+      "user": "小黑兜兜",
+      "avatar": "https://img3.doubanio.com/icon/u57014971-2.jpg",
+      "content": "单单是喊老幺试药，吐口水第一口把可乐喝掉了，这两项我就可以打9分了。加上郑京浩，10分！有的时候一部剧出彩，双男主或者双女主设置，两个人一定是要能有化学反应的。关键郑京浩为什么和谁都那么搭~"
+    },
+    {
+      "user": "HiMaWArI",
+      "avatar": "https://img3.doubanio.com/icon/u63847160-10.jpg",
+      "content": "笑着活着的地方，就是现实。\n觉得自己是活着的，那就是活着的。"
+    },
+    {
+      "user": "ice",
+      "avatar": "https://img3.doubanio.com/icon/u4679354-12.jpg",
+      "content": "翻拍的很棒啊！第七集里面“有钱无罪，没钱有罪” 三个绑架犯一个一个绝望的自杀的时候看的我好心痛（啊啊啊那个地方的 bgm 是 Bee Gees 的 Holiday 啊！），第八集结尾的地方处理的很妙！（不满意结尾，虽然没有烂尾那么严重……（最喜欢第七第八集）"
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "一个第七集就值回来，不做彻底平反，全斗焕的阴影将长期笼罩在韩国上空，只有1988的火星可以拯救完美笑容"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "1988，一个神奇的年份"
+    },
+    {
+      "user": "闲人",
+      "avatar": "https://img3.doubanio.com/icon/u5054748-6.jpg",
+      "content": "感觉粉红剧在韩国退潮之后，韩剧反而迎来了第二次高峰。一大帮以前写苦情和粉红剧的编剧都写出生涯最优秀的作品，我的天！"
+    },
+    {
+      "user": "雪❄️貂",
+      "avatar": "https://img3.doubanio.com/icon/u128699167-4.jpg",
+      "content": "前方高能.....剧情推进的太快了，环环相扣，完全没有无用的情节。比起国内动辄几十集的电视剧，韩剧16集就讲述了一个完美的故事，这就是差距。"
+    },
+    {
+      "user": "Lotte-F",
+      "avatar": "https://img3.doubanio.com/icon/u140594033-5.jpg",
+      "content": "很一般诶，而且不知道这种题材翻拍的意义何在，把原来的故事移植到泡菜本土之后莫名的违和感，即便再喜欢这个卡司也夸不下口。"
+    },
+    {
+      "user": "坐等1900",
+      "avatar": "https://img3.doubanio.com/icon/u2839451-3.jpg",
+      "content": "吾心安处是故乡 Life on Mars 能让人笑着生活的地方就是现实 演员选得特别好 改编了之后很符合韩国的特色 和英版风格不同 但同样优秀"
+    },
+    {
+      "user": "Bittersweet",
+      "avatar": "https://img3.doubanio.com/icon/u58057180-14.jpg",
+      "content": "韩国翻拍的版本将时间节点选在1988年，呈现的全貌恰如其分。唯一的缺点是案件推理过程比较简单。心疼郑少女越来越深的黑眼圈和越来越大的眼袋。“你笑着生活的地方，就是现实。”十六集，原来只有最后一集在梦里。如此皆大欢喜的大结局竟然是在梦中，到底是该欢喜还是悲伤？“还是过去的东西好”，原作者到底对这句话体会有多深？这是个悲伤的故事。会有下一部吗？"
+    },
+    {
+      "user": "树深时见luuuuu",
+      "avatar": "https://img3.doubanio.com/icon/u145133430-2.jpg",
+      "content": "眼睁睁看着评分从8.8涨到9.1，个人观影感受跟评分同比增长哈哈哈，前几集还在觉得案件剧情有点弱，从药店店长开始每一集都高能，双男主的线很有趣，女主说话温温柔柔又能打不娇气的性格太讨喜了，上一个追的那么紧张的剧还是live，超级喜欢！！"
+    },
+    {
+      "user": "夕霏",
+      "avatar": "https://img3.doubanio.com/icon/u4637318-721.jpg",
+      "content": "好看的！朴圣雄演得真好，全靠他的科插打诨让整部剧活起来。郑少女不管在哪部戏里都时髦的要命，即使穿越回1988年。"
+    },
+    {
+      "user": "中寄方",
+      "avatar": "https://img3.doubanio.com/icon/u2444774-36.jpg",
+      "content": "案件弱智"
+    },
+    {
+      "user": "丁叮丁叮",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "看到了15集，觉得自己浪费了时间白看了一部剧"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img1.doubanio.com/icon/u123075240-8.jpg",
+      "content": "好看！剧情紧凑，演员演技在线，不能晚上看回忆的时候总是让人害怕"
+    },
+    {
+      "user": "二分之一",
+      "avatar": "https://img3.doubanio.com/icon/u42261320-3.jpg",
+      "content": "没有吻戏的韩剧都好好看"
+    },
+    {
+      "user": "sam",
+      "avatar": "https://img1.doubanio.com/icon/u53345300-39.jpg",
+      "content": "第七集开始开挂，对真实事件的批判实在可贵。优秀韩剧最妙的地方就是，无论是多间离的切入点，都有最为大众所熟悉的日常共鸣。更何况推理没毛病，两个世界的声效剪辑太棒了。"
+    },
+    {
+      "user": "包包",
+      "avatar": "https://img3.doubanio.com/icon/u139256096-2.jpg",
+      "content": "满分 笑点和悬疑齐飞 颜值演技都在线 厉害厉害。朴成雄 郑京浩 双重保证 配角演技都没得说 题材新颖 有些案子直击内心 非常值得观看的一部电视剧啊。"
+    },
+    {
+      "user": "青龍本相",
+      "avatar": "https://img1.doubanio.com/icon/u120004238-18.jpg",
+      "content": "我好像都没从国产片中看过演得这么假的男主。"
+    },
+    {
+      "user": "朱熠",
+      "avatar": "https://img1.doubanio.com/icon/u1514785-29.jpg",
+      "content": "即便是在潜意识当中，也没有什么是永垂不朽的吧"
+    },
+    {
+      "user": "onion",
+      "avatar": "https://img3.doubanio.com/icon/u71426420-1.jpg",
+      "content": "翻拍的好的剧，没傲骨贤妻和金装律师那种生硬感和装13感，流畅自然。唯一的缺憾就是背景音乐太烦人，不必要的配乐太多，就不能让人物安安静静的说句话啊！"
+    },
+    {
+      "user": "铢锡",
+      "avatar": "https://img3.doubanio.com/icon/u41565491-6.jpg",
+      "content": "扣3星，跟英国版一样。。。最后主角自杀了。。。。。。好个屁。。。。。。。这种去死的想法就是逃避现实"
+    },
+    {
+      "user": "9L-ing",
+      "avatar": "https://img3.doubanio.com/icon/u1513967-141.jpg",
+      "content": "三星半。原剧本不错。节奏有点拖沓，改编成电影感觉节奏会更紧凑。慢热，越来越好。"
+    },
+    {
+      "user": "前田罗绮",
+      "avatar": "https://img3.doubanio.com/icon/u172428022-10.jpg",
+      "content": "四星观望。还不错的样子。"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "腐国的创意，泡菜的改编，在潜意识里破案也算别出心裁。悬疑氛围强，节奏感极佳，几乎是一口气就能提着悬念刷完。每个案件的发生映对男主潜意识投射，主次案件层层递进，环环相扣精彩纷呈。逻辑缜密编排得当，后半段难得不注水不烂尾，没有众多类型剧越编下去越难自圆其说的通病，结尾两条世界线互为映衬收得工整漂亮。男主最后的选择基本也在情理之中，“你笑着生活的地方，才是现实”，《阿凡达》与《源代码》式的超现实主义结局。"
+    },
+    {
+      "user": "K",
+      "avatar": "https://img3.doubanio.com/icon/u130644918-3.jpg",
+      "content": "隧道既视感，郑京浩+朴成雄，有点意思，很ocn"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "及借太秀昏迷时意识穿越回去侦破各种案件的设定。姜系长对太秀是真爱，嘿嘿嘿！最近被高雅星圈粉，很会接本子，角色都讨喜演的也不错，本剧中各种cos。结尾感觉略弱，其实并没有太烧脑的部分，事实应该就是男主被撞昏迷，因之前看过案件各种资料，所以在昏迷的潜意识中与各种涉案人物和事件构建了联系，后来苏醒利用潜意识破了现实中的案件，后又昏迷。。回到潜意识的同事中间，而现实中这些好同事其实早已殉职！"
+    },
+    {
+      "user": "盆栽金鱼",
+      "avatar": "https://img3.doubanio.com/icon/u47331203-6.jpg",
+      "content": "男主被枪击后一直没醒，后来在2018醒来也是梦境 ，只不过他不想做2018年的梦了， 因为他更喜欢那个88年的梦。我也想要这样一个有爱的集体组织。"
+    },
+    {
+      "user": "Mr.Z",
+      "avatar": "https://img1.doubanio.com/icon/u51415144-18.jpg",
+      "content": "有人说他和signal差不多，但是说实话，还是有一点点差距，演员们非常棒，可是编剧偶尔用一些骗小孩儿的逻辑糊弄观众，会让我觉得还不够用心"
+    },
+    {
+      "user": "莫莫先生",
+      "avatar": "https://img3.doubanio.com/icon/u62888853-26.jpg",
+      "content": "“等你结婚后就知道了，大家不都是吵吵闹闹、甜甜蜜蜜地活着嘛。”太喜欢郑少女＋系长大叔的组合了！日常甜如蜜！"
+    },
+    {
+      "user": "Strelizeia",
+      "avatar": "https://img3.doubanio.com/icon/u3392754-170.jpg",
+      "content": "朋友说忍过第一集，果然后面郑少女回溯身世，还有激情满满的同事情（｡ò ∀ ó｡）。虽然最终估计南柯一梦醒来解题方法不算新，但涉及的人性，制度的反差，还是很有所指。看到当年自己拍的楼梯台阶还要出现在88年里不知道算不算bug呢。"
+    },
+    {
+      "user": "tsunami",
+      "avatar": "https://img3.doubanio.com/icon/u2155544-35.jpg",
+      "content": "终于把《火星生活》看完了，因为对人物的喜爱，看到最后已不忍苛责技巧硬伤，反而就很感谢最后两集用近乎铺张的篇幅来演他们在一起工作的样子。不苟言笑、一意孤行的男主角惨兮兮地怀疑着一切，最怀疑的是自己，最后他选择在自己会笑出来的、有同伴的地方活下去。最后那场戏太温柔了，真是大梦一场。"
+    },
+    {
+      "user": "一碗云吞",
+      "avatar": "https://img3.doubanio.com/icon/u1349428-10.jpg",
+      "content": "请回答1988穿越版"
+    },
+    {
+      "user": "nikki",
+      "avatar": "https://img1.doubanio.com/icon/u1102916-409.jpg",
+      "content": "没看过原版。觉得这剧最大的不足就是案子无论和ocn一贯风格还是英剧比起来都太温和，不过当中有两个拍较大争议的真实案子也是加分点了。其它各方面很尽职了，主要演员演技都是过关的（郑敬淏太帅了又爱上了），服装音乐画面各方面，总体没觉得像信号，但是很容易想到隧道，因为并没有强调过去改变现实，倒是由始至终都有庄周梦蝶之感（是我真要疯）。"
+    },
+    {
+      "user": "一纸素言",
+      "avatar": "https://img3.doubanio.com/icon/u35302853-4.jpg",
+      "content": "韩国本土化之后真让人惊喜，很多在英剧里面显得逻辑不够通顺之处也捋顺了。表白姜东哲系长和尹娜英小姐姐，他俩值五星。郑少女和姜系长的cp感不要太强。"
+    },
+    {
+      "user": "Hideo",
+      "avatar": "https://img1.doubanio.com/icon/u6296367-17.jpg",
+      "content": "韩国这编剧没啥常识，最基本的化学品知识都不具备。这种编剧就别涉足罪案题材了，侮辱观众智商。最起码的功课都不做抬笔就敢写，真是没啥敬畏之心啊。"
+    },
+    {
+      "user": "pepper 安",
+      "avatar": "https://img3.doubanio.com/icon/u2756044-80.jpg",
+      "content": "没有说的那么好，每个案件开始都吊起人们胃口，等揭开谜底都是点到为止，没有深度剖析"
+    },
+    {
+      "user": "PROMISE921",
+      "avatar": "https://img3.doubanio.com/icon/u1679234-1.jpg",
+      "content": "人生是个多维选择题 我们都在梦里"
+    },
+    {
+      "user": "王無為",
+      "avatar": "https://img3.doubanio.com/icon/u1041702-73.jpg",
+      "content": "很无聊 说实话。我可能终于过了看韩剧额年龄了。"
+    },
+    {
+      "user": "matchbox",
+      "avatar": "https://img1.doubanio.com/icon/u1212951-108.jpg",
+      "content": "编得并不是那么好，不过最后一集还是看哭了。"
+    },
+    {
+      "user": "棠梨簌簌",
+      "avatar": "https://img3.doubanio.com/icon/u62464125-12.jpg",
+      "content": "我赌五毛 郑少女拿的的又是傲娇女主剧本！！"
+    },
+    {
+      "user": "🌰🐿",
+      "avatar": "https://img1.doubanio.com/icon/u52726325-269.jpg",
+      "content": "看了几集，没有想象中好看。演员演技都很好，但是剧情有点拖沓，吸引力不强。"
+    },
+    {
+      "user": "すでに恒司ロス",
+      "avatar": "https://img3.doubanio.com/icon/u45203942-61.jpg",
+      "content": "施瓦辛格看了得哭，为什么我穿越得裸，他却有帅气vintage皮夹克穿。跟信号和隧道相比，拍得太糙，不知道原版如何…"
+    },
+    {
+      "user": "山上风下",
+      "avatar": "https://img3.doubanio.com/icon/u41870924-80.jpg",
+      "content": "回到1988后掰下来的电视机旋钮在地板上像个陀螺似的旋转，男主在档案室因为表世界生命体征的异动而影响到里世界的光线，应该是类似盗梦式的潜意识世界的设定。丨朴叔nh第一A名不虚传，高雅星的表演方式太尬了救命丨E8结尾三段式幻觉，记忆可以被唤起，却永远只是既定事实的演绎。丨E12我要给满分了丨1988的温情柔软和信赖，为了三班"
+    },
+    {
+      "user": "忘山",
+      "avatar": "https://img1.doubanio.com/icon/u2012101-37.jpg",
+      "content": "一气看完的很过瘾。还算是有首有尾，可以自圆其说。因为还留有监狱生活对郑少女的喜爱，所以看不出他演技有多烂。悬疑片里不多见的韩式幽默真的把我逗乐了：坏人和警察在追捕过程中互喷唾沫，小偷带着手铐铐着的瓦斯罐艰难地逃跑。虽然是坏人，也努力地可爱。坏人之所以成为坏人，到底是因为什么，普通人看到的美好生活背后有些什么，可能生活比电影更残酷。"
+    },
+    {
+      "user": "好好地",
+      "avatar": "https://img1.doubanio.com/icon/u144889235-9.jpg",
+      "content": "确实像《信号》+《请回答1988》，尤其是第8集听到消防车的背景音乐，word妈一秒穿越回请回答。但是有些地方太拖沓了，看着着急，案子没啥烧脑的地方，简单粗暴的，情感烘托也不如信号，至少信号是熊叔一哭我就哭，这部剧看到第八集还没有什么泪点。PS从《机智监狱生活》开始，就是能get到郑少女的人格魅力但是演技和颜值get不到。这次第七集郑少女换上黑衬衫，突然被秒了……啊我果然对很衬衫没啥抵抗力。2018.08.11完结补，后半程拖沓和注水程度让我一度恍惚，以为在看国产洗钱剧……冲五人组的欢乐咬牙不改分了。"
+    },
+    {
+      "user": "Noodles",
+      "avatar": "https://img3.doubanio.com/icon/u114551225-4.jpg",
+      "content": "郑少女贼厉害！"
+    },
+    {
+      "user": "Vivian",
+      "avatar": "https://img3.doubanio.com/icon/u45278107-13.jpg",
+      "content": "很新颖题材的韩剧  期待下一季"
+    },
+    {
+      "user": "阿稚",
+      "avatar": "https://img1.doubanio.com/icon/u2616980-29.jpg",
+      "content": "很舒服的改编，看完后劲足，私心加星。悬疑刑侦只是壳，庄周梦蝶，细思极悲。但至少在可以选择的梦境里，男主与三班真实的活着笑着。"
+    },
+    {
+      "user": "麟",
+      "avatar": "https://img3.doubanio.com/icon/u52334476-2.jpg",
+      "content": "从一开始的格格不入，到选择在1988生活下去，开心、幸福就好。"
+    },
+    {
+      "user": "咸菜大盗🥢",
+      "avatar": "https://img3.doubanio.com/icon/u194357539-1.jpg",
+      "content": "挺好看的但是九分是不是太高了。。。全程1.5看完的。中间有些地方觉得说话好慢，哈哈。喜欢系长和男主互动"
+    },
+    {
+      "user": "Aum★Ken",
+      "avatar": "https://img3.doubanio.com/icon/u77167468-2.jpg",
+      "content": "真失望，冲着郑少女和评分去的人，结果极度失望，剧情拖沓、反转无新意，女主高雅星一直不喜欢她的长相，这部剧中她的人设也很讨人嫌，而且和男主一点cp感都没，失望透顶的剧！ps：果然一如既往看不惯韩国的悬疑破案剧，感觉都是故弄玄虚、拖拖沓沓、反转弱智；目前看过这类最好的一部韩剧应该属九回这部剧了。"
+    },
+    {
+      "user": "哈哈、",
+      "avatar": "https://img3.doubanio.com/icon/u1609740-5.jpg",
+      "content": "舒马赫现在一定也在1988年。"
+    },
+    {
+      "user": "亦然。",
+      "avatar": "https://img3.doubanio.com/icon/u139117758-1.jpg",
+      "content": "第十集看完了。剧情已经过半，整体来说有些失望。作为悬疑剧，主线虽然清晰，但是有点过于简单了，导演就像是把我想到的拍了出来，缺少亮点。作为犯罪剧，郑妹妹作为刑警，没有看到对于侦破案件的帮助，相比于第一集的出场相差太大。相比于信号来说真的没那么好。吐槽一下，导演的拍摄细节有待提高。"
+    },
+    {
+      "user": "Rosehelen",
+      "avatar": "https://img3.doubanio.com/icon/u3195337-4.jpg",
+      "content": "男主有三分像保剑锋~但人设不好，什么都慢三拍的感觉实在不喜欢，剧情BUG太多"
+    },
+    {
+      "user": "laurenⅢ",
+      "avatar": "https://img3.doubanio.com/icon/u50307725-166.jpg",
+      "content": "演技消失了的说 同样是穿越剧比其他差多了"
+    },
+    {
+      "user": "杨浦小囡",
+      "avatar": "https://img3.doubanio.com/icon/u156617867-24.jpg",
+      "content": "这部剧不给满分，真心说不过去，到结尾了都没让你明白男主到底是苏醒了还是在梦中，穿越与反穿越的典型代表作品"
+    },
+    {
+      "user": "MY BMM",
+      "avatar": "https://img1.doubanio.com/icon/u2471325-337.jpg",
+      "content": "写给精神分裂症患者的情书。"
+    },
+    {
+      "user": "游坦",
+      "avatar": "https://img3.doubanio.com/icon/u8460892-74.jpg",
+      "content": "埋坑记得填"
+    },
+    {
+      "user": "莎翁笔下的精灵",
+      "avatar": "https://img3.doubanio.com/icon/u49146355-10.jpg",
+      "content": "在贯穿时间线的大案件，以及韩泰柱父亲案件的处理上都很好，反而是与88标志事件的结合上有点硬，感觉应该是编剧的文笔。改编自英剧，可以想象这题材腐国来，又是逼格满格。而思密达版本感情部分处理丰满。郑少女拍这戏一定很累，还有可爱的朴正雄。高我星真是青少系中少有的演技派。80年代女性的那份矫揉造作演绎的惟妙惟肖"
+    },
+    {
+      "user": "飘零燕",
+      "avatar": "https://img3.doubanio.com/icon/u15006507-2.jpg",
+      "content": "非常好看，尤其是最后两集，对两个年代 的解释以及对剧情的最终发展都表现得太出彩了~"
+    },
+    {
+      "user": "谁",
+      "avatar": "https://img3.doubanio.com/icon/u3936176-66.jpg",
+      "content": "无实感的现实世界"
+    },
+    {
+      "user": "摇滚公主S",
+      "avatar": "https://img3.doubanio.com/icon/u1675459-3.jpg",
+      "content": "没想到会这么精彩！"
+    },
+    {
+      "user": "麦神的小跟班",
+      "avatar": "https://img3.doubanio.com/icon/u36105243-14.jpg",
+      "content": "设定很不错，但是主线剧情太拖沓了。"
+    },
+    {
+      "user": "飞行员",
+      "avatar": "https://img3.doubanio.com/icon/u1176118-31.jpg",
+      "content": "这么普通的所谓年度最佳吗？这和监狱日常怎么比？郑少女这部剧演技很尴尬啊到底好在哪里，剧情也太普通了吧，还期待后面会有什么反转，这么套路的剧。"
+    },
+    {
+      "user": "周扒皮",
+      "avatar": "https://img3.doubanio.com/icon/u61967566-13.jpg",
+      "content": "第一二集看得有点莫名其妙，觉得女主丑，时间线乱七八糟\n后边有很有意思了"
+    },
+    {
+      "user": "业余影迷徐淼淼",
+      "avatar": "https://img1.doubanio.com/icon/u38814863-7.jpg",
+      "content": "翻拍的电视剧，本土化做得好好。这是脑电波穿越还是本人穿越，我有点不懂。而且他选择回到1988，是不是2018的他又陷入昏迷……越往后越像惊悚片，我都捂着眼不能直视了。还有就是，为什么没有发生蝴蝶效应，明明他穿越后改变了很多事。这点也不懂。对了，Miss尹拍戏小动作有点多哦。"
+    },
+    {
+      "user": "艾米的猜想",
+      "avatar": "https://img3.doubanio.com/icon/u36855984-43.jpg",
+      "content": "挺好看的剧，喜欢郑少女，尹刑警，演员演得不错，但还是信号更好。"
+    },
+    {
+      "user": "段小誉",
+      "avatar": "https://img1.doubanio.com/icon/u139050151-18.jpg",
+      "content": "打扰了。。。"
+    },
+    {
+      "user": "Jocainewack",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "如果看主线建议跳过234567集，支线部分有趣。"
+    },
+    {
+      "user": "折扇",
+      "avatar": "https://img3.doubanio.com/icon/u41334510-2.jpg",
+      "content": "最后两集以为有个大包袱却没有……又见评论里说最后一车人开在空阔暖洋洋的大路上却莫名像黄泉路……我真是起鸡皮疙瘩。前面抓捕指甲油哥哥弟弟的情节非常好，一环扣一环，男主演技好评，系长miss尹都太萌了！男主真的是个女主啊！但是声音好听圈粉！！！有一段管风琴特别紧张的配乐怎么都找不到可惜了。把男主最后纵身一跃比喻成抑郁症自杀还挺恰当，真正的四个人都已经死去了，男主在大脑中实现了他盼望的幸福。"
+    },
+    {
+      "user": "二货云",
+      "avatar": "https://img1.doubanio.com/icon/u64011512-29.jpg",
+      "content": "3.5"
+    },
+    {
+      "user": "Santorini",
+      "avatar": "https://img3.doubanio.com/icon/u150948299-25.jpg",
+      "content": "把谭校长的那首半梦半醒之间献给这部剧，巧了，这歌还就是1988年发行的😂"
+    },
+    {
+      "user": "宇小敏",
+      "avatar": "https://img3.doubanio.com/icon/u1600979-163.jpg",
+      "content": "越到后面越好看啊。第一次get到郑京浩的帅点，真是个第二眼美男子。"
+    },
+    {
+      "user": "ER๑•ิ.•ั๑就这样怎么着",
+      "avatar": "https://img3.doubanio.com/icon/u1377555-174.jpg",
+      "content": "十集以后有点看不下去了"
+    },
+    {
+      "user": "樱桃之远",
+      "avatar": "https://img3.doubanio.com/icon/u51680856-3.jpg",
+      "content": "1"
+    },
+    {
+      "user": "萩",
+      "avatar": "https://img3.doubanio.com/icon/u70236644-1.jpg",
+      "content": "虽然大团圆但吧总觉得缺少了点什么"
+    },
+    {
+      "user": "小燕的精神世界",
+      "avatar": "https://img3.doubanio.com/icon/u166919330-1.jpg",
+      "content": "没多好看，比信号差远了"
+    },
+    {
+      "user": "林木暮",
+      "avatar": "https://img1.doubanio.com/icon/u28024986-99.jpg",
+      "content": "4.5 翻拍质量超出预期。最喜欢第三集的节奏，有点刮目相看；第八集放手玩了点意识流倒也有趣；全剧多处分镜剪辑都挺有意思。朴圣雄在【新世界】里给我留下的阴影被这部洗干净了，演技牛X。虽有原作剧情框架撑着，但仍看出临近结尾编剧填坑的慌乱，略可惜。"
+    },
+    {
+      "user": "岸芷汀兰",
+      "avatar": "https://img3.doubanio.com/icon/u59908250-6.jpg",
+      "content": "wuli郑少女啊  一如既往的好"
+    },
+    {
+      "user": "白胖饺子",
+      "avatar": "https://img3.doubanio.com/icon/u25531582-16.jpg",
+      "content": "比原版差得远了点，为了铺cp和制造戏剧效果而忽略逻辑智商也就忍了，节奏拖拉的出奇，一集有效信息不足五成，男女主演技尬尬，还好朴圣雄依旧出彩，不然真不知道看什么了。"
+    },
+    {
+      "user": "暂时迷路的麋鹿",
+      "avatar": "https://img1.doubanio.com/icon/u2560998-17.jpg",
+      "content": "郑少女演这种忧郁的角色，又是另外一番风味呀。父子情动人，重案组兄弟情动人，关于1988的一切都很动人。"
+    },
+    {
+      "user": "狷介有乌青",
+      "avatar": "https://img1.doubanio.com/icon/u1374060-749.jpg",
+      "content": "【2019.01】"
+    },
+    {
+      "user": "夏茶君",
+      "avatar": "https://img1.doubanio.com/icon/u5565750-39.jpg",
+      "content": "少女发型老气可还是很帅的"
+    },
+    {
+      "user": "不醉无归爱谁谁",
+      "avatar": "https://img3.doubanio.com/icon/u46788415-12.jpg",
+      "content": "梦境过于美好，以致不想醒来……木有说的那样好看，但朴圣雄阿咂西简直棒上天了，动作是戏，说话是戏，表情是戏，小眼神儿都是戏……追黄牛那段能把人笑死"
+    },
+    {
+      "user": "伊麗莎白",
+      "avatar": "https://img3.doubanio.com/icon/u2566385-71.jpg",
+      "content": "非常好看的穿越神剧！结局猜去吧！演技无敌，优秀！"
+    },
+    {
+      "user": "库索",
+      "avatar": "https://img1.doubanio.com/icon/u1127293-69.jpg",
+      "content": "自个杀就穿越回去了可还行。。"
+    },
+    {
+      "user": "两生花",
+      "avatar": "https://img3.doubanio.com/icon/u1163240-1.jpg",
+      "content": "让我改变对韩剧看法的有两部剧，一部是《信号》，一部是《火星生活》。"
+    },
+    {
+      "user": "ZiJyu",
+      "avatar": "https://img1.doubanio.com/icon/u50675377-18.jpg",
+      "content": "3.8"
+    },
+    {
+      "user": "JOJO",
+      "avatar": "https://img3.doubanio.com/icon/u2913317-15.jpg",
+      "content": "一片回到解放前 从机智监攒的好感 在这部戏里全败光了 案件太温吞 到最后都没什么爆点 平时重口味的看多了 一下子切换到这个频道 好不习惯啊（捂脸）这戏放十年前估计还好点 搁现在。。。算了吧 太小儿科了 反正我看完这部戏 只记得那个说话很文艺的罪犯了 团灭的时候好伤心 还有没有王法了TAT竟然还是真人真事 那段台词也写得很好（不知道是不是原话）演员的表现力也很不错 其他就真的没什么了 哎 结局也云里雾里的 看不清虚实 说真的 有点后悔追这部戏了 全靠对郑的爱才看完的 突然觉得自己很伟大（要搁平时 这么无聊早弃了 ）"
+    },
+    {
+      "user": "flyinbed",
+      "avatar": "https://img3.doubanio.com/icon/u41786270-4.jpg",
+      "content": "本以为是另一部《信号》，故提高了期望。但正如剧集名字一样，这并不是一部严谨紧张的探案剧，而是以案件为剧情推进的线索的生活剧。故弱化了案件，而不间断的闪回，让主人公一次又一次的选择自己到底是在梦境中还是现实中。说实话，观看的体验并不是太好，但也不至于太差。探案小组搭配演绎得不错。"
+    },
+    {
+      "user": "SUE ALMIGHTY",
+      "avatar": "https://img3.doubanio.com/icon/u1366185-33.jpg",
+      "content": "烂结尾，前面还是很好"
+    },
+    {
+      "user": "来了个豆子",
+      "avatar": "https://img3.doubanio.com/icon/u54880973-2.jpg",
+      "content": "另类的穿越，男主颜值和演技在线"
+    },
+    {
+      "user": "lobster-_-",
+      "avatar": "https://img3.doubanio.com/icon/u163963151-4.jpg",
+      "content": "哈哈哈哈哈哈哈哈，真的是很棒的剧，全剧唯一的槽点就是男主结尾那纵身一跃，我笑死了简直。"
+    },
+    {
+      "user": "渡渡鸟饲养员",
+      "avatar": "https://img3.doubanio.com/icon/u50607659-4.jpg",
+      "content": "原版没看过，反正这个韩国版看的只想快进。"
+    },
+    {
+      "user": "Estelle",
+      "avatar": "https://img1.doubanio.com/icon/u1366616-408.jpg",
+      "content": "朴圣雄居然为了这部戏增肥，类似信号和隧道一般的题材，却走复古搞笑的悬疑路子，大家真的是很辛苦又有新意，这算夏季档唯一一部想跟进的剧集，除了节奏太慢之外……"
+    },
+    {
+      "user": "Eternal",
+      "avatar": "https://img3.doubanio.com/icon/u40429939-1.jpg",
+      "content": "第六集的孩子文宇振好可爱，感觉剧情越发的难圆回来了。15集了，居然就这样，这就是一场光怪陆离的与现实交织的梦？就这么结束了？？？感觉最后不管怎么选都是满满的遗憾啊"
+    },
+    {
+      "user": "jellyfish",
+      "avatar": "https://img1.doubanio.com/icon/u1183013-7.jpg",
+      "content": "本来准备给五星的，最后一集减分了"
+    },
+    {
+      "user": "晨曦·梦",
+      "avatar": "https://img3.doubanio.com/icon/u153933564-2.jpg",
+      "content": "虽然感觉有点烂尾，但是还是值得一个五星。\n自行脑补的结尾:童年喜欢棒球的太柱因为撕掉调离命令书后，被罚去当一个穿着制服耍帅的狱警，顺便找到自己的棒球明星好基友，然后两人一起红尘作伴活得潇潇洒洒……em，完美。"
+    },
+    {
+      "user": "🐟",
+      "avatar": "https://img3.doubanio.com/icon/u52413397-26.jpg",
+      "content": "不苟言笑还穿黑衬衣的郑少女太他妈帅了 回到爸爸妈妈身边那一集哭炸 "
+    },
+    {
+      "user": "西祠",
+      "avatar": "https://img3.doubanio.com/icon/u3007182-26.jpg",
+      "content": "不太喜欢。"
+    },
+    {
+      "user": "申子胥",
+      "avatar": "https://img3.doubanio.com/icon/u121193422-6.jpg",
+      "content": "很不错了，剧情紧凑，设计巧妙，演技到位，郑京浩很累的感觉，黑眼圈眼袋明显。另郑京浩真是经常和男主有 CP 感是怎么回事"
+    },
+    {
+      "user": "灯火阑珊处",
+      "avatar": "https://img3.doubanio.com/icon/u151269566-6.jpg",
+      "content": "喜欢！喜欢！喜欢！会有第二季吗？期待"
+    },
+    {
+      "user": "207",
+      "avatar": "https://img1.doubanio.com/icon/u1076416-29.jpg",
+      "content": "后期的节奏和故事降级，但是这个结尾提升了"
+    },
+    {
+      "user": "张天师",
+      "avatar": "https://img3.doubanio.com/icon/u1300332-134.jpg",
+      "content": "2018年度最佳。男主角在遭到枪击之后的昏迷状态里，用查阅到的悬案旧资料拼凑出了一个1988年的平行世界，与脑中幻化出的四个已死的组员结成现实世界中无法拥有的友谊和爱情。每集都有悬疑点，让人欲罢不能，精彩极了。"
+    },
+    {
+      "user": "系咁噶啦！",
+      "avatar": "https://img3.doubanio.com/icon/u84990980-54.jpg",
+      "content": "郑京浩真好看，就是太瘦弱……啊西装真好看。哪种生活让你微笑，就过哪种。用心感受。有的时候相信直觉而不是冷冰冰的“事实”。有的时候热血一点。人生过得不好，真的跟童年有关系。但回避解决不了问题。"
+    },
+    {
+      "user": "鸭王张",
+      "avatar": "https://img3.doubanio.com/icon/u65616379-12.jpg",
+      "content": "这么扯的故事都能自圆其说，而且没有烂尾。梦境和情谊都诠释的很好，讲故事的能力依然很棒。探讨了梦境和意识，“你能笑着生活的地方才是现实”，超级棒～年度最佳剧集！"
+    },
+    {
+      "user": "潞安府.怪",
+      "avatar": "https://img3.doubanio.com/icon/u3653018-10.jpg",
+      "content": "剧不错，逻辑BUG扣一星，其实现在编剧们故意把这种类型的片子拍的模棱两可，然后让大家看起来哪边都能说的通，感觉这样不好。"
+    },
+    {
+      "user": "Tsechun W",
+      "avatar": "https://img3.doubanio.com/icon/u123951964-2.jpg",
+      "content": "剧荒之后让人眼前一亮的好剧。特别是还原88年震惊韩国的越狱犯劫持人质案。“有钱无罪，没钱有罪”深刻反映韩国社会的世纪名言！"
+    },
+    {
+      "user": "猫小奔",
+      "avatar": "https://img3.doubanio.com/icon/u49856371-6.jpg",
+      "content": "细思极恐的故事～会有第二季么"
+    },
+    {
+      "user": "Nirvana",
+      "avatar": "https://img3.doubanio.com/icon/u102500329-2.jpg",
+      "content": "郑少女真的好苏啊 如果我是HR一定把女主那种小心翼翼唯唯诺诺但业务能力超强的妹子在心里收藏一万遍 韩国的1988真是个神奇的年份 虽然当时技术条件有限 但大家对于破案的迫切解救弱者及为受害者讨回公道的心情是一样的 韩剧翻拍中的佼佼者"
+    },
+    {
+      "user": "木木",
+      "avatar": "https://img3.doubanio.com/icon/u2543347-3.jpg",
+      "content": "让你能够笑起来的那个世界，就是现实。"
+    },
+    {
+      "user": "阿申申",
+      "avatar": "https://img1.doubanio.com/icon/u3670661-17.jpg",
+      "content": "英剧的结构，韩剧的表述，日剧的氛围渲染，牡丹亭的魂魄"
+    },
+    {
+      "user": "Apeach",
+      "avatar": "https://img3.doubanio.com/icon/u2990011-24.jpg",
+      "content": "結局深究下來挺妙的，非穿越非想象，我也傾向於像盜夢空間一樣的設定，彩蛋也是很有意思~"
+    },
+    {
+      "user": "primeeeee",
+      "avatar": "https://img3.doubanio.com/icon/u130216093-2.jpg",
+      "content": "节奏  偏慢"
+    },
+    {
+      "user": "我",
+      "avatar": "https://img3.doubanio.com/icon/u2354647-44.jpg",
+      "content": "吹的有点过了。"
+    },
+    {
+      "user": "沐珑秋刀",
+      "avatar": "https://img3.doubanio.com/icon/u1116609-1.jpg",
+      "content": "88年真是一个神奇的年份，只要以88年为题材的韩国影视剧基本都差不了。此剧既悬疑又搞笑，有批判，也有感动，但最终要说的是寻找内心的安定与快乐，谁不重要，哪不重要，听从内心，踏歌而行，就不枉此生。结局还是意料之外的高能了，或许对观众来说，这个结局算不上完美，甚至有人觉得是烂尾，但对韩太柱来说，即便只是在梦境中重获新生，也是HE，因为他找到了自己想过的生活，结交了值得珍惜的人，感受到了比现实更真实的七情六欲。尤其喜欢此剧的摄影和化妆，使韩太柱亦真亦幻亦正常亦病态的身心状态令人信服。"
+    },
+    {
+      "user": "自由以太",
+      "avatar": "https://img3.doubanio.com/icon/u1180259-40.jpg",
+      "content": "非常精致了~~"
+    },
+    {
+      "user": "包大人",
+      "avatar": "https://img3.doubanio.com/icon/u39232497-63.jpg",
+      "content": "请脑补一万遍拿错女主台本的郑少女依偎在圣雄阿加西怀里嘤嘤嘤的画面，韩剧本季最佳。"
+    },
+    {
+      "user": "Rednight",
+      "avatar": "https://img1.doubanio.com/icon/u52891365-9.jpg",
+      "content": "韩国的警察不管在哪部剧里都是歇斯底里大吼大叫，让人望之生厌。剧情真的无聊，肤浅的推理和破案过程，毫无意义的追逐打斗戏。是在模仿杀人回忆么，一个毫无警察素质的乡下刑警，一个城里来的高知高冷刑警，前者各种不服后者，最后合作无间。9分真的过誉了。"
+    },
+    {
+      "user": "狒",
+      "avatar": "https://img1.doubanio.com/icon/u1085734-378.jpg",
+      "content": "太好看了吧"
+    },
+    {
+      "user": "Christine_GUI",
+      "avatar": "https://img3.doubanio.com/icon/u68474032-2.jpg",
+      "content": "到底是穿越了还是变成植物人在做梦 管他咯 笑得开心的地方就是现实"
+    },
+    {
+      "user": "落落落落落落落",
+      "avatar": "https://img1.doubanio.com/icon/u130678153-8.jpg",
+      "content": "近期终于敢追下去的韩剧……"
+    },
+    {
+      "user": "夕阳の丘",
+      "avatar": "https://img3.doubanio.com/icon/u52465032-4.jpg",
+      "content": "一口气看了12集，韩国人制作电视剧的水平逆天了吗👍"
+    },
+    {
+      "user": "杳圻",
+      "avatar": "https://img3.doubanio.com/icon/u38648875-4.jpg",
+      "content": "喜欢小尹和2018年的韩妈妈。男主眼袋有点重啊"
+    },
+    {
+      "user": "每天都要取名字",
+      "avatar": "https://img3.doubanio.com/icon/u48404137-31.jpg",
+      "content": "真实是假象，假想才真实。呵 生活"
+    },
+    {
+      "user": "豌豆公主滚床单",
+      "avatar": "https://img3.doubanio.com/icon/u3241325-80.jpg",
+      "content": "为了郑京浩看的，但是这个翻拍还是有水平的呀！最后真像被鬼迷（。）想给少女请个道士驱鬼（X）结局归于虚空就好了，这样轻飘飘的有点太理想主义，话说我可以接着看英版第二季吗囧。。。。。"
+    },
+    {
+      "user": "yoory",
+      "avatar": "https://img3.doubanio.com/icon/u1546732-406.jpg",
+      "content": "看完结局内心挺复杂的，其实明明在前面十几集的点滴铺垫中无数次想过如果真的能生活在1988那多好啊，但最后泰柱真的纵身一跳又说不出来哪里来的失落。大概因为太多作品加粗的都是当下，不管过程多迂回，无论现实多不美满，但最后都会回到为了更好的活在当下这个主题。泰柱却不一样，他选择留在美好的也许是幻境之中，他不愿意给2018的新开始任何机会，作为观众大概觉得有一部分的自我被背叛，但同时也是被赤裸裸地展现出来了吧。"
+    },
+    {
+      "user": "Celeste",
+      "avatar": "https://img1.doubanio.com/icon/u14914580-9.jpg",
+      "content": "替代伯罗奔尼撒战争史成为睡前看剧，终于在15晚的鼾声大作中看完了，我想知道男主的口红是什么色号（"
+    },
+    {
+      "user": "Roulling",
+      "avatar": "https://img3.doubanio.com/icon/u40966373-46.jpg",
+      "content": "郑少女不苟言笑的样子仿佛回到了《无情都市》。这部剧也逃不开韩剧【开局很棒中段疲软结尾乏味】的虎头蛇尾的特点，案情不够精彩，节奏有够拖沓，演员略显浮夸，内容不够深刻。如果不是郑少女我撑不到这里。"
+    },
+    {
+      "user": "冲冲",
+      "avatar": "https://img3.doubanio.com/icon/u3420739-13.jpg",
+      "content": "女主演的真的好"
+    },
+    {
+      "user": "一滴沥青",
+      "avatar": "https://img3.doubanio.com/icon/u2203988-11.jpg",
+      "content": "排除掉过多的发作头晕头痛心慌气短表现，破案过程和小组互动非常暖，默默感觉会有第二季~"
+    },
+    {
+      "user": "小飞象",
+      "avatar": "https://img3.doubanio.com/icon/u134815318-33.jpg",
+      "content": "是好看的 但是格外想看郑京浩和一个美女演个浪漫爱情剧"
+    },
+    {
+      "user": "Freddie",
+      "avatar": "https://img3.doubanio.com/icon/u135179267-15.jpg",
+      "content": "郑京浩演技真的进步了很多，哈哈朴圣雄大叔真有意思"
+    },
+    {
+      "user": "起个响亮的名号",
+      "avatar": "https://img3.doubanio.com/icon/u48868523-2.jpg",
+      "content": "看了16小时完全一样的东西，仍然献上膝盖。硬要说缺点是转场全靠电视和88年组案件逻辑太牵强太跳，为了营造梦的不真实感，88年在镜头上都没有铺开。最后还是让韩泰柱留在了88年开后宫，符合人物逻辑，最重要的是所有线都收了回来，看得太爽了！18年组收6声枪响的细节，我都给他数着呢，当时跟上了节奏太过瘾了。对于主题我也认可，整剧都在说去你想去的地方获得幸福，你眼前看到的就是真实，梦境本来就是如此，补偿现实中缺失的部分，又让人重新审视自己最真实的感情，感受心脏跳动的部分。还有就是全篇大反派安科长没跑，因为做医生老让人家出现幻觉，做警察又是最大黑幕，太搞笑了！里面的喜剧真的蛮逗的，但是质量不高，缓和气氛用可。"
+    },
+    {
+      "user": "达野风",
+      "avatar": "https://img3.doubanio.com/icon/u3118115-3.jpg",
+      "content": "我居然能乐？？？？？我也好想遇见1988年的自己..............神马鬼结局啊！！！拍续集圆回来吧......................"
+    },
+    {
+      "user": "J",
+      "avatar": "https://img3.doubanio.com/icon/u34853342-286.jpg",
+      "content": "是真的让人又感动又热血呐"
+    },
+    {
+      "user": "Sun Shizu",
+      "avatar": "https://img3.doubanio.com/icon/u171277449-3.jpg",
+      "content": "看到第12集，建议韩国立法禁止男演员咆哮。瞎吹男主演技不如好好欣赏他的颜，咋看像谢君豪，细看像李易峰，演技也在这两者之间。老警察像韩版堤真一，巡警人设较为出彩。最后评分在7.5-8.0之间较为合理，瞎吹也拯救不了这部剧的缺点。"
+    },
+    {
+      "user": "Justina",
+      "avatar": "https://img3.doubanio.com/icon/u53083392-11.jpg",
+      "content": "本土化做的非常好了，今年韩国翻拍剧终于拍了部韩国风的剧了。\n\n\n最后还是没圆回来，减一星。"
+    },
+    {
+      "user": "夏草",
+      "avatar": "https://img3.doubanio.com/icon/u3199255-3.jpg",
+      "content": "为了一碗毒鸡汤，还是按照原版结局拍了。。。"
+    },
+    {
+      "user": "紫剑",
+      "avatar": "https://img1.doubanio.com/icon/u57224796-8.jpg",
+      "content": "第4集，男主在门口等小女孩检查结果，全程5个演员，没有一句台词，紧张，震惊，心痛，揪心全靠眼神，绝了"
+    },
+    {
+      "user": "伊斯坦布尔的熊",
+      "avatar": "https://img3.doubanio.com/icon/u66887205-15.jpg",
+      "content": "什么是现实？\n能让你笑着生活的地方，就是现实。"
+    },
+    {
+      "user": "睡不醒的LYC",
+      "avatar": "https://img1.doubanio.com/icon/u2522242-18.jpg",
+      "content": "这剧应该叫《请相信1988》。前14集尚佳，15-16只能说是“用爱结尾”了。"
+    },
+    {
+      "user": "伊豆",
+      "avatar": "https://img1.doubanio.com/icon/u1410905-68.jpg",
+      "content": "坚持到11集实在坚持不下去了，到底为啥分这么高啊？觉得节奏太慢了啊，而且不知道到底要表达什么。。。。"
+    },
+    {
+      "user": "賴床不起。",
+      "avatar": "https://img3.doubanio.com/icon/u1418061-386.jpg",
+      "content": "郑少女真的太好看了~又温柔又帅气~做开心的自己最重要！"
+    },
+    {
+      "user": "清远莫格",
+      "avatar": "https://img1.doubanio.com/icon/u36089922-39.jpg",
+      "content": "大结局看完，心情好复杂。经历了这么多剧烈起伏的泰柱，作为喜爱他的观众，当然是希望他回到正常的生活轨道上来，有温暖的家人和热爱的工作。然而我们都不是他，我们只能目送他离开，去向他希望的世界——能让他笑着生活的现实中。"
+    },
+    {
+      "user": "小萧",
+      "avatar": "https://img3.doubanio.com/icon/u79942000-5.jpg",
+      "content": "结局温馨，但我老觉得…（雷）主角是跳了之后，停留在潜意识里面了…到底什么是真实，什么是梦，还是“平行时空”…不过，整体来说，还算蛮紧凑，案件铺陈蛮久，结束的比较仓促（？），如果有下一季，应该会看。"
+    },
+    {
+      "user": "dayday",
+      "avatar": "https://img1.doubanio.com/icon/u50629676-18.jpg",
+      "content": "太柱啊，和我们系长在一起吧哈哈哈哈"
+    },
+    {
+      "user": "︶ㄣ莫尛寂灬",
+      "avatar": "https://img1.doubanio.com/icon/u60458230-17.jpg",
+      "content": "年度最好的一部戏！少女为我们奉献出高质量的演技！！"
+    },
+    {
+      "user": "Winnie",
+      "avatar": "https://img3.doubanio.com/icon/u147575454-4.jpg",
+      "content": "在我的真实理解里，这是一个现实里很孤独的男主在脑海里构筑了一个世界，回到1988经历了他看过的他困惑过的案件，并在那个脑海的世界里找到快乐与陪伴，苏醒后无法忍受现实落差，选择永远活在梦里。\n其实很悲伤。\n所以多么希望这个故事是他真的穿越回1988，寻找到了快乐和朋友，最后他选择回到他想好好生活的地方。\n现实太苦了，美好点想该多好。"
+    },
+    {
+      "user": "_巫巫欣",
+      "avatar": "https://img3.doubanio.com/icon/u131101112-11.jpg",
+      "content": "🙌喜欢郑京浩与朴成雄的cp搭配！基情满满，一老一少，一个正经一个幽默～不过这片本身主题就很吸引人，案件惊悚，既有自我探索的耐人寻味，一定程度上又反映了韩国法律体制的漏洞与发展。嗯，主要还是看脸😬"
+    },
+    {
+      "user": "0р",
+      "avatar": "https://img3.doubanio.com/icon/u58668239-25.jpg",
+      "content": "看了一集..."
+    },
+    {
+      "user": "丁小丁",
+      "avatar": "https://img3.doubanio.com/icon/u1099577-96.jpg",
+      "content": "演技个个在线。剧情较简单。豆瓣评分略高。并不是十分出色的韩剧。但整体完成度还是非常高的！"
+    },
+    {
+      "user": "沙沙",
+      "avatar": "https://img3.doubanio.com/icon/u1227672-23.jpg",
+      "content": "郑少女满分～最后又穿回去真是给力，精神上的活着才是真正的活着吖！期待出下一季～"
+    },
+    {
+      "user": "鱳",
+      "avatar": "https://img3.doubanio.com/icon/u14929337-70.jpg",
+      "content": "真是心酸恐怖又搞笑。这让我想到电子梦里有一集，未来科技可以体验另一种生活，然后里面主角也是选择留在梦里，不回到现实。不过跟着不太一样，这里给我的感觉是活在了1988，放弃2018。主体是穿越而并不是幻想。身体则是连接两方时空的通道，最后关掉了信号只是关闭了通道而已。也就是说放弃了一边的身体。做出了自身唯一存在的选择。但这个片有个硬伤就是不够细腻，刑侦逻辑混乱，集数的节奏也不好。目前我看下来的观影体验就是快进，这点还是非自然死亡更有吸引力一些。//这两天在看破云，我靠，脑子总是带入这一队。韩小梅简直就是女一了"
+    },
+    {
+      "user": "水水",
+      "avatar": "https://img1.doubanio.com/icon/u3355303-18.jpg",
+      "content": "好喜欢跟崔系长的互动，太搞笑了"
+    },
+    {
+      "user": "菜泡饭",
+      "avatar": "https://img3.doubanio.com/icon/u1286225-20.jpg",
+      "content": "人生如果就是在梦境和现实间切换，倒也好。双重人生，只是都不要过于投入才行。"
+    },
+    {
+      "user": "披头盖脸士",
+      "avatar": "https://img3.doubanio.com/icon/u2400185-23.jpg",
+      "content": "真是不喜欢结局……"
+    },
+    {
+      "user": "Choux",
+      "avatar": "https://img3.doubanio.com/icon/u2066635-10.jpg",
+      "content": "案件和手法是杀人回忆，结尾扣星。不解释穿越不解决问题不开心"
+    },
+    {
+      "user": "关小白",
+      "avatar": "https://img3.doubanio.com/icon/u72257329-4.jpg",
+      "content": "还行，观望中，这种题材不烂尾就OK。崔秀英的男朋友瘦了吧😂来看完补充了，这个结局有点意外，感觉没有特定解释，每个人都有自己的理解"
+    },
+    {
+      "user": "水沝淼㵘",
+      "avatar": "https://img3.doubanio.com/icon/u2805894-4.jpg",
+      "content": "最后一个电话，让我觉得男主是梦中梦，就是现实他还没有醒来，不然我无法理解他跳楼回88年，实体活在昏迷状态；然后也没有解释疑犯对姐姐的偏执引发的案件，或者编剧就是简化了这个案子了？决定去看看英剧，会继续追2"
+    },
+    {
+      "user": "浅浅猪",
+      "avatar": "https://img3.doubanio.com/icon/u1708917-16.jpg",
+      "content": "吾心安处是故乡。彩蛋是30年前我们重新相爱相杀吧"
+    },
+    {
+      "user": "温文暖",
+      "avatar": "https://img1.doubanio.com/icon/u58197963-9.jpg",
+      "content": "又帅又酷。其实看完监狱我就想看这个了，一直拖到现在，果然还是比言情剧好看啊！"
+    },
+    {
+      "user": "ccjd",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "没想到结局是这样，再怎么开心，也不能活在臆想里呀"
+    },
+    {
+      "user": "gooodooot",
+      "avatar": "https://img3.doubanio.com/icon/u47063713-22.jpg",
+      "content": "后半段灌水严重，不过高雅星太可爱了"
+    },
+    {
+      "user": "脱落的树皮",
+      "avatar": "https://img3.doubanio.com/icon/u102646788-1.jpg",
+      "content": "前几集的支线挺无趣，到主线案件后悬疑氛围好很多。神神叨叨的幻语太多了，看得很烦；反倒是双重结尾有点意思。"
+    },
+    {
+      "user": "嗨、",
+      "avatar": "https://img3.doubanio.com/icon/u41291214-3.jpg",
+      "content": "好看哎，穿越的题材能拍出新意真是不容易，更何况除了情节紧凑，支线案子层层递进引出主线剧情，主角也没有特别开挂或者逆天，而且他究竟怎么才能回到现代和最后的真凶也很期待，最关键的是，郑京浩太帅了吧！！！！！郑少女看我看我看我！！！！！！"
+    },
+    {
+      "user": "方洛洛",
+      "avatar": "https://img1.doubanio.com/icon/u4479976-68.jpg",
+      "content": "看完之后爱上朴胜雄了。哈哈哈"
+    },
+    {
+      "user": "伪装者",
+      "avatar": "https://img3.doubanio.com/icon/u41586641-26.jpg",
+      "content": "温暖的1988、谁不爱"
+    },
+    {
+      "user": "郑乔尹",
+      "avatar": "https://img3.doubanio.com/icon/u37569562-15.jpg",
+      "content": "和柯南一样的结构，还可以，算不上多惊艳。"
+    },
+    {
+      "user": "花卷ice",
+      "avatar": "https://img1.doubanio.com/icon/u149199444-9.jpg",
+      "content": "什么是活着？\n\n当你感觉到活着的时候，你就是活着。\n\n什么是现实？\n\n能让你笑着生活的地方，就是现实。"
+    },
+    {
+      "user": "ElsaGuoo",
+      "avatar": "https://img3.doubanio.com/icon/u33207128-12.jpg",
+      "content": "笑着生活的地方就是现实。梦中出现了两次类似陀螺旋转是致敬盗梦空间吧。"
+    },
+    {
+      "user": "水世界",
+      "avatar": "https://img3.doubanio.com/icon/u3362312-2.jpg",
+      "content": "无论现实还是梦境，都是意识的伟大杰作，两者的区分与坐标的设定息息相关。不过这并不重要，无论在哪里，坚守真理和初心才能真正感觉到炽热鲜活的血肉。"
+    },
+    {
+      "user": "爱丽丝",
+      "avatar": "https://img1.doubanio.com/icon/u41835913-7.jpg",
+      "content": "韩剧的高度国产剧永远无法企及"
+    },
+    {
+      "user": "烟波人长安",
+      "avatar": "https://img1.doubanio.com/icon/u60115789-18.jpg",
+      "content": "“能让你笑着生活的地方，就是现实。”"
+    },
+    {
+      "user": "ßëë",
+      "avatar": "https://img3.doubanio.com/icon/u2699764-251.jpg",
+      "content": "三星半。结局草率了"
+    },
+    {
+      "user": "风吹屁屁凉",
+      "avatar": "https://img3.doubanio.com/icon/u154677514-22.jpg",
+      "content": "这剧情让我想起信号，可谁让我就吃悬疑题材的菜呢，再说男主也帅的掉渣，给个四星吧，希望后期别烂尾。"
+    },
+    {
+      "user": "Mojo",
+      "avatar": "https://img3.doubanio.com/icon/u1185777-34.jpg",
+      "content": "最后一集扣一分，其实有更好的解决方案，比如在这个时空内解决一桩未结案.....不过前面的剧本结构已经很棒了，可惜金科长的伏笔还是浅了点.....作为两个时空三条故事线而言，完成度很高。还是忍不住吐槽最后一集，为了温情而温情.....还不如直接砍掉......."
+    },
+    {
+      "user": "重重是紊乱小姐",
+      "avatar": "https://img1.doubanio.com/icon/u1906915-178.jpg",
+      "content": "还好而已 "
+    },
+    {
+      "user": "jade",
+      "avatar": "https://img3.doubanio.com/icon/u39024048-5.jpg",
+      "content": "WoW，好看好看，这种侦探剧就是我的菜啊……第九集燃爆了啊！！！"
+    },
+    {
+      "user": "Diamonds",
+      "avatar": "https://img3.doubanio.com/icon/u4415827-34.jpg",
+      "content": "有血有肉的团体~案件也很精彩~"
+    },
+    {
+      "user": "狄更斯是漫画吗",
+      "avatar": "https://img3.doubanio.com/icon/u44331100-12.jpg",
+      "content": "可爱又会穿的郑少女，少女穿越回1988还是整条街上穿风衣最洋气的人儿！/把案子替换成韩国历史上的某些著名事件/少女这一两年老态不少/女主太美了"
+    },
+    {
+      "user": "jj",
+      "avatar": "https://img3.doubanio.com/icon/u178117085-1.jpg",
+      "content": "韩国演员演技都很好 但总有差强人意的时候 但是郑敬淏真的找不出一点毛病"
+    }
+  ]
+}

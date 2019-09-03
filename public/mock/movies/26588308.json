@@ -1,0 +1,1225 @@
+{
+  "title": "死侍2：我爱我家",
+  "url": "https://movie.douban.com/subject/26588308/",
+  "rate": "7.3",
+  "id": "26588308",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2545479945.jpg",
+  "info": [
+    "导演: 大卫·雷奇",
+    "编剧: 瑞特·里斯 / 保罗·韦尼克 / 瑞恩·雷诺兹 / 杰克·科比 / 斯坦·李 / 罗伯·莱菲尔德 / 露易丝·西蒙森 / 莱恩·韦恩 / 克里斯·克雷蒙 / 戴夫·科克勒姆 / 法比安·尼切扎",
+    "主演: 瑞恩·雷诺兹 / 乔什·布洛林 / 朱利安·迪尼森 / 斯蒂芬·卡皮契奇 / 莎姬·贝兹 / T·J·米勒 / 莱斯利·格塞斯 / 卡兰·索尼 / 布里安娜·希德布兰德 / 莫蕾娜·巴卡琳 / 杰克·凯西 / 埃迪·马森 / 忽那汐里 / 兰德尔·瑞德 / 尼古莱·维切尔 / 赛尔·哈里斯 / 罗伯·德兰尼 / 刘易斯·谭 / 比尔·斯卡斯加德 / 泰瑞·克鲁斯 / 布拉德·皮特 / 罗伯特·梅耶 / 艾伦·图代克 / 马特·达蒙 / 海莉·塞尔斯 / 麦克·多普德 / 卢克·勒斯勒尔 / 亨特·狄龙 / 大卫·雷奇 / 山姆·哈格雷夫 / 尼古拉斯·霍尔特",
+    "类型: 喜剧 / 动作 / 科幻 / 冒险",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "上映日期: 2019-01-25(中国大陆) / 2018-05-18(美国)",
+    "片长: 119分钟 / 134分钟(蓝光版)",
+    "又名: 死侍2 / 死侍往事 / 死侍2：童话篇 / DP2 / Once Upon a Deadpool"
+  ],
+  "desc": "拥有不死之身的死侍韦德·威尔森（瑞恩·雷诺兹 Ryan Reynolds 饰）继续在惩恶扬善、毒舌嘴贱的路上绝命狂奔，与此同时他和女友瓦内莎（莫蕾娜·巴卡林 Morena Baccarin 饰）的爱情逐渐升华，两人全新期待新生命的到来。谁知命运难测，因瓦内莎意外身亡，韦 德万念俱灰，绝望地渴求生命的终结。在他最失落的时候，钢力士和少年弹头等将他领走，成为X战警中的一员。在某次行动中，死侍因袒护暴走的14岁变种人拉塞尔（朱利安·迪尼森 Julian Dennison 饰）而随同对方被关入冰盒监狱。没过多久，来自未来的电索（乔什·布洛林 Josh Brolin 饰）闯入监狱，意图杀死在未来引起无数灾难的拉塞尔。\n                                    \n                                　　为了阻止电索，逃离监狱的死侍找到一群战友与之对抗，而拉塞尔则朝着黑暗渐渐远去……\n                        \n©豆瓣",
+  "members": {
+    "director": {
+      "name": "大卫·雷奇 David Leitch",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1416221591.26.jpg"
+    },
+    "cast": [
+      {
+        "name": "瑞恩·雷诺兹 Ryan Reynolds",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48608.jpg"
+      },
+      {
+        "name": "乔什·布洛林 Josh Brolin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1413615170.39.jpg"
+      },
+      {
+        "name": "朱利安·迪尼森 Julian Dennison",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/puqS3biE9tVocel_avatar_uploaded1474733946.09.jpg"
+      },
+      {
+        "name": "斯蒂芬·卡皮契奇 Stefan Kapičić",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455719110.56.jpg"
+      },
+      {
+        "name": "莎姬·贝兹 Zazie Beetz",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489116013.79.jpg"
+      },
+      {
+        "name": "T·J·米勒 T.J. Miller",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1413043156.4.jpg"
+      },
+      {
+        "name": "莱斯利·格塞斯 Leslie Uggams",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455719956.48.jpg"
+      },
+      {
+        "name": "卡兰·索尼 Karan Soni",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455431095.8.jpg"
+      },
+      {
+        "name": "布里安娜·希德布兰德 Brianna Hildebrand",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530873113.08.jpg"
+      },
+      {
+        "name": "莫蕾娜·巴卡琳 Morena Baccarin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8515.jpg"
+      },
+      {
+        "name": "杰克·凯西 Jack Kesy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9adFrAffE5ccel_avatar_uploaded1358870024.82.jpg"
+      },
+      {
+        "name": "埃迪·马森 Eddie Marsan",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21349.jpg"
+      },
+      {
+        "name": "忽那汐里 Kutsuna Shiori",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1375466940.4.jpg"
+      },
+      {
+        "name": "兰德尔·瑞德 Randal Reeder",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pJR0hOTouJ3kcel_avatar_uploaded1462722950.24.jpg"
+      },
+      {
+        "name": "尼古莱·维切尔 Nikolai Witschl",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537077835.95.jpg"
+      },
+      {
+        "name": "赛尔·哈里斯 Thayr Harris",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501465740.75.jpg"
+      },
+      {
+        "name": "罗伯·德兰尼 Rob Delaney",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534374603.96.jpg"
+      },
+      {
+        "name": "刘易斯·谭 Lewis Tan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1476101484.55.jpg"
+      },
+      {
+        "name": "比尔·斯卡斯加德 Bill Skarsgård",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372603385.77.jpg"
+      },
+      {
+        "name": "泰瑞·克鲁斯 Terry Crews",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1440229004.48.jpg"
+      },
+      {
+        "name": "布拉德·皮特 Brad Pitt",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39053.jpg"
+      },
+      {
+        "name": "罗伯特·梅耶 Robert Maillet",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p44846.jpg"
+      },
+      {
+        "name": "艾伦·图代克 Alan Tudyk",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13834.jpg"
+      },
+      {
+        "name": "马特·达蒙 Matt Damon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p620.jpg"
+      },
+      {
+        "name": "海莉·塞尔斯 Hayley Sales",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1483121304.95.jpg"
+      },
+      {
+        "name": "麦克·多普德 Mike Dopud",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46314.jpg"
+      },
+      {
+        "name": "卢克·勒斯勒尔 Luke Roessler",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534320795.17.jpg"
+      },
+      {
+        "name": "亨特·狄龙 Hunter Dillon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534917678.48.jpg"
+      },
+      {
+        "name": "大卫·雷奇 David Leitch",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1416221591.26.jpg"
+      },
+      {
+        "name": "山姆·哈格雷夫 Sam Hargrave",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501470472.67.jpg"
+      },
+      {
+        "name": "尼古拉斯·霍尔特 Nicholas Hoult",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371701601.6.jpg"
+      },
+      {
+        "name": "詹姆斯·麦卡沃伊 James McAvoy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p93.jpg"
+      },
+      {
+        "name": "休·杰克曼 Hugh Jackman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22036.jpg"
+      },
+      {
+        "name": "埃文·彼得斯 Evan Peters",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357556682.05.jpg"
+      },
+      {
+        "name": "泰伊·谢里丹 Tye Sheridan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464678182.3.jpg"
+      },
+      {
+        "name": "柯蒂·斯密特-麦菲 Kodi Smit-McPhee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1354128837.83.jpg"
+      },
+      {
+        "name": "亚历山德拉·希普 Alexandra Shipp",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1559997168.25.jpg"
+      },
+      {
+        "name": "萨拉·贝克 Sala Baker",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31940.jpg"
+      },
+      {
+        "name": "瑞特·里斯 Rhett Reese",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1490597888.14.jpg"
+      },
+      {
+        "name": "保罗·韦尼克 Paul Wernick",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1490597939.87.jpg"
+      },
+      {
+        "name": "艾丽西娅·莫顿 Alicia Morton",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "肖恩·吉斯灵厄姆 Sean Gislingham",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541745299.27.jpg"
+      },
+      {
+        "name": "莱昂内尔·玛丽 Lionel Marye",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "斯科特·维卡尤斯 Scott Vickaryous",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537077947.22.jpg"
+      },
+      {
+        "name": "弗莱德·萨维奇 Fred Savage",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p14506.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2545475966.jpg?",
+        "src": "http://vt1.doubanio.com/201908311046/05bd84be52d50c9b8eb93579adde1b18/view/movie/M/402420009.mp4"
+      },
+      {
+        "pic": "https://img1.doubanio.com/view/photo/photo/public/p2546522367.jpg?",
+        "src": "https://sv1.doubanio.com/201908311046/07c7168e46e06f19f3e022576736b646/video/2019/M/401020167.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2523660616.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2520617747.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "寒枝雀静",
+      "avatar": "https://img3.doubanio.com/icon/u93124222-46.jpg",
+      "content": "灭霸再次控制时间原石，复活者联盟组建获得可喜进展，漫威编剧偷懒程度再创新高，布拉德皮特生涯最高难度表演slay全场。"
+    },
+    {
+      "user": "奶奶的熊",
+      "avatar": "https://img1.doubanio.com/icon/u2632322-17.jpg",
+      "content": "不辣的皮特演了个隐形人，真的，我不骗你们。"
+    },
+    {
+      "user": "惨绿",
+      "avatar": "https://img3.doubanio.com/icon/u53414125-25.jpg",
+      "content": "lucky和rich，地球上唯二真实存在的superpower。"
+    },
+    {
+      "user": "Lidan.HK",
+      "avatar": "https://img3.doubanio.com/icon/u1104430-13.jpg",
+      "content": "不如死侍1，远远不如妇联3，还是别拍3了。"
+    },
+    {
+      "user": "大聪看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1402913-10.jpg",
+      "content": "至贱无敌的贱贱说了，要拍20多部续集。灭霸瘦脸焗皮以后，左眼镶着灵魂宝石，左手换上巴基的振金手臂，来和贱贱做基友了。"
+    },
+    {
+      "user": "本初老儿",
+      "avatar": "https://img3.doubanio.com/icon/u1349000-51.jpg",
+      "content": "节奏不好 对不起 再多搞笑 再好的结尾彩蛋也救不了"
+    },
+    {
+      "user": "3M无痕透明蕉",
+      "avatar": "https://img1.doubanio.com/icon/u47026401-67.jpg",
+      "content": "开头的狼叔音乐盒赶紧出周边，想要"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "有人用时光机改变了历史，新的历史是这样的：\n2010年，瑞恩·雷诺兹在拍《绿灯侠》的时候被不明身份的杀手袭击，不幸中弹身亡。\n一夜之间，全球突然出现了50亿瑞恩·雷诺兹的粉丝举国哀悼。\n于是《绿灯侠》导演邀请瑞恩·雷诺兹的表弟和替身演员来做动作捕捉，再用后期处理的方式拍完了电影。\n2011年，《绿灯侠》票房大卖15亿美元，DC连忙宣布再拍20部续集……"
+    },
+    {
+      "user": "Gawiel",
+      "avatar": "https://img3.doubanio.com/icon/u1384312-120.jpg",
+      "content": "不涉及剧透的两个梗：开头credit是高仿007 Skyfall，只不过邦德和邦女郎都是死侍；泽维尔学院里有一幅马克思画像…… 想看Domino单人电影！"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "贱贱的嘴炮功力依然max，只是没想到竟然是个悲伤又好笑的爱情故事。细节远超前作，包括屌炸天的片头名单和跟剧情神同步的配乐。在尊重多元上20世纪福斯吊打迪斯尼。第二个彩蛋太好笑了，原地打滚笑成一根制杖"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "也太正能量了吧！这死侍感觉就像那种老师和家长都特别喜欢的好学生，平时在家还会给妈妈捶背洗脚的，然后为了融入班里的酷学生团体才开始抽烟喝酒打架说脏话，心里其实一直想劝大家跟他一起回去好好上课参加高考"
+    },
+    {
+      "user": "哪吒男",
+      "avatar": "https://img3.doubanio.com/icon/u42174843-51.jpg",
+      "content": "我！我要加入X特攻队！！我也有超能力！！超平凡！！！"
+    },
+    {
+      "user": "私~川流",
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "content": "非常棒的“家庭电影”，充满爱与希望：灭霸和贱贱有何奸情？有名气的X战警集体失踪？白人至上要延续到下个世纪？经费不足如何拍摄打斗场面？皮特到底辣不辣？PS：这个片头和片尾彩蛋太会玩了。"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "我想要多米诺的超能力"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "戛纳第25.5场院线片。没排上闭幕片，索性放飞自我来看贱贱。在连看了20多部艺术片后，能够看一部完全不用大脑的爆米花是很幸福的事，更何况质量不差，在第一部的基础上嘴炮和与整个漫威宇宙的联动得到了全面升级。用时间机器回到过去改变未来，现实中是不可能发生的，所以本质是一个伤感的故事。"
+    },
+    {
+      "user": "Ada🧣Wang💋💍",
+      "avatar": "https://img1.doubanio.com/icon/u115657337-27.jpg",
+      "content": "本片又名:死侍之X-men 宇宙又逆转未来一次，或灭霸VS死侍之正义黎明，或震惊！灭霸的女儿又死了？或欣赏一个小屁孩如何变成黑化反派全程演示，或红坦克你出狱不去找万磁王却跟着小屁孩是不是脑子有问题？或雷诺兹你是有多恨华纳绿灯侠电影？吐槽一句，多米诺还不如同人COS真的不好看！"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "3.5 吐槽、彩蛋和低级趣味依旧撑场，整体是上部的升级版，但漫威的故事已经走入重复与套路的怪圈，无论怎么蹦都很难蹦出新鲜感了。"
+    },
+    {
+      "user": "舌在足矣",
+      "avatar": "https://img3.doubanio.com/icon/u44889149-3.jpg",
+      "content": ">>>>>>>>>>>>>无限战争。嘴炮和贱比上一部有所收敛，但是故事上比上一部要强很多"
+    },
+    {
+      "user": "天马星",
+      "avatar": "https://img3.doubanio.com/icon/u68499588-11.jpg",
+      "content": "老爷傻赞，冬兵灭霸，终结者2，冰雪奇缘，情到深处，007式片头，最强客串皮特……一如既往吐槽力Max。但吐槽之后又是浓浓深情，丧妻之痛、爱子之心，又爆笑又虐心，原来嘴炮是他的脆弱，耍贱是他的伪装，这么一群恶棍、坏蛋、怪物原来都是如此渴望温暖与爱，这一点上死侍2简直是边缘人的颂歌。"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "一部弹幕电影，死侍这次自带弹幕功能，从头到尾这么玩，竟然还要拧出一个正能量的主题，真正好玩的反而是结尾的彩蛋。"
+    },
+    {
+      "user": "豆沙馅小甜包",
+      "avatar": "https://img3.doubanio.com/icon/u162718580-14.jpg",
+      "content": "梗多，搞笑，血腥暴力"
+    },
+    {
+      "user": "涼皮兒",
+      "avatar": "https://img1.doubanio.com/icon/u50398793-69.jpg",
+      "content": "3.5 當大家在為Charles的出現歡呼雀躍的時候 我為年輕貌美的Logan瘋狂打call."
+    },
+    {
+      "user": "纤指十三",
+      "avatar": "https://img3.doubanio.com/icon/u172705882-3.jpg",
+      "content": "满分差一星半，但是豆瓣没有半星制。"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "死侍版《逆转未来》，更贱、惊喜更多（他们秒出现了！）、嘴炮从狼叔到蝙蝠侠横跨漫威DC吐槽停不下来，彩蛋2绝对巅峰，修复雷诺兹和死侍自身的最大遗憾哈哈哈。怪不得曾传闻Cable要找施瓦辛格，布洛林的角色太像终结者，穿越刺杀、还被贱贱吐槽是约翰康纳，《终结者创世纪》看来已成永远笑柄。"
+    },
+    {
+      "user": "李阿斗",
+      "avatar": "https://img3.doubanio.com/icon/u43704692-100.jpg",
+      "content": "我真的太期待有生之年突破版权，让死侍、星爵、蜘蛛侠和蚁人同屏打一出嘴炮啊！"
+    },
+    {
+      "user": "乌鸦乌鸦",
+      "avatar": "https://img3.doubanio.com/icon/u53422986-34.jpg",
+      "content": "笑点都是细碎口头笑话，像情境喜剧，令人疲惫。没有新创的结构性笑点。剧情乱七八糟、老套烂俗，这什么主旋律啊？"
+    },
+    {
+      "user": "何婊砸",
+      "avatar": "https://img3.doubanio.com/icon/u35346929-91.jpg",
+      "content": "无奈第一部无论如何也找不到机会去大银幕补看，第二部唯有跑到香港用IMAX大银幕一举弥补发泄！╰..╯年轻版X战警（X教授、快银、野兽等）居然有客串！！！！！Morena Baccarin真的好像Gal Gadot啊~！Josh Brolin大叔帅爆了！！！忽那汐里妹子爆精灵可爱！扮相很像陈法拉~就是和弹头的戏份才这么点？！！妥妥地沦落为“鸡肋”角色！ヾ(｡｀Д´｡) 高大帅酷的四妹戏份居然也这么少！（他的角色名港译叫“真该死”，真笑死！）不是很喜欢讨人厌的小屁孩Russell~席琳天后的主题曲婉转隽永很好听！2019/1/29PG-13合家欢版观影：一部自带马赛克的电影！感觉真的和R级原版不是同一部电影。新增的调侃Matt Damon那段把我逗个半死！贱贱自带消音器超好玩！！！不过这个版本居然让我在全片字幕完全结束后还有泪点QAQ！"
+    },
+    {
+      "user": "Sophie  Z",
+      "avatar": "https://img3.doubanio.com/icon/u2081801-91.jpg",
+      "content": "这系列已经不能看剧情只能看梗了。所有黑加拿大的梗，周围的加拿大人都笑得可开心了……开场Celine Dion配唱的JamesBond-Style的MV和结尾自黑的那些彩蛋好评。"
+    },
+    {
+      "user": "Alan",
+      "avatar": "https://img3.doubanio.com/icon/u2099122-11.jpg",
+      "content": "这部就真的一般了 玩的都是老梗 笑点也有点拖拉 迷影和pop culture reference可能有点过多了 没有上一部那种无脑一路嗨的爽感 超能力是lucky的黑女好评"
+    },
+    {
+      "user": "L'automne",
+      "avatar": "https://img3.doubanio.com/icon/u47974911-21.jpg",
+      "content": "复联3快来学习如何架设主角、反派的内心情感世界！不出所料笑点密集外，居然还有让人泪目的地方，太惊喜！比第一部好太多！很多略生硬的地方都给捋顺了！Deadpool、小孩、“冬兵”都能在传统情感和反叛行为两面自然合理地切换！皮特你死得好惨！然鹅这导演竟是皮特的替身，叫大卫*奇的是都开了外挂？！"
+    },
+    {
+      "user": "风信子",
+      "avatar": "https://img3.doubanio.com/icon/u173201014-3.jpg",
+      "content": "就看得很过瘾啊！"
+    },
+    {
+      "user": "何倩彤",
+      "avatar": "https://img3.doubanio.com/icon/u1003853-196.jpg",
+      "content": "超級英雄漸破魅，走向同人與日常。意欲衝破公式而製造的破洞，像死侍身上的彈孔一樣，很快便失效。當反類型都成為類型，任何反叛也終將被吸納。"
+    },
+    {
+      "user": "糯木",
+      "avatar": "https://img1.doubanio.com/icon/u35711522-19.jpg",
+      "content": "【剧透预警】说《头号玩家》是在彩蛋里插播电影我不服，《死侍2》才是纯彩蛋本蛋。梗了灭霸、冬兵、寡姐、鹰眼、绿巨人、DCEU、蝙蝠侠、绿灯侠、小11、JB、007、本能，请了狼叔、教授、快银、镭射眼、野兽、布拉德皮特、马特呆萌…彩蛋多到剧情偷懒也完全看不出来！就，享受流行文化&超英文化吧！"
+    },
+    {
+      "user": "tintin",
+      "avatar": "https://img1.doubanio.com/icon/u1557995-28.jpg",
+      "content": "我们的目标是——干死杨永信"
+    },
+    {
+      "user": "掉线🌈",
+      "avatar": "https://img1.doubanio.com/icon/u45134592-69.jpg",
+      "content": "【C+】并不是打破第四面墙+俗套情节就能称作反类型了，披着恶搞皮而无所顾忌的粗糙剧作"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "7，各种吐槽和彩蛋部分还是可以的"
+    },
+    {
+      "user": "饮歌",
+      "avatar": "https://img3.doubanio.com/icon/u35790692-21.jpg",
+      "content": "漫威真的是挺聪明的，把这部紧接在黑豹和复联后面，不但避免了审美疲劳，还更张显出了这部“作妖”的风格。贱贱不负众望的贱上加贱，还明确了自己的团队，真心不知道漫威的大池塘我有生之年还能不能游得到岸上..."
+    },
+    {
+      "user": "醉舟一季",
+      "avatar": "https://img1.doubanio.com/icon/u3589294-78.jpg",
+      "content": "和小蜘蛛侠一样是实习生电影，You dont like dubstep?you are so dark...很好笑，梗真密集，但打破第四堵墻看多了還是會有點膩，不曉得是不是和灣灣乾澀的翻譯有關。（台北天台影城）"
+    },
+    {
+      "user": "judy",
+      "avatar": "https://img3.doubanio.com/icon/u1956648-61.jpg",
+      "content": "3.5。定位很清楚。嬉笑怒罵的喜劇片，不用對故事認真，看死侍發揮身體特色與瘋狂碎嘴就好，煩到不行(褒義)後設的吐嘈與玩梗才是本體，被玩最多的當然是X戰警了。大家看著他默默把教室門關上笑死了。小毛病是節奏比上集差點。期待cable的基友養成路，多米諾也頗有特色。彩蛋讚！RR的怨念！"
+    },
+    {
+      "user": "喂，叫我愤青!!",
+      "avatar": "https://img1.doubanio.com/icon/u4691748-77.jpg",
+      "content": "笑点密集 吐槽有劲 打斗见血 台湾5.15 15点上映 居然刚好赶上 简直lucky 虽然是2d但很过瘾了"
+    },
+    {
+      "user": "Karo",
+      "avatar": "https://img3.doubanio.com/icon/u38727002-2.jpg",
+      "content": "片尾有彩蛋！！！正片结束别急着走！彩蛋内容+1星。我喜欢这部超过上部。段子梗横飞的基础上剧情还在线，音乐水准之上。看完算是明白为什么RR在韩国唱的是tomorrow了。史翠珊嫁到，片头007风格，贱格继续。甚至，还提到了黑寡妇，以及奥创。彩蛋关键词金刚狼、绿灯😏有得看的赶快看！"
+    },
+    {
+      "user": "殇潮|Enigma",
+      "avatar": "https://img3.doubanio.com/icon/u1292181-376.jpg",
+      "content": "Josh Brolin好帅！"
+    },
+    {
+      "user": "AilsonAir",
+      "avatar": "https://img3.doubanio.com/icon/u91325440-12.jpg",
+      "content": "很抱歉，在没有情怀支撑的情况下，这种梗满天飞的吐槽体，俏皮话都往下半身走的超英电影真的不是我的菜。而刨除掉这些我觉得不怎么好笑的笑点，作为动作片它又相当单薄。死侍第一部胜在了出新，而到了第二部就显得很缺乏灵性了。除了题材和IP，一个马修沃恩这样的商业片奇才是多么难得。"
+    },
+    {
+      "user": "张天翼",
+      "avatar": "https://img1.doubanio.com/icon/u1960791-37.jpg",
+      "content": "超爱安了冬兵手臂的时间旅行者的妻子的丈夫灭霸（站在路中间打汽车、手撕车门也很冬兵）。"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "动作太行活了，就属于“还行、能看”的水准，不过以流行文化为营养去反哺自身的水平还在；另外马特·达蒙在演职员表署名为Dickie Greenleaf，乃是《天才雷普利》里的富二代，有点意思。"
+    },
+    {
+      "user": "女神的秋裤",
+      "avatar": "https://img3.doubanio.com/icon/u124812731-41.jpg",
+      "content": "彩蛋比电影好看"
+    },
+    {
+      "user": "(*^ω^*)",
+      "avatar": "https://img3.doubanio.com/icon/u173893000-4.jpg",
+      "content": "标准英雄电影，剧情还可以，音乐也不错。彩蛋好啊，有金刚狼噢。"
+    },
+    {
+      "user": "法兰西胶片",
+      "avatar": "https://img1.doubanio.com/icon/u2316731-67.jpg",
+      "content": "比第一集逊色，主要是在颠覆性上没什么太大的突破，动作戏也太行货，并且主题竟然主旋律了。小胖墩演的太差，严肃不会演。大卫·雷奇重复的关节技，在这样的环境里都没玩出新招，与其个人是最大的隐患。"
+    },
+    {
+      "user": "爱看电影的少年",
+      "avatar": "https://img3.doubanio.com/icon/u166690369-1.jpg",
+      "content": "太搞笑的，话实在是太多了，不过感觉很可爱"
+    },
+    {
+      "user": "YOUSAWNOTHING",
+      "avatar": "https://img3.doubanio.com/icon/u42091260-33.jpg",
+      "content": "算不上满意的续集，有明显的identity crisis。是严肃是恶搞还是X-Force预告片感觉最后自己也没搞清楚。情感线基本算失败，搞笑段子还是老样子有点令人乏味，动作戏也算不上出彩。片尾的彩蛋是最大的笑点。新角色最喜欢Domino，不知道是不是《亚特兰大》后遗症"
+    },
+    {
+      "user": "左胸上的吸盘",
+      "avatar": "https://img3.doubanio.com/icon/u1128980-24.jpg",
+      "content": "勉强两分。虽然还有些断手砍头的慢镜动作场面，但死侍死了老婆以后就陷入了自我怀疑不想活的老套路（这俩人的爱情戏写的平平无奇硬煽明显），不只借用X战警的布景也借了这个傻逼系列超英夹尾巴做人的设定。酷似韩红的小胖子演技零分，全片就一张神经质逼脸，死侍为何对他产生亲如父子的羁绊也是来的莫名其妙。电索这角色也是突然就窜出来了，绑架老板那场还被剪辑给扔了。地狱男爵化的死侍除了满嘴电影梗战斗能力严重退化，快到街头老娘们儿撕逼的地步了。全片亮点是丧逼气质鲜明的X特遣队，不过这个处理也是抄《百战天虫》的，隐形人布拉德·皮特给的不错。死侍就是前半段死了老婆变抑郁症后半拼命救韩红的碎嘴活雷锋，这种人设真叫人恶心，R级也能变美式教育片，这天罗地网，美国小崽子们逃得过？"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "记一个抛妻弃子的混蛋的时间旅行。花絮才是正片系列。（190125影院：《死侍2.5: 死侍亲自讲解死侍2》；另及，机智地在斯坦．李的那面墙画上加了rip三个字母。"
+    },
+    {
+      "user": "Moonlight Bae",
+      "avatar": "https://img3.doubanio.com/icon/u52097875-73.jpg",
+      "content": "喜欢那个lucky women, （Brad Pitt as vanisher?! For real??? ）其实不太喜欢贱贱的Deadpool走真情路线……"
+    },
+    {
+      "user": "大奇特(Grinch)",
+      "avatar": "https://img3.doubanio.com/icon/u1074463-104.jpg",
+      "content": "更像是用“诚实预告片”的行销手段来拍电影，专门讨好那些看过大量超级英雄电影、漫画观众的胃口。追随漫威文化的大旗插科打诨，这种小聪明全部用到了歪处。它还强行赋予“家庭”和“团队”的母题，设置了拯救罗素内心折磨和自我救赎，看上去既轻浮又有“深度”。另，看到皮特达蒙的惊鸿客串。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "嗯，比第一部更难看。"
+    },
+    {
+      "user": "大海里的针",
+      "avatar": "https://img3.doubanio.com/icon/u65569388-3.jpg",
+      "content": "小贱贱依旧嘴炮无敌，横跨漫威、DC两大宇宙，彩蛋继续鞭尸《金刚狼1》和《绿灯侠》。"
+    },
+    {
+      "user": "长个儿",
+      "avatar": "https://img1.doubanio.com/icon/u1450280-187.jpg",
+      "content": "这是DC被黑的最惨，最彻底的一次（详见最后一个彩蛋） and dubstep never dies!"
+    },
+    {
+      "user": "木由",
+      "avatar": "https://img1.doubanio.com/icon/u67858795-18.jpg",
+      "content": "有生之年终于在大银幕看到死侍！！！好看到想给十颗星！！！有多好看呢，等到两波彩蛋后全厅依然没有人想走，保洁阿姨来轰人说没有彩蛋了走吧走吧，全场哀嚎。我踹朋友一脚说走啦，朋友岿然不动，沉着地说，再缓缓，我刚刚笑岔气了。"
+    },
+    {
+      "user": "Claudia",
+      "avatar": "https://img1.doubanio.com/icon/u28347376-67.jpg",
+      "content": "躺在純正汽油桶上彈菸灰、對著一堆惡棍幹話連篇，當被生活的焦慮壓得喘不過氣時，死侍2大概就是勵志片的定位了。"
+    },
+    {
+      "user": "天蓝蓝",
+      "avatar": "https://img3.doubanio.com/icon/u3411803-102.jpg",
+      "content": "贱贱真是个好人！本片彩蛋多到爆，从头到尾都是笑点。剧透：DC从来没有被黑得这么惨过"
+    },
+    {
+      "user": "Paco",
+      "avatar": "https://img3.doubanio.com/icon/u69290051-126.jpg",
+      "content": "远到《死侍1》近如《头号玩家》都是正儿八经的电影插播彩蛋，《死侍2》干脆彩蛋插播电影，其实也没关系，好玩就行，不把你当电影看也行，关键是居然能做到让人后悔花了两小时看正片而没有拖到最后直接看比正片好看百倍的彩蛋。从这个角度来说，“反类型”没看到，反电影还挺到位的。"
+    },
+    {
+      "user": "123456",
+      "avatar": "https://img3.doubanio.com/icon/u164707438-4.jpg",
+      "content": "如果你想为正义而战，有的时候就得玩点阴的。\n标注的第300个电影，上一部死侍给我们说这是一部爱情电影，这次死侍跟我们说这是一部家庭电影，哈哈，比上一部更污，更屌，更黄，死侍吐槽完DC宇宙，吐槽漫威，灭霸什么的，以前电影中的各种老梗，影片中所有梗都玩出了新高度，死侍吐槽起人来真的是连自己都不放过，好像一部电影里的男主在电影里评论这部电影，死侍仿佛把电影玩出新玩法，他仿佛不是一个电影中的人物，仿佛就是一个在现实中的人一样,所有人物的塑造也是极其成功的。"
+    },
+    {
+      "user": "色烈芬_",
+      "avatar": "https://img1.doubanio.com/icon/u69475039-9.jpg",
+      "content": "并不太好。死侍1的成功之处在于从超级英雄的角度来说 话痨、嘴炮以及死侍不死身这一类的因素很【新颖】，然而第二部依旧如此就会显得审美疲劳且很乏味。再说了\n 过分的黄暴由始至终都不会是什么好事 而从动作片的角度来说细节跟妇联的比差了起码三个阿凡达 一旦抛开了情怀 你就会发现其实这个挺无聊的。"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "不死之身就能获得幸福吗，逆转时间就能改变过去吗，天赋异禀就能消除仇恨吗？死侍亲眼目睹爱人身亡，电索亲身经历妻女火葬，罗素亲自体验电击虐待，超能力真的可以拯救一切吗？给你不死之身爱人仍是凡躯，让你逆转时间记忆从不消亡，使你天赋异禀伤口并未愈合。穿越回希特勒的婴儿房，并不能阻止一切。"
+    },
+    {
+      "user": "室内滂沱",
+      "avatar": "https://img3.doubanio.com/icon/u5812768-70.jpg",
+      "content": "简直在用一部电影来评论电影，和观众处在相同的位置去不断谈论自己构建的流行文化，这在主流爆米花里属于很坎普很新鲜的，比银翼杀手2049和原力觉醒对自身经典品牌的自反还要更深入，甚至是把这点当成了这部电影的核心主题。“反正也不会死”本来就是对动作片的戏谑，这部将此无尽放大放大，都快成了电影版的罗杰·伊伯特《我知道你们又来这一套》。虽然里面的动作戏只是漫改片的中等水平，台词也未见句句精妙，但上述手段能看出漫威强大的“文化自信”，只有在品牌最强盛时才敢来这么一部电影，还有片中那些首尾呼应、时光倒转和人物转变，细想想写的挺严谨的，价值观传递也并不生硬。虽然对这部电影有明显的代沟，可还是好感丛生，手松一下想打个五星。"
+    },
+    {
+      "user": "豆瓣酱",
+      "avatar": "https://img3.doubanio.com/icon/u17756750-66.jpg",
+      "content": "给三星都对不起我戛纳的那些三星"
+    },
+    {
+      "user": "某四",
+      "avatar": "https://img3.doubanio.com/icon/u1184438-35.jpg",
+      "content": "果然哏值爆表，人槽合一，天生嘴贱难自弃……不愧史诗级大混球儿、偶像派老司机、基情戏大魔王、埋梗界莎士比亚（最后面这个最中肯的评价来自著名影视播客Screenbaker）……总之在下输了……纵使您人设崩塌我也忍了……"
+    },
+    {
+      "user": "赤之彗星",
+      "avatar": "https://img3.doubanio.com/icon/u70686485-5.jpg",
+      "content": "【6.5】IMAX 2D。看得太开心，每一分钟都有梗，情节反倒不重要了，客串阵容真的是强大，DC，MCU，星战和各种电影全都被吐槽了一遍。只求贱贱不要加入MCU，你自己在这玩的不就很开心吗！有Cable有多米诺有钢力士就很赞了！【重看PG13版，其实故事内核就是PG13，所谓R级更多在于血腥与暴力，没了这些元素加持故事真是难以下咽，用梗代替情节，很偷懒，就算你自己吐槽了那也是偷懒】"
+    },
+    {
+      "user": "Carf",
+      "avatar": "https://img3.doubanio.com/icon/u4340710-6.jpg",
+      "content": "在拯救超能力时，无辜的凡人、路人、背景人类都该死？该看看watchmen"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "别老嚼爆米花了，来桶辣翅吧！请“John Wick二人组”继续在荷里活大杀四方！"
+    },
+    {
+      "user": "旧书君",
+      "avatar": "https://img3.doubanio.com/icon/u1618297-32.jpg",
+      "content": "这几年堆梗堆得完全不讨厌的、放眼望去还真只有死侍。这一部大概是贱贱自己参与编剧的缘故，台词已经从打破第四面墙上升到大型观众互动节目上来了。修改时间线笑到爆炸。华纳高层们真心需要。"
+    },
+    {
+      "user": "天籁zzz",
+      "avatar": "https://img3.doubanio.com/icon/u60372840-72.jpg",
+      "content": "第一部三星半，续集是真四星。甩梗tie遍漫威宇宙，嘴炮轰遍隔壁DC，如果说第一部全靠没缝上的碎嘴撑着，续篇不仅经费跟上，格局和责任也打开了，正如贱贱自述这是一部育儿家庭片，修改时间线的黑科技太流氓了！招募小队表演花式作死跳伞那段笑岔气，很想要lucky这个超能力！忽那妹子顶着巴拉巴拉小魔仙造型但电流击杀招式可真不赖"
+    },
+    {
+      "user": "JK16",
+      "avatar": "https://img3.doubanio.com/icon/u62767186-3.jpg",
+      "content": "为什么一开始就奠定了悲情的基调我还是笑爆啊哈哈哈哈哈"
+    },
+    {
+      "user": "光头",
+      "avatar": "https://img1.doubanio.com/icon/u63870964-9.jpg",
+      "content": "本片通畅、搞笑，用段子包装保守价值观，比空喊“family”的素鸡系列要委婉，比假大空的妇联3要接地气；本片除了毁容的男主角外，还出现了大码和同志超级英雄，这可是难得一见的哟"
+    },
+    {
+      "user": "时间之葬",
+      "avatar": "https://img1.doubanio.com/icon/u2126832-179.jpg",
+      "content": "无聊梗多到有点令人不适，最后回归和谐主流价值观真是WTF"
+    },
+    {
+      "user": "余小岛",
+      "avatar": "https://img3.doubanio.com/icon/u55323010-42.jpg",
+      "content": "不行。。同样的套路再来一次完全不行，根本没有了初次看到的惊喜。小聪明耍过头就不聪明了。这故事兴师动众地搞了半天，就为了救个小屁孩，然后强行来一下家庭和爱，编剧简直太轻松了。。。以及布拉德皮特、金刚狼以及几位X战警的客串倒是惊喜了一下。。。"
+    },
+    {
+      "user": "焚紙樓",
+      "avatar": "https://img3.doubanio.com/icon/u80722428-35.jpg",
+      "content": "搞這麼大一齣時空劇，卻知字不敢揶揄《未來昔日》（Days of Future Past）；主打大尺度笑點，結果不過是一碎碎對當事人無足輕重的安全笑料所冒充；自稱風格玩世，骨子的價值觀（友情親情勝利）卻是保守恭恭。這算什麼Deadpool？和他找來的這批X-Force一樣，不過是一群掛著原作名的小丑。"
+    },
+    {
+      "user": "萨嘎摩多熊猫桑",
+      "avatar": "https://img3.doubanio.com/icon/u2728100-322.jpg",
+      "content": "早知道导演换了我就不该期待的。变好人，以及为死后女友突然变高的择友标准变好人，都透着莫名其妙的烂俗与刻意。全片一半的笑点尴尬，大半的台词啰嗦。唯二的加分项是死侍对钢力士直白的（性）爱（骚）意（扰），以及那对全程最多勾肩搭背一下不明说的话直人们都以为只是好姐妹的纯情姬佬。"
+    },
+    {
+      "user": "夜神月的猫",
+      "avatar": "https://img1.doubanio.com/icon/u54998502-7.jpg",
+      "content": "简直完美，完成度非常高，悲情+吐槽+嘴贱+复仇+搞基+翻转+超级幸运（这超能力真的超想有啊~）+各种穿越（跨现实穿越+跨电影穿越………），，，各种剧情设计带来的观感真的非常完美，就像席琳迪翁说的：这只能去到11分，多的一分是给到彩蛋的，简直没有遗漏没有遗憾，这片在国内放，暑期啥国产电影票房都完了，就是杠上药神估计也要断半壁江山~"
+    },
+    {
+      "user": "科林",
+      "avatar": "https://img3.doubanio.com/icon/u2160141-4.jpg",
+      "content": "《本能》跷二郎腿那段实在太搞了哈哈！"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "【请看完导演剪辑版再来打分鸭】为了死侍也要学好英语，不然和谐的字幕会掩藏大半的剪辑版精辟黄暴梗，而那种汪洋恣肆得犹如良心在自由爆粗的持久快感就会被残忍褫夺！死侍真是又黄又粉，就像裸出的小脚丫与《冰雪奇缘》，就像阿灭与挎着的泰迪熊那般。续集有料多了，X战警重臣的客串比贱贱的蜜桃臀还要灿烂。而且Vanisher居然是皮特扮演，比李老爷子还要彩蛋！恭喜负音波喜提女票，恭喜插了魏璎珞发型的贱贱被钢力士喜提，虽说LGBT只能大肆出现在R级片里。最后，我爱Vanessa！//20190120刷我爱我家版，第四堵墙被推得渣都不剩，加插的戏外戏确实很好玩，特别是F马特·达蒙的片段。不过正片也相应缩短许多。制作纯洁版，三招，一是删减，二是打码，三是改字幕，比如make love译成恶搞，sex toy弄成变态玩具（哼！）。但是，最后新加的大彩蛋很值！"
+    },
+    {
+      "user": "五色全味",
+      "avatar": "https://img1.doubanio.com/icon/u1380001-9.jpg",
+      "content": "3.5 廣東話字幕幾盞鬼"
+    },
+    {
+      "user": "何阿嵐",
+      "avatar": "https://img1.doubanio.com/icon/u1325646-9.jpg",
+      "content": "跟上荷里活製作就變成相同套路，再多戲仿，黑自己都不會變成一部反英雄電影，Deadpool只是一位乖孩子，他愛女友愛隊友愛正義感，有些少反叛，愛對著觀眾講廢話，但又會用愛感動世人的壞男孩。話說這是近來的英雄電影才這樣？那麼愛強調家庭重要？各各英雄都失去家庭失去致親，非要搞出感人情感才動人？"
+    },
+    {
+      "user": "小十三",
+      "avatar": "https://img3.doubanio.com/icon/u171372928-1.jpg",
+      "content": "暴力美学，有梗，搞笑，彩蛋很惊喜，传统的英雄电影，节奏感不是很好，打戏超帅"
+    },
+    {
+      "user": "河狸",
+      "avatar": "https://img1.doubanio.com/icon/u2228416-29.jpg",
+      "content": "看来狼叔可以复活了。"
+    },
+    {
+      "user": "文西",
+      "avatar": "https://img1.doubanio.com/icon/u1033322-8.jpg",
+      "content": "贱贱的基情，最后的彩蛋很聪明，尤其是损了一把DC的绿灯侠。"
+    },
+    {
+      "user": "\\t^h/",
+      "avatar": "https://img1.doubanio.com/icon/u2520407-289.jpg",
+      "content": "为什么Martha梗没人笑，是因为大家都没看过BVS吗？开头的Logan音乐盒（顺便求同款）都比这个反应多。"
+    },
+    {
+      "user": "Movier",
+      "avatar": "https://img1.doubanio.com/icon/u59700057-7.jpg",
+      "content": "字幕最后有一个足以让所有漫威粉丝泪目的大大大大大大大彩蛋！"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "灭霸再现。彩蛋太屌了……"
+    },
+    {
+      "user": "武侠老王子",
+      "avatar": "https://img3.doubanio.com/icon/u1413054-35.jpg",
+      "content": "完全超越了第一部，对节奏的把控太让人惊艳！"
+    },
+    {
+      "user": "Dragmedown",
+      "avatar": "https://img3.doubanio.com/icon/u2256841-151.jpg",
+      "content": "和sv吃了虾仁炒饭喝了coco然后一起看的 贱贱好可爱呀 开头介绍导演制片人啥的 写的都是what do u expect一类哈哈哈 Celine Dion配唱的JamesBond-Style的MV~ brown panther 笑爆"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "在第一集自嘲自黑吐槽无极限的风格上再接再厉，也更难看，闹腾一气乱玩所谓迷影梗，明明不喜前作还去看，分明是找虐。"
+    },
+    {
+      "user": "雪",
+      "avatar": "https://img3.doubanio.com/icon/u1282175-1.jpg",
+      "content": "賤賤不賤了🙄"
+    },
+    {
+      "user": "Justina",
+      "avatar": "https://img3.doubanio.com/icon/u53083392-11.jpg",
+      "content": "看过这么多漫威英雄，最羡慕Domino的“幸运”了…灭霸打两个响指，她应该都幸存吧……\n\n\n等下，里面有句特别的脏话，能过审？？"
+    },
+    {
+      "user": "寒狐传媒",
+      "avatar": "https://img3.doubanio.com/icon/u48726425-6.jpg",
+      "content": "3.5星。很贱很暴力。"
+    },
+    {
+      "user": "qw0aszx",
+      "avatar": "https://img3.doubanio.com/icon/u88439681-2.jpg",
+      "content": "和第一部一样，嘴上说着吐槽套路结果自己的剧情就是啥套路，而且这次还没了第一部那种R级喜剧配超英的第一次新鲜感，甚至段子我觉得写得都不如第一部，so... 5.5分★★☆"
+    },
+    {
+      "user": "LORENZO 洛伦佐",
+      "avatar": "https://img1.doubanio.com/icon/u1127622-139.jpg",
+      "content": "无fuck说"
+    },
+    {
+      "user": "天天",
+      "avatar": "https://img3.doubanio.com/icon/u159494373-2.jpg",
+      "content": "今年最失望的电影 第一死侍2 第二复联3   死侍三观超正  各种煽情 节奏拖沓 血腥度？ 让我来90分钟片长足矣"
+    },
+    {
+      "user": "低端小能自由西",
+      "avatar": "https://img3.doubanio.com/icon/u1532174-15.jpg",
+      "content": "只靠inside joke還是不足以撐起一部好電影的。"
+    },
+    {
+      "user": "任原",
+      "avatar": "https://img3.doubanio.com/icon/u32100376-32.jpg",
+      "content": "主要是DC吐槽大会，其次是骨折的100种范例，顺带打打嘴炮做做公益，拯救失足少年，我是指某个加拿大人。"
+    },
+    {
+      "user": "Henrique Asano",
+      "avatar": "https://img3.doubanio.com/icon/u37313645-24.jpg",
+      "content": "布拉德皮特的惊鸿一瞥真是惊掉下巴。很多涉及戏里戏外的好笑的梗，套路满满的漫改英雄片，加上耍嘴皮之后，整个格调瞬间提升"
+    },
+    {
+      "user": "極楽寺駅長",
+      "avatar": "https://img3.doubanio.com/icon/u2632197-264.jpg",
+      "content": "最后彩蛋好笑！还有当中新生那段也好好笑！总之就是一个很有梗的电影啦……四妹演了一个打酱油的变种人！意外！"
+    },
+    {
+      "user": "Liebe_csw",
+      "avatar": "https://img3.doubanio.com/icon/u67550871-2.jpg",
+      "content": "FXxk！！！  终于知道超能力选什么了！！"
+    },
+    {
+      "user": "CyberKnight电子骑士",
+      "avatar": "https://img3.doubanio.com/icon/u1819911-2.jpg",
+      "content": "（三星半）对第二部真的有点无感，故事太温情，哦不，温吞了，闹半天小胖子才是主角……死侍你是鸡丁吗？\n原本该又黑又贱看透一切的风格硬给调整到了外在贫嘴内在温馨的路子，我是很失望的，想想还要出什么PG13版，就想让贱贱砰砰做掉制作人！\n另外就是结尾对战红坦克一场也有点小失望，没有啥特色，很快就会被忘掉的动作戏。唯一让我觉得特别有趣的地方，就是X特攻队全灭的场景！"
+    },
+    {
+      "user": "杨三疯",
+      "avatar": "https://img1.doubanio.com/icon/u43703010-7.jpg",
+      "content": "死侍何止戳穿了金刚狼？最重要的是跟杨三疯一样嘴贱。而且睡了油站。"
+    },
+    {
+      "user": "我是直的",
+      "avatar": "https://img3.doubanio.com/icon/u48633418-6.jpg",
+      "content": "2018？？！！！！还要等到明年吗！qaq（17.3.19）1、我就说怎么会前面开始变的悲情 op立马暴露 2、期待已久的片子没想到剧情有点无聊。。。尤其是前半部分。。3、贱贱不适合当x警4、感觉这部主角不在他5、居然有terry！！6、忘了说这部比上部cult7、贱贱集结的几位勇士跳完伞一个比一个惨 唯独妹子 妹子的超能力是幸运吗hhh8、印度小哥太可爱了9、ed前的彩蛋不要错过"
+    },
+    {
+      "user": "绮梦🌈",
+      "avatar": "https://img1.doubanio.com/icon/u3327587-789.jpg",
+      "content": "为什么一个直男能这么gay…🤔"
+    },
+    {
+      "user": "妙可中国",
+      "avatar": "https://img3.doubanio.com/icon/u53869175-60.jpg",
+      "content": "第一部的离经叛道看新鲜，第二部并未更进一步。强加的什么家庭、团队合作都他妈狗屁，正片不如片尾彩蛋好看。"
+    },
+    {
+      "user": "米粒",
+      "avatar": "https://img3.doubanio.com/icon/u4416375-54.jpg",
+      "content": "依稀还记得第一部的一点点内容，不过也足够了，毕竟这部甚至都没啥剧情，感觉像是什么骗钱续集、lazy writing、卖弄情怀的合体，但电影竟然就这些进行了许多自我吐槽，也还算挺有趣啦。老美对《公主新娘》的感情之深，厉害（最近电影院实在没啥好看的了，我快坚持不住了…"
+    },
+    {
+      "user": "diaoduoxi",
+      "avatar": "https://img3.doubanio.com/icon/u4125133-140.jpg",
+      "content": "最搞笑的是团队全灭的那一段，喷了"
+    },
+    {
+      "user": "Michael JZ",
+      "avatar": "https://img3.doubanio.com/icon/u49145944-64.jpg",
+      "content": "Deadpool系列证明超级英雄电影可以黄暴脏话荤段子无所畏惧 一边单口相声一边神仙打架好不热闹 段子好笑 动作戏好看 偶尔来两个情感炸弹还觉得特别感人 各种画风杂糅在一起 爽"
+    },
+    {
+      "user": "摩西不夜奔",
+      "avatar": "https://img1.doubanio.com/icon/u1367128-7.jpg",
+      "content": "二星半，话唠就算了，还非要从中作梗，梗太多了，硌得慌"
+    },
+    {
+      "user": "書衣偵探華斯比",
+      "avatar": "https://img3.doubanio.com/icon/u1333127-134.jpg",
+      "content": "居然是合家欢？开头略沉闷，从电锁出场之后才开始好玩儿了。特遣队第一次集结就差点团灭笑死了。彩蛋预示着狼叔会复活吗？"
+    },
+    {
+      "user": "Lycidas",
+      "avatar": "https://img3.doubanio.com/icon/u46752165-32.jpg",
+      "content": "#BoreMeToDeath"
+    },
+    {
+      "user": "锐利修蕊",
+      "avatar": "https://img1.doubanio.com/icon/u12544519-58.jpg",
+      "content": "不知道该给三星还是四星，感觉比第一部好，但又觉得桎梏在老旧的主题就…这部难道不是漫威用X战警打开日韩高校恐怖系列的全新方式吗？一个小时以后整个电影开挂，屎尿屁和笑到猪叫声齐聚一堂。感觉音乐和叙事剪辑完全是两种风格，而且放弃了连续式剪辑之后整部都像磕了药，第一次觉得恩雅不够听23333。"
+    },
+    {
+      "user": "橘猫爱吃鱼",
+      "avatar": "https://img3.doubanio.com/icon/u169089788-2.jpg",
+      "content": "剧情没有太大的突破，感觉不如前作，彩蛋不错。"
+    },
+    {
+      "user": "凡人",
+      "avatar": "https://img3.doubanio.com/icon/u160182572-1.jpg",
+      "content": "非常棒的“家庭电影”，梗多，搞笑\n这个片头和片尾彩蛋太会玩了。"
+    },
+    {
+      "user": "王写写",
+      "avatar": "https://img1.doubanio.com/icon/u4222027-38.jpg",
+      "content": "当R级漫改的新鲜劲过去之后，贱贱也就沦为了一个普通的反英雄喜剧形象。这次在文本上少了上一部的锋芒，暴露出一种完全随性的创作姿态，依旧有不少捧腹的漫画哏，却没令影片变得更完整。片尾数个彩蛋部分挽救了玩到脱线的结尾。有了电索的机械表，倒是很想看一出“死侍屠杀20世纪FOX电影宇宙”。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "套用俗语：没有什么，是一场逆转未来解决不了的，如果真有，那就两场。\n所以逆转未来才是漫威的终极大杀器。"
+    },
+    {
+      "user": "觉",
+      "avatar": "https://img3.doubanio.com/icon/u51640518-63.jpg",
+      "content": "毫不停歇的段子拼贴，感觉在影院看了两个小时的周六夜现场 /// PG13版加一星"
+    },
+    {
+      "user": "安东",
+      "avatar": "https://img1.doubanio.com/icon/u1042606-147.jpg",
+      "content": "哈，果然，lucky才是最有效的超能力！"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "属于有保质期且保质期极短的快餐喜剧，里面强行塞满管你看不看得懂，管你笑不笑得出来，管你接受不接受得了的流行文化/名人实事梗及低俗荤段子。观影过程实际上就是逐一地去破解这些梗和笑点……“破梗解梗”难道是闲得蛋疼的现代人类专属的恶趣味？★"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "3.5。"
+    },
+    {
+      "user": "阿蚊",
+      "avatar": "https://img3.doubanio.com/icon/u63824903-11.jpg",
+      "content": "由頭到尾寸盡其他英雄角色，大玩其他經典戲裡對白，classic金曲。動作場面一堆，笑位都算ok。最近睇完咁多異能角色後，發覺最勁嘅居然係今集出現的Lucky Girl，正所謂乜都唔使識，有運就夠贏你。玩血腥，玩搶殺打架；雖然多弒殺場面，但手法快狠利落加少少搞笑，就算殘忍血醒也不令觀眾嘔心，另類的Marvel電影，本人就麻麻地like咧類電影，但整套評級還可。"
+    },
+    {
+      "user": "躲猫猫社社长",
+      "avatar": "https://img3.doubanio.com/icon/u3051842-11.jpg",
+      "content": "I don’t have much else to say except that new chick man... is hot af...... and yea that’s Brad Pitt."
+    },
+    {
+      "user": "viennavirus",
+      "avatar": "https://img3.doubanio.com/icon/u1014188-36.jpg",
+      "content": "依然有些有趣的设定，以及鸡零狗碎的段子，但节奏拖拉散漫，主线故事让人提不起精神。"
+    },
+    {
+      "user": "Padoru Padoru",
+      "avatar": "https://img1.doubanio.com/icon/u48558385-868.jpg",
+      "content": "You’re so dark! You’re from DC Universe! 彩蛋比正片精彩"
+    },
+    {
+      "user": "么什叫定决能不",
+      "avatar": "https://img3.doubanio.com/icon/u2632978-111.jpg",
+      "content": "Ryan Reynolds变好玩了。"
+    },
+    {
+      "user": "pluskid",
+      "avatar": "https://img3.doubanio.com/icon/u2734512-1.jpg",
+      "content": "原来 linked in 上还能招到超级英雄的，要不要也更新下自己的 profile 把超能力也写上去？😃"
+    },
+    {
+      "user": "明安",
+      "avatar": "https://img3.doubanio.com/icon/u61212508-24.jpg",
+      "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+    },
+    {
+      "user": "顗禮",
+      "avatar": "https://img3.doubanio.com/icon/u149152146-5.jpg",
+      "content": "真的是家庭电影！究级嘴炮死侍依然保持了无视版权、无视次元壁的贱萌吐槽风格，梗多的数不过来；而且这一部全面升级的制作规格让影片从各个方面的可看性都非常高，大卫里奇的加盟让影片的动作戏上了一个台阶，但与此同时带来的是不少糟糕的文戏，影片大概是从充满着暴力血腥与恶趣味的跳伞那段才开始好看起来，但整体也不失为一部好的娱乐大片。还有就是我觉得《死侍2》是一部真正意义上的的X战警电影，X战警系列核心讨论的反歧视问题得到了很好的讨论和诠释（比如LGBT、zzpd等等）PS：1、音乐乱入的太合适了 2、彩蛋敢不敢在贱一点 3、DP其实超正能量啊！4、表白狼叔好评 5、贱贱表示我疯起来自己都杀"
+    },
+    {
+      "user": "海樹",
+      "avatar": "https://img3.doubanio.com/icon/u1067265-2.jpg",
+      "content": "虽然我也蛮喜欢看梗的（尤其是最后的梗太爆了……）但是我还是没法为这种纯粹卖梗的电影以及“哦我懂这个梗所以这个电影好棒啊”这种幼稚心态点赞……卖彩蛋和卖客串的电影风潮最多一年就会被人觉得low爆吧……没办法人到中年一身杂学什么都懂一点的时候就是这么傲娇。"
+    },
+    {
+      "user": "关键是be free",
+      "avatar": "https://img3.doubanio.com/icon/u40978615-33.jpg",
+      "content": "Rick Morty hack baby legs let’s gooooooooo"
+    },
+    {
+      "user": "晚安好运©",
+      "avatar": "https://img3.doubanio.com/icon/u6674333-93.jpg",
+      "content": "能把营销和彩蛋做到这个份上，再恶俗老套的情节我都服，串戏的部分脑洞逆天了！"
+    },
+    {
+      "user": "我终于来到瀑布",
+      "avatar": "https://img3.doubanio.com/icon/u56127704-14.jpg",
+      "content": "没第一部好笑是因为Ryan Reynolds当了编剧吗？"
+    },
+    {
+      "user": "英俊的兔酱🍖",
+      "avatar": "https://img3.doubanio.com/icon/u41567606-2.jpg",
+      "content": "第二部不如绿灯侠好看~哈哈哈"
+    },
+    {
+      "user": "瞬间收藏家",
+      "avatar": "https://img3.doubanio.com/icon/u1214750-72.jpg",
+      "content": "依然很贱很欢乐，但感觉连贯性（？）不如上一部。2018-09-11 想看"
+    },
+    {
+      "user": "脱脱",
+      "avatar": "https://img3.doubanio.com/icon/u3048235-10.jpg",
+      "content": "不辣的皮特露脸不到半秒都讨论的那么多，马特呆萌露脸那么多而且有长长的台词讨论卫生纸为什么没人说？"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "妈呀，比第一部还好笑，前半部分让人以为要砸，但是后半部分简直力挽狂澜，跳伞戏和结尾的反复玩梗乐到不行，而大卫·雷奇对于动作戏的拍摄果然老练，不愧是干掉了JW狗狗的男人！"
+    },
+    {
+      "user": "猪大腿",
+      "avatar": "https://img3.doubanio.com/icon/u3830249-160.jpg",
+      "content": "美国电影还在排着队怼川普的当下，来自BC省的死侍十分小清新地怼起了加拿大总理杜鲁多。另外你还记得大明湖畔的黑寡妇是你前妻吗... 第二个彩蛋可以竞争史上最佳彩蛋。"
+    },
+    {
+      "user": "红豆♥",
+      "avatar": "https://img3.doubanio.com/icon/u47254440-80.jpg",
+      "content": "试问谁不想要幸运女神的超能力……"
+    },
+    {
+      "user": "爆米花教主",
+      "avatar": "https://img3.doubanio.com/icon/u64213791-15.jpg",
+      "content": "这个故事SUCKS，除了嘴炮没多大看点，最后死侍又臭又长的遗言看得我好想死。其实我还是希望电索能干掉熊孩子，你们没看到他造成了多大伤害吗？没看到为了救他死侍又在马路上搞死了多少路人吗？"
+    },
+    {
+      "user": "愤怒的小小小鸟",
+      "avatar": "https://img1.doubanio.com/icon/u4883932-7.jpg",
+      "content": "回家就Google dubstep。彩蛋无价！！！"
+    },
+    {
+      "user": "sosovipp",
+      "avatar": "https://img3.doubanio.com/icon/u53968282-2.jpg",
+      "content": "动作戏不错，也挺搞笑的。"
+    },
+    {
+      "user": "发条饺子",
+      "avatar": "https://img3.doubanio.com/icon/u1996037-3.jpg",
+      "content": "感觉这部演员、编剧、剪辑全体放飞自我了，随性得就像看了120分钟《老子明天不丧白》的mtv。唯一亮点就是众筹的X特工队，配置低笑点高，一跳入魂。"
+    },
+    {
+      "user": "秋色纯",
+      "avatar": "https://img3.doubanio.com/icon/u55825961-6.jpg",
+      "content": "恶搞，吐槽，依旧厉害啊～不过主线剧情有点弱了，还好了，期待下一部吧。"
+    },
+    {
+      "user": "MissGreen",
+      "avatar": "https://img3.doubanio.com/icon/u59401809-4.jpg",
+      "content": "比第一部预算多且竟然让我十分感同身受.jpg 好评好评~"
+    },
+    {
+      "user": "Lucifer",
+      "avatar": "https://img3.doubanio.com/icon/u4266578-22.jpg",
+      "content": "幸运果然很重要啊，喜欢幸运之神附身的Domino"
+    },
+    {
+      "user": "下雨天的小狗",
+      "avatar": "https://img3.doubanio.com/icon/u13444468-2.jpg",
+      "content": "平均两分钟哄堂大笑一次。爆炸戏不输变形金刚和勇闯夺命岛啊。最后一句：不客气加拿大🇨🇦笑死了"
+    },
+    {
+      "user": "JoeyLu陆柏宇",
+      "avatar": "https://img3.doubanio.com/icon/u52842346-15.jpg",
+      "content": "真的差点没笑趴！！！"
+    },
+    {
+      "user": "沐梵",
+      "avatar": "https://img3.doubanio.com/icon/u43316233-16.jpg",
+      "content": "灭霸眼镶宝石，手装机械臂，转动时间原石来拯救伐木累啦。没想到死侍在黄暴之路越走越远的同时竟然离伟光正主旋律越来越近。"
+    },
+    {
+      "user": "苹果派甜",
+      "avatar": "https://img3.doubanio.com/icon/u169431934-4.jpg",
+      "content": "英雄电影，暴力美学，剧情搞笑，特技很棒，值得看看。"
+    },
+    {
+      "user": "咖喱奶茶",
+      "avatar": "https://img3.doubanio.com/icon/u36861304-11.jpg",
+      "content": "Domino证明了人品也是实力的一部分。"
+    },
+    {
+      "user": "野蒜",
+      "avatar": "https://img3.doubanio.com/icon/u57966675-30.jpg",
+      "content": "那个金刚狼八音盒真的不错"
+    },
+    {
+      "user": "叉叉",
+      "avatar": "https://img1.doubanio.com/icon/u4117208-138.jpg",
+      "content": "Absolutely maniac！！！树桩插狼叔的音乐盒有没有同款？！想买！这么骚浪贱的超级英雄给我来一打！吐槽依旧maximum effort，密集程度差不多一分钟一个梗。片头和第一部一样调皮，第二个彩蛋简直影！史！最！佳！笑到不能自己哈哈哈哈哈！"
+    },
+    {
+      "user": "翱云",
+      "avatar": "https://img3.doubanio.com/icon/u4308433-14.jpg",
+      "content": "不正经的超级英雄"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "介乎于胡闹和解构之间，还行啦。"
+    },
+    {
+      "user": "沧海一小生",
+      "avatar": "https://img3.doubanio.com/icon/u157276889-5.jpg",
+      "content": "七分是有的，结尾彩蛋还可以，但是删减一些东西的2似乎缺少了什么，再有，中西文化的差异使我们对一些梗没有那么敏感，所以才没期望的好。"
+    },
+    {
+      "user": "Chain",
+      "avatar": "https://img1.doubanio.com/icon/u2262440-207.jpg",
+      "content": "Matt Damon？Brad Pitt？？"
+    },
+    {
+      "user": "gegemoon",
+      "avatar": "https://img3.doubanio.com/icon/u2447648-26.jpg",
+      "content": "You got Morena Baccarin in the franchise and you abducted her in the 1st one and killed her off at the beginning of the 2nd? And what happened to the timeline?"
+    },
+    {
+      "user": "忘言",
+      "avatar": "https://img3.doubanio.com/icon/u4161339-23.jpg",
+      "content": "这种脸上刻着“我要捞钱”的片，真的有傻子去送钱？\n\n中国市场果然人傻钱多，这种r级片削尖脑袋都要来捞一把，我纯粹恶心这种吃相。"
+    },
+    {
+      "user": "桃子",
+      "avatar": "https://img3.doubanio.com/icon/u1044635-42.jpg",
+      "content": "因为get不到笑点，觉得很无聊。唯一觉得有趣的是组队的段落，和开头时死侍cos的钢管舞娘。看的这版，每一个彩蛋，字幕组都做了解释，很贴心～“Peacetime makes people soft. I was born into war.”（134分钟蓝光完整版）"
+    },
+    {
+      "user": "花椒滷豆腐",
+      "avatar": "https://img3.doubanio.com/icon/u122419062-5.jpg",
+      "content": "不知道是不是因為換了導演，整體感受比上集好上許多。武戲的節奏感提升（幸運的Domino有一些很好的場面笑話），整個劇情核心也變成死侍版本的《捍衛任務》。女角的表演整體亮眼，而玩笑話的部分，編劇使用政治正確的內裡，去嘲諷只做表面功夫的假道學，很難說這不是一種進步。"
+    },
+    {
+      "user": "饱の嗝",
+      "avatar": "https://img3.doubanio.com/icon/u1000905-1801.jpg",
+      "content": "密集梗略感不适，还行吧"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u1236291-798.jpg",
+      "content": "和上一部差不多。剧情就那一套，全靠角色和加料死撑。这种风味也不宜多吃。期待早日看到Soldado集齐三个Brolin。"
+    },
+    {
+      "user": "PepsiPussy",
+      "avatar": "https://img3.doubanio.com/icon/u61698598-15.jpg",
+      "content": "心疼灭霸 一个月内两部电影都死了闺女 还都被一个莫名其妙的隐形人抢了一半流量"
+    },
+    {
+      "user": "夏奈呀！",
+      "avatar": "https://img3.doubanio.com/icon/u16249062-770.jpg",
+      "content": "蓝光版还蛮棒的！"
+    },
+    {
+      "user": "一起吃地瓜",
+      "avatar": "https://img3.doubanio.com/icon/u172924438-2.jpg",
+      "content": "太好笑了，看的过瘾，特效不错，剧情搞笑，动作戏也多。"
+    },
+    {
+      "user": "生命之光卡洛斯",
+      "avatar": "https://img3.doubanio.com/icon/u45847313-34.jpg",
+      "content": "可能是史上最好看的彩蛋！！！！！吐槽开黑的人物/角色可以排一个加强连了，DC，漫威，超蝙，加拿大，金刚狼，詹姆斯邦德，一闪而过的叉男人们… 笑点虽然很密集但是周围群众没有预期的那么好… 不过彩蛋真是集体笑吐。团灭的【哔】太反转了，周末去二刷"
+    },
+    {
+      "user": "xkan",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "简直比妇联好看1000倍..."
+    },
+    {
+      "user": "小栗旬",
+      "avatar": "https://img3.doubanio.com/icon/u43961399-3.jpg",
+      "content": "全是梗~~~整个电影院只有我一个在笑，总体不错~~结尾有哭到"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "1.贱贱的台词梗依旧是多到数不清，恶搞众角色串联各影片无压力；2.灭霸刚在复联3里为全球计划生育劳心费力接着就和贱贱一起拯救迷途少年真是操碎了心；3.X特攻队全员自挂东南枝承包了我这个月笑点；4.狼叔、皮特、一美、马达等众多大牌的客串是亮点。"
+    },
+    {
+      "user": "谋杀游戏机",
+      "avatar": "https://img1.doubanio.com/icon/u10969301-317.jpg",
+      "content": "觉得最好看的部分居然是导演弗莱德·萨维奇的“床前故事”特供段落——“这是一部没有F word的合家欢电影”，“PG13分级，自带童真滤镜”，“难看得我都哭了，可真是个烂片啊！”将阉割无奈转为自我调侃，句句都很real啊。还有小贱贱的手动消音器，马特达蒙那段不要太黄暴。但要将片子烂的原因都归结到删减，那也有逃避责任的嫌疑。标志性的嘴炮——也无非是cue一些电影和流行文化梗，调侃一下福斯、漫威、好莱坞及其zzzq，打破第四堵墙什么的，也真是看腻了。更无语的是，嘴炮已经完全盖过了正常叙事，全片节奏都令人昏昏欲睡、疲惫非常。搬出斯坦李老爷子作为彩蛋，甚至画成海报做卖点，就更见这种耍小聪明的功力心机了，有点败好感吧。死侍还是应该有点不R级毋宁死的勇气，不然谁要看你这颗难看的杂交牛油果？"
+    },
+    {
+      "user": "基瑞尔",
+      "avatar": "https://img1.doubanio.com/icon/u57783734-258.jpg",
+      "content": "对这一辑真的很失望，再次证明演员对作品的过分控制占据主导就是一个系列走向衰败的预示。让这个原本有着无限可能的故事仍然只停留在满足人们毒舌需求，各路客串彩蛋插科打诨的节奏。最大的惊喜和选择大概是找了Julian Dennison演一角（以及，Angel Dust到底哪去了？）[Highlight of 139mins 未分级加长] <Ashes>响起的片头credit有满满自嘲，后面的婴儿彩蛋讨喜。 [Highlight of 119mins PG13我爱我家]StanLee最后的特别致敬,（巨巨巨可爱的）Fred Savage全程坐着听故事并开涮他当《摩登家庭》导演的事，还有诸如FOX和迪士尼并购之类的笑话。前者是拖沓但足够及格的普通超英片，无功无过；后者是满足娱乐精神的节日自high，罪恶快感"
+    },
+    {
+      "user": "琧婯",
+      "avatar": "https://img3.doubanio.com/icon/u1178038-4.jpg",
+      "content": "主要是看鸡煲来的，没想到这么搓，多米诺还是不错的。"
+    },
+    {
+      "user": "最爱",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "确实难看的一匹"
+    },
+    {
+      "user": "El Guaje",
+      "avatar": "https://img3.doubanio.com/icon/u4034225-73.jpg",
+      "content": "每次死侍上映的时候，就是福克斯刷新My Best X-men Movie的时候(X Force? X People? lmao看到RR把自己老乡黑得不但花样百出而且与时俱进我真是太欣慰了），也是漫威英雄难得送上好看bg戏的时候……当然，因为是我们贱贱，所以bl戏也演得同样荡气回肠（咦"
+    },
+    {
+      "user": "荆棘",
+      "avatar": "https://img3.doubanio.com/icon/u1562754-30.jpg",
+      "content": "比1更更更完美，一百万个细节彩蛋+客串和一如既往的爆头级镜头爽爆，人物性格设置尤其可爱，Josh Brolin帅炸！看好小贱贱跟皮特一样以后可以靠当制片人或者编剧拿奥斯卡！比起其他复xx星xx系列空洞无物的内容和审美疲劳的特效不知道好了多少。"
+    },
+    {
+      "user": "Joey To",
+      "avatar": "https://img3.doubanio.com/icon/u3205834-61.jpg",
+      "content": "Grindr梗的时候居然只有我“哈！\" 了一声，其他人到底是没懂还是不敢笑！"
+    },
+    {
+      "user": "忘我洗澡",
+      "avatar": "https://img1.doubanio.com/icon/u1934394-8.jpg",
+      "content": "看哭了！太特么好看了！比第一部好看十倍左右吧。加了一些泪点，并不突兀，强调了死侍知道自己是漫画角色。心疼DC，简直被瞎鸡巴黑了一通，哈哈哈哈哈哈，笑到肚子痛。"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "剁手插头电锯红烧杀遍全球007片头，多尼诺把X-Force运气全用光之空降兵版死神来了，That's how we do in Mother Russia之红坦克大悲剧，恨不得早点把主角掐死罢就的史上最长气遗言……动作场面拉风升级，故事逻辑just lazy writing，段子堆的开心就好 : )"
+    },
+    {
+      "user": "sasa",
+      "avatar": "https://img3.doubanio.com/icon/u2439563-36.jpg",
+      "content": "灭霸还是最厉害的👍"
+    },
+    {
+      "user": "probe",
+      "avatar": "https://img3.doubanio.com/icon/u46389146-2.jpg",
+      "content": "由于漫画的特性，死侍即使始终带着全套战服，总可以通过夸张的画面变形带来基本的幽默性。而真人电影只能靠台词来强撑这一效果，导致为达到搞笑效果的频度，要大量堆砌台词，而过多过密集的元素恶搞与致敬，让人物对白很不显得自然而发，而全是剧本的设计感，就很难发自内心打动到人，成了纯粹的爆米花味。况且影片的节奏感也始终拖沓，尤其各种嘴仗显得非常啰嗦而破坏了动作片在场面上的流畅性与故事段落间的节奏衔接。动作戏方面除了中段的劫车行动前有队伍全灭的恶搞，后有较紧凑的追车打斗，还算撑起了场面，最后拖沓的校园大战的紧张度则完全垮塌，除了几个黄段子，没有一个角色有很强的场面张力。电索此时几乎成了还不如惩罚者的普通小兵，角色算是彻底塌了。而原本作为“反英雄”的内涵卖点，其实只停留在嘴炮上，实则价值观就是最土的惩恶扬善。"
+    },
+    {
+      "user": "开膛手菲欧娜",
+      "avatar": "https://img3.doubanio.com/icon/u2829500-31.jpg",
+      "content": "Deadpool真的是吐的一手好槽！“You’re so dark, are you sure you’re not from DC.” 哈哈哈哈哈哈哈哈。"
+    },
+    {
+      "user": "伪装的甘党",
+      "avatar": "https://img3.doubanio.com/icon/u2700292-5.jpg",
+      "content": "一波超密集梗正向你袭来"
+    },
+    {
+      "user": "Xaviera",
+      "avatar": "https://img3.doubanio.com/icon/u48953772-16.jpg",
+      "content": "I love it."
+    },
+    {
+      "user": "Nanccccccy",
+      "avatar": "https://img3.doubanio.com/icon/u34245713-130.jpg",
+      "content": "这部的笑话像是pop culture referencing bingo game. 如果DDP1是现在的SNL, 那DDP2就是09-12 era SNL."
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "延续了上一部风格的合格的爆米花......有没有人在乎一下那几个登场即挂的变异人"
+    },
+    {
+      "user": "Sidney",
+      "avatar": "https://img1.doubanio.com/icon/u83192271-17.jpg",
+      "content": "不是所有F开头的词都是脏话，比如：Family。"
+    },
+    {
+      "user": "中堂的世界",
+      "avatar": "https://img3.doubanio.com/icon/u66168101-13.jpg",
+      "content": "别出第三部了，打嘴炮或许是一种人设，但总这样，其实很容易审美疲劳。看到很多评论，兴奋点在于不停地找彩蛋和梗，不断说死侍这个超级英雄的特别，但想起刘德华在《狄仁杰之通天帝国》对刘嘉玲饰演的武则天所说的“新的东西早晚有一天也会变旧的”，如果还是这种画风，一部作品就够了。"
+    },
+    {
+      "user": "比多",
+      "avatar": "https://img1.doubanio.com/icon/u1083069-68.jpg",
+      "content": "嘴碎不是幽默。"
+    },
+    {
+      "user": "小油飞",
+      "avatar": "https://img3.doubanio.com/icon/u1918202-5.jpg",
+      "content": "梗太多了超级好笑，故事怎样都无所谓啦。有点担心转到迪士尼旗下之后还能不能这么黄暴……"
+    },
+    {
+      "user": "更深的白色",
+      "avatar": "https://img3.doubanio.com/icon/u2224434-10.jpg",
+      "content": "是一部“主要看气质”的电影，非常丧心病狂密集地进入超级英雄吐槽语境而不是叙事语境，死侍应该给所有漫威DC片录个评论音轨。超英的媒介自反撇开了所有类型元素，有一种身体炸碎然后长出幼嫩小腿腿的奇异快感。"
+    },
+    {
+      "user": "无趣",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "热热闹闹，煽情热血，打斗搞笑，精彩爆米花杀时间调心情之作！"
+    },
+    {
+      "user": "品客",
+      "avatar": "https://img3.doubanio.com/icon/u1562273-545.jpg",
+      "content": "这样看下来，我爱我家并不是一个糟糕的名字。"
+    },
+    {
+      "user": "水浒三国金刚",
+      "avatar": "https://img3.doubanio.com/icon/u3322566-2.jpg",
+      "content": "马特达蒙那段笑喷了"
+    },
+    {
+      "user": "老KK影",
+      "avatar": "https://img3.doubanio.com/icon/u1075853-2.jpg",
+      "content": "尽管看过R级版，也看过至贱未分级的134分R级版，尽管这场比正式公映提前一天的点映似乎是一次事先张扬的阉割体验，但实际的观影效果却出乎意料的好，新加的消音梗儿挺好玩的！ 能在猪年十天之前看这样一部既熟悉又陌生、有点酷、笑点密集的漫威电影，而且还是难得的2D！就连在大银幕上没看到的贱贱一分为二，也都是稀罕的缺憾美了，呵呵，看贱贱电影就得有点儿贱精神才衬！ 其实这不是什么阉割版，而是一部独立的《死侍2》版本，不要带着固有的R级眼镜看这部PG13合家欢电影。所谓的全新30分钟镜头，其实是。。。就不剧透了，反正不是新的特效和动作场面，也不是在高压电线上闪过的皮特现身加了戏码。。。 剧透可耻！期待贱贱3！！"
+    },
+    {
+      "user": "弱水",
+      "avatar": "https://img3.doubanio.com/icon/u2753157-16.jpg",
+      "content": "你港優先場！笑到內傷！尼瑪最開始這音樂盒出週邊不！最後這爆頭彩蛋！覺得比第一部好看，第一部雖有嘴賤，但劇情狗血套路；這部情節不那麼老土，形式更自由，片頭開始放飛自我。這種反超級英雄主義的超級英雄片，我本期待從自殺小隊電影裡看到，奈何啊恨鐵不成鋼，無怪韋德要問，你是dc宇宙來的吧？"
+    },
+    {
+      "user": "赱馬觀♣",
+      "avatar": "https://img3.doubanio.com/icon/u2101822-90.jpg",
+      "content": "想起功夫。“再给年轻人一次机会”，不就是混混阿星在猪笼寨的遭遇？粉碎通身筋骨反成绝世高手，也约近于死侍的死缠烂打总是赢家。不过，好莱坞的特长是把传奇虚构讲述得更写实深刻（魔戒、X战警），而非更具风格。风格曾为港影所长。拥有无厘头和癫狂演法的喜专团队，无需向死侍那样必须嵌入各种手段（贯口、浑黄、调侃式致敬、导评式画外音，打破四面墙）以帮助非喜剧演员的雷诺兹布诺林们去拟造一种喜感。"
+    },
+    {
+      "user": "肥嘟嘟左卫门",
+      "avatar": "https://img1.doubanio.com/icon/u2411826-9.jpg",
+      "content": "比第一集好看啊。打开了不少新世界大门，比如，Anal Bleaching Party"
+    }
+  ]
+}

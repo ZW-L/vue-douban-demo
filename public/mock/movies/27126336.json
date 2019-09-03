@@ -1,0 +1,1132 @@
+{
+  "title": "假面饭店",
+  "url": "https://movie.douban.com/subject/27126336/",
+  "rate": "6.9",
+  "id": "27126336",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531219578.jpg",
+  "info": [
+    "导演: 铃木雅之",
+    "编剧: 岡田道尚 / 东野圭吾",
+    "主演: 木村拓哉 / 长泽雅美 / 滨田岳 / 前田敦子 / 笹野高史 / 高岛政宏 / 菜菜绪 / 宇梶刚士 / 桥本爱实 / 田口浩正 / 胜地凉 / 生濑胜久 / 松隆子 / 小日向文世 / 梶原善 / 泉泽祐希 / 筱井英介 / 渡部笃郎 / 石川恋 / 东根作寿英 / 鹤见辰吾 / 石桥凌",
+    "类型: 剧情 / 悬疑 / 犯罪",
+    "官方网站: masquerade-hotel.jp",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "上映日期: 2019-01-18(日本)",
+    "片长: 133分钟",
+    "又名: 假面酒店 / The Masquerade Hotel"
+  ],
+  "desc": "刑警（木村拓哉）扮成服务生混入酒店，与酒店前台（长泽雅美 饰演）一起追查连续杀人事件的故事。鈴木雅之执导，预计2019年上映。",
+  "members": {
+    "director": {
+      "name": "铃木雅之 Masayuki Suzuki",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48718.jpg"
+    },
+    "cast": [
+      {
+        "name": "木村拓哉 Takuya Kimura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1365448692.55.jpg"
+      },
+      {
+        "name": "长泽雅美 Masami Nagasawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1483767998.76.jpg"
+      },
+      {
+        "name": "滨田岳 Gaku Hamada",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1443416938.9.jpg"
+      },
+      {
+        "name": "前田敦子 Atsuko Maeda",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50856.jpg"
+      },
+      {
+        "name": "笹野高史 Takashi Sasano",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4044.jpg"
+      },
+      {
+        "name": "高岛政宏 Masahiro Takashima",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30567.jpg"
+      },
+      {
+        "name": "菜菜绪 Nanao",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1437385158.7.jpg"
+      },
+      {
+        "name": "宇梶刚士 Takashi Ukaji",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8432.jpg"
+      },
+      {
+        "name": "桥本爱实 Manami Hashimoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36983.jpg"
+      },
+      {
+        "name": "田口浩正 Hiromasa Taguchi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30513.jpg"
+      },
+      {
+        "name": "胜地凉 Ryo Katsuji",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1362812468.03.jpg"
+      },
+      {
+        "name": "生濑胜久 Katsuhisa Namase",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1409417275.4.jpg"
+      },
+      {
+        "name": "松隆子 Takako Matsu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46156.jpg"
+      },
+      {
+        "name": "小日向文世 Fumiyo Kohinata",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1397500109.13.jpg"
+      },
+      {
+        "name": "梶原善 Zen Kajiwara",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p33407.jpg"
+      },
+      {
+        "name": "泉泽祐希 Yuki Izumisawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506179491.3.jpg"
+      },
+      {
+        "name": "筱井英介 Eisuke Sasai",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38099.jpg"
+      },
+      {
+        "name": "渡部笃郎 Atsuro Watabe",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38831.jpg"
+      },
+      {
+        "name": "石川恋 Ren Ishikawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1438005133.01.jpg"
+      },
+      {
+        "name": "东根作寿英 Toshihide Tonesaku",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p47843.jpg"
+      },
+      {
+        "name": "鹤见辰吾 Shingo Tsurumi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8553.jpg"
+      },
+      {
+        "name": "石桥凌 Ryo Ishibashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1556826593.65.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2544970211.jpg?",
+        "src": "http://vt1.doubanio.com/201908311229/092d75b9fd5f3107cc8b89cec295a2da/view/movie/M/402410770.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2542499232.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2544557808.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2542499233.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2545773881.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "寺。",
+      "avatar": "https://img3.doubanio.com/icon/u2078214-105.jpg",
+      "content": "特别好！小伙伴问哪儿好，当然是演员、摄影、配乐、故事都好啦XD 半年之内能看到两部木拓主演的电影简直太幸福！btw，找了半天都没看到鱼叔的镜头啊。。。"
+    },
+    {
+      "user": "小林竹道",
+      "avatar": "https://img3.doubanio.com/icon/u2222899-70.jpg",
+      "content": "看完之后的第一感想是：明石家さんまどこに出てたの？"
+    },
+    {
+      "user": "Leslie",
+      "avatar": "https://img3.doubanio.com/icon/u3655039-140.jpg",
+      "content": "浪费卡司的典范，剧情十分莫名其妙。我从影院出来十分钟还是满脸黑人问号。"
+    },
+    {
+      "user": "闪电标",
+      "avatar": "https://img3.doubanio.com/icon/u45853913-4.jpg",
+      "content": "老婆可爱。\r没读过原作，万万没想到东野写故事的能力已经退化成这样了。完全是柯南式的剧情。警察不会查通讯记录，在明知犯人在屋内的情况下还敲门。\r真相大白之后的片尾十分钟完全多余。这个片段里的小日向更是画蛇添足。\r松隆子尽力了。"
+    },
+    {
+      "user": "judyisland",
+      "avatar": "https://img3.doubanio.com/icon/u2229006-4.jpg",
+      "content": "愉快有趣又值得回味 | 麻酱和阿松对手戏的表演看着也太享受 | OST赞 | 很「木村拓哉」又不那么木村拓哉"
+    },
+    {
+      "user": "燃え寸前*",
+      "avatar": "https://img3.doubanio.com/icon/u2837315-264.jpg",
+      "content": "比起探案，大酒店里不成文的规矩，工作人员和客人之间的斗智斗勇更有意思。大神演的刑警角色很带感，举手投足都符合剧本紧张的气氛。感觉这个设定在游轮上也是可以有的？结局让人意想不到，犯人演得太好以后都让他演坏人吧お願い！"
+    },
+    {
+      "user": "当歌共衔杯",
+      "avatar": "https://img3.doubanio.com/icon/u132642985-14.jpg",
+      "content": "配乐很好听 故事一般 当做休闲娱乐观赏还算合格\n电影放完后面两个日本小哥在感慨长泽雅美好可爱 木村拓哉已经是大叔了 松隆子已经是大妈了 我心里默默翻了个白眼 等你们变老的时候应该比他们丑十倍吧\n"
+    },
+    {
+      "user": "efuchan",
+      "avatar": "https://img3.doubanio.com/icon/u49384148-953.jpg",
+      "content": "卡司炸裂了，卡司真的炸裂了，能看到麻酱和キムタク的合作主演觉得活着真好，不敢对剧情有更多奢求了。就故事而言我觉得更适合电视剧，单元剧一集讲述一位客人的故事不会太赶，最后用主线的连环杀人事件串联即可。（另你敦和勝地涼同时出演还是结婚剧情我看这恩爱秀的可以"
+    },
+    {
+      "user": "晴蘭",
+      "avatar": "https://img3.doubanio.com/icon/u3483595-21.jpg",
+      "content": "服务业的“正经”“严肃”“信任”与警察们的“散漫”“随意”“怀疑”形成了最鲜明的戏剧冲突，其中是含有东野圭吾对此的思考的。木村和长泽的对手戏锦上添花，不当成刑侦推理题材来看的话，总体是很有趣的一部电影，甚至带有些三谷幸喜般喜剧的味道。好几处情节都让人忍俊不禁，如果是熟悉或者从事日式相关行业的人应该更能get到其中的点。"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "刑警当服务员的设定很棒，但展开过于散落，外加BGM铺到满，几乎全程灾难。主要还是这本书不适合被电影化，更适合被单元剧化，主线情节聚焦太成问题了，差点沦为日本酒店服务文化宣传片。"
+    },
+    {
+      "user": "影毒肥佬",
+      "avatar": "https://img3.doubanio.com/icon/u69880425-2.jpg",
+      "content": "那個揭穿并能救女主的小道具-紙鎮還是能完成她的使命,  以及顯示旅館獨有文化.  仲有找老公離婚那個橋段都係特別賓館的.  行兇動機都係好客棧嘅, 配合龍門客棧都知特兇險.  旅舌要戴假面也係天然地幫兇手掩飾, 東野橋段好睇就在於兇手有易容術,  酒店行兇更方便, 唔怕成屋差人都可以落手,  而非連續殺人扮連殺也係滿大街連殺小說後清新處理.  電影如何與書分開, 導演想到就是演員關係,  長澤剛做的是大騙子,  木村隆子係國民愛侶,  前田已是勝地敦子,  渡部名作是神經探長,  抓勝地那場都妙用鏡子暗示他是兇手的鏡像.  生瀨難為木村,  特寫拳頭, 全場觀眾笑了出來, 生瀨說的正是, 點解你唔打我....... 戲內暗示上頭不滿木村, 他不是生瀨口中的成功人士,被派在次等位置,要老油條管住,反而他換上假面,油頭粉面就成功,變相將了木村最神之檢官形象的一軍...."
+    },
+    {
+      "user": "SleepWalker",
+      "avatar": "https://img3.doubanio.com/icon/u44564069-12.jpg",
+      "content": "BJIFF. 7.本届北影节只排一场的电影有两部，此片即其一，抢票难度不输其他热门片。铃木雅之映后交流。导演确实经验丰富，平行蒙太奇玩得溜，镇纸时钟等细节铺得足，整体节奏也顺。但这个故事确实更适合拍成剧，各个小故事都可以延展成为不俗的单集，融在两个小时里确实过于满当且使主线偏离；还有配乐虽然很好但也太腻了吧。木村拓哉、长泽雅美和东野圭吾就是此片具备超强吸引力的主因，除了化学反应良好的双主演，其余演员也是全明星配置，尤其是真凶的演员一出来，恍如隔世，瞬间就想起ta的那部著名日影，你不演谁演！PS.片尾长泽红裙假面美爆我特么吹爆！"
+    },
+    {
+      "user": "遊۞",
+      "avatar": "https://img3.doubanio.com/icon/u35079232-81.jpg",
+      "content": "我应该在去电影院之前看一下原著书籍的评分。。那么我就不会去电影院浪费这个钱了。。节奏不太好，尿点还是蛮多的，推理薄弱，随便破破案、谈谈恋爱，结尾几分钟莫名其妙画蛇添足。。。"
+    },
+    {
+      "user": "ぐだぐだ",
+      "avatar": "https://img3.doubanio.com/icon/u1825319-252.jpg",
+      "content": "1.一千种松隆子，一千种木村拓哉 2.甜心就算眼角长鱼尾纹也是那个最美的甜心！3.…觉得眼熟还真的是夜更かし那个露腿小姐姐啊笑死 4.……秋刀鱼到底特么出现在哪儿啊？！5.还好没对东野圭吾抱有太高期待。"
+    },
+    {
+      "user": "桃子",
+      "avatar": "https://img3.doubanio.com/icon/u1044635-42.jpg",
+      "content": "角色关系设置挺有意思。但这个原著应该需要更用心的改编才是，尤其是主线，不然会显得像单元剧大拼盘。另外，酒店logo即使有隐喻和提示情节的作用，也似乎露出次数过多了。还有在某些段落很明显过于煽情的BGM。木村拓哉的帅都在不经意间，长泽雅美的表演也依旧精准，两个如此有吸引力的主角同时出现在一个画面里时，会觉得眼睛有些不够用。/“饭店员工即使想象着客人的真实面貌，也绝不能摘下那个面具。在某种意义上，客人是为了享受假面舞会，才来到饭店的。“ （“客人也获得了一时的自由。”）/木村拓哉最后那个鞠躬好可爱～！"
+    },
+    {
+      "user": "(눈_눈)",
+      "avatar": "https://img1.doubanio.com/icon/u41169948-118.jpg",
+      "content": "190419北京电影节 比较尊重原著吧 音乐不错 悬疑感算不错 大酒店的转场很多有点想起布达佩斯大饭店 不过小故事间联系不太强感觉有点美中不足 另外坐在第一排脖子要断了..."
+    },
+    {
+      "user": "huyouyou",
+      "avatar": "https://img3.doubanio.com/icon/u1439441-31.jpg",
+      "content": "既然是一组数字减去作案日期，则是作案地点的经纬度。那么，在不知道哪一天是作案日期的前提下，警察是怎么推算出饭店的经纬度就是下一个作案地点？#20190826"
+    },
+    {
+      "user": "林原惠美",
+      "avatar": "https://img3.doubanio.com/icon/u170364562-4.jpg",
+      "content": "今天电影在日本上映啦，期待麻酱的精彩表现(≧∇≦)/"
+    },
+    {
+      "user": "ekling",
+      "avatar": "https://img3.doubanio.com/icon/u1061468-3.jpg",
+      "content": "摄影棚里造出来的酒店大堂确实厉害 背景音乐应该挺花钱的 也许10集电视连续剧更对得起这配置"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "九十度弯腰致歉，六十度嘴角上扬，顾客来到酒店参加假面舞会，我们便配合表演共襄虚假盛举。这酒店可以弥合夫妻误会，师生怨怼，绝对保护住客不被骚扰，绝不透露住客房间号，带着假面的人却能利用正义的规矩行不义之事。酒店大门如同隔离善恶的屏障，走出这道门请一路珍重，从此人生险恶，再无法保护。"
+    },
+    {
+      "user": "大奇特(Grinch)",
+      "avatar": "https://img3.doubanio.com/icon/u1074463-104.jpg",
+      "content": "前面怀疑各个顾客有些跑题，拍成单元剧岂不更好？每个顾客一集。某人妆化、表演失败，如果能有《控方证人》里玛琳.黛德丽扮老太太的三成功力，我也不能轻易看出破绽。"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "客串的明星真多啊！中间各种熟面孔。片子就普普通通吧，中间加了一堆温情正能量行业暖意之类的元素，也是非常无趣了。这片最大的问题是，让那谁出演关键角色，但是再怎么化妆，也很轻易就认出来啊，太破梗了，当年爱看日剧的，应该也会对这组合无限唏嘘吧。以及，长泽雅美结尾的红裙子好美。"
+    },
+    {
+      "user": "vivi",
+      "avatar": "https://img3.doubanio.com/icon/u2129993-253.jpg",
+      "content": "3.5 这种假鸡汤真悬疑，让人好容易就卸下防备，沉醉于所谓的酒店人职守之中。木村拓哉油腻得像刘德华。"
+    },
+    {
+      "user": "杨浦小囡",
+      "avatar": "https://img3.doubanio.com/icon/u156617867-24.jpg",
+      "content": "看的我是昏昏欲睡，剧情缺乏戏剧性，转折性，使得请了这么多演员，俨然成了大型的走秀现场，结局意料之中，毫无惊喜，失望透顶"
+    },
+    {
+      "user": "枫蓝如水",
+      "avatar": "https://img3.doubanio.com/icon/u1752075-2.jpg",
+      "content": "虽然人情味浓厚部分都要翻白眼了，也有些槽点，但是啊......松隆子和甜心和大神的对戏……死死抓着外套都起鸡皮疙瘩了。而全场有好几处非常棒的背影戏，尤其大神和甜心达成共鸣时，漫长寂静地完全用背影来表达，作为个背影控，真的是啊啊啊啊啊啊啊铃木监督还是爱您！TAT"
+    },
+    {
+      "user": "arrcmis",
+      "avatar": "https://img3.doubanio.com/icon/u1540469-1.jpg",
+      "content": "标准悬疑剧，长泽雅美和木村拓哉的双主演，在日本电影院看完了，感觉有点日式主旋律，非要提升到刑警理解酒店人的水平上去，拔高有点厉害…另外看的出来，导演对画面很有要求，总是再搞各种对称，不知道是不是因为在电影院里看，对这个还是能感觉的出来～"
+    },
+    {
+      "user": "9 Crimes",
+      "avatar": "https://img1.doubanio.com/icon/u60102717-18.jpg",
+      "content": "等着在正片里找Mr. S呢.这是酒店人宣传片吧？？Watabe帅帅帅！老鱼这个潇洒的背影哈哈哈哈哈！"
+    },
+    {
+      "user": "肥嘟嘟左卫门",
+      "avatar": "https://img1.doubanio.com/icon/u2411826-9.jpg",
+      "content": "为了平衡两主角所代表的两行业的分量，强行加入了很多酒店业内容。所有人物都出于奇怪的小动机而产生非常偏执夸张的行为，按照标准说法叫中二，按常人说法叫莫名其妙，按根本说法叫这就是影视作品里的日本人。镜头也有些日本动漫特色，结尾又臭又长。"
+    },
+    {
+      "user": "谋杀游戏机",
+      "avatar": "https://img1.doubanio.com/icon/u10969301-317.jpg",
+      "content": "整个故事都是建立在日本文化上，比如职业精神、匠人精神，还有真正视顾客为上帝的服务意识，在日本酒店感受过，确实很了不起。文化语境不同，中国估计就没法翻拍了。铃木雅之导演在现场透露，集齐这么多大牌很不容易，有的演员其实根本就不在场（看来也是抠像巨星了哈哈）。背景音乐铺太满了有些受不了，从头到尾宏大激昂，推理还是典型东野圭吾吧"
+    },
+    {
+      "user": "KLY",
+      "avatar": "https://img3.doubanio.com/icon/u110726594-3.jpg",
+      "content": "17/3/2019 @ Elements。簡單來說就是一個麻煩客人所引發的連環兇殺案，然而全片出來的感覺就在看一部預算較高的日劇SP....\n"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "2.5；绝对拍成剧集更合适，频频出现的干扰旁支冲淡悬疑色彩，中段过后几乎忘记破案的存在，满脑酒店行规了……推理过程几乎等于零，要拍酒店故事就好好拍嘛，这年头推理门槛太低，和谁都能捆绑，浪费一个容易发展故事的好空间。"
+    },
+    {
+      "user": "DINGAYIN",
+      "avatar": "https://img3.doubanio.com/icon/u55943262-2.jpg",
+      "content": "一切都太工整的感覺，完全忘了這是一部電影。"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "3.5。"
+    },
+    {
+      "user": "鬼腳七",
+      "avatar": "https://img1.doubanio.com/icon/u4278255-117.jpg",
+      "content": "这真是个日剧的拍法啊，剧本拿出来分分钟能给富士台拍一个黄金档。当然卡司很好看，大神和麻酱表现合格，但是除了这些就没啥了"
+    },
+    {
+      "user": "Rhodesia",
+      "avatar": "https://img3.doubanio.com/icon/u2697640-72.jpg",
+      "content": "灌鸡汤兑水，看个热闹差不多。长泽和小日向一聚首我就想召唤东出…"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "完全就是一部2小时加长sp的水平，除了构图和摄影尚可，其他方面简直大型灾难现场。群戏编排一般，支线乱七八糟，节奏温吞似水，推理昏昏欲睡，很多剧情都是废的完全没必要拖这么长。只有卡司是真的豪华，平均每几分钟就能看到一个熟脸打酱油。松隆子的演技的确精湛，导演要是在化妆上再多下下功夫就好了，太容易被认出来了。"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "无药可救的东野圭吾式肥皂剧，案件雷声大雨点小，推理牵强漏洞百出，大部分时间都是无聊的山寨版《有顶天酒店》，就像在看一部机械的酒店服务教材，整体上就是一集40几分钟的日剧中穿插了几个10分钟左右的单元故事，还有，松隆子的客串非常谜。"
+    },
+    {
+      "user": "时间之葬",
+      "avatar": "https://img1.doubanio.com/icon/u2126832-179.jpg",
+      "content": "音乐铺得太满，收尾画蛇添足，那些职业化的鸡汤式煽情，即便放在日本的语境下也未免虚饰了一点。当然，最令人无法接受的，还是这个强行复杂的杀人手法，以及松隆子现在俨然要被定性为“年纪大了被人抛弃”的中年怨妇了"
+    },
+    {
+      "user": "bebebebebu",
+      "avatar": "https://img3.doubanio.com/icon/u68013360-10.jpg",
+      "content": "其實是有3.5星，就是很標準的月九，讓松隆子演長倉麻貴，先有病地跟長澤搞百合，再讓路人木拓（X）新田（O）大動作地制服她，各種惡意滿點ww 大眾期待的王道木拓，各種規矩公整的故事及拍攝，唯一問題（？）是鈴木雅之走火入魔的「我在拍電影」（但其實仍是日劇）的運鏡，但觀眾應該不會介意的。"
+    },
+    {
+      "user": "申由己",
+      "avatar": "https://img1.doubanio.com/icon/u4134449-17.jpg",
+      "content": "要不是木村拓哉和长泽雅美，这片真的是没啥看点，哪有什么悬疑，犯罪，根本就是饭店安全工作宣讲。这个故事告诉我们一件事：酒店实名制非常重要！"
+    },
+    {
+      "user": "陶者无缰",
+      "avatar": "https://img1.doubanio.com/icon/u28302780-7.jpg",
+      "content": "擔憂成為現實，靠支線暗暗織網的本子確實不好改。栗原老師那條線很感人，現在成了雞肋，雖然已經動用生瀨勝久這種咖位的來演。BGM好像本來要去金色大廳，結果入錯場。"
+    },
+    {
+      "user": "Joe",
+      "avatar": "https://img3.doubanio.com/icon/u53997661-2.jpg",
+      "content": "2019/3/18（日）19：40 mld"
+    },
+    {
+      "user": "汪金卫",
+      "avatar": "https://img3.doubanio.com/icon/u4285566-30.jpg",
+      "content": "【北京电影节展映】中规中矩商业片。布景美术极佳，酒店气息浓厚。配角客串都是闪耀的明星卡司。推理部分极为敷衍，诸多细节经不起推敲。某人的老年妆很好认。酒店各种奇葩客人有种情绪过满的谜之尴尬，大灌鸡汤的同时也冲淡了悬疑色彩。片尾拖沓冗长，不如拍成日剧。相比打个电话一拍脑门的破案方式，给观众留下深刻印象的反而是日本酒店服务业全心全意敬业、极致细心地为客人着想的匠人精神。让人敬佩的同时很想去体验一把。两星半"
+    },
+    {
+      "user": "某J。624",
+      "avatar": "https://img1.doubanio.com/icon/u2223174-29.jpg",
+      "content": "超强卡司阵容版霓虹酒店宣传片。大神绑了松隆子跟长泽雅美谈恋爱23333"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "主演配置牛，故事配不上演技了！！"
+    },
+    {
+      "user": "一碗云吞",
+      "avatar": "https://img3.doubanio.com/icon/u1349428-10.jpg",
+      "content": "又拖又有bug。。。亏得这么些卡司顶着。。。看着松隆子和木村我又想起了恋爱世纪，真是岁月不饶人啊。。。。"
+    },
+    {
+      "user": "乱世浮生",
+      "avatar": "https://img1.doubanio.com/icon/u35828184-8.jpg",
+      "content": "@premiere elements 腻味的配乐 腻味的演技 腻味的情节 和腻味的东野圭吾交相辉映 意味不明的对称美学是只为了致敬么 不如老老实实拍个酒店赞歌 50分电影 白瞎了豪华阵容扣分"
+    },
+    {
+      "user": "高级动物",
+      "avatar": "https://img3.doubanio.com/icon/u80610688-664.jpg",
+      "content": "除了脸简直一无是处"
+    },
+    {
+      "user": "即小墨",
+      "avatar": "https://img1.doubanio.com/icon/u1554412-79.jpg",
+      "content": "卡司豪华 剧情平庸"
+    },
+    {
+      "user": "Woodring",
+      "avatar": "https://img3.doubanio.com/icon/u2109169-21.jpg",
+      "content": "比想象的好看，大概因为都是认识的人，或者我对木拓真的有滤镜~看到大神为了长泽冷漠地看着松隆子，伤心，噗~新娘是敦子，胜地凉一出来，忍不住笑了起来~"
+    },
+    {
+      "user": "Articuno",
+      "avatar": "https://img3.doubanio.com/icon/u46603364-12.jpg",
+      "content": "真像大白后10分钟应该是为了引出下一集、刚去书店看到这系列有两本、第二季就有面具舞会和假面这种故事。请别因为这个否定电影"
+    },
+    {
+      "user": "AMY",
+      "avatar": "https://img3.doubanio.com/icon/u2870538-11.jpg",
+      "content": "啊男神虽然老了可是依旧很帅，在国航飞机上看的，日式奇幻风格陪我度过了两小时的完美时光。"
+    },
+    {
+      "user": "小煤煤球",
+      "avatar": "https://img3.doubanio.com/icon/u4698636-15.jpg",
+      "content": "为了麻酱去看的。电影真的难看……我连吐槽都懒得吐了"
+    },
+    {
+      "user": "很好很会吃米",
+      "avatar": "https://img1.doubanio.com/icon/u51085162-18.jpg",
+      "content": "松隆子简直是开卷送分题…… 太几把臭长了，而我却只想看美人谈恋爱罢辽。东野还是那个无趣魁梧"
+    },
+    {
+      "user": "阿稚",
+      "avatar": "https://img1.doubanio.com/icon/u2616980-29.jpg",
+      "content": "全明星阵容也撑不起的无趣剧本"
+    },
+    {
+      "user": "空",
+      "avatar": "https://img3.doubanio.com/icon/u35539574-52.jpg",
+      "content": "对于书店畅销展台毒瘤我起码能写三天吐槽这部分先按下不表 各种宣扬日本酒店文化的暖心素材一锅端 小火慢炖过半后终于想起主要任务 配乐急不可耐倾泻出屏幕砸向观众“快醒一醒我们要搞事情了” 这时某知名客串掀开了真面目 强烈建议联动「来る」 能有奇效wink @太古城"
+    },
+    {
+      "user": "五色全味",
+      "avatar": "https://img1.doubanio.com/icon/u1380001-9.jpg",
+      "content": "為了雅美老婆努力看完了一出酒店宣傳雞湯片"
+    },
+    {
+      "user": "小柚子×旅行家",
+      "avatar": "https://img3.doubanio.com/icon/u2713839-116.jpg",
+      "content": "木村太帅了，以至于我可以忽略生硬的剧情。什么，你说这是东野圭吾的推理片？哦呵呵，是和柯南benchmark的么。"
+    },
+    {
+      "user": "公園仔",
+      "avatar": "https://img3.doubanio.com/icon/u1010013-11.jpg",
+      "content": "20190331 1640 GH Citywalk"
+    },
+    {
+      "user": "小J²",
+      "avatar": "https://img1.doubanio.com/icon/u37483485-8.jpg",
+      "content": "胜地凉和前田敦子夫妇梗有趣，其他就没啥了。"
+    },
+    {
+      "user": "哔呣咣啵の哸啐",
+      "avatar": "https://img3.doubanio.com/icon/u1310319-5.jpg",
+      "content": "@MOViE MOViE Cityplaza HK"
+    },
+    {
+      "user": "白牙尖",
+      "avatar": "https://img1.doubanio.com/icon/u33624857-28.jpg",
+      "content": "有几处刻意煽情和宏大配乐有点出戏。看到木村拓哉的泪沟和法令纹，感叹帅哥真的不经老，然而长泽雅美和松隆子倒是不太能看出岁月的痕迹。"
+    },
+    {
+      "user": "嘚嘚嘚嘚嘚",
+      "avatar": "https://img3.doubanio.com/icon/u48652163-31.jpg",
+      "content": "看睡着。推理薄弱，主线游离，节奏负分。"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "豪华卡司烂剧本，无关支线实在多。给“木松”及格分。"
+    },
+    {
+      "user": "口袋_肥力士",
+      "avatar": "https://img3.doubanio.com/icon/u1799837-855.jpg",
+      "content": "中间是有些拖沓但是结尾也圆回来了。卡司强大，我麻美如画。我松和我麻的画面美如画，木拓和我松的画面美如画。另外想说这部片BGM用的太过了。"
+    },
+    {
+      "user": "赛里斯的风筝",
+      "avatar": "https://img3.doubanio.com/icon/u56679873-5.jpg",
+      "content": "还好啦，真的是不如小说精彩，但是日本味非常足，虽然拍的是现代戏，但是日本的感觉还是很好的传达出来了。两位主演的年龄都比我想象的要大，所以一开始还是有点不适应的。好像从来没有看过木村拓哉的作品，第一次看，除了感觉他有点像刘德华以外也就没什么感觉了。长泽雅美我倒是喜欢的，从看《海街日记》开始。穿着bra出来，再套上上衣，这个镜头我反复回放了好几遍。一点都不色情，就觉得很美。感觉上这种美的不艳的演员才能长青呢。\n剧情就那样吧，读过小说以后再看一点都不紧张刺激了。不过这个配乐绝对是上乘之作，很服气。"
+    },
+    {
+      "user": "个别人",
+      "avatar": "https://img3.doubanio.com/icon/u45581073-26.jpg",
+      "content": "看了一个小时只get到一点：五星级酒店==傻逼聚集地"
+    },
+    {
+      "user": "joan.",
+      "avatar": "https://img1.doubanio.com/icon/u68080412-28.jpg",
+      "content": "套路和鏡頭很令人熟悉，中間開始有點不耐煩想看手錶，相比推理片覺得更像職場片。配樂好聽；由有點過份地chok的キムタク漸變成木村拓哉的新田浩介沒我想像中反感；抓住兇手一刻覺得「這才是現實啊」。"
+    },
+    {
+      "user": "Morning",
+      "avatar": "https://img3.doubanio.com/icon/u2557883-3.jpg",
+      "content": "案件与酒店业的铺排做得特别的差，鸡汤到俨然另一个解忧杂货铺，要说群星阵容其实还斗不过祈祷落幕时，顶多眼花缭乱。隔壁有轮到你了，别人说房门之内的故事互动感极强，而这个假面饭店真的就是在捏造而已。"
+    },
+    {
+      "user": "向日葵Liz",
+      "avatar": "https://img1.doubanio.com/icon/u33631555-27.jpg",
+      "content": "好无聊啊，但看木拓和长泽雅美对手戏就是开心呢"
+    },
+    {
+      "user": "素人冯",
+      "avatar": "https://img1.doubanio.com/icon/u53942573-8.jpg",
+      "content": "三星全看在雅美酱的面子。"
+    },
+    {
+      "user": "AKi",
+      "avatar": "https://img3.doubanio.com/icon/u1508694-430.jpg",
+      "content": "请戴好你们的“脸”尽情表演"
+    },
+    {
+      "user": "w2jmoe",
+      "avatar": "https://img3.doubanio.com/icon/u53224286-4.jpg",
+      "content": "... =。="
+    },
+    {
+      "user": "望仔滚去减肥",
+      "avatar": "https://img3.doubanio.com/icon/u1706338-90.jpg",
+      "content": "卡司炸裂！虽然言情君的剧情就还是…但看的就是卡司啊！大神麻酱松隆子同台太好看！"
+    },
+    {
+      "user": "雪小P",
+      "avatar": "https://img3.doubanio.com/icon/u52028198-3.jpg",
+      "content": "2019.02.25 ZART Cinecity 静岡\n\n前半段进展不错，后半段一直崩盘。好好的当警部辅不好吗为什么一定要学酒店管理！整部电影仿佛只有男女主和相棒在办案，其他人都在神游。大BOSS太好猜了(*¯︶¯*)"
+    },
+    {
+      "user": "Castor ⊿ ⊿ ⊿",
+      "avatar": "https://img1.doubanio.com/icon/u4541017-307.jpg",
+      "content": "有顶天假面，非常铃木雅之的明星大杂烩"
+    },
+    {
+      "user": "万户",
+      "avatar": "https://img3.doubanio.com/icon/u1215463-36.jpg",
+      "content": "狗屁的推理，尼玛一碗大鸡汤。\nmasami和木村感觉还是不太来戏啊，明明都让松隆子来演了。话说你们就是欺负松隆子……"
+    },
+    {
+      "user": "小林鳟",
+      "avatar": "https://img3.doubanio.com/icon/u48598074-963.jpg",
+      "content": "浴室注射play，请让我站1s邪教，木村拓哉真帅啊，又看到了麻酱招牌囧笑23333我相信原小说很好看，可拍的推理太弱了，日式演技也不怎么好23333"
+    },
+    {
+      "user": "马拉马拉尼罗鳄",
+      "avatar": "https://img3.doubanio.com/icon/u2361637-10.jpg",
+      "content": "我能理解那些打2星甚至以下观影者的感受。但是原著小说它就是这么冗杂和人为堆砌支线情节，要怪也得怪到东野圭吾头上。通过电影来呈现，还是及格的。大半夜看松隆子黑化还是吓了我一跳"
+    },
+    {
+      "user": "longer",
+      "avatar": "https://img3.doubanio.com/icon/u3225954-1.jpg",
+      "content": "有些客人真得罪不得，仇恨心太强。这部片纯粹看众星串场，顺便看木材查案。里头演得较出色的应属松隆子吧，眼神煞食。长泽雅美的造型总让人感觉像是又要出来行骗……谁叫酒店前台服务好得有点不真实。。"
+    },
+    {
+      "user": "皮革业",
+      "avatar": "https://img3.doubanio.com/icon/u1264081-15.jpg",
+      "content": "SP化大概是日本电影的绝症，跑马灯式的卡司给人感觉每个人都是来客串的，包括男女主角。另外，那个穿酒店的特效镜头感觉用了一百多遍，快烦死了。"
+    },
+    {
+      "user": "APTX-4869",
+      "avatar": "https://img3.doubanio.com/icon/u41640054-5.jpg",
+      "content": "节奏奇差的日本宾馆宣传片，最后看到东野是编剧就不奇怪了…不如改编电视剧，浪费了这卡司和这结局…看在麻酱和キムタク的脸上加一星"
+    },
+    {
+      "user": "Kowloon Tong",
+      "avatar": "https://img3.doubanio.com/icon/u2878256-120.jpg",
+      "content": "等了一年 美人们即便有了鱼尾纹和眼袋还依旧是美人们 "
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "作为推理片和悬疑片，这片绝对是不及格的，太太太无聊了...以至于看完了就一个感想，下次去日本旅游不全住民宿了，换酒店试试，这服务真的好。"
+    },
+    {
+      "user": "kiki204629",
+      "avatar": "https://img3.doubanio.com/icon/u1849663-13.jpg",
+      "content": "本格推理，故事推进中规中矩。麻酱和大神之间火花很多，不过松隆子一出现，我又脑补了律政英雄的桥段。大神各种造型都能驾驭，厉害了！"
+    },
+    {
+      "user": "甘丽卿",
+      "avatar": "https://img1.doubanio.com/icon/u2281601-47.jpg",
+      "content": "竟然在东京回程飞机上看完"
+    },
+    {
+      "user": "C^V^酱",
+      "avatar": "https://img3.doubanio.com/icon/u1158812-310.jpg",
+      "content": "其实小说写的就是那么散，拍成电视剧说不定会好点？松隆子是惊喜"
+    },
+    {
+      "user": "暖",
+      "avatar": "https://img3.doubanio.com/icon/u19615070-16.jpg",
+      "content": "特别日剧，长泽雅美美死啦。"
+    },
+    {
+      "user": "伯樵·阿苏勒",
+      "avatar": "https://img3.doubanio.com/icon/u1756440-11.jpg",
+      "content": "原来是东野圭吾的原作，难怪故事那么烂（除了《嫌疑人X的献身》还能有个稍微好点的故事么？）…两星是给Masami酱的绝世美颜滴！"
+    },
+    {
+      "user": "朝阳区妻夫木聪",
+      "avatar": "https://img1.doubanio.com/icon/u57750369-57.jpg",
+      "content": "有一个很唬人的背景架构，但是不久后就陷入了漫长无聊且毫无重点的铺垫，到最后就连仅有的一丝悬疑力度都丢掉了，导演在处理这个故事的时候感觉是同时在用电影的语言和电视剧的章节形式，所以观感就是很分裂。最主要的是，这个故事最后的力度和动机也实在是太弱了点，甚至都撑不起来前面漫长的背景架构。如果这是一集柯南剧场版，连环杀人案那种，配合各种房间秘密机关暗道还有饭店各种人物关系啊什么的，应该会很好看吧，毕竟酒店真的是一个很容易发生些什么的地方，但是这部片子里真的啥都没有。"
+    },
+    {
+      "user": "牛奶很忙",
+      "avatar": "https://img3.doubanio.com/icon/u67679988-4.jpg",
+      "content": "长泽雅美一直到最后才好看"
+    },
+    {
+      "user": "华盛顿樱桃树",
+      "avatar": "https://img3.doubanio.com/icon/u49213881-4.jpg",
+      "content": "悬念还算吸引人。两个小时目不转睛了。但最后你就给我看这个？故事本身令人大跌眼睛有些失望，最后十几分钟也非常多余。松隆子太惊喜。念在全程精神紧张的份上，勉强四星。"
+    },
+    {
+      "user": "Rocinante",
+      "avatar": "https://img3.doubanio.com/icon/u2099751-173.jpg",
+      "content": "BGM撑起了一半剧情，木村拓哉和长泽雅美的脸/制服撑起了另一半，松隆子真的很适合演神经病啊！"
+    },
+    {
+      "user": "lisa_daisy",
+      "avatar": "https://img3.doubanio.com/icon/u52427473-2.jpg",
+      "content": "果然好适合电影化，比前几部东野电影化的要好看多了~里面的一个个小案子最后还联系一个主线，因为看过小说所以犯人一出来我就知道了，我觉得改编的非常好，基本和原著一样~（除了婚礼那个案子稍微改了点）之前看小说就发出感叹，人在不知道什么时候就被别人怨恨上了~"
+    },
+    {
+      "user": "Eros噢",
+      "avatar": "https://img3.doubanio.com/icon/u48887677-10.jpg",
+      "content": "其实比较像单元剧"
+    },
+    {
+      "user": "oh la la",
+      "avatar": "https://img3.doubanio.com/icon/u2634610-21.jpg",
+      "content": "跳戏的节奏，刚开始穿越到《行骗天下JP》后面突转到《恋爱世纪》《hero》老中青日本演员齐力奉献一场假面舞会，就是以酒店为背景的情景剧真谈不上啥悬疑感觉要不是麻酱和木村拓哉演技撑着这片真会划水，监制就是电视剧的质感"
+    },
+    {
+      "user": "karenlin",
+      "avatar": "https://img3.doubanio.com/icon/u48666472-4.jpg",
+      "content": "3.5/5"
+    },
+    {
+      "user": "钱仔",
+      "avatar": "https://img1.doubanio.com/icon/u33061160-67.jpg",
+      "content": "まさみ真好看！音乐超棒，故事情节不要当推理侦探片去看还是很不错的，酒店的人间百态。"
+    },
+    {
+      "user": "中堂的世界",
+      "avatar": "https://img3.doubanio.com/icon/u66168101-13.jpg",
+      "content": "中规中矩，略有失望，更合适做成电视剧。前面铺垫的暖心故事虽然有巧思，但容易给人留下一种“狼来了”的感觉，最后都是正能量暖心案例，甚至更像酒店文化宣传片。集结了一堆卡司，却送上了长达2个多小时的平平无奇之作，结尾也真的够啰嗦了..."
+    },
+    {
+      "user": "suvenee",
+      "avatar": "https://img3.doubanio.com/icon/u50892584-15.jpg",
+      "content": "Ost挺棒的，剧情就一般般了，比较软弱无力。里面碗儿真多啊，厉害"
+    },
+    {
+      "user": "大魔王脆皮儿",
+      "avatar": "https://img3.doubanio.com/icon/u1048225-4.jpg",
+      "content": "还挺好看的，无烟房那点好真实啊！"
+    },
+    {
+      "user": "46562002",
+      "avatar": "https://img3.doubanio.com/icon/u135321160-3.jpg",
+      "content": "以酒店为背景的情景剧…\n非常不像电影的电影。\n其实比较一般。看在木村的面子，给多两星。"
+    },
+    {
+      "user": "は",
+      "avatar": "https://img1.doubanio.com/icon/u53322788-68.jpg",
+      "content": "太散了 主线又没啥意思 还是更适合连多吧 麻酱和小日向叔同框太跳戏了 总觉得下一秒就要开始骗人了www"
+    },
+    {
+      "user": "😕",
+      "avatar": "https://img3.doubanio.com/icon/u47042347-33.jpg",
+      "content": "姐姐们都好美哦 感觉是一个酒店宣传片 如果这个故事发生在其他国家可能不太可信 但如果设定在日本 就莫名其妙的让人信服呢"
+    },
+    {
+      "user": "∞",
+      "avatar": "https://img1.doubanio.com/icon/u3375192-18.jpg",
+      "content": "剧情没办法 本来就是东野圭吾拿来报销饭店账单的 不能让电影背锅……卡司场地bgm都算撑场面了，有些运镜让我想起布达佩斯大饭店 外加大神巨帅麻酱很美穿插明星客串梗 作为日本奥运前的服务宣传片是很合格了……"
+    },
+    {
+      "user": "紫霞小姐",
+      "avatar": "https://img3.doubanio.com/icon/u1997752-53.jpg",
+      "content": "哇，木村叔叔也太帅了吧！！！"
+    },
+    {
+      "user": "Vision",
+      "avatar": "https://img3.doubanio.com/icon/u51007365-4.jpg",
+      "content": "两人关系变化、部分故事情节、一些镜头细节什么的司空见惯"
+    },
+    {
+      "user": "SundanceKid🌈",
+      "avatar": "https://img3.doubanio.com/icon/u65864683-55.jpg",
+      "content": "竟然还能有职业剧的热血部分，也是服气，多谢照顾，多少有不忍跨出酒店大堂。警察体验角色，罪犯做扮演游戏，酒店环境没在悬疑设置上体现得更好。两位主演搭档倒是养眼，某人咖太大，出场即泄底了"
+    },
+    {
+      "user": "瓜。相信这个世界很变态。",
+      "avatar": "https://img3.doubanio.com/icon/u1425011-42.jpg",
+      "content": "推理的部分太少了，简直是情定大饭店一样，但是能看到我的麻酱还是很开心，emmmm木村拓哉和松隆子又一同共演了，只是组CP的换成了麻酱。"
+    },
+    {
+      "user": "otaku",
+      "avatar": "https://img3.doubanio.com/icon/u35778815-4.jpg",
+      "content": "覺得原著小說比較好看… 電影壓縮在2個多小時的篇幅內…很多內容無法展開… 近一兩年日影/日劇都有種被韓影/韓劇超車的感覺…"
+    },
+    {
+      "user": "马 夋",
+      "avatar": "https://img1.doubanio.com/icon/u30395883-29.jpg",
+      "content": "2.5 表白松隆子"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "看样子，木村大神还是和松隆子比较搭"
+    },
+    {
+      "user": "专程路过",
+      "avatar": "https://img3.doubanio.com/icon/u1328882-315.jpg",
+      "content": "社会型推理，重在用推理揭露社会。"
+    },
+    {
+      "user": "sean cheung",
+      "avatar": "https://img3.doubanio.com/icon/u2174918-16.jpg",
+      "content": "第一個不在場證據的破綻真的有點辱智，還要靠帶著友情的酒店前台來給警察靈感。整個警隊為這個大發現鬆了一口氣。中間加入的職人素質也很表面，除了敬業愛崗你還是要想點別的辦法。"
+    },
+    {
+      "user": "brandenburg",
+      "avatar": "https://img3.doubanio.com/icon/u159307133-3.jpg",
+      "content": "有些人必须明白一点，这里是电影页面，不是影人的个人主页，所以不要在这里讨论影人和该影片无关的角色以及这些角色的对比，也不要将你们狭隘、偏激的错误认知强加到影人身上，影人没必要始终保持和你们狭隘认知相同的某种形象，认为和电影内容相匹配的自然真实形象不好看的人，可以出门右转去享受满脸塑料垃圾填充物们。此外，某些人肮脏侮辱的话只能证明自己连条臭虫都不如，你们偏好的那几个，甚至连演员的资格都谈不上，假面这种大气庄重又疑雾重生的微妙氛围你们自家进来演怕是像耍猴——不对，猴子甚至都有演技，你们自家可没有，有的只是惺惺作态。"
+    },
+    {
+      "user": "平成8年",
+      "avatar": "https://img1.doubanio.com/icon/u38413976-828.jpg",
+      "content": "在霓虹做服务业真的每天都在被气死的路上，你永远不知道会有什么奇葩客人，还要依着他的无理取闹可劲儿道歉。不说也罢说起来能骂一下午还好老子不干了ps看到木村逮捕松隆子的时候有丝丝心碎，胜地凉被当作前田敦子的stk有点点好笑"
+    },
+    {
+      "user": "素问咩",
+      "avatar": "https://img3.doubanio.com/icon/u51843265-16.jpg",
+      "content": "松隆子还成意外惊喜了"
+    },
+    {
+      "user": "Le Papillon",
+      "avatar": "https://img3.doubanio.com/icon/u3070894-253.jpg",
+      "content": "卡司阵容强大"
+    },
+    {
+      "user": "亿次分身",
+      "avatar": "https://img1.doubanio.com/icon/u51257892-29.jpg",
+      "content": "真是部从各种意义上使力方向诡异的电影，搞不懂原著就有问题还是怎样，故事讲不清就算了，还乱给线索？电影的画面，场景设定，配乐与主线故事应该是相辅相成的，却出现信息混乱这种问题？无意义的情节一个接一个，强行解说人物设定却并不贴合。整部片子给我的感觉只有自满，炫技与铺张。想这么玩不如去拍个电视剧如何，搞成电影浪费我时间有病。这个阵容是唯一坚持我看下来的理由，也变成了让我觉得最他妈好笑的地方。"
+    },
+    {
+      "user": "raiNysoul",
+      "avatar": "https://img3.doubanio.com/icon/u109540553-1.jpg",
+      "content": "看完了想对着海报说 「客」じゃなくて「お客様」です "
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "两星半。中间扯这么多有的没的是在干嘛...东野圭吾确实快成霓虹电影界的“毒瘤”了。"
+    },
+    {
+      "user": "西桥",
+      "avatar": "https://img3.doubanio.com/icon/u4657391-15.jpg",
+      "content": "没看过原著，但是看到松隆子出场就在想如果是客串的话，成本也忒大了，果不其然剧情挺无聊的……幸好没买书。"
+    },
+    {
+      "user": "不吃青菜",
+      "avatar": "https://img3.doubanio.com/icon/u1363108-3.jpg",
+      "content": "时间有点乱，搞不清是几天内破的案。最后招待的那段有点多余。总体好看。不要小看服务业。松隆子演技厉害呀！"
+    },
+    {
+      "user": "临兵斗者",
+      "avatar": "https://img3.doubanio.com/icon/u2830852-12.jpg",
+      "content": "长泽雅美是大脸版的新垣结衣么？电影版太差劲了"
+    },
+    {
+      "user": "白川",
+      "avatar": "https://img3.doubanio.com/icon/u1587349-85.jpg",
+      "content": "还可以，但是演员阵容有点厉害。。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "本来以为是个推理片，实际上是日本酒店业的宣传片，要不是木村拓哉和长泽雅美，真看不下去。"
+    },
+    {
+      "user": "葛攀",
+      "avatar": "https://img1.doubanio.com/icon/u3987852-17.jpg",
+      "content": "前面三个小故事真的太难看了，节奏想快剪得快，但实际上慢到家了。再好听的配乐不断重复我都要被鬼畜了。但主线事件小结尾有稍微回来一丢丢。但总体还是不太行。"
+    },
+    {
+      "user": "阿的雷",
+      "avatar": "https://img3.doubanio.com/icon/u53710101-4.jpg",
+      "content": "青年演员和年长女前辈之间的恩怨，不觉得熟悉么？一个人跑五个房间，这是抄袭米国的个人英雄主义么？我只能呵呵了。最大亮点是木村。以及字幕后的彩蛋。以及这里是日本，真的很好的宾馆。日式观念精神的渗透"
+    },
+    {
+      "user": "去精神病院走走",
+      "avatar": "https://img3.doubanio.com/icon/u4723182-210.jpg",
+      "content": "2倍速+⏩观看都觉得慢，浪费卡司了"
+    },
+    {
+      "user": "sacrifice",
+      "avatar": "https://img3.doubanio.com/icon/u1657584-10.jpg",
+      "content": "很適合改編為舞臺劇的故事。三星與四星之門猶豫，最後給了三星：太公整了。"
+    },
+    {
+      "user": "天凉气清",
+      "avatar": "https://img3.doubanio.com/icon/u156675491-4.jpg",
+      "content": "卡司强大的平庸之作"
+    },
+    {
+      "user": "蒙奇D",
+      "avatar": "https://img3.doubanio.com/icon/u53550852-1.jpg",
+      "content": "有点失望，悬疑破案的部分太弱，更多的情节是酒店服务生的日常。知道凶手会去酒店作案，所以把大量的时间放在了排查凶手上面，每一个可疑的客人都有一段时间的剧情，然后发现不是他。导演是不是看太多柯南了，整体风格特别像柯南，配乐如果换成柯南配乐的话简直毫无违和感，整个一部柯南真人版电影。木村演的暴躁警察乔装当酒店服务员卧底多少有点意思，一开始排除的可疑人员最后真的是凶手这个反转也不错，麻酱可爱。"
+    },
+    {
+      "user": "MetalDudu",
+      "avatar": "https://img3.doubanio.com/icon/u1007826-45.jpg",
+      "content": "以为推理，实际上却是情感，畅销君不一般"
+    },
+    {
+      "user": "Zach",
+      "avatar": "https://img1.doubanio.com/icon/u2200021-7.jpg",
+      "content": "节奏太平淡了，浪费了这么好的演员和布景"
+    },
+    {
+      "user": "Hoppipolla",
+      "avatar": "https://img3.doubanio.com/icon/u38626371-5.jpg",
+      "content": "想拍出buddapest 大酒店的感觉 没想到过分做作 深度不够 有种为了深度而深度其实表达的特别肤浅 节奏感也没有布达佩斯大酒店来的紧凑，特别慢，很多长镜头没啥意义，。。最后快进看完。。。"
+    },
+    {
+      "user": "Jafe",
+      "avatar": "https://img3.doubanio.com/icon/u40932911-1.jpg",
+      "content": "很久之前看过原著，只记得进入酒店查犯人的大概，所以不妨碍当未知者观看此片。电影里面的日本社会（也许现实也是）总是让我们感觉有点无法理解，格格不入，但也正因此有他自己的风格。看的时候会想，改编电影和原著对比，是实体呈现的画面会比原著描写的好呢，还是不如文字有想象空间？这个可能得具体分析了。剧情的话，前面稍显多了一些，再讲道理的感觉。悬疑剧情，就稍微简单了点，不带头脑的话直接跟着画面走也是OK的。最后面长泽雅美换上白色裙子和红色裙子，感觉都很有气质。"
+    },
+    {
+      "user": "渊渊长草",
+      "avatar": "https://img1.doubanio.com/icon/u44996854-19.jpg",
+      "content": "虽然没有看懂，但我感觉他把故事讲完整了。两位主演皮肤都不算很好，为什么还要用这种油油的画风呢。"
+    },
+    {
+      "user": "郑乔尹",
+      "avatar": "https://img3.doubanio.com/icon/u37569562-15.jpg",
+      "content": "场面调度和演技都相当一般。"
+    },
+    {
+      "user": "枕 套 子",
+      "avatar": "https://img3.doubanio.com/icon/u1846748-4.jpg",
+      "content": "撑到最后只为鱼叔嗯【大雾"
+    },
+    {
+      "user": "精灵的梦想",
+      "avatar": "https://img3.doubanio.com/icon/u57032412-2.jpg",
+      "content": "老帅哥、熟女，他们搭档，真是养眼！"
+    },
+    {
+      "user": "𝚁𝚊𝚔𝚞𝚢𝚘𝚞",
+      "avatar": "https://img3.doubanio.com/icon/u62386259-72.jpg",
+      "content": "拍成剧应该会好一点吧…"
+    },
+    {
+      "user": "伪装的甘党",
+      "avatar": "https://img3.doubanio.com/icon/u2700292-5.jpg",
+      "content": "卡司优越，无法get东野圭吾"
+    },
+    {
+      "user": "Ricky",
+      "avatar": "https://img3.doubanio.com/icon/u41548655-26.jpg",
+      "content": "松隆子抱着雅美！awsl。真的都变成大爷大妈了。猜到了受害者没猜到凶手，不过回来想想导演还真是疯狂暗示，也算是常用的手法了。有点长，群像刻画一般，细节上还值得推敲"
+    },
+    {
+      "user": "全是奶",
+      "avatar": "https://img3.doubanio.com/icon/u40615109-2.jpg",
+      "content": "木村的角色让我想到说一个人去海底捞打工偷师，两个月后朋友问他怎么还没辞职，他说“我怎么能离开我的家人”，的段子。"
+    },
+    {
+      "user": "知心姐姐卢先生",
+      "avatar": "https://img3.doubanio.com/icon/u3774550-13.jpg",
+      "content": "松隆子演的角色中二到这种程度，我表示服气的。"
+    },
+    {
+      "user": "☀黑熊熊",
+      "avatar": "https://img3.doubanio.com/icon/u156045469-2.jpg",
+      "content": "有意思的电影，找到资源二刷"
+    },
+    {
+      "user": "周羽",
+      "avatar": "https://img3.doubanio.com/icon/u1062686-74.jpg",
+      "content": "一条主线串起几个小故事，让我和兔君大呼，“这尼玛是贺岁片吗？”虽然反转反转又反转，但总觉得在刻意表现温情，总之，我一开始就猜出了凶手！"
+    },
+    {
+      "user": "glen",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "漏洞百出的剧情，浪费这么多明星客串了。"
+    },
+    {
+      "user": "little smoke",
+      "avatar": "https://img3.doubanio.com/icon/u1384948-110.jpg",
+      "content": "飞机上看的 有点地方好恐怖"
+    },
+    {
+      "user": "YiQiao",
+      "avatar": "https://img3.doubanio.com/icon/u53689416-73.jpg",
+      "content": "卡司蒙蔽了我的双眼"
+    },
+    {
+      "user": "cst919",
+      "avatar": "https://img3.doubanio.com/icon/u50293215-2.jpg",
+      "content": "前面各种“暖心”小故事，最后想起来还要破案，完了，不过场景搭建还有演员阵容都还是相当不错的"
+    },
+    {
+      "user": "Doublebitch",
+      "avatar": "https://img3.doubanio.com/icon/u1917438-180.jpg",
+      "content": "麻酱＋石川恋，这样的酒店我可以住一辈子"
+    },
+    {
+      "user": "叶修的白玉堂",
+      "avatar": "https://img3.doubanio.com/icon/u148179414-16.jpg",
+      "content": "木村"
+    },
+    {
+      "user": "王不不留行",
+      "avatar": "https://img1.doubanio.com/icon/u3124601-207.jpg",
+      "content": "找了这么久竟然在飞机上看到了。木村拓哉拎包的样子真可爱啊哈哈哈哈！期待后续"
+    },
+    {
+      "user": "唐玉小业",
+      "avatar": "https://img1.doubanio.com/icon/u38252612-7.jpg",
+      "content": "故事本身一般，木村拓哉油腻了……"
+    },
+    {
+      "user": "暴力卡車",
+      "avatar": "https://img3.doubanio.com/icon/u1354596-93.jpg",
+      "content": "日本劉德華 x 日本袁咏儀"
+    },
+    {
+      "user": "一万年有多久",
+      "avatar": "https://img1.doubanio.com/icon/u41922369-8.jpg",
+      "content": "完美，配乐也是满分，希望国内上映再刷两遍"
+    },
+    {
+      "user": "黄载雄",
+      "avatar": "https://img3.doubanio.com/icon/u1632290-1.jpg",
+      "content": "0827 任时光匆匆流去 我只在乎你！今早和曾经的女神聊了一会，想起了很多往事，当年一起走过的那些辛酸苦辣的点点滴滴，如今都成了记忆里最珍贵的片段，就像手机里一直不舍得删掉的那些短信，哪怕再无聊的节日问候短信，都能让我会心一笑。就像这部电影，剧情没多大意思，但是看到喜欢的角色长泽雅美还是那么的甜美可人，还是忍不住痴痴的看完并很不理性的打了5星。因为今天是个美好的日子啊！"
+    },
+    {
+      "user": "青麦",
+      "avatar": "https://img3.doubanio.com/icon/u4096767-111.jpg",
+      "content": "光是这组卡司就可以给四星了。中间一堆搞笑的桥段，摄影手法也蛮喜欢的，剧情弱一些，可能省了很多小说中的描写和情节。"
+    },
+    {
+      "user": "复调工作室",
+      "avatar": "https://img3.doubanio.com/icon/u135082458-6.jpg",
+      "content": "台北观影008，感觉电影比原著小说要好啊，删减的部分让情节更紧凑，增加的几处细节也让故事更流畅、完整。另外，木村拓哉、长泽雅美好有cp感啊！"
+    },
+    {
+      "user": "晃悠",
+      "avatar": "https://img1.doubanio.com/icon/u1194379-9.jpg",
+      "content": "虽然有大神，可剧真是拖沓懒散啊"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u70293659-8.jpg",
+      "content": "豪华的卡司阵容 蹩脚的故事"
+    },
+    {
+      "user": "窗前月",
+      "avatar": "https://img3.doubanio.com/icon/u1202190-4.jpg",
+      "content": "原著党表示满意，只是少了看书时那种被混淆视听的悬疑感，略遗憾。而没看过原著的人恐怕也get不到其他那些无关的剧情和人物的意义。好在配角大腕云集如贺岁片，观影感受愉悦。"
+    },
+    {
+      "user": "ナギ",
+      "avatar": "https://img3.doubanio.com/icon/u53658176-103.jpg",
+      "content": "晕 设定也不是上世纪 一个通话记录查不了么 前面的客人部分虽然跟主线有点关系 但是好冗长 配乐也是满到腻 最后十来分钟更是莫名其妙 达子和理查德同时出现 我只能理解为新田警官要被骗钱了（虽然全是吐槽 但卡司华丽看得还算开心的"
+    },
+    {
+      "user": "顾毛毛",
+      "avatar": "https://img1.doubanio.com/icon/u140744824-8.jpg",
+      "content": "两大男神，两大女神联袂出演，不断抛出包袱，直到最后！日系的罪案，大多不是残忍犯罪，不会是那种过于暴力血腥的犯罪场景，多是精心布置的案情，有一种隐忍在里面…"
+    },
+    {
+      "user": "ergit",
+      "avatar": "https://img3.doubanio.com/icon/u57460299-5.jpg",
+      "content": "那位女演员的脸太好认了。。"
+    },
+    {
+      "user": "小疮子",
+      "avatar": "https://img3.doubanio.com/icon/u2278570-2.jpg",
+      "content": "还没看电影，但影评里发现有些人对作者创作的时间是以自己看的时间为准，以为自己是上一年看的书那作者就是上一年写的小说，服！东野圭吾早年就是写了很多本格推理的小说，而《假面山庄》是1990年的，但看得出是作者一直在摸索自己的手法，所以才有了15年后的《嫌疑人X》"
+    },
+    {
+      "user": "不留痕迹",
+      "avatar": "https://img3.doubanio.com/icon/u52744971-20.jpg",
+      "content": "基本是一出酒店宣传片，推理破案都是其次的"
+    },
+    {
+      "user": "Le Conquérant",
+      "avatar": "https://img1.doubanio.com/icon/u128396305-9.jpg",
+      "content": "长泽雅美演前台，容易窜戏啊，行骗天下啊。松隆子演什么都像，包括坏人"
+    },
+    {
+      "user": "arashi",
+      "avatar": "https://img3.doubanio.com/icon/u15024738-2.jpg",
+      "content": "意外地喜欢，配乐布景演员我都爱。。。"
+    },
+    {
+      "user": "冰皮企鹅",
+      "avatar": "https://img3.doubanio.com/icon/u60602301-3.jpg",
+      "content": "案子有太多牵强之处，与案情无关的剧情太多。木村还是一张自闭脸。松隆子下半张脸辨识度太高了，悬念减少99%。"
+    },
+    {
+      "user": "momo",
+      "avatar": "https://img3.doubanio.com/icon/u3956798-2.jpg",
+      "content": "跑去hk看了。我感觉电影有点太过冗长了。两个多小时有点闷。可能我看过原著。我感觉还是书比较好看。"
+    },
+    {
+      "user": "陈轮",
+      "avatar": "https://img3.doubanio.com/icon/u49673811-5.jpg",
+      "content": "其实原著就是本格外衣下的温情戏，电影就更是华丽有余，深度不足了，加上松隆子的老年妆真是一言难尽，破绽百出。。。不过故事本身嘛，还是有感情的，勉强给个四星吧"
+    },
+    {
+      "user": "张宝根",
+      "avatar": "https://img3.doubanio.com/icon/u60413211-16.jpg",
+      "content": "好吧，明星真多啊"
+    },
+    {
+      "user": "黑貓十一",
+      "avatar": "https://img3.doubanio.com/icon/u1576420-103.jpg",
+      "content": "日本才20个演员系列。非要搞成饭店好像马戏团，然而故事整体性还不如隔壁有顶天酒店啊！！！太碎了。这种被误解的连环杀人trick已经搞了一千两百次了吧。强行搞服务行业鸡汤的部分真的不需要……"
+    },
+    {
+      "user": "薑汁菠菜",
+      "avatar": "https://img3.doubanio.com/icon/u1167168-32.jpg",
+      "content": "女主很美 酒店真是個精彩的舞台"
+    },
+    {
+      "user": "埋酢浆草",
+      "avatar": "https://img3.doubanio.com/icon/u57828907-16.jpg",
+      "content": "比预想中好多了，讨厌木村演什么都是那副吊样，听了韩国人的推荐去看没想到演技还满自然的。剧情也很紧凑，没有什么尴尬的感人地方，最后的犯人也比较出人意料。唯一最后有点狗尾续貂，事件结束，鞠躬结束，就可以了。2019/1/26TOHOシネマズ日比谷 和卢琪看的"
+    },
+    {
+      "user": "小扣柴扉",
+      "avatar": "https://img3.doubanio.com/icon/u130687315-3.jpg",
+      "content": "除了绝对对称的摄影构图，剧情实在乏善可陈，浪费了这么好的演员。"
+    },
+    {
+      "user": "feelzero",
+      "avatar": "https://img3.doubanio.com/icon/u1886385-3.jpg",
+      "content": "casting"
+    },
+    {
+      "user": "Tajima",
+      "avatar": "https://img3.doubanio.com/icon/u4132931-32.jpg",
+      "content": "日本海岩的五星大饭店，很像日剧SP，卡司排序把凶手藏得挺有迷惑性，推理就……总体挺合家欢的。"
+    },
+    {
+      "user": "Hiemal January",
+      "avatar": "https://img1.doubanio.com/icon/u50029182-77.jpg",
+      "content": "後悔去看了。"
+    },
+    {
+      "user": "luzzz",
+      "avatar": "https://img3.doubanio.com/icon/u1545233-155.jpg",
+      "content": "我大神最后蹦蹦跳跳下台阶就是俏皮又风骚 故事啥的就忽略不计吧"
+    },
+    {
+      "user": "北极熊吃科学家",
+      "avatar": "https://img1.doubanio.com/icon/u2441909-47.jpg",
+      "content": "我这是看了神马。。。"
+    },
+    {
+      "user": "Tingalin",
+      "avatar": "https://img3.doubanio.com/icon/u66428065-52.jpg",
+      "content": "花了三周时间，在土耳其航空上看完了这部电影～ 卡司很喜欢，然而故事很一般啊"
+    },
+    {
+      "user": "ｙｏｋｏ",
+      "avatar": "https://img1.doubanio.com/icon/u142796332-8.jpg",
+      "content": "对不起睡着了。"
+    },
+    {
+      "user": "Summer",
+      "avatar": "https://img3.doubanio.com/icon/u4507957-105.jpg",
+      "content": "当年很喜欢的一本小说，拍得还可以吧，演员都不错，但是前面太慢了，睡着了十分钟。。。"
+    },
+    {
+      "user": "永远是海的女儿",
+      "avatar": "https://img3.doubanio.com/icon/u3855752-60.jpg",
+      "content": "特别端着 特别日本 卡司炸裂都不能挽救原作的小题大作 推理基本靠偶然的启发 给演员的空间也不大 让敦敦演一个婚前不检点的新娘 胜地凉还来客串太有梗了"
+    },
+    {
+      "user": "ヤマイモ",
+      "avatar": "https://img3.doubanio.com/icon/u49063007-6.jpg",
+      "content": "女主的圣母设定实在有点腻味，木村的角色就有趣很多。各种熟悉的演员一个一个出现的时候又开心又紧张，总觉得每个人都很可疑！估计是大屏幕加成，总体还是比较平庸的，推理也没有太多惊喜。消遣看看还是可以的。p.s.谁要是找到了特别出演的秋刀鱼桑请告诉我…… @东宝日比谷"
+    },
+    {
+      "user": "多喜养福51❤️💙",
+      "avatar": "https://img3.doubanio.com/icon/u2956675-14.jpg",
+      "content": "好大一碗鸡汤"
+    },
+    {
+      "user": "方熙芯",
+      "avatar": "https://img3.doubanio.com/icon/u3084505-81.jpg",
+      "content": "不当悬疑片看的话还能看看，带着看悬疑片先要看的话估计要被气死…"
+    },
+    {
+      "user": "BOO",
+      "avatar": "https://img3.doubanio.com/icon/u3799292-10.jpg",
+      "content": "案子沒問題 敘事有問題"
+    },
+    {
+      "user": "流浪の小圆头",
+      "avatar": "https://img3.doubanio.com/icon/u48329159-101.jpg",
+      "content": "电影看得毫无趣味，又忍不住要为剧作文本点赞，就是这么矛盾啊！"
+    },
+    {
+      "user": "抑尘",
+      "avatar": "https://img1.doubanio.com/icon/u4318857-27.jpg",
+      "content": "好差哦。但还是和chel一起看的第一部，开心！"
+    },
+    {
+      "user": "路人一枚小深酱",
+      "avatar": "https://img1.doubanio.com/icon/u2568852-7.jpg",
+      "content": "腔调4分，推理2分，平均3分，麻酱木村➕10分"
+    },
+    {
+      "user": "DUVET才没",
+      "avatar": "https://img3.doubanio.com/icon/u1805329-23.jpg",
+      "content": "2019映画第9部，3星半。サービス業接客专业用语。"
+    },
+    {
+      "user": "森林守望者",
+      "avatar": "https://img3.doubanio.com/icon/u2766553-31.jpg",
+      "content": "确实太无聊了"
+    },
+    {
+      "user": "大屯路的劳伦斯",
+      "avatar": "https://img3.doubanio.com/icon/u45127156-22.jpg",
+      "content": "底子不错，骨子里朝着悬疑版《布达佩斯大饭店》的方向努力的，可惜审美上差了一大截，特别是色彩的运用上，本片基本看不到。不过，看长泽雅美和木村拓哉的对手还是别有一番风趣。"
+    },
+    {
+      "user": "大草",
+      "avatar": "https://img1.doubanio.com/icon/u1143403-197.jpg",
+      "content": "烂"
+    },
+    {
+      "user": "小林蓁",
+      "avatar": "https://img1.doubanio.com/icon/u41840598-7.jpg",
+      "content": "浪费卡司系列"
+    },
+    {
+      "user": "困扁头",
+      "avatar": "https://img3.doubanio.com/icon/u82572044-2.jpg",
+      "content": "真是浪费了这么豪华的卡司。"
+    }
+  ]
+}

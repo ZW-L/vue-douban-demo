@@ -1,0 +1,1220 @@
+{
+  "title": "大江大河",
+  "url": "https://movie.douban.com/subject/26797690/",
+  "rate": "8.8",
+  "id": "26797690",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541093820.jpg",
+  "info": [
+    "导演: 孔笙 / 黄伟",
+    "编剧: 袁克平 / 唐尧 / 阿耐",
+    "主演: 王凯 / 杨烁 / 董子健 / 童瑶 / 杨立新 / 周放 / 田雷 / 赵达 / 王永泉 / 赵阳 / 王宏 / 施诗 / 练束梅 / 吴其江 / 胡耘豪 / 王鑫 / 李保安 / 钱洁 / 李克伟 / 陈小妹 / 吴国华 / 赵蕴卓 / 鞠帛展 / 冯晖 / 赵君 / 宋家腾 / 卜宇鑫 / 周瑞 / 贾媛媛 / 苏小明 / 郭虹 / 任帅 / 郭广平 / 王瑞子 / 朱铁 / 李威 / 佟国强 / 任正斌 / 王旭峰 / 吕昀峰 / 李晨涛 / 孙浩涪 / 王双宝",
+    "类型: 剧情",
+    "制片国家/地区: 中国大陆",
+    "语言: 汉语普通话",
+    "首播: 2018-12-10(中国大陆)",
+    "集数: 47",
+    "单集片长: 45分钟",
+    "又名: 大江东去 / Like a Flowing River"
+  ],
+  "desc": "宋运辉（王凯饰）天资聪颖，却出身不好，一直倍受歧视，但是他把握住了1978年恢复高考的机会，抓住机遇，勤学苦干，当上了国企的技术人员，一步步晋升，奠定了成功人生的基础，但也在新时代的变革中逐渐迷失。与宋运辉不同的是他的姐夫雷东宝（杨烁饰）。他出身贫寒、属于苗正根红的“大老粗”，行动力十足。在乡村改革的浪潮中带领村民紧跟政策，一直走在时代的前沿。但由于自身文化水平不高，眼界不够开阔，最终绊倒在新事物脚下。如果说宋运辉和雷东宝的经历是国营经济和集体经济的缩影。那么个体户杨巡（董子健饰）无疑就是个体经济的典型代表，在翻滚向前的时代中，他手忙脚乱抓住过商机，也踩踏过陷阱，生意场上几经波折，最终拥有了自己的产业，成为了那个时代个体经济的典型代表。",
+  "members": {
+    "director": {
+      "name": "孔笙 Sheng Kong",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26279.jpg"
+    },
+    "cast": [
+      {
+        "name": "王凯 Kai Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1444998211.72.jpg"
+      },
+      {
+        "name": "杨烁 Shuo Yang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1495977974.75.jpg"
+      },
+      {
+        "name": "董子健 Zijian Dong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514901022.62.jpg"
+      },
+      {
+        "name": "童瑶 Yao Tong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536662362.13.jpg"
+      },
+      {
+        "name": "杨立新 LiXin Yang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11567.jpg"
+      },
+      {
+        "name": "周放 Fang Zhou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21025.jpg"
+      },
+      {
+        "name": "田雷 Lei Tian",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8_PyQdEYu6Mcel_avatar_uploaded1482510837.89.jpg"
+      },
+      {
+        "name": "赵达 Da Zhao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545678950.2.jpg"
+      },
+      {
+        "name": "王永泉 Yongquan Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446713054.36.jpg"
+      },
+      {
+        "name": "赵阳 Yang Zhao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39422.jpg"
+      },
+      {
+        "name": "王宏 Hong Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1448034244.88.jpg"
+      },
+      {
+        "name": "施诗 Shi Shi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465782877.72.jpg"
+      },
+      {
+        "name": "练束梅 Shumei Lian",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1416472522.46.jpg"
+      },
+      {
+        "name": "吴其江 Qijiang Wu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1368682863.8.jpg"
+      },
+      {
+        "name": "胡耘豪 Yunhao Hu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1463326359.93.jpg"
+      },
+      {
+        "name": "王鑫 Xin Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382682717.99.jpg"
+      },
+      {
+        "name": "李保安 Baoan Li",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1492872396.0.jpg"
+      },
+      {
+        "name": "钱洁 Jie Qian",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545363313.82.jpg"
+      },
+      {
+        "name": "李克伟 Kewei Li",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545053762.49.jpg"
+      },
+      {
+        "name": "陈小妹 Xiaomei Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7lTZh3BkmfEcel_avatar_uploaded1378145940.42.jpg"
+      },
+      {
+        "name": "吴国华 Guohua Wu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1426361675.85.jpg"
+      },
+      {
+        "name": "赵蕴卓 Yunzhuo Zhao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547694778.95.jpg"
+      },
+      {
+        "name": "鞠帛展 Bozhan Ju",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545054106.76.jpg"
+      },
+      {
+        "name": "冯晖 Hui Feng",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1457573244.7.jpg"
+      },
+      {
+        "name": "赵君 Jun Zhao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1352214283.82.jpg"
+      },
+      {
+        "name": "宋家腾 Jiateng Song",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456387401.77.jpg"
+      },
+      {
+        "name": "卜宇鑫 Yuxin Bu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545054026.28.jpg"
+      },
+      {
+        "name": "周瑞 Rui Zhou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545054149.35.jpg"
+      },
+      {
+        "name": "贾媛媛 Yuanyuan Jia",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p47136.jpg"
+      },
+      {
+        "name": "苏小明 Xiaoming Su",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32011.jpg"
+      },
+      {
+        "name": "郭虹 Hong Guo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386212158.57.jpg"
+      },
+      {
+        "name": "任帅 Shuai Ren",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37328.jpg"
+      },
+      {
+        "name": "郭广平 Guangping Guo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1558669497.84.jpg"
+      },
+      {
+        "name": "王瑞子 Ruizi Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502087758.53.jpg"
+      },
+      {
+        "name": "朱铁 Tie Zhu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545828535.66.jpg"
+      },
+      {
+        "name": "李威 Wei Li",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41577.jpg"
+      },
+      {
+        "name": "佟国强 Guoqiang Tong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1546659667.62.jpg"
+      },
+      {
+        "name": "任正斌 Zheng-bin Ren",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36982.jpg"
+      },
+      {
+        "name": "王旭峰 Xufeng Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533528112.69.jpg"
+      },
+      {
+        "name": "吕昀峰 Yunfeng Lü",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474120757.56.jpg"
+      },
+      {
+        "name": "李晨涛 Chentao Li",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1490352228.91.jpg"
+      },
+      {
+        "name": "孙浩涪 Haofu Sun",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1491821378.87.jpg"
+      },
+      {
+        "name": "王双宝 Shuangbao Wang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1354781933.1.jpg"
+      },
+      {
+        "name": "孙小会 Xiaohui Sun",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1546753489.8.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2542267746.jpg?",
+        "src": "http://vt1.doubanio.com/201908311543/911074946ed7d4d125001b0565a63f2b/view/movie/M/402400520.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2519882795.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2542270727.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2526215790.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2516871458.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "扶云殿九公主",
+      "avatar": "https://img3.doubanio.com/icon/u159460543-6.jpg",
+      "content": "呜呜呜呜呜呜呜呜呜姐姐好温柔啊，好喜欢姐姐啊，姐姐能不能不死啊 —————— —————— ——————                看完了我来吐槽了，这分虚高了，我真的不想看没完没了乡村爱情和哭坟，金州线是被狗撵了吗？？？杨巡戏份你敢不敢别给我删成这样？？？好好的改开剧为啥拍成这样，孔笙真的怎么被捧上神坛的，我看他本人比流量还能营销🙄🙄🙄"
+    },
+    {
+      "user": "坏人",
+      "avatar": "https://img3.doubanio.com/icon/u153015915-3.jpg",
+      "content": "开头就是宋运辉上大学的小高潮，很吸引人。王凯演技牛了，而且为戏减肥，穿个背心都能看到一条条肋骨，很敬业了。少年感真的不靠妆容，王凯演的宋运辉有点黑瘦黑瘦的，但是整个神态就很像18岁的倔强农村青年。\n后面209宿舍日常还有大寻小辉的对手戏笑死人了，小辉有一点书呆气傻傻的很好玩。\n金州厂斗主线真是不负期待，各个党派间暗潮涌动，简直一部职场教科书，看着小辉从菜鸟一点点进步成掌权者。\n不好剧透，但是王凯的几场哭戏真的共情感好强，看哭了。\n吹一波最后结局王凯的独白，台词功底棒棒哒，期待第二部东海风云"
+    },
+    {
+      "user": "熙 和",
+      "avatar": "https://img3.doubanio.com/icon/u2665417-83.jpg",
+      "content": "等了一年终于等到一部好剧。宋运辉哽咽着问“真的，真的能上大学了吗”时的表情，一下就感染到我了。看到现在，不是假大空的喊口号，而是贴近你我父辈生活的小人物，与时代变革交相辉映的奋斗故事。非常值得追！"
+    },
+    {
+      "user": "Martingale",
+      "avatar": "https://img3.doubanio.com/icon/u158820715-5.jpg",
+      "content": "喜欢这种时代大发展，大变革期间的故事。普通人在时代洪流的夹裹中改变命运，有种催人奋进的力量。全剧最精彩拍的最好的是金州厂的剧集，剧情格局和演员演技都比小雷村高出了不少层级，宋运辉的成长故事很精彩，结尾的独白令人心潮澎湃。期待《大江大河2:东海风云》"
+    },
+    {
+      "user": "张小朵",
+      "avatar": "https://img3.doubanio.com/icon/u55843491-6.jpg",
+      "content": "一代人有一代人的命运，想和宋运辉一样，成为抓住命运改变命运的那种人！从一个当时社会底层的学生，到大学生、工厂技术员，最后拥有自己的“东海王国”，王凯把角色一路的变化演绎的非常好！他就是最适合宋运辉的演员！"
+    },
+    {
+      "user": "Flatline",
+      "avatar": "https://img3.doubanio.com/icon/u153942535-6.jpg",
+      "content": "这部可以算是今年最佳了，孔笙拍起这类题材来真是得心应手，王凯这次演的真好啊，真希望能看到越来越多像这样踏踏实实演戏的好演员。"
+    },
+    {
+      "user": "甜万宝路和旱烟",
+      "avatar": "https://img1.doubanio.com/icon/u168782263-27.jpg",
+      "content": "我从前看过太多的改开剧到最后只是几个干瘪的人物撕心裂肺得喊上几句口号，严重脱离人民、脱离真实。\n而看到《大江大河》时，我不禁哽咽，那个瘦骨嶙峋的暴晒在烈日下面一遍又一遍背社论的名叫宋运辉的孩子的倔强影子，给我留下了深刻的印象。“知识改变命运”，宋运辉是这样想的，这让我想起了家里穷苦、有四个弟弟妹妹的母亲当年不顾一切地想要上大学，她离开家乡的脚步也像宋运辉一样的不舍、倔强却铿锵有力。\n“不尽狂澜走沧海”，王凯的声音饱含了温柔而坚定的力量，为这部戏付出太多太多的他，当值一个五星。"
+    },
+    {
+      "user": "绮梦",
+      "avatar": "https://img3.doubanio.com/icon/u4897709-244.jpg",
+      "content": "别的不多夸了，我爸说王凯喂猪的姿势很专业。1.4更新 我是冲着想看宋家姐弟改变命运打五星的，结果到后期你特么天天给我看睡不睡寡妇养不养猪？？？我奉劝正午阳光有点良心别再愚弄观众了，想拍乡爱找本山大爷！"
+    },
+    {
+      "user": "Linyyy",
+      "avatar": "https://img3.doubanio.com/icon/u147979443-3.jpg",
+      "content": "我今年21岁，离那个时代挺远的。以前爷爷给我讲那段岁月的时候眼睛里是放着光的，可惜那时候我不懂。几年过去，爷爷不在了，我遇到这部剧，我想我应该是懂了。"
+    },
+    {
+      "user": "笔触",
+      "avatar": "https://img3.doubanio.com/icon/u172820251-1.jpg",
+      "content": "《大江大河》是通过国营经济、集体经济、个体经济去展现属于那个年代特有的情怀。演员跟角色之间融合的很好，情节主线紧贴时代，彰显特色，是一部值得期待的电视剧。不胖的王凯为了贴合人物特意减肥，一切为了角色，真的很棒，演员都是原声，台词功底过硬，会一直追下去。期待下面的剧情。\n"
+    },
+    {
+      "user": "无他",
+      "avatar": "https://img3.doubanio.com/icon/u142469807-1.jpg",
+      "content": "好久没看到这样扎实的一部戏，正午阳光出品果然不同凡响。王凯台词功底很厉害，不愧是80这波佼佼者。"
+    },
+    {
+      "user": "刘十九",
+      "avatar": "https://img1.doubanio.com/icon/u4901199-17.jpg",
+      "content": "王凯的造型实在太陈家明了，看的时候很怕他突然翘起兰花指"
+    },
+    {
+      "user": "依依不舍",
+      "avatar": "https://img3.doubanio.com/icon/u143357879-1.jpg",
+      "content": "王凯真厉害，演18岁大学生毫无违和感，瘦成排骨看得我心疼😭，人物性格抓得也太准了吧，还请某家组团的黑水嘴下留情，看不上剧情可以，直接人身攻击演员这就下作了吧"
+    },
+    {
+      "user": "酸菜鱼",
+      "avatar": "https://img3.doubanio.com/icon/u92999640-44.jpg",
+      "content": "要推荐！其实我一直不太喜欢看这种剧，但是这部剧越看越有意思，尤其是氛围真是还原了那个时代，看的时候家里老人一直在旁边絮叨“当时可不就是这样吗balabala”。演员也好，好到让我忽略了年纪不符合了。是为数不多能陪父母踏踏实实看完的片子。片尾的时候脑子里自动播放韩红的《祖国不会忘记》，想想那个所有人都在拼搏的年代，竟然感动了。正午的路很稳，还有打光也很好！很有感觉！"
+    },
+    {
+      "user": "tussle",
+      "avatar": "https://img3.doubanio.com/icon/u151632729-10.jpg",
+      "content": "厂斗戏太精彩了，职场剧典范。王凯这次特别惊喜，完全打破了以往印象，演技大提升"
+    },
+    {
+      "user": "juzi同学",
+      "avatar": "https://img3.doubanio.com/icon/u151629951-2.jpg",
+      "content": "正在看，质感非常好，那个年代的三个年轻人不同的际遇，令人感慨感动！\n二刷，王凯演得太有层次了，这十年来从青葱稍微有些自卑胆小的少年到意气风发的工程师让我惊叹他演技的精湛！他内功很高啊，非常擅长走内动人的表演方式，这是我非常欣赏的！期待第二部！"
+    },
+    {
+      "user": "士大夫张居正",
+      "avatar": "https://img3.doubanio.com/icon/u154017356-5.jpg",
+      "content": "很不错的电视剧,反映了文革后青年想通过高考改变命运的历程，王凯把那种懵懂与无畏都演绎得很好，有些场景表现得很巧妙，对成分论……的描绘也很深入。   第二集给我的印象是两个化学系的新生居然在讨论两个凡是，这很值得我们今天的大学生学习，不仅仅局限在自己的专业，而应放眼全局。小雷家那段讲联产承包责任制很生动，当时人们因为文革的阴影而不敢改革，雷东宝反而敢于打破常规。"
+    },
+    {
+      "user": "苟且偷生",
+      "avatar": "https://img3.doubanio.com/icon/u149827598-4.jpg",
+      "content": "画面好看，演的都很好，还是有认真的演员在工作的。王凯很敬业，这点佩服他"
+    },
+    {
+      "user": "QAQ",
+      "avatar": "https://img3.doubanio.com/icon/u183700176-3.jpg",
+      "content": "1.对黑子故意打低分的行为表示唾弃、可怜和无奈，一个致敬改革开放四十周年的献礼剧居然可以因为黑演员而故意打低分，格局全无！\n2.大江大河真的算是献礼剧的翘楚了吧，它没有空喊口号，而是抓住在改革开放大背景下的小人物的故事，节奏不错，细节处理也很好，每个人物都很真实！\n3.我超喜欢看宋运辉宿舍那三个叔叔吵架哈哈哈哈(ಡωಡ)特别有喜感~\n4.感觉看完剧我政治，历史考试和语文作文不愁了！\n5.补充25-26集，太过瘾了，情节紧凑，真的很尊重观众智商了！（悄悄说一句大江可能高估观众智商了）\n总结：不愧正午阳光出品~！"
+    },
+    {
+      "user": "莱昂诺尔",
+      "avatar": "https://img1.doubanio.com/icon/u170578465-7.jpg",
+      "content": "一星给9分原著《大江东去》；一星给正午阳光这个团队，听说为了这个戏建了个村；一星给孔笙，有孔笙的戏可以放一半心；一星给中戏男人帮，演员选的好，角色才能成功；一星是鼓励。"
+    },
+    {
+      "user": "若水",
+      "avatar": "https://img1.doubanio.com/icon/u145576489-7.jpg",
+      "content": "前两集真心不错，催泪又真实得感动，希望能一直保持这个节奏。想到父母就是那一辈的人，真的是特别珍惜上大学的机会，一直都在告诉我一定要考大学，当时不理解，后来渐渐就懂了。回顾那段时光，对他们来说是忆青春，对我们来说会更加惜当下。\n看到第十集了，安云相声社和光棍村日常笑死个人；小辉看人看事非常准了，也特别有远见慢慢成为家里顶梁柱了；东宝你要是敢对姐姐不好我就😭😭😭；小杨馒头也登场了，大江大河真好看丫\n金州线好好看，厂斗剧情节奏厉害了\n看到片尾的独白十分震撼，这部剧带来很多向上力量，不由地想与主人公一样为了理想去做一个逐梦人，不计代价只为了一句“我不想辜负这个时代”。看了第二部预告，十分精彩，敲碗等。希望第二部能够全面展示出改革开放盛大画卷，国企、集体和个体全面开花，而不是拘泥于一个方面。"
+    },
+    {
+      "user": "不知道你",
+      "avatar": "https://img3.doubanio.com/icon/u143298152-4.jpg",
+      "content": "王凯的违和先不说了，这个题材拍2.66：1 来装逼？ 自己看看不难受么？"
+    },
+    {
+      "user": "meow~",
+      "avatar": "https://img3.doubanio.com/icon/u127890909-11.jpg",
+      "content": "我的躯体独一无二，无可变动，\n我来到这儿，彻彻底底，只此一遭。\n“我不想辜负这个时代。”\n王凯为了这部剧真的瘦了好多啊，很多场景也特别还原，看着就是那个年代，这么用心这部剧肯定不会差。\n\n王凯果然没有辜负这个角色，立住了宋运辉，他真的好棒啊。"
+    },
+    {
+      "user": "困觉",
+      "avatar": "https://img3.doubanio.com/icon/u151193330-6.jpg",
+      "content": "跟随着宋运辉的成长轨迹回顾了78-88这十年，人物在有限的剧集里被演员“立”住了。回看第一集发现，这个人真是如身边人一样在你不经意间就长大了，那么自然、那么引人入胜。整部剧虽然有那么一些令人遗憾的地方，但仍然不妨碍它成为2018最好的国剧。期待大江大河2，期待东海的故事。"
+    },
+    {
+      "user": "无问西东",
+      "avatar": "https://img3.doubanio.com/icon/u154637865-6.jpg",
+      "content": "36岁的王凯饰演18岁的农村少年宋运辉毫无违和感，太棒了，这才是整容式演技"
+    },
+    {
+      "user": "文秀",
+      "avatar": "https://img3.doubanio.com/icon/u164705253-2.jpg",
+      "content": "这是一部大格局的巨作，这是一卷接地气的生活篇章，它让我们的父母再回味那个时代，让我们更了解那个时代，让我们的后辈更珍惜当下，从而不辜负这个时代，每一位演员都能看出来是用了心的，你可以选择不看，或者不评价，但请你理智做个人，不想再看见有某人的粉丝黑子来这片净土上作妖作怪，吃相真的很难看，很恶心，言尽于此，总还是会有只懂人身攻击的不入流之辈，还好我们心里都有一杆秤，里面总有住着善良。"
+    },
+    {
+      "user": "清新明艳高圆圆",
+      "avatar": "https://img3.doubanio.com/icon/u183880237-2.jpg",
+      "content": "诶，苦命的姐弟啊，希望生活对他们好一点。\n王凯和童瑶的演技真好，台词过硬。\n细节上做得很好，很有年代感。"
+    },
+    {
+      "user": "微雨阑珊",
+      "avatar": "https://img1.doubanio.com/icon/u151304457-8.jpg",
+      "content": "一代人有一代人的际遇，一代人也有一代人的奋斗，看了前两集和预告片，所有演员对整体人物和细节的把控都非常到位，正午的制作也一贯的精良，剧情饱满，有笑有泪，好剧值得追下去！"
+    },
+    {
+      "user": "Yvonone",
+      "avatar": "https://img3.doubanio.com/icon/u71428516-2.jpg",
+      "content": "我觉得这是部可以留下来的作品，因为它值得，因为王凯值得！！！"
+    },
+    {
+      "user": "Lori",
+      "avatar": "https://img3.doubanio.com/icon/u158793819-1.jpg",
+      "content": "孔笙死忠粉来了！镜头好美啊！这剧追定了！"
+    },
+    {
+      "user": "小小小孤独精",
+      "avatar": "https://img3.doubanio.com/icon/u156623954-10.jpg",
+      "content": "不尽狂澜走沧海，一拳天与压潮头。志之所趋，不可阻挡。正午真的处女座剧组，各个细节都处理的太棒了，几乎完全还原了那个时代的社会风貌，值得细品。（半夜来加一句，黑演员的都原地爆炸！奤🐷🐔屎滚远点！）（12.24 金州这两集太燃了吧！为大江疯狂打call！）"
+    },
+    {
+      "user": "小满",
+      "avatar": "https://img3.doubanio.com/icon/u146932018-1.jpg",
+      "content": "宋运辉天资聪颖，却出身不好，受尽歧视，但是把握住了1978年恢复高考的机会，上大学、包分配、下基层，成为一名国企技术人员。变革的浪潮中，早熟刻苦的宋运辉醉心钻研技术改革，竭力远离一切权势纷争，一步步的晋升让他拥有了年少时丝毫不敢奢求的人生轨迹，同时也带给了他新的苦恼和迷茫。"
+    },
+    {
+      "user": "🎄",
+      "avatar": "https://img3.doubanio.com/icon/u169128515-3.jpg",
+      "content": "看了第一集，宋运辉太让人心疼了，上学咋这么难呀，王凯演的真好，其他演员演的也好。镜头和bgm都好喜欢，节奏也好，正午真是必出精品。"
+    },
+    {
+      "user": "肥鱼",
+      "avatar": "https://img3.doubanio.com/icon/u90685418-11.jpg",
+      "content": "吹爆王凯的演技 我的天这真的是他吗 太有感觉了 看着他就像看到了我弟弟 太像了太像了 "
+    },
+    {
+      "user": "我们一起喵喵喵",
+      "avatar": "https://img3.doubanio.com/icon/u177969700-2.jpg",
+      "content": "王凯演出了一个十几岁少年应有的稚气，剧情很好，为宋家四口的命运感慨，吾辈应自强，我们都不应该辜负这个时代"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u142817458-6.jpg",
+      "content": "前两集两姐弟的命运看得泪目，演员又是减肥又是涂黑粉还原那个年代，真的很敬业，会追下去"
+    },
+    {
+      "user": "哈哈你好吗亲切",
+      "avatar": "https://img3.doubanio.com/icon/u148414988-5.jpg",
+      "content": "36岁演十几岁？..."
+    },
+    {
+      "user": "且行且休",
+      "avatar": "https://img3.doubanio.com/icon/u4003380-2.jpg",
+      "content": "近期难得的国产好剧，节奏挺快的，冲突也很强烈，开头几集挺吸引人的。另外要吹爆王凯，为了演这个戏减了好多，蛮符合那个年代的人物形象的，而且眼神清澈，满满的少年气，就是一个倔强少年的模样。看的过程中一直为宋家人的命运而揪心，值得追"
+    },
+    {
+      "user": "蔚歌",
+      "avatar": "https://img3.doubanio.com/icon/u50917771-3.jpg",
+      "content": "之前看过书，现在电视剧开播了，超级期待的！正在看，整个剧的感觉特别对味，演员的表现也很好。虽然没经历过那个时代，但是因为了解了这段历史才更加珍惜当下的日子。"
+    },
+    {
+      "user": "王朝",
+      "avatar": "https://img3.doubanio.com/icon/u177876316-3.jpg",
+      "content": "看大江大河觉得演员这个行业真神奇，宋运辉黑黢黢傻乎乎挑着扁担叫大学室友叔叔，你就真的相信他“年底就满十九了”。王凯的少年感不是挤眉嘟嘴款浮于形式的装嫩，是他清清朗朗，沉默着脆弱，倔强着自尊，羞涩着活泼，和世界不熟练地打交道的样子。 "
+    },
+    {
+      "user": "😊",
+      "avatar": "https://img1.doubanio.com/icon/u154446909-7.jpg",
+      "content": "事实证明三十多的演员演十八九小年轻不一定非要靠打白粉加打光磨皮，黑也可以。"
+    },
+    {
+      "user": "开心快乐每一天",
+      "avatar": "https://img3.doubanio.com/icon/u154292831-1.jpg",
+      "content": "看了第一集很有共鸣，那个时候唯成分论真的让我们这些出身不好的人上大学成为可望不可即的奢望。电视剧的表现和表演相当真实和接地气，看的我自己仿佛又回到那时候，高考的一切历历在目。有共鸣但不伤感，追逐努力过都是值得的。"
+    },
+    {
+      "user": "驾考宝典",
+      "avatar": "https://img3.doubanio.com/icon/u135637220-14.jpg",
+      "content": "看见了冷静的真实历史，还有中国人骨子里的倔强执着。无论在哪个年代，无论何种环境，都能昂扬地寻找生活的出路和生命的光亮。"
+    },
+    {
+      "user": "肥肥羊",
+      "avatar": "https://img3.doubanio.com/icon/u146863128-4.jpg",
+      "content": "生理厌恶"
+    },
+    {
+      "user": "全麦泡芙",
+      "avatar": "https://img3.doubanio.com/icon/u150913528-1.jpg",
+      "content": "剧情流畅，演员演技都很自然，继续追剧"
+    },
+    {
+      "user": "闪闪",
+      "avatar": "https://img1.doubanio.com/icon/u50756062-89.jpg",
+      "content": "为了贴近人物，凯凯王减重14斤，非常期待了"
+    },
+    {
+      "user": "苗子",
+      "avatar": "https://img3.doubanio.com/icon/u172785697-1.jpg",
+      "content": "不尽狂澜走沧海，一拳天与压潮头，太期待这个磅礴大气的变革时代里，宋运辉这些先行者的壮阔人生了！"
+    },
+    {
+      "user": "古装颜狗一枚",
+      "avatar": "https://img3.doubanio.com/icon/u153132091-2.jpg",
+      "content": "欣赏不来 "
+    },
+    {
+      "user": "致郁系",
+      "avatar": "https://img1.doubanio.com/icon/u2983030-27.jpg",
+      "content": "第一集，宋云辉站在革委会院子里背文件的时候，我的眼泪一下子就出来了。太难过了，完全不知道原来那时候，他们还有受这么一些我们现在根本无法理解的委屈。当时我就想着，要是我那时候珍惜自己读书的时光就好了，我们唾手可得的东西可能就是他们求之不得的珍宝。"
+    },
+    {
+      "user": "暮云春树",
+      "avatar": "https://img3.doubanio.com/icon/u161275329-2.jpg",
+      "content": "《大江大河》中，王凯饰演的宋运辉是“知识改变命运”的典型代表，他历经坎坷考入大学，毕业后来到国营工厂担任技术人员。他扎根技术、提倡革新，无心利益争斗，历尽坎坷最终取得成功。要从稚气未脱的18岁大学生演到成熟稳重的化工骨干，对于已经离开学校多年的他来说，如何演出宋运辉的少年感是个大考验，孔笙导演给他建议说，那时候的人性格、心理状态很淳朴、简单，当一个人心无杂念，外在自然而然就放松下来。而且在诠释角色的过程中，王凯还屡次向父母请教，了解他们那个时代的爱情、青春、生活的具体形态，“首先通过与父母的沟通，仔细揣摩了他们年轻时的状态；其次，我看了一些他们那会儿的合影，黑白照片，人物状态特别精神，朝气蓬勃，这些对我的角色创作给予了很大的帮助。”"
+    },
+    {
+      "user": "绝美孔雀薛子明",
+      "avatar": "https://img3.doubanio.com/icon/u176126352-5.jpg",
+      "content": "镜头像电影一样，王凯的宋运辉太有少年感了，瘦成那样还那么可怜不让上学，有点心疼，他台词真好。"
+    },
+    {
+      "user": "打眼",
+      "avatar": "https://img3.doubanio.com/icon/u78651585-1.jpg",
+      "content": "好看，画面好看、剧情节奏都不错！好评！演员演技在线！"
+    },
+    {
+      "user": "jiaruxy",
+      "avatar": "https://img3.doubanio.com/icon/u104556137-2.jpg",
+      "content": "正在看，很好看。很久没有一部办公室一起讨论的剧了，大江大河正好，「志之所趋，不可阻挡」会继续追的～"
+    },
+    {
+      "user": "风吹麦浪",
+      "avatar": "https://img3.doubanio.com/icon/u126862417-3.jpg",
+      "content": "看了两集，哭了两次。宋运辉历尽千辛万苦终于上了大学，在校园那一幕，我想起了爸爸。爸爸也是那个年代的大学生，他也经历了国营单位的各种变迁，计划经济的年代为了给坐月子的妈妈买几个鸡蛋，还没打成投机倒把。辛苦奋斗了一辈子，把我和哥哥养大成人。然而就在去年，爸爸突发心脏病去世了。我无时无刻不在怀念爸爸，他就是那个时代的亲历者见证者。他虽然不在了，但他跟那个时代一样不会被忘记。"
+    },
+    {
+      "user": "重度熬夜患者",
+      "avatar": "https://img3.doubanio.com/icon/u151629447-2.jpg",
+      "content": "期待好久了，特别喜欢原著，主创也是很棒的团队！目前节奏掌握的不错，演员演技都在线！正午拍年代剧还是很放心的。王凯竟然瘦成这样了，很贴角色了，敬业！"
+    },
+    {
+      "user": "吃面要加葱姜蒜",
+      "avatar": "https://img3.doubanio.com/icon/u64053275-6.jpg",
+      "content": "这部剧，让经历过那个年代的人“忆当年”，让没有经历过那个年代的人“惜当下”，从第一集开始就让人很能带入，很不错，是一部能留得下来的好剧。"
+    },
+    {
+      "user": "爱你在心口难开",
+      "avatar": "https://img3.doubanio.com/icon/u157726771-2.jpg",
+      "content": "喜欢的小说与喜欢的演员完美结合，还原这段激昂的岁月！太激动了！"
+    },
+    {
+      "user": "芸芸雪儿",
+      "avatar": "https://img3.doubanio.com/icon/u182637615-1.jpg",
+      "content": "王凯真的太娘了，留个锅盖头娘气冲天，演戏好油，演什么都是王凯自己，正午别再吹良心了，别打情怀骗豆瓣分踩同期剧了，现在于妈都良心本心了，正午再吹那老三样也骗不了人了，剧节奏慢的要死"
+    },
+    {
+      "user": "子衿",
+      "avatar": "https://img3.doubanio.com/icon/u153493097-2.jpg",
+      "content": "宋运辉那种敢背一千遍社论的决心，那一边喂猪一边也能学习考大学的毅力，我有哪怕一半，也能做成任何事，宋运辉值得任何成就。"
+    },
+    {
+      "user": "老袁",
+      "avatar": "https://img3.doubanio.com/icon/u49599056-123.jpg",
+      "content": "情节紧凑，而且桥段都挺有意思的。虽然是主旋律献礼片，但不无聊。尤其是王凯，开篇十八岁少年不好演，加上宋运辉这个角色，除了少年的青涩懵懂还有特定历史环境下性格中不甘命运的倔强和早熟。他完成得很棒，期待后面更精彩。"
+    },
+    {
+      "user": "波子球",
+      "avatar": "https://img3.doubanio.com/icon/u158832424-2.jpg",
+      "content": "第一集就看哭了，改革开放先行者真是不容易啊！"
+    },
+    {
+      "user": "辣",
+      "avatar": "https://img1.doubanio.com/icon/u121891012-9.jpg",
+      "content": "拯救剧荒的我，看过小说大江东去，剧拍的很还原原著，增加的情节和一些改编使人物更丰满了，演员演技在线，熟悉的面孔但完全不串戏，给五星"
+    },
+    {
+      "user": "小方方爱小兰兰",
+      "avatar": "https://img3.doubanio.com/icon/u178419367-2.jpg",
+      "content": "五星，正午阳光的剧，制作一直都是业内数一数二的，剧情很紧凑。三个男演员都不错，童谣，虽然不熟，但是脸挺好的。喜欢王凯。"
+    },
+    {
+      "user": "一泓绿水",
+      "avatar": "https://img3.doubanio.com/icon/u50630284-3.jpg",
+      "content": "“当一艘小船走在长江上，你快进入到长江口了，你必须换船。你坐上这艘大船往前去的时候，回头看一看，所有人的人都是英雄。”\n我们是生来就在大船上了。我们不曾、也不想回头去看。\n看我们的父辈披荆斩棘，把一个家，一个国，送到这艘巨轮之上。所以我们误解，我们产生隔阂，我们认为他们是如此固执又保守的一代，却没想到他们的青春是乘着扁舟，于惊涛骇浪中走过。《大江大河》让我们一起回顾父辈的时代！宋运辉是核心人物，王凯、杨立新、赵君是演技担当。"
+    },
+    {
+      "user": "H. vulgare",
+      "avatar": "https://img3.doubanio.com/icon/u47106181-3.jpg",
+      "content": "很久没有这么适合全家看的剧了！！感动！！"
+    },
+    {
+      "user": "阿笠博士",
+      "avatar": "https://img3.doubanio.com/icon/u183721760-2.jpg",
+      "content": "从画质到音质都可以看这个剧组的用心与品质，从刻画人物把握整部剧的节奏这些演员无疑是最棒的。想以宋运辉、雷东宝和杨巡为首的那群先行者们致敬！"
+    },
+    {
+      "user": "唯艾毓",
+      "avatar": "https://img3.doubanio.com/icon/u69047357-1.jpg",
+      "content": "节奏明快，剧情流畅，能让我们这样的90后感同身受。人物性格都很饱满，前两集就戏剧冲突不断，看哭了好久。王凯饰演18岁的宋运辉，少年感特别自然，喜怒哀乐都牵动人心。童谣的宋运萍也好好啊，姐弟情令人落泪。"
+    },
+    {
+      "user": "依山",
+      "avatar": "https://img3.doubanio.com/icon/u131053461-4.jpg",
+      "content": "致敬父辈的40年 致敬我们的40年 致敬未来的40年"
+    },
+    {
+      "user": "白茶清欢无别事",
+      "avatar": "https://img3.doubanio.com/icon/u130146156-3.jpg",
+      "content": "王凯帅到我了！演技很棒！"
+    },
+    {
+      "user": "buongiorno",
+      "avatar": "https://img3.doubanio.com/icon/u149215988-2.jpg",
+      "content": "两姐弟的命运看得泪目，老妈说剧里还原的那个时代很贴近现实。王凯减肥加涂黑粉后，剧里都快认不出来了"
+    },
+    {
+      "user": "临水棠",
+      "avatar": "https://img3.doubanio.com/icon/u146999167-1.jpg",
+      "content": "静水流深。宋运辉和萍萍在革委会背人民日报社论看得眼睛湿了，少年少女眼里的的希望和倔强在大太阳底下闪闪发光。宋运辉真是又怂又萌又倔，有那个年代的气息。26集是目前为止宋运辉的高光时刻，不是开会辩论赢了费刘，而是和刘总工推心置腹的一段“因人成事因人废事”，这才是引导改革方向的坚定的指引者，大江大河——来了！"
+    },
+    {
+      "user": "咯吱咯吱",
+      "avatar": "https://img3.doubanio.com/icon/u169578074-4.jpg",
+      "content": "好好看，正午保持住了水平。\n编剧太牛了，剧本果然是一剧之本！单单编剧就值四颗星，何况还有这么好的制作。从这部剧记住了编剧，黄伟导演。每个演员也都很优秀。印象最深的是宋运辉，东宝妈，老猢狲，四宝，要重点夸一下。王凯演的真好，在这个年龄有这种演技很厉害了！"
+    },
+    {
+      "user": "柳丁爱健身",
+      "avatar": "https://img3.doubanio.com/icon/u48834960-10.jpg",
+      "content": "从宣布开拍开始，就一直关注着这部剧。那是一个特殊的年代，也是一个巨变的年代，距离我们并不遥远，却多少有些陌生。大江大河我要和父母一起看，一起回忆他们的青春。"
+    },
+    {
+      "user": "jenh001",
+      "avatar": "https://img3.doubanio.com/icon/u153137495-1.jpg",
+      "content": "王凯的演技实在超乎我之前的想像，宋运辉的形像活脱脱是我兄长们当年的样子，而憋着哭、被打手指跳起来等与我家青年的神态是一样的，这头两集真的看得我感动不已, 不由自主跟着宋运辉哭了笑了"
+    },
+    {
+      "user": "hxx小小",
+      "avatar": "https://img3.doubanio.com/icon/u163940996-1.jpg",
+      "content": "看过小说，又看了片花和预告，感觉很燃很戳人。演员全员演技在线，加上孔导，黄导，正午出品，强强联手，必出精品！此剧必看必追！"
+    },
+    {
+      "user": "奶油小方",
+      "avatar": "https://img3.doubanio.com/icon/u151626748-12.jpg",
+      "content": "太真实太戳心，泪目很多次。向所有台前演员和幕后工作人员致敬，是很认真很用心的作品，让观众感觉到是被尊重着的。王凯演18岁真的违和感很小了，演技值得夸一下，一开始还担心来着，毕竟演员三十好几了。然后超级超级超级喜欢姐姐啊，想想后续就难受QAQ"
+    },
+    {
+      "user": "星星",
+      "avatar": "https://img3.doubanio.com/icon/u139620289-41.jpg",
+      "content": "[看了大江大河，王凯的少年感真的不是演出来的，是那种沉浸在剧情里而自我带入后的自然的少年清澈感，好剧好演员。 "
+    },
+    {
+      "user": "机智46酱",
+      "avatar": "https://img3.doubanio.com/icon/u170612189-1.jpg",
+      "content": "一直喜欢这种年代戏，好看真好看，宋运辉挺轴啊，还怂萌怂萌的，摄影真是好看"
+    },
+    {
+      "user": "头子的牙医",
+      "avatar": "https://img3.doubanio.com/icon/u58256744-2.jpg",
+      "content": "正午这次的拍法对于演出少年感这种要求是减分的，因为画面太清晰锐度高又不带柔光，虽然是大光圈，但其实会显得皮肤的纹路更明显，加上王凯本身又出名，大家都知道他的年纪，真的是加大了难度。王凯最终演出来的，不是说拍得他像一个少年，而是你哪怕知道演员的真实年纪，你依然愿意相信他里面装着一个少年的灵魂，他的年轻是从他的眼神，他举手投足，他走路的姿态，他的勇敢和青涩里透出来的，不是靠表象的，越看越像，我不是说非得让每个人都承认他看上去多么年轻，而是他的确演得非常出色。这还只是基础，他在演出了少年感之后，还要在每个情节时候在上面叠加不同的复杂情绪，少年才会开心到了觉得自己委屈的地步，大人可能已经不会了。他还要不停地成长，不停地转换状态，不停地叠加更多复杂的情绪，他是直接用演技在带剧情，我都想用了不起来形容他"
+    },
+    {
+      "user": "齐天大圣",
+      "avatar": "https://img3.doubanio.com/icon/u2760978-4.jpg",
+      "content": "全中国的学校都应该组织起来观看前两集，看着四十年前的年轻人为了上个大学多么的不容易，会更加珍惜当下的环境"
+    },
+    {
+      "user": "杨柳千千wby",
+      "avatar": "https://img3.doubanio.com/icon/u161467257-1.jpg",
+      "content": "这是部留得下来的片子，非常好。能够参与其中就很好，明白导演和那一代人的执着，要拍这部作品的执着，这样的人生应该被纪录下来。王凯再一次用演技征服了我，那就是宋运辉。五星推荐！"
+    },
+    {
+      "user": "于山南水北",
+      "avatar": "https://img3.doubanio.com/icon/u151493808-3.jpg",
+      "content": "第一集就哭了，想起了当年的我舅舅和我妈，我姥爷是地主，我舅我妈都没能考大学。宋运辉面对造反派的怯懦真的太真实了，想起我妈了"
+    },
+    {
+      "user": "凶凶怪",
+      "avatar": "https://img1.doubanio.com/icon/u41662611-77.jpg",
+      "content": "王凯有演技诶，演得一点儿都不出戏"
+    },
+    {
+      "user": "南无一飘舟*",
+      "avatar": "https://img3.doubanio.com/icon/u157818432-5.jpg",
+      "content": "我还纳闷为什么童谣排在三个男主演的后面，原来她真的是最让人心疼的啊..."
+    },
+    {
+      "user": "王盈",
+      "avatar": "https://img3.doubanio.com/icon/u159427858-1.jpg",
+      "content": "作为上世纪的60后，亲身经历了改革开放，对四十年来的社会变迁记忆犹新，看到《大江大河》预告片时，很感兴趣。今晚观看了《大江大河》1、2集，很有感觉，好评。\n故事是从1978年宋家姐弟参加刚刚恢复的高考开始，故事情节一波三折，很紧凑，很抓人；整个剧的置景道具、画面色彩、环境氛围、人物外形、精神状态等很有年代感，能把观众带入其中；正午阳光出品，果然是精良制作，这部剧值得一看，明天继续追剧。"
+    },
+    {
+      "user": "阳光灿烂",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "其他演员还好，就是男主看着尴尬，一脸的褶子非要演个十七八的小伙子😔"
+    },
+    {
+      "user": "piiiia🇨🇳",
+      "avatar": "https://img1.doubanio.com/icon/u157045148-9.jpg",
+      "content": "评论里的黑子很恶心……"
+    },
+    {
+      "user": "庹某人",
+      "avatar": "https://img3.doubanio.com/icon/u119481434-3.jpg",
+      "content": "看完大江大河后，我妈说：“好看！王凯的哭戏感染人。”，我爸说：“我们的那个年代比这个还要惨，戏拍的真好，也该让你们这些小年轻看看我们走过的路。”是部好剧。"
+    },
+    {
+      "user": "呵呵",
+      "avatar": "https://img3.doubanio.com/icon/u168503104-1.jpg",
+      "content": "一直期待的剧终于开播，正午出的剧真的是始终如一的高品质，让《大江东去》还原度很高，为制作团队点赞。在看预告时就感觉每一位演员都将小说里的人物特点演绎的很到位。期待后期的剧情开展，期待每一位演员带来的精彩演绎。"
+    },
+    {
+      "user": "紫韵",
+      "avatar": "https://img3.doubanio.com/icon/u145953964-3.jpg",
+      "content": "孔笙导演说就想找最贴合人物的普通人去演，做剧的态度打心里都是真诚实在。非常放心地去享受这部剧，全景展示改革开放40年，贴近现实，小说精彩，演员贴合，演得平实亲切，跟那个年代的普通人一样！希望国剧都是这样的精品！"
+    },
+    {
+      "user": "一梦长安",
+      "avatar": "https://img3.doubanio.com/icon/u137503237-14.jpg",
+      "content": "王凯现在演18很违和，演技也很麻麻"
+    },
+    {
+      "user": "应是梦醒肠断",
+      "avatar": "https://img3.doubanio.com/icon/u163763437-10.jpg",
+      "content": "大江大河，从1978年一直到1998年，很精彩，每个人物都很饱满，经历过挫折、经历过大起大落，绝不放弃，电视生动形象描述了中国改革进程。。第一集节奏很快，两姐弟大学风波不脱离带水，干脆，期待后续剧情，王凯演的角色真的很认真了，减肥14斤，不应该被黑！细节做的也好，台词好、布景也还原。"
+    },
+    {
+      "user": "一灰",
+      "avatar": "https://img3.doubanio.com/icon/u71383486-12.jpg",
+      "content": "宋运辉。"
+    },
+    {
+      "user": "顾村公园",
+      "avatar": "https://img3.doubanio.com/icon/u182920971-2.jpg",
+      "content": "真的吹爆正午的剧啊，王凯演技超棒啊，没有刻意的演出少年感，仿佛那就是一个毛头小子。节奏也很紧凑，追下去的欲望越来越强了！"
+    },
+    {
+      "user": "冷月无声",
+      "avatar": "https://img3.doubanio.com/icon/u146051741-2.jpg",
+      "content": "看了一集就看不下去了，男主一如既往的装b实在让人反胃"
+    },
+    {
+      "user": "冷藏狗头",
+      "avatar": "https://img3.doubanio.com/icon/u149193019-12.jpg",
+      "content": "作为这本书的书粉，看到正午将它影视化真是太欣慰了，能感受到他们真的是真实地还原了那个时代的纯真质朴与改开初期激荡的热情，听说王凯为了贴近宋运辉的形象瘦了将近20斤，还冒着生命危险去老旧的化工厂拍戏，很感动，这些演员身上的特质都是非常契合人物的，他们抛弃了美丽的形象而去扮土扮丑，这很难得，选角比我看书时想象的更合适"
+    },
+    {
+      "user": "Vanish",
+      "avatar": "https://img3.doubanio.com/icon/u154584732-1.jpg",
+      "content": "B站 你要的今年豆瓣评分8.5以上的剧来了！"
+    },
+    {
+      "user": "不羁的星球杯",
+      "avatar": "https://img3.doubanio.com/icon/u84605028-5.jpg",
+      "content": "节奏好棒啊，想起父母爱情"
+    },
+    {
+      "user": "凡桐",
+      "avatar": "https://img3.doubanio.com/icon/u142820619-2.jpg",
+      "content": "跟妈妈一起看了第一第二集，妈妈一边跟我科普什么是红五类，黑五类，一边感慨宋家姐弟的遭遇，说那时候真的不容易，你们现在是真幸福。真的，大江大河拍的非常好，剧情好，节奏好，台词好，目前所有演员演技都很自然，包括老猢狲这个坏人。有泪点有笑点，情节流畅舒服。是的，一代人有一代人的奋斗，一代人有一代人的际遇，要努力啊！会和家人一起追剧的。"
+    },
+    {
+      "user": "啊哦",
+      "avatar": "https://img3.doubanio.com/icon/u42993556-3.jpg",
+      "content": "我就想说句实话"
+    },
+    {
+      "user": "自由飞翔",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "emm，王凯里面的造型真的好像陈家明"
+    },
+    {
+      "user": "奥斯曼图尔曼",
+      "avatar": "https://img3.doubanio.com/icon/u175326091-1.jpg",
+      "content": "难得的正剧，好制作。演员也靠谱，特别喜欢王凯和童瑶。"
+    },
+    {
+      "user": "天上人间",
+      "avatar": "https://img3.doubanio.com/icon/u170233846-2.jpg",
+      "content": "亲历过那个年代，感觉好真实，18岁的宋运辉活灵活现啊，好学上进，拼尽自己全力去抓住上大学的机会，去改变全家的命运。剧组很注意细节，服化道特别用心，很有质感的一部剧。正午出品，必属精品。"
+    },
+    {
+      "user": "凯凯的小阿一",
+      "avatar": "https://img3.doubanio.com/icon/u149061023-6.jpg",
+      "content": "节奏适中，也踏踏实实讲故事，终于开播了，不负众望啊！"
+    },
+    {
+      "user": "小王子",
+      "avatar": "https://img3.doubanio.com/icon/u44414157-4.jpg",
+      "content": "不负这个时代，这个剧组做到了。"
+    },
+    {
+      "user": "SCJ",
+      "avatar": "https://img3.doubanio.com/icon/u174751620-1.jpg",
+      "content": "不要装嫩好吧，实在是太恶心了。本来蛮正常的一个人，哎呀，嗯，实在没办法看。"
+    },
+    {
+      "user": "酒街",
+      "avatar": "https://img3.doubanio.com/icon/u174761828-1.jpg",
+      "content": "未开播前，吸引我的是好班底，好演员。\n开播后，看了两集，我知道能让我追下去的是好故事，好人物。\n献礼剧最难以接受的就是纯粹的喊口号，难得的是，就前两集来说，大江大河没有，他用很紧凑的剧情向我们呈现了好的故事。"
+    },
+    {
+      "user": "朝歌",
+      "avatar": "https://img3.doubanio.com/icon/u169651517-2.jpg",
+      "content": "上次在b站看吐槽，说2018年没有一部上8.5的星剧，说再等一等坚守一下年末，看看奇迹会不会出现，果然大江大河来了！"
+    },
+    {
+      "user": "姬轩辕",
+      "avatar": "https://img3.doubanio.com/icon/u48706650-21.jpg",
+      "content": "电影画幅好有钱。。剧情节奏快好爽，书里写上大学的事还用了挺长一截。姐弟俩为上大学的事抗争这段演的很好，各种小表情各种心酸。就是始终意难平，姐姐如果也能上大学就好了。难受。"
+    },
+    {
+      "user": "东南夏",
+      "avatar": "https://img3.doubanio.com/icon/u149067037-2.jpg",
+      "content": "看完了前两集，我决定吃下这颗安利。因为我被深深打动了。从得知高考成绩的兴奋，到因为“成分”问题而被拒绝的愤怒，无奈，到奋力为自己争取上大学资格的倔强，到终于拿到录取通知书的释放的呐喊…一切都一切都深深触动了我。他们早就不是王凯，不是童谣，他们就是宋运辉和宋运萍。就是在改革开放之初，普通却不平凡的人。大江大河，这部剧追定了!王凯老师演的真的太好了!!!"
+    },
+    {
+      "user": "迟归的云暮",
+      "avatar": "https://img3.doubanio.com/icon/u171016812-3.jpg",
+      "content": "看完四集，诚意之作，精品之作。演员都好到位，童瑶好美，王凯好大的惊喜，没想到能演那么好！"
+    },
+    {
+      "user": "似水。流年",
+      "avatar": "https://img3.doubanio.com/icon/u174819601-2.jpg",
+      "content": "真的尬 不好看"
+    },
+    {
+      "user": "叫我兰帕德",
+      "avatar": "https://img3.doubanio.com/icon/u119222819-5.jpg",
+      "content": "用什么小鲜肉，男的不像男的，不好看"
+    },
+    {
+      "user": "琉璃瓦",
+      "avatar": "https://img3.doubanio.com/icon/u160956868-1.jpg",
+      "content": "王凯完美演绎了一个18岁的少年未经人事的倔强，没有激烈的表达，依然让人深刻感受到了那种情绪的波动，考上大学的喜悦，历经波折的忐忑，希望破灭的绝望，那峰回路转的一跪直接看哭了"
+    },
+    {
+      "user": "云胡不喜",
+      "avatar": "https://img3.doubanio.com/icon/u80702996-16.jpg",
+      "content": "之前看了小说，真的是波澜壮阔的改革时代，第一集看完了，感觉很满意，宋运辉背文件哪里真的很感动，姐弟感情真好！会继续追下去"
+    },
+    {
+      "user": "Qiao小姍",
+      "avatar": "https://img3.doubanio.com/icon/u173037477-1.jpg",
+      "content": "正式开始追剧，我欣赏这里面很多演员，但是最喜欢王凯，听说王凯为了贴合宋运辉的角色特点减重，其他演员看着都心疼。看了四集，宋运辉很好，执着，甚至执拗，我觉得宋运辉这个角色立住了。"
+    },
+    {
+      "user": "绵绵思远道",
+      "avatar": "https://img3.doubanio.com/icon/u16848898-5.jpg",
+      "content": "“自由之于人类，就像亮光之于眼睛”，主创们很用心地在呈现那样一个冲破黑暗的年代，在黑暗中等待光明！希望我也能像这里的许多人一样永远追求知识，追求自由，敢于人先，在时代洪流中留下自己的印记"
+    },
+    {
+      "user": "刀刀",
+      "avatar": "https://img3.doubanio.com/icon/u59050206-1.jpg",
+      "content": "王凯把角色带入到那个时代，在那种情形下，宋运辉是通过他倔强委屈和一点莽撞之下的表情和状态表现的出来的，这是自然的流露，演技精湛"
+    },
+    {
+      "user": "奥拓不是奥迪",
+      "avatar": "https://img3.doubanio.com/icon/u170893701-4.jpg",
+      "content": "想到导演的那句话，“当一艘小船走在长江上，你快进入到长江口了，你必须换船。你坐上这艘大船往前去的时候，回头看一看，船上所有人都是英雄。”这部剧里的每个人都是英雄。\n这部剧里的金州厂斗论手段，论格局，能把市面上的大部分的宫斗，宅斗，职场斗秒的渣都不剩，就你们那点小手段小聪明，放到金州估计都活不过片头曲。\n所谓的献礼剧，就该是这样，有大格局，大气魄。"
+    },
+    {
+      "user": "悠悠然哉",
+      "avatar": "https://img3.doubanio.com/icon/u138763588-1.jpg",
+      "content": "王凯，洗尽铅华，这次我把他归入“戏骨”行列。"
+    },
+    {
+      "user": "hhhhhh",
+      "avatar": "https://img3.doubanio.com/icon/u152036433-2.jpg",
+      "content": "这个题材拍的出乎意料得有可看性，演员选得真的好"
+    },
+    {
+      "user": "山风",
+      "avatar": "https://img3.doubanio.com/icon/u166254233-1.jpg",
+      "content": "前两集由宋运辉的视角徐徐展开，宋运辉在革委会院子里背人民日报，姐姐为了弟弟放弃上大学的名额，小辉被大学录取……一幕接着一幕展现在观众面前，带领我们走进那波澜壮阔又充满激情的历史年代！"
+    },
+    {
+      "user": "VannieHR ",
+      "avatar": "https://img3.doubanio.com/icon/u154000563-4.jpg",
+      "content": "很接地气的片子，主题是正的，但戏的切口很小，演员们都很专业很入戏，人物生动，剧情紧凑，很不错，推荐！"
+    },
+    {
+      "user": "藏完",
+      "avatar": "https://img3.doubanio.com/icon/u174673491-1.jpg",
+      "content": "一星的朋友们都是为点啥啊。。。。？"
+    },
+    {
+      "user": "沈棠",
+      "avatar": "https://img3.doubanio.com/icon/u143470752-3.jpg",
+      "content": "感觉十分贴近原著人物了，而且这个角色有深度有跨度，并不是扁平的脸谱化角色，超级期待凯凯王的演绎了～"
+    },
+    {
+      "user": "傻白的腿毛🇨🇳",
+      "avatar": "https://img1.doubanio.com/icon/u44818896-9.jpg",
+      "content": "本年度最期待的电视剧没有之一。看了两集哭了好多遍，宋运辉倔强得让人心疼，姐姐为了弟弟放弃自己读大学的机会也让人心疼。宋运辉读报真的太好听了！能磕一百遍！吹爆25.26集！！！36集去小辉坟墓看姐姐这一段，看多少遍还是泪流满面，王凯的演技真是润物细无声啊！最后一集的独白看得我热泪盈眶！"
+    },
+    {
+      "user": "天使之翼",
+      "avatar": "https://img3.doubanio.com/icon/u182531974-1.jpg",
+      "content": "杨烁真油腻，把那个年代的复员军人演的简直像个色狼，还有说话的声音像调戏妇女，真给那年代军人丢脸，四颗星全因为他扣"
+    },
+    {
+      "user": "哈哈哈",
+      "avatar": "https://img3.doubanio.com/icon/u183010810-1.jpg",
+      "content": "好看吗？"
+    },
+    {
+      "user": "Show_Lo",
+      "avatar": "https://img3.doubanio.com/icon/u122267273-1.jpg",
+      "content": "一般"
+    },
+    {
+      "user": "哟哟闹不住",
+      "avatar": "https://img3.doubanio.com/icon/u169043391-4.jpg",
+      "content": "剧荒了一年终于开播了，看过原著，小说的格局非常大。制作非常认真踏实接地气为还原那个时代，扎根生活本身，下了巨大的功夫，演员王凯，杨烁，董子健，童瑶都非常符合他们的角色。为了塑造的角色更贴近人物背景王凯减重十几斤，杨烁增重20斤，敬业精神都令人感动。"
+    },
+    {
+      "user": "漂泊在人间",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "冲王凯为这剧减了十几斤瘦得能看见一根根肋骨这一点，这剧我会追下去，说实话，以前对于王凯只是觉得很帅，而这部剧让我刮目相看，肃然起敬，一个有流量有人气的演员，愿意为一部乡土气息很浓的年代戏这样做，比那些只会赚流量的鲜肉高太多。"
+    },
+    {
+      "user": "amberjhc",
+      "avatar": "https://img3.doubanio.com/icon/u159506431-2.jpg",
+      "content": "借用王凯总结的话，忆当年，惜当下。我们父辈经历过的，又如何造就如今的生活，这部剧能引起大家的共鸣。"
+    },
+    {
+      "user": "tomoe",
+      "avatar": "https://img3.doubanio.com/icon/u152499540-2.jpg",
+      "content": "少年时期换个小演员嘛，真的看起来视觉上很不舒服"
+    },
+    {
+      "user": "花开花落",
+      "avatar": "https://img3.doubanio.com/icon/u162650079-2.jpg",
+      "content": "从大江东去的书粉过来的。\n电视剧节奏很快，刚一开始就迅速的展开了矛盾冲突，把观众的心给揪了起来。宋家姐弟的命运是什么？\n宋运辉这个通过知识改变命运的国企典型代表，令我想到我的很多老师。他们都是77.78年通过高考从农村走出来的。好想他们呀。\n第一二集结束后，心情很沉重，想哭。\n第三四集终于看到了曙光，希望就在前面。"
+    },
+    {
+      "user": "展夫人",
+      "avatar": "https://img3.doubanio.com/icon/u48891202-3.jpg",
+      "content": "看完前四集我就对别人说，这剧最大的优点是拍出来那个年代的人的精神面貌，而不是仿佛现代人穿越。印象最深的有两处，一处是大叔家来信，大家得知拨乱反正摘帽了，四个人哭着唱“祝福我们的祖国从此走向繁荣富强”，磨难不曾消磨他们的意志。第二处是小雷家包地到户，大家开始红红火火的种起地来，镜头给了那些群演特写，他们的脸上满是对生活的希望，我仿佛一下看到了那些老照片里朝气蓬勃的人们"
+    },
+    {
+      "user": "大猫的小盒子",
+      "avatar": "https://img3.doubanio.com/icon/u183661385-5.jpg",
+      "content": "前两集节奏很紧凑，剧组在细节上也很用心。王凯饰演的宋运辉真的是少年感满满，那种青涩、干净、朝气、倔强，让我难以想象这是36岁的他演出来的，已经完全是一个18岁的少年了，演技真的赞。宋运辉如愿上大学、姐姐的自我奉献，都很戳中泪点。"
+    },
+    {
+      "user": "吃瓜子",
+      "avatar": "https://img3.doubanio.com/icon/u181630560-2.jpg",
+      "content": "这剧8.9分，分绝对低了，这是我好久好久一来，第一次认真的看国产剧 非常良心，上一次这么认真的无加速无快进的看电视剧还是在看琅琊榜的时候"
+    },
+    {
+      "user": "🍈",
+      "avatar": "https://img3.doubanio.com/icon/u44148577-32.jpg",
+      "content": "ok"
+    },
+    {
+      "user": "自在独行",
+      "avatar": "https://img3.doubanio.com/icon/u66341382-2.jpg",
+      "content": "“曾看过《羊城晚报》对制片人侯鸿亮的一篇采访。\n记者问他：怎么让年轻观众更容易接受那种“年代感”？\n他回答：\n其实，年轻人只喜欢看偶像剧吗？也不见得。他们只是对看剧的要求比较高，他们希望国内的影视制作水准能相应提高。\n不管是哪个类型的剧，如果他们觉得自己的智商被尊重了，他们就会接受。\n这是大实话。\n而最聪明的主创，从来都很舍得下“笨功夫”。\n《大江大河》从拍摄到制作，从场景到细节，都透着踏实与认真。”"
+    },
+    {
+      "user": "暗夜偷星",
+      "avatar": "https://img3.doubanio.com/icon/u59288153-3.jpg",
+      "content": "正午阳光加孔笙，这剧肯定不会差到哪里去。36岁的王凯演18岁的宋运辉，有人说他年龄不合适，不过你看一下就会知道少年感这东西还真不是嘟个嘴撒个娇就能演好的。加上改开献礼，这类型的剧还是很少，也能给人耳目一新的感觉，值得一看"
+    },
+    {
+      "user": "炒饭",
+      "avatar": "https://img3.doubanio.com/icon/u139190944-2.jpg",
+      "content": "节奏很快，很有年代感，用心的团队和演员"
+    },
+    {
+      "user": "情深深蝶萌萌",
+      "avatar": "https://img3.doubanio.com/icon/u169382333-11.jpg",
+      "content": "毋庸置疑在大部分改开片都是谈恋爱为主的献礼剧里，这部是格局最大视角最广最正经的。宋运辉背社论，姐姐放弃上大学和宋运辉雨中奔跑后无助地抱住自己的场景都让人唏嘘。要特别表扬王凯，样貌确实不是鲜嫩少年了，但是那份脆弱倔犟确是艰苦少年应该有的模样！我们全家都会追剧！"
+    },
+    {
+      "user": "乔点儿乔",
+      "avatar": "https://img3.doubanio.com/icon/u143620829-2.jpg",
+      "content": "年代感十足，王凯演绎的19岁少年感十足，被姐姐感动的一塌糊涂。好剧，一定会追下去。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "之前一直不敢打分，就怕哪一天好好的剧再变成又红又专。看到现在基本放心了，这部剧是敢拍也敢说的。说的很客观也很幽默，却也始终抱持积极向上的态度，不丧不怼，理性面对。保持下去，今年最佳。1229更新：近期有些疲软，节奏不再，希望后期能改善。190104更新：我想改四星，朋友不让我改，剪辑师疯了，想器具。190110看完了，如果有第二部能不能换了董子健？"
+    },
+    {
+      "user": "叶晚",
+      "avatar": "https://img3.doubanio.com/icon/u153079844-4.jpg",
+      "content": "前两天出片花了，“自由之于人类，就像亮光之于眼睛。”\n淑芬记得这句话原著中并没有，编剧能提炼出来，可以看出是下了很大功夫的。大江篇幅非常长，编剧有这样的水准也足以让人放心。三位男主演都贴和人物，表现非常非常精彩，姐姐也特别好，这肯定是一部非常值得期待的佳片，希望能早点与它相见。\n\n更前两集。宋运萍是世界上最好的姐姐，无法想象她用那样一手好字写下放弃名额申请书的心情。宋运辉收到录取通知书的瞬间母上大人泪崩了。神仙姐弟，我的pick"
+    },
+    {
+      "user": "浅",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "目前看了四集，一下看的，很喜欢。至少目前四集看下来剧情连贯，情节紧凑，是正午阳光的水准。提一句这部剧的一个亮点，片头很好！！！吹爆片头！\n目前出现的几个主要人物都非常立体，宋运萍小姐姐温柔但坚韧的劲儿，宋运辉那种初出牛犊、愣头青的感觉，还有雷东宝的那股子土气与莽劲儿，在容易让观众入戏的基础上还能给人惊喜。\n很看好这部剧，希望编剧能发力，不要高开低走！不要烂尾！求求\n12月啦，今年一部高分好剧都没有，希望这部剧后期表现不要让我失望，能对得起我这10分。"
+    },
+    {
+      "user": "回忆染指流年",
+      "avatar": "https://img3.doubanio.com/icon/u151909786-2.jpg",
+      "content": "正午出品，大家必属精品"
+    },
+    {
+      "user": "白桦林",
+      "avatar": "https://img3.doubanio.com/icon/u153040540-3.jpg",
+      "content": "王凯演的宋运辉，和我看书的感觉一样，真的是神还原，宋运辉本人啦，书粉非常满意"
+    },
+    {
+      "user": "行走",
+      "avatar": "https://img3.doubanio.com/icon/u3962932-4.jpg",
+      "content": "从细节和氛围上，历史还原度很高，真实可信。让人回忆起7，80年代那些艰难却又火热的生活。王凯细腻的表演，情绪的细致表现，刻画出人物的性格特质和年代气息，让人看到一个一直生活在出身不好的阴影下成长起来的内向却又倔强的少年宋运辉。其他演员的表演也都细腻完美，尤其饰演姐姐宋运萍的童瑶，用细腻真挚的表演，很好的刻画了一个坚强宽容隐忍的姐姐形象。"
+    },
+    {
+      "user": "，",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "明明是好题材，拍出来却不接地气，尤其是表演，有形无神不走心，以王凯的“棒读”为甚"
+    },
+    {
+      "user": "奚导",
+      "avatar": "https://img3.doubanio.com/icon/u90184539-5.jpg",
+      "content": "为啥演的这么假，评分还这么高，怎么看都像是电视剧版演员的诞生"
+    },
+    {
+      "user": "🍭",
+      "avatar": "https://img3.doubanio.com/icon/u152777457-13.jpg",
+      "content": "后二十集的小雷家全线垮掉，又臭又长，婚后的乡村爱情油腻别扭，过犹不及。金州线大起大落立意高远，演员火花四溅，水书记和宋运辉的每一次对话都令人深思，对于职场人士有很好的启发，大寻小辉的宿舍日常可爱有趣，然而却被混乱的剪辑和稀少的戏份连累，没有充分展现，缺少细节，镜头每次一切回小雷家就让人厌烦乏味。杨巡若不是和小雷家做生意怕是都没啥出场机会，戏份少得可怜，前期还缺少铺垫，观众难以入戏。总之，导演在多线叙事的重点把控上一塌糊涂，后半程节奏和画风宛如精分，下一部请分清主次，详略得当，不要在沉闷无趣的农村戏上浪费笔墨，多关注制造业和个体打拼，狗血感情戏少一点"
+    },
+    {
+      "user": "风从东方来",
+      "avatar": "https://img3.doubanio.com/icon/u154622233-6.jpg",
+      "content": "今年最期待的国产剧，果然没有让人失望。献礼改革开放四十年，致敬那个波澜壮阔的变革时代。\n在细节处理上，正午厉害的，街道村庄服装和当时的人物状态，非常还原那么年代背景。以电影式摄影手法拍摄，高清精致，视觉享受。\n故事以宋家姐弟上大学展开，通过人物关系，全景展开国企技术改革，农村经济和个体经济，在改革开放的大时代背景下的蓬勃发展。所有人物演技在线，活生生那个年代生活的人。故事较之小说，改编的更生动，更贴近生活，也增加了更多的戏剧性。宋家姐弟懂事中带着倔强，倔强中透着懂事，为了上大学坚定执着的令人心疼。尤其是王凯扮演的宋运辉，黝黑的脸庞，倔强的小眼神，有点胆小怯懦但是为了改变命运又执着的努力争取，让人叹息。随着故事进一步展开，期待越来越精彩。"
+    },
+    {
+      "user": "齐木楠雄",
+      "avatar": "https://img3.doubanio.com/icon/u1211567-13.jpg",
+      "content": "我一开始以为男主是坚持学习到30多岁最终高考过线而且考了全县第一，还觉得蛮励志，结果他说他十九岁……太违和了！就不能找个真少年演少年时期吗？？！！"
+    },
+    {
+      "user": "一颗贝贝",
+      "avatar": "https://img3.doubanio.com/icon/u139852568-4.jpg",
+      "content": "孔笙＋侯鸿亮＋王凯＋正午阳光——我找不到拒绝这部剧的理由。一代人有一代人的际遇，一代人有一代人的奋斗，故事里有他们经历的艰苦岁月，有他们参与的改革开放，有他们期待的美好未来，希望很多年以后，当人们想去了解那个年代的故事会想起这部剧。"
+    },
+    {
+      "user": "yingzi",
+      "avatar": "https://img3.doubanio.com/icon/u152679702-1.jpg",
+      "content": "原著是近年最喜欢的小说，对正午阳光的剧一直期待。看了前两集，非常妥帖了，画质上乘有很强的年代感；改编在保持原著主线的前提下加强或合并、删减，使主题突出又不拖沓；出场的演员形象气质都很还原原著人物，特别是演技没有一个短板。很满意，保持啊！"
+    },
+    {
+      "user": "富瑞德睦🇨🇳",
+      "avatar": "https://img3.doubanio.com/icon/u88506657-15.jpg",
+      "content": "一直觉得王凯演技好，这个电视剧更感觉他是个好演员"
+    },
+    {
+      "user": "锁●玲珑",
+      "avatar": "https://img3.doubanio.com/icon/u159761233-1.jpg",
+      "content": "前两集剧情紧凑，画面非常有质感，像走进电影院一样，特别是王凯的眼泪直戳人心，真正演出了农村少年的质朴和对现实的无奈。童瑶也演技在线，总之好评，继续追剧！"
+    },
+    {
+      "user": "Kay",
+      "avatar": "https://img3.doubanio.com/icon/u169379155-2.jpg",
+      "content": "不喜欢这个时代"
+    },
+    {
+      "user": "Jazz🐯",
+      "avatar": "https://img3.doubanio.com/icon/u158865335-3.jpg",
+      "content": "出乎意料的好看，这种农村开场的正剧，节奏快，画面美，演得好，特别是王凯的表演，一个倔强好强的土辉，读社论、跟姐姐忏悔、拿到录取通知书，几个片段都让我掉泪"
+    },
+    {
+      "user": "蒙太奇",
+      "avatar": "https://img1.doubanio.com/icon/u171083625-9.jpg",
+      "content": "烂烂烂"
+    },
+    {
+      "user": "BG9GXM",
+      "avatar": "https://img3.doubanio.com/icon/u58526714-4.jpg",
+      "content": "锤子片"
+    },
+    {
+      "user": "狗富贵，互相旺",
+      "avatar": "https://img3.doubanio.com/icon/u153139534-2.jpg",
+      "content": "看了前两集挺感人的，老爸说实际上那时候比电视里还要苦的多，看到十三届三中全会的时候全家都跟着笑了…会接着追下去的，毕竟老爸老妈是父母爱情的忠实观众"
+    },
+    {
+      "user": "Octavia",
+      "avatar": "https://img3.doubanio.com/icon/u181246221-3.jpg",
+      "content": "        期待已久的《大江大河》终于播出了。\n        生活在大变革时代的人们被时代洪流裹挟着，也被心中对美好生活的欲望驱使着。\n       总有那样一群人，他们是时代的筑梦者，他们勇立潮头，他们矢志不渝，他们一往无前。\n       《大江大河》向时代筑梦者致敬，向我们所经历的时代致敬。\n       \n        "
+    },
+    {
+      "user": "给日子加点醋",
+      "avatar": "https://img1.doubanio.com/icon/u187713650-9.jpg",
+      "content": "国产剧又上一个新台阶了，看电影的感觉。王凯演的少年宋运辉真不错，其他人物选的也挺好，继续看看。"
+    },
+    {
+      "user": "桃枝么么",
+      "avatar": "https://img3.doubanio.com/icon/u80734042-1.jpg",
+      "content": "早就看过原作，选角都非常契合，现在正在看第一集，非常喜欢宋运辉和姐姐。\n场景和年代感也很到位，诚意满满，期待之后的剧情。"
+    },
+    {
+      "user": "haha",
+      "avatar": "https://img3.doubanio.com/icon/u158014166-3.jpg",
+      "content": "宋运辉和程开颜的恋爱好甜啊😭崽崽，妈妈爱你们，爱金州线😭"
+    },
+    {
+      "user": "违规昵称6789",
+      "avatar": "https://img3.doubanio.com/icon/u180311913-3.jpg",
+      "content": "献礼正剧。靖王殿下演技出色！节奏简直完美。评论中的无脑黑也是够了。"
+    },
+    {
+      "user": "李瓜雨儿",
+      "avatar": "https://img3.doubanio.com/icon/u44802446-6.jpg",
+      "content": "正午阳光必出精品。谁能想到呢我居然在看这样一个主旋律正剧。王凯真的非常有少年感，剧里画面真的非常好看，看了两集我就要给五星了！！"
+    },
+    {
+      "user": "爱丽丝伪喵",
+      "avatar": "https://img3.doubanio.com/icon/u37106882-2.jpg",
+      "content": "不愧是2018第一剧集，无愧扛鼎之名。金州改革风起云涌，王凯的演绎炉火纯青。唯一可惜的就是戏份太少太碎，许多激动人心的地方都被剪掉了，造成观感下降。本来妥妥上9的神剧被拖累。还有小杨巡的奋斗经历也是，这么贴合现代的两条线，被养猪复仇挤得只剩寥寥，实在令人唏嘘。大江大河的大格局，变成了家长里短的爱情故事，可惜了。"
+    },
+    {
+      "user": "卡",
+      "avatar": "https://img3.doubanio.com/icon/u167380765-11.jpg",
+      "content": "看了原著的表示 这个节奏真的很快了叭果然重点部分还是在金州厂里。情节很紧凑很抓人，演员选的是真的合适，王凯就是宋运辉本人了！给孔导比心！"
+    },
+    {
+      "user": "cuicui1009",
+      "avatar": "https://img3.doubanio.com/icon/u139302603-2.jpg",
+      "content": "追完后重新评价下。今年最好看品质最好的剧。宋运辉宋运萍水书记大寻小猫徐县长四眼老书记我给120分，他们演的比我期待的最好的还要好。缺点是三条线节奏失衡，看出导演掌控这种多线剧情还是吃力。"
+    },
+    {
+      "user": "foggy froggy",
+      "avatar": "https://img3.doubanio.com/icon/u75482770-23.jpg",
+      "content": "在看<激荡三十年>，想看看它如何表现改开三四十年来国民经济发展，本以为这个剧挺契合，却两集弃。本剧的推送时间和党媒开始在年底宣传改开40周年都很有意思。根本没有写实，过于美化了，70年代末的中国农村没有这么好。政治剧可以理解，但不苟同。评分高可能是偶像成分和所谓怀旧情怀过高。乖乖看书去。"
+    },
+    {
+      "user": "小醋栗",
+      "avatar": "https://img3.doubanio.com/icon/u85100104-181.jpg",
+      "content": "一直对那个年代抵触又好奇，从前只能看书想象，现在家里老人提起过的那些酸甜苦辣通通变成了真实的影像。真的很好哭，主演说这部剧让没经历过那个年代的人惜当下，我一直懂得长辈年轻时不容易，但是今天才感受到他们是真的一步一个脚印为自己的家挣了一个光明未来。"
+    },
+    {
+      "user": "十三姨",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "王凯演技爆表！为角色减肥这个不用发通稿就能看出来，清瘦略带营养不良情绪激动或者过度劳累就会低血糖的人物感觉找的非常准。最喜欢他耸鼻子的小动作，戴框架眼镜久了的人都知道，因为时间长了眼镜会下滑，都会习惯性的用手推眼镜架或者耸鼻子把眼镜调整好。"
+    },
+    {
+      "user": "小霸王其乐无穷",
+      "avatar": "https://img3.doubanio.com/icon/u146254051-3.jpg",
+      "content": "看哭了，明白小辉的委屈。一个时代，哎，不想多说，也没看小说，只希望，后面不要辜负这些热血青年们的赤胆忠心！"
+    },
+    {
+      "user": "yoyo",
+      "avatar": "https://img3.doubanio.com/icon/u1077225-23.jpg",
+      "content": "每天都在追大江大河，真的太好看了，有几个情节一直哭得不行……那个时代的人真的很不容易吧。王凯演19岁的少年一点也不违和，太厉害了！节奏很快~会一直追的~"
+    },
+    {
+      "user": "回首独重道",
+      "avatar": "https://img3.doubanio.com/icon/u147295736-1.jpg",
+      "content": "王凯开始的扮相不好看，但是演的真的很好！"
+    },
+    {
+      "user": "时不止，事无常",
+      "avatar": "https://img1.doubanio.com/icon/u123864004-9.jpg",
+      "content": "看了前面两集，剧高于我的预期。\n 大江东去的小说我看了几章，因为太长就没有坚持再看了，前面两集整体来说节奏很好，从考上大学—政审过不了—只能一个人读大学—进大学读书，2集就讲了这么多内容，里面的人物性格也表现的很好，所有的演员演技都好好，那个年代读大学真不容易。唉╯﹏╰，我边看边哭，一会又是边哭边笑的，我一个90后没有过过那种日子，也能感受到他们的挣扎与绝望。\n 男主和姐姐的感情真好呀，弟弟当初为了姐姐放弃读高中，姐姐又为了弟弟放弃了读大学，看预告后面弟弟还一直写信鼓励姐姐继续考试。姐弟俩的父亲和母亲都很老实，善良，也很坚忍。我本来是一个不喜欢农村题材的剧的人，但这部剧让我喜欢上村里的场景。看预告雷东宝要出来了，还挺搞笑的。\n 希望后面可以越来越好。"
+    },
+    {
+      "user": "最爱 😘",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "平淡无奇"
+    },
+    {
+      "user": "追梦少年",
+      "avatar": "https://img3.doubanio.com/icon/u154072665-2.jpg",
+      "content": "一般般，要是主演是胡歌就好了"
+    },
+    {
+      "user": "たっつん",
+      "avatar": "https://img1.doubanio.com/icon/u44005176-8.jpg",
+      "content": "当年我小姑念书最好，大爸和我爸一般，两个人出来当工人把小姑供出来（爷爷奶奶重男轻女不管），爸爸大爸下了县上的林场，后来奶奶瘫痪，我爸回到市里毛纺厂边上班边照顾奶奶，后来嘛~小姑上大学当了老师，每年带高三英语，老公也是县里什么局长，大爸和局长女儿结婚，毛纺厂能有什么前途，早就下岗喽！所以一步赶不上，步步落后，又时候我会怨念一下，但几家的关系还是很好，都是良善人家。"
+    },
+    {
+      "user": "yangzilan",
+      "avatar": "https://img3.doubanio.com/icon/u175054402-3.jpg",
+      "content": "期望值太高了，王凯出演正午阳光的剧太多了，一直都是老干部的形象，有点局限了。"
+    },
+    {
+      "user": "吃嘛嘛香",
+      "avatar": "https://img3.doubanio.com/icon/u158820982-1.jpg",
+      "content": "慕名而来哈哈哈，去年启动的时候知道是正午的团队和班底就列入追剧清单了，本来想等等攒肥了再看，可是看了微博上放的片段根本按捺不住。是正午一贯的水准，甚至要更高，细节一如既往地到位，而且节奏明显比以往的作品都要明快，能三两下交代清楚的绝不拖泥带水，请其他注水剧向大江大河看齐好伐。演员是真心选的好，连小配角都浑身是戏，王凯更不用说了，实力派就是实力派，以前我老吐槽扮嫩的演员，剧组为啥不直接请个小演员演年轻时候，何苦为难观众的眼睛，但王凯演的十八九岁的宋运辉就完全浑然天成，从眼神到动作到语气完全就是那个味儿，点赞！！！更加期待后面人物成长的剧情了。已经推荐给我老妈，我要把她从玛丽苏言情剧里拯救出来哈哈。这是最近写得最用心的点评了，今年电视剧市场低迷，希望这个好剧让更多看到。"
+    },
+    {
+      "user": "( •̀∀•́ )",
+      "avatar": "https://img3.doubanio.com/icon/u147265463-1.jpg",
+      "content": "一二集节奏太好了₍◝(･'ω'･)◟⁾一眼认出我的老丁！！kkw这次非常真实优秀，憋憋屈屈哭的时候蜜汁戳我点"
+    },
+    {
+      "user": "平凡的世界",
+      "avatar": "https://img3.doubanio.com/icon/u186274585-1.jpg",
+      "content": "正午的剧从来没让人失望过，布景依然那么好。看了4集剧中主演真的都很棒。尤其王凯超出了我的预期没想到他能把宋运辉演绎的这么贴切。和他平时形象真的反差很大，可见很用心了，还有一个剧中让我印象深刻的是宋运萍，她把她的“光”给了宋运辉，自己不得不放弃理想而求其次，另外小雷家戏份也挺有意思的。期待他们如何把家建起来。继续追剧。\n"
+    },
+    {
+      "user": "只欣赏好作品",
+      "avatar": "https://img3.doubanio.com/icon/u153900042-1.jpg",
+      "content": "真的非常好看！非常真实的再现了那个年代发生的故事，王凯演绎的宋运辉让人心疼，数次感同身受到落泪。再次感叹现在的好生活啊！"
+    },
+    {
+      "user": "浮世绘",
+      "avatar": "https://img3.doubanio.com/icon/u94977220-2.jpg",
+      "content": "看了第一集，年代感扑面而来。宋运辉在烈日下背人民日报那段真的有戳到我。正午拍起年代剧来，真的是信手拈来，连细节都做的很好。感慨一下，那个年代才真的是知识改变命运"
+    },
+    {
+      "user": "洗象红衣",
+      "avatar": "https://img3.doubanio.com/icon/u137127393-13.jpg",
+      "content": "有部小说叫大江东去，它有部连故事节奏都把握不好的同人叫大江大河（手动拜拜）。"
+    },
+    {
+      "user": "那么近那么远",
+      "avatar": "https://img3.doubanio.com/icon/u186026049-1.jpg",
+      "content": "昨晚看宋运辉他爸烧掉平反申请后的那段话，太让人心痛，他害怕给子女再惹麻烦，他太害怕了，宁愿憋屈的活着。宋运辉是三个代表人物里最难演的，演员的完成度很好，期待金州厂和水书记的对手戏。"
+    },
+    {
+      "user": "薛定諤遇猫",
+      "avatar": "https://img3.doubanio.com/icon/u14020418-11.jpg",
+      "content": "孔笙最新力作，王凯宋运辉演得好\n改编自阿耐名著 《大江东去》，正午阳光和孔笙导演的最新力作，王凯主演，阵容班底都非常吸引人。\n\n一部很有诚意的作品。第一二集非常感人。\n\n王凯的宋运辉演得真好，各种表情很到位，展现真实的少年感，真实还原了那个年代人的身体状况和精神面貌。\n\n惊艳！！这是一部可以反复刷看的电视剧，王凯、杨烁、董子健、童谣这些剧中人和书中人设非常符合。"
+    },
+    {
+      "user": "红颜劫",
+      "avatar": "https://img3.doubanio.com/icon/u182681720-1.jpg",
+      "content": "看了两集看不下去，不明白分数这么高，很违和"
+    },
+    {
+      "user": "商君",
+      "avatar": "https://img3.doubanio.com/icon/u69595578-1.jpg",
+      "content": "近两年最良心的国产剧，很真实、节奏也差强人意，如果小雷家的剧情能精简一些就更好了。演员的演技全体在线，特别是扮演宋运辉的王凯，尤其令人惊喜。宋运辉的言谈举止、一颦一笑都能让观众感觉到他就是那个年代的知识分子、他就是宋运辉，他的整体气场让观众相信了那个戏剧空间的真实！王凯有一种可以让观众相信戏剧空间、进入戏剧空间、并与角色共情的能力。这种能力令我很惊讶！"
+    },
+    {
+      "user": "メガテラヨメ",
+      "avatar": "https://img3.doubanio.com/icon/u170695122-2.jpg",
+      "content": "看到最新更新来重新评论一下，这是一部留得下来的作品，宋运辉是一个留得下来的角色，真好，演员能演这样一个角色是幸运，角色能被这样出色的演员诠释出来，也是一种幸运。看到目前为止最喜欢的几场戏是背人民日报的无助愤懑，没得到工作机会的失落，姐姐过世跟大寻倾诉的悲痛自责，被敬重的领导全盘否定的不平委屈，真的太喜欢王凯演出来的宋运辉了，期待接下来的演绎。完结了，结尾王凯的独白真是升华主题，台词功底真的很好啊，虽然第一部中后段节奏有点问题，但还是瑕不掩瑜，这就是2018年总体表现最好的剧集，我还是很期待第二部的，好好拍啊正午阳光"
+    },
+    {
+      "user": "白柠夔",
+      "avatar": "https://img3.doubanio.com/icon/u3675380-5.jpg",
+      "content": "拍的一点也不写实 "
+    },
+    {
+      "user": "tsubasajin",
+      "avatar": "https://img3.doubanio.com/icon/u149057528-4.jpg",
+      "content": "看了几集 不咋滴 很无趣的一部片"
+    },
+    {
+      "user": "柜子里的羊咩咩",
+      "avatar": "https://img3.doubanio.com/icon/u161683277-23.jpg",
+      "content": "王凯从来没有让我失望过，太好看了！厂斗好厉害，也真的精彩，小雷家村希望雷东宝多长脑子听听劝，好多事也怪他自己，我总觉得有伏笔，他性格有缺陷，太操心了，明天姐姐是不是就下线了不要啊！！现在也超级期待杨巡线～从第一集我自己看到现在全家每晚都在等，真的骄傲，正午良心～！"
+    },
+    {
+      "user": "shjkl",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "这是我麻麻强烈要求我打分的，特别好看～满分！希望后面也能保持这样好看的节奏。"
+    },
+    {
+      "user": "smart语",
+      "avatar": "https://img1.doubanio.com/icon/u138538238-9.jpg",
+      "content": "感觉会跟父母爱情一样好看 孔导牛逼"
+    },
+    {
+      "user": "长安夜色",
+      "avatar": "https://img1.doubanio.com/icon/u154643859-7.jpg",
+      "content": "作为一个00后，这个时代是我从来不曾经历的，但是前面短短的两集，让我真正的融入了这个时代，我看到了这个时代的无奈，这个时代下小人物的不易。王凯的演技一如既往的很稳，台词功底很强，第一集前半个小时，宋运辉这个角色在我心里就已经立住了。另外，小期待一下董子健，感觉一定会给我惊喜。还有童谣，是真的很漂亮啊！真的很喜欢姐姐(´ε｀ )♡"
+    }
+  ]
+}

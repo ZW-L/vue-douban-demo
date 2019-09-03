@@ -1,0 +1,1157 @@
+{
+  "title": "超感猎杀 第二季",
+  "url": "https://movie.douban.com/subject/26588239/",
+  "rate": "9.1",
+  "id": "26588239",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2454857708.jpg",
+  "info": [
+    "导演: 拉娜·沃卓斯基 / 莉莉·沃卓斯基 / 詹姆斯·麦克特格 / 丹·格拉斯 / 汤姆·提克威",
+    "编剧: 拉娜·沃卓斯基 / 莉莉·沃卓斯基 / J·迈克尔·斯特拉辛斯基",
+    "主演: 裴斗娜 / 杰米·克莱顿 / 米格尔·安赫尔·西尔维斯特 / 蒂娜·德赛 / 塔彭丝·米德尔顿 / 马克思·雷迈特 / 布莱恩·J·史密斯 / 托比·奥伍梅尔 / 埃伦迪拉·伊瓦拉 / 泰伦斯·曼 / 阿方索·埃雷拉 / 弗莉玛·阿吉曼 / 达丽尔·汉纳 / 马克斯·毛夫 / 纳威恩·安德利维斯 / 帕鲁布·科里 / 瓦莱丽亚·比莱洛",
+    "类型: 剧情 / 科幻 / 悬疑 / 惊悚",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "首播: 2017-05-05(美国)",
+    "季数: 12",
+    "集数: 10",
+    "单集片长: 50分钟",
+    "又名: 超感八人组"
+  ],
+  "desc": "《超感8人组》以来自世界不同地方的八位主角为中心，他们都曾目睹过残暴幻象，进而发觉彼此的心灵能够因此产生连结。这八人不但能够互相感应、看见彼此、相互交谈, 还可探知对方心底深处的秘密。他们不仅要适应这些全新能力, 试著与其他人相处，还要找出为何会惹来杀身之祸。第二季中，黑暗势力会继续追踪这八位通感者，主角们亦会进一步了解不断猎杀他们的秘密组织 BPO，其他盟友也会协助保护他们免于被该组织追杀。",
+  "members": {
+    "director": {
+      "name": "拉娜·沃卓斯基 Lana Wachowski",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1375188599.19.jpg"
+    },
+    "cast": [
+      {
+        "name": "裴斗娜 Doona Bae",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360069686.36.jpg"
+      },
+      {
+        "name": "杰米·克莱顿 Jamie Clayton",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pAo6nWJHX9HEcel_avatar_uploaded1433608555.11.jpg"
+      },
+      {
+        "name": "米格尔·安赫尔·西尔维斯特 Miguel Ángel Silvestre",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1433664721.43.jpg"
+      },
+      {
+        "name": "蒂娜·德赛 Tina Desai",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1482779810.49.jpg"
+      },
+      {
+        "name": "塔彭丝·米德尔顿 Tuppence Middleton",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1361331023.2.jpg"
+      },
+      {
+        "name": "马克思·雷迈特 Max Riemelt",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1434483290.83.jpg"
+      },
+      {
+        "name": "布莱恩·J·史密斯 Brian J. Smith",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p25531.jpg"
+      },
+      {
+        "name": "托比·奥伍梅尔 Toby Onwumere",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1481909354.72.jpg"
+      },
+      {
+        "name": "埃伦迪拉·伊瓦拉 Eréndira Ibarra",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/puzNiJllcFbkcel_avatar_uploaded1427882405.64.jpg"
+      },
+      {
+        "name": "泰伦斯·曼 Terrence Mann",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12644.jpg"
+      },
+      {
+        "name": "阿方索·埃雷拉 Alfonso Herrera",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1439454589.36.jpg"
+      },
+      {
+        "name": "弗莉玛·阿吉曼 Freema Agyeman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1528522127.42.jpg"
+      },
+      {
+        "name": "达丽尔·汉纳 Daryl Hannah",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48628.jpg"
+      },
+      {
+        "name": "马克斯·毛夫 Max Mauff",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424617022.86.jpg"
+      },
+      {
+        "name": "纳威恩·安德利维斯 Naveen Andrews",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39926.jpg"
+      },
+      {
+        "name": "帕鲁布·科里 Purab Kohli",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1483606246.9.jpg"
+      },
+      {
+        "name": "瓦莱丽亚·比莱洛 Valeria Bilello",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504027379.45.jpg"
+      },
+      {
+        "name": "西尔维斯特·迈可伊 Sylvester McCoy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34324.jpg"
+      },
+      {
+        "name": "萨拉·米博·孙 Sara Mibo Sohn",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1539743214.61.jpg"
+      },
+      {
+        "name": "瑞纳萨林 Rainer Sellien",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pHnaPeEd9jGYcel_avatar_uploaded1522264024.41.jpg"
+      },
+      {
+        "name": "孙锡久 Sukku Son",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/plS4B0E61wZscel_avatar_uploaded1529472265.22.jpg"
+      },
+      {
+        "name": "尹汝贞 Yeo-jeong Yoon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p16752.jpg"
+      },
+      {
+        "name": "迈克尔·X·萨默斯 Michael X. Sommers",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537523383.94.jpg"
+      },
+      {
+        "name": "马克·雅可布 Marc Jacobs",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p24540.jpg"
+      },
+      {
+        "name": "奈斯鲍提斯塔 Ness Bautista",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/poqcW5nTC3pccel_avatar_uploaded1457114202.9.jpg"
+      },
+      {
+        "name": "李基灿 Lee Ki-chan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pUzUx38kWH2wcel_avatar_uploaded1533002522.41.jpg"
+      },
+      {
+        "name": "夏恩·杰克逊 Cheyenne Jackson",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1445520626.39.jpg"
+      },
+      {
+        "name": "亚历山大·赫蒙 Aleksandar Hemon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/ptPcMT0kZ4nccel_avatar_uploaded1566374264.56.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2457965950.jpg?",
+        "src": "http://vt1.doubanio.com/201908311630/71050f4dda38d9b9f7e08f6495ba2158/view/movie/M/302160513.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2346048539.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2458606826.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2458606717.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2346048524.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "糯米包油条",
+      "avatar": "https://img3.doubanio.com/icon/u50244126-12.jpg",
+      "content": "能不能不要总给老裴穿内衣和凉鞋啊"
+    },
+    {
+      "user": "非青",
+      "avatar": "https://img3.doubanio.com/icon/u3085048-14.jpg",
+      "content": "好点子，剪辑乱，拍成屎。尤其恶心演员和“演技”，由drama sis导drama queens演的做作无脑drama。更可怕每个圣母白莲花都同一种怪口音，好人即素食主义帮助叙利亚难民，Nomi永远只谈论变性，lito永远都为gay被压迫。非黑即白的剧情是小学生写的还是把我们当小学生？还有为什么黑人高光被调成屎黄色？"
+    },
+    {
+      "user": "啮雪的大智猿",
+      "avatar": "https://img3.doubanio.com/icon/u45590222-20.jpg",
+      "content": "光看will刮胡子、裴斗娜练太极、沃夫冈洗澡就可以看100集"
+    },
+    {
+      "user": "☆Showing",
+      "avatar": "https://img3.doubanio.com/icon/u147613933-6.jpg",
+      "content": "我能说Daniela是全剧最幸福的角色吗？！"
+    },
+    {
+      "user": "叛逆的熊孩子",
+      "avatar": "https://img3.doubanio.com/icon/u149005963-4.jpg",
+      "content": "沃夫冈真是帅炸了！"
+    },
+    {
+      "user": "Melodrame",
+      "avatar": "https://img3.doubanio.com/icon/u53722214-33.jpg",
+      "content": "太特么好看了！！！！！！！！！！！！！！！！！！！！！！！卧槽，我形容不了了！！！！！！！！！！！！！"
+    },
+    {
+      "user": "in-coherence",
+      "avatar": "https://img3.doubanio.com/icon/u63223538-5.jpg",
+      "content": "越狱，律师，冰血暴，八人组，如果这时候冰火再回归，感觉人生就完满了。"
+    },
+    {
+      "user": "Caesar",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "看完第一季，sense 8 直接让我患上寂寞癌······唯一解药就是第二季。必须五星"
+    },
+    {
+      "user": "Danny",
+      "avatar": "https://img3.doubanio.com/icon/u2583895-32.jpg",
+      "content": "通宵刷完整部剧，发现结尾深坑，又要等两年了吧。没有第一季中间几集那么炫技。但是这部的命题即我是谁，电视剧领域少见的聚焦于身份认同题材，从内在而言是把8个人群戏框架夯实了，又加入哲学性主题的高度，所以不得不说从立意上，这部剧仍旧可以俯视群雄。碎片化剪辑的教科书。"
+    },
+    {
+      "user": "小饿魔",
+      "avatar": "https://img1.doubanio.com/icon/u13731883-68.jpg",
+      "content": "第一季结尾Milton虐Will，第二季结Milton虐Wolfie。愿Milton长寿健康，我们大概就可以续订到第八季。（来自一位已经被好看疯了的癫狂用户）"
+    },
+    {
+      "user": "心生",
+      "avatar": "https://img3.doubanio.com/icon/u45811878-20.jpg",
+      "content": "连着刷完10集，太爽了，每集都是，非常非常带感。"
+    },
+    {
+      "user": "东东隆咚锵",
+      "avatar": "https://img1.doubanio.com/icon/u94594889-8.jpg",
+      "content": "当英雄打赢了战争 获得了胜利\n当众人开始遗忘 英雄才有时间回过头来 舔舐之前没来得反应的疼痛\n逝去的亲人 逝去的朋友\n逝去的每一个珍重过的人 \n\n威尔躺在床上抱头痛哭 \n父亲死前还不能到跟前\n比起那些打斗 party\n那一个个迷茫 扪心自问的时刻\n才是这部剧最打动我的"
+    },
+    {
+      "user": "MJØLK",
+      "avatar": "https://img3.doubanio.com/icon/u3226573-1101.jpg",
+      "content": "這劇的分鏡設置絕對可以逼死相當多工作人員。"
+    },
+    {
+      "user": "#FreeShkreli",
+      "avatar": "https://img3.doubanio.com/icon/u2803458-32.jpg",
+      "content": "我操太好看了，快快第三季！！"
+    },
+    {
+      "user": "李濛Lemon",
+      "avatar": "https://img3.doubanio.com/icon/u47893175-20.jpg",
+      "content": "这是一部支线比主线精彩的剧，每次故事进入到主线我都在心里呐喊，谁要看主线啊！我要看开锁哥和已婚白富美的琼瑶戏！我要看黑人小哥从公车司机逆袭成人民领袖！我要看韩国妹复仇的同时顺便跟逮捕她的条子谈个很苏的恋爱！我还要看他们一言不合就群P！对了导演，这一季为什么没有群p！"
+    },
+    {
+      "user": "heather",
+      "avatar": "https://img3.doubanio.com/icon/u144860895-21.jpg",
+      "content": "看这剧时如同自己也有了超感。尖叫窒息，一起反击，一同做爱，共同群P。好的科幻片，是你知道这不切实际，可却感同身受地悲欢别离，雀跃震惊。"
+    },
+    {
+      "user": "筷喜旺",
+      "avatar": "https://img1.doubanio.com/icon/u38190322-297.jpg",
+      "content": "其实从头到尾我都没搞清楚他们要干嘛，稀里糊涂的，但是裴多娜穿胸罩短裤打架打太极简直太他妈的好看了！！怎么会有那么好看的亚洲女性！！"
+    },
+    {
+      "user": "明安",
+      "avatar": "https://img3.doubanio.com/icon/u61212508-24.jpg",
+      "content": "一口气看完想鼓掌，this season is ridiculously good"
+    },
+    {
+      "user": "Amir",
+      "avatar": "https://img3.doubanio.com/icon/u42757486-6.jpg",
+      "content": "下一季不会又要等两年吧......(;´༎ຶД༎ຶ`)"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "依然是披着科幻的外壳讲述人的感情。可以开怀大笑、可以当街拥吻、可以骄傲游行、可以伤心落泪，那些我们日常生活中被裹得严严实实的感情，通过心灵相通的小伙伴加乘，以喷薄热烈的形态释放出来，看完就像洗了一个痛快淋漓的热水澡。也许有天我会等到我的sensate, and I say hey yeah yeah yeah..."
+    },
+    {
+      "user": "ODD O O",
+      "avatar": "https://img1.doubanio.com/icon/u81157301-7.jpg",
+      "content": "真的是能让人泪流满面的伟大作品！！技术上当然没的说，太老道了。最重要的是，沃卓斯基姐妹怀着对人类社会巨大的悲悯之情，将人性种种与政治、家庭、爱情、信仰、性别等等全部融合，传递着无上的价值观，这是最难能可贵的。第二季节奏快了不少，脑洞依旧大，人物增加众多，不知道第三季要等多久！"
+    },
+    {
+      "user": "黄信滚",
+      "avatar": "https://img3.doubanio.com/icon/u1424002-31.jpg",
+      "content": "觉得比上季差太多。上季好歹有点连贯剧情起承转合，这季不知道导演到底是有多爱慢镜头，全篇就是大号的慢动作 MV + 啪啪啪，剧情就是 random 角色排列组合对话东一榔头西一棒锤。看完豆瓣评分我疯了，撑死两星半，我应该是瞎了。"
+    },
+    {
+      "user": "gabriel C",
+      "avatar": "https://img3.doubanio.com/icon/u42425586-2.jpg",
+      "content": "\"my sister is a fucking terminator\". ---裴斗娜之弟"
+    },
+    {
+      "user": "tsunami",
+      "avatar": "https://img3.doubanio.com/icon/u2155544-35.jpg",
+      "content": "《sense8》精准地打了一个点：人类永恒的孤独，以及对另一个个体能够完全理解自己的终极渴望。 "
+    },
+    {
+      "user": "基瑞尔",
+      "avatar": "https://img1.doubanio.com/icon/u57783734-258.jpg",
+      "content": "对于第二季和最近正在热映的《银护2》的感觉是一样的：他们都在集中讲述人世间最难讲、最难解的感情，所以使得一切的设置和设计都显得那么顺理成章。有的人看到的是主线副线多变的剧情讲述，有的人看到了Wachowski的剧本剪辑水平云云，但一如既往，我看到的是对情感最动容最真挚的描写与理解。"
+    },
+    {
+      "user": "阿琴波尔迪",
+      "avatar": "https://img3.doubanio.com/icon/u3584131-106.jpg",
+      "content": "Wolfgang Wolfgang Wolfgang Wolfgang 简直雄激素本人"
+    },
+    {
+      "user": "雨夜飞行",
+      "avatar": "https://img3.doubanio.com/icon/u2005598-106.jpg",
+      "content": "最精彩的莫过于Nomi线和Lito线，LGBT相关情节拍得非常真挚。Sun线的结局是什么鬼？胜利在望了已经为什么突然减缓行走速度？！！季终虽然Will最后一句话说的干劲十足，但是估计第三季一开始又要“品味生活”了"
+    },
+    {
+      "user": "_羅",
+      "avatar": "https://img1.doubanio.com/icon/u1702768-7.jpg",
+      "content": "作为一个8月8号生日的人，不要问我为什么跪着看这部剧！！！"
+    },
+    {
+      "user": "Combeferre",
+      "avatar": "https://img3.doubanio.com/icon/u33177895-14.jpg",
+      "content": "主角族群的所有人都太招人待见了。Sun的故事占了很大比例。有几段戏特别喜欢，比如圣保罗同志游行/Nomi妹妹的婚礼/求婚戏/海滩戏等等。还有失业的Lito各种Drama为我提供了一堆表情包233。看完最后一集大喊一声WOW!大家终于相聚了！要开战了啊啊啊！求续订。🙏"
+    },
+    {
+      "user": "安锤",
+      "avatar": "https://img1.doubanio.com/icon/u2323936-227.jpg",
+      "content": "明确主要目的后连看10集比第一季光看LGBT更有爽感。LGBT的一对对那么甜那么美，异性恋都特么苦死了，特别是裴斗娜，好不容易越狱跟帅警官擦出火花，一不留神对方就重伤了，整季里造型邋遢、裸妆上阵，内衣加短裤，惨无人道啊，是不是亲生的啊。"
+    },
+    {
+      "user": "Momo June",
+      "avatar": "https://img1.doubanio.com/icon/u34346431-87.jpg",
+      "content": "没有了之前那些*乱搞**多肉**摩擦*【什么】 开始正经铺剧情【反派的逻辑我总是想不明白】分支线季终大家也有了个暂时的解放或收获 更多的族群更大的坑 看龌龊司机们怎么填吧 然而想不到大家是这样实体见面的 ：（（我实在是不想再看到Angelica和Jonas了 神烦"
+    },
+    {
+      "user": "白",
+      "avatar": "https://img3.doubanio.com/icon/u2090959-225.jpg",
+      "content": "《全世界都讲一口地道的英语》第二季"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "实在是拖，也实在是爽。"
+    },
+    {
+      "user": "纽蒙迦德",
+      "avatar": "https://img3.doubanio.com/icon/u140380700-5.jpg",
+      "content": "第一季觉得节奏慢弃了的实在太可惜了第二季处处是合体啊超燃\n看完更新:最后一集有些仓促，希望这是类似于预告之类的精缩，这样下一步圣诞特辑可以详细展开最后十几分钟几人伦敦见面干大事的部分。啊太期待三妹和Wolfie的见面了…"
+    },
+    {
+      "user": "张伊Red-",
+      "avatar": "https://img1.doubanio.com/icon/u85770284-28.jpg",
+      "content": "不喜欢这剧的人应该是生活中很多朋友跟谁都玩得很开的人吧，体会不到什么叫身在人群中依然孤独无尽，像我这种抑郁痛苦生活处处不顺的人多希望有这样一帮人理解我帮助我。"
+    },
+    {
+      "user": "Creep_",
+      "avatar": "https://img3.doubanio.com/icon/u3688098-112.jpg",
+      "content": "中间有几集每集结尾都是几个人在一起握拳鸡汤到我怀疑人生。有几集，Wachowski姐妹放的情结也是很刻意（= =）最后一集结尾进展也是太迅速潦草，Jonas傻到主动开门？而且都在一起，为什么不去救Max。。。所以，什么时候第三季？（再让我看几遍，我都认不出Alfonso Herrera既是Hernando又是驱魔人男主）"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "因为要照顾到八个人，每次一个角色有波动变故，势必全体出动，造成极为拖沓，没完没了地谈感情，慢镜头多得吓人，看得审美疲劳，我要看主线啊，手动再见，下季不追。"
+    },
+    {
+      "user": "Mosquito史歌",
+      "avatar": "https://img3.doubanio.com/icon/u50844152-4.jpg",
+      "content": "本季主题是站出来，站出来面对现实、面对自己。比起第一季，本季节奏更快，剧情推进更多，每个角色的成长更大，但依旧保持了近乎炫技的剪辑方式以及对敏感话题的关注度。更多的超感人族群站了出来，超感人内部也划分了派系，世界观不断扩大。结尾虽然挖了大坑，但几个人实体相聚一起行动多么令人激动"
+    },
+    {
+      "user": "猴头虫",
+      "avatar": "https://img3.doubanio.com/icon/u3492022-12.jpg",
+      "content": "太好看了，好看到决定再从头看一遍"
+    },
+    {
+      "user": "otnecevoN",
+      "avatar": "https://img3.doubanio.com/icon/u135203257-12.jpg",
+      "content": "5.0，还以为质量会下降没想到还是那么好看。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "这个剧被砍了，不会再有第三季了。撒个花吧，其实拍成现在这个样子，第二季都不该有。"
+    },
+    {
+      "user": "灰姥姥",
+      "avatar": "https://img3.doubanio.com/icon/u1878490-256.jpg",
+      "content": "裴斗娜简直就是冷静版孙燕姿 中间几处强行鸡汤略拖沓 依旧好看不过还可以更好 第三季早点播啊啊啊啊"
+    },
+    {
+      "user": "猞猁与渡鸦",
+      "avatar": "https://img3.doubanio.com/icon/u48505027-21.jpg",
+      "content": "这一季真是太扯 被砍情有可原"
+    },
+    {
+      "user": "Zoe",
+      "avatar": "https://img3.doubanio.com/icon/u50878971-51.jpg",
+      "content": "stronger together"
+    },
+    {
+      "user": "二丁目艺仔",
+      "avatar": "https://img3.doubanio.com/icon/u42136258-31.jpg",
+      "content": "只想看支线不想看主线，而且只想看minority支线，对第一世界白人的心路历程不是特别关心【对不起。话说黑人姐姐这种完美的女朋友世上真的存在么？"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "虽然平行剪辑确实炫技，但花了那么多时间翻来覆去讲场面话，还不如一起组团打怪来的爽。"
+    },
+    {
+      "user": "饱の嗝",
+      "avatar": "https://img3.doubanio.com/icon/u1000905-1801.jpg",
+      "content": "结尾三步跳，又掘个小坑，哎，并不好，应该是跨群联合作战的反钓鱼"
+    },
+    {
+      "user": "夏予川",
+      "avatar": "https://img3.doubanio.com/icon/u63761440-10.jpg",
+      "content": "怀疑是为了全球性的吃喝玩乐X特地写的剧本，零剧情，主角们总是在洗澡、游泳、睡觉，一起洗澡一起游泳一起睡觉[害羞]，反正都不怎么爱穿衣服。每集就是几首歌的MV，全季就像一整张专辑，不过还挺赏心悦目的。"
+    },
+    {
+      "user": "全声波频道D",
+      "avatar": "https://img3.doubanio.com/icon/u4468102-22.jpg",
+      "content": "？？？？我要疯了快给我第三季！！龌龊司机快给我他妈的第三季！！！"
+    },
+    {
+      "user": "Ashes",
+      "avatar": "https://img3.doubanio.com/icon/u138549699-4.jpg",
+      "content": "已在网飞官网先睹为快\n【补一下：看了七集了，有俩集有点拖沓，整体评价明天刷完再说"
+    },
+    {
+      "user": "彌張",
+      "avatar": "https://img3.doubanio.com/icon/u1334746-690.jpg",
+      "content": "德国小哥和印度妹子好墨迹，不过我喜欢这cp哈哈哈，没8p不开森，裴斗娜全程晾着小身板"
+    },
+    {
+      "user": "威锐",
+      "avatar": "https://img3.doubanio.com/icon/u49808759-51.jpg",
+      "content": "半天时间速刷！硬要写短评就是，好看，真好看，怎么这么好看啊，还有吗我还想看？"
+    },
+    {
+      "user": "麻衣_",
+      "avatar": "https://img3.doubanio.com/icon/u132818926-5.jpg",
+      "content": "第二季节奏更紧凑，故事也更加紧张成熟了。不知道为什么我会有这样的一种感觉，看着他们的故事，却仿佛自己也深入其中成为他们的一份子，随着他们的心情起伏。这部剧的核心依然是这个世界的开放性和包容性，每个人都有自己独特的生活方式，也总有人不愿意接受不同，但无论如何我们都将与之抗争到底"
+    },
+    {
+      "user": "The 星星",
+      "avatar": "https://img3.doubanio.com/icon/u1024414-184.jpg",
+      "content": "了解了基本思路后就不那么吸引人了，作为一个老年人炫酷吊炸天已经吸引不了我了，当成八人成长励志剧还不错，请给斗娜姑娘多穿点衣服，替她冷，谢谢，希望下一季能关注一下无性恋。"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "在告诉别人我是“通感者”的时候，有点像出柜，但是其他人会觉得更酷～最喜欢lito，在失业的那几段好可爱，但是其他人也很喜欢啊。"
+    },
+    {
+      "user": "愛永",
+      "avatar": "https://img1.doubanio.com/icon/u3270744-7.jpg",
+      "content": "當他們八人不再各自孤身一人，這充滿惡意的世界，也不再能為所欲為。如果超感小組真存在真實生活中，像林奕含那樣孤單的人或許就不會走上絕路了。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "终于看完了，又臭又长"
+    },
+    {
+      "user": "加州站街男孩",
+      "avatar": "https://img3.doubanio.com/icon/u1110191-222.jpg",
+      "content": "最后一集简直WTF！！！无法理解Angelica the old bitch的动机，看后面怎么洗白她！！"
+    },
+    {
+      "user": "LeungChanXXX",
+      "avatar": "https://img3.doubanio.com/icon/u48687824-52.jpg",
+      "content": "每场群戏都燃到飞起"
+    },
+    {
+      "user": "Xguozi郭哥",
+      "avatar": "https://img1.doubanio.com/icon/u1974549-37.jpg",
+      "content": "通感不是无敌，群P忘乎所以，格局大的不行，可喻为科幻版《This is us》。想说导演是《黑客帝国》的前Wachowski兄弟，现更变性成Lana&Lily姐妹花，就知道这剧有夺精彩了！"
+    },
+    {
+      "user": "昆廷马泰尔扑该",
+      "avatar": "https://img1.doubanio.com/icon/u45277708-19.jpg",
+      "content": "啊日日日日日日啊日日日日为什么要抓小狼哥啊日日日日日日我小狼哥和我小羊妹终于不用隔空日日日可以真人日日日了啊why啊why啊why要抓走小狼哥啊为毛啊为毛要阻止我看小狼哥和小羊妹日日日啊天杀的啊日日日日日你们跟异性恋有仇啊日啊异性恋招你惹你了啊日啊日日日日日日日┗|｀O′|┛"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "支线细化，且几乎每条都套上了这个国度或地域出品的影视作品里颇常见的题材与类型元素，然而更重要的是，此剧已经正式成为了沃卓斯基“邪教”的核心宣传手册。"
+    },
+    {
+      "user": "indicent time",
+      "avatar": "https://img1.doubanio.com/icon/u51061132-59.jpg",
+      "content": "断断续续地看，总算看完了，不如第一季，还是有点太拖了，裴斗娜这季倒是真的亮眼好多，为她打call"
+    },
+    {
+      "user": "fallingraining",
+      "avatar": "https://img3.doubanio.com/icon/u52114041-2.jpg",
+      "content": "靠，总算是见面了。"
+    },
+    {
+      "user": "Eve|Classified",
+      "avatar": "https://img1.doubanio.com/icon/u3541809-98.jpg",
+      "content": "无论你在哪里，你不是一个人。你并不孤独。I am also a we."
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "看到最后一集终于明白sense 8里为什么没有中国人了，这人家都飞伦敦去实体大战了你中国超感人还在等出签证呢……这个剧的剧情量，要都按最后一场伦敦戏来拍的话，整部剧两个小时就拍完了吧，被砍很合情合理了。第一季里三名男角都很值得睡，第二季的颓废Will 零魅力，Lito完全变知心大姐，还是Wolfgang 依旧性感在线！我的One Pick 出来了"
+    },
+    {
+      "user": "虚杜",
+      "avatar": "https://img1.doubanio.com/icon/u97637940-9.jpg",
+      "content": "第一集反杀不要太爽！这季开始竟然已经完全接受八人通感随时随地开 patty的设定了！"
+    },
+    {
+      "user": "盲忙",
+      "avatar": "https://img3.doubanio.com/icon/u2206329-131.jpg",
+      "content": "比起第一季全程高能和新奇的表现形式，这一季疲态尽显，虽然部分支线剧情依旧非常精彩，但无奈主线剧情存在感实在太弱，无法将庞大支线形成有效合力，所以这个结局应该早一点来，而不是硬想着拖到下一季。越来越喜欢裴斗娜，Will Wofie Lito都很性感，不过Hernando才是我心中的完美情人形象啊。"
+    },
+    {
+      "user": "某J。624",
+      "avatar": "https://img1.doubanio.com/icon/u2223174-29.jpg",
+      "content": "主线真是顺便推进一下，不过我倒意外地更喜欢“水水”的支线。可能比起族群之间的war，这种生活中无论遇到什么，都不仅有人陪还有那么多外挂的感觉真的太棒了。坐等第三季，新的感情线展开。PS：就这么被砍了！"
+    },
+    {
+      "user": "zzy花岗岩",
+      "avatar": "https://img3.doubanio.com/icon/u3718831-6.jpg",
+      "content": "每集都有燃点，群戏剪辑特别出彩。但剧中的大事件诉述的较为简单，结尾也有些仓促。越来越喜欢裴斗娜了~"
+    },
+    {
+      "user": "雅典娜",
+      "avatar": "https://img3.doubanio.com/icon/u1059709-61.jpg",
+      "content": "还是那么好看！有时会让我回想起《云图》。今年十佳之一没跑了～ 几乎每集都有泪点！角色都在成长，服务观众的内容很多，而铺设定走剧情也没停，就是结尾留扣留的节奏有点奇怪…估计第三季上来就是个高潮。沃卓姐妹太会挑演员了，连韩国欧巴都那么赞，这是我有史以来第一次觉得让人心动的韩国欧巴XD"
+    },
+    {
+      "user": "帕拉",
+      "avatar": "https://img3.doubanio.com/icon/u58059498-5.jpg",
+      "content": "写成了肥皂剧。"
+    },
+    {
+      "user": "素梳影",
+      "avatar": "https://img3.doubanio.com/icon/u2158702-1.jpg",
+      "content": "sense8 复活了！！2018年有2小时加长版的大结局！！！"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "#too much distraction#仍然充斥着过分喧宾夺主的LGBT色彩和自满确幸的小聪明~但终于是将第一季耍着玩的点子发展成为足够担任连续剧主体的稳固时空设定了，照这样发展来看，剧集极有可能走向两个极端：渐入佳境的原创剧集，或者一朵烧钱的白莲花。★★★"
+    },
+    {
+      "user": "室内滂沱",
+      "avatar": "https://img3.doubanio.com/icon/u5812768-70.jpg",
+      "content": "剧集制作的总体野心不如第一季，每集只是做到观感流畅和“酷极了”，很多时候都在赶剧情的发展，印象深刻的地方并不多（第一季后半段可是集集哭啊），情节有一些过于想当然的地方让我这脑残粉都有点受不了，略有失望。"
+    },
+    {
+      "user": "木一",
+      "avatar": "https://img3.doubanio.com/icon/u1417034-33.jpg",
+      "content": "两天刷完了第二季，虽然充斥着少数族群的政治正确和明媚耀眼的主角光环让整体有些甜腻，但它精巧的构思与入骨的人物刻画，还有，性感导向的选角，让它当之无愧地成为我最爱的美剧之一。"
+    },
+    {
+      "user": "不想做神仙鱼",
+      "avatar": "https://img3.doubanio.com/icon/u2664977-2.jpg",
+      "content": "最后一集太TM带劲了。越看越觉得，这剧的拍摄和调度难度得多大啊，了不起。art, like life, is full of risk, and that's beautiful."
+    },
+    {
+      "user": "嗷嗷嗷",
+      "avatar": "https://img3.doubanio.com/icon/u48802920-13.jpg",
+      "content": "被砍了所以就永恒地坑了！？龌龊司机姐妹这季的最大问题是想表达的东西凌驾于故事之上 政见思想里插播情节 LGBT如我有时候都觉得怎么又他妈out and proud了 但是！这在这个时代是有价值的 只是希望如果能复活能多走走情节线 全剧90%的情节发生在最后十分钟 I was like...怎么回事！？发生了什么！？"
+    },
+    {
+      "user": "skcusnabuod",
+      "avatar": "https://img1.doubanio.com/icon/u43521885-9.jpg",
+      "content": "浮夸，每集来个MV，各种欠考虑"
+    },
+    {
+      "user": "押沙龙",
+      "avatar": "https://img1.doubanio.com/icon/u3154083-78.jpg",
+      "content": "危机时刻打酱油的艺术！"
+    },
+    {
+      "user": "gegemoon",
+      "avatar": "https://img3.doubanio.com/icon/u2447648-26.jpg",
+      "content": "试镜那里有点尴尬扣一星。怎么这么快就看完了啊！下一季还要等到什么时候！临到季终还要虐一下是闹哪样！这个剧里异性恋都没有好日子我算看透了！"
+    },
+    {
+      "user": "壹毛镜",
+      "avatar": "https://img3.doubanio.com/icon/u39621410-34.jpg",
+      "content": "这也太好看了 一口气看完根本不想干别的还想看"
+    },
+    {
+      "user": "Lonely",
+      "avatar": "https://img3.doubanio.com/icon/u47461599-3.jpg",
+      "content": "两年后的第二季。。。下载的剧集，有的把圣诞特别篇放到了这里，作为第一集，导致一共有11集。。。观看次序：第一季 2015 --> 圣诞特别篇 2016 --> 第二季 2017 --> 完结篇 2018。"
+    },
+    {
+      "user": "大爷好粗~撸",
+      "avatar": "https://img1.doubanio.com/icon/u43096710-78.jpg",
+      "content": "两鬼才导演从 \n黑客帝国时的 两兄弟\n变成云图时的 两姐弟\n现在变成了 两姐妹？！\n歪国人的性别。。。\n我也是看不懂。。。"
+    },
+    {
+      "user": "Mona Lishark",
+      "avatar": "https://img3.doubanio.com/icon/u1998052-303.jpg",
+      "content": "刚补完，特别喜欢大家讨厌的第十集，可以看作一部短片了，有一种「你要是前九集都这么有出息就不会被砍了」的感叹。"
+    },
+    {
+      "user": "李九弟Jody",
+      "avatar": "https://img3.doubanio.com/icon/u64304532-10.jpg",
+      "content": "沃卓斯基的特色就是话多，但还是挡不住得好看，哭得一塌糊涂，幸亏有圣诞特辑的高糖。This is a war but I am a fighter, and I will be a survivor. Forever."
+    },
+    {
+      "user": "深度电影圈",
+      "avatar": "https://img1.doubanio.com/icon/u53822613-7.jpg",
+      "content": "太燃了！BGM太棒了！剧情比第二季又强了很多，颜值依然爆表，分分钟都精彩，沃卓斯基姐妹真是对镜头的捕捉到了登峰造极的地步，怎么会有这么好看的剧！"
+    },
+    {
+      "user": "mOco",
+      "avatar": "https://img3.doubanio.com/icon/u2290115-320.jpg",
+      "content": "怎么搞出这么一部完全触动内心的作品，而且第二季真的是高潮迭起。"
+    },
+    {
+      "user": "孤岛",
+      "avatar": "https://img3.doubanio.com/icon/u51138955-72.jpg",
+      "content": "社会我裴姐人狠话不多。爱穿内裤跑，单穿bra打架。肌肉男失业，天天哭哭啼啼简直可爱爆了。我冈纯黑帮，枪战血拼撬车撬保险柜，帅的流鼻血。好看死了，今年最佳！据说这剧被毙了……不知道真假简直毙了狗了。"
+    },
+    {
+      "user": "1.",
+      "avatar": "https://img3.doubanio.com/icon/u35063378-14.jpg",
+      "content": "行呀 斗娜内衣内裤打天下 从上一季开始八人每一次的同时出现都想让我想摇旗呐喊心里莫名感动 但是 那个公共的MP3 请你在下一季别再只放歌了好吗"
+    },
+    {
+      "user": "老罗Lazzaro",
+      "avatar": "https://img1.doubanio.com/icon/u52337061-7.jpg",
+      "content": "视觉上是艺术感十足了，但故事推进很缓慢。黑客真是无所不能。E01反杀。E02族群理论的解释，结尾一记高潮。E04 e-death。E06 Jonas再现。E07群体干架。E10结尾仓促，反杀，战争才刚刚开始。"
+    },
+    {
+      "user": "OCT IO≯",
+      "avatar": "https://img3.doubanio.com/icon/u23344187-53.jpg",
+      "content": "感觉还没开始就结束了，最后一集收尾实在太仓促，主线剧情的插入也略显生硬，稍逊于上一季，明年的特别篇想把故事讲明白又能收的圆满真心不容易…各位卡司含情脉脉的眼神都超到位，好评！八位一体再加几个外挂的设定还是一如既往的带感，熬过一年才能等来两小时也是心累，不过能有个善终也算个安慰吧…"
+    },
+    {
+      "user": "fire",
+      "avatar": "https://img3.doubanio.com/icon/u65366516-2.jpg",
+      "content": "当个奇情片看还是有点意思的"
+    },
+    {
+      "user": "丁卯",
+      "avatar": "https://img3.doubanio.com/icon/u4620668-23.jpg",
+      "content": "除了Sun，其他人的非主线剧情也忒无聊了"
+    },
+    {
+      "user": "脱氧核糖十三",
+      "avatar": "https://img3.doubanio.com/icon/u47973948-16.jpg",
+      "content": "淡化了每个人的元素符号，强化了独特个体间的性格互补。他还是严谨国度现代都市阴影中固执的独狼，但他也需要帮助；她还是亚洲传统男权下坚强的功夫少女，但她也需要在无助时痛哭一场；他还是在充斥疾病、贫穷与种族冲突的土地上的小巴司机，但他也可以发出自己的声音。设定的利用还是有进步的。"
+    },
+    {
+      "user": "抽先桑",
+      "avatar": "https://img1.doubanio.com/icon/u3723548-88.jpg",
+      "content": "我裴为什么永远不穿衣服"
+    },
+    {
+      "user": "艳火",
+      "avatar": "https://img1.doubanio.com/icon/u67003341-9.jpg",
+      "content": "一个披着科幻LGBT外衣的林黛玉式矫情圣母价值观输出巨长drama queen广告。Lito中间那个哭戏比Sergio Ramos在欧冠决赛的摔倒打滚还浮夸，第九集那个导演也是分分钟要兰花指旋转跳跃闭着眼飞上天了，我真的服"
+    },
+    {
+      "user": "Bearkiii",
+      "avatar": "https://img1.doubanio.com/icon/u8208150-108.jpg",
+      "content": "沃卓斯基姐妹试图建立一种跨性别、跨种族、跨地域的身份认同，在这样的野心下，不仅异性恋被推翻，1V1也被推翻。好一盘大棋。"
+    },
+    {
+      "user": "昏昏糕",
+      "avatar": "https://img3.doubanio.com/icon/u50197852-14.jpg",
+      "content": "…………………………不懂自己为什么要看八个社会功能健全的人用说不通的超能力谈恋爱（。）城市风光片。"
+    },
+    {
+      "user": "文漪",
+      "avatar": "https://img3.doubanio.com/icon/u2668942-3.jpg",
+      "content": "瞎啊，一个小时的故事拆成10集讲还那么高分，放到亿万里五分钟能给讲完"
+    },
+    {
+      "user": "生人回避",
+      "avatar": "https://img3.doubanio.com/icon/u51911319-11.jpg",
+      "content": "E04，V + What's up + 8人举杯 ，泪目 。"
+    },
+    {
+      "user": "瑶妹儿",
+      "avatar": "https://img3.doubanio.com/icon/u150929821-1.jpg",
+      "content": "还不错喜欢"
+    },
+    {
+      "user": "张苑希",
+      "avatar": "https://img3.doubanio.com/icon/u79221774-31.jpg",
+      "content": "一人有难，八方支援；众志成城，以一敌百。主线精彩部分主要集中在后两集，其余副线零零散散进度缓慢，导致结尾语焉不详续集被砍。即便如此，LGBT大游行、泛性真爱、家庭亲缘、超感友谊/爱情等元素还是无比动人的，更为我们展现了来自不同国家不同阶层人们的各种生存状态和生活风貌。科幻概念虽执行的一般，但起码沃卓斯基姐妹在人文刻画上挺戳中我的。"
+    },
+    {
+      "user": "贝塔先生",
+      "avatar": "https://img3.doubanio.com/icon/u1200112-135.jpg",
+      "content": "拖……"
+    },
+    {
+      "user": "花岛仙藏",
+      "avatar": "https://img3.doubanio.com/icon/u4471722-4.jpg",
+      "content": "燃！！"
+    },
+    {
+      "user": "令和学习机器",
+      "avatar": "https://img3.doubanio.com/icon/u4581247-100.jpg",
+      "content": "人类之光！每个看似fucked up的loser都值得被救赎QAQ"
+    },
+    {
+      "user": "Moscheal慕",
+      "avatar": "https://img3.doubanio.com/icon/u69152027-2.jpg",
+      "content": "先说缺点，因为支线太多，导致主线进展缓慢，有些支线的走向已经是诡异的级别了，第七集的八对八打斗，开始真是让人热血沸腾，但是后来的同步真的是笑出声。其他全是优点啊！！！！不管是导演，摄影，演员一切都是最高级别的盛宴，节奏慢怎么了，第十集真的是看到人都要跳起来了。就为了第十集都值得。"
+    },
+    {
+      "user": "Trouble…maker",
+      "avatar": "https://img3.doubanio.com/icon/u75561690-1.jpg",
+      "content": "我女神莱利和男神沃尔夫终于回来了！再次看到女神Riley，让我感觉又恋爱了\n不过第二季烂尾了，没想到高潮全在最后十几分钟，刚到高潮部分就结（烂）束（尾）了！虽然是为了第三季挖坑，莫非再让我等两年？美剧大多都是一年一季，两年才憋出一季还烂尾，等的好痛苦！不过温情戏泪点更多，依旧精彩不减"
+    },
+    {
+      "user": "★☆★",
+      "avatar": "https://img3.doubanio.com/icon/u27204007-10.jpg",
+      "content": "Fucking Awesome!!!!!!!想推荐给全世界的人看!!!我Wolfgang有事儿我就特么生气！太几把好看了吧！有一百一千一万个不一样的我！普通人版大群！"
+    },
+    {
+      "user": "夜寻",
+      "avatar": "https://img3.doubanio.com/icon/u2571536-62.jpg",
+      "content": "充满了生命中一切的好事，爱，希望，羁绊，善良，勇气……那么有感染力，让人感同身受。当他们为彼此而来，就是势不可挡的力量。游行那里太嗨，根本不够啊！贵剧甜起来可比嗑药爽！"
+    },
+    {
+      "user": "BH",
+      "avatar": "https://img3.doubanio.com/icon/u4145491-5.jpg",
+      "content": "第四集裴斗娜回到翠云亭那几分钟 光影音乐和慢镜头 不同寻常的美 心都安静了 第五集末的人肉谷歌也是牛逼 超爱谢娜丹妮 腐女之神 lito和sun一来我就不困了 最后集竟然虐翻我wolf刚之后五分钟结尾了 这事儿没完"
+    },
+    {
+      "user": "傻乐的猫",
+      "avatar": "https://img3.doubanio.com/icon/u1181949-142.jpg",
+      "content": "matrix后两集的特点（毛病）再现，线太多（其实也并没有）导致节奏拖沓（并不是剪得快就是节奏紧凑）。人物又美又脸谱，初看养眼看多乏味。斗娜姐全程紧绷也不容易但也确实蛮帅。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "又是坐等万年坑"
+    },
+    {
+      "user": "贾小年",
+      "avatar": "https://img1.doubanio.com/icon/u45983533-29.jpg",
+      "content": "第7集从联手揍德国女人开始真正开挂，再往后就包袱一个一个丢起来了，不过第二季里留得的埋伏是不是太多了，啥都没说清？为开挂而开挂怒降一星"
+    },
+    {
+      "user": "音乐虫子",
+      "avatar": "https://img3.doubanio.com/icon/u2557436-6.jpg",
+      "content": "编剧导演对剧情的节奏把握的非常不好，8人组的设定也过于累赘，再加上很多毫无意义的慢镜头和对话，前面九集半的剧情进度跟第一季末时相比其实并没有多少进展。最后10分钟剧情又跳的飞快，让人完全摸不到头脑：前面拍的太开心了，像在开party一样，最后赶赶进度挖挖坑吧，好能下一季继续开心，然并卵。"
+    },
+    {
+      "user": "一只蛋挞",
+      "avatar": "https://img3.doubanio.com/icon/u106170820-2.jpg",
+      "content": "可是一想到这剧被砍了我心痛啊啊啊啊啊"
+    },
+    {
+      "user": "何婊砸",
+      "avatar": "https://img3.doubanio.com/icon/u35346929-91.jpg",
+      "content": "呵呵，motherfucker为何非要虐我Wolfgang TvT？？？？！！！！编剧就这么不待见我们的Wolfgang和Kala这对CP？？！还是“thing doesn't kill you,makes you stronger”？我娜is freaking sexy!!!!!!节奏比上一季快，但整体没上一季精彩，有时感觉主线过于模糊了，让人以为每个主角各自的生活才是主线。"
+    },
+    {
+      "user": "psycho DC",
+      "avatar": "https://img3.doubanio.com/icon/u54173702-645.jpg",
+      "content": "每一集的群戏都燃到起鸡皮疙瘩"
+    },
+    {
+      "user": "Enjoy🌈Rachel",
+      "avatar": "https://img3.doubanio.com/icon/u48566275-382.jpg",
+      "content": "看完第九集得知剧被砍真的好绝望QAQ 第十集留了好久才看完，竟然还有如此大的坑没填？跪求大手接盘！不想让这么优秀的剧就这样结束"
+    },
+    {
+      "user": "阿素喇",
+      "avatar": "https://img1.doubanio.com/icon/u2696967-49.jpg",
+      "content": "太好看啦！"
+    },
+    {
+      "user": "醉舟一季",
+      "avatar": "https://img1.doubanio.com/icon/u3589294-78.jpg",
+      "content": "这一季太好看了吧！按设定这个剧两季足够了，让人诟病大篇幅的感情戏是我最喜欢的，这分镜分分钟忙死后期和摄像，眼花缭乱的剪辑如果都放在重头戏就好了，太爱沃夫冈这样的酷哥！"
+    },
+    {
+      "user": "Q·ian·Sivan",
+      "avatar": "https://img1.doubanio.com/icon/u86835059-19.jpg",
+      "content": "▤「I fall in love with the person, not their gentals.」「Your life is either defined by the system or by the way you defy the system.」「Remember that cancer is also natural, so naturalness in itslef shoud not be considered a virtue.」「You want a war? We'll give you a war.」"
+    },
+    {
+      "user": "大波罗霸",
+      "avatar": "https://img3.doubanio.com/icon/u52143519-25.jpg",
+      "content": "和第一季比简直无聊，及时砍也好"
+    },
+    {
+      "user": "北极熊",
+      "avatar": "https://img3.doubanio.com/icon/u67039000-13.jpg",
+      "content": "看剧正酣难自拔，忽闻下季已被砍。大洋两岸隔千里，刀片明天到你家。"
+    },
+    {
+      "user": "里里里奥",
+      "avatar": "https://img3.doubanio.com/icon/u60858500-20.jpg",
+      "content": "汗毛炸裂之感，痛快淋漓。中间几集有点拖，后面逐渐发力，拍摄手法上也有很多新尝试～其实主要是剧情大发展！！给力！！现在就想给他颁个年度最佳美剧……"
+    },
+    {
+      "user": "你还想说什么",
+      "avatar": "https://img3.doubanio.com/icon/u3496867-32.jpg",
+      "content": "这剧太gay力，看不下去了"
+    },
+    {
+      "user": "helloliu",
+      "avatar": "https://img3.doubanio.com/icon/u40466550-5.jpg",
+      "content": "三天刷完10集，超爽！我还没看够！Who am I, what the meaning of life? 勇气、梦想、不一样，我们平凡的生活，平凡的生命，需要这些，需要精彩。"
+    },
+    {
+      "user": "老阿飞—故园",
+      "avatar": "https://img3.doubanio.com/icon/u1078855-5.jpg",
+      "content": "虽然有条评论说得好，超8是灌着鸡汤偶尔走走主线，但是第二季看的就是比第一季还感动啊怎么办？为龌龊司机姐妹俩的野心叫好，平等、’打破隔阂这种主题，他们做的可能不是最好的，但是却是最笨拙又真诚的。果然因为预算太高被砍了，所以第十集才挖大坑嘛？！"
+    },
+    {
+      "user": "旧书君",
+      "avatar": "https://img3.doubanio.com/icon/u1618297-32.jpg",
+      "content": "S2好看程度噌噌噌。will惨惨惨、nomi组持续发糖、lito小可爱爆笑担当、一直不觉得Wolfgang帅直到E10摄影改了布光立马转粉。sun的故事线短暂完结后八人无预兆地反击那短短十分钟酷炸。原来姐妹两并没有只顾着呈现啪戏和平权而创作本剧啊。剧情的野心且看复活电影如何收尾。#网飞并不是新FOX#"
+    },
+    {
+      "user": "Dragmedown",
+      "avatar": "https://img3.doubanio.com/icon/u2256841-151.jpg",
+      "content": "其实 就是为了看wolfgang 剧情啥的我已不在乎（第一季好像露了（小警察也继续可爱着~"
+    },
+    {
+      "user": "光年‖影视歌三栖民工",
+      "avatar": "https://img3.doubanio.com/icon/u2504060-5.jpg",
+      "content": "性爱场景很有意思，OST蛮有品位。可惜被砍了"
+    },
+    {
+      "user": "tankdream",
+      "avatar": "https://img1.doubanio.com/icon/u4128805-27.jpg",
+      "content": "好赞！好期待第三季！"
+    },
+    {
+      "user": "PROMISE921",
+      "avatar": "https://img3.doubanio.com/icon/u1679234-1.jpg",
+      "content": "感受正能量的群P"
+    },
+    {
+      "user": "弗蕾克丝",
+      "avatar": "https://img3.doubanio.com/icon/u41707233-1271.jpg",
+      "content": "莫名觉得沃夫冈很性感呢……"
+    },
+    {
+      "user": "少年夏不安",
+      "avatar": "https://img3.doubanio.com/icon/u1320395-250.jpg",
+      "content": "喜欢，念念不忘德国小哥。"
+    },
+    {
+      "user": "鱿鱼丝",
+      "avatar": "https://img3.doubanio.com/icon/u48311237-10.jpg",
+      "content": "拖拖拉拉看了一周，不想这么快就结束！！！第三季快点来吧 等不住了"
+    },
+    {
+      "user": "李阿斗",
+      "avatar": "https://img3.doubanio.com/icon/u43704692-100.jpg",
+      "content": "12个小时Netflix生肉啃完的剧值得我mark一下，拉人入坑的感觉真爽，难以忘记5月6日这一天。(˶‾᷄⁻̫‾᷅˵)"
+    },
+    {
+      "user": "私~川流",
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "content": "结尾其实有点扯，从全球各地飞伦敦怎么可能都那么快，还赶得上救人。深挖了一下homo sapien恐惧异类的心理以及大赞了一下sensorian求同存异的能力。因为设定就很有趣所以挺容易看下去。"
+    },
+    {
+      "user": "ziqian",
+      "avatar": "https://img3.doubanio.com/icon/u1885577-14.jpg",
+      "content": "结果还是和第一季的结尾相似，哎，什么时候小伙伴们能过安生日子啊"
+    },
+    {
+      "user": "夜潇狂",
+      "avatar": "https://img3.doubanio.com/icon/u57833598-2.jpg",
+      "content": "最后一集节奏崩了，拖了一整季最后直接起飞，强行第三季见"
+    },
+    {
+      "user": "F–A♭–F",
+      "avatar": "https://img1.doubanio.com/icon/u2334495-27.jpg",
+      "content": "麻痹在高潮处砍了！我的cluster怎么不联系我！最后我认为如果给观众一个是bug在背后给他们操作一切的画面就好理解了。总觉裴的演技差点什么，墓地掐架那段看出来了：对方用力地顶住她，而她则放松地在跟他对手戏——差肢体tension。nomi声音听得上瘾，警察并不好看但是很帅只能解释我是制服控…"
+    },
+    {
+      "user": "Chuck",
+      "avatar": "https://img3.doubanio.com/icon/u28918411-32.jpg",
+      "content": "第二季的節奏有問題，其他挺好。壞人為什麼總是不肯死呢。諾米和女友相互求婚這一段還挺感人的~"
+    },
+    {
+      "user": "墨梓",
+      "avatar": "https://img1.doubanio.com/icon/u2224259-298.jpg",
+      "content": "如果说第一季的关键词是“我们并不孤独”，那么第二季又上升了一个高度——本以为已经玩不出新花样，但我们总是低估了人类的善变、自负、自私，忘记了一个体系的崩溃总是从内部开始。所以第二季关键词是“我们的战争”，即便是同类，也有无法破除的猜忌。还好我们并不孤独，像我这样的，还有七个——"
+    },
+    {
+      "user": "大黑骡子",
+      "avatar": "https://img1.doubanio.com/icon/u44739848-148.jpg",
+      "content": "看得有点累。。。。"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "无论何时何地，始终伴你左右。"
+    },
+    {
+      "user": "清茂叶",
+      "avatar": "https://img3.doubanio.com/icon/u41706331-153.jpg",
+      "content": "一口气刷完……"
+    },
+    {
+      "user": "西决",
+      "avatar": "https://img3.doubanio.com/icon/u48484295-22.jpg",
+      "content": "一口气刷完想起很久前在豆瓣主页里留的句话：人生就是不停的在战斗，所以，一个人要像一支队伍。不知是因为少了两集的原因，感觉剧本和剪辑都很急促，每个角色的主角时刻都被压缩，尤其结尾迅雷不及掩耳的搞个大新闻却又拖到下一季，加之人设少了新鲜感整体观感比上季逊色不少，但是依然刷的很！爽！"
+    },
+    {
+      "user": "油炸绿菠萝",
+      "avatar": "https://img1.doubanio.com/icon/u35986570-9.jpg",
+      "content": "裴斗娜！"
+    },
+    {
+      "user": "まさか",
+      "avatar": "https://img3.doubanio.com/icon/u1148990-56.jpg",
+      "content": "比第一季節奏緊湊，每次集體作戰的場景都非常刺激。不過最後一集太隨便了…"
+    },
+    {
+      "user": "宅拾叁",
+      "avatar": "https://img3.doubanio.com/icon/u47373915-15.jpg",
+      "content": "这个剧是真不该砍啊。沃卓斯基云图概念伸展化，剧情有拖沓之嫌，胜在情感。86."
+    },
+    {
+      "user": "珠我好运",
+      "avatar": "https://img3.doubanio.com/icon/u1282673-141.jpg",
+      "content": "感同身受"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "最后一集强行拉进度拉评分。主线的发展太慢了，没玩没了地谈感情看得腻，动不动就BGM世界串联大和谐，像拍MTV，给人拖沓的印象。这片子实在是很political的，The Wachowskis三观正得不要不要的。这季伦勃朗、契诃夫都祭出来了，最后可别来个爱和艺术拯救世界的大俗剧。二导真是不遗余力地推裴斗娜。"
+    },
+    {
+      "user": "melody",
+      "avatar": "https://img3.doubanio.com/icon/u4554090-60.jpg",
+      "content": "也不能说不好看，总觉得没有很好的围绕第一季延续展开。很多条线，涉及太多内容。感觉龌龊司机姐妹在放飞自我的道路上越走越远了，不过现在流行嘛，怎么喜欢怎么来吧。"
+    },
+    {
+      "user": "幻觉的黎明",
+      "avatar": "https://img3.doubanio.com/icon/u55405881-6.jpg",
+      "content": "惨遭被砍，无缘下季！"
+    },
+    {
+      "user": "生命",
+      "avatar": "https://img3.doubanio.com/icon/u53589782-11.jpg",
+      "content": "过度季"
+    },
+    {
+      "user": "巫婆",
+      "avatar": "https://img3.doubanio.com/icon/u1166723-71.jpg",
+      "content": "更爱第一季，但是第二季也必须满分。真的是看一集哭一集，太孤独了。太孤独了。太孤独了。"
+    },
+    {
+      "user": "仰望星空不好吃",
+      "avatar": "https://img3.doubanio.com/icon/u3272808-41.jpg",
+      "content": "看得我好累啊啊啊啊啊，以为是八集结果是十集，主线剧情基本没多少但还是......啊喜欢裴斗娜！海报里头像最大所以咖位也最大嘛哈哈哈，这剧里各国人的英文真是一点也不尴尬。"
+    },
+    {
+      "user": "晓晓一",
+      "avatar": "https://img1.doubanio.com/icon/u1432581-18.jpg",
+      "content": "哇 停在这里被砍 我能想象全世界粉丝想要拆了Netflix的那种不满。我觉得其实这部剧是科幻动作版的 This is us，通感追杀紧张刺激，但个人所面对的种种困境、歧视、不安也很好看，大家的相互照应鼓励和帮助更是很温暖。现在觉得主创乖张的外表和作品之下，是赤诚的心。另外，某一集里的大明星们是本人吗"
+    },
+    {
+      "user": "惑星統合機関",
+      "avatar": "https://img3.doubanio.com/icon/u1408530-120.jpg",
+      "content": "依旧满满的姐妹私货，时常需要快进掉各种speeches。看到一半才发觉真正在战斗前线的只有那三个人，其他人从没有暴露过。啊我喜欢的德国boy印度girl这对为什么还是这么一言难尽，能不能快点离婚好好发糖"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u49353526-6.jpg",
+      "content": "Fucking high!!!"
+    },
+    {
+      "user": "淋",
+      "avatar": "https://img1.doubanio.com/icon/u75215757-17.jpg",
+      "content": "封神级别的剪辑＋配乐！最喜欢就是情比金坚也不忘叙事肃穆！每一集都像春药一般欲罢不能！我想和里面每个人做爱啊啊啊啊啊啊啊啊啊啊啊！\nPS：看你们都在YY狼刚威儿，那我就大胆承包整一季的赫尔南多辣！"
+    },
+    {
+      "user": "pksky",
+      "avatar": "https://img3.doubanio.com/icon/u1682352-1.jpg",
+      "content": "第二季姐弟都变姐妹了，继续输出跨种族跨性别跨地域世界大同有爱希望普世价值观...对付Whispers+黑人竞选+Sun杀弟为主线，辅以各人剪不断理还乱的错综关系，穿插大量超长柔光爱情动作MV，季终集最后15分钟按下快进信息量大爆炸...新加入cluster和黑客联盟希望能充实下一季...裴能穿多点麽..."
+    },
+    {
+      "user": "Reaper",
+      "avatar": "https://img3.doubanio.com/icon/u27442548-20.jpg",
+      "content": "中间那些莫名其妙的政治正确的同性情节全部去掉，结尾就不会显得那么匆匆忙忙往前赶了，本来可以更好看的。"
+    },
+    {
+      "user": "刘不懂",
+      "avatar": "https://img3.doubanio.com/icon/u134019548-3.jpg",
+      "content": "世界很远，但有我们在你身边。\nDJ Riley,Cop Nill,Actor Lito,Hacker Nomi,Van Damn,Doctor Kala,Gunner Wolfgang,Fighter Sun.\n两个龌龊司机，我要看第三季啊！"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "人生第一部美剧《迷失》，始终被供在最爱的头位。这么多年了，没想到还有剧能够超越。实在太燃，不仅是鼓动配乐下群战炸裂，而且是当周遭恶鬼围拢时，仍有那么多天使守护你，而你又愿付出一切守护他们。众人面对的黑暗，终归来自世间的隔阂与人心的扭曲。人生一大遗憾，是这剧不能充分展开才谢幕。"
+    },
+    {
+      "user": "史达工业怀旧部",
+      "avatar": "https://img3.doubanio.com/icon/u1611065-43.jpg",
+      "content": "五 星 给 W o l f g a n g 的 各 种 p l a y ♂"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "日常啪啪啪，顺便做做主线任务。最后两集好看。再次表白“终结者”裴斗娜。"
+    },
+    {
+      "user": "Angel Chen",
+      "avatar": "https://img3.doubanio.com/icon/u2834783-2.jpg",
+      "content": "第二季的节奏感比第一季的要把握得好，八人同框协力合作的部分也很燃"
+    },
+    {
+      "user": "zym16zym",
+      "avatar": "https://img1.doubanio.com/icon/u2432383-7.jpg",
+      "content": "龌龊司机姐妹已经初步掌握了人类在不吸食毒品的情况下，通过其讲述方式产生HI的感觉。简言之这对姐妹表找到了我们的G点，最操蛋的是前戏的时间由她们掌握。"
+    },
+    {
+      "user": "hiro",
+      "avatar": "https://img3.doubanio.com/icon/u35819210-16.jpg",
+      "content": "太拖沓了，只有最后半个小时才是重点"
+    },
+    {
+      "user": "Lady Midnight",
+      "avatar": "https://img1.doubanio.com/icon/u35729592-18.jpg",
+      "content": "最后一集什么鬼 素材没拍够就开始剪了么……"
+    },
+    {
+      "user": "Noel",
+      "avatar": "https://img3.doubanio.com/icon/u2891842-93.jpg",
+      "content": "。。。。太煽情了，不适合我"
+    },
+    {
+      "user": "wise🐾喵悠哉",
+      "avatar": "https://img1.doubanio.com/icon/u1769218-228.jpg",
+      "content": "神交大会，最后一集胃口吊足了"
+    },
+    {
+      "user": "低端小能自由西",
+      "avatar": "https://img3.doubanio.com/icon/u1532174-15.jpg",
+      "content": "纯是龌龊斯基的政治理念和性别理念的展示。剧情是什么？根本不重要。"
+    },
+    {
+      "user": "恃南林以司",
+      "avatar": "https://img1.doubanio.com/icon/u133824715-17.jpg",
+      "content": "真的，如此高概念的剧集，真的美好到仅仅看看主演的日常生活就能满足，好神奇"
+    },
+    {
+      "user": "やま",
+      "avatar": "https://img3.doubanio.com/icon/u2239011-415.jpg",
+      "content": "i thought i'd given up on aspirations to finding kindred souls after high school but this is so much feelz Q_Q 然后我想了想如果我有个cluster，我大概也就是riley这种没技能的吧哈哈哈哈评论里都说她废可是其实大部分人哪有那么多酷炫技能嘛"
+    },
+    {
+      "user": "cherrypie",
+      "avatar": "https://img3.doubanio.com/icon/u20252403-61.jpg",
+      "content": "导演夹带过多私活；剧情的中二程度依然超乎我的接受范围"
+    },
+    {
+      "user": "April7",
+      "avatar": "https://img3.doubanio.com/icon/u2728203-375.jpg",
+      "content": "为我小狼疯狂打电话.真的被砍了这坑可真是太气人了.还想知道到底印度妹跟小狼怎样了啊！sun还是本季最惨无误，导演连衣服都不给穿了  整天光着 气！"
+    },
+    {
+      "user": "Sigma von Zeta",
+      "avatar": "https://img3.doubanio.com/icon/u49848992-14.jpg",
+      "content": "就觉得这种小情小爱家愁国恨被八人放大成普世价值真的好感动 在细节里流露出对生活的热爱对爱的向往太令人激动了 就是第十集太扯淡了妈的我要气哭了"
+    },
+    {
+      "user": "人间惆怅客",
+      "avatar": "https://img1.doubanio.com/icon/u44979054-18.jpg",
+      "content": "1、最后一集太突兀了、前面还在解决各自私生活的麻烦，突然就开战了 2、觉得拍摄成本好贵啊，屁大点事也要八个人出动"
+    },
+    {
+      "user": "格格巫",
+      "avatar": "https://img3.doubanio.com/icon/u26593709-14.jpg",
+      "content": "终于回归了，良心之作万分期待！！！Netflix最近是要逆天啊"
+    },
+    {
+      "user": "白衣卿相",
+      "avatar": "https://img1.doubanio.com/icon/u1538764-97.jpg",
+      "content": "比第一季沉重了好多"
+    },
+    {
+      "user": "闪点paradox",
+      "avatar": "https://img1.doubanio.com/icon/u53717596-7.jpg",
+      "content": "……其实可以直接看E10最后10分钟的，哈哈开个玩笑"
+    },
+    {
+      "user": "超人叔叔",
+      "avatar": "https://img1.doubanio.com/icon/u49274272-7.jpg",
+      "content": "渐入佳境"
+    },
+    {
+      "user": "char",
+      "avatar": "https://img3.doubanio.com/icon/u1315244-80.jpg",
+      "content": "第一季《What’s Up》的时候真的起鸡皮疙瘩，后来越来越没这种感觉。"
+    },
+    {
+      "user": "童孝贤",
+      "avatar": "https://img3.doubanio.com/icon/u1502012-4.jpg",
+      "content": "何必这样啊，高潮来得猝不及防，感觉是一个大坑没想到是这样终结简直比大坑还难受，真是太坏了！超感组小战超感组真是有意思，偶尔的影影幢幢背后惊人的存在，这种感觉太微妙了，而导演却转移注意力，更多关注日常苦乐、LGBT权益和感情表达、浓情蜜意、还有瞎编差点出戏的第三世界苦乐，真有意思~"
+    },
+    {
+      "user": "Rocinante",
+      "avatar": "https://img3.doubanio.com/icon/u2099751-173.jpg",
+      "content": "8个主角带不少于8个sidekick每个人物都超级鲜明，几乎占尽了各种社会少数派，一场minority对抗主流世界的狂欢。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "WTF，又拖又做太jb难看了。。。"
+    },
+    {
+      "user": "etizanom",
+      "avatar": "https://img3.doubanio.com/icon/u42065664-16.jpg",
+      "content": "考虑到第三季被砍，意味着剧情在还没有打到大boss就结束了，三星都是仁慈！"
+    },
+    {
+      "user": "被动王",
+      "avatar": "https://img3.doubanio.com/icon/u31070422-6.jpg",
+      "content": "作为孤单个体的我们始终在寻找可以互相理解的同类。第一季如果说是探讨自我意识和认知，那么这一季的意义应该是讨论与他人的联结争取更多的理解与平等，以及如何与异见者相处和为自己抗争 【泳池床戏真美啊，同志游行做真我】爱应该是一座桥，而不是一道墙"
+    },
+    {
+      "user": "moonquakes",
+      "avatar": "https://img1.doubanio.com/icon/u2898840-189.jpg",
+      "content": "燃！"
+    },
+    {
+      "user": "Ying_0111",
+      "avatar": "https://img1.doubanio.com/icon/u53021898-48.jpg",
+      "content": "我大概看了有生以来最符合自己心意的一部“爽剧”哈哈。真好啊，八人组每个人都那么好，她们身边的伴侣也都包容善良有勇气。不过这季福利好少，专注剧情多些。大家一起帮助善越狱和带走被抓住的wolfgang那两段戏很好看。演吊起来窒息和被电击的场景演员们也都挺拼的了。给裴斗娜加件衣服吧，穿的真的太省布料了233 P.S：才发现wolfgang是曾经演过《希特勒的男孩》和《浪潮》的男孩。"
+    },
+    {
+      "user": "貓小三的意思其實是如果先生",
+      "avatar": "https://img3.doubanio.com/icon/u2473154-161.jpg",
+      "content": "很中二，很强行。但是，有能穿文胸就不穿半袖的裴斗娜，有马克思的屁股，有环球观光，还有一种令我这类素来孤独者天地之间知己（还8个）若比邻的慰藉感，还要求什么？"
+    },
+    {
+      "user": "抱抱",
+      "avatar": "https://img1.doubanio.com/icon/u47358295-8.jpg",
+      "content": "第二季比第一季分数还高了，请允许我呵呵一下。比第一季还难看啊，好想打个两颗星拉低一下分数。第二季比第一季更拖拉，更墨迹，注水更严重，五集能说完的剧情大量地参入像狗血剧一样的东西。最让我觉得不可思议的是印度妹子就这么出轨了，而且印度妹子到底是怎么爱上沃夫冈的啊就见了两面就爱上了也是神奇，还不如沃夫冈在第一季结尾手刃自己叔叔说那句“你不应该和我在一起，因为我是一个怪物”来的直接简单利落又帅气。第二季就跟大妈的裹脚布一样，又臭又一言难尽，很想跳过很多狗血片段但是关键剧情又跟珍珠落大海一样零星散落在各个部分。"
+    },
+    {
+      "user": "Theo's Anatomy",
+      "avatar": "https://img3.doubanio.com/icon/u17622137-16.jpg",
+      "content": "这季比上季好看多了，所有的人物开始深挖+八个人物联系加强，相信网飞会再取消后给出一个解释的！"
+    },
+    {
+      "user": "Sue.",
+      "avatar": "https://img3.doubanio.com/icon/u1926394-44.jpg",
+      "content": "这两年从情感上最喜欢的一个剧，没有之一"
+    },
+    {
+      "user": "okok",
+      "avatar": "https://img3.doubanio.com/icon/u2808184-92.jpg",
+      "content": "Wolfgang和印度妹子的故事白眼几乎没停过，裴斗娜就算是我最喜欢的面瘫韩国演员她还是太面瘫了啊，riley他俩基本只看脸，Miguel angel演技一如既往的尴尬，就剩nomi甜甜甜。完美旅游宣传片"
+    },
+    {
+      "user": "三四",
+      "avatar": "https://img3.doubanio.com/icon/u1664470-45.jpg",
+      "content": "分开各自精彩，合体就是传奇。"
+    },
+    {
+      "user": "歪头杀-",
+      "avatar": "https://img1.doubanio.com/icon/u57972366-29.jpg",
+      "content": "请问能不能众筹给他们钱 我想看第三季"
+    },
+    {
+      "user": "左眼看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1737624-3.jpg",
+      "content": "不同国籍不同性别不同职业，设定很美好，不过剧情发展太缓慢了"
+    }
+  ]
+}

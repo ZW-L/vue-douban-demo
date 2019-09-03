@@ -1,0 +1,1188 @@
+{
+  "title": "王冠 第二季",
+  "url": "https://movie.douban.com/subject/26957989/",
+  "rate": "9.3",
+  "id": "26957989",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2504311324.jpg",
+  "info": [
+    "导演: 菲利普·马丁 / 本·卡隆 / 菲莉帕·洛索普 / 史蒂芬·戴德利",
+    "编剧: 皮特·摩根 / 艾米·詹金斯 / 汤姆·艾吉",
+    "主演: 克莱尔·芙伊 / 马特·史密斯 / 凡妮莎·柯比 / 杰瑞米·诺森 / 安东·莱瑟 / 威尔·基恩 / 丹尼尔·英格斯 / 克洛伊·皮里 / 皮普·托伦斯 / 格雷·怀斯 / 比利·詹金斯 / 哈利·海顿-佩顿 / 克莱夫·弗朗西斯 / 尼古拉斯·本恩斯 / 马修·古迪 / 迈克尔·C·豪尔 / 乔迪·巴尔弗 / 丽丝·麦克伦尼 / 迈克尔·伯滕肖 / 乔纳森纽斯 / 露西·拉塞尔 / 阿米尔鲍特罗斯 / 尤兰达·凯罗 / 阿历克斯·杰宁斯",
+    "类型: 剧情 / 历史",
+    "制片国家/地区: 美国 / 英国",
+    "语言: 英语",
+    "首播: 2017-12-08(美国)",
+    "季数: 1234",
+    "集数: 10",
+    "单集片长: 60分钟"
+  ],
+  "desc": "《王冠》讲述世界上两个鼎鼎大名的地方（白金汉宫和唐宁街 10 号）的内幕故事，并揭示影响 20 世纪下半叶走向的大事件背后的阴谋、诡计和爱情。两宫两院，一顶王冠。",
+  "members": {
+    "director": {
+      "name": "菲利普·马丁 Philip Martin",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1478534118.61.jpg"
+    },
+    "cast": [
+      {
+        "name": "克莱尔·芙伊 Claire Foy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p52356.jpg"
+      },
+      {
+        "name": "马特·史密斯 Matt Smith",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531816897.89.jpg"
+      },
+      {
+        "name": "凡妮莎·柯比 Vanessa Kirby",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519127566.22.jpg"
+      },
+      {
+        "name": "杰瑞米·诺森 Jeremy Northam",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6535.jpg"
+      },
+      {
+        "name": "安东·莱瑟 Anton Lesser",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p57481.jpg"
+      },
+      {
+        "name": "威尔·基恩 Will Keen",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37637.jpg"
+      },
+      {
+        "name": "丹尼尔·英格斯 Daniel Ings",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424097665.57.jpg"
+      },
+      {
+        "name": "克洛伊·皮里 Chloe Pirrie",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1361942371.24.jpg"
+      },
+      {
+        "name": "皮普·托伦斯 Pip Torrens",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1452342084.7.jpg"
+      },
+      {
+        "name": "格雷·怀斯 Greg Wise",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p18549.jpg"
+      },
+      {
+        "name": "比利·詹金斯 Billy Jenkins",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530544579.28.jpg"
+      },
+      {
+        "name": "哈利·海顿-佩顿 Harry Hadden-Paton",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pS35NhWoud8cel_avatar_uploaded1361949275.69.jpg"
+      },
+      {
+        "name": "克莱夫·弗朗西斯 Clive Francis",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360850046.16.jpg"
+      },
+      {
+        "name": "尼古拉斯·本恩斯 Nicholas Burns",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1365999096.44.jpg"
+      },
+      {
+        "name": "马修·古迪 Matthew Goode",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22847.jpg"
+      },
+      {
+        "name": "迈克尔·C·豪尔 Michael C. Hall",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1323.jpg"
+      },
+      {
+        "name": "乔迪·巴尔弗 Jodi Balfour",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1387100184.56.jpg"
+      },
+      {
+        "name": "丽丝·麦克伦尼 Lizzy McInnerny",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "迈克尔·伯滕肖 Michael Bertenshaw",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371401517.05.jpg"
+      },
+      {
+        "name": "乔纳森纽斯 Jonathan Newth",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "露西·拉塞尔 Lucy Russell",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9901.jpg"
+      },
+      {
+        "name": "阿米尔鲍特罗斯 Amir Boutrous",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pv1QtzQ4qyscel_avatar_uploaded1407926078.79.jpg"
+      },
+      {
+        "name": "尤兰达·凯罗 Yolanda Kettle",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pWwD3wQiTZ_Mcel_avatar_uploaded1510630124.14.jpg"
+      },
+      {
+        "name": "阿历克斯·杰宁斯 Alex Jennings",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48929.jpg"
+      },
+      {
+        "name": "米拉·福尔克斯 Mirrah Foulkes",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21891.jpg"
+      },
+      {
+        "name": "哈娜可福特曼 Hanako Footman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pcn7MjoXbiV0cel_avatar_uploaded1513174066.65.jpg"
+      },
+      {
+        "name": "本·迈尔斯 Ben Miles",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p17539.jpg"
+      },
+      {
+        "name": "伯纳多·桑托斯 Bernardo Santos\t",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi6utjscUUpocel_avatar_uploaded1521822151.58.jpg"
+      },
+      {
+        "name": "乔纳森·罗德斯 Jonathan Rhodes",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1387549674.56.jpg"
+      },
+      {
+        "name": "芬恩·艾利厄特 Finn Elliot",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pKuQ1bqKiItscel_avatar_uploaded1566458644.21.jpg"
+      },
+      {
+        "name": "莉奥妮·贝尼希 Leonie Benesch",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524078537.71.jpg"
+      },
+      {
+        "name": "伊恩·哈拉德 Ian Hallard",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27318.jpg"
+      },
+      {
+        "name": "杰玛·韦兰 Gemma Whelan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46694.jpg"
+      },
+      {
+        "name": "爱丽丝·休金 Alice Hewkin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1527750467.94.jpg"
+      },
+      {
+        "name": "奥古斯特·维特根斯坦 August Wittgenstein",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8v_wdFzdkIEcel_avatar_uploaded1499339124.27.jpg"
+      },
+      {
+        "name": "杰弗里·何 Jeffrey Ho",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pMvGo8n4rnBocel_avatar_uploaded1525500638.85.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img1.doubanio.com/img/trailer/medium/2507316459.jpg?",
+        "src": "http://vt1.doubanio.com/201908311630/e8ee11d11b2628666f4eb6471c2d25b5/view/movie/M/302240868.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2504553450.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2504553459.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2495723632.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2507074371.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "Menglin Wei.",
+      "avatar": "https://img3.doubanio.com/icon/u155313591-1.jpg",
+      "content": "Netflix今天已经更新了 第一集就看的我差点掉眼泪 女王在Philip箱子里发现别的女人的照片 正在震惊中伤怀 旁边人说 唐宁街打电话来说首相有急事要见你 瞬间心疼。"
+    },
+    {
+      "user": "MR.CHarles",
+      "avatar": "https://img1.doubanio.com/icon/u106347535-29.jpg",
+      "content": "从苏伊士运河危机到普罗富莫事件 这十年间两次动荡整个英国的事件 剧本更为工整 每集各有关注点 大时代背景下的冷战反殖民化苏联等都是点到为止 重心依然是王室内矛盾与冲突 王冠的沉重与责任 布景灯光服装保持教科书水准 人物刻画和心理塑造深入人心 最后三集把整个剧带上新的高度"
+    },
+    {
+      "user": "宁采臣",
+      "avatar": "https://img3.doubanio.com/icon/u155142892-4.jpg",
+      "content": "最后，菲利普眼里仅有了家庭"
+    },
+    {
+      "user": "刘喵喵小姐",
+      "avatar": "https://img1.doubanio.com/icon/u43919094-7.jpg",
+      "content": "女王归来，皇冠又重了，老公出轨也没空搭理，被工作挤满了的女王，会不会让各类妇女找了个平衡。"
+    },
+    {
+      "user": "我是萝卜啊啊啊",
+      "avatar": "https://img3.doubanio.com/icon/u44487838-10.jpg",
+      "content": "第一集看女王同学出轨的老公没辙然后还得操心工作简直就是当代女性日常 看了之后各位女性朋友的心情好就会多了 #爱上一匹野马 家里没有草原#"
+    },
+    {
+      "user": "PN1995.9",
+      "avatar": "https://img3.doubanio.com/icon/u62980963-86.jpg",
+      "content": "\"If only.\" Such profound and naked sadness."
+    },
+    {
+      "user": "范大星",
+      "avatar": "https://img3.doubanio.com/icon/u116040714-13.jpg",
+      "content": "我真的觉得十一在里面演得很赞！家家有本难念的经，不论身居何位，都要面对七情六欲和鸡毛蒜皮。不过演小菲利普的那个演员真的好帅啊！"
+    },
+    {
+      "user": "水包酱",
+      "avatar": "https://img3.doubanio.com/icon/u43087284-2.jpg",
+      "content": "又一口气看完。剧本太扎实, 每句台词都讲究,每个人物都立体。女王感情线比第一季里饱满很多, 但对这个剧最喜欢的还是老戏骨们的表演, 尤其想念丘吉尔, 爱八还是可恨又可怜,老Tommy的退休生活过得也不安生XD。P.S. Margaret真是美极, 看她出场就想疯狂截图。"
+    },
+    {
+      "user": "Karo",
+      "avatar": "https://img3.doubanio.com/icon/u38727002-2.jpg",
+      "content": "不负我等一年的期待，一周看完，10集高潮迭起，开头和结尾呼应，很端正的结构了。Peter Morgan写人物的一把好手，就算是只出现一集的肯尼迪夫妇都觉得是饱满的。女王大概是全世界最能get her shit together的人了，整个剧就在看她怎么保持最后照片里的面孔了。Claire真的特别厉害。"
+    },
+    {
+      "user": "老叮当的沈小洁",
+      "avatar": "https://img3.doubanio.com/icon/u2882564-4.jpg",
+      "content": "想到下一季要换女王，还挺舍不得她。"
+    },
+    {
+      "user": "糖刺猬",
+      "avatar": "https://img3.doubanio.com/icon/u74772573-11.jpg",
+      "content": "Claire Foy的表演愈发精湛，把真挚、隐忍、坚强的情感层次把控得相当成熟准确。"
+    },
+    {
+      "user": "折扇",
+      "avatar": "https://img3.doubanio.com/icon/u41334510-2.jpg",
+      "content": "A confederacy of quitters！六星！最棒是王宫向平民公开那一集，时代和传统的碰撞仿佛就在眼前"
+    },
+    {
+      "user": "盔酱兮",
+      "avatar": "https://img3.doubanio.com/icon/u53810339-10.jpg",
+      "content": "都说女王平庸无奇，但作为一位平凡的人在其位谋其政恪尽职守并从一而终就是一位伟大的人，作为君主，女王配得上头顶的王冠和鲜花掌声，是最优秀的民众典范。这剧最神的地方就是将这些人类文明历史上的风云人物写得有血有肉，同样拥有平凡人的爱恨忧愁"
+    },
+    {
+      "user": "可惜流年",
+      "avatar": "https://img3.doubanio.com/icon/u46692711-3.jpg",
+      "content": "在1956-1963的七年时间里，落日余晖中的大英帝国盛况不再，殖民体系分崩离析，国内危机此起彼伏。这个代表着旧统治秩序的显赫家族，同样面临着诸多挑战。前一季中所有迷人的地方在这一季中全数保留，此外，婚姻、爱情和成长成为了这一季新的主题。非常decent的历史正剧。"
+    },
+    {
+      "user": "糖豆儿_🍑",
+      "avatar": "https://img3.doubanio.com/icon/u149140629-5.jpg",
+      "content": "感觉经历了一个时代，震撼。"
+    },
+    {
+      "user": "玩蛋丧志",
+      "avatar": "https://img3.doubanio.com/icon/u45434376-15.jpg",
+      "content": "少了第一季的波澜壮阔，这季更多地着墨在女王的婚姻和人际关系上，有的地方略显drama，但依旧是一流品质。"
+    },
+    {
+      "user": "哈哈哈哈哈",
+      "avatar": "https://img1.doubanio.com/icon/u44431964-8.jpg",
+      "content": "看完这季简直成了女王和亲王的cp粉... 虽然知道亲王风流韵事很多... 女王依然那么坚定勇敢 承受着太多难以想象的压力了… 第8第9集本季最佳 来访的肯尼迪夫妇 懦弱的查尔斯 & 玛格丽特公主真的太赞了 又得等一年了 哭唧唧"
+    },
+    {
+      "user": "大-燕-威-王",
+      "avatar": "https://img3.doubanio.com/icon/u3297820-11.jpg",
+      "content": "不喜欢媒体对于女王婚姻各种称羡的调调。伊丽莎白之难，在于她身为女人，面对丈夫的出轨和暴躁（菲利普亲王生活其实很乱，这点不如维多利亚的老公阿尔伯特）可以愤怒；但作为女王，她却不可能选择离婚。天知道她为了忍受这些做出多少妥协牺牲。剧是好剧，但作为普通人，不支持这种婚姻价值观。"
+    },
+    {
+      "user": "赛末点",
+      "avatar": "https://img3.doubanio.com/icon/u3417557-36.jpg",
+      "content": "在从二十多岁走往三十多岁的路上，从一开始希望有人支持自己一起面对困难的想法，到后来看着那些看似雄心壮志最后都以各种理由逃避，连自己的一份责任都不愿意承担的人，从委曲求全牺牲自己去迎合别人，到一个人成熟到可以承担解决所有的事，明白到有没有谁其实也没那么重要的瞬间"
+    },
+    {
+      "user": "hgsdg",
+      "avatar": "https://img3.doubanio.com/icon/u1413198-102.jpg",
+      "content": "我居然对查尔斯充满了同情，看连监视他的密探都对他那么好。。。"
+    },
+    {
+      "user": "叉叉",
+      "avatar": "https://img1.doubanio.com/icon/u4117208-138.jpg",
+      "content": "网飞现在真是电视界的杠把子！菲利普连续两季都在发牢骚，没能力就算了，连责任感都像被狗吃了。公主也是，想要自由又不愿放弃皇室身份带来的好处。这两位都让人心烦。要么就像女王一样，踏踏实实敬职敬责。古迪真是行走的荷尔蒙，又撩又性感。肯尼迪是Michael C.Hall哎，一下子没认出来。Oh Dexter"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "延续前季优点，在各大政治事件上笔墨太少颇为遗憾，注重家庭内部的矛盾，女王的政治身份有所淡化，凸显其身份普通人的特征；幸而女王角色相当讨喜，桩桩件件破事儿袭来，曾被诟平庸被轻视的她，在漫长的忍辱负重和高贵的坚毅中，成长为真正的「王」；本季各主要人物均铺陈心理戏，冷暖自知。"
+    },
+    {
+      "user": "pamourrrrrr",
+      "avatar": "https://img3.doubanio.com/icon/u32796668-65.jpg",
+      "content": "渐入佳境，也可能因为我开始静下心。最后一集真觉得心酸。首相因为应付不来可以借由身体辞职，妹妹可以一边对王族特权冷嘲热讽一边享受它的便利，婚姻不幸福了便可以离婚，任何人都可以逃避可以发泄，任何人都可以对女王评头论足，而她最激烈的情绪，也不过是几声急促的呼吸。"
+    },
+    {
+      "user": "颗粒",
+      "avatar": "https://img3.doubanio.com/icon/u2758081-91.jpg",
+      "content": "Lord Altrincham那集看哭了。这是女王所面临的那个正在巨变的世界的缩影，也是她以个人的智慧、勇气和正直的高尚品格力挽狂澜的绝佳范例。世界在女王在位几十年间的变化，是之前任何一任君主都无法比拟的，能使英国君主立宪制长盛不衰，不是在白金汉宫做做吉祥物就能做到的。"
+    },
+    {
+      "user": "经年",
+      "avatar": "https://img1.doubanio.com/icon/u65057677-87.jpg",
+      "content": "其实各方面都还是很好 但就是觉得没第一季亮眼= = 希望foy能拿一次emmy了"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "太过工整雕琢也就免不了会有些无聊，着力点更多聚焦于女王家庭生活的时候自然就对周遭更精彩的故事缺少笔墨；但只要是玛格丽特公主这个小浪蹄子做中心人物的分集，整体的氛围一下都活络了起来，似乎是所有的创作者都被她的不羁所感染一般；那个第四集啊，拍的真叫一个微妙。"
+    },
+    {
+      "user": "解压",
+      "avatar": "https://img1.doubanio.com/icon/u50638311-59.jpg",
+      "content": "Netflix Ultra HD plan已开，一口气看完。其实权贵的某些烦恼我有点理解不能……（话说肯尼迪夫妇嗑药是怎回事有实锤？）美方操刀弥补了BBC类英剧一贯的 额 小家气？比美剧细腻，比英剧大气，女王的首次电视演讲又是一个成长的分水岭啊……"
+    },
+    {
+      "user": "草莓公主",
+      "avatar": "https://img3.doubanio.com/icon/u2626256-144.jpg",
+      "content": "终于寻到了2160p的超高清版。。毕竟如此宏大的制作。。和第一季惊艳无比的开头相比。。可以说是循序渐进的越来越精彩。。Claire Foy的演技已经游刃有余了。。所以导演大胆的在女王身上投放各种长镜头特写。。每一集都想哭想击掌惊叹想反复回放重看。。最后夫妻理解的镜头让我很感动。。真的。。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "“有的电影看上去一切都非常完美，画面、布光、音乐都精致无暇，却丝毫没有生气”，说的就是这类作品。"
+    },
+    {
+      "user": "忆秋",
+      "avatar": "https://img3.doubanio.com/icon/u1334357-75.jpg",
+      "content": "Tremendous fun. 相比第一季没有那么基调黑暗了，涉足的是相对uneventful的青年时期，相对不熟悉的年代看来非常有趣。Foy演技精湛，与无声胜有声，与Matt CP感十足。最爱e5，e6。古迪子的戏稍弱，有些失望。最后一集看来的感受是：这终究只是我们想象的王室，艺术与婚姻都是关于“相信”的。"
+    },
+    {
+      "user": "水英俊",
+      "avatar": "https://img3.doubanio.com/icon/u49707884-83.jpg",
+      "content": "亲王太不让人省心了，从头到尾都在给女王惹事== 肥皂剧拍到这个水平值得一切赞赏。第六集最好看。可怜之人必有可恨之处，用来形容爱德华八世最恰当。上季是女王成长记，这季是family drama，让观众对每个角色又有了新的认识。皮特摩根是真厉害，更厉害的是Claire Foy……"
+    },
+    {
+      "user": "岩井俊七",
+      "avatar": "https://img3.doubanio.com/icon/u1815039-22.jpg",
+      "content": "本以为最大吸睛点的皇室八卦狗血戏码近乎鸡肋，而本以为无趣过场的政治历史方面却感动不已，可知反对声里往往藏着最深沉最为深切的爱与敬意，如同被人扇耳光的勋爵，可知“人也许不认识人，但灵魂认识灵魂”，比如带血的肯尼迪杰奎琳，Never Never judge people，不是当事人永远不会真正的“设身处地”"
+    },
+    {
+      "user": "redhousepainter",
+      "avatar": "https://img3.doubanio.com/icon/u1190688-12.jpg",
+      "content": "没想到查尔斯王子有这么悲催的童年，女王妹妹的老公居然和好友夫妻3p，这要一比后来查尔斯那些绯闻算个鸟啊。。。。不知道拍到80年代会让哪些演员来演我国领导人。"
+    },
+    {
+      "user": "\\t^h/",
+      "avatar": "https://img1.doubanio.com/icon/u2520407-289.jpg",
+      "content": "12.12 - 12.26, 刨除开头三集和收尾讲婚姻关系的四集，剩下的部分还是可以四星的。黑了好几次Cecil Beaton，哈哈哈哈"
+    },
+    {
+      "user": "好吃的维维火腿",
+      "avatar": "https://img3.doubanio.com/icon/u170589544-1.jpg",
+      "content": "依然是精致得不像美剧像bbc的味道。Netflix很良心，一口气出来全集。"
+    },
+    {
+      "user": "浅显",
+      "avatar": "https://img3.doubanio.com/icon/u1439314-41.jpg",
+      "content": "和S1相比配角们稍显寡淡。缺少像乔治六世、丘吉尔、Tommy那样贯穿整季的灵魂人物。玛格丽特的情感戏跟剧集其余部分有割裂感，也难怪Kirby想让主创出一部写公主的衍生剧。不过这十年确实不比即位前后时期那么eventful。之后的二十年更无风浪，主创要如何化平淡为神奇呢？"
+    },
+    {
+      "user": "天马星",
+      "avatar": "https://img3.doubanio.com/icon/u68499588-11.jpg",
+      "content": "这一季更像故事汇，每个事件都沾一点，在王室狗血和政治风云之间摇摆不定，每集结尾更是毫无节制地用弦乐煽情！"
+    },
+    {
+      "user": "哔呣咣啵の哸啐",
+      "avatar": "https://img3.doubanio.com/icon/u1310319-5.jpg",
+      "content": "据说共六季，但头两季完全可以当作一部完整剧集来看，制作水平相当高，女王的演绎相当好，以及对于历史资料的运用，灵活且出类拔萃，搭配Hans Zimmer的配乐，时不时就会有那么一集，在结束的时候把人牢牢钉在沙发上，百感交集。"
+    },
+    {
+      "user": "Marguerite.",
+      "avatar": "https://img3.doubanio.com/icon/u39978181-6.jpg",
+      "content": "有马修古迪出场的镜头真的美，可是故事线也是真的乏味，感觉一下子画风降到了三流爱情故事，好在第七集结尾拔了高度。"
+    },
+    {
+      "user": "vivi",
+      "avatar": "https://img3.doubanio.com/icon/u2129993-253.jpg",
+      "content": "Margaret 可以说非常抢镜。角色/现实的人物之间大概也很容易两两对照，人生际遇却全然不同。另一边厢女王登基已十年，角色逐渐成长，各种变故或纠缠，而现实中故事结局早已写下。下季换人~"
+    },
+    {
+      "user": "Spark",
+      "avatar": "https://img3.doubanio.com/icon/u57723908-3.jpg",
+      "content": "四星半吧，第五集全季最佳。我个人觉得不如第一季，创作者仍然对君主制敬畏，不过在历史大环境的改变下，王权式微，信仰也慢慢衰弱。近十年时间，更换了四位首相，但是作为天选之子的女王，却必须要承担和忍受一切，不能放弃和回避。"
+    },
+    {
+      "user": "Pamir",
+      "avatar": "https://img3.doubanio.com/icon/u68676250-2.jpg",
+      "content": "从中间起女主开始发力（主要也得益于台词），表现倒是比第一季好。生硬的地方仍然不少。三星半。"
+    },
+    {
+      "user": "brocceli",
+      "avatar": "https://img1.doubanio.com/icon/u1634975-7.jpg",
+      "content": "第一季还是国家历史，第二季更像皇室八卦，虽然戏剧性设计的比第一季好但还是第一季更好看些。可能是因为这段时间确实没有什么重大历史事件吧。这一季的配角水平也大幅度下降，Eden，Mrs.Parker，摄影师等人和第一季的国王，丘吉尔，Townsend完全没法比了。要换演员好难过..."
+    },
+    {
+      "user": "ElaineJD",
+      "avatar": "https://img3.doubanio.com/icon/u108523391-5.jpg",
+      "content": "忙于工作无暇顾及，终于空下来回头一看人不见了。去哪了呢？草坪上蹦跶着呢。问是不是蹦跶去了，顾左右而言他，说了句我是你的，我想在你身边。废话，蹦跶完了当然要回家休息，休息好了才能继续蹦跶啊。：） E07"
+    },
+    {
+      "user": "Sophie  Z",
+      "avatar": "https://img3.doubanio.com/icon/u2081801-91.jpg",
+      "content": "最喜欢的是206（爱德华八世）和208（肯尼迪夫人）的那两集，一边看剧一边wiki剧透自己到底发生了什么……话说每次故事切换到二公主和她的摄影师丈夫那里，画风整个就变了……"
+    },
+    {
+      "user": "Q·ian·Sivan",
+      "avatar": "https://img1.doubanio.com/icon/u86835059-19.jpg",
+      "content": "「\"And though, with great difficulty, I am got hither, yet now I do repent me of all the trouble I have been at to arrive where I am.\"」「Small wonder we make such a fuss about curtsies, protocol and precedent. It's all we have left. The last scraps of armor as we go from ruling to reigning to... To being nothing at all. Marionettes.」"
+    },
+    {
+      "user": "昏金暗玉",
+      "avatar": "https://img1.doubanio.com/icon/u1173035-399.jpg",
+      "content": "跟第一季的浓妆淡抹总相宜不同，第二季换了一种参差对照的写法，层叠映照，耐得住性子。他还写了一点：即便皇室万姓仰望，但皇室也有束缚与困兽斗的另一面，不是每个人都渴望与之结亲或称为其中一份子。突然就想起不知从哪里看来的话：小户人家，虽然清贫些，到底自由。"
+    },
+    {
+      "user": "盲忙",
+      "avatar": "https://img3.doubanio.com/icon/u2206329-131.jpg",
+      "content": "一千人眼中有一千个哈姆雷特，一百个女演员却都是一个伊丽莎白，唯独Claire Foy演绎出了最与众不同的她，更难能可贵的是，和其他为主角而牺牲群像的张力不同，主角完全为戏服务，反而让角色本身更有说服力。"
+    },
+    {
+      "user": "sacrifice",
+      "avatar": "https://img3.doubanio.com/icon/u60249176-4.jpg",
+      "content": "第二季不如第一季，但是被古迪撩得魂不守舍，三星乖乖奉上"
+    },
+    {
+      "user": "国宝",
+      "avatar": "https://img3.doubanio.com/icon/u59361957-11.jpg",
+      "content": "这一季感觉有点散，但质量依旧上乘。下一季换演员了，希望亲王换个好点儿的，虽然印象中是个口无遮拦、花心的菲利普亲王，但颜值上还是得过得去吧。第四集终于见到了马修·古迪，也让我又刷了一遍《单身男子》！"
+    },
+    {
+      "user": "唐小万",
+      "avatar": "https://img3.doubanio.com/icon/u2011896-62.jpg",
+      "content": "脑海中第一个出现的词是exquisite。最喜欢玛格丽特公主的两集，摄影师和她说的那句“not to bore me”和“not to hurt me”大概能说明男女的区别吧，但他俩的目的性都太强了。也喜欢Jakie的那一集，女人的嫉妒心。从头到尾对菲利普亲王没什么好感，但喜欢讲他童年的第9集。"
+    },
+    {
+      "user": "懒躺乱翻书",
+      "avatar": "https://img3.doubanio.com/icon/u2498857-51.jpg",
+      "content": "这季的时间段里基本没有类似上一季的重大历史时刻，相对平淡，整体看着很无感。每集的叙述都是独立的，剧情又没有特别抓人的地方，容易放了很久才想起来看下一集。最后一集坑啊，都是成年人，正面接球行不行！居然一段诉衷情就过去了，呵呵，婚姻，心疼女王。玛格丽特公主大美~也让人心疼…"
+    },
+    {
+      "user": "LoudCrazyHeart",
+      "avatar": "https://img3.doubanio.com/icon/u72086305-3.jpg",
+      "content": "玛格丽特和她妹妹表面上看上去就像第一季所呈现的那样，一个代表和继承了家族的永恒守旧与麻木无情，一个则是自由与现代派的叛逆代言人。而事实却仿佛截然相反。妹妹口口声声说的平等到了自己这里完全不成立，她也得不到完全的自由，相反她更享受皇族的特权。女王在其位，尽管渴望平凡，依旧尽其职。"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "和女王相比，玛格丽特公主更有人情味，有性格，一生逐爱，逐梦，可皇室身份束缚了她的身心。特权阶级以皇室身份存在于倡导民主平等的发达国家还是有些不可思议的。"
+    },
+    {
+      "user": "Sigma von Zeta",
+      "avatar": "https://img3.doubanio.com/icon/u49848992-14.jpg",
+      "content": "最喜欢的两集 ep4氤氲的情欲很美 ep5对君主制的讨论很有趣 讨论婚姻家庭的我都不太喜欢"
+    },
+    {
+      "user": "牛腩羊耳朵",
+      "avatar": "https://img1.doubanio.com/icon/u1761378-208.jpg",
+      "content": "历史感和高潮基本靠平行剪辑了，不过剧本确实是丝丝入扣，几个客座演员选得尤其好"
+    },
+    {
+      "user": "傻乐的猫",
+      "avatar": "https://img3.doubanio.com/icon/u1181949-142.jpg",
+      "content": "大英帝国衰落史...伊丽莎白二世的一生就是在不停低头的过程...看这个戏只能让人觉得君主立宪制这块招牌还有何意义？"
+    },
+    {
+      "user": "Daisy cat",
+      "avatar": "https://img1.doubanio.com/icon/u2779685-29.jpg",
+      "content": "这一季偏爱EP04和06，04是完全拿电影来拍的，看一下构图，看一下怀着好奇打量彼此、内心骚动不安的两个人，可以是一部爱情文艺片。06则完全是新旧世界新旧规则的碰撞，王权在各种细节上的没落。"
+    },
+    {
+      "user": "小悬子",
+      "avatar": "https://img3.doubanio.com/icon/u3653373-1.jpg",
+      "content": "2019.04.23 ~ 2019.05.04\n还挺好看的，不过我一见Matthew Goode就抑制不住自己的睡意，感觉玛格丽特两口子的故事真是又长又无聊……Matt Smith虽然骨骼清奇，但他演得有趣啊！"
+    },
+    {
+      "user": "Salzig",
+      "avatar": "https://img3.doubanio.com/icon/u62749551-26.jpg",
+      "content": "玛格丽特和肯尼迪那集好。最后一集和查尔斯那一集结尾好，但整体heavy-handed。就算这是耐飞最贵剧，也不要动不动来拍个纳粹德国、再拍个非洲大会、还有埃及战争和空难？有时less is more好不？皮特摩根的剧本从来不隐晦，但老戏骨能撑起来。而这季想什么都拍出来，于是很多无必要的边缘人物撑不起来"
+    },
+    {
+      "user": "小柚子×旅行家",
+      "avatar": "https://img3.doubanio.com/icon/u2713839-116.jpg",
+      "content": "S2比S1八卦了很多，每一集都在暗示Philip是个不靠谱的渣男，感觉也没那么尊重真实了（但是其实sei也不知道野史是不是才是真的历史呢），但最后一集突然又回归家庭了，果然浪子都这么难以捉摸么。另外S2E4 古迪仔的部分反复看了无数遍，人间尤物啊，尤物...."
+    },
+    {
+      "user": "Iberian",
+      "avatar": "https://img3.doubanio.com/icon/u3530338-2.jpg",
+      "content": "从The Queen到Frost/Nixon再到The Audience再这部，还是熟悉的Peter Morgan配方——打各种擦边球，不给实锤却又让人浮想联翩，但是不得不说，这大概是给敏感人物作传最巧的手法了"
+    },
+    {
+      "user": "CC",
+      "avatar": "https://img3.doubanio.com/icon/u68916376-4.jpg",
+      "content": "新内阁大臣处理政务带有强烈感情色彩，又急于摆脱丘吉尔的阴影，频出昏招。开始亲王偷亲女王颈部，到后面两人感情破裂，双方都有过错。面对丈夫的背叛，除了写上“always remember you have a family”之外，拥有高贵王权的女王也只能选择隐忍。对丈夫产生陌生感到破镜重圆，天底下没有完全的婚姻。"
+    },
+    {
+      "user": "我是直的",
+      "avatar": "https://img3.doubanio.com/icon/u48633418-6.jpg",
+      "content": "总觉得菲利普出轨的对象是第一季一起酒驾的基友、菲利普总是抱怨难道他和女王结婚前心里没点数吗（18.6.3）这季非常喜欢m和摄影师的桥段 也太浪漫了吧 bgm也超契合（6.5）这季片头是成型的王冠耶 上一季讨厌的ma和fe 这季居然开始喜欢了 想看他俩各自的自传 这一季仍是专注记录感情生活 下季见啦朋友们"
+    },
+    {
+      "user": "清柠陌陌",
+      "avatar": "https://img3.doubanio.com/icon/u52954951-6.jpg",
+      "content": "我来扣一星了。肯尼迪夫人那集编得有点太夸张了。摄影师如果真的史诗如此也太魔幻了吧。感觉有点婆婆妈妈缺少上一季的恢弘感了。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "比第一季逊色，大量的女王猜忌菲利普亲王的戏码都很无聊，看到后一半才找回了看第一季时那种停不下来的感觉。细腻的情感，考究的制作，优雅的质感，尽管没什么大事件，还是能感受到这个英国在世界政局逐渐失去话语权，以及王权在世俗中褪去光环的过程。"
+    },
+    {
+      "user": "KD6-3.7",
+      "avatar": "https://img3.doubanio.com/icon/u168972571-1.jpg",
+      "content": "还没看完，不过已经可以给评价：制作水准依旧，故事没第一季有意思（可能原因是对英国60s不熟悉），Claire Foy的妆基本没有和S1有很大差别是很大的缺点。。根本看不出是省了俩十岁开外的孩子的妈。。"
+    },
+    {
+      "user": "迷失东京",
+      "avatar": "https://img3.doubanio.com/icon/u51660372-6.jpg",
+      "content": "感觉没有第一季好。这一季感受到了女王这个身份的无奈，她什么都知道，但什么都改变不了，对于一个有点责任感的人来说，处在这样一个职位，是很煎熬的。这一季把女王刻画的没什么主见和智慧，反倒是爱丁堡公爵，虽然出轨乱搞，但还是一个睿智坚毅的形象。不知道是编剧偏心，还是事实如此"
+    },
+    {
+      "user": "Bleu",
+      "avatar": "https://img1.doubanio.com/icon/u63688364-117.jpg",
+      "content": "第二季每一集都独立成篇，每一篇却更具深度。第一季是女王的成长，第二季则是女王、菲利普亲王、玛格丽特公主、查尔斯、肯尼迪夫人的成长。相比第一季，这一季去掉了更多政治色彩，转向人性的挖掘。"
+    },
+    {
+      "user": "炎さま",
+      "avatar": "https://img3.doubanio.com/icon/u4346900-63.jpg",
+      "content": "crown season2\n把去年没看完的三集结束掉\n这一季玛格丽特公主真是光彩照人 和阿姆斯特朗的恋情到大婚那ep对于写作的人来说真是充满魅惑 带来无限感触 当然这两位演员真是太迷人了 Matthew Goode我的爱啊\nCharles在苏格兰男校的苦难和Phillip的童年交叉这拍感觉真的很不错 \n此季充满着动荡的冷战政局 和肯尼迪夫妇的互动也颇费笔墨\ns3就要来了 中青年的伊丽莎白和玛格丽特都要谢幕了 大物女影后Olivia Coleman要接盘第三季了 有点舍不得 有点期待"
+    },
+    {
+      "user": "哪 吒",
+      "avatar": "https://img3.doubanio.com/icon/u1209738-44.jpg",
+      "content": "全剧看下来最喜欢的人是Tommy和Micheal，有时候我真不了解我自己◝( ˙ ꒳ ˙ )◜"
+    },
+    {
+      "user": "镜中猫|51neko",
+      "avatar": "https://img3.doubanio.com/icon/u2597134-45.jpg",
+      "content": "比上一季多给了一颗星到不是说我觉得比第一季更好，是因为两季看完有点舍不得foy的女王了啊！菲利普真的是让我讨厌了19集，最后一集黑转路了www 然后我甚至开始有点同情查尔斯了。。。女王说我当了十年女王，就有三个首相，没有一个干满任期的，我默默在想，铁打的女王流水的首相，你今后还会有更多干不满任期的首相的😂😂真心求今年开播的第三季不要让我失望啊！"
+    },
+    {
+      "user": "坐等1900",
+      "avatar": "https://img3.doubanio.com/icon/u2839451-3.jpg",
+      "content": "哪有人活得绝对容易 女王有普通人的烦恼没错 但许多普通人的烦恼 女王从未体会 只凭这一点 她就是幸福的 等级 阶层 这个差异性越来越大的时代里 王室的存在 不是童话 而是人性渴望完美的最后一剂迷魂药 自欺 欺人"
+    },
+    {
+      "user": "食袋姐妹花",
+      "avatar": "https://img3.doubanio.com/icon/u2484379-2.jpg",
+      "content": "感觉这季比上一季更下血本，制作更精良了。教科书级摄影，前几集的影调真是好看哭，明黄的海，飞机上活动的太阳光线，阴郁吱扭作响的女王亲王摊牌冷调场景，玛格丽特公主在暗房里的红调戏。。。非常内敛的表演模式，全靠眼神和肌肉微动在调度情绪。。硬要挑刺的话，摄影运动稍微还是简单了一点。。"
+    },
+    {
+      "user": "Herring",
+      "avatar": "https://img1.doubanio.com/icon/u46894371-18.jpg",
+      "content": "第五集真的好看，叙事手法，情节铺垫，这一集简直本季最佳了。"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "4.5。亲爱的肯尼迪夫人那一集，太动人。"
+    },
+    {
+      "user": "柯勒律治郁",
+      "avatar": "https://img3.doubanio.com/icon/u132300632-5.jpg",
+      "content": "我做梦也想不到看了第九集会心疼查尔斯王子……"
+    },
+    {
+      "user": "哗啦啦",
+      "avatar": "https://img1.doubanio.com/icon/u1902672-17.jpg",
+      "content": "好的影视剧堪比文学作品，甚至高于文字，英剧中的历史剧和经典名著复刻都具备此功力。网飞模拟英剧的英女王生平在本季其实就是家长里短、暧昧狗血的人之常情，却拍出了丰富的内心厚度，配着责任感和历史沉浮，作为个体所能承受与面对的克己性和善意进取，成长中的女王和我们一样，我们可以从中受益。 "
+    },
+    {
+      "user": "Clefairy",
+      "avatar": "https://img3.doubanio.com/icon/u4404717-11.jpg",
+      "content": "诠释英伦演员用面部肌肉调整出的细致演技。先是糖炖，然后是王冠，英国贵族生活总是吸引来自各个时区的好奇窥视~女王被Claire演得好可爱啊~下季就见不着了好忧桑。女王和她老公的故事emmm……"
+    },
+    {
+      "user": "安短",
+      "avatar": "https://img3.doubanio.com/icon/u47767005-46.jpg",
+      "content": "比第一季要好得多，特别是最后几集，颓亡衰败在帝国蔓延，女王孤身拼死护卫这庞大朽迈的宫廷而无力的无奈感，百足之虫，死而不僵的悲凉感一下子就出来了"
+    },
+    {
+      "user": "荞麦安娜娜娜",
+      "avatar": "https://img1.doubanio.com/icon/u3888049-37.jpg",
+      "content": "心疼女王，身边尽是些不能省心的人儿。从小养尊处优的公主更容易被“坏男人”吸引，女王和她妹都是（顺便也心疼不懂事的王妹一秒钟）。"
+    },
+    {
+      "user": "朔夜ネコ",
+      "avatar": "https://img1.doubanio.com/icon/u120314959-37.jpg",
+      "content": "我想说，我知道女王隐忍，但是隐忍的内涵就是把隐忍两字贴脑门儿上？每次女王一睁圆了双眼一言不发表现隐忍克制的时候，我就莫名来气。"
+    },
+    {
+      "user": "Caramel_Grace",
+      "avatar": "https://img1.doubanio.com/icon/u2607253-78.jpg",
+      "content": "整体节奏不如第一季紧凑，但叙事手法更丰富，前三和后三相当精彩，玛格丽特那几集有点鸡肋。"
+    },
+    {
+      "user": "喵尔摩丝",
+      "avatar": "https://img3.doubanio.com/icon/u44370220-14.jpg",
+      "content": "终于补完…很喜欢这一季的格局，每集都是从小处着眼，而后一圈圈向外延伸。维系婚姻，孩子择校，姐妹间的角力等等，因为她是女王，这些寻常的家长里短，都成了头条新闻。个人觉得肯尼迪夫人一集可以算整季的华彩，两个同样被世界仰望的女人，如同被囚至高塔楼，所能做的不过彼此遥望，点头致意。"
+    },
+    {
+      "user": "雲水",
+      "avatar": "https://img1.doubanio.com/icon/u60858827-19.jpg",
+      "content": "第一季关于成长,这一季完全是探讨婚姻,用各种姿势.演员越演越在状态,那个女王步态回到生活中会改不过来吧,最后卸完货的那个眼神简直心酸,可惜下一季要换演员了,sigh~ 第9集成长的历练太残忍了,看哭,挫折教育是世界上最操蛋的事,天降的挫折就够受的,还要人为制造挫折,真希望每个孩子都能在关爱中长大"
+    },
+    {
+      "user": "steflover",
+      "avatar": "https://img3.doubanio.com/icon/u1424076-13.jpg",
+      "content": "断断续续看好久 每一集都能感触好多 无关真实历史 编剧想构造的故事想说的所谓道理已足够自洽 看的同时搜搜照片会感慨选角足够良心即使配角也交足功课 "
+    },
+    {
+      "user": "席德",
+      "avatar": "https://img3.doubanio.com/icon/u1145437-152.jpg",
+      "content": "11太可爱，演什么角色都让人无法讨厌。与其说是传记片，不如将它当作历史同人看吧。"
+    },
+    {
+      "user": "picnic",
+      "avatar": "https://img3.doubanio.com/icon/u53211847-35.jpg",
+      "content": "十星好评！强烈推荐第九集。编剧真的每集的主题都抓的特别好，人性和王权的纠葛。历史还原的特别好。片头真的看一次起一身鸡皮疙瘩。"
+    },
+    {
+      "user": "chuchu",
+      "avatar": "https://img1.doubanio.com/icon/u86728823-19.jpg",
+      "content": "太好看瞜~~~最後兩集看哭我~~賈桂琳那一集也很精彩!!繼續期待下一季~~~"
+    },
+    {
+      "user": "橘子味的夏天",
+      "avatar": "https://img3.doubanio.com/icon/u141517149-16.jpg",
+      "content": "一直对英国王室的故事感兴趣，尊贵如女王也有暗自流泪的至暗时刻。谁的人生不是一地鸡毛呢？努力地活下去，把手中一副让人头疼的烂牌打好，左右支撑，尽力为自己身边的亲人维持着最长久的体面，这何尝不是一种真正的英雄主义呢？"
+    },
+    {
+      "user": "生煎馄饨秃子",
+      "avatar": "https://img3.doubanio.com/icon/u36656036-202.jpg",
+      "content": "最喜欢568，最后一集收得特别好，女王登基后的各种问题，几乎都浓缩到了这集中。有Margarit和Tony出现的地方都感觉画风完全不同，我古迪子太会撩！下一季要换人了，有点不舍…"
+    },
+    {
+      "user": "大使伯爵子",
+      "avatar": "https://img1.doubanio.com/icon/u51425915-7.jpg",
+      "content": "第二季仍然非常惊艳，更多的抉择和矛盾爆出。感觉女王周围都是各种放荡不羁，享受王室风光却不愿付出相应代价的戏精，让女王这种忍辱负重，责任心强的稳重女子real心累。第一季女王还有青涩的话，第二季真的各种端庄大气！"
+    },
+    {
+      "user": "涤寒",
+      "avatar": "https://img1.doubanio.com/icon/u29936135-17.jpg",
+      "content": "Boys will be boys.喜欢这一季的Philip"
+    },
+    {
+      "user": "一棵溪水旁的树",
+      "avatar": "https://img3.doubanio.com/icon/u62607376-3.jpg",
+      "content": "人的痛苦，本质上是对自己无能的愤怒，玛格丽特公主想反叛又想享受灯光特权，菲利普亲王想做一番事业又没什么能力，只有女王在虚空中找到了自己的位置，比起表面的精致，更喜欢隐藏下的欲言又止，是危险，也是不顾一切的陷落，沉浸于黑暗中倍感真实，寻求又潜伏着。"
+    },
+    {
+      "user": "爸爸",
+      "avatar": "https://img3.doubanio.com/icon/u2929303-50.jpg",
+      "content": "最后一幕露出的笑脸和搭过去的手，挺好玩儿的"
+    },
+    {
+      "user": "小晨",
+      "avatar": "https://img1.doubanio.com/icon/u1522921-128.jpg",
+      "content": "第二季剧情推动好快。基本每个主角都有让人理解又让人讨厌到牙疼的地方（好奇自己为何会想说牙疼，也许我想说咬牙切齿吧。。。。。）还是觉得编剧倾向性太太明显，三个大臣有些片面，后两个被写的可以说是一无是处。"
+    },
+    {
+      "user": "了无歌",
+      "avatar": "https://img3.doubanio.com/icon/u74828977-43.jpg",
+      "content": "君主立宪制在保证国家走向现代化的同时保留了传统的“庙宇”，而副产物就是一个对外代表国家，对内却没有任何权力的君主，君权神授，但同时也是普通人，是妻子，是母亲，是姐姐，是女人。最喜欢5,6,7,8,9集：批评女王的记者，不可原谅的罪责，伤害与乏味共存的婚姻，光彩夺目的肯尼迪第一夫人，勇气与成长。"
+    },
+    {
+      "user": "羊老斯",
+      "avatar": "https://img3.doubanio.com/icon/u3943445-25.jpg",
+      "content": "Claire Foy and Matt Smith, both outstanding actors, have ZERO chemistry together."
+    },
+    {
+      "user": "小药水",
+      "avatar": "https://img3.doubanio.com/icon/u4169224-11.jpg",
+      "content": "每一季的第九集都是把人物描绘地特别有力量，到后来每个选择还是自身经历和固有价值观的投射。反殖民浪潮和冷战的历史背景，王冠的沉重，希望继续跟着剧补英国历史，人物都很饱满~"
+    },
+    {
+      "user": "Richard",
+      "avatar": "https://img3.doubanio.com/icon/u20194053-1.jpg",
+      "content": "观影过程如同穿越时空蹲坐在白金汉宫、唐宁街，苏格兰的某个角落静静观摩，回头翻阅维基百科发现确有此事，这才叫历史剧吧。"
+    },
+    {
+      "user": "请叫我腹黑",
+      "avatar": "https://img3.doubanio.com/icon/u3469185-10.jpg",
+      "content": "伊丽莎白的生活似乎也并没有很幸福，这一季着重展现了与菲利普亲王的婚姻关系上危机。但在王冠之下，她依然是大英帝国的女王，要低头，要微笑，要坚强。"
+    },
+    {
+      "user": "EpicurE_17",
+      "avatar": "https://img3.doubanio.com/icon/u49586963-2.jpg",
+      "content": "第一季临危受命先治国 第二季才开始齐家 难得的是每个角色都能立 对于暧昧的历史事件也聪明地给出了充分客观信息而非盖棺定论 各方面硬件都是一如既往地扎实"
+    },
+    {
+      "user": "🌻🌻🌻",
+      "avatar": "https://img3.doubanio.com/icon/u2788848-36.jpg",
+      "content": "这一季没有丘吉尔和老国王，没有那么好看了。菲利普和查尔斯的戏份好看一些，连玛格丽特公主的戏都弱了。本来想抱着Mathew 舔屏，发现Mathew也老了、、、"
+    },
+    {
+      "user": "明鑫",
+      "avatar": "https://img3.doubanio.com/icon/u50609677-20.jpg",
+      "content": "没有了丘吉尔之后，英国女王的故事变成了小把戏；与第一季不同，这一季更能体现王权的本质，在绝对的巅峰，却又必须消失于无形。这种若隐若现之感贯穿于所有的故事；女王的故事最致命的迷人之处在于，它超越了一般的小情小爱，微不足道的忠贞，每每令你悦纳另外的价值观。"
+    },
+    {
+      "user": "元帅",
+      "avatar": "https://img3.doubanio.com/icon/u4786252-30.jpg",
+      "content": "菲利普亲王真温柔！很喜欢本剧的客观视角 对于女性与自己和与其他女性之间关系的感受和表现很细腻 很能relate！非常喜欢queen和jackie见面的那一段 啊 感觉girl power了起来！"
+    },
+    {
+      "user": "井戒",
+      "avatar": "https://img1.doubanio.com/icon/u1477839-128.jpg",
+      "content": "登基十年，心已老矣。节奏明显放缓，10集良莠不齐，205却是比较高昂的一击。菲利普亲王的形象在首尾呼应中一再走低。从历史进程来看，真正步入中年的下一季应该会很精彩，期待Olivia Colman"
+    },
+    {
+      "user": "Almasy伯爵夫人",
+      "avatar": "https://img1.doubanio.com/icon/u3569529-47.jpg",
+      "content": "醉了，虽然一直知道渣老公渣渣，但这个对老公妥协x100+对妹妹又那么狠的女王看着实在呵呵了。妹妹戏份少成这样不开心，有点想念peter。后来还真的去查了各种资料，原来真是收到信后秒速要结婚，真的是很虐了。摄影师明显abusive husband的趋势...."
+    },
+    {
+      "user": "Poros",
+      "avatar": "https://img3.doubanio.com/icon/u1222138-12.jpg",
+      "content": "这一季把重心放在了女王的感情线上，结构非常精巧，从季首的铺垫到季尾的呼应，手法还是通过主线叙事的展开不断发展人物侧写，4-6有点啰嗦，叙事分散，但最后还是通过7、8、9三集漂亮地完成几个主要人物内心世界的深度挖掘，找回108丘吉尔那集的感觉;207结尾OST:Dies Irae-ZBIGNIEW PREISNER"
+    },
+    {
+      "user": "小小虫",
+      "avatar": "https://img3.doubanio.com/icon/u23237106-11.jpg",
+      "content": "发掘了一批宝藏演员。马修古迪颜真的能打，身材一级棒！"
+    },
+    {
+      "user": "康乐股长王紫菜",
+      "avatar": "https://img3.doubanio.com/icon/u13446337-26.jpg",
+      "content": "我太喜欢这剧了，以至于不舍得一口气看完。头顶王权，你只是你所象征的一切——士气、价值观、宗教领袖、国家精神气质。结尾用拍照场景呼应首季点出主题，神性与凡人、王权和家庭斗争的困境在这一季里更加复杂和棘手，而最终女王还是必须靠她自己。剧本质量过硬，服化道仍然无可挑剔。"
+    },
+    {
+      "user": "鲜有废客",
+      "avatar": "https://img1.doubanio.com/icon/u70702846-7.jpg",
+      "content": "第二季的结尾挺没意思的，和第一季一样，拿男主女主的婚姻做悬疑点。有点意思的是《贵族批评女王》、《家长》那几集，叙述的手段高明点，其他的保持了第一季的水准，继续保持，不失为一部优等剧集。"
+    },
+    {
+      "user": "三角猫",
+      "avatar": "https://img3.doubanio.com/icon/u47268593-31.jpg",
+      "content": "…菲利普亲王的心智这么不成熟真的好嘛，从头渣到尾（中间几集还算淘气的有点可爱，但是最后一集真是看的气哦，要成为女性公敌了好吗），女王这尼玛糟心的…ps马修演的摄影师比本人撩到爆了有没有…"
+    },
+    {
+      "user": "Jafe",
+      "avatar": "https://img3.doubanio.com/icon/u40932911-1.jpg",
+      "content": "跟第一季比，可能少了一些惊喜，感觉稍稍逊色一点点。英伦的王权富贵，跟我们的始终不是一回事，或者也可能说始终是一回事。少了丘吉尔这位首相，其他两位PM感觉比不上前任。于是剧中更多关注王室里面的故事，和随着时代发展，不知不觉间发生的change。"
+    },
+    {
+      "user": "Mona Gelato",
+      "avatar": "https://img1.doubanio.com/icon/u28516412-18.jpg",
+      "content": "虽是演绎皇室，许多类似的故事也发生在普通人生活里。彼此皆凡人。许多集最后都通过简单的旋律将剧情推入高潮，看到泪目~P.S.太喜欢克莱尔"
+    },
+    {
+      "user": "Spark",
+      "avatar": "https://img3.doubanio.com/icon/u3642729-2.jpg",
+      "content": "之前丘吉尔在位的时候，一个个盼着丘吉尔让位给年轻人，真的让位之后，一个不如一个。先是出兵埃及， 失败，然后又是国防大臣丑闻，又倒下去一个，麦克米伦真的很神奇啊，居然亲自送自己的老婆去见小三，而且容忍自己的老婆出轨几十年，英国当时的社会不能容忍离婚，但是可以容忍通奸？？只要配偶不爆发，一切都好说？？开头菲利普和女王的对话，还以为他们的婚姻要gg了，但是女王居然忍辱负重把婚姻救回来了？？还又生了两个娃。。所以这一季的重点是女王的家庭生活吗？妹妹的婚姻也是令人操心，明明摄影师是个不靠谱的人，公主自己居然不知道？？菲利普也是，怎么什么丑闻都能跟他扯上关系。。肯尼迪夫妇来英国那段很棒啊，争奇斗艳争锋相对，肯尼迪也是惨，想想我还去过肯尼迪被刺杀的地方和博物馆。。感觉和历史奇妙地融合了"
+    },
+    {
+      "user": "𝕄𝕪ℝ𝕖𝕞𝕖𝕕𝕪",
+      "avatar": "https://img1.doubanio.com/icon/u82620092-17.jpg",
+      "content": "看完一整季，作为王的男人，这个直男癌哪能这么贱呢？！超级好看，特别是第五集，可惜这么棒的片，看得人这么少，安利给别人，人家不吃这份安利，还整天叫我推荐美剧，你到是静下心来看看王冠啊，哎。。。"
+    },
+    {
+      "user": "娓娓",
+      "avatar": "https://img1.doubanio.com/icon/u1271490-139.jpg",
+      "content": "谁家没有破事儿？虽然见识过诸多在婚姻中不忠的行为，但还是没法习以为常……看女王如此克制，对我来说真是种苦难。"
+    },
+    {
+      "user": "珍妮的肖像",
+      "avatar": "https://img3.doubanio.com/icon/u1311269-2423.jpg",
+      "content": "比起第一季显平淡，但是有几个点很出色，例如怼伯父，怼首相。女王的妹子外相更似女王而已，姐姐的内核中肯克制，硬朗坚韧才是女王之道。"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u51354062-22.jpg",
+      "content": "我的妈呀，政治绝缘，英式英语听的头大，绝枯燥呀，而且画面昏暗。"
+    },
+    {
+      "user": "Later",
+      "avatar": "https://img3.doubanio.com/icon/u49994457-32.jpg",
+      "content": "Mathew Goode这种人真是让人难以拒绝 而且这次人设温文尔雅背后还有玩世不恭的黑暗一面 啧啧啧喜欢 Jackie那集不知道真假啊 Phillip那集还蛮感人"
+    },
+    {
+      "user": "Later",
+      "avatar": "https://img3.doubanio.com/icon/u49994457-32.jpg",
+      "content": "Mathew Goode这种人真是让人难以拒绝 而且这次人设温文尔雅背后还有玩世不恭的黑暗一面 啧啧啧喜欢 Jackie那集不知道真假啊 Phillip那集还蛮感人"
+    },
+    {
+      "user": "犹在镜中",
+      "avatar": "https://img3.doubanio.com/icon/u93158337-283.jpg",
+      "content": "Wearing the Crown needs to be ordinary and extraordinary，of the divinity and yet one of the people."
+    },
+    {
+      "user": "doherty",
+      "avatar": "https://img1.doubanio.com/icon/u2118865-19.jpg",
+      "content": "基本套路就是 威尔士亲王闹 玛格丽特公主闹 温莎公爵闹 国外再随意闹一闹 一季就过去了 玛格丽特公主实在太抢戏了 心痛女王…"
+    },
+    {
+      "user": "伊萨贝尔高",
+      "avatar": "https://img3.doubanio.com/icon/u48877428-53.jpg",
+      "content": "所有的统治者都是让人爱恨交加的吧 尤其是关于女统治者的剧集 角色总是拍让人讨厌又让人心疼。。不过因为女王颜值不是我的菜 心疼少了点讨厌多了点。。马修古德还是那么帅 给角色的渣找了180个理由~ 哈哈哈！"
+    },
+    {
+      "user": "EE",
+      "avatar": "https://img3.doubanio.com/icon/u2348297-140.jpg",
+      "content": "Peter Morgan牛逼，Claire Foy简直演技爆炸。之前看狼厅最后一集就觉得她演技不得了，这两年又突飞猛进，有前途啊。"
+    },
+    {
+      "user": "Schwartz_man",
+      "avatar": "https://img3.doubanio.com/icon/u72224486-93.jpg",
+      "content": "第二季侧重在王室内部琐事，二公主婚姻、爱德华旧事、菲利普艳事，牵着着政治，王室的衰落和动摇，提线木偶／肯尼迪第一夫人两集精彩，群像刻画集中在夫妻二人，妻子灭火老公艳情，其他人物刻画就不太着重了。"
+    },
+    {
+      "user": "N",
+      "avatar": "https://img3.doubanio.com/icon/u1607849-4.jpg",
+      "content": "质量比第一季降低了不少，大部分集数都缺失了自成一体的魅力，常常拖拖拉拉，像是从英剧往美剧发展。有一些episode还有一些叙事不清、人物介绍不足的问题。但这只能说是比上不足；整体来说还是很好看的。观剧伙伴年轻时候在英国住过好几年，很多事件都记得，我也顺道补充了好多历史（八卦）知识。"
+    },
+    {
+      "user": "cliosong",
+      "avatar": "https://img3.doubanio.com/icon/u27118153-5.jpg",
+      "content": "（8.0）Foy版女王结束，标记一下。"
+    },
+    {
+      "user": "反应永远慢半拍",
+      "avatar": "https://img3.doubanio.com/icon/u47818514-2.jpg",
+      "content": "哪怕是马修古迪也不能弥补男主带给我视觉上的残骸_(:зゝ∠)__(:зゝ∠)__(:зゝ∠)_下一部拜托选个至少看着不会觉得生理不适的男主吧"
+    },
+    {
+      "user": "Yavanna",
+      "avatar": "https://img3.doubanio.com/icon/u44467680-6.jpg",
+      "content": "有些剧情太生硬太臆想了，好几集为了讲八卦拉低了整个剧的妥帖感。而且都当女王那么多年，还硬给她拗个受气包/中年危机/没有自信/怯生生/平庸人设。整体上也缺乏第一季的前后连贯，各讲各的，每一集换个人在拍的感觉太强烈。玛格丽特的剧情虽然很出戏但是她的这两集是真好看呀。"
+    },
+    {
+      "user": "蓝色波丽露",
+      "avatar": "https://img3.doubanio.com/icon/u148027236-35.jpg",
+      "content": "精致，考究，细腻，丰富，不敢说真实但至少很现实。依旧是我的年度最爱。"
+    },
+    {
+      "user": "大梦难觉",
+      "avatar": "https://img3.doubanio.com/icon/u1400506-41.jpg",
+      "content": "个人感受：整个剧集的核心主题就是Monarchy，或者说是一种更加宽泛的Monarchy的概念。在国家层面上，当然可以说共和政体是主流的，但是在权力的毛细分布中，monarchy的存在和气质并没有消亡。在王冠剧集中，恰到好处地讨论了权力的运用及其边界，及其对当事人施加的影响。"
+    },
+    {
+      "user": "莎翁笔下的精灵",
+      "avatar": "https://img3.doubanio.com/icon/u49146355-10.jpg",
+      "content": "无论是那顶王冠的重量，还是其承受者身为女人、妻子、母亲的身份，这个剧以及演绎者克莱尔都呈现出方方面面的深度、厚度、惊醒度。能完成这么一件可谓世上最复杂的身份叠加，依靠的肯定不是聪明或天才，而是女王本人的毅力、坚韧、仁爱、理智、情谊。"
+    },
+    {
+      "user": "宅蘑菇Moku",
+      "avatar": "https://img1.doubanio.com/icon/u1866742-97.jpg",
+      "content": "妈的真是犯贱还要看第二季！！看的好生气！！菲利普亲王就是个辣鸡！！辣鸡！！！辣鸡人渣！！不接受反驳！！！！气！！！王室的每一位都还是那么不遗余力的惹人讨厌！！！都太讨厌了！！ 玛格丽特公主演的太用力了吧尴尬…………还是要肯定一下女主的演技真的非常好很有说服力"
+    },
+    {
+      "user": "( ´･ᴗ･` )",
+      "avatar": "https://img1.doubanio.com/icon/u15112169-8.jpg",
+      "content": "a strong Her Majesty surrounded by weak, irresponsible men and women. 最近看到royal house新闻心情都不一样了，想到之后可能还要拍她大儿子的那些破事，心疼。难得的直接表达心情\"they've either been too old, too ill or too weak. a confederacy of elected quitters\"太精彩，截图了！"
+    },
+    {
+      "user": "Can",
+      "avatar": "https://img3.doubanio.com/icon/u125247286-1.jpg",
+      "content": "感受到了：国家的光荣与梦想，婚姻的无奈与深沉，亲情的坚韧与平凡，成长的痛苦与喜悦"
+    },
+    {
+      "user": "darkerthanwhite",
+      "avatar": "https://img3.doubanio.com/icon/u3778965-6.jpg",
+      "content": "Elizabeth演得太棒了，一气呵成的看完了，意犹未尽，英国做的东西总是有底蕴一些~可惜下一季换人了，好喜欢这个演员"
+    },
+    {
+      "user": "Vulpecula.h",
+      "avatar": "https://img1.doubanio.com/icon/u4145696-139.jpg",
+      "content": "Simply marvelous. 一个有血有肉的君主真正在家、国面前做出的的选择和牺牲。"
+    },
+    {
+      "user": "milvaro",
+      "avatar": "https://img1.doubanio.com/icon/u1722291-117.jpg",
+      "content": "喜欢政治历史剧应该对第二季感到不过瘾，本季更注重女王的家庭生活与矛盾，政治历史背景相对弱化。"
+    },
+    {
+      "user": "静静的投资",
+      "avatar": "https://img3.doubanio.com/icon/u67876993-16.jpg",
+      "content": "“你知道吗？我当女王仅仅十年，在那段时间我有过三个首相，他们都有野心，没有一个坚持到任期结束。不是太老，病的太重，就是太软弱，都是些当选了却有始无终的人。”这句话放到目前，真是应景，我国的班子还是很牛逼啊。"
+    },
+    {
+      "user": "施舍翅膀",
+      "avatar": "https://img3.doubanio.com/icon/u47928438-1.jpg",
+      "content": "204真是要永久收藏！套路的马修叔叔真的很会追人！完美诠释了危险而美丽，两人真是美。S2挺多废集，6910都很无聊。很喜欢这个女王精彩的演技和生动的面部表情，（女王小演员也和青年演员很像）不知道S3换人后如何了（啊啊啊刚意识到二公主也换了 我喜欢这个！（203亲王被册封的时候小脚抖三抖 有趣"
+    },
+    {
+      "user": "Torrilla",
+      "avatar": "https://img3.doubanio.com/icon/u52071601-3.jpg",
+      "content": "三星半 有了Matthew Goode 剧的颜值提升了好多 但他这条故事线很乏味 女王和亲王这边的故事抓人 可一想到现实又觉得颜无法忍"
+    },
+    {
+      "user": "一封",
+      "avatar": "https://img1.doubanio.com/icon/u2216806-8.jpg",
+      "content": "没有第一季好看了 还是老戏骨出彩"
+    },
+    {
+      "user": "Oski.",
+      "avatar": "https://img3.doubanio.com/icon/u35864279-20.jpg",
+      "content": "看完最后一集还是打了四星，主要还是和剧情有关。这一季明显儿女情长之事篇幅增长，而其中的许多还是虚构，加上每集剧情相对独立，使得整部剧一下子平凡了好多。说的平凡倒也并非不好，只是原先对于王冠的喜爱很大程度上基于那个少些烟火味、注重史实、基调冷清的内核罢了。有些地方太不冷静。"
+    },
+    {
+      "user": "susie",
+      "avatar": "https://img3.doubanio.com/icon/u3509002-2.jpg",
+      "content": "2017.12.18 啊 看完了。这一季叫 how to survive in a marriage... 100 ways of how a marriage will not work... do not raise your expectation, cause even royal marriage, the one looks like a fairy tale is miserable...好老婆里的老相识这儿演了个浪荡photographer 可以嘻嘻~"
+    },
+    {
+      "user": "M & R",
+      "avatar": "https://img1.doubanio.com/icon/u60709783-39.jpg",
+      "content": "ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ，身在首尔不忘准时打卡思密达。我就知道Matthew迟早有一天会兑现摄影家。"
+    },
+    {
+      "user": "tata",
+      "avatar": "https://img3.doubanio.com/icon/u2871839-10.jpg",
+      "content": "这本子真是绝了，可以拿去学院做编剧范本。结构、节奏满分，有冲突又那么克制。不是神作，但看的很服气，就是没有错误，不像其他分数虚高的剧，这部剧的9分很有说服力，一些戏剧性改编也相得益彰。很期待撒切尔夫人上线了"
+    },
+    {
+      "user": "Cattiney",
+      "avatar": "https://img3.doubanio.com/icon/u71678016-21.jpg",
+      "content": "Matthew老了，但还是帅得不可救药啊～～Philip也不易啊爸爸妈妈好可怕，而且这个小演员也是怎么这么帅呢！！黑西装葬礼的时候简直～～～～～第十集有点没看懂......跳跳跃了嘛"
+    },
+    {
+      "user": "嗷嗷嗷",
+      "avatar": "https://img3.doubanio.com/icon/u48802920-13.jpg",
+      "content": "AMAZING 王室的瓜真是amazing 真的太好奇王室为什么能授权拍电视剧。。。当然拍的真的很好啦 还有古迪子啊啊啊啊 以及看了第九集十分理解女王不想让查尔斯继位的原因了＃大众媒体影响塑造政治历史观实例＃"
+    },
+    {
+      "user": "三年早知道",
+      "avatar": "https://img3.doubanio.com/icon/u52109245-13.jpg",
+      "content": "从去年等到今年，外国剧就等这一部。对不起我只能给满分。"
+    },
+    {
+      "user": "路伽维加",
+      "avatar": "https://img3.doubanio.com/icon/u1175766-20.jpg",
+      "content": "这种端着撒狗血的姿态，确实拿捏得非常好了。ps被女王衬托得剧里的男人特别是王夫都非常之怂……"
+    },
+    {
+      "user": "killblue",
+      "avatar": "https://img3.doubanio.com/icon/u80690830-15.jpg",
+      "content": "5,6,9集最佳。看到最后一集，感觉每个人都成了一座孤岛，从我想了解你到我不想了解你，从互相了解到互相不想了解。没有了意愿，就会很悲伤"
+    },
+    {
+      "user": "Fify才不爱巴特",
+      "avatar": "https://img3.doubanio.com/icon/u4338975-122.jpg",
+      "content": "女王真的是女强人的典范。几乎永远porker face，所有的情感，心酸复杂都要被掩盖起来。最后的if only。真是难以言喻。【马修帅哭！"
+    },
+    {
+      "user": "喵星人不吃鱼",
+      "avatar": "https://img3.doubanio.com/icon/u2336545-16.jpg",
+      "content": "根本停不下来，亲王这个渣男有时候也很温情"
+    },
+    {
+      "user": "小明灯仁波切",
+      "avatar": "https://img1.doubanio.com/icon/u49805094-37.jpg",
+      "content": "依然是还原历史+一点虚构，我终于大概捋清英国王室那些人和事了，每一集都看得津津有味，10集简直不够看，为什么下一季要换人！我不接受！ps:姐姐戏外比戏里美，妹妹戏里比戏外美"
+    },
+    {
+      "user": "zy_",
+      "avatar": "https://img3.doubanio.com/icon/u50116920-51.jpg",
+      "content": "Foy的女王表现得真的好准确，让人讨厌又让人心疼，最大感受还是佩服，想到要换卡司好舍不得。。。 还有私心最喜欢的妹妹和古迪。。。。。"
+    },
+    {
+      "user": "Marvin的表妹",
+      "avatar": "https://img3.doubanio.com/icon/u14280836-22.jpg",
+      "content": "一度因为瞪眼面瘫喘粗气的女王差点弃剧，还好因为念着古迪子的摄影师和二公主的戏捡起来看，真是… 我又要说教科书一般的历史人物剧了，选材太棒了，有几集拍案而起😂爱八的戏终于不再用浪漫遮掩，这次实锤他和纳粹的交易，小希腊王子的戏也让人重新认识了女王的男人，至于古迪子…太撩了太犯规了！"
+    },
+    {
+      "user": "Cc_Yao",
+      "avatar": "https://img3.doubanio.com/icon/u143387644-23.jpg",
+      "content": "呜呜呜，好喜欢现在这个女王，怎么就换了呢😢……第二部感情线更多了，视角也更加女性化、更加细腻。女王身上那种沉着、坚毅但是又很温柔、真诚的性格好喜欢。"
+    },
+    {
+      "user": "么顺",
+      "avatar": "https://img3.doubanio.com/icon/u2237566-52.jpg",
+      "content": "一个平凡女人的琐碎一生拍成剧肯定都够drama了，何况是女王。我妈非常爱亲王，觉得他特别好，天天催我快点更，哈哈哈。"
+    },
+    {
+      "user": "命",
+      "avatar": "https://img3.doubanio.com/icon/u3116575-3.jpg",
+      "content": "没有特别跌宕起伏的剧情，更没有什么炫目特效，也不是冲破伦理和价值观的奇葩怪类，但是就这些大部分都知道的事件和人物，拍的认认真真，每个人物都刻画的很成功，很鲜明，让我们一眼就认出他们。0220-20：45"
+    },
+    {
+      "user": "西西弗斯先生",
+      "avatar": "https://img1.doubanio.com/icon/u61195672-7.jpg",
+      "content": "你不得不说，英女王绝对是这个世界上最值得敬佩的一个人，超长待机，面对万千或大或小的变化而依旧时常能化险为夷，且在如此艰难（对共和制中的君主制而言）时代依旧能保持相应的气度和象征；在如今这个年代，做君主是件辛苦事，任劳任怨还长年无休；"
+    },
+    {
+      "user": "PEY!",
+      "avatar": "https://img3.doubanio.com/icon/u66957428-94.jpg",
+      "content": "太散了，你也不是在拍记录片。下季所有角色都换人，要拍年长一些的 E II，我已经有些开始想念 Claire 和婶儿了…"
+    },
+    {
+      "user": "悟饭婆婆",
+      "avatar": "https://img3.doubanio.com/icon/u63922576-5.jpg",
+      "content": "依然水准之上。虽然加纳留在英联邦的故事缺乏具体史实，不过现任英国女王的个人魅力确实是很多英联邦国家从英帝国独立后依然留下来的重要原因。"
+    },
+    {
+      "user": "dddddddddd",
+      "avatar": "https://img3.doubanio.com/icon/u3555838-13.jpg",
+      "content": "女王好心酸好强大，而亲王已经不止一个渣字了，太没担当，心理绝对是受原生家庭的影响太深导致了问题。另，Matthew演什么像什么啊简直了。"
+    },
+    {
+      "user": "Fat.Mckenzie",
+      "avatar": "https://img3.doubanio.com/icon/u32776551-11.jpg",
+      "content": "比起第一季這一季每集關注的重點瑣碎的多，不變的是劇中人物的做派和講故事的節奏，政治驚悚劇要看米國的，政治時代劇還是看腐國的一板一眼更親切。我盡然曾經深信自己不是一個愛八卦的人，然後就是被最近搜索歷史里各種忍不住的無聊好奇狠狠打臉"
+    },
+    {
+      "user": "刘学浩",
+      "avatar": "https://img3.doubanio.com/icon/u4669098-74.jpg",
+      "content": "很精彩，但是越好的剧越会想琢磨它，越琢磨就越觉得某些地方差点意思。"
+    },
+    {
+      "user": "平湖秋月",
+      "avatar": "https://img3.doubanio.com/icon/u56543116-2.jpg",
+      "content": "更喜欢第一季，第一季更侧重女王的诞生，还有很多皇室更替的重要历史事件。第一季有种特别的调调在。然而，第二季更侧重女王身边的人的故事，Magret, Phillip, Charles，单集剧情更独立，但遗失了第一季的味道。故事还是很好的。最后Phillip的表白好苏"
+    },
+    {
+      "user": "人土土",
+      "avatar": "https://img1.doubanio.com/icon/u43410706-19.jpg",
+      "content": "在小查尔斯身上看到了自己的懦弱……"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "也是很槽心了。而且是我的错觉吗还是第一季的灰尘滤镜在这一季不见了（想念邱吉尔的唐宁街）。故事有时候也说的太圆，不是所有事情和决定都可以用破碎人格童年阴影什么的解释来龙去脉的啊……"
+    },
+    {
+      "user": "米酸奶",
+      "avatar": "https://img3.doubanio.com/icon/u51886935-4.jpg",
+      "content": "婚姻 在任何情况下 都是挑战 这一季更细腻更多面了 普通人尚且有撂挑子的可能 华丽城堡里的他们只能咬牙走下去 女王的if only戳泪 另，菲利普这个人太有魅力了"
+    },
+    {
+      "user": "shea4u",
+      "avatar": "https://img3.doubanio.com/icon/u48440704-33.jpg",
+      "content": "结尾感觉太仓促了。其实Philip真的蛮好的，毕竟Elizabeth只能选择把他放在Crown后一位。"
+    },
+    {
+      "user": "gegemoon",
+      "avatar": "https://img3.doubanio.com/icon/u2447648-26.jpg",
+      "content": "小十一演这个角色太合适了呀，又渣又萌【？】"
+    },
+    {
+      "user": "荞豆麻代",
+      "avatar": "https://img1.doubanio.com/icon/u153181609-8.jpg",
+      "content": "S02E04 电光火石在光影交错之间迸溅，玛格丽特，天生的公主和叛逆者。马修古迪真是完美的情人。很喜欢公主回到家在沙发抽烟的场景。谁说爱情不是为了片刻的欢愉和饮鸩止渴。纯粹的爱情或许存在，可惜纯粹的婚姻却是没有的。莉莉白和菲利普，告诉我什么叫做爱是长久忍耐。话又说回来了，一段没有出口的关系，真是让人忍不住想要找个缝隙喘口气。"
+    },
+    {
+      "user": "龙舌头🌈",
+      "avatar": "https://img3.doubanio.com/icon/u2254776-30.jpg",
+      "content": "王室再大再高贵，也是一个个凡人组建起来的家庭，能将这些人的生活悲喜各方面在端庄贵气的氛围下表现得很具体，很生活化，就像是在看任何一个普通家庭都能产生的矛盾纠纷，是这部电视剧最成功的地方。捻一捻片中这些华贵的灰烬，可以仔细看看他们都在用什么来燃烧，来维持着这高亮的王室光辉。"
+    },
+    {
+      "user": "庐陵",
+      "avatar": "https://img3.doubanio.com/icon/u1517064-36.jpg",
+      "content": "作为道德的体现者、传统和秩序的捍卫者，王室应是保守的、以身作则的典范；而同时作为最有权势、地位和财富的一族，王室又最有可能随心所欲、沾花惹草。在君主立宪的自由国家，这种张力尤为突出。第二季每一集都是一个精彩故事，而贯穿于婚姻、家庭教育、权力、对外关系等话题间的，是这一难解矛盾。"
+    },
+    {
+      "user": "七曜，勉之",
+      "avatar": "https://img1.doubanio.com/icon/u21767774-59.jpg",
+      "content": "最后一集好到炸裂！全剧台词都特别好。As a queen, as a wife, and as a mother，女王都尽了全力。男人真是狗改不了吃屎，最后亲王的求情（根本没道歉）真是笃定女王爱他啊。婚姻真的是一地鸡毛的事情，如果想要走下去，就要忍受无数的谎言和伤害。"
+    },
+    {
+      "user": "长夜北斗",
+      "avatar": "https://img3.doubanio.com/icon/u3378787-35.jpg",
+      "content": "1956-1963，从苏伊士运河危机到普罗富莫事件，基本是麦克米兰首相的任期，“never had it so good”却也没在这部王室视角的剧中显示出来，色调与气氛比第一季黑暗压抑得多。除女王夫妇矛盾之外，大背景表现得也更多，冷战与帝国解体的背景下王室通过转变来维护自身存续乃至英国利益是另一主线。"
+    },
+    {
+      "user": "细雪",
+      "avatar": "https://img3.doubanio.com/icon/u1660545-62.jpg",
+      "content": "这剧何尝不是剧里所讲拍出来满足普通人想象的吗"
+    },
+    {
+      "user": "景页再也不会",
+      "avatar": "https://img3.doubanio.com/icon/u1429455-31.jpg",
+      "content": "第二季历史线退居二线，夫君戏份增多。从特殊到一般，王冠下的“妒妇”，用责任和孩子守护家庭。大雨中邮轮上的对峙和最后一集苏格兰cottage里的和解都凸显婚姻这场challenge之任重道远。强者才说得出“我能理解你 let off steam”。"
+    },
+    {
+      "user": "岚君",
+      "avatar": "https://img3.doubanio.com/icon/u42334827-3.jpg",
+      "content": "没时间binge 就看了一点，的确和Globe and Mail那位喷的一样，家庭伦理风好重。"
+    },
+    {
+      "user": "Misshesitate",
+      "avatar": "https://img1.doubanio.com/icon/u27681298-37.jpg",
+      "content": "年度挚爱。稳当当的剧。每集都无可挑剔。"
+    },
+    {
+      "user": "大尾巴狼",
+      "avatar": "https://img3.doubanio.com/icon/u29090973-76.jpg",
+      "content": "第一季丘吉尔的存在让冲突性和人物性格塑造都很饱满，第二季似乎少了这么一个角色。女主演的很好但总觉得少了些女王的大气和温雅。女王夫妇的婚姻也总觉得少了些爱情的成分，很干甚至让人怀疑。没想到剧中关于感情部分的八卦竟然都是真的，比如首相老婆的出轨，比如玛格丽特那段旷世的爱情以及3P..."
+    },
+    {
+      "user": "假仙女",
+      "avatar": "https://img1.doubanio.com/icon/u3433933-58.jpg",
+      "content": "女王和肯尼迪夫人的那集扎心，女王也是凡人。"
+    },
+    {
+      "user": "超级英雄发骚友",
+      "avatar": "https://img3.doubanio.com/icon/u137523981-1.jpg",
+      "content": "第二季依旧精彩，以女王和菲利普亲王的感情矛盾为主开了个好头，花费整整三集讲述了矛盾的始终，到了该季大结局时也是以菲利普的丑闻收场，心疼女王...真的是欲戴王冠，必承其重。第二季更多描绘了王宫内众人的平凡面，虽是王族亦是凡人，各种情感纠结极大增强了人物饱满度，这群bi真是事儿精。"
+    },
+    {
+      "user": "陈小睡",
+      "avatar": "https://img3.doubanio.com/icon/u56975242-2.jpg",
+      "content": "if only，坐上王座，无人相随。"
+    },
+    {
+      "user": "风尘在.",
+      "avatar": "https://img3.doubanio.com/icon/u162324045-10.jpg",
+      "content": "相比第一季剧本更加完善，苏伊士和普罗富莫事件在串起各集的同时为伊丽莎白所处的政治环境带来了丰沛的张力，菲利普私生活的混乱为女王的战场火上浇油，她内外交困，她绝境求生，她在努力维持家庭关系的同时着手政治的棋局，残阳落日，二十世纪的联合王国，王冠上的宝石正闪烁着肃杀的光辉"
+    },
+    {
+      "user": "咯咯精",
+      "avatar": "https://img3.doubanio.com/icon/u41608208-13.jpg",
+      "content": "Marriage is a challenge under any circumstances"
+    },
+    {
+      "user": "悲伤2000",
+      "avatar": "https://img1.doubanio.com/icon/u175815171-8.jpg",
+      "content": "太精致了，看了这么久的电视剧现在才知道什么叫做一部精致的英剧（特别说第五集，音乐响起时实在太喜欢了,不过现在为止最喜欢的还是第二集，千里之外的爱意，有人能解答一下bgm吗）（鬼才信你呢，你这糟老头子。最后一集真的是看得肾上腺素飙升）"
+    },
+    {
+      "user": "小潜",
+      "avatar": "https://img1.doubanio.com/icon/u14535824-58.jpg",
+      "content": "这季看下来印象最深刻的不是女王，而是Margaret和Charles"
+    },
+    {
+      "user": "嗨、",
+      "avatar": "https://img3.doubanio.com/icon/u41291214-3.jpg",
+      "content": "第一次有点同情菲利普"
+    },
+    {
+      "user": "TJ",
+      "avatar": "https://img1.doubanio.com/icon/u1380354-129.jpg",
+      "content": "看预告最期待的故事反而索然无味，Claire Foy的演技却直接从第一季有了质的飞跃"
+    },
+    {
+      "user": "gerald",
+      "avatar": "https://img3.doubanio.com/icon/u1431025-13.jpg",
+      "content": "第二季继续好看到炸裂，要不是因为各种原因可能真的就一天一口气全看完了……这其中自然有八卦之心，可更重要的是它用出色的群像描写细腻地讲述了各种人在自我认同与社会角色的矛盾之中是如何抉择、取舍和成长，多少让人获得了一些在这个混乱的世界中成为一个有意义的自己的信心。"
+    },
+    {
+      "user": "legolas",
+      "avatar": "https://img3.doubanio.com/icon/u3477537-5.jpg",
+      "content": "太好看太牛逼了，比第一季更加出色，卡莱尔芙伊演的伊丽莎白女王堪称经典，收尾呼应的范式简直是正剧的模板，尤其是第八集从和美国第一夫人的比较中不甘到最后听说肯尼迪遇刺时的震惊难过动容懊悔，真的没法用更多语言来赞美这部剧的精致。"
+    },
+    {
+      "user": "FloatingBoat",
+      "avatar": "https://img3.doubanio.com/icon/u1706300-62.jpg",
+      "content": "这一季就是大英帝国的没落啊。这剧牛逼就牛逼在一个以小见大。五十到六十年代的种种历史事件，没有明说但是都体现了。//卧槽最后一集甜齁！"
+    },
+    {
+      "user": "下午三點",
+      "avatar": "https://img1.doubanio.com/icon/u50611324-117.jpg",
+      "content": "还是那句话：欲戴其冠，必承其重。光鲜亮丽的背后都是你看不见的心酸。"
+    },
+    {
+      "user": "东墙石头",
+      "avatar": "https://img3.doubanio.com/icon/u68586688-15.jpg",
+      "content": "从苏伊士运河危机到普罗富莫事件，这十年间两次动荡整个英国的事件，大时代下的皇室家庭的曲折与不堪"
+    },
+    {
+      "user": "vanirys",
+      "avatar": "https://img1.doubanio.com/icon/u50391993-127.jpg",
+      "content": "这一季结合了更多的真实历史事件，还有新的叙述方式（倒叙插叙大量运用），延续第一季注重多角色的故事更衬托人物形象，literally全程无尿点只能献上五星表喜爱之情，以及为什么这么严肃的历史剧豆瓣短评里都在讨论女王老公出轨这全剧最无聊的情节，无fuck可说"
+    },
+    {
+      "user": "Le Conquérant",
+      "avatar": "https://img1.doubanio.com/icon/u128396305-9.jpg",
+      "content": "成功的政治家，无论好坏，都必须首先是成功的演说家。第一集上来埃及纳赛尔总统的夺回运河演讲，就算听不懂阿拉伯语，也莫名的跟着燃了"
+    },
+    {
+      "user": "雅文灵隐",
+      "avatar": "https://img3.doubanio.com/icon/u79779762-26.jpg",
+      "content": "也许没有第一季荡气回肠，但是深度依旧，尤其是查尔斯王子上学那集，深度远超许多关于少年成长的影视剧。局促的女王在第二季增添了霸气，这是隐忍的性格和时间涵养的结果，菲利普亲王的人设真的很招人烦，像是永远长不大的熊孩子。保存王室是女王一生最大的责任，妥协与适应是女王普攻招数，不容易~"
+    },
+    {
+      "user": "车厘子曰",
+      "avatar": "https://img3.doubanio.com/icon/u38403079-14.jpg",
+      "content": "虽然公主一直生活在女王的阴影下，但看剧但时候一直觉得公主的璀璨夺目把女王衬托得好不无聊。"
+    }
+  ]
+}

@@ -1,0 +1,1440 @@
+{
+  "title": "名侦探柯南",
+  "url": "https://movie.douban.com/subject/1463371/",
+  "rate": "9.2",
+  "id": "1463371",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2235972558.jpg",
+  "info": [
+    "导演: 儿玉兼嗣 / 山本泰一郎 / 佐藤真人 / 于地纮仁",
+    "编剧: 青山刚昌 / 古内一成 / 柏原宽司 / 宫下隼一",
+    "主演: 高山南 / 山崎和佳奈 / 神谷明 / 小山力也 / 林原惠美 / 山口胜平 / 田中秀幸 / 岛本须美 / 绪方贤一 / 堀川亮 / 松井菜樱子 / 宫村优子 / 岩居由希子 / 大谷育江 / 高木涉 / 高岛雅罗 / 堀之纪 / 立木文彦 / 小山茉美 / 三石琴乃 / 置鲇龙太郎 / 日高法子 / 池田秀一 / 古谷彻",
+    "类型: 动作 / 动画 / 悬疑 / 惊悚 / 犯罪",
+    "官方网站: www.ytv.co.jp/conan/",
+    "制片国家/地区: 日本",
+    "语言: 日语 / 英语 / 德语 / 西班牙语 / 意大利语 / 法语 / 阿拉伯语 / 塔加路语 / 汉语普通话",
+    "首播: 1996-01-08(日本)",
+    "单集片长: 25分钟",
+    "又名: Detective Conan / Meitantei Conan / Case Closed"
+  ],
+  "desc": "工藤新一是全国著名的高中生侦探，在一次追查黑衣人犯罪团伙时不幸被团伙成员发现，击晕后喂了神奇的药水，工藤新一变回了小孩！新一找到了经常帮助他的阿笠博士，博士为他度身打造不少间谍武器。为了防止犯罪团伙对他进行报复，新一决定隐姓埋名，暗中追查他们，希望能得到解药。一日，新一的女友毛利兰来到了阿笠博士的家寻找男友的下落，被小兰撞见的新一情急之下编造了自己名叫江户川柯南，随后柯南寄居在了小兰家。小兰的父亲毛利小五郎是一名私家侦探，新一可以籍着和他一起四出办案一起追查黑夜人的下落。柯南在小学认识步美等小学生，他们一起组织了一个少年侦探对，向罪犯宣战！\n                        \n©豆瓣",
+  "members": {
+    "director": {
+      "name": "青山刚昌 Gôshô Aoyama",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537409126.81.jpg"
+    },
+    "cast": [
+      {
+        "name": "高山南 Minami Takayama",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1542781544.93.jpg"
+      },
+      {
+        "name": "山崎和佳奈 Wakana Yamazaki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23348.jpg"
+      },
+      {
+        "name": "神谷明 Akira Kamiya",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4977.jpg"
+      },
+      {
+        "name": "小山力也 Rikiya Koyama",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49478.jpg"
+      },
+      {
+        "name": "林原惠美 Megumi Hayashibara",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p988.jpg"
+      },
+      {
+        "name": "山口胜平 Kappei Yamaguchi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1409588765.01.jpg"
+      },
+      {
+        "name": "田中秀幸 Hideyuki Tanaka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32677.jpg"
+      },
+      {
+        "name": "岛本须美 Sumi Shimamoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356199849.63.jpg"
+      },
+      {
+        "name": "绪方贤一 Kenichi Ogata",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23773.jpg"
+      },
+      {
+        "name": "堀川亮 Ryô Horikawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9676.jpg"
+      },
+      {
+        "name": "松井菜樱子 Naoko Matsui",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p25186.jpg"
+      },
+      {
+        "name": "宫村优子 Yûko Miyamura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11333.jpg"
+      },
+      {
+        "name": "岩居由希子 Yukiko Iwai",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1355513916.56.jpg"
+      },
+      {
+        "name": "大谷育江 Ikue Ootani",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7451.jpg"
+      },
+      {
+        "name": "高木涉 Wataru Takagi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23364.jpg"
+      },
+      {
+        "name": "高岛雅罗 Gara Takashima",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1374473703.84.jpg"
+      },
+      {
+        "name": "堀之纪 Yukitoshi Hori",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360949049.51.jpg"
+      },
+      {
+        "name": "立木文彦 Fumihiko Tachiki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1352735113.14.jpg"
+      },
+      {
+        "name": "小山茉美 Mami Koyama",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32807.jpg"
+      },
+      {
+        "name": "三石琴乃 Kotono Mitsuishi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4957.jpg"
+      },
+      {
+        "name": "置鲇龙太郎 Ryôtarô Okiayu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1377188597.4.jpg"
+      },
+      {
+        "name": "日高法子 Noriko Hidaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455201170.02.jpg"
+      },
+      {
+        "name": "池田秀一 Shûichi Ikeda",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11000.jpg"
+      },
+      {
+        "name": "古谷彻 Tôru Furuya",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6740.jpg"
+      },
+      {
+        "name": "上户彩 Aya Ueto",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372405365.09.jpg"
+      },
+      {
+        "name": "石田彰 Akira Ishida",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1520.jpg"
+      },
+      {
+        "name": "井上和彦 Kazuhiko Inoue",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5198.jpg"
+      },
+      {
+        "name": "朴璐美 Romi Pak",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4968.jpg"
+      },
+      {
+        "name": "山寺宏一 Kôichi Yamadera",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1711.jpg"
+      },
+      {
+        "name": "永濑正敏 Masatoshi Nagase",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8420.jpg"
+      },
+      {
+        "name": "游佐浩二 Koji Yusa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1423496164.64.jpg"
+      },
+      {
+        "name": "水树奈奈 Nana Mizuki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4969.jpg"
+      },
+      {
+        "name": "斋藤千和 Chiwa Saito",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386076902.2.jpg"
+      },
+      {
+        "name": "桑岛法子 Houko Kuwashima",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4966.jpg"
+      },
+      {
+        "name": "田中理惠 Rie Tanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51595.jpg"
+      },
+      {
+        "name": "中原麻衣 Mai Nakahara",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446103008.1.jpg"
+      },
+      {
+        "name": "仓木麻衣 Mai Kuraki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6046.jpg"
+      },
+      {
+        "name": "盐泽兼人 Kaneto Shiozawa",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4537.jpg"
+      },
+      {
+        "name": "大塚明夫 Akio Ôtsuka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10168.jpg"
+      },
+      {
+        "name": "井上喜久子 Kikuko Inoue",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6883.jpg"
+      },
+      {
+        "name": "小野坂昌也 Masaya Onosaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1379474463.4.jpg"
+      },
+      {
+        "name": "千叶进步 Susumu Chiba",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5776.jpg"
+      },
+      {
+        "name": "若本规夫 Norio Wakamoto",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357743236.09.jpg"
+      },
+      {
+        "name": "特罗伊·贝克 Troy Baker",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p57451.jpg"
+      },
+      {
+        "name": "柚木凉香 Ryôka Yuzuki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p19643.jpg"
+      },
+      {
+        "name": "桧山修之 Nobuyuki Hiyama",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5786.jpg"
+      },
+      {
+        "name": "野泽雅子 Masako Nozawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26240.jpg"
+      },
+      {
+        "name": "松本梨香 Rica Matsumoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p19636.jpg"
+      },
+      {
+        "name": "大塚芳忠 Hôchû Ôtsuka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50952.jpg"
+      },
+      {
+        "name": "石冢运升 Unshô Ishizuka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35717.jpg"
+      },
+      {
+        "name": "神奈延年 Nobutoshi Canna",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5778.jpg"
+      },
+      {
+        "name": "藤贵子 Takako Fuji",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513344957.62.jpg"
+      },
+      {
+        "name": "千叶纱子 Saeko Chiba",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20728.jpg"
+      },
+      {
+        "name": "古川登志夫 Toshio Furukawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20411.jpg"
+      },
+      {
+        "name": "玉川纱己子 Sakiko Tamagawa",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50999.jpg"
+      },
+      {
+        "name": "折笠爱 Ai Orikasa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10303.jpg"
+      },
+      {
+        "name": "麻木久仁子 Kuniko Asagi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34485.jpg"
+      },
+      {
+        "name": "劳拉·贝莉 Laura Bailey",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1459273744.42.jpg"
+      },
+      {
+        "name": "川村万梨阿 Maria Kawamura",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p55618.jpg"
+      },
+      {
+        "name": "矢尾一树 Kazuki Yao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40701.jpg"
+      },
+      {
+        "name": "永井一郎 Ichirô Nagai",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49833.jpg"
+      },
+      {
+        "name": "茶风林 Chafûrin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38746.jpg"
+      },
+      {
+        "name": "维克·米格诺纳 Vic Mignogna",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26014.jpg"
+      },
+      {
+        "name": "熊井统子 Motoko Kumai",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49607.jpg"
+      },
+      {
+        "name": "滨田贤二 Kenji Hamada",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p18270.jpg"
+      },
+      {
+        "name": "胜生真沙子 Masako Katsuki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46127.jpg"
+      },
+      {
+        "name": "刘杰 Jie Liu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53625.jpg"
+      },
+      {
+        "name": "岩田光央 Mitsuo Iwata",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477474999.93.jpg"
+      },
+      {
+        "name": "长泽美树 Miki Nagasawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548057338.63.jpg"
+      },
+      {
+        "name": "小林爱 Ai Kobayashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464263013.25.jpg"
+      },
+      {
+        "name": "荒木香惠 Kae Araki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p29535.jpg"
+      },
+      {
+        "name": "蒋笃慧 Duhui Jiang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53631.jpg"
+      },
+      {
+        "name": "汤屋敦子 Atsuko Yuya",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41065.jpg"
+      },
+      {
+        "name": "天野由梨 Yuri Amano",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1393448925.35.jpg"
+      },
+      {
+        "name": "露西·克里斯蒂安 Luci Christian",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504161116.69.jpg"
+      },
+      {
+        "name": "梁田清之 Kiyoyuki Yanada",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1457335060.95.jpg"
+      },
+      {
+        "name": "千叶一伸 Isshin Chiba",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521116278.06.jpg"
+      },
+      {
+        "name": "一条和矢 Kazuya Ichijô",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1466075420.14.jpg"
+      },
+      {
+        "name": "肝付兼太 Kaneta Kimotsuki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360940775.12.jpg"
+      },
+      {
+        "name": "家中宏 Hiroshi Yanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484306224.86.jpg"
+      },
+      {
+        "name": "达蒙·克拉克 Dameon Clarke",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455183452.23.jpg"
+      },
+      {
+        "name": "吉田小南美 Konami Yoshida",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1355036515.57.jpg"
+      },
+      {
+        "name": "野田顺子 Junko Noda",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1407640446.64.jpg"
+      },
+      {
+        "name": "高户靖广 Yasuhiro Takato",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503573978.34.jpg"
+      },
+      {
+        "name": "长嶝高士 Takashi Nagasako",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30517.jpg"
+      },
+      {
+        "name": "特拉维斯·威林厄姆 Travis Willingham",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1398743097.58.jpg"
+      },
+      {
+        "name": "家弓家正 Iemasa Kayumi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496311678.37.jpg"
+      },
+      {
+        "name": "江川央生 Hisao Egawa",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30519.jpg"
+      },
+      {
+        "name": "安井邦彦 Kunihiko Yasui",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1378991303.55.jpg"
+      },
+      {
+        "name": "坪井智浩 Tomohiro Tsuboi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1390919662.65.jpg"
+      },
+      {
+        "name": "官志宏 Zhihong Guan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1378373180.35.jpg"
+      },
+      {
+        "name": "大本真基子 Makiko Ômoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pe4sJoEb68z8cel_avatar_uploaded1372988779.36.jpg"
+      },
+      {
+        "name": "筈见纯 Jun Hasumi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511147872.66.jpg"
+      },
+      {
+        "name": "马库斯·劳埃德 Markus Lloyd",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "Parisa Fakhri",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "水内清光 Kiyomitsu Mizuuchi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533034802.48.jpg"
+      },
+      {
+        "name": "克里斯托弗·萨巴特 Christopher Sabat",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548741547.37.jpg"
+      },
+      {
+        "name": "埃里克·韦尔 Eric Vale",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "Chuck Huber",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548741597.69.jpg"
+      },
+      {
+        "name": "帕姆·多尔蒂 Pam Dougherty",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547710433.41.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2558454471.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2558455409.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2558083943.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2155365591.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2253833907.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "苦逼少年马当娜",
+      "avatar": "https://img1.doubanio.com/icon/u2010932-48.jpg",
+      "content": "我死了之后，别忘给我烧个大结局....."
+    },
+    {
+      "user": "逼逼叨叨",
+      "avatar": "https://img1.doubanio.com/icon/u1813025-118.jpg",
+      "content": "七尺男儿惨遭毒手变侏儒 痴情女友真情不变仍同居"
+    },
+    {
+      "user": "星尘战场",
+      "avatar": "https://img1.doubanio.com/icon/u1419434-167.jpg",
+      "content": "小时候觉得这电影还挺恐怖，特别是那个门一响"
+    },
+    {
+      "user": "瑾朵朵",
+      "avatar": "https://img3.doubanio.com/icon/u3961919-365.jpg",
+      "content": "家祭无忘告乃翁 821"
+    },
+    {
+      "user": "李小阔",
+      "avatar": "https://img3.doubanio.com/icon/u40673634-5.jpg",
+      "content": "我已经不敢把它放到“在看”里了，我实在不知道我放进去了，有生之年它还能出来么"
+    },
+    {
+      "user": "蘇湛",
+      "avatar": "https://img3.doubanio.com/icon/u2684793-114.jpg",
+      "content": "那个只出场一集的男人 全世界都会爱上他吧"
+    },
+    {
+      "user": "UrthónaD'Mors",
+      "avatar": "https://img1.doubanio.com/icon/u1793566-1867.jpg",
+      "content": "那时的柯南是个小学生这，那会儿我大学了柯南还是小学生，动画片时间凝固了"
+    },
+    {
+      "user": "luc1en",
+      "avatar": "https://img1.doubanio.com/icon/u1043677-49.jpg",
+      "content": "每次犯罪动机都那么雷人（对很多人来说是感人）每次逼犯人认罪的证据都那么薄弱（换我一定死撑一定告不成我）"
+    },
+    {
+      "user": "小波福娃",
+      "avatar": "https://img1.doubanio.com/icon/u1809547-18.jpg",
+      "content": "最大乐趣就是听柯南在片头嫩嗲嗲的童声报幕（正太控发作）"
+    },
+    {
+      "user": "柠檬or番茄",
+      "avatar": "https://img3.doubanio.com/icon/u89667311-6.jpg",
+      "content": "小时候看的特别恐怖，后来能猜出凶手，现在觉得有点无聊，这就是成长吧。5星，毕竟是童年。"
+    },
+    {
+      "user": "朱林昭",
+      "avatar": "https://img3.doubanio.com/icon/u2392862-44.jpg",
+      "content": "少年儿童作品 难免幼稚"
+    },
+    {
+      "user": "谋杀游戏机",
+      "avatar": "https://img1.doubanio.com/icon/u10969301-317.jpg",
+      "content": "“自以为侦探，看太多柯南”"
+    },
+    {
+      "user": "爱情海",
+      "avatar": "https://img3.doubanio.com/icon/u157237265-2.jpg",
+      "content": "真相只有一个，永远长不大的柯南跟越来越大的我们。"
+    },
+    {
+      "user": "霛",
+      "avatar": "https://img3.doubanio.com/icon/u1542055-3.jpg",
+      "content": "與其說是偵探懸疑案類型的動畫片，不如説是藉由偵探懸疑案的類型來投訴社會問題。"
+    },
+    {
+      "user": "中年痴肥王大姐",
+      "avatar": "https://img3.doubanio.com/icon/u41816081-212.jpg",
+      "content": "高中吃饭时必看"
+    },
+    {
+      "user": "图图饶命",
+      "avatar": "https://img3.doubanio.com/icon/u150885006-3.jpg",
+      "content": "室友最近在回顾，我们的实习是有够无聊的哈哈哈～从初中开始看的动漫，堂哥很喜欢，他总是买了碟以后怕被骂又拿到我家来放。当时他放的碟里最喜欢的就是网球王子，最讨厌奥特曼，柯南也是超喜欢看。现在看来，他应该算是个动漫迷了吧，大大小小动漫都看过。我也被带着看了六百多集，更新得真是慢啊！"
+    },
+    {
+      "user": "夕梨",
+      "avatar": "https://img3.doubanio.com/icon/u76287806-1.jpg",
+      "content": "小时候的梦想是以后长大了能拥有一整套柯南漫画😂结果这么多年过去了还没有完结！"
+    },
+    {
+      "user": "★☆☆☆☆",
+      "avatar": "https://img1.doubanio.com/icon/u1895572-128.jpg",
+      "content": "越来越肥皂了，坚持到了500多集后终于顶不住……废了！\n\n喜欢毛利大叔～"
+    },
+    {
+      "user": "陳七歲會快樂",
+      "avatar": "https://img3.doubanio.com/icon/u152040248-23.jpg",
+      "content": "一路走来，感谢陪伴。"
+    },
+    {
+      "user": "媛木子",
+      "avatar": "https://img3.doubanio.com/icon/u156064887-5.jpg",
+      "content": "从小到大都喜欢的动漫没有之一，我小学的时候柯南小学，我大学都快毕业了柯南还在小学。哈哈，不过看的开心就好啦。既期待结局又不想结束。"
+    },
+    {
+      "user": "喜欢吗~",
+      "avatar": "https://img1.doubanio.com/icon/u2165720-7.jpg",
+      "content": "新兰党在此！"
+    },
+    {
+      "user": "别人老公",
+      "avatar": "https://img3.doubanio.com/icon/u150439723-14.jpg",
+      "content": "说实话看多了就觉得没有意思了"
+    },
+    {
+      "user": "蓝下老婆",
+      "avatar": "https://img3.doubanio.com/icon/u155986714-2.jpg",
+      "content": "小时候跟喜欢看得动画片之一，以前总是期待柯南变成新一的样子，可惜每次都是短暂的，可惜我没看到结局是什么样的哎，样子变回来了吗"
+    },
+    {
+      "user": "滚滚的麻麻",
+      "avatar": "https://img3.doubanio.com/icon/u162687415-1.jpg",
+      "content": "最近一直在补这个动漫，小时候觉得还挺害怕的，现在是半夜三更自己一个人吃着东西看，犯人专用的懊悔音乐好评，另外毛利大叔真的猥琐又搞笑。"
+    },
+    {
+      "user": "shield",
+      "avatar": "https://img1.doubanio.com/icon/u150238197-8.jpg",
+      "content": "特别喜欢，每天都看"
+    },
+    {
+      "user": "YY",
+      "avatar": "https://img3.doubanio.com/icon/u140275741-2.jpg",
+      "content": "话不多说，从小学时代开始到现在柯南陪我十几年了，一直是我的最爱"
+    },
+    {
+      "user": "香草冰激凌",
+      "avatar": "https://img3.doubanio.com/icon/u62673895-6.jpg",
+      "content": "追了很多年，现在重新回头看，感觉很多案子的凶手之所以成为凶手是因为法律无法给他一个公道。可是新一只会一味指责而无法从根本上解决问题，看多了觉得非常鸡肋"
+    },
+    {
+      "user": "正义的路人😘",
+      "avatar": "https://img3.doubanio.com/icon/u144045833-2.jpg",
+      "content": "很小的时候就看过的一部日本动漫，小时候看挺害怕的，那些死者死状太凄惨了，直到现在都没有勇气重温柯南😂，这么多年，我最大的愿望就是柯南快快变回新一，和小兰有情人终成眷属，现在柯南漫画也更新的不勤了，不知有生之年还能等到柯南完结吗😓😂"
+    },
+    {
+      "user": "玉裂",
+      "avatar": "https://img3.doubanio.com/icon/u3574615-872.jpg",
+      "content": "下子把800多集都补完了 ..容易么我🤦♀️🤦♀️🤦♀️😭"
+    },
+    {
+      "user": "暴富的女孩是我",
+      "avatar": "https://img3.doubanio.com/icon/u156682524-3.jpg",
+      "content": "小时候最喜欢的动漫之一，每集都有凶杀案，超级刺激。"
+    },
+    {
+      "user": "Sophie  Z",
+      "avatar": "https://img3.doubanio.com/icon/u2081801-91.jpg",
+      "content": "松田阵平的几分钟 秒掉了新一平次基德的七年"
+    },
+    {
+      "user": "待城",
+      "avatar": "https://img3.doubanio.com/icon/u151711006-5.jpg",
+      "content": "从小追到大的动漫(•̥̥̥̥̥̥̥ ﹏ •̥̥̥̥̥̥̥̥๑)希望有生之年可以看到结局呀 (*^▽^*) 小时候就看一个个的案件，长大后重新看才发现还有黑衣人团伙，随着登场人物越来越多，剧情也越来越好看啦，我现在最爱的已经不是柯南，而是秀一啦ヾ(@^▽^@)ノ "
+    },
+    {
+      "user": "晨小兮",
+      "avatar": "https://img3.doubanio.com/icon/u158942679-3.jpg",
+      "content": "我姐超爱看，我每次都跟她一起看。"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "作为一名刑侦剧资深粉丝，看到这样漏洞百出的动漫只能让人感觉蛋疼菊紧。"
+    },
+    {
+      "user": "Paco",
+      "avatar": "https://img3.doubanio.com/icon/u69290051-126.jpg",
+      "content": "这辈子最爱的日漫。"
+    },
+    {
+      "user": "扌丁月佥",
+      "avatar": "https://img3.doubanio.com/icon/u157327327-11.jpg",
+      "content": "现在还在追，喜欢新一。"
+    },
+    {
+      "user": "欣欣向荣",
+      "avatar": "https://img3.doubanio.com/icon/u3574203-2.jpg",
+      "content": "为什么柯南还是小学生，为什么我都长大了还在连载，小兰和新一能在一起吗。"
+    },
+    {
+      "user": "苏幼",
+      "avatar": "https://img3.doubanio.com/icon/u157276872-1.jpg",
+      "content": "挺喜欢的一部剧，好看"
+    },
+    {
+      "user": "瞬间收藏家",
+      "avatar": "https://img3.doubanio.com/icon/u1214750-72.jpg",
+      "content": "73，再不结束连载就打三星了！"
+    },
+    {
+      "user": "曰耳又",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "画质不能再烂……"
+    },
+    {
+      "user": "随风的蒲公英",
+      "avatar": "https://img3.doubanio.com/icon/u157273071-1.jpg",
+      "content": "这个动漫真的不错，里面的案情真的是跌宕起伏，不看到最后真的不知道凶手是谁！"
+    },
+    {
+      "user": "xxxx",
+      "avatar": "https://img3.doubanio.com/icon/u151733404-1.jpg",
+      "content": "小时很喜欢的动画，虽然害怕但就是喜欢看。犹记得柯南说的：真相只有一个！话说都不知道那么多年过去了，柯南找到解药变回来没。小时还在想自己喜欢小兰又喜欢灰原哀，柯南最后和谁自己都挺纠结的，哈哈，想想都傻"
+    },
+    {
+      "user": "王昭君",
+      "avatar": "https://img3.doubanio.com/icon/u156932477-2.jpg",
+      "content": "童年里最喜欢的一部动画片，每次破案都很带感，新一和小兰赶紧在一起啊！"
+    },
+    {
+      "user": "草莓__三月",
+      "avatar": "https://img3.doubanio.com/icon/u152762782-2.jpg",
+      "content": "哈哈，以前一直有在追着看，不过更新太慢了。"
+    },
+    {
+      "user": "蓝色啄木鸟",
+      "avatar": "https://img3.doubanio.com/icon/u73056364-15.jpg",
+      "content": "算是一路陪伴成长的动画片了，好多集！"
+    },
+    {
+      "user": "yamamaya",
+      "avatar": "https://img3.doubanio.com/icon/u3367678-40.jpg",
+      "content": "不评分是我觉得就和你不会给罗江小姐评分一样"
+    },
+    {
+      "user": "杨大志°",
+      "avatar": "https://img3.doubanio.com/icon/u58766653-23.jpg",
+      "content": "什么时候才能有结局啊！但是结局的时候，也会舍不得吧"
+    },
+    {
+      "user": "我lu不会飞",
+      "avatar": "https://img3.doubanio.com/icon/u157224553-1.jpg",
+      "content": "最喜欢的一部动漫，最喜欢这种推理悬疑的了。"
+    },
+    {
+      "user": "兽与面具",
+      "avatar": "https://img3.doubanio.com/icon/u169134258-3.jpg",
+      "content": "上小学时柯南是个小学生，上大学时柯南还在上小学，参加工作多年柯南居然还在上小学…^_^"
+    },
+    {
+      "user": "月涩",
+      "avatar": "https://img3.doubanio.com/icon/u156054692-1.jpg",
+      "content": "我女儿现在迷上了柯南，不过确实挺好看的。"
+    },
+    {
+      "user": "苹果派甜",
+      "avatar": "https://img3.doubanio.com/icon/u169431934-4.jpg",
+      "content": "我从小学看到大学，有生之年能结束吗？柯南和小兰能结婚吗？"
+    },
+    {
+      "user": "小妙妙",
+      "avatar": "https://img3.doubanio.com/icon/u43478125-30.jpg",
+      "content": "脑残。。。。柯南怎么还没长大。。。"
+    },
+    {
+      "user": "𝕍𝕒𝕝𝕒𝕣𝕞𝕠𝕣𝕘𝕙𝕦𝕝𝕚𝕤",
+      "avatar": "https://img3.doubanio.com/icon/u141218260-12.jpg",
+      "content": "一百年后，当我的曾孙看着这个“在看”的标记，我拖起年迈的身体搬来了一个板凳，“坐下吧，这是一个漫长的故事……”"
+    },
+    {
+      "user": "罗弘霉素",
+      "avatar": "https://img3.doubanio.com/icon/u18194188-65.jpg",
+      "content": "由于我长大了，我表示这部稍微晚一点的作品我跟不动了。"
+    },
+    {
+      "user": "胖胖小君君",
+      "avatar": "https://img3.doubanio.com/icon/u148688551-3.jpg",
+      "content": "不知道还能不能见到新一变大和小兰在一起的时候~"
+    },
+    {
+      "user": "大志的小耳朵",
+      "avatar": "https://img1.doubanio.com/icon/u139611792-9.jpg",
+      "content": "追了几百集之后实在追不动了，现在偶尔会去看一集最新的，不知道这动画什么时候完结。"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "我是柯南nc粉。"
+    },
+    {
+      "user": "Danny",
+      "avatar": "https://img3.doubanio.com/icon/u2583895-32.jpg",
+      "content": "都小看到老。。当年我也是小学生呀，现在都大学毕业不知道多少年了。。。。。。。。。。。。。他还是小学生呀。。。"
+    },
+    {
+      "user": "Lecia",
+      "avatar": "https://img1.doubanio.com/icon/u29970930-9.jpg",
+      "content": "#永远不知道自己看到哪一集#"
+    },
+    {
+      "user": "舜心顺意",
+      "avatar": "https://img3.doubanio.com/icon/u157215488-2.jpg",
+      "content": "挺有逻辑性的，有几次只是看了前半段没看结尾，挺吸引人的，不过好多人说这么看好恐怖，我并没有这么觉得，这种可以让自己先推理下的感觉挺不错的，有时间我会把结尾补回来的。还是不错的动漫啦！"
+    },
+    {
+      "user": "Parachute.cpp",
+      "avatar": "https://img3.doubanio.com/icon/u4689826-84.jpg",
+      "content": "真相只有两个：最不像坏人的那个是坏人、柯南永远可以化险为夷"
+    },
+    {
+      "user": "逝去",
+      "avatar": "https://img3.doubanio.com/icon/u171016505-1.jpg",
+      "content": "从小追到大的一部动漫😏"
+    },
+    {
+      "user": "tangerine",
+      "avatar": "https://img3.doubanio.com/icon/u163153701-11.jpg",
+      "content": "前面惊艳，后期重复，主线扣人心弦却拖时间拖到令人发指，四星给青山老贼，大结局了我绝对回来改个五星，这是我人生投入精力最多的一部动漫了。"
+    },
+    {
+      "user": "阿卜",
+      "avatar": "https://img3.doubanio.com/icon/u2390363-82.jpg",
+      "content": "柯南暂时弃吧，590集，反正我知道我是等不到结局的等有精神了再看，万年小学生永远都是小学生。自从小五郎换声优之后，我到现在还是不习惯。_18年3月补至988集…"
+    },
+    {
+      "user": "潇湘烟雨",
+      "avatar": "https://img3.doubanio.com/icon/u165023952-1.jpg",
+      "content": "竟然还没完结吗？"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "也算观影启蒙吧！"
+    },
+    {
+      "user": "蜉蝣",
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "content": "融入精神的。"
+    },
+    {
+      "user": "Columbo",
+      "avatar": "https://img1.doubanio.com/icon/u2733727-8.jpg",
+      "content": "五星还是要给的，前100集看了无数次，不过咱这集数: N……\r\n"
+    },
+    {
+      "user": "戈戈",
+      "avatar": "https://img3.doubanio.com/icon/u2158130-11.jpg",
+      "content": "真相只有一个。"
+    },
+    {
+      "user": "余欢。",
+      "avatar": "https://img1.doubanio.com/icon/u54067696-47.jpg",
+      "content": "此生之年系列"
+    },
+    {
+      "user": "李可笑",
+      "avatar": "https://img1.doubanio.com/icon/u53357615-57.jpg",
+      "content": "= ="
+    },
+    {
+      "user": "celestebook",
+      "avatar": "https://img3.doubanio.com/icon/u2856497-11.jpg",
+      "content": "我看的第一集是新干线列车爆炸案 当时就被迷住了！"
+    },
+    {
+      "user": "以实玛利",
+      "avatar": "https://img3.doubanio.com/icon/u126401152-5.jpg",
+      "content": "没想到我居然最喜欢的变成了安室透。但是还是喜欢新兰，新兰不在一起天理难容啊，似乎看着他们少得可怜的互动关心都会感受到和他们一样的甜蜜。但是超级讨厌少年侦探队和灰原哀是怎么回事。绝对不支持柯哀。"
+    },
+    {
+      "user": "tricky_V",
+      "avatar": "https://img3.doubanio.com/icon/u21775946-25.jpg",
+      "content": "永远的小学生、、、"
+    },
+    {
+      "user": "白白八佰瓣",
+      "avatar": "https://img3.doubanio.com/icon/u1671513-6.jpg",
+      "content": "这个居然没加过，俺记忆芯片烧了么。。"
+    },
+    {
+      "user": "微喵的兔姑娘",
+      "avatar": "https://img1.doubanio.com/icon/u2344260-79.jpg",
+      "content": "怎么能忘了它？"
+    },
+    {
+      "user": "ArenA",
+      "avatar": "https://img3.doubanio.com/icon/u3447614-24.jpg",
+      "content": "我的童年"
+    },
+    {
+      "user": "八卦黄大仙",
+      "avatar": "https://img3.doubanio.com/icon/u2618600-24.jpg",
+      "content": "最爱的动漫"
+    },
+    {
+      "user": "Mannialanck",
+      "avatar": "https://img3.doubanio.com/icon/u2664326-53.jpg",
+      "content": "小时候看看，N年没看了"
+    },
+    {
+      "user": "栗鬼",
+      "avatar": "https://img3.doubanio.com/icon/u4729397-10.jpg",
+      "content": "小时候锻炼智商的法宝"
+    },
+    {
+      "user": "Hana",
+      "avatar": "https://img1.doubanio.com/icon/u34385944-18.jpg",
+      "content": "日本人都让柯南咒死的差不多了。。始终看不完。。。"
+    },
+    {
+      "user": "绿河",
+      "avatar": "https://img1.doubanio.com/icon/u146031997-8.jpg",
+      "content": "亲爱的柯南君，你什么时候能小学毕业？算是侦探动漫的经典之作了"
+    },
+    {
+      "user": "费德里科维奇",
+      "avatar": "https://img3.doubanio.com/icon/u19872766-362.jpg",
+      "content": "小时候好奢侈都是买正版碟看的ORZ"
+    },
+    {
+      "user": "Ou",
+      "avatar": "https://img1.doubanio.com/icon/u1971540-18.jpg",
+      "content": "好看~"
+    },
+    {
+      "user": "実7",
+      "avatar": "https://img1.doubanio.com/icon/u29345821-17.jpg",
+      "content": "追吧追吧，都追十年了总得看到结局嘛"
+    },
+    {
+      "user": "月笼沙",
+      "avatar": "https://img3.doubanio.com/icon/u36906726-2.jpg",
+      "content": "什么时候是个头啊"
+    },
+    {
+      "user": "白月光",
+      "avatar": "https://img3.doubanio.com/icon/u52243046-406.jpg",
+      "content": "为了陪伴我这么多年还无法小学毕业的柯南同学...5星吧"
+    },
+    {
+      "user": "水一木",
+      "avatar": "https://img3.doubanio.com/icon/u153966583-65.jpg",
+      "content": "最近又从头看了一遍 喜欢柯南不喜欢新一 我是不是恋童啊？不想柯南变回新一"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u42401046-22.jpg",
+      "content": "你大爷什么时候能完啊？？？？！！！！！！！！！！\n"
+    },
+    {
+      "user": "鮎喰響",
+      "avatar": "https://img3.doubanio.com/icon/u48492606-32.jpg",
+      "content": "高三暑假补到了631 好累 感觉不会再追了"
+    },
+    {
+      "user": "Anday",
+      "avatar": "https://img3.doubanio.com/icon/u49123772-5.jpg",
+      "content": "小时候觉得这电影还挺恐怖，特别是那个门一响"
+    },
+    {
+      "user": "M.差",
+      "avatar": "https://img3.doubanio.com/icon/u3186973-46.jpg",
+      "content": "130改了下在看就记录全没了 =^=森么马！！！bug那集了 恨！"
+    },
+    {
+      "user": "TING.",
+      "avatar": "https://img1.doubanio.com/icon/u1859301-28.jpg",
+      "content": "真相只有一个！"
+    },
+    {
+      "user": "moneyqxq",
+      "avatar": "https://img3.doubanio.com/icon/u120117082-2.jpg",
+      "content": "特别好看的动漫，每次变成原本的新一的时候就很希望马上变回小柯南，其实以那个年龄来说光彦很聪明的。"
+    },
+    {
+      "user": "chocolat",
+      "avatar": "https://img1.doubanio.com/icon/u40362248-9.jpg",
+      "content": "现在都开始不死人了~~"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "今天新番512……好像内存||"
+    },
+    {
+      "user": "Dr. ChaLove",
+      "avatar": "https://img3.doubanio.com/icon/u3889710-406.jpg",
+      "content": "死神來了動畫版。"
+    },
+    {
+      "user": "甜滋味",
+      "avatar": "https://img3.doubanio.com/icon/u32442377-5.jpg",
+      "content": "我高中的政治老师把它归为恐怖片~~"
+    },
+    {
+      "user": "纯真",
+      "avatar": "https://img3.doubanio.com/icon/u49494710-4.jpg",
+      "content": "good"
+    },
+    {
+      "user": "弓子卜Yumiko",
+      "avatar": "https://img3.doubanio.com/icon/u29073895-110.jpg",
+      "content": "小六时期看的，当时升初中准备戒掉动画片，可惜这部还是让我继续沾着动漫不放，直到现在"
+    },
+    {
+      "user": "科时代",
+      "avatar": "https://img3.doubanio.com/icon/u51163329-24.jpg",
+      "content": "我承认这个很火，但也得承认我不喜欢看。"
+    },
+    {
+      "user": "inffun",
+      "avatar": "https://img3.doubanio.com/icon/u43179089-2.jpg",
+      "content": "20岁之后看过的为数不多的动画片之一。"
+    },
+    {
+      "user": "远行的猫",
+      "avatar": "https://img1.doubanio.com/icon/u3233333-29.jpg",
+      "content": "至今还很喜欢看，不想长大。"
+    },
+    {
+      "user": "PINOKO。",
+      "avatar": "https://img3.doubanio.com/icon/u1404062-73.jpg",
+      "content": "柯南呀,你都演了十多年了,怎么还是小学一年级啊!"
+    },
+    {
+      "user": "chocolater",
+      "avatar": "https://img3.doubanio.com/icon/u31453107-12.jpg",
+      "content": "我的最爱！"
+    },
+    {
+      "user": "生活万岁F小二",
+      "avatar": "https://img3.doubanio.com/icon/u3527707-20.jpg",
+      "content": "我迫不及待想知道结局……就结了尾吧……////估计这个没有结局之前也不会再看了。如果没记错看到564的样子"
+    },
+    {
+      "user": "Hcaep",
+      "avatar": "https://img3.doubanio.com/icon/u2178387-321.jpg",
+      "content": "已经不追了~~"
+    },
+    {
+      "user": "多久",
+      "avatar": "https://img3.doubanio.com/icon/u3006286-71.jpg",
+      "content": "OMG，我再一次被这牛逼的评星震惊了……"
+    },
+    {
+      "user": "乐不思蜀",
+      "avatar": "https://img3.doubanio.com/icon/u1169481-11.jpg",
+      "content": "我都喜欢。。。剧场版尤其棒"
+    },
+    {
+      "user": "cream.cx",
+      "avatar": "https://img3.doubanio.com/icon/u1342621-45.jpg",
+      "content": "高中时候，女生下课必谈的话题。。。"
+    },
+    {
+      "user": "Band大暴走",
+      "avatar": "https://img3.doubanio.com/icon/u47617157-44.jpg",
+      "content": "受广大人民厚爱的万年小学生之一啊"
+    },
+    {
+      "user": "谁",
+      "avatar": "https://img3.doubanio.com/icon/u3936176-66.jpg",
+      "content": "小时候看的时候还怕呢  "
+    },
+    {
+      "user": "请叫我Anita",
+      "avatar": "https://img1.doubanio.com/icon/u1232111-7.jpg",
+      "content": "真是千年不老妖阿。"
+    },
+    {
+      "user": "斯多亞",
+      "avatar": "https://img1.doubanio.com/icon/u2039692-58.jpg",
+      "content": "220"
+    },
+    {
+      "user": "李焦焦",
+      "avatar": "https://img1.doubanio.com/icon/u4914548-59.jpg",
+      "content": "他，走到哪里，人死到哪里"
+    },
+    {
+      "user": "мая",
+      "avatar": "https://img3.doubanio.com/icon/u25911106-52.jpg",
+      "content": "不知道等我结婚的时候，柯南能不能上一下二年级。喜欢推理还是要感谢青山老师那些钓鱼线的"
+    },
+    {
+      "user": "吃瓜少年",
+      "avatar": "https://img3.doubanio.com/icon/u128344869-2.jpg",
+      "content": "柯南一天不长大，假装青春不远去"
+    },
+    {
+      "user": "乔大路",
+      "avatar": "https://img3.doubanio.com/icon/u4394291-22.jpg",
+      "content": "跟了几年了都。"
+    },
+    {
+      "user": "碧落亦然",
+      "avatar": "https://img3.doubanio.com/icon/u2399791-303.jpg",
+      "content": "小学开始看看到现在还没个尽头，角色越来越多了，神秘组织也担当了一段时间焖了就出来耍两招解闷的好工具。新一同学，你什么时候才能过好日子？你们的高中时什么时候才能读完，有没有哪个激进分子去算一下，他们到底这日子是怎么用的。虽然剧情来来去去都一样不过对于喜欢推理的人还是能解闷的片子啦"
+    },
+    {
+      "user": "小J到处乱逛",
+      "avatar": "https://img1.doubanio.com/icon/u1466656-19.jpg",
+      "content": "喜欢小爱~~~~~~~~"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "青山刚昌不死这永远是个坑,死了还是个坑"
+    },
+    {
+      "user": "阿联酋十四阿哥",
+      "avatar": "https://img3.doubanio.com/icon/u33751078-20.jpg",
+      "content": "真相只有一个！"
+    },
+    {
+      "user": "葱葱",
+      "avatar": "https://img3.doubanio.com/icon/u1800664-6.jpg",
+      "content": "长得过分了"
+    },
+    {
+      "user": "烟之",
+      "avatar": "https://img3.doubanio.com/icon/u49772248-13.jpg",
+      "content": "走哪死哪"
+    },
+    {
+      "user": "简草",
+      "avatar": "https://img3.doubanio.com/icon/u32536351-10.jpg",
+      "content": "出了结局 我就把星星补全！"
+    },
+    {
+      "user": "Miss. greedy",
+      "avatar": "https://img3.doubanio.com/icon/u2987600-16.jpg",
+      "content": "希望别再出了 可以结尾了..."
+    },
+    {
+      "user": "小鬼",
+      "avatar": "https://img3.doubanio.com/icon/u2186087-45.jpg",
+      "content": "有空再看~"
+    },
+    {
+      "user": "艳红的父亲",
+      "avatar": "https://img1.doubanio.com/icon/u47207554-89.jpg",
+      "content": "永恒的经典"
+    },
+    {
+      "user": "🍀again 😸",
+      "avatar": "https://img3.doubanio.com/icon/u27720592-706.jpg",
+      "content": "重新捡起来补番中好像看到500多【651【我的男神叫冲矢昴w步美小哀这对百合越来越明显w【672 反正还是会断断续续的补柯南【http://www.acfun.tv/v/ac875232_744 【 一集不落看柯南我也是醉了763【 五分钟看透柯南】【这是一部没有时间轴的动画 讲述主角没事干就睡岳父的基情故事】"
+    },
+    {
+      "user": "喜乐",
+      "avatar": "https://img3.doubanio.com/icon/u1687507-22.jpg",
+      "content": "初一到初三的最爱。可惜新一永远都只有16岁！"
+    },
+    {
+      "user": "あい",
+      "avatar": "https://img3.doubanio.com/icon/u31128234-106.jpg",
+      "content": "童年回忆~现在也喜欢"
+    },
+    {
+      "user": "levitating",
+      "avatar": "https://img1.doubanio.com/icon/u1265100-27.jpg",
+      "content": "柯南，华丽丽地横跨了偶的初中、高中、大学时代；硕士以后似乎就没再补过了…"
+    },
+    {
+      "user": "Sashimi",
+      "avatar": "https://img1.doubanio.com/icon/u2519223-59.jpg",
+      "content": "虽然比较长，虽然没看全"
+    },
+    {
+      "user": "mikaholic",
+      "avatar": "https://img3.doubanio.com/icon/u1439185-45.jpg",
+      "content": "好吧.. 我小學三年級的時候追過的.. 僅限三年級"
+    },
+    {
+      "user": "小鱼",
+      "avatar": "https://img3.doubanio.com/icon/u38981287-4.jpg",
+      "content": "“我叫江户川柯南 是个侦探”"
+    },
+    {
+      "user": "咚咚咚",
+      "avatar": "https://img3.doubanio.com/icon/u40593502-10.jpg",
+      "content": "给我个结局，我给你满分"
+    },
+    {
+      "user": "Katherine",
+      "avatar": "https://img1.doubanio.com/icon/u4839057-7.jpg",
+      "content": "看着有点烦了，不想看了暂时"
+    },
+    {
+      "user": "神经切",
+      "avatar": "https://img3.doubanio.com/icon/u52890967-2.jpg",
+      "content": "媲美死神的柯南"
+    },
+    {
+      "user": "Águila",
+      "avatar": "https://img3.doubanio.com/icon/u2496998-14.jpg",
+      "content": "真相，永远只有一个~"
+    },
+    {
+      "user": "玄月见草",
+      "avatar": "https://img3.doubanio.com/icon/u43594688-1.jpg",
+      "content": "记得当时看漫画的时候，因为人物众多，名字之难记，关系之复杂，我养成了看侦探小说纸上记笔记的习惯。"
+    },
+    {
+      "user": "Sharpeipei",
+      "avatar": "https://img3.doubanio.com/icon/u1520019-735.jpg",
+      "content": "不喜歡"
+    },
+    {
+      "user": "伊坂幸太郎",
+      "avatar": "https://img1.doubanio.com/icon/u146839199-19.jpg",
+      "content": "修学旅行都动画化了离结局应该也没几年了，一直舍不得来标记大概是私心希望它永远不要完结。\n数一数喜欢柯南已经十一年了，虽然上了高中以后就没有怎么追更新了但是关键的主线剧情还有有糖可吃的集还是都看了的，算是自己最长情的一部作品了。\n毕竟它对我来说不只是一部动漫呀。"
+    },
+    {
+      "user": "樱小路楠",
+      "avatar": "https://img3.doubanio.com/icon/u2057507-36.jpg",
+      "content": "十年前我会给5星~拖到现在~痛苦的扭脸囧~我实在是……"
+    },
+    {
+      "user": "Amadeo",
+      "avatar": "https://img1.doubanio.com/icon/u4890454-8.jpg",
+      "content": "吾辈不知道在有生之年还等不等得到你变回新一T T……"
+    },
+    {
+      "user": "咸鱼王腐loli",
+      "avatar": "https://img3.doubanio.com/icon/u10669919-51.jpg",
+      "content": "小时候喜欢的 现在看来剧情的完整度根本不能和金田一比 不过青山刚昌也不容易了 自己想的剧本"
+    },
+    {
+      "user": "曦蕋",
+      "avatar": "https://img1.doubanio.com/icon/u3943499-69.jpg",
+      "content": "小时候经常被那个犯罪嫌疑人吓死！"
+    },
+    {
+      "user": "岁月●流金",
+      "avatar": "https://img3.doubanio.com/icon/u4705575-1.jpg",
+      "content": "真相只有一个"
+    },
+    {
+      "user": "Cèdre",
+      "avatar": "https://img3.doubanio.com/icon/u34733905-22.jpg",
+      "content": "上初中时简直迷的不行"
+    },
+    {
+      "user": "离离菊上草",
+      "avatar": "https://img3.doubanio.com/icon/u24272168-5.jpg",
+      "content": "真相只有一个！！！！！！！！！！！"
+    },
+    {
+      "user": "左左☮",
+      "avatar": "https://img3.doubanio.com/icon/u1964912-175.jpg",
+      "content": "统治了我的小学以及初中。标注：绷带怪人杀人事件，图书馆杀人事件"
+    },
+    {
+      "user": "水她她",
+      "avatar": "https://img3.doubanio.com/icon/u4763234-22.jpg",
+      "content": "就让他一直更下去吧！。。。。已成习惯"
+    },
+    {
+      "user": "一颗负伤的豆子",
+      "avatar": "https://img3.doubanio.com/icon/u43603671-12.jpg",
+      "content": "有几集曾经看的时候觉得好害怕，好恐怖。"
+    },
+    {
+      "user": "中華慕斯妹",
+      "avatar": "https://img1.doubanio.com/icon/u49227916-107.jpg",
+      "content": "万年小学生"
+    },
+    {
+      "user": "Rico.",
+      "avatar": "https://img3.doubanio.com/icon/u4098959-160.jpg",
+      "content": "死过多少人。"
+    },
+    {
+      "user": "番茄凊",
+      "avatar": "https://img3.doubanio.com/icon/u2224027-121.jpg",
+      "content": "高二那年奋战完全套漫画囧"
+    },
+    {
+      "user": "石头剪刀布0726",
+      "avatar": "https://img3.doubanio.com/icon/u157295660-2.jpg",
+      "content": "女儿的最爱，跟着她看了不少，不过总是猜不出凶手是谁，是我太笨吗？"
+    },
+    {
+      "user": "杜布勒维",
+      "avatar": "https://img3.doubanio.com/icon/u3707509-13.jpg",
+      "content": "万年国小柯南君"
+    },
+    {
+      "user": "张頔霏",
+      "avatar": "https://img3.doubanio.com/icon/u4501247-33.jpg",
+      "content": "大赞从上小学就迷恋的动漫！！！"
+    },
+    {
+      "user": "sherwoodsylvia",
+      "avatar": "https://img1.doubanio.com/icon/u48770075-7.jpg",
+      "content": "实在坚持不下去了"
+    },
+    {
+      "user": "玄子g",
+      "avatar": "https://img3.doubanio.com/icon/u45721870-1.jpg",
+      "content": "没心情继续看了"
+    },
+    {
+      "user": "堆叠的世界",
+      "avatar": "https://img3.doubanio.com/icon/u91118576-2.jpg",
+      "content": "推理要从娃娃"
+    },
+    {
+      "user": "涉外山頂人™",
+      "avatar": "https://img1.doubanio.com/icon/u2311025-87.jpg",
+      "content": "最近莫名其妙在嘉佳卡通追了。"
+    },
+    {
+      "user": "Lucas",
+      "avatar": "https://img3.doubanio.com/icon/u3159978-14.jpg",
+      "content": "需要理由吗？"
+    },
+    {
+      "user": "海绵姐姐",
+      "avatar": "https://img3.doubanio.com/icon/u44057506-6.jpg",
+      "content": "这尼玛坑爹的万年小学生什么时候结局啊！"
+    },
+    {
+      "user": "宫也",
+      "avatar": "https://img3.doubanio.com/icon/u13276260-15.jpg",
+      "content": "如果只有主线的话，会是什么结果。。。"
+    },
+    {
+      "user": "烏龍3.3茶仔",
+      "avatar": "https://img3.doubanio.com/icon/u2138471-4.jpg",
+      "content": "Conan！小时候的最爱。每次看这个像看恐怖片一样"
+    },
+    {
+      "user": "混chance大王",
+      "avatar": "https://img3.doubanio.com/icon/u1047561-40.jpg",
+      "content": "。。。。我不想说什么了。。"
+    },
+    {
+      "user": "勺",
+      "avatar": "https://img3.doubanio.com/icon/u47110211-26.jpg",
+      "content": "太多了。。"
+    },
+    {
+      "user": "Hedwig",
+      "avatar": "https://img1.doubanio.com/icon/u66774685-9.jpg",
+      "content": "追完1000集一集不落的，还有谁！"
+    },
+    {
+      "user": "鹭斯基卍",
+      "avatar": "https://img3.doubanio.com/icon/u3673431-130.jpg",
+      "content": "扫把星"
+    },
+    {
+      "user": "㊣June",
+      "avatar": "https://img3.doubanio.com/icon/u27789564-6.jpg",
+      "content": "柯南几时先可以变返新一"
+    },
+    {
+      "user": "蒸了个滑",
+      "avatar": "https://img3.doubanio.com/icon/u1723293-401.jpg",
+      "content": "我就是爱不起来- -"
+    },
+    {
+      "user": "小M",
+      "avatar": "https://img1.doubanio.com/icon/u1810467-119.jpg",
+      "content": "功劳大过水准"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u2989745-634.jpg",
+      "content": "我没看完。但有结局请呼叫！XD【哀党路过"
+    },
+    {
+      "user": "jessiestone",
+      "avatar": "https://img1.doubanio.com/icon/u1125358-7.jpg",
+      "content": "我不喜欢柯南，每集都一样。不是小时候看的。"
+    },
+    {
+      "user": "辉少",
+      "avatar": "https://img3.doubanio.com/icon/u2323947-6.jpg",
+      "content": "何年何月是个头啊...希望有生之年可以看到完结...看多了以后就觉得太模式化了!"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "2008，7。至第304话。"
+    },
+    {
+      "user": "笨笨菜",
+      "avatar": "https://img3.doubanio.com/icon/u46888824-2.jpg",
+      "content": "磨光了耐性，案子剧情也越来越扯淡。"
+    },
+    {
+      "user": "small",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "偶尔有经典~~"
+    },
+    {
+      "user": "塞上耳朵",
+      "avatar": "https://img3.doubanio.com/icon/u39287121-34.jpg",
+      "content": "死神来了"
+    },
+    {
+      "user": "石头",
+      "avatar": "https://img1.doubanio.com/icon/u2378008-17.jpg",
+      "content": "咋没完没了呀!! 我都长大了 \r\n小兰也该嫁人了"
+    },
+    {
+      "user": "毛毛远",
+      "avatar": "https://img3.doubanio.com/icon/u1520384-196.jpg",
+      "content": "这个可怕的东西== "
+    },
+    {
+      "user": "Maggie",
+      "avatar": "https://img3.doubanio.com/icon/u5594345-3.jpg",
+      "content": "比较大众化，弱化了推理"
+    },
+    {
+      "user": "元氣子",
+      "avatar": "https://img1.doubanio.com/icon/u4099465-89.jpg",
+      "content": "真相只有一个！"
+    },
+    {
+      "user": "choco la vie.",
+      "avatar": "https://img3.doubanio.com/icon/u54471095-104.jpg",
+      "content": "对漫画才是真爱."
+    },
+    {
+      "user": "7M1W",
+      "avatar": "https://img3.doubanio.com/icon/u38151651-2.jpg",
+      "content": "啥时候才能完结啊。。。"
+    },
+    {
+      "user": "童童",
+      "avatar": "https://img3.doubanio.com/icon/u57998468-20.jpg",
+      "content": "小时候看的时候还很怕呢"
+    },
+    {
+      "user": "小星星",
+      "avatar": "https://img1.doubanio.com/icon/u2832899-89.jpg",
+      "content": "哎呀!嚇死我了!!!(一個人不敢看!!!)"
+    },
+    {
+      "user": "锦鲤色的喵",
+      "avatar": "https://img3.doubanio.com/icon/u2778486-34.jpg",
+      "content": "追剧十余年。"
+    },
+    {
+      "user": "你说什么都对",
+      "avatar": "https://img3.doubanio.com/icon/u1017438-6.jpg",
+      "content": "哦我亲爱的新一跟基德呀。"
+    },
+    {
+      "user": "努力君",
+      "avatar": "https://img3.doubanio.com/icon/u1417833-12.jpg",
+      "content": "喜欢"
+    },
+    {
+      "user": "纠结的泡泡鱼",
+      "avatar": "https://img1.doubanio.com/icon/u4547641-39.jpg",
+      "content": "我才发现没添加这个..想我小时候被图书馆事件吓的"
+    },
+    {
+      "user": "tsum tsum",
+      "avatar": "https://img3.doubanio.com/icon/u2041230-13.jpg",
+      "content": "患有侏儒症和迟育症的小学生"
+    },
+    {
+      "user": "tina",
+      "avatar": "https://img3.doubanio.com/icon/u2093985-5.jpg",
+      "content": "伴随着成长啊，话说600集以后又开始峰回路转跌宕起伏一扫之前的无聊剧情啊~"
+    },
+    {
+      "user": "霍朱朱",
+      "avatar": "https://img3.doubanio.com/icon/u42602699-5.jpg",
+      "content": "我会告诉你在摸透了套路猜到了结局之后很多剧集还是能把我看哭么？"
+    },
+    {
+      "user": "躲也躲不掉",
+      "avatar": "https://img1.doubanio.com/icon/u33101010-8.jpg",
+      "content": "陪伴我长大"
+    },
+    {
+      "user": "翠西 。o 0 O",
+      "avatar": "https://img1.doubanio.com/icon/u1223204-9.jpg",
+      "content": "完美"
+    },
+    {
+      "user": "荼笑",
+      "avatar": "https://img3.doubanio.com/icon/u45484363-2.jpg",
+      "content": "我等着大结局啊！"
+    },
+    {
+      "user": "蜜糖湾",
+      "avatar": "https://img1.doubanio.com/icon/u48869602-78.jpg",
+      "content": "每个嫌疑人都会是一个表情，而且都是冒着虚汗说：“如果是我干的，那我为什么要……￥##%^& ？”"
+    },
+    {
+      "user": "拼命三郎流津津",
+      "avatar": "https://img1.doubanio.com/icon/u2167347-88.jpg",
+      "content": "这个是剧场版？"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
   |- src/
     |- api/    // 封装请求模块
     |- assets/  // 静态资源
-      |- css/
+      |- css/   // 格式化 css、Scss 变量/混合...
     |- components/    // 组件封装
     |- store/   // vuex
       |- index.js
@@ -47,6 +47,38 @@
   |- vue.config.js    // Webpack 配置
   |- README.md
 ```
+
+## vue 的使用
+
+### vue-router
+
+
+### vuex
+
+
+
+## 第三方库的使用
+
+### express
+
+
+### webpack
+
+
+### babel
+
+
+### axios
+
+
+### vue-awesome-swiper
+
+
+### ESLint
+
+
+
+
 
 ## 问题及解决
 
@@ -108,5 +140,3 @@ const el = this.$refs.stars;  // 获取 DOM 元素
 const position_y = (Math.ceil(this.item.rate) + 1) * 10;  // 纵轴偏移
 el.style.backgroundPosition = `0 ${position_y}px`;  // 设置偏移
 ```
-
-

@@ -1,0 +1,917 @@
+{
+  "title": "埃德蒙",
+  "url": "https://movie.douban.com/subject/30179916/",
+  "rate": "7.9",
+  "id": "30179916",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2538568336.jpg",
+  "info": [
+    "导演: 亚力克西斯·马沙利克",
+    "编剧: 亚力克西斯·马沙利克",
+    "主演: 托马·索利韦尔 / 奥利维埃·古尔梅 / 玛蒂尔德·瑟妮 / 汤姆·里布 / 露西·布耶纳 / 阿丽斯·德·朗克桑 / 克莱门汀·塞拉里耶 / 伊戈尔·戈特曼 / 多米尼克·皮侬 / 西蒙·阿布卡瑞安 / 马克·安德烈奥尼 / 吉恩-米歇尔·马提亚尔 / 亚力克西斯·马沙利克 / 安托万·迪莱里 / 纪尧姆·布谢德 / 布兰丁·贝拉沃尔 / 利昂尔·阿贝兰斯基 / 多米尼克·贝纳尔 / 伯纳德·布兰卡恩 / 米沙·莱斯科特 / 保罗·让森",
+    "类型: 剧情 / 喜剧",
+    "制片国家/地区: 法国 / 比利时",
+    "语言: 法语 / 俄语",
+    "上映日期: 2018-08-22(法国昂古莱姆电影节) / 2019-01-09(法国)",
+    "片长: 110分钟",
+    "又名: 大鼻子小情圣(港) / Cyrano, My Love"
+  ],
+  "desc": "爱德蒙·罗斯丹（托马·索利韦尔 饰）快到三十岁，结婚生子后创作陷入低潮，江郎才尽的焦虑令这位巴黎十九世纪剧作家沮丧不堪。这时缪思却来了，一个令人心动的女孩宣示命运的嘲弄。他唯有通过协助好友追求女孩，同时把情事化为戏语，超越一切嫉妒与痴狂，终成就一代喜剧英雄、一齣边写边排的神作。今天无人不晓得《大鼻子情圣》，它的诞生原来更加传奇。戛纳影帝奥利维埃·古尔梅饰演戏剧泰斗哥格兰，努力催生旷世杰作，更为电影增添无上魅力。",
+  "members": {
+    "director": {
+      "name": "亚力克西斯·马沙利克 Alexis·Michalik",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1463543905.06.jpg"
+    },
+    "cast": [
+      {
+        "name": "托马·索利韦尔 Thomas Solivéres",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1470322569.36.jpg"
+      },
+      {
+        "name": "奥利维埃·古尔梅 Olivier Gourmet",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372143826.58.jpg"
+      },
+      {
+        "name": "玛蒂尔德·瑟妮 Mathilde Seigner",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39894.jpg"
+      },
+      {
+        "name": "汤姆·里布 Tom Leeb",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565359391.7.jpg"
+      },
+      {
+        "name": "露西·布耶纳 Lucie Boujenah",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565359469.83.jpg"
+      },
+      {
+        "name": "阿丽斯·德·朗克桑 Alice de Lencquesaing",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35140.jpg"
+      },
+      {
+        "name": "克莱门汀·塞拉里耶 Clémentine Célarié",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p24142.jpg"
+      },
+      {
+        "name": "伊戈尔·戈特曼 Igor Gotesman",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1499937107.17.jpg"
+      },
+      {
+        "name": "多米尼克·皮侬 Dominique Pinon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4785.jpg"
+      },
+      {
+        "name": "西蒙·阿布卡瑞安 Simon Abkarian",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4851.jpg"
+      },
+      {
+        "name": "马克·安德烈奥尼 Marc Andréoni",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "吉恩-米歇尔·马提亚尔 Jean-Michel Martial",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565359563.15.jpg"
+      },
+      {
+        "name": "亚力克西斯·马沙利克 Alexis·Michalik",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1463543905.06.jpg"
+      },
+      {
+        "name": "安托万·迪莱里 Antoine Duléry",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15254.jpg"
+      },
+      {
+        "name": "纪尧姆·布谢德 Guillaume Bouchède",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512709306.5.jpg"
+      },
+      {
+        "name": "布兰丁·贝拉沃尔 Blandine Bellavoir",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1553158535.97.jpg"
+      },
+      {
+        "name": "利昂尔·阿贝兰斯基 Lionel Abelanski",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4920.jpg"
+      },
+      {
+        "name": "多米尼克·贝纳尔 Dominique Besnehard",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30295.jpg"
+      },
+      {
+        "name": "伯纳德·布兰卡恩 Bernard Blancan",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p16858.jpg"
+      },
+      {
+        "name": "米沙·莱斯科特 Micha Lescot",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505441454.67.jpg"
+      },
+      {
+        "name": "保罗·让森 Paul Jeanson",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1522722167.46.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2567315182.jpg?1567163736",
+        "src": "http://vt1.doubanio.com/201908311236/187a5dd53aed60bcab4809a1be689a8e/view/movie/M/402520030.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2546610439.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2546610437.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2546609929.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2546609928.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "私~川流",
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "content": "所以要好好学习法语。。"
+    },
+    {
+      "user": "十二辰子",
+      "avatar": "https://img3.doubanio.com/icon/u70850814-45.jpg",
+      "content": "7分/ 将Cyrano的诞生拍成华丽的法式小品。最后半小时舞台上的自然主义魅力非常加分——也只有这部分利用电影的特殊性完成了戏剧舞台所不能完成的目标。推荐给所有喜欢戏剧和法国年代剧的人。可惜的是过于浓烈的是戏剧感与布景感造成了电影整体的失衡。"
+    },
+    {
+      "user": "黛蓝",
+      "avatar": "https://img3.doubanio.com/icon/u48941408-6.jpg",
+      "content": "在电影院看到预告片时就决定上映后马上就去看的电影。整个电影节奏很欢乐。19世纪末的巴黎很美。在考虑要不要去Palais Royal看看这部已经演了100多年的戏剧。"
+    },
+    {
+      "user": "木由",
+      "avatar": "https://img1.doubanio.com/icon/u67858795-18.jpg",
+      "content": "见证“大鼻子情圣“的诞生很是激动人心，不过Edmond的编剧人生若是真的这么顺那一定是被女神吻过的。越来越喜欢法式喜剧的幽默，尺度掌握得刚刚好。Edmond的迷人之处也是在于拎得清。面对缪斯女神的招手，他还能跪在妻子面前自述他寻找的是“灵感”而不是“爱情”，十年的相守无人能及。这种觉悟和自控力很难得了。不过他的妻子也是个明白人，“巴黎是世界上最贵的城市，也许。但她必定是最美的城。”十九世纪末的巴黎啊，多么梦幻的地方。"
+    },
+    {
+      "user": "Flo的柴废了吗",
+      "avatar": "https://img3.doubanio.com/icon/u64936589-4.jpg",
+      "content": "太精彩了！sublime的大鼻子情圣，sublime的电影。丰富，流畅，高雅诙谐，一气呵成。数个360度推镜构成一个影像舞台，数个monologue复活戏剧媒介的灵魂。在戏剧从未断代传承的国度，这是个玩笑，更是电影小弟对老大哥虔诚的致敬。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "也许你我终将行踪不明\n但是你该知道我曾因你动情\n不要把一个阶段幻想得很好\n而又去幻想等待后的结果\n那样的生活只会充满依赖\n我的心思不为谁而停留\n而心总要为谁而跳动。"
+    },
+    {
+      "user": "昊子",
+      "avatar": "https://img1.doubanio.com/icon/u4289171-9.jpg",
+      "content": "看哭了"
+    },
+    {
+      "user": "Supremacyacron",
+      "avatar": "https://img1.doubanio.com/icon/u134030382-9.jpg",
+      "content": "5/10\n艺术虽来源于生活，而又高于生活；舞台上瞬间的荣光属于演员，而剧本的永恒荣光却属于剧作家。片子里有点小聪明虽然无伤大雅，但是在处理上似乎觉得埃德蒙与剧本有一种距离感，这种距离感所产生的情感至少在我看来多少有点一头雾水，观感甚至还不及《莎翁情史》。"
+    },
+    {
+      "user": "dreamgirl",
+      "avatar": "https://img3.doubanio.com/icon/u64834075-51.jpg",
+      "content": "这简直就是我的日常啊～ 写不出来、写不出来、各种写不出来剧本 哭… 百分百法国情怀！ 非常沉醉这种激动人心的在电影院上演的戏剧～ 看了“大鼻子情圣”长达一个世纪从诞生到家喻户晓的故事 美极了"
+    },
+    {
+      "user": "Lunar C.",
+      "avatar": "https://img3.doubanio.com/icon/u2238925-122.jpg",
+      "content": "创作源于生活，而生活往往是最精彩的，比戏剧还要戏剧很多倍。"
+    },
+    {
+      "user": "PROMISE921",
+      "avatar": "https://img3.doubanio.com/icon/u1679234-1.jpg",
+      "content": "感动的是爱情 不是你~"
+    },
+    {
+      "user": "feeling",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "影19235:一气呵成!善良有学识的起头人和旁人的添油加醋，即兴创作的激情与冲动看的人热血沸腾，尤其阳台灵感缪斯一幕超级浪漫。很好诠释艺术来源于生活而高于生活。最近刚好在读伊莱娜·内米洛夫斯基《契诃夫的一生》，而作者的最后一幕创作即来自契诃夫的提示。旋转镜头配上完美节奏，奥诺雷酒馆，康康舞，法国悲喜剧喜好交替的历史背景下，幽默搞笑。又提德雷福斯事件。法国人是文艺的，末尾四十场返场经久不息的掌声，作为屏外观众应该学习欣赏，懂得尊重创作者。(契诃夫实际结婚是1901年，剧中是1897年)"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "大鼻子老怪，法式幽默在这部里表现比较轻，喜剧节奏就更适合我们的接受度，整体还好。"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u1236291-798.jpg",
+      "content": "将大鼻子情圣的创作过程浪漫化展现出来，穿插的却是接连不断来自现实的灵感。连贯紧凑，幽默又优美。"
+    },
+    {
+      "user": "每天都要取名字",
+      "avatar": "https://img3.doubanio.com/icon/u48404137-31.jpg",
+      "content": "泪目泪目，为舞台为爱情为勇敢为友情。离开学校之后基本就离开了法语环境，久久沉浸一次，还有种奇妙的舒适（行吧，基本跟不太上了"
+    },
+    {
+      "user": "SongSongSong",
+      "avatar": "https://img3.doubanio.com/icon/u1571077-45.jpg",
+      "content": "#HKIFF# 缪斯拯救了你的职业生涯"
+    },
+    {
+      "user": "黑桃生",
+      "avatar": "https://img3.doubanio.com/icon/u42799483-25.jpg",
+      "content": "#HKIFF# 意外看了个超级应景今天的电影，喜欢节奏喜欢运镜喜欢幽默感，喜欢咖啡店老板说，在剧院里灯光暗去我们都一样了，喜欢结尾停在1897年12月28日永远回不去也永远成为legacy的那一刻"
+    },
+    {
+      "user": "蒙奇D",
+      "avatar": "https://img3.doubanio.com/icon/u53550852-1.jpg",
+      "content": "7.5分。法国剧作家埃德蒙在职业生涯的低谷创作了经典名作《西哈诺·德·贝热拉克》，也就是《大鼻子情圣》。他的灵感来源于帮兄弟泡妞时给妹子写的情书，虽然他的创作是极富热情的，但一开始大家并不看好这个作品，包括他自己。投资人和主演干预创作，男主演被禁演，排练周期特别短，才写完第一幕就要开始排练，埃德蒙只能边排练边创作，一开始真是问题不断，仓促又艰难。甚至第一次演出的观众有多半都是花钱请来的，谁也想不到这部具有喜剧色彩的爱情悲剧能一直演到现在。电影节奏紧凑、流畅，不失幽默，创作的过程浪漫又优美，最后的成功让人感动。"
+    },
+    {
+      "user": "郑乔尹",
+      "avatar": "https://img3.doubanio.com/icon/u37569562-15.jpg",
+      "content": "每每晚上看电影，总会睡着，这部电影在睡梦和真实中切换，尤其是戏剧舞台转向现实布景的时候，着实让我惊艳了一把。每个人都很快乐，这是节日特有的气氛。19世纪末的巴黎，Edmond实现了他的梦想。21世纪上叶的我，和Edmond有异曲同工的困境，他实现了，我也该去实践我的理想。"
+    },
+    {
+      "user": "我吃可比克",
+      "avatar": "https://img3.doubanio.com/icon/u151049583-2.jpg",
+      "content": "话剧略显无力，主角胡子实在出戏，感情线不够深厚，黑人的存在非常政治正确（或历史确有其人？），但最重要的表现出那个年代法国的革命激情和对艺术的最崇高的追求。"
+    },
+    {
+      "user": "SUZIR",
+      "avatar": "https://img3.doubanio.com/icon/u41788667-12.jpg",
+      "content": "之前看过《埃德蒙》的舞台剧版，也是被朋友推荐的。当时在剧院看完之后就想，若能搬上大银幕就好了。哪怕知道结局，今天电影版再看还是感动不已。这个故事是属于法国人独有的浪漫。"
+    },
+    {
+      "user": "鱼麦麦",
+      "avatar": "https://img1.doubanio.com/icon/u62955827-69.jpg",
+      "content": "如果对欧洲戏剧不够欣赏和了解的话，真的挺难看进去的。\n法国文艺青年的创作历程，失意作家和他的缪斯之缘，比较私人化的小品，坦白说我欣赏不起来。\n始终认为戏剧和电影还是有割裂感的，这是个足够精致和浪漫的故事，但好像还是更适合展现在舞台上。（5/10）"
+    },
+    {
+      "user": "求诸己",
+      "avatar": "https://img3.doubanio.com/icon/u155500462-5.jpg",
+      "content": "就是喜欢这个故事"
+    },
+    {
+      "user": "沙漠中的西蒙",
+      "avatar": "https://img3.doubanio.com/icon/u150993213-2.jpg",
+      "content": "6分，还记得德帕迪约演的大鼻子情圣吗？这部电影讲的就是大鼻子情圣这部戏剧如何诞生的故事，这里最大的值得关注点就是男主角托马·索利韦尔 ---可能会成长为法国十分稀缺的新顶梁柱型男演员。【分数范围5-6分】"
+    },
+    {
+      "user": "笨笨熊",
+      "avatar": "https://img1.doubanio.com/icon/u58290785-9.jpg",
+      "content": "这是写给戏剧人的电影，良好的编剧和fancy的摄影镜头，法国的文艺片能拍得这么好看，佩服。"
+    },
+    {
+      "user": "白煮蛋",
+      "avatar": "https://img1.doubanio.com/icon/u1159296-9.jpg",
+      "content": "和恋爱中的莎士比亚一个路数"
+    },
+    {
+      "user": "Pompeii",
+      "avatar": "https://img3.doubanio.com/icon/u3221159-11.jpg",
+      "content": "HKIFF43 "
+    },
+    {
+      "user": "anewpig",
+      "avatar": "https://img3.doubanio.com/icon/u56523090-2.jpg",
+      "content": "一直觉得自己挺土的 喜欢看经典的戏剧 从来欣赏不了“现代艺术” 后者纵然更自由个性 但似乎和“美”这件事扯不上什么关系了 而一部“一百年后仍然有人记得”的作品 穿越了时间带来感动 这份力量却总是能震撼到我 记住了这个时间地点 大鼻子情圣首演 1897年12月28日 巴黎圣马丁剧院"
+    },
+    {
+      "user": "上空的哪吒",
+      "avatar": "https://img1.doubanio.com/icon/u1836678-8.jpg",
+      "content": "长安二十四时辰昨天追完。今天看了埃德蒙。有句话说的还真有道理：世界上最伟大引领世界文化的三个城市，大唐的长安，19世纪的巴黎和当今的纽约。"
+    },
+    {
+      "user": "自己一個切生果",
+      "avatar": "https://img3.doubanio.com/icon/u47284322-6.jpg",
+      "content": "说实话开头十几分钟看得我有点困。。。但之后真的要剧情有剧情 要笑果有笑果 结尾很感动 片尾字幕的时候还有历届演过大鼻子情圣的演员影像资料 一部好的戏剧作品能给几代十几代的人带来影响 真的只有感叹~ 全程只有英文字幕还是看的有点点辛苦 而且坐在我旁边的美国妹子整个脚不脱鞋踩凳子 还笑的无敌大声 观影体验被毁"
+    },
+    {
+      "user": "Dear deer",
+      "avatar": "https://img3.doubanio.com/icon/u89768044-12.jpg",
+      "content": "轻松愉快流畅的喜剧传记，应该看过大鼻子情圣来看会比较妙，关于代写情书阴差阳错的桥段不知道被运用到多少故事里。对我来说，不熟悉法国戏剧，契诃夫才是大彩蛋那！"
+    },
+    {
+      "user": "佚名",
+      "avatar": "https://img1.doubanio.com/icon/u54273337-7.jpg",
+      "content": "仅仅说艺术源于生活或者高于生活是不够的，是浪漫的艺术源于浪漫的生活！"
+    },
+    {
+      "user": "且相忘于江湖",
+      "avatar": "https://img3.doubanio.com/icon/u36022989-5.jpg",
+      "content": "名作的诞生拍得这么感人、这么激动人心，难得看到这么有感染力的电影，想写评论，反而有点词穷。最后部分虽然过于理想化，但描述作家创作中的甘苦仍是在调侃中透出真诚。（我很好奇，Edmond和契诃夫真的见过面吗）"
+    },
+    {
+      "user": "非常道电影",
+      "avatar": "https://img1.doubanio.com/icon/u47171710-9.jpg",
+      "content": "大鼻子情圣"
+    },
+    {
+      "user": "HEADSHOTED",
+      "avatar": "https://img3.doubanio.com/icon/u53931796-12.jpg",
+      "content": "喜欢那棵大树和大傻儿子"
+    },
+    {
+      "user": "不老的李大爷耶",
+      "avatar": "https://img3.doubanio.com/icon/u63422177-5.jpg",
+      "content": "影片给舞台剧台前幕后的创作者们写了一封情书，看到最后电影中的戏剧舞台上的演出瞬间切换成真正的电影镜头又切回舞台场景，竟会出乎意料地感动。经典的剧作永远不会落幕，永远活跃在舞台上，也永远活跃在银幕上"
+    },
+    {
+      "user": "茂树",
+      "avatar": "https://img3.doubanio.com/icon/u1780725-75.jpg",
+      "content": "不好笑，很严肃。卢米埃尔兄弟用胶片征服大众之后，戏剧被边缘化，以及不断边缘化。人们几乎认为戏剧会灭绝，随时可能面对的主角罢演，投资人给情妇安插一个重要角色，剧作家找不到他们的母题，以及一些索然无趣的台词，或者幕与幕之间对节奏和观众的反应没有合格的把控，得不到观众的掌声，没有返场，再度返场，第四十次返场，就无法成为经典，并会毁掉一批人，毁掉一座剧院。而恰恰是种种风险，不可控因素，临场感，构成了戏剧转瞬即逝的魅力。女演员说，演员们只活在今天，而剧作家的名字一百年都不会被忘记，伤感，但演员给观众的震撼却将是独一无二的，不同于电影的无限复制。戏剧之于电影，是画作之于摄影，哪怕电影拍摄一部经典戏剧何以经典，暗藏一种讽喻，却不可否认戏剧本身的无法替代。我们需要记住历史，艺术的历史。"
+    },
+    {
+      "user": "Merirosvot",
+      "avatar": "https://img3.doubanio.com/icon/u27583038-30.jpg",
+      "content": "用诗写台词也太浪漫了…节奏很像莎翁情史，结尾处放出西哈诺的历史影响还是稍微有感动到"
+    },
+    {
+      "user": "AuraWang",
+      "avatar": "https://img3.doubanio.com/icon/u81956528-6.jpg",
+      "content": "一部致敬戏剧的电影。到影片结束我才反应过来讲的是大鼻子情圣。该剧以台词优美而知名，可惜以我的法语听力水平没能完全领悟...还是想说大鼻子情圣故事明明如此cliché，到底怎么火遍全法这么多年的。男二好帅，是三次元的唐罗萨里奥（Sims）本人了。"
+    },
+    {
+      "user": "往日时光",
+      "avatar": "https://img3.doubanio.com/icon/u60303394-1.jpg",
+      "content": "感人至深的影片，开始还觉得有点吵闹，有点铺排，有点夸张，可是越来越好，渐入佳境，被深深吸引，感动！"
+    },
+    {
+      "user": "V.Dunham",
+      "avatar": "https://img3.doubanio.com/icon/u4651053-120.jpg",
+      "content": "水到渠成的浪漫，迷人但是也失去了层次，“创作”变成了花边把戏。结尾文本与舞台的切换一招致命，却也让我更懊恼前半段的蜻蜓点水。"
+    },
+    {
+      "user": "merengue",
+      "avatar": "https://img1.doubanio.com/icon/u1240947-38.jpg",
+      "content": "前半段太冗长了，创造过程直至上了舞台才渐入佳境。就是这个埃德蒙太女装大佬了让人出戏。小时候看大鼻子情圣漫画，长大了看大鼻子情圣创作史，这之间隔了一部还没机会观赏的戏剧本剧的距离。"
+    },
+    {
+      "user": "爱爱爱丽丝儿",
+      "avatar": "https://img1.doubanio.com/icon/u1534295-19.jpg",
+      "content": "喜欢那段戏剧投射到真实场景里面的蒙太奇"
+    },
+    {
+      "user": "夏目二暖",
+      "avatar": "https://img3.doubanio.com/icon/u2247807-11.jpg",
+      "content": "和大鼻子情圣形成互文，一起食用效果更佳。男主竟是触不可及里被揍的小崽崽，转眼就贴上小胡子当大男主了。"
+    },
+    {
+      "user": "蚂蚁",
+      "avatar": "https://img3.doubanio.com/icon/u167601993-6.jpg",
+      "content": "用电影展现舞台剧，它是两种艺术形式的有机融合。创作与演练并行的方式很牵动人心。艺术是对生活的诠释，埃德蒙从生活点滴中汲取灵感、挖掘渴望，仍能保持着超然的理智拒绝诱惑与欲望，更是动人之处。高潮部分舞台剧向现实布景的转换，如此浪漫，即使不知道舞台剧的剧情梗概，仍然能感受到人物浓厚的悲怮情感。同时，工厂大门的迷影情节也让我为那个电影萌芽戏剧盛行的时代而感慨。"
+    },
+    {
+      "user": "迷糊",
+      "avatar": "https://img1.doubanio.com/icon/u41487778-9.jpg",
+      "content": "伟大的诗意的崇高的悲剧，永不落伍。"
+    },
+    {
+      "user": "我想要两块西柚",
+      "avatar": "https://img3.doubanio.com/icon/u147577220-25.jpg",
+      "content": "多么可爱的一部电影啊。"
+    },
+    {
+      "user": "当局",
+      "avatar": "https://img3.doubanio.com/icon/u127675582-5.jpg",
+      "content": "可以和《大鼻子情圣》一起看。我当年看电影直接被台词震了。"
+    },
+    {
+      "user": "平静海滩",
+      "avatar": "https://img3.doubanio.com/icon/u152181463-5.jpg",
+      "content": "讲述埃德蒙罗斯丹《大鼻子情圣》的故事，也是让并不熟悉的我们了解法国著名作家的创作经历，用戏剧化的手法展现戏剧电影，在舞台的那场大树下，换作真实的场景，法式荒诞幽默中透露着情感流露，巴黎的文艺浪漫。"
+    },
+    {
+      "user": "噠噠噠",
+      "avatar": "https://img1.doubanio.com/icon/u2668502-49.jpg",
+      "content": "太精彩了，有趣的是这部电影本身也像一个有上下两幕的戏剧作品，下半部剧院的部分精彩迭出。结尾恰恰是剧中人的克罗姗在生活和戏剧中清醒了过来，留下了欢呼鼓掌入戏的观众们。"
+    },
+    {
+      "user": "吖吖",
+      "avatar": "https://img3.doubanio.com/icon/u38074820-2.jpg",
+      "content": "最开始的一幕有法国喜剧的特点，我笑出声。leo不会韵句，埃德蒙帮他作弊在阳台下他念一句leo跟着念一句，当缪斯女神让他亲吻她的时候，剧院经理出来催姑娘回去，结果刚爬山阳台的leo亲了这位胖胖的经理😂"
+    },
+    {
+      "user": "油焖番瘸",
+      "avatar": "https://img3.doubanio.com/icon/u75439501-22.jpg",
+      "content": "戏中戏，比较轻松诙谐，法国人特有的浪漫腔调。伟大作品的诞生也可能是出于逼急了东抓一把，西拉一把赶鸭子上架搞出来的，足见创造力和随口诌的重要性。埃德蒙与妻子坦白自己从缪斯寻找灵感启发而非爱情，真的很触动人心，全然抛弃欲望的渴求，文字和情感带来的情绪满足。  #deadline 才是第一生产力#"
+    },
+    {
+      "user": "藿香柠檬",
+      "avatar": "https://img3.doubanio.com/icon/u48157517-4.jpg",
+      "content": "法式幽默，法式爱情，欧洲商业电影还是比好莱坞少了很多价值观。剪辑太快了，第五幕的处理真是绝佳"
+    },
+    {
+      "user": "东散",
+      "avatar": "https://img3.doubanio.com/icon/u1782474-3.jpg",
+      "content": "《大鼻子情圣》怎么出来的，还成。"
+    },
+    {
+      "user": "Conficlown",
+      "avatar": "https://img3.doubanio.com/icon/u3395358-2.jpg",
+      "content": "运镜 服饰 镜头转换都很有戏剧效果 太想看戏剧版了 还有cyrano de bergerac 31/01/2019 ugc montparnasse"
+    },
+    {
+      "user": "疯不列颠",
+      "avatar": "https://img1.doubanio.com/icon/u150122348-9.jpg",
+      "content": "在法国院线看过的最好的法国电影，法式幽默惹得全场哈哈大笑，逗比小作家的励志故事中又有感人的地方，开场几个摇镜头和大俯拍把巴黎的格调展现得淋漓尽致。以及honoré这家咖啡厅我回头找一下！(为什么大作家都是在咖啡厅里写出了成名作？)"
+    },
+    {
+      "user": "K➿",
+      "avatar": "https://img3.doubanio.com/icon/u4388611-12.jpg",
+      "content": "不知道是最近情感过于丰富还是陷入到了中年危机，莫名的感动，“你应该享受那个吻，我理解”，认真的理解！"
+    },
+    {
+      "user": "不想做人的mao",
+      "avatar": "https://img3.doubanio.com/icon/u30348695-6.jpg",
+      "content": "给自己精神出轨的一次好的表达尽然是最好的作品"
+    },
+    {
+      "user": "临渊止渴",
+      "avatar": "https://img3.doubanio.com/icon/u178008708-1.jpg",
+      "content": "法国式的浪漫喜剧。"
+    },
+    {
+      "user": "Sasá",
+      "avatar": "https://img1.doubanio.com/icon/u1887125-8.jpg",
+      "content": "C’est le meilleur film d’année!!!"
+    },
+    {
+      "user": "天上掉下小海亮",
+      "avatar": "https://img3.doubanio.com/icon/u2341227-52.jpg",
+      "content": "男二必须拥有姓名！男主是intouchables里叛逆女儿的拖把头小男友！"
+    },
+    {
+      "user": "salonbus",
+      "avatar": "https://img3.doubanio.com/icon/u1010302-50.jpg",
+      "content": "百年老梗，屡试不爽"
+    },
+    {
+      "user": "大头头不大",
+      "avatar": "https://img3.doubanio.com/icon/u172658762-2.jpg",
+      "content": "戏剧到真实场景之间的切换真棒"
+    },
+    {
+      "user": "檀溪路191号",
+      "avatar": "https://img1.doubanio.com/icon/u58064926-47.jpg",
+      "content": "大鼻子情圣原来这样创作的啊，那创作过程也太戏剧性了吧hhhhhh"
+    },
+    {
+      "user": "预处理等待",
+      "avatar": "https://img3.doubanio.com/icon/u195186416-3.jpg",
+      "content": "政治问题可以"
+    },
+    {
+      "user": "YUANYUAN",
+      "avatar": "https://img3.doubanio.com/icon/u77541258-10.jpg",
+      "content": "能够了解这部脍炙人口的《大鼻子情圣》的诞生，而且还是以这么畅快连贯的方式，本身就是很棒的体验。其实《大鼻子情圣》是一部以喜剧形式表达的悲剧，而在那个人们已经放弃了韵文诗导致戏剧转向纯娱乐的时代，这俨然是一部更能深入人心的戏剧。而它之所以弥久历新，大概也是因为它本身代表着爱情最为经典的状态——使人谦卑也使人扬长，在独角戏中自圆其说，也在心心相印中充满力量，不可避免的矛盾中也是真真切切的深情，是这是《大鼻子情圣》表达的真诚，也是其魅力所在。"
+    },
+    {
+      "user": "深圳湾全智贤",
+      "avatar": "https://img3.doubanio.com/icon/u77194286-32.jpg",
+      "content": "好看，法国人可真浪漫，幽默又带点戏剧的荒诞，男女关系在道德的钢丝绳上摇摇晃晃，却又恰到好处地收拢在我的雷区之外，这场戏本身也是非常感人了。"
+    },
+    {
+      "user": "沩",
+      "avatar": "https://img3.doubanio.com/icon/u153446808-2.jpg",
+      "content": "7.6/10 轻快愉悦的法式喜剧，片中展现的色彩美能让我感受到浓烈的戏剧感。艺术来源于生活，诞生于生活，谁能想到，如此一部著名的戏剧会来自于那些生活中出现的各种巧合，戏剧的作者也真的是才华横溢！"
+    },
+    {
+      "user": "Carrie",
+      "avatar": "https://img3.doubanio.com/icon/u2712048-6.jpg",
+      "content": "那个年代的法国戏剧界就有刻意培养的星二代和往戏里硬塞女演员的资方了哈；那个时代的作家也喜欢咖啡馆里写作。虽然隔着巨大的语言和文化鸿沟，情感还是很自然地跟随角色行走。最欣赏关于缪斯和爱情的解读和处理，埃德蒙那么坦然地向妻子解释，灵魂的给养不能代替恒久的爱恋。"
+    },
+    {
+      "user": "Nautile",
+      "avatar": "https://img3.doubanio.com/icon/u136290817-6.jpg",
+      "content": "这应该是最近一年里我最喜欢的法国电影了。虽然有挺多没听懂，甚至没懂他那部剧的情节，但是这种戏剧元素的呈现就是体现出了一种魔力，让我感觉我坐在电影院里享受了一场carré or（。很喜欢电影里上世纪的风格，配乐也很棒。最让我激动的部分还是看着这部剧获得成功看着观众们热情鼓掌…Théâtre真好啊。"
+    },
+    {
+      "user": "恩格",
+      "avatar": "https://img3.doubanio.com/icon/u2284704-4.jpg",
+      "content": "法國人對戲劇的癡狂"
+    },
+    {
+      "user": "jayandlovelyl",
+      "avatar": "https://img3.doubanio.com/icon/u83315011-20.jpg",
+      "content": "life is a story"
+    },
+    {
+      "user": "MASTER",
+      "avatar": "https://img3.doubanio.com/icon/u144795722-3.jpg",
+      "content": "韵文不及散文，致使数年灵感枯竭；倾慕带来渴望，仅一夜间才思泉涌。舞台之上，尽被这凄美的爱情故事所动容；帷幕之后，方知艺术的灵感竟来源于生活的真实写照。爱上了溢满的才华，却面觑着俊朗的外形，台前幕后演绎的就是那如戏如梦的人生。"
+    },
+    {
+      "user": "肆体不勤",
+      "avatar": "https://img3.doubanio.com/icon/u4189480-3.jpg",
+      "content": "电影就是好看到 不会想哎呀这个人演的好这个细节处理得好 所有人都消失在故事中/需要恶补文学梗/并不关心有多少事实"
+    },
+    {
+      "user": "柳",
+      "avatar": "https://img3.doubanio.com/icon/u69476809-14.jpg",
+      "content": "浪漫🌹💕"
+    },
+    {
+      "user": "黄京泰迪",
+      "avatar": "https://img3.doubanio.com/icon/u168313396-2.jpg",
+      "content": "但今天，是1897年12月27日，在巴黎，演员们在致敬。"
+    },
+    {
+      "user": "金乌西坠",
+      "avatar": "https://img3.doubanio.com/icon/u78762931-5.jpg",
+      "content": "这个导演对于节奏的掌控已经堪称教科书级别了！完美的呈现了西哈诺的诞生史，又不落窠臼加入了很多自己的新意。阳台下二人的对话以及片中埃德蒙的灵感诞生，艺术真的来源于生活。虽然正片都有西哈诺的排练，但是影片最后一段上演西哈诺的第一幕和第五幕还是很生动有趣。中间还有过一次长达9分钟的波莱罗舞曲，音乐声从酒馆的微乎其微慢慢变大 到舞台上的最后准备时完美调动了观众情绪，效果堪比一个9分钟的一镜到底！赞赞赞五星"
+    },
+    {
+      "user": "多冷的隆冬",
+      "avatar": "https://img3.doubanio.com/icon/u54616268-3.jpg",
+      "content": "这可太戏剧了"
+    },
+    {
+      "user": "雨化田",
+      "avatar": "https://img1.doubanio.com/icon/u121629609-7.jpg",
+      "content": "在蒙特利尔的露天广场看的，看完回来查了半个小时才找到片名。放映结束的时候大家都鼓起了掌。"
+    },
+    {
+      "user": "溜号玩家",
+      "avatar": "https://img1.doubanio.com/icon/u94450269-27.jpg",
+      "content": "幽默被这进度条给谋杀了，看不出任何痕迹"
+    },
+    {
+      "user": "西北狂生",
+      "avatar": "https://img3.doubanio.com/icon/u151130665-1.jpg",
+      "content": "生活比戏剧还要戏剧化啊！"
+    },
+    {
+      "user": "blueveryday",
+      "avatar": "https://img3.doubanio.com/icon/u41997696-5.jpg",
+      "content": "#hkiff##festivalgrandcinema# 嘔⋯everything is so fake⋯劇情和表演都太過了，戲劇感也不是這麼來的。唯一還算喜歡的地方是最後一幕鏡頭一帶切換到室外場景"
+    },
+    {
+      "user": "退休主板杀手",
+      "avatar": "https://img3.doubanio.com/icon/u167571539-1.jpg",
+      "content": "巴黎好漂亮啊！喜欢酒馆的老板！"
+    },
+    {
+      "user": "约维拉特",
+      "avatar": "https://img1.doubanio.com/icon/u142760158-28.jpg",
+      "content": "只有死亡才能阻止演员的表演\n（而现在有的演员已经提前“死亡”）"
+    },
+    {
+      "user": "厘米",
+      "avatar": "https://img1.doubanio.com/icon/u140037679-8.jpg",
+      "content": "292 看完才发现只有两百多人标记，天啊以我的水平正常情况下我是不会挑战这么小众的电影的，不过还是看完了，虽然我真的没有艺术细胞。"
+    },
+    {
+      "user": "想吃肉",
+      "avatar": "https://img1.doubanio.com/icon/u58546823-19.jpg",
+      "content": "太可爱太浪漫了吧，对于爱情和渴望的理解以及摇摇晃晃的道德边界，法国人不愧是法国人"
+    },
+    {
+      "user": "June",
+      "avatar": "https://img3.doubanio.com/icon/u45876631-3.jpg",
+      "content": "热爱剧院的原因就是能浪漫到极致，让人忘记现实。如果看之前能更了解剧本本身就好了，契诃夫真可爱！"
+    },
+    {
+      "user": "奥利薇",
+      "avatar": "https://img3.doubanio.com/icon/u35176558-2.jpg",
+      "content": "她与爱情无关，是缪斯是未满足的欲望。——这个创作初衷需要被耿直女孩咀嚼许久"
+    },
+    {
+      "user": "江筠Haibara",
+      "avatar": "https://img3.doubanio.com/icon/u73022442-14.jpg",
+      "content": "真正的编剧式观影，是剧组一伙儿坐在小小的教室里，喃喃重复着电影里烂熟于心的台词，一起捧腹大笑，一起赞叹于剧本呈现为声光色的演绎，没想到观感极佳  （第一次生肉看电影这么开心哈哈哈哈）"
+    },
+    {
+      "user": "柴米油盐",
+      "avatar": "https://img3.doubanio.com/icon/u68081195-2.jpg",
+      "content": "20190331 HK Elements. // cliche. "
+    },
+    {
+      "user": "安安",
+      "avatar": "https://img3.doubanio.com/icon/u60088640-16.jpg",
+      "content": "艺术源于生活"
+    },
+    {
+      "user": "公子小白",
+      "avatar": "https://img1.doubanio.com/icon/u2395467-7.jpg",
+      "content": "儿童喜剧"
+    },
+    {
+      "user": "Aunt Sadness",
+      "avatar": "https://img3.doubanio.com/icon/u2552261-30.jpg",
+      "content": "最开始的几句旁白就迷到了 哇 舞台剧一般的电影 边上都是老爷爷老奶奶呢"
+    },
+    {
+      "user": "ShowsCAI",
+      "avatar": "https://img3.doubanio.com/icon/u50004109-4.jpg",
+      "content": "功成名就与一夜暴富 同样令人羡慕。"
+    },
+    {
+      "user": "苦禄",
+      "avatar": "https://img3.doubanio.com/icon/u96171694-40.jpg",
+      "content": "戏剧的表现手法让人有种剥离感，很难和角色产生共情。看不太习惯像本片这样的法式喜剧，还有神神叨叨的台词和疯疯癫癫的互动，更喜欢平淡自然的风格。但从《西哈诺》台词的只言片语中还是能感受到埃德蒙的才情，这是文字感染人的力量，想去读原作了。作者能有这样的经历实在是太神奇，没想到机缘巧合有时能为创作带来这么大的影响"
+    },
+    {
+      "user": "WALKOFFJUSTIN",
+      "avatar": "https://img3.doubanio.com/icon/u159611308-2.jpg",
+      "content": "男主哪里像快到三十岁的人啊…"
+    },
+    {
+      "user": "灰灰灰",
+      "avatar": "https://img3.doubanio.com/icon/u153627307-3.jpg",
+      "content": "浓郁的法国文化和浪漫风格，大鼻子情圣诞生史。"
+    },
+    {
+      "user": "JOJO",
+      "avatar": "https://img3.doubanio.com/icon/u3468131-14.jpg",
+      "content": "艺术源于生活。"
+    },
+    {
+      "user": "Inv",
+      "avatar": "https://img1.doubanio.com/icon/u174338616-18.jpg",
+      "content": "0831  【C＋】"
+    },
+    {
+      "user": "黑岛",
+      "avatar": "https://img3.doubanio.com/icon/u64869167-46.jpg",
+      "content": "很喜欢19世纪末的巴黎，人们的激情"
+    },
+    {
+      "user": "艾莎妮達",
+      "avatar": "https://img3.doubanio.com/icon/u30682197-15.jpg",
+      "content": "31 MAY 2019 (4-) 一開波見到個咁假的巴黎幾乎負分起評，但越看越得意有興味。l'auteur, l'auteur, l'auteur，師傅到之inspiration & desire，首映之夜誰才名流清史？娛樂性豐富，a joyful pièce。。。"
+    },
+    {
+      "user": "cinedreamer_",
+      "avatar": "https://img3.doubanio.com/icon/u165769495-15.jpg",
+      "content": "7.5 将经典戏剧的创作过程用这种幽默诙谐的方式重新展现，但绝不仅仅是喜剧，其中还暗含了很多讽刺（包括创作妥协于喜剧题材、被逼迫选择不合适的演员、贿赂拉拢观众等等）整体算是有功有过，剧情看完仔细想想其实有些“对付”，过程太顺利以至于完全想不到是真事改编，感情线的处理也比较草率；但抛开这些，流畅自然的运镜观感又真的好棒，再加上零零星星一些小笑料，整体看下来感觉还是非常轻松。结尾的掌声雷动不知怎的看得竟有点感动，甚至希望自己也正身在观众席之中。"
+    },
+    {
+      "user": "Grandemens",
+      "avatar": "https://img3.doubanio.com/icon/u2857869-45.jpg",
+      "content": "乐呵"
+    },
+    {
+      "user": "王歌词",
+      "avatar": "https://img3.doubanio.com/icon/u103209184-3.jpg",
+      "content": "《 世 说 新 本 草》 古有冻颜术，食书而岁轻。 今有冻龄术，观影而岁减。"
+    },
+    {
+      "user": "拉面",
+      "avatar": "https://img3.doubanio.com/icon/u2227426-82.jpg",
+      "content": "法式浪漫 戏剧魅力 “巴黎 生活成本最高的城市 但也是最漂亮浪漫的城市”"
+    },
+    {
+      "user": "饅頭様",
+      "avatar": "https://img3.doubanio.com/icon/u119522755-6.jpg",
+      "content": "太完美反而觉得不完美。\n媳妇心太大了。"
+    },
+    {
+      "user": "天行",
+      "avatar": "https://img3.doubanio.com/icon/u61973546-2.jpg",
+      "content": "爱情作为一种诱惑。在电影中，埃德蒙感到了电影作为一种新媒介所带来的惊惶，而这部电影又戏仿了戏剧。埃德蒙的静止，将浪漫主义与骑士精神带回。"
+    },
+    {
+      "user": "zzzzzzz",
+      "avatar": "https://img1.doubanio.com/icon/u151992432-8.jpg",
+      "content": "最后还是有点感人 还是有点看不下去"
+    },
+    {
+      "user": "楚成王",
+      "avatar": "https://img3.doubanio.com/icon/u197751796-6.jpg",
+      "content": "前半段节奏太慢，后50分钟才有感觉。通过与好友女伴写信获取创作灵感。埃德蒙在妓院里遇见已染上肺结核的契诃夫。"
+    },
+    {
+      "user": "寓目山河",
+      "avatar": "https://img3.doubanio.com/icon/u93007927-13.jpg",
+      "content": "你们 艺术家们 你们是法外之人 只有死亡才能阻止演员的表演！"
+    },
+    {
+      "user": "弥敦明",
+      "avatar": "https://img3.doubanio.com/icon/u140758019-22.jpg",
+      "content": "3.5"
+    },
+    {
+      "user": "简凊",
+      "avatar": "https://img3.doubanio.com/icon/u81288997-4.jpg",
+      "content": "最大的惊喜，是当戏内戏外交织在一起时——这可能是创作者都要面临的吧。"
+    },
+    {
+      "user": "斯文Bai类",
+      "avatar": "https://img1.doubanio.com/icon/u146430303-9.jpg",
+      "content": "创作的魅力。演员的胡子好可爱。"
+    },
+    {
+      "user": "Annemoi",
+      "avatar": "https://img3.doubanio.com/icon/u68399998-4.jpg",
+      "content": "4.3分。戏剧与电影的转换与衔接不论在叙事方面还是在调度方面都流畅且有趣。"
+    },
+    {
+      "user": "吃面不吃粉",
+      "avatar": "https://img1.doubanio.com/icon/u133695188-7.jpg",
+      "content": "如果单从纪念此戏剧的诞生史来看这部影片，它甚至都没能完成它的使命，如果从一部电影的角度来看，最大的问题出在人物形象设置上。话剧男主欣赏男主才华所以给男主机会但又把毫无才华的儿子放在话剧中，话剧男主的儿子靠bj完成对舞台恐惧的克服此类情节注定该片剧作失败，动机永远是凭空出现又为了情节凭空消失的，没有一个鲜活的“人”能活在这个虚构过剩的世界中。三星摄影一星，题材一星，一夫两妻一星，这个题材瓦尔达的处理是妻子自杀，洪尚秀的处理是跟女友走，侯麦的处理是再加一个进来一起爱，这种妻子理解的第一次见，不愧是法国人拍的。"
+    },
+    {
+      "user": "petitchou",
+      "avatar": "https://img3.doubanio.com/icon/u4488794-10.jpg",
+      "content": "«Car c’est chose suprême d’aimer sans qu’on vous aime, t’aimer toujours quand même, d’une amour incertaine.» «Il n’y a que les petits hommes qui redoutent les petits écrits.» 对世纪末的巴黎和法国戏剧界刻画精细，露台下对答的一幕与Cyrano中的场景完美融合，展现了法语语辞之美，首演前用波莱罗配乐恰如其分地将期待的情绪推至顶点，没想到居然是契诃夫启发了最后一幕，当时最著名的喜剧作家费多也有亮相，法国人是要把大作家一个一个拍过来啊～"
+    },
+    {
+      "user": "润serena",
+      "avatar": "https://img1.doubanio.com/icon/u138984968-7.jpg",
+      "content": "19世纪的法国人可真是浪漫"
+    },
+    {
+      "user": "Normcore_e",
+      "avatar": "https://img3.doubanio.com/icon/u151655327-6.jpg",
+      "content": "4.5⭐ 开头20分钟有点无趣~后来就目不转睛了~浪漫 诙谐"
+    },
+    {
+      "user": "Floflo",
+      "avatar": "https://img3.doubanio.com/icon/u146547460-1.jpg",
+      "content": "故事背景是法国最著名的话剧大鼻子情圣诞生的过程，虽然不是真实的故事，但非常的吸引人，浪漫激情，充满诗意，充满灵感，使人不禁对十九世纪末的巴黎生出向往之情"
+    },
+    {
+      "user": "扛不住",
+      "avatar": "https://img3.doubanio.com/icon/u54910000-6.jpg",
+      "content": "看的时候不专心"
+    },
+    {
+      "user": "某帆",
+      "avatar": "https://img3.doubanio.com/icon/u157792051-2.jpg",
+      "content": "理所当然的剧情发生。"
+    },
+    {
+      "user": "Kenny",
+      "avatar": "https://img3.doubanio.com/icon/u105748579-1.jpg",
+      "content": "大鼻子情圣的历史片，看过的人都赞不绝口"
+    },
+    {
+      "user": "白小龙虾💕",
+      "avatar": "https://img3.doubanio.com/icon/u122512471-1.jpg",
+      "content": "迷人"
+    },
+    {
+      "user": "LalieMan",
+      "avatar": "https://img3.doubanio.com/icon/u65367805-2.jpg",
+      "content": "8.5。非常喜欢，也很私人的一部电影。轻松诙谐，讲大鼻子情圣的创作过程。"
+    },
+    {
+      "user": "Carus",
+      "avatar": "https://img3.doubanio.com/icon/u187673931-5.jpg",
+      "content": "[7.5/10]"
+    },
+    {
+      "user": "Law.W",
+      "avatar": "https://img3.doubanio.com/icon/u153857072-4.jpg",
+      "content": "1897年12月27日 巴黎圣马丁剧院 在第十四次谢幕之后 我们觉得让幕布敞开 演员们披着胜利的羽衣 "
+    },
+    {
+      "user": "梅林的胡子",
+      "avatar": "https://img3.doubanio.com/icon/u88246209-16.jpg",
+      "content": "看到最后觉得很感人，既是呈现在屏幕上的戏剧桥段感人，也有一部艰辛创作的戏剧经过大家努力取得四十次返场的感动。电影中的带资进组耍大牌等等现象穿插其中也真是讽刺又好笑。可怜的玛丽亚说了我最喜欢的一句话结果首映掉到了洞里。“我可以有千般模样，但我绝不是懦夫”。"
+    },
+    {
+      "user": "手可摘星辰FM",
+      "avatar": "https://img3.doubanio.com/icon/u151008522-2.jpg",
+      "content": "话唠法国电影，语速还特别快，看字幕几乎来不及看画面。镜头剪接的密不透风，情节环环相扣豪不拖拉，并且细节还巨多，那个契科夫实在太像了，哈哈。全程不仅无尿点，放个屁都怕分神！两个字，真香！"
+    },
+    {
+      "user": "v1122",
+      "avatar": "https://img3.doubanio.com/icon/u164760823-6.jpg",
+      "content": "四星半，挺让人惊喜的一部喜剧电影。"
+    },
+    {
+      "user": "硝烟墨城",
+      "avatar": "https://img3.doubanio.com/icon/u190010047-2.jpg",
+      "content": "影片很能感动人，但看时也很考验法语听力水平"
+    },
+    {
+      "user": "chestnut girl",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "美妙而動人。"
+    },
+    {
+      "user": "Creep",
+      "avatar": "https://img3.doubanio.com/icon/u119826590-2.jpg",
+      "content": "“我们都知道这部作品会流传 一百年之后人们还是会记得这个伟大的作者 虽然没有人会记得我们演过 但是做好眼前的事情” 共勉。背后故事也是真的精彩"
+    },
+    {
+      "user": "يوم",
+      "avatar": "https://img3.doubanio.com/icon/u155130486-2.jpg",
+      "content": "法国人的浪漫，淋漓尽致。"
+    },
+    {
+      "user": "荷承里",
+      "avatar": "https://img3.doubanio.com/icon/u165565734-10.jpg",
+      "content": "“持久而不确定地爱一个人，却不为人所爱，是最至高无上的事。” "
+    },
+    {
+      "user": "沃洛夫",
+      "avatar": "https://img3.doubanio.com/icon/u195143208-1.jpg",
+      "content": "看完大鼻子情圣再看这部讲述情圣的故事是如何诞生的电影的感觉实在是太爽了。作为一部喜剧电影，影片显然是有夸张的成分，仿佛冥冥之中一切都在推动作家把这出伟大的戏剧写出来，一切都是那样的水到渠成，现实中想来不会是如此。影片前面的节奏感觉跟大鼻子情圣很相似，结局很圆满，强推。"
+    },
+    {
+      "user": "纨徒思睿",
+      "avatar": "https://img3.doubanio.com/icon/u134029933-2.jpg",
+      "content": "并未看到幽默的成分，反而看到法国人浪漫而不失敬业的精神，追逐着理想跟不断的奋斗！天才有别于常人的仅仅是勤奋！"
+    },
+    {
+      "user": "Jo",
+      "avatar": "https://img3.doubanio.com/icon/u141980658-1.jpg",
+      "content": "Le vers est si joli"
+    },
+    {
+      "user": "桃子",
+      "avatar": "https://img3.doubanio.com/icon/u157941036-3.jpg",
+      "content": "我也想看一场返场四十遍的剧～"
+    },
+    {
+      "user": "游离",
+      "avatar": "https://img3.doubanio.com/icon/u127184041-5.jpg",
+      "content": "电影中话剧剧情的衔接不够出彩。"
+    },
+    {
+      "user": "胖豆丁",
+      "avatar": "https://img3.doubanio.com/icon/u197518551-3.jpg",
+      "content": "法国文化"
+    },
+    {
+      "user": "浩克",
+      "avatar": "https://img3.doubanio.com/icon/u104903420-4.jpg",
+      "content": "如此…………"
+    },
+    {
+      "user": "沉·淀",
+      "avatar": "https://img3.doubanio.com/icon/u39765623-4.jpg",
+      "content": "电影用一种戏中戏的形式，介绍了大鼻子情圣这部名作的诞生。一遍编剧一遍排练的剧情给影片增加了一定的喜剧性，但人物间关系的割裂和人物本身的单薄程度也是本片的硬伤。在平凡生活中如何保持旺盛的创作欲望，片中埃德蒙选择跟妻子坦白自己寻找缪斯的事实，及其理性的看待一切，虽然很有意思但真要按到谁身上怕是常人不可及的境界。总之，浪漫的艺术源于浪漫的生活是没错的。"
+    },
+    {
+      "user": "yingzi",
+      "avatar": "https://img3.doubanio.com/icon/u152679702-1.jpg",
+      "content": "得有点耐心，后半程有点意思"
+    },
+    {
+      "user": "宴坐",
+      "avatar": "https://img3.doubanio.com/icon/u148185921-2.jpg",
+      "content": "游刃有余！一切为了cyrano，一切为了1897年那一晚！"
+    },
+    {
+      "user": "来迟",
+      "avatar": "https://img3.doubanio.com/icon/u183410859-1.jpg",
+      "content": "浓重的法国情怀"
+    },
+    {
+      "user": "一个倔强的瓶子",
+      "avatar": "https://img3.doubanio.com/icon/u161802336-5.jpg",
+      "content": "我觉得我应该把大鼻子情圣看完再来评价"
+    },
+    {
+      "user": "爱上彼岸花",
+      "avatar": "https://img3.doubanio.com/icon/u166769568-4.jpg",
+      "content": "为了看完整部戏，我也是很拼了。前半程无聊极了，几乎弃了，演出开始后，才等来一场好戏"
+    },
+    {
+      "user": "Tiiiii",
+      "avatar": "https://img3.doubanio.com/icon/u179892574-4.jpg",
+      "content": "鱼和熊掌不可兼得 或许这就是浪漫所处吧 就是不太完美"
+    },
+    {
+      "user": "GalaxyCyrus",
+      "avatar": "https://img3.doubanio.com/icon/u145304491-1.jpg",
+      "content": "法国人太浪漫了"
+    },
+    {
+      "user": "用户nlkozmrqeb",
+      "avatar": "https://img3.doubanio.com/icon/u169267217-3.jpg",
+      "content": "剧情流畅，表演自然，情感真实，现实里还是不要找创作型的结婚，太多担心。"
+    },
+    {
+      "user": "mama",
+      "avatar": "https://img3.doubanio.com/icon/u200746338-2.jpg",
+      "content": "创作源于生活，而生活往往是最精彩的，比戏剧还要戏剧很多倍。"
+    },
+    {
+      "user": "大塘埂的大枫树",
+      "avatar": "https://img3.doubanio.com/icon/u131519369-16.jpg",
+      "content": "西方的音乐，化学，物理，科学，数学，在中国完全适应和有效，现在的中国未必有100多年前的欧洲更好，但是欧洲的种子在中国，在世界已经发芽。"
+    },
+    {
+      "user": "mob.",
+      "avatar": "https://img3.doubanio.com/icon/u171961025-6.jpg",
+      "content": "很不错了！鲜明有个性又充满意义。"
+    },
+    {
+      "user": "冰碴战士",
+      "avatar": "https://img3.doubanio.com/icon/u191103742-1.jpg",
+      "content": "在电影院看一出戏剧的诞生。恰到好处的法式幽默，色彩鲜艳的画面，触动人心的台词。戏剧的最后一幕，舞台变成了真实的布景，戏剧真正成为了电影本身。"
+    },
+    {
+      "user": "Yuki叶",
+      "avatar": "https://img3.doubanio.com/icon/u201749843-5.jpg",
+      "content": "故事情节有点问题，节奏不对"
+    },
+    {
+      "user": "Kimi",
+      "avatar": "https://img3.doubanio.com/icon/u189919832-1.jpg",
+      "content": "尽管还是有很多听不懂的地方，但是情节紧凑，是法国电影中不多的。另外，灰色调的巴黎夜景真的好美..."
+    },
+    {
+      "user": "欧阳萧夜",
+      "avatar": "https://img3.doubanio.com/icon/u47209565-2.jpg",
+      "content": "刚从UGC出来，看到观众持续鼓掌的时候，自己眼泪都出来了。"
+    },
+    {
+      "user": "chim_chim_",
+      "avatar": "https://img3.doubanio.com/icon/u182101412-1.jpg",
+      "content": "现在正在做这部电影的字幕，现在是在看第二遍。纪念Cyrano de Bergerac的电影。语言读起来非常享受。"
+    }
+  ]
+}

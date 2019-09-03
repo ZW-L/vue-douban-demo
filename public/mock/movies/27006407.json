@@ -1,0 +1,1123 @@
+{
+  "title": "红海潜水俱乐部",
+  "url": "https://movie.douban.com/subject/27006407/",
+  "rate": "6.7",
+  "id": "27006407",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564653267.jpg",
+  "info": [
+    "导演: 吉迪恩·拉夫",
+    "编剧: 吉迪恩·拉夫",
+    "主演: 克里斯·埃文斯 / 迈克尔·肯尼斯·威廉姆斯 / 本·金斯利 / 海莉·贝内特 / 米契尔·哈思曼 / 亚历桑德罗·尼沃拉 / 克里斯·乔克 / 格雷戈·金尼尔 / 阿隆娜·塔尔 / 阿历克斯·哈赛尔 / 马克·伊瓦涅 / 卡尔·桑宁 / 帕特里克·利斯特 / 韦尔·廷德尔 / 布雷特·威廉姆斯 / 菲利普·韦利 / 查德·菲利普斯 / 安东尼·奥塞耶姆 / 康纳·道兹 / 克莱顿·博伊德",
+    "类型: 剧情 / 惊悚 / 历史",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "上映日期: 2019-06-28(旧金山犹太电影节) / 2019-07-31(美国)",
+    "片长: 129分钟",
+    "又名: 红海深潜(港) / 红海深潜密援(台) / 红海救援 / 红海潜水度假村"
+  ],
+  "desc": "《红海潜水俱乐部》改编自著名的真实营救任务，讲述了一群国际特工与英勇的埃塞俄比亚人的传奇故事：在 80 年代初，他们使用苏丹的一座废弃度假别墅作为掩护，将成千上万的难民偷运到以色列。富有魅力的阿里·基德隆（克里斯·埃文斯饰演）与勇敢的当地人卡比迪·宾诺（迈克尔·肯尼斯·威廉姆斯饰演）一起领导了这次卧底任务。其他著名演职人员还包括海莉·贝内特、亚历桑德罗·尼沃拉、米契尔·哈思曼、克里斯·乔克、格雷戈·金尼尔和本·金斯利。",
+  "members": {
+    "director": {
+      "name": "吉迪恩·拉夫 Gideon Raff",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1378619823.59.jpg"
+    },
+    "cast": [
+      {
+        "name": "克里斯·埃文斯 Chris Evans",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359877729.49.jpg"
+      },
+      {
+        "name": "迈克尔·肯尼斯·威廉姆斯 Michael Kenneth Williams",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1364658612.4.jpg"
+      },
+      {
+        "name": "本·金斯利 Ben Kingsley",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1374649659.58.jpg"
+      },
+      {
+        "name": "海莉·贝内特 Haley Bennett",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8977.jpg"
+      },
+      {
+        "name": "米契尔·哈思曼 Michiel Huisman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389332003.32.jpg"
+      },
+      {
+        "name": "亚历桑德罗·尼沃拉 Alessandro Nivola",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10569.jpg"
+      },
+      {
+        "name": "克里斯·乔克 Chris Chalk",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1443816051.73.jpg"
+      },
+      {
+        "name": "格雷戈·金尼尔 Greg Kinnear",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p29420.jpg"
+      },
+      {
+        "name": "阿隆娜·塔尔 Alona Tal",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3295.jpg"
+      },
+      {
+        "name": "阿历克斯·哈赛尔 Alex Hassell",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pHOJXhM2nc1scel_avatar_uploaded1456842819.12.jpg"
+      },
+      {
+        "name": "马克·伊瓦涅 Mark Ivanir",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39789.jpg"
+      },
+      {
+        "name": "卡尔·桑宁 Karl Thaning",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530007448.33.jpg"
+      },
+      {
+        "name": "帕特里克·利斯特 Patrick Lyster",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504062126.12.jpg"
+      },
+      {
+        "name": "韦尔·廷德尔 Vere Tindale",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1546825394.4.jpg"
+      },
+      {
+        "name": "布雷特·威廉姆斯 Brett Williams",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551095648.3.jpg"
+      },
+      {
+        "name": "菲利普·韦利 Philip Waley",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535988876.42.jpg"
+      },
+      {
+        "name": "查德·菲利普斯 Chad Phillips",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551095688.62.jpg"
+      },
+      {
+        "name": "安东尼·奥塞耶姆 Anthony Oseyemi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5E1UNEs_I7Icel_avatar_uploaded1499243553.19.jpg"
+      },
+      {
+        "name": "康纳·道兹 Conner Dowds",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550400588.28.jpg"
+      },
+      {
+        "name": "克莱顿·博伊德 Clayton Boyd",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550400664.82.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2562779103.jpg?",
+        "src": "http://vt1.doubanio.com/201908311239/50a4761794e189fc45a5ff9153c95ebc/view/movie/M/402500066.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2559640979.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2564653617.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2564653611.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2565093440.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "诸葛福媛",
+      "avatar": "https://img3.doubanio.com/icon/u36523777-23.jpg",
+      "content": "明明可以拍成《逃离德黑兰》的，但最后从各方面看都非常平庸。医生小哥和海莉美女很不错。桃子宛若又演了一遍以色列队长……离开漫威之后，克里斯盾和克里斯锤都需要提升演技啊（当然，桃的态度还是蛮认真的）"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "一贯的雷声大雨点小，辜负了美队的John Wick同款扮相。"
+    },
+    {
+      "user": "对你爱不完",
+      "avatar": "https://img3.doubanio.com/icon/u140638723-1.jpg",
+      "content": "一直感觉漫威的演员想要转型挺困难的。"
+    },
+    {
+      "user": "WazupYini",
+      "avatar": "https://img1.doubanio.com/icon/u57644819-27.jpg",
+      "content": "太太太普通了 典型Netflix水准 中段有些地方的配乐一言难尽 这个故事本来可以更精彩"
+    },
+    {
+      "user": "杏仁斯嘉丽",
+      "avatar": "https://img1.doubanio.com/icon/u63440146-89.jpg",
+      "content": "又刻意又做作，节奏是真的不行，队长去到哪里都是队长。"
+    },
+    {
+      "user": "kingkongofkhan",
+      "avatar": "https://img3.doubanio.com/icon/u1080393-13.jpg",
+      "content": "美队在前伪满大人授意下重组复仇者联盟开始进行大型真人实体模拟经营+解谜+动作+潜入式游戏版《辛德勒名单》"
+    },
+    {
+      "user": "_在云端_",
+      "avatar": "https://img3.doubanio.com/icon/u44638992-3.jpg",
+      "content": "美队化身以色列队长……"
+    },
+    {
+      "user": "Piofoolkapu",
+      "avatar": "https://img3.doubanio.com/icon/u62648105-3.jpg",
+      "content": "又名《一个都不能少》/红海旅馆版《极限职业》。质感好到不像是奶飞的片子。至于剧情，既然是真实事件改编，而且CE都全裸了还要什么自行车。医生这个角色好动人5555。唯一的遗憾是难民的演员都太木了。盲猜最后能稳定在7分。"
+    },
+    {
+      "user": "魔法炼金术士",
+      "avatar": "https://img3.doubanio.com/icon/u133569910-116.jpg",
+      "content": "和阿里这种性格的人合作我可能得急死。但Chris的表演并没有把阿里透过第三者描述的性格表现出来，他看起来还是像美国队长一样成熟稳重，这个人物的性格与他所做的事，做成的事应该会有一个有趣的矛盾与博弈。史实本身是很伟大的，但营救过程本身（不知道是不是有改编）不够惊险，更没有传达充分的人道主义精神，完全像一个架空的商业片（例如开头阿里去到各个地方找他的搭档，结尾飞机与汽车的赛跑，这些都太传统了，很难想象2019了还有这种本子写出来）。"
+    },
+    {
+      "user": "寒狐传媒",
+      "avatar": "https://img3.doubanio.com/icon/u48726425-6.jpg",
+      "content": "救人一命。"
+    },
+    {
+      "user": "猪头妖怪",
+      "avatar": "https://img1.doubanio.com/icon/u2437825-49.jpg",
+      "content": "在这个题材里，实在有太多传奇般的真实素材。结果到头来，就搞出这么一个充斥着脸谱化角色的陈词滥调的故事。岂止是失望可以形容。"
+    },
+    {
+      "user": "优游卒岁",
+      "avatar": "https://img3.doubanio.com/icon/u2429292-2.jpg",
+      "content": "一段真实的历史，黑人犹太人的出埃及记。发生在世界偏僻国度的一个救援故事，有些拖沓，但整体还不错"
+    },
+    {
+      "user": "天D行者",
+      "avatar": "https://img1.doubanio.com/icon/u1795295-9.jpg",
+      "content": "一部拍得比较中规中矩的救援片，不过还是值得一看。多年前去过红海、苏丹，对那里的环境、景色、人都有一些接触和感受，看这部电影多少还能回味一下那个地方。片中的故事偏于纪录片性质，紧张度不够，主要人物之间也不来电，欠缺一些味道。不过，对了解当时这段历史还是有些帮助的。"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "政治正确的产物"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "改编自真实的救援任务，讲述一群国际特工帮助一批又一批的难民偷渡到以色列的故事。\n阿里是一个正直的人，所以他绝不放弃任何一个人，宁愿被开除也不袖手旁观。\n但他也并非完全伟光正，比如他也会贿赂官员。\n而且他不是直接说他要贿赂对方，而且拐弯抹角地暗示对方，非常聪明。\n不仅节约了钱，还笼络了人心，一举两得。\n事实证明正直是不够的，如果没有贿赂官员，就没有后来的官员保释他们。\n另一个有趣的地方是他们本来只是把红海潜水俱乐部作为掩护，没想到却有真正的客人来了。\n他们本以为客人会影响他们的行动，然而正是因为有客人才使得阿哈默德没有把他们关起来，正是有客人才让行动更加顺利。\n塞翁失马，焉知非福？\n为什么困难再多，危险再大，他们也绝不放弃？\n因为我们坚持做一件事不是因为这样做会有效果，而是因为这样做是对的。"
+    },
+    {
+      "user": "蒙莎",
+      "avatar": "https://img1.doubanio.com/icon/u1557889-18.jpg",
+      "content": "美队四之非洲救人记"
+    },
+    {
+      "user": "老顾",
+      "avatar": "https://img3.doubanio.com/icon/u171231778-1.jpg",
+      "content": "2019年根据真实故事改编，Netflix势头真猛，本片卡司很强大，美队新造型沧桑感十足👍"
+    },
+    {
+      "user": "Later",
+      "avatar": "https://img3.doubanio.com/icon/u49994457-32.jpg",
+      "content": "虽然发型糟心 但CE仍然是我的人间水蜜桃 还猝不及防看到龙母哪一任来着他的屁股 我的天想看桃的美国翘臀好吧！！其实和小赖聊过以色列和犹太人的问题来着 记得那次讨论得很不愉快 本质很多观点都不一样"
+    },
+    {
+      "user": "黑翼群狼",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "美国队长全裸出镜，但全片无感情戏无床戏，加一星"
+    },
+    {
+      "user": "老金的小迷弟",
+      "avatar": "https://img3.doubanio.com/icon/u186103602-12.jpg",
+      "content": "改编自历史上的真实救援故事，由一个以色列特工贾德希姆隆（Gad Shimron）与他的小队共同执行的“Operation Brothers”计划，在1980年代成功从非洲东北部的苏丹营救出埃塞俄比亚犹太人，在1981至1984年这四年的期间，总共救出多达1万2千多人。\n本片没有激烈的枪战和狂轰乱炸，导演在氛围上拿捏的很准，整部片子很工整，但是有的地方的配乐真的不喜欢，在这种救援的题材里本作并不是很优秀，还有很大的进步空间。"
+    },
+    {
+      "user": "窥窗桃枝",
+      "avatar": "https://img3.doubanio.com/icon/u3497932-44.jpg",
+      "content": "真实事件改编的话，人道主义精神当然是值得肯定的。其余就算了吧，唯一看点是CE的肉体。"
+    },
+    {
+      "user": "浮影人生",
+      "avatar": "https://img3.doubanio.com/icon/u2946082-4.jpg",
+      "content": "https://movie.douban.com/subject/34779763/"
+    },
+    {
+      "user": "打电话给阿德",
+      "avatar": "https://img3.doubanio.com/icon/u49692519-12.jpg",
+      "content": "中规中矩又无聊 大营救拍的居然如此流水账 "
+    },
+    {
+      "user": "Bolero",
+      "avatar": "https://img3.doubanio.com/icon/u148166700-4.jpg",
+      "content": "是符合克里斯桃个人兴趣的选片，改编自真实事件、难民热点还有清楚直观的正邪对立，一切都很有现实意义，但如果我想了解这次救援任务为什么不直接去看相关纪录片呢？整体还是网飞电影的平庸套路，各角色都没立起来，只有克里斯说的台词做的事有正义之师的仪态表现（而且瞧瞧这台词，举几个例子：We leave no one behind啦，If we don't do this, nobody will啦，角色基础还是建立在演员的代表角色的特点上了）所以如果桃想要跳出固定角色框架的话，可以多演一些坏人反派，越坏越好，越多越好，虽然一脸正气但是演恶人不是更出乎意料吗？"
+    },
+    {
+      "user": "布一葵",
+      "avatar": "https://img3.doubanio.com/icon/u3852679-63.jpg",
+      "content": "原型故事本身挺有意思的，但为了主旋律和商业化，太流于表面了。如果故事是这样的，一个男人一次次强迫性地把自己置身于陷境挽救难民，不仅仅因为道义，更因为他无法面对儿时作为难民的妈妈为救他而牺牲的事实，他无法心安理得地过正常的生活，内心的愧疚一次次驱使他回到灾难的起点，仿佛只有这样他才能心安理得的活着，最后，当他完成了救赎，他会坦然地面对自己的生命，不再被内心的愧疚所折磨，也能面对母亲了。把主题放在人物的情结上，会比“一个都不能少”这种政治正确式的大空话打动人得多。"
+    },
+    {
+      "user": "蒙奇D",
+      "avatar": "https://img3.doubanio.com/icon/u53550852-1.jpg",
+      "content": "非常轻松的片名，异常严肃的故事。上世纪八十年代，以色列情报机构为营救被困在苏丹的埃塞俄比亚犹太人想了很多办法，都不太成功。艾里·奇德隆开创性地用度假村作掩护，打开了将这些埃塞俄比亚犹太人送到以色列的道路。不过军人当政的苏丹并不太平，艾里·奇德隆虽然极具冒险精神和勇气，但也极其固执，听不进其他营救成员的建议，所以在度假村掩护下的最后一次营救任务遇到了空前的难题。这部电影改编自真实的故事，以色列的救援过程长达几年，被营救的埃塞俄比亚犹太人多达数千人。营救的过程充满勇气和智慧，可以用伟大来形容这个行动。可惜电影拍得实在是有点平平无奇，除了克里斯·埃文斯演的艾里·奇德隆和断指的医生，其他角色刻画也不够形象。"
+    },
+    {
+      "user": "蔕",
+      "avatar": "https://img3.doubanio.com/icon/u52458935-51.jpg",
+      "content": "东拼西凑各种桥段和人物，剧本烂、人物苍白、表演模式化，这就是一组低廉的流水化作业，“改编自真实事件”，全片唯一有格调的一句话。用快餐方式组装电影，网飞目标很明确"
+    },
+    {
+      "user": "湖边の许愿树",
+      "avatar": "https://img3.doubanio.com/icon/u2076497-5.jpg",
+      "content": "实在是过于工整了，没想到《黑鹰坠落》18年后对非洲反派的塑造反而更加单薄。反派立不起来，戏剧冲突就完全来自于一次又一次的jump scare般的偷袭，而估计连导演也觉得单调所以硬加的小队内讧依然云里雾里，差Argo太多了。但依然向真实事件真实英雄致敬！PS：女主全程看成蕾雅·赛杜……"
+    },
+    {
+      "user": "Zcc911",
+      "avatar": "https://img3.doubanio.com/icon/u1312428-21.jpg",
+      "content": "The.Red.Sea.Diving.Resort.2019.INTERNAL.1080p.WEB.x264-STRiFE"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u1236291-798.jpg",
+      "content": "隐约记得很久以前说什么故事“拍得像美国大片”还算是种称赞，这个以色列故事拍得却像适用于美国和任何假想敌的故事一样通用而无味。情节四平八稳只好强行制造矛盾冲突，显得非常智障和没道理。试图把“难民”的概念扩散一下也没什么说服力。"
+    },
+    {
+      "user": "解夏。",
+      "avatar": "https://img3.doubanio.com/icon/u45080512-1.jpg",
+      "content": "很好的题材，拍得流于俗套了"
+    },
+    {
+      "user": "今天吃什么",
+      "avatar": "https://img3.doubanio.com/icon/u1213777-36.jpg",
+      "content": "基于真实故事改编的影视作品，基本都是稳中求胜嘛，不一定都是枪战如林那么刺激，只是拍出来让大众了解曾经的历史。这样的事件整体就是一个简单直接的目的，也不能添加更多的悬疑激烈的色彩，想起另外一部《逃离德黑兰》也是如此，现在作为观众来看曾经发生的这些事，能够比较轻松看完，但是只有真正经历过的人才知道在那样的环境下是有多么的紧张，命都搭在里面了。"
+    },
+    {
+      "user": "胜利十一人",
+      "avatar": "https://img3.doubanio.com/icon/u72882574-6.jpg",
+      "content": "6.5/10，剧本张力不够人物苍白浪费题材"
+    },
+    {
+      "user": "牛奶很忙",
+      "avatar": "https://img3.doubanio.com/icon/u67679988-4.jpg",
+      "content": "拍的太无聊了真的 除了医生以外都太烂了"
+    },
+    {
+      "user": "lord5180",
+      "avatar": "https://img3.doubanio.com/icon/u2284217-25.jpg",
+      "content": "美国队长下岗再就业"
+    },
+    {
+      "user": "De Ajacied",
+      "avatar": "https://img3.doubanio.com/icon/u2331114-201.jpg",
+      "content": "原來不是Op. Moses，是Op. Brothers。要不是這個電影都不知道還有這個Op. 再怎麼改編Mossad腦殘粉一樣吃。片尾的歷史真實照片視頻配上Idan Raichel的歌又燃又煽情（Captain America變身Captain Israel也一樣迷人！（美國演員沒演過Mossad agent大概就跟英國演員沒演過Harry Potter系列一樣的感受吧…"
+    },
+    {
+      "user": "Valuska",
+      "avatar": "https://img1.doubanio.com/icon/u106841991-7.jpg",
+      "content": "4.5/10 灾难级的演技，克里斯埃文斯离美国吴京不远了"
+    },
+    {
+      "user": "李湘",
+      "avatar": "https://img3.doubanio.com/icon/u2055364-24.jpg",
+      "content": "有点儿平淡。"
+    },
+    {
+      "user": "[未注销]",
+      "avatar": "https://img3.doubanio.com/icon/u76046276-5.jpg",
+      "content": "美国队长外传、半透人前史"
+    },
+    {
+      "user": "iee",
+      "avatar": "https://img3.doubanio.com/icon/u66865753-12.jpg",
+      "content": "确实一般，但真实事件改编还是不错的，还有长发的猕猴桃很性感"
+    },
+    {
+      "user": "葛攀",
+      "avatar": "https://img1.doubanio.com/icon/u3987852-17.jpg",
+      "content": "看上去挺紧张的故事拍得略平淡了，看了好几次才看完"
+    },
+    {
+      "user": "喵吉拉",
+      "avatar": "https://img3.doubanio.com/icon/u64930370-2.jpg",
+      "content": "我队又全裸了？十分钟内我要拿到这部片的全部资料！///看过的分割线 没错是摩萨德能干出来的事，也是CE会接的片。拍得有点浪费好题材。倒不是嫌不够紧脏刺激，这本来就是一个在日常场景掩护下的行动项目，没有高科技没有枪战动作。如果能好好拍一群特工认真经营酒店，认真做导游教潜水，不是会更有趣么，开创日常特工片新类型！现实中这酒店后期实现盈利了，犹太人NB！摩萨德真是特工届宝藏啊，搞事情想象力执行力一流。"
+    },
+    {
+      "user": "承泽明",
+      "avatar": "https://img3.doubanio.com/icon/u4075446-144.jpg",
+      "content": "题材不错，但拍得缺乏惊喜。"
+    },
+    {
+      "user": "秀山鲤鱼",
+      "avatar": "https://img3.doubanio.com/icon/u128265644-3.jpg",
+      "content": "勉强7分吧，挺惊心动魄的题材拍的太平了，比较不错的网大。"
+    },
+    {
+      "user": "芬芬达",
+      "avatar": "https://img3.doubanio.com/icon/u95431438-1.jpg",
+      "content": "头一次觉得现实比电影更刺激，电影走了个流程，忽略的情感，也不紧张。。。"
+    },
+    {
+      "user": "HKA",
+      "avatar": "https://img3.doubanio.com/icon/u50632185-5.jpg",
+      "content": "剧情简单，美队嗯，一次尝试"
+    },
+    {
+      "user": "徐晚晚",
+      "avatar": "https://img3.doubanio.com/icon/u2359174-15.jpg",
+      "content": "这个类型里只能说argo是一座难以翻越的高山，但一想是真实发生过的打分又不得不手软"
+    },
+    {
+      "user": "一日看尽长安花",
+      "avatar": "https://img3.doubanio.com/icon/u65233303-5.jpg",
+      "content": "。"
+    },
+    {
+      "user": "Eowyn",
+      "avatar": "https://img3.doubanio.com/icon/u67958578-12.jpg",
+      "content": "剧本太平庸了"
+    },
+    {
+      "user": "☀黑熊熊",
+      "avatar": "https://img3.doubanio.com/icon/u156045469-2.jpg",
+      "content": "《红海潜水俱乐部》改编自著名的真实营救任务，讲述了一群国际特工与英勇的埃塞俄比亚人的传奇故事。国内内战不断，生灵涂炭是一件很恐怖的事情，在非洲一直被排挤的埃塞俄人遭受迫害，数千人犹太人丧命，数百万人受伤，总要有这样一个敢作敢为的人，是所有难民的希望。电影不仅仅是复刻了历史事件，更将人性的美好的一面展露出来，这种人性无关种族、无关性别、无关肤色、无关一切。这正是这部电影的魅力！"
+    },
+    {
+      "user": "雷斯特雷波",
+      "avatar": "https://img3.doubanio.com/icon/u2902039-1.jpg",
+      "content": "女主好赞~~~"
+    },
+    {
+      "user": "海德",
+      "avatar": "https://img3.doubanio.com/icon/u29398353-50.jpg",
+      "content": "拍的好像新闻片啊……where‘s your story"
+    },
+    {
+      "user": "ego",
+      "avatar": "https://img1.doubanio.com/icon/u59299056-107.jpg",
+      "content": "整体平庸，没什么亮点，比同类型的逃离德黑兰差多了。"
+    },
+    {
+      "user": "吃鱼爱好者",
+      "avatar": "https://img3.doubanio.com/icon/u68020726-5.jpg",
+      "content": "7/10 。\"leave no one behind.\"片尾曲意外的好听。"
+    },
+    {
+      "user": "梦之安魂曲",
+      "avatar": "https://img3.doubanio.com/icon/u6249660-6.jpg",
+      "content": "没有高潮，没有亮点。桃总演的还是很像美队。"
+    },
+    {
+      "user": "老苞米",
+      "avatar": "https://img3.doubanio.com/icon/u30168684-4.jpg",
+      "content": "看完本片认为主角没有遇到太多实质性的危胁，黑叔叔的枪口抬高了得有一尺。"
+    },
+    {
+      "user": "不姨妈的大白色",
+      "avatar": "https://img1.doubanio.com/icon/u56492985-7.jpg",
+      "content": "在当时能够幸存下来就是幸运的。拍的是真的很一般，共情不够也是拍的很不咋的锅了…"
+    },
+    {
+      "user": "天之行者",
+      "avatar": "https://img3.doubanio.com/icon/u128847916-5.jpg",
+      "content": "整体平庸，没有表现出剧情张力、甚至在关键事刻也称不上紧张，角色上主演虽然有5个人但没有深入探讨他们，令人投射不到感情下去（他们甚至比不上仅出现少许时间的Kabede）。「Netflix电影」继续其数十部才出一部真的好看的状况。"
+    },
+    {
+      "user": "小唧唧",
+      "avatar": "https://img1.doubanio.com/icon/u53706260-8.jpg",
+      "content": "美队再就业版红海行动？"
+    },
+    {
+      "user": "acinom",
+      "avatar": "https://img3.doubanio.com/icon/u173994419-6.jpg",
+      "content": "网飞还真擅长出三方国界和红海这种无聊的类型片 克里斯埃文斯演什么角色还真全都是一个样"
+    },
+    {
+      "user": "赵澍澍",
+      "avatar": "https://img1.doubanio.com/icon/u49095018-28.jpg",
+      "content": "美队的领导力基本上和绿大暗一样，全靠吼"
+    },
+    {
+      "user": "prince bowie",
+      "avatar": "https://img3.doubanio.com/icon/u60486561-5.jpg",
+      "content": "3.5，不知怎的现在除了看漫威DC大片  其他什么片子都提不起兴趣  就像吃过重庆火锅再吃别的山珍海味都寡然无味一样 可能和感官阈值有关"
+    },
+    {
+      "user": "Chigurh",
+      "avatar": "https://img1.doubanio.com/icon/u15859503-8.jpg",
+      "content": "本片演员阵容强大，故事情节跌宕起伏，是一部很吸引人的惊悚片，但电影视觉感和内容的方向引导性却不强。"
+    },
+    {
+      "user": "Leeyowon",
+      "avatar": "https://img3.doubanio.com/icon/u169540314-6.jpg",
+      "content": "无功无过的电影，套路，平庸，一段惊心动魄的历史看得我打瞌睡。"
+    },
+    {
+      "user": "理绪",
+      "avatar": "https://img1.doubanio.com/icon/u54141112-9.jpg",
+      "content": "非常无趣的叙事。"
+    },
+    {
+      "user": "发条大丑橘",
+      "avatar": "https://img3.doubanio.com/icon/u74036190-11.jpg",
+      "content": "虽然真实事件改编，但任务难度和惊险程度都只流于表面，很多所谓的“危机事件”都太突兀且缺乏新意。对标《逃离德黑兰》，全方位都逊色很多。"
+    },
+    {
+      "user": "lgowen",
+      "avatar": "https://img3.doubanio.com/icon/u87502780-15.jpg",
+      "content": "影片取材于真实故事。这个真实的故事本身可能就比小说更精彩，更吸引人。而影片的卡斯阵容也相当重量级。既有队长埃文斯，又有老牌影帝本·金斯利。但是电影本身却拍的不温不火，温温吞吞。如果把本片视为纪录片，则显得情节不够连贯清晰。如果视为商业片，则完全不够火爆，不够惊险刺激。中庸之作吧。"
+    },
+    {
+      "user": "kitty62888",
+      "avatar": "https://img3.doubanio.com/icon/u73110105-2.jpg",
+      "content": "有人的地方就有旅行团"
+    },
+    {
+      "user": "DreamD.",
+      "avatar": "https://img3.doubanio.com/icon/u3686739-6.jpg",
+      "content": "因为推特上的一些争议找来瞅瞅，结论是不推荐观看，拼凑之作平平无奇"
+    },
+    {
+      "user": "kooperl",
+      "avatar": "https://img3.doubanio.com/icon/u45390521-4.jpg",
+      "content": "以色列只救犹太人，美队演啥都是美队。"
+    },
+    {
+      "user": "seren",
+      "avatar": "https://img1.doubanio.com/icon/u1016278-17.jpg",
+      "content": "好题材拍烂了"
+    },
+    {
+      "user": "janes",
+      "avatar": "https://img3.doubanio.com/icon/u4741622-425.jpg",
+      "content": "倒是不至于难看，就是不那么吸引人"
+    },
+    {
+      "user": "billymccaw",
+      "avatar": "https://img1.doubanio.com/icon/u45928842-8.jpg",
+      "content": "太长了，枯燥而平淡"
+    },
+    {
+      "user": "风之龙",
+      "avatar": "https://img3.doubanio.com/icon/u67758784-2.jpg",
+      "content": "改编自真实事件，但节奏太缓慢和凌乱，用手机看还可以选择快进，如果在电影院看，估计很多人会看着看着就睡着了。"
+    },
+    {
+      "user": "HuYuwee",
+      "avatar": "https://img3.doubanio.com/icon/u60911277-41.jpg",
+      "content": "以色列摩萨德勇闯火药桶苏丹，拯救同为犹太人的埃塞俄比亚难民兄弟的历史真实事件改编。感慨 Netflix又出好片了，不是英雄主义高大全、虽然 Chris Evans的角色有一点点美国大兵的影子，但整体还是还原不错的，历史上人性闪耀的时刻，值得一看"
+    },
+    {
+      "user": "Marvin的表妹",
+      "avatar": "https://img3.doubanio.com/icon/u14280836-22.jpg",
+      "content": "在世人都唱着We are the World的时候，只有以色列真正付诸行动，不惜财力和生命的代价，派出他们最精英的摩萨德和特种部队，真正去解救了他们在非洲漂泊的犹太兄弟姐妹，最后这群埃裔犹太人，在以色列人的搀扶下踏上以色列的国土，亲吻地面，有了自己的国家，不再被赶尽杀绝流离失所，终于要见到他们祖祖辈辈日思夜想两千年的耶路撒冷，也是感动的落泪… 看过许多关于摩萨德的片，不论是万里缉拿纳粹、有仇必报的行动、还是去解救全世界的犹太族人，为了复国，他们从不逆来顺受，在这片野蛮的土地上以暴制暴，这是他们复国的战略。另外Chris还是美队，放假去摩萨德玩了两年，Omar回了趟非洲老家，把主角魅力分一大半都给了美队。"
+    },
+    {
+      "user": "shoon",
+      "avatar": "https://img1.doubanio.com/icon/u56815850-9.jpg",
+      "content": "合着是以色列整得，咋又变成老美拯救世界了。"
+    },
+    {
+      "user": "RUNE",
+      "avatar": "https://img1.doubanio.com/icon/u152799682-38.jpg",
+      "content": "一般般，没有发掘出题材本身该有的尖锐度。"
+    },
+    {
+      "user": "快乐时代",
+      "avatar": "https://img3.doubanio.com/icon/u79605736-2.jpg",
+      "content": "忍者大师有《辛德勒的名单》蝙蝠侠有《逃离德黑兰》战争机器有《卢旺达饭店》美队有《红海潜水俱乐部》这年头超级英雄也要下基层体察民情"
+    },
+    {
+      "user": "飞机师的风衣",
+      "avatar": "https://img3.doubanio.com/icon/u43771540-82.jpg",
+      "content": "难民真的是看客··全程群众演员，看白色以色列扮演上帝~~~"
+    },
+    {
+      "user": "老板死机了",
+      "avatar": "https://img3.doubanio.com/icon/u66130179-1.jpg",
+      "content": "烂"
+    },
+    {
+      "user": "荒原困兔",
+      "avatar": "https://img3.doubanio.com/icon/u66409658-25.jpg",
+      "content": "感觉电影还没真实故事好看啊，这么一个传奇的故事拍的比较平淡平庸，还是看结尾处的真实记录照片更有感觉"
+    },
+    {
+      "user": "joy",
+      "avatar": "https://img3.doubanio.com/icon/u1174148-1.jpg",
+      "content": "看简介很惊险，承受重大压力之下完全长期营救中转，可惜电影没有拍出该有的气氛"
+    },
+    {
+      "user": "西塔",
+      "avatar": "https://img3.doubanio.com/icon/u56905427-4.jpg",
+      "content": "本来挺惊心动魄的救援能拍到这样平平常常没有紧张感也是……厉害……"
+    },
+    {
+      "user": "抖啊抖",
+      "avatar": "https://img3.doubanio.com/icon/u1075009-11.jpg",
+      "content": "心疼🥝 能不能接部好片"
+    },
+    {
+      "user": "橱窗外的大怪兽",
+      "avatar": "https://img3.doubanio.com/icon/u92751567-6.jpg",
+      "content": "挺难看的"
+    },
+    {
+      "user": "CMGS",
+      "avatar": "https://img3.doubanio.com/icon/u2527632-13.jpg",
+      "content": "本来一个逃离德黑兰拍成了一个平铺直叙的传记片…你搞这么多牛逼的特工有啥用真是……"
+    },
+    {
+      "user": "叶子落下来",
+      "avatar": "https://img3.doubanio.com/icon/u3360809-2.jpg",
+      "content": "不够燃"
+    },
+    {
+      "user": "qkdummy",
+      "avatar": "https://img3.doubanio.com/icon/u2311508-4.jpg",
+      "content": "单纯的人道和民族角度，这些行动无可厚非而伟大，但之后的政治意义就难说了。"
+    },
+    {
+      "user": "今日上映",
+      "avatar": "https://img3.doubanio.com/icon/u1166776-16.jpg",
+      "content": "可以拍的更好"
+    },
+    {
+      "user": "非常道电影",
+      "avatar": "https://img1.doubanio.com/icon/u47171710-9.jpg",
+      "content": "美帝网大"
+    },
+    {
+      "user": "安能事权贵",
+      "avatar": "https://img3.doubanio.com/icon/u2681853-2.jpg",
+      "content": "很平庸的一部片子，以色列在解决自己同袍的同时又在成百倍的制造阿拉伯难民，使得电影的主题显得那么的伪善！"
+    },
+    {
+      "user": "北风",
+      "avatar": "https://img3.doubanio.com/icon/u1068125-12.jpg",
+      "content": "本子还不是很成熟，人物刻画和故事线都不是太清晰，一个人权高于主权的案例吧，肆无忌惮侵犯别国海空领域，还为了占据道德制高点，所以只好生编一个从动机上来看根本站不住脚的反派。虽然整体上还是用了好莱坞宣传的那一套，那并不算多么高明的手段，最后，拯救黑色犹太人，其实更像是证明和说服甚至是拯救自己。所以本身也谈不上太无私。"
+    },
+    {
+      "user": "rain",
+      "avatar": "https://img3.doubanio.com/icon/u49197596-1.jpg",
+      "content": "以色列犹太版的一个也不能少 从埃塞俄比亚通过敌对国苏丹一个废弃的度假村偷运数万难民前往以色列的故事 真实故事自带澎湃力量 虽然可看性一般 "
+    },
+    {
+      "user": "son沐风",
+      "avatar": "https://img1.doubanio.com/icon/u150837958-7.jpg",
+      "content": "一般般的水准，美国队长退休后无聊的拯救难民生活～"
+    },
+    {
+      "user": "赠饮天下人",
+      "avatar": "https://img3.doubanio.com/icon/u54356096-4.jpg",
+      "content": "平庸之作吗，乏善可陈，明明题材可以的"
+    },
+    {
+      "user": "Electric Sheep",
+      "avatar": "https://img1.doubanio.com/icon/u162672445-29.jpg",
+      "content": "美国战狼，一些好莱坞电影的常见桥段处理的很糙，家庭线烂俗无意义。开旅馆和人物性格刻画都不及同类型的极限职业。2.5"
+    },
+    {
+      "user": "夜舞",
+      "avatar": "https://img3.doubanio.com/icon/u35224934-5.jpg",
+      "content": "一般，过于脸谱化了一些"
+    },
+    {
+      "user": "纸佬",
+      "avatar": "https://img3.doubanio.com/icon/u1719577-13.jpg",
+      "content": "平庸到无处下口……网飞钱多没地方撒么"
+    },
+    {
+      "user": "别盯着我看Le",
+      "avatar": "https://img3.doubanio.com/icon/u43652685-2.jpg",
+      "content": "救人一命胜造七级浮屠，他们救了6000多人。"
+    },
+    {
+      "user": "新西兰的程序员",
+      "avatar": "https://img3.doubanio.com/icon/u135396561-4.jpg",
+      "content": "如果走出一个深入人心的角色?\n留胡子。\n然而还是没啥用"
+    },
+    {
+      "user": "行至水穷处",
+      "avatar": "https://img3.doubanio.com/icon/u98251109-2.jpg",
+      "content": "2星+；披着宗教慈善外衣的蛇头闹剧；挺好的演员，挺好的故事，终于成功导演出了一坨翔。"
+    },
+    {
+      "user": "昆廷马泰尔扑该",
+      "avatar": "https://img1.doubanio.com/icon/u45277708-19.jpg",
+      "content": "3.5  比预期好看  maybe因为我滤镜厚？"
+    },
+    {
+      "user": "Stiles",
+      "avatar": "https://img3.doubanio.com/icon/u177394808-14.jpg",
+      "content": "太久没看到令人惊喜的真事改编电影了，桃总转型仍需努力。"
+    },
+    {
+      "user": "发霉的墙头草",
+      "avatar": "https://img3.doubanio.com/icon/u143647750-3.jpg",
+      "content": "也就那样吧，有一股浓浓的政治任务包袱感"
+    },
+    {
+      "user": "火柴",
+      "avatar": "https://img1.doubanio.com/icon/u43610952-8.jpg",
+      "content": "以色列队长"
+    },
+    {
+      "user": "孟孟～",
+      "avatar": "https://img3.doubanio.com/icon/u81998298-4.jpg",
+      "content": "一般一般，实在是太一般了，属于Netflix一贯水准。挺好的本子，挺好的演员，却完全没有拍出紧张刺激感，一切如流水账一般，展现了故事而已。两星半。"
+    },
+    {
+      "user": "Long Black",
+      "avatar": "https://img3.doubanio.com/icon/u45504126-15.jpg",
+      "content": "美国版 红海行动"
+    },
+    {
+      "user": "Hoxier",
+      "avatar": "https://img3.doubanio.com/icon/u16718270-12.jpg",
+      "content": "美队的身材哟......这个片子真的是根据真实事件改编？从头到尾都充满了【可以，但没必要】的意味。"
+    },
+    {
+      "user": "四点",
+      "avatar": "https://img3.doubanio.com/icon/u167996192-2.jpg",
+      "content": "其实我还挺喜欢这个戏的简单单薄  尤其是杀人放火方面的  毕竟杀人放火就是那么简单   哪有那么多百转千回"
+    },
+    {
+      "user": "Puff",
+      "avatar": "https://img3.doubanio.com/icon/u185084570-5.jpg",
+      "content": "3.5/5 隊長改行當以色列隊長，拯救在衣索比亞的猶太難民同胞，劇情簡單，中規中矩，不過至少劇情完整，以Netflix近期的原創電影品質來說這部已有中間水準，唯獨收尾草率些，算是低質版Argo。克里斯伊凡、麥可俞斯曼、海莉班奈特、班金斯利，不少我認識的卡司加盟，的確滿賞心悅目的，尤其是許久不見的海莉班奈特，雖然因為生小孩的關係已逐漸淡出演藝圈，不過至少在懷孕之前還有一部這樣的作品，整部片看她看的很爽。"
+    },
+    {
+      "user": "不老的李大爷耶",
+      "avatar": "https://img3.doubanio.com/icon/u63422177-5.jpg",
+      "content": "CE在不接演美队之后如果想转型，就应该少接一些这样的角色"
+    },
+    {
+      "user": "马背上的水手",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "真实事件改编，没有出色的表现，没有惊喜，不过涨知识了。\n1.才知道有黑人犹太人；\n2.以色列确实曾秘密从非洲撤离黑人犹太人。"
+    },
+    {
+      "user": "安又",
+      "avatar": "https://img3.doubanio.com/icon/u161735514-6.jpg",
+      "content": "电影比想象的要棒，ce这个角色实在是太像队长了，那种固执劲儿，简直正义到理想主义。看到leave no one behind的时候感动得不行，这就是那个说出我们不拿生命做交换的cap啊，突然觉得弥补了复4结局角色的崩坏。ce看来是真的很喜欢这种角色，可能自己也是内心深处理想正义又浪漫的人吧。"
+    },
+    {
+      "user": "虞多",
+      "avatar": "https://img3.doubanio.com/icon/u44014859-52.jpg",
+      "content": "卖肉的美队"
+    },
+    {
+      "user": "tiny_tracy",
+      "avatar": "https://img3.doubanio.com/icon/u56271409-3.jpg",
+      "content": "中规中矩"
+    },
+    {
+      "user": "Superbia",
+      "avatar": "https://img3.doubanio.com/icon/u152072392-3.jpg",
+      "content": "比较平庸，其实作为一个商业片重点应该是在“红海潜水俱乐部”而不是在难民身上，否则的话和联合国宣传片有什么区别呢"
+    },
+    {
+      "user": "Lilianne。",
+      "avatar": "https://img3.doubanio.com/icon/u4284029-2.jpg",
+      "content": "3.5"
+    },
+    {
+      "user": "艾睿思",
+      "avatar": "https://img3.doubanio.com/icon/u1054378-12.jpg",
+      "content": "以色列摩萨德勇闯火药桶苏丹，拯救同为犹太人的埃塞俄比亚难民兄弟的历史真实事件改编。感慨Netflix又出好片了，不是英雄主义高大全、虽然Chris Evans的角色有一点点美国大兵的影子，但整体还是还原不错的，历史上人性闪耀的时刻，值得一看"
+    },
+    {
+      "user": "低端无价值XC",
+      "avatar": "https://img3.doubanio.com/icon/u42442041-51.jpg",
+      "content": "这特么还好意思叫改编 写实程度和半夜鸡叫差不多"
+    },
+    {
+      "user": "大癫",
+      "avatar": "https://img1.doubanio.com/icon/u64466997-7.jpg",
+      "content": "太剧作范式"
+    },
+    {
+      "user": "圈圈圆圆圈圈",
+      "avatar": "https://img3.doubanio.com/icon/u146823481-3.jpg",
+      "content": "还行"
+    },
+    {
+      "user": "春暖花开",
+      "avatar": "https://img3.doubanio.com/icon/u51260713-24.jpg",
+      "content": "美队=成熟稳重老大哥、其他队员角色出彩的场景不多，一个真实的好故事，被拍的平平无奇"
+    },
+    {
+      "user": "三少福气而且贵",
+      "avatar": "https://img1.doubanio.com/icon/u1200610-19.jpg",
+      "content": "远不如报姐故事来的精彩"
+    },
+    {
+      "user": "needrun",
+      "avatar": "https://img3.doubanio.com/icon/u3939599-5.jpg",
+      "content": "这些黑色犹太人 现在在以色列也成了受歧视的群体 "
+    },
+    {
+      "user": "lovejaeho",
+      "avatar": "https://img3.doubanio.com/icon/u77074010-6.jpg",
+      "content": "明明可以拍成史诗大片，结果却是平庸的小格局商业片，好莱坞已经写不出好剧本了吗？（谁能 想象出这样一个现代摩西的故事里居然没有出现一句圣经？！）不过CE的裸体加一星吧~（大笑）"
+    },
+    {
+      "user": "隐身的牛头人",
+      "avatar": "https://img3.doubanio.com/icon/u52722463-4.jpg",
+      "content": "这还真是美队版《一个都不能少》啊"
+    },
+    {
+      "user": "LeePace",
+      "avatar": "https://img1.doubanio.com/icon/u95017002-8.jpg",
+      "content": "原本的真实故事是一个很棒的题材，也是先看了科普才发现有这部电影，但电影所呈现的却少了很多感觉，很难让观众感受到真实故事中特工的勇敢，反而又在另一个地方看见“美国队长”。"
+    },
+    {
+      "user": "HeartlessTree",
+      "avatar": "https://img3.doubanio.com/icon/u28313080-14.jpg",
+      "content": "个人感觉这个剧本问题有点大。“根据事实改编”不是叫你“按着事实拍纪录片”。这毕竟还是电影作品。三颗星全给我亲爱的克里斯埃文斯先生。"
+    },
+    {
+      "user": "大灰",
+      "avatar": "https://img3.doubanio.com/icon/u2356573-42.jpg",
+      "content": "片子的质感让我感觉是十几年前的电影。救人一命胜造七级浮屠。喜欢这类片子的可以去看：逃离德黑兰，拍得更紧张，也是真实事件改编"
+    },
+    {
+      "user": "veronica",
+      "avatar": "https://img3.doubanio.com/icon/u2175764-3.jpg",
+      "content": "人性的光辉"
+    },
+    {
+      "user": "Glen",
+      "avatar": "https://img3.doubanio.com/icon/u3463381-3.jpg",
+      "content": "电影平淡，故事精彩。"
+    },
+    {
+      "user": "五斗先生",
+      "avatar": "https://img3.doubanio.com/icon/u1197506-3.jpg",
+      "content": "真实的事件可能就是如此。。。。。"
+    },
+    {
+      "user": "天野鸣人_Hank",
+      "avatar": "https://img1.doubanio.com/icon/u122361892-18.jpg",
+      "content": "真实事件改编，这事件其实可以拍的更紧张，更紧凑，更传奇点儿，可惜整部都太平了，以一个潜水俱乐部为幌子暗中转移了那么多难民本来就很传奇，奈何剧本在没有交代清楚男主为何如此执着，一个都不能少，甚至没交代清楚男主的身份的情况下，前期期用去了大量时间，真正利用俱乐部和如何在正常接待游客又暗中转移移民时又一笔带过，只有贝壳组成的顾客满意的牌子的数量变化和半首歌的时间正常营业和游客打成一片就解决了，其实这块应该是重点讲述的（毕竟片名）美队依然拯救着受难的人们，医生那个角色留给我的印象最深，反衬的五人组其它角色沦为工具人，前期那么努力的组队，应该每个人都是特殊的，结果就突出了男主和医生，再加上难民的群众演员除了主要演员，其它表现实在太木，本来挺不错的题材和阵容沦为了网飞普通电影水平，有点可惜"
+    },
+    {
+      "user": "落地麦子",
+      "avatar": "https://img3.doubanio.com/icon/u45151899-4.jpg",
+      "content": "看完电影对以色列这个国家越发崇敬了。豆瓣评分低估了。"
+    },
+    {
+      "user": "沙场点指兵兵",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "摩萨德在苏丹的红海边上经营了一家潜水俱乐部，引渡从埃塞俄比亚逃离至此的犹太难民去往以色列。中规中矩，但以色列这种不放弃一个同胞，也不饶恕一个凶手的行为仍能让人动容。★★★☆"
+    },
+    {
+      "user": "霹雳闪电大魔王",
+      "avatar": "https://img3.doubanio.com/icon/u2285824-16.jpg",
+      "content": "三天有氧分段看完，感觉节奏真的好慢。"
+    },
+    {
+      "user": "发条橙",
+      "avatar": "https://img3.doubanio.com/icon/u169721244-4.jpg",
+      "content": "假扮雷锋侠的人找到啦！难民，一个也不能少！有一说一，美国队长这个形象注定要禁锢克里斯·埃文斯一辈子了，这毛茸茸的猕猴桃，简直和复联3无缝衔接，太跳戏了。"
+    },
+    {
+      "user": "张豆奶",
+      "avatar": "https://img3.doubanio.com/icon/u47917142-2.jpg",
+      "content": "..."
+    },
+    {
+      "user": "ariella",
+      "avatar": "https://img3.doubanio.com/icon/u3287454-4.jpg",
+      "content": "刺激的题材拍得索然无味"
+    },
+    {
+      "user": "wlh8964",
+      "avatar": "https://img3.doubanio.com/icon/u58096573-1.jpg",
+      "content": "喜歡猶太民族，靠譜—— 一個都不丟下。"
+    },
+    {
+      "user": "本来不吃素",
+      "avatar": "https://img3.doubanio.com/icon/u41083928-2.jpg",
+      "content": "老实说 有点平淡 最后飞机飞走还算惊心动魄 其他的 不觉得很特别 老实说 剧本一般 浪费了好莱坞的资源 灯光效果非常好莱坞 冲突对立也很通俗普通 就这么回事吧 没事消遣一下的话 还不错吧"
+    },
+    {
+      "user": "亲切的貞子",
+      "avatar": "https://img3.doubanio.com/icon/u153259132-2.jpg",
+      "content": "会不会太棒了/极限职业/逃离德黑兰/空中撤离/卢旺达大饭店/海报丑的不像话"
+    },
+    {
+      "user": "明眸断水",
+      "avatar": "https://img3.doubanio.com/icon/u15342214-4.jpg",
+      "content": "应该是以色列主旋律片吧，感觉还不错"
+    },
+    {
+      "user": "buzzerbeater",
+      "avatar": "https://img1.doubanio.com/icon/u49882814-7.jpg",
+      "content": "一部不存在高潮的电影。哪个队长来都没用。"
+    },
+    {
+      "user": "阳刚少女",
+      "avatar": "https://img3.doubanio.com/icon/u3217439-33.jpg",
+      "content": "犹太版《一个也不能少》，这么惊险的主题拍得这么平淡啊。||CE真的需要转型了，队长式英雄已经快要审美疲劳了。||这种风格大概是美式伟光正吧。"
+    },
+    {
+      "user": "蘇呼吗",
+      "avatar": "https://img3.doubanio.com/icon/u2958263-15.jpg",
+      "content": "真正不抛弃不放弃"
+    },
+    {
+      "user": "最长的电影",
+      "avatar": "https://img3.doubanio.com/icon/u94251416-4.jpg",
+      "content": "别打飞机了，行吗？"
+    },
+    {
+      "user": "WinnieShou",
+      "avatar": "https://img3.doubanio.com/icon/u61150462-4.jpg",
+      "content": "对于CE个人来说，用和“美队”类型相同却真实厚重的人物作为转型起点，是稳妥且成功的；对于全片而言，似乎在纪录片般的忠于史实和流水线式的商业套路中摇摆不定，片段之间跳脱明显。但毕竟只是网飞专供，就不要拿院线水准去要求了。PS. 所以男人也怕比啊…看权游感觉Daario超正的，跟桃总一同框果然就路人了~PPS. 歪打正着，竟然在七夕夜看完"
+    },
+    {
+      "user": "我是Nuinui",
+      "avatar": "https://img3.doubanio.com/icon/u47193126-4.jpg",
+      "content": "整体还是中规中矩的，在经营旅店的部分还有些轻喜剧的感觉，但没能成为这部电影的特色。"
+    },
+    {
+      "user": "火炬冰激凌",
+      "avatar": "https://img3.doubanio.com/icon/u59538557-2.jpg",
+      "content": "感觉一般般吧，没什么深度"
+    },
+    {
+      "user": "ssandsimba",
+      "avatar": "https://img1.doubanio.com/icon/u66157101-8.jpg",
+      "content": "CE各种露肉，还全裸潜水！！（我当然是很喜闻乐见的），但如果想要转型，不是应该避免这种类型？而且片子又臭又长，人物设置单薄，拼凑感十足，连紧张感都没有还敢标注惊悚的tag？实在是浪费了那么好的“真实故事改编。”😀真真厌倦了网飞的流水线。"
+    },
+    {
+      "user": "飞少",
+      "avatar": "https://img3.doubanio.com/icon/u47120121-5.jpg",
+      "content": "美队伪装旅馆进行难民大营救，带点紧张刺激，只是拍的有点赶。"
+    },
+    {
+      "user": "Davina",
+      "avatar": "https://img3.doubanio.com/icon/u195966838-1.jpg",
+      "content": "我覺得很好看很精彩啊 真實故事 比起非洲難民 我們幸福多了 "
+    },
+    {
+      "user": "noiseinside",
+      "avatar": "https://img3.doubanio.com/icon/u1040819-5.jpg",
+      "content": "原故事多精彩拍成这么一个美国人帮助全世界弱势群体大逃离的假大空，能不能不要歪曲历史夹带私货？！"
+    },
+    {
+      "user": "阿司匹林",
+      "avatar": "https://img3.doubanio.com/icon/u62877248-3.jpg",
+      "content": "美国队长的番外片吧"
+    },
+    {
+      "user": "麦子",
+      "avatar": "https://img3.doubanio.com/icon/u2730487-4.jpg",
+      "content": "没有写实剧应有的卡斯，反倒像纪录片的死气沉沉"
+    },
+    {
+      "user": "zhwho",
+      "avatar": "https://img3.doubanio.com/icon/u47479797-5.jpg",
+      "content": "五个人的团队，除了美队，其它人的作用并没有特别凸显。让人感觉他们成功的背后，运气的成分更大一些，而现实中的那些危险与挑战并没有体现出来。所以整体上十分无趣。"
+    },
+    {
+      "user": "DarkBanshee",
+      "avatar": "https://img3.doubanio.com/icon/u59385122-1.jpg",
+      "content": "还可以，一般般，值得没事看看。话说那位，你要看的纪录片有美队么？"
+    },
+    {
+      "user": "Mr.bean",
+      "avatar": "https://img3.doubanio.com/icon/u149561237-4.jpg",
+      "content": "It just not good enough "
+    },
+    {
+      "user": "llawliet",
+      "avatar": "https://img3.doubanio.com/icon/u54080562-5.jpg",
+      "content": "3.5 It has members of stars to play. Inspired by remarkable true life rescue mission, this is the incredible story of a group of Massad agents and Ethiopians who in early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. It’s hard to say this is a pretty adaption. FD-III"
+    },
+    {
+      "user": "哎哎哎累",
+      "avatar": "https://img3.doubanio.com/icon/u62194443-10.jpg",
+      "content": "CE的粉丝来看一下吧"
+    },
+    {
+      "user": "Walfie的粉夹克",
+      "avatar": "https://img3.doubanio.com/icon/u127520497-2.jpg",
+      "content": "感觉要比正常Netflix电影好一些。桃咂！"
+    },
+    {
+      "user": "纤纤",
+      "avatar": "https://img3.doubanio.com/icon/u158629236-1.jpg",
+      "content": "不如简介精彩，但是也还可以看，演员有让人出戏的估计是别的角色太深入人心了。"
+    },
+    {
+      "user": "张猫大",
+      "avatar": "https://img3.doubanio.com/icon/u154610251-3.jpg",
+      "content": "很好的故事，少不了夸张的成分吧，但还是被安慰到了。\n确实是冲着桃子来看的，但电影本身就很棒。"
+    },
+    {
+      "user": "AALO",
+      "avatar": "https://img3.doubanio.com/icon/u1401761-3.jpg",
+      "content": "流水账"
+    },
+    {
+      "user": "胡闹天后",
+      "avatar": "https://img1.doubanio.com/icon/u92196607-8.jpg",
+      "content": "哎…………"
+    },
+    {
+      "user": "APRIIICOT",
+      "avatar": "https://img3.doubanio.com/icon/u150248707-20.jpg",
+      "content": "something i wouldn't watch if it weren't for cevans but ok"
+    },
+    {
+      "user": "我叫小机灵",
+      "avatar": "https://img1.doubanio.com/icon/u50383552-29.jpg",
+      "content": "多一🌟给真实故事本身，片子拍的比较一般，真实故事更给人触动"
+    },
+    {
+      "user": "Dave",
+      "avatar": "https://img3.doubanio.com/icon/u1226474-30.jpg",
+      "content": "太一般了"
+    },
+    {
+      "user": "适者口珍",
+      "avatar": "https://img3.doubanio.com/icon/u176414980-2.jpg",
+      "content": "二流的动作片恐怖片尚且能捞一笔票钱，二流的剧情片就缺乏吸引力了\n这部电影里的非洲犹太裔简直是…作为被拯救的对象，他们存在的作用就是被拯救，用来当主角伟光正的背景，毫无主观能动性可言，全片就是弯腰跑跑跑或者安静的坐着，远远看上去好似一群牛羊！"
+    },
+    {
+      "user": "swallowtail",
+      "avatar": "https://img1.doubanio.com/icon/u1131892-9.jpg",
+      "content": "编剧真的不太行"
+    },
+    {
+      "user": "幽蓝纯白",
+      "avatar": "https://img3.doubanio.com/icon/u2416784-1.jpg",
+      "content": "没想象那么差。CE如果把胡子刮了，还能再多0.5分。😂"
+    },
+    {
+      "user": "Lanist3r",
+      "avatar": "https://img3.doubanio.com/icon/u141421715-1.jpg",
+      "content": "哇哦"
+    },
+    {
+      "user": "东散",
+      "avatar": "https://img3.doubanio.com/icon/u1782474-3.jpg",
+      "content": "以色列政府对同胞不离不弃，摩萨德对兄弟姐妹不离不弃。花大力气从俄塞俄比亚接回几千黑人同族后，然后这帮黑人在以色列受到歧视，妇女被注射长期避孕针分发长期避孕药，导致生育率降低了60%……"
+    },
+    {
+      "user": "半糖冰茶",
+      "avatar": "https://img1.doubanio.com/icon/u2234049-8.jpg",
+      "content": "Chris Evans的角色真是延续了美队“只见树木不见森林”的价值观 以至于我都搞不清楚这是角色人设还是他自己了"
+    },
+    {
+      "user": "大洋洲",
+      "avatar": "https://img3.doubanio.com/icon/u130004835-22.jpg",
+      "content": "美队在复联3后不仅跑去满大人手下工作，还去中东地区出了趟外勤，狮盾(粉圈为这个造型起的昵称，其实是因为造型原因才好玩梗)即使在暗处也是深得民心啊。算是应有尽有的那种群像传记片了，紧张刺激、分秒必争地展开异国救援行动和伟光正的人道主义关怀，就是过程有点长，想要面面俱到就会这样不考虑观众感受啦。"
+    },
+    {
+      "user": "谁在嘲讽我",
+      "avatar": "https://img3.doubanio.com/icon/u162631219-2.jpg",
+      "content": "因为美队加了一分。\n最近经常看历史事件还原剧，美国队长组建了拯救者联盟。估计埃文斯好久不健身了，肌肉掉了好多。"
+    },
+    {
+      "user": "Yvonne雁",
+      "avatar": "https://img1.doubanio.com/icon/u3610014-8.jpg",
+      "content": "真的是，大好题材，历史上多赞，拍的如此平淡"
+    },
+    {
+      "user": "Archer",
+      "avatar": "https://img1.doubanio.com/icon/u4220912-47.jpg",
+      "content": "Jerusalem topic always fascinated me. Also Africa. "
+    },
+    {
+      "user": "梁亮亮",
+      "avatar": "https://img3.doubanio.com/icon/u35183052-120.jpg",
+      "content": "因为一直想去红海潜水注意到这部片子，真好又是美队出演。美队片中大卖肉全裸潜水，另一个潜水教练身材似乎比美队更好惹。你把拯救他们当做你的命，他们却为了保命出卖了你。来非洲近半年，加上在墨尔本遭遇的黑人，反正，他们让我觉得一直被歧视不无道理，哎。"
+    },
+    {
+      "user": "炉火",
+      "avatar": "https://img1.doubanio.com/icon/u9124581-8.jpg",
+      "content": "真实事件的传奇伟大超过电影。"
+    },
+    {
+      "user": "阿拉贝斯克",
+      "avatar": "https://img1.doubanio.com/icon/u49496009-8.jpg",
+      "content": "评论里拿这片和逃离德黑兰比要求也太高了……要是能拍成逃离德黑兰那就不是在Netflix播出而是上大银幕了"
+    },
+    {
+      "user": "苏打囝囝",
+      "avatar": "https://img3.doubanio.com/icon/u47289557-2.jpg",
+      "content": "通过这样一部电影去了解一段历史，这两个小时也是值得了。（表白我美队）"
+    },
+    {
+      "user": "萬桂妃",
+      "avatar": "https://img3.doubanio.com/icon/u158554938-5.jpg",
+      "content": "平庸了"
+    },
+    {
+      "user": "星际尘埃",
+      "avatar": "https://img3.doubanio.com/icon/u46910960-2.jpg",
+      "content": "信仰为坚，要不有什么理由坚持下去呢？追飞机那段紧张。不能参战，只能受气！"
+    },
+    {
+      "user": "富员外",
+      "avatar": "https://img3.doubanio.com/icon/u87602683-3.jpg",
+      "content": "故事是好故事，就是拍的太套路化"
+    },
+    {
+      "user": "天雷滚滚二师兄",
+      "avatar": "https://img1.doubanio.com/icon/u3922372-8.jpg",
+      "content": "虽然是真实事件改编，但这部片子只做到了讲了个故事却让观众全程内心毫无波澜甚至有点像放弃…每个人物都只有职能没有特点，开篇没有对背景和动机的铺垫就用了两个小时往外救人，所以全程没有代入感，更没有惊心动魄的营救过程，明明英雄的角色都变得无脑又莽撞了，好失望的片子…"
+    },
+    {
+      "user": "重生七仔",
+      "avatar": "https://img3.doubanio.com/icon/u173898117-1.jpg",
+      "content": "那么精彩的故事，拍成这么个烂玩意"
+    },
+    {
+      "user": "硕爷",
+      "avatar": "https://img3.doubanio.com/icon/u57583046-5.jpg",
+      "content": "若不是真实改编，我真觉得没必要凑齐这五个人，大家真心都没啥超能可言……想尽办法救人，开车乘船搭飞机，快递公司不赞助可惜了……反派演技特别好，难民们则毫无表情，群演费用没给够……有美队和暴鸦团长（龙妈P友）这两个大胡子漂亮男人裸体，不给高分没道理，当然，这裸体跟救难民没半毛钱关系……正能量没毛病～"
+    },
+    {
+      "user": "丙十二耗叔",
+      "avatar": "https://img3.doubanio.com/icon/u156004679-1.jpg",
+      "content": "其实所谓特工生涯未必就是电影里的打打杀杀，但危险系数高这倒是真的~"
+    },
+    {
+      "user": "梁颂华",
+      "avatar": "https://img1.doubanio.com/icon/u50407987-28.jpg",
+      "content": "把事件完完整整地讲出来了，也没什么大毛病，但就是难以让人印象深刻，满屏都印着平庸两个字，十分Netflix的一部电影。Chris Evans很帅很潇洒，也看得出他很想摆脱美国队长这一个角色的捆绑，但在这部片的发挥还是略显一般。三星。"
+    },
+    {
+      "user": "如果你是龍也好",
+      "avatar": "https://img3.doubanio.com/icon/u48579617-21.jpg",
+      "content": "普通，不过比前段时间网飞接连出品的粪作略好吧，然而就跟埃文斯的演技一样普通。"
+    },
+    {
+      "user": "发呆鱼",
+      "avatar": "https://img3.doubanio.com/icon/u62379540-1.jpg",
+      "content": "在笔记本上看的，虽然130分钟，但是扣人心弦，女主好迷人，不过黑人的劣根性，加上进入别国领空...说实话真不知道 感觉有点太政治正确了"
+    },
+    {
+      "user": "RRRRX",
+      "avatar": "https://img1.doubanio.com/icon/u46473989-158.jpg",
+      "content": "大概看了一个月吧。。没周末去健身房练cardio的时候看一点儿。。丝毫没有想在家看的意愿😂😂😂"
+    },
+    {
+      "user": "涡轮增压阿拉蕾",
+      "avatar": "https://img3.doubanio.com/icon/u152732776-2.jpg",
+      "content": "“队长”拯救非洲难民的故事！"
+    },
+    {
+      "user": "什么为什么",
+      "avatar": "https://img3.doubanio.com/icon/u75365387-3.jpg",
+      "content": "和三方世界一样无聊 拙劣演技演什么都是一样的美国队长 故事是好故事 就是拍出来一无是处"
+    },
+    {
+      "user": "汉尼拔萝卜青菜",
+      "avatar": "https://img3.doubanio.com/icon/u155764027-4.jpg",
+      "content": "即使有美队裸体，我还是看困了…"
+    },
+    {
+      "user": "Louis",
+      "avatar": "https://img3.doubanio.com/icon/u4134812-1.jpg",
+      "content": "值得称颂的真实事件。"
+    },
+    {
+      "user": "楼上的石头",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "拍的浮于表面，只能说传记的性质吧。犹太人到底是按什么来区分的，怎么还有黑犹太人？"
+    }
+  ]
+}

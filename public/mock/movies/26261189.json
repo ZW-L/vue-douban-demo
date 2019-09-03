@@ -1,0 +1,950 @@
+{
+  "title": "异地母子情",
+  "url": "https://movie.douban.com/subject/26261189/",
+  "rate": "6.6",
+  "id": "26261189",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2562107493.jpg",
+  "info": [
+    "导演: 辛迪·翠派克",
+    "编剧: 辛迪·翠派克 / 马克·安德勒斯 ",
+    "主演: 安吉拉·贝塞特 / 帕特丽夏·阿奎特 / 杰克·莱西 / 菲丽西提·霍夫曼 / 艾米莉·特里梅因 / 马里奥·坎通 / 海蒂·加德纳 / 莫莉·伯纳德 / 杰克·霍夫曼 / 弗兰克·德·胡里奥 / 凯特·伊斯顿 / 辛奎·沃尔斯 / Dan Puck / Ron Maestri",
+    "类型: 喜剧",
+    "制片国家/地区: 英国 / 美国",
+    "语言: 英语",
+    "上映日期: 2019-08-02(美国)",
+    "片长: 100分钟",
+    "又名: 空巢之旅(台) / 母乜关系(港) / Whatever Makes You Happy"
+  ],
+  "desc": "对于空巢老人来说，让孩子长大和与他们疏远又有什么区别呢？在今年的母亲节，感到被孩子们冷落、遗忘的几个老友卡罗尔（安吉拉·贝塞特饰演）、吉莉安（帕特丽夏·阿奎特饰演）和海伦（菲丽西提·霍夫曼饰演）决定前往纽约，与成年的儿子们重塑关系，在这过程中，她们意识到需要改变生活的人不仅仅是自己的儿子。这段旅程变成了一段重新发现之旅，让这些女性重新定义了与孩子、朋友、配偶的关系，最重要的是，重新定义与自己的关系。《异地母子情》探索了已为人母女性深沉的爱、欢乐以及真实生活，由辛迪·翠派克（《欲望都市》）担任编剧和导演。",
+  "members": {
+    "director": {
+      "name": "辛迪·翠派克 Cindy Chupack",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566214492.24.jpg"
+    },
+    "cast": [
+      {
+        "name": "安吉拉·贝塞特 Angela Bassett",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1520816028.44.jpg"
+      },
+      {
+        "name": "帕特丽夏·阿奎特 Patricia Arquette",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1556685712.59.jpg"
+      },
+      {
+        "name": "杰克·莱西 Jake Lacy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456410660.06.jpg"
+      },
+      {
+        "name": "菲丽西提·霍夫曼 Felicity Huffman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34656.jpg"
+      },
+      {
+        "name": "艾米莉·特里梅因 Emily Tremaine",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6qbXzLBFezUcel_avatar_uploaded1390369016.44.jpg"
+      },
+      {
+        "name": "马里奥·坎通 Mario Cantone",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38032.jpg"
+      },
+      {
+        "name": "海蒂·加德纳 Heidi Gardner",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531114743.15.jpg"
+      },
+      {
+        "name": "莫莉·伯纳德 Molly Bernard",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pIR4130PQm5wcel_avatar_uploaded1457890959.07.jpg"
+      },
+      {
+        "name": "杰克·霍夫曼 Jake Hoffman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27251.jpg"
+      },
+      {
+        "name": "弗兰克·德·胡里奥 Frank De Julio",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1364053119.72.jpg"
+      },
+      {
+        "name": "凯特·伊斯顿 Kate Easton",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508821383.11.jpg"
+      },
+      {
+        "name": "辛奎·沃尔斯 Sinqua Walls",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550410288.19.jpg"
+      },
+      {
+        "name": "Ron Maestri",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548841188.71.jpg"
+      },
+      {
+        "name": "艾莉森·珍妮 Allison Janney",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1411307204.54.jpg"
+      },
+      {
+        "name": "斯蒂芬·阿梅尔 Stephen Amell",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1352540287.48.jpg"
+      },
+      {
+        "name": "苏珊·萨兰登 Susan Sarandon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1417.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2562059453.jpg?",
+        "src": "http://vt1.doubanio.com/201908311235/59ea4832edb985e320275c25bc1178c0/view/movie/M/402490856.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2564812020.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2562107493.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "七姐Claudia",
+      "avatar": "https://img3.doubanio.com/icon/u21771687-3.jpg",
+      "content": "谁说网飞拍不了好电影？！这部50+中老年妈妈的精彩人生故事和毕生闺蜜情简直是中国中老年女演员最想接那种题材，我已经开始脑补陈冲 斯琴高娃 巩俐来演了。对于现阶段的我来说这部片子更是意义非凡。"
+    },
+    {
+      "user": "图图",
+      "avatar": "https://img3.doubanio.com/icon/u3482644-61.jpg",
+      "content": "算是近期网飞拍得最好的片儿了吧"
+    },
+    {
+      "user": "yhtacshy",
+      "avatar": "https://img3.doubanio.com/icon/u145893688-36.jpg",
+      "content": "希望我老了也能像她們這麽嗨 \nAngela真的一點也不顯老已經61歲了看著像四十多歲一樣 "
+    },
+    {
+      "user": "黄信滚",
+      "avatar": "https://img3.doubanio.com/icon/u1424002-31.jpg",
+      "content": "一部千万不能给我妈看到的电影，所有被千夫所指教科书级干涉小孩不认可小孩的传统妈妈手段都 magically work out. It's a lovely movie to watch but life doesn't work like that."
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "你老妈…那可真是你老妈"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "长大的孩子泼出去的水，各有各的生活，了解是最好的粘合剂。"
+    },
+    {
+      "user": "dyalikedags",
+      "avatar": "https://img3.doubanio.com/icon/u37608497-32.jpg",
+      "content": "开头很俗气熬过去就好了"
+    },
+    {
+      "user": "解夏。",
+      "avatar": "https://img3.doubanio.com/icon/u45080512-1.jpg",
+      "content": "题材、剧情、演员都非常好，但是配乐、镜头、制作，就是网飞一贯的大电影味道，有点遗憾"
+    },
+    {
+      "user": "优游卒岁",
+      "avatar": "https://img3.doubanio.com/icon/u2429292-2.jpg",
+      "content": "两代人之间的关系，一代人与一代人之间都有着不同的世界观，有着不同的处世方式，这是一种无法调和的矛盾，代代如此，无法消除，只能相互适应。"
+    },
+    {
+      "user": "kiki204629",
+      "avatar": "https://img3.doubanio.com/icon/u1849663-13.jpg",
+      "content": "家庭喜剧。倍速看完"
+    },
+    {
+      "user": "毛毛毛男",
+      "avatar": "https://img3.doubanio.com/icon/u51997514-100.jpg",
+      "content": "成年人们的童话故事啊，一切都很美好。《异地母子情》让我想起另外一部同类型的电影《天伦之旅》，也是很感人。"
+    },
+    {
+      "user": "李小猫",
+      "avatar": "https://img3.doubanio.com/icon/u5363818-2.jpg",
+      "content": "Motherhood, that sinking feeling that as your child's growing up, that u r being broken up with on a gradual but daily basis, that's inhumane waterboarding. This is your life, this big bruised bloody beautiful thing is your life. I'm not going to tell you what to do. You've been under the water for a long time. When you come up, u need to decide what life u want. You taught me there is room in every story for a better ending."
+    },
+    {
+      "user": "基瑞尔",
+      "avatar": "https://img1.doubanio.com/icon/u57783734-258.jpg",
+      "content": "三个演母亲角色演绎到炉火纯青合伙搞的小项目，“一同衰老”“姐妹相守”的设定有些老套，但还是足够温暖轻松的。惊喜是Jake Lacy演了gay，满足了小心愿。然后想到Felicity姨以后的路有点难走和唏嘘，就再加一颗星吧。"
+    },
+    {
+      "user": "海芋",
+      "avatar": "https://img3.doubanio.com/icon/u145506949-1.jpg",
+      "content": "孩子长大了总想远离父母，不想自己的母亲过多的干预自己的生活。其实母亲也一样的，孩子长大了，你真应该可以过自己的生活了，作为一个女人而活着。"
+    },
+    {
+      "user": "Nightingale",
+      "avatar": "https://img3.doubanio.com/icon/u59018976-4.jpg",
+      "content": "(M)otherhood,三对母子关系重拾，为了“女性”的主题强忍看完开着破车的资产阶级和强行加戏不同族裔、性取向的情景剧"
+    },
+    {
+      "user": "Schwartz_man",
+      "avatar": "https://img3.doubanio.com/icon/u72224486-93.jpg",
+      "content": "美国好莱坞的一大怪，直男扮演弯。中年空巢老妈找子记。3大母亲主演估计是赚个快钱，才去了网飞。网飞电影，10部里9部烂。"
+    },
+    {
+      "user": "千里草",
+      "avatar": "https://img1.doubanio.com/icon/u1840240-17.jpg",
+      "content": "三个妈妈好美啊。虽然是母亲节的献礼片觉得，但母亲的光芒应该更耀眼。有点俗套又有点局限。但看的开心。"
+    },
+    {
+      "user": "3E重工",
+      "avatar": "https://img3.doubanio.com/icon/u1443953-4.jpg",
+      "content": "嗯。。。方便面電影。"
+    },
+    {
+      "user": "amor27",
+      "avatar": "https://img1.doubanio.com/icon/u2432492-8.jpg",
+      "content": "netflix最近难得自制电影好看的"
+    },
+    {
+      "user": "CathShero",
+      "avatar": "https://img3.doubanio.com/icon/u25314137-12.jpg",
+      "content": "这片子为什么不赶在母亲节前后播出呢？"
+    },
+    {
+      "user": "Leeyowon",
+      "avatar": "https://img3.doubanio.com/icon/u169540314-6.jpg",
+      "content": "一同衰老”“姐妹相守”的设定有些老套，但还是足够温暖轻松的。惊喜是Jake Lacy演了gay，满足了小心愿。"
+    },
+    {
+      "user": "Fan要坚强",
+      "avatar": "https://img1.doubanio.com/icon/u1380428-39.jpg",
+      "content": "绝对不能推荐给mother-in-law系列"
+    },
+    {
+      "user": "下雨天",
+      "avatar": "https://img3.doubanio.com/icon/u119399741-4.jpg",
+      "content": "看着看着睡着了，片荒没办法"
+    },
+    {
+      "user": "电影院同学",
+      "avatar": "https://img3.doubanio.com/icon/u3143599-35.jpg",
+      "content": "Black don't crack."
+    },
+    {
+      "user": "陈夏天",
+      "avatar": "https://img3.doubanio.com/icon/u6011617-13.jpg",
+      "content": "不太行"
+    },
+    {
+      "user": "夜舞",
+      "avatar": "https://img3.doubanio.com/icon/u35224934-5.jpg",
+      "content": "略无聊"
+    },
+    {
+      "user": "疯婆子颠三倒四",
+      "avatar": "https://img3.doubanio.com/icon/u39234011-2.jpg",
+      "content": "简简单单的故事就很好。"
+    },
+    {
+      "user": "跃",
+      "avatar": "https://img3.doubanio.com/icon/u92764034-5.jpg",
+      "content": "很不错的表现美国家庭的疏离，这也是全世界存在的问题。不过这几个妈妈都太年轻漂亮了吧"
+    },
+    {
+      "user": "ztztzt8888",
+      "avatar": "https://img3.doubanio.com/icon/u1774465-2.jpg",
+      "content": "额~~~~~ 喜欢老女人絮絮叨叨的剧，什么“sex and city”啊，什么“desperate housewives”啊，可惜这剧虽然是这类型，就是无聊得很"
+    },
+    {
+      "user": "Hoxier",
+      "avatar": "https://img3.doubanio.com/icon/u16718270-12.jpg",
+      "content": "译名真的是笑死我，网飞最近狂推所以来看看。是有点可爱的家庭清水母子bonding剧，讲的是离开家的孩子们有点忘记其实老妈也是有点酷的，也曾经是美丽而跋扈女孩子得故事。除了Jullie还是Judy跟All Balls的编辑有点牵强之外没什么剧情硬伤，但是还是比较普通，三星半。"
+    },
+    {
+      "user": "Eric·要回家",
+      "avatar": "https://img3.doubanio.com/icon/u1088776-4.jpg",
+      "content": "最近好喜欢看这种夕阳红的电影，感觉自己老年降至，需要提前准备"
+    },
+    {
+      "user": "北美短腿长颈鹿",
+      "avatar": "https://img3.doubanio.com/icon/u2874500-10.jpg",
+      "content": "好概念，拍的很中庸"
+    },
+    {
+      "user": "Cong",
+      "avatar": "https://img3.doubanio.com/icon/u2077364-52.jpg",
+      "content": "妈妈们也要有自己的生活啊。喜欢最后母子开放坦诚的沟通。"
+    },
+    {
+      "user": "Cc影儿",
+      "avatar": "https://img3.doubanio.com/icon/u186430136-3.jpg",
+      "content": "三个妈妈好美啊。虽然是母亲节的献礼片觉得，但母亲的光芒应该更耀眼。有点俗套又有点局限。但看的开心。"
+    },
+    {
+      "user": "顾得儿白",
+      "avatar": "https://img3.doubanio.com/icon/u3716291-44.jpg",
+      "content": "先是Amy Poehler带领一群comedy geniuses搞出来一个莫名其妙的wine country，接着是这三位的otherhood...几个女人一台戏的电影不是中年危机的放飞之旅就是婆婆妈妈的家长里短。"
+    },
+    {
+      "user": "大大大大宝™",
+      "avatar": "https://img3.doubanio.com/icon/u2799535-843.jpg",
+      "content": "下班一个人吃晚餐时最好的无脑调剂"
+    },
+    {
+      "user": "George Carlin",
+      "avatar": "https://img1.doubanio.com/icon/u28810449-8.jpg",
+      "content": "多年难得的好片。好莱坞真是断崖式堕落。女主角是《绝望主妇》里的林奈特，今年年初还经历了为孩子进耶鲁，贿赂曲棍球教练丑闻，一身戏骨。"
+    },
+    {
+      "user": "柒柒吖",
+      "avatar": "https://img3.doubanio.com/icon/u183890948-5.jpg",
+      "content": "对于空巢老人来说，让孩子长大和与他们疏远又有什么区别呢？"
+    },
+    {
+      "user": "倪湛舸",
+      "avatar": "https://img3.doubanio.com/icon/u10686358-164.jpg",
+      "content": "我看剧的任务是做我妈的网飞人肉筛选机，这片我妈一定爱看。"
+    },
+    {
+      "user": "AKayla",
+      "avatar": "https://img3.doubanio.com/icon/u180264109-23.jpg",
+      "content": "我操这个片儿最牛逼的可能还是黑麻麻的胸肌（我操真的太牛逼了）和欲望都市女的线条分明的手臂和超好看的发型和品位。。。太牛逼了"
+    },
+    {
+      "user": "阿伦",
+      "avatar": "https://img1.doubanio.com/icon/u1548352-67.jpg",
+      "content": "挺少见的中老年富婆母亲大闹纽约的故事"
+    },
+    {
+      "user": "Mandy",
+      "avatar": "https://img3.doubanio.com/icon/u2857982-1.jpg",
+      "content": "劈腿女得到原谅有点毁三观"
+    },
+    {
+      "user": "麦子",
+      "avatar": "https://img3.doubanio.com/icon/u2730487-4.jpg",
+      "content": "再次证明自己有几个死党挚友是多么重要，孩子都是渐行渐远走他们自己的路了"
+    },
+    {
+      "user": "纤纤",
+      "avatar": "https://img3.doubanio.com/icon/u158629236-1.jpg",
+      "content": "还可以，都有同个世界的育儿问题，也都学会先找自己的问题，长辈毕竟还是长辈。"
+    },
+    {
+      "user": "SoundofSilence",
+      "avatar": "https://img3.doubanio.com/icon/u1022517-5.jpg",
+      "content": "一地鸡毛之后是重新找回"
+    },
+    {
+      "user": "大洋洲",
+      "avatar": "https://img3.doubanio.com/icon/u130004835-22.jpg",
+      "content": "三个女人一台戏么？No,就是部各过各的生活的慢半拍家庭喜剧，简言之，干瘪乏味。"
+    },
+    {
+      "user": "猩猩",
+      "avatar": "https://img3.doubanio.com/icon/u47631997-2.jpg",
+      "content": "三星半吧。剧情还是有点老套，结尾写得太潦草，但演技都挺到位的角色也都很可爱！才不会说是为了Heidi才看的Heidi真的好棒23333"
+    },
+    {
+      "user": "2cwIthOUt.myIs",
+      "avatar": "https://img3.doubanio.com/icon/u87734215-11.jpg",
+      "content": "【6.5】移植剧本到大陆吧 再过几年姚晨海清接一下"
+    },
+    {
+      "user": "Takanashi",
+      "avatar": "https://img3.doubanio.com/icon/u68974529-32.jpg",
+      "content": "真是再也没有《在云端》这种直指人心又轻松愉快的喜剧了"
+    },
+    {
+      "user": "吃碟的盒子",
+      "avatar": "https://img1.doubanio.com/icon/u37535656-18.jpg",
+      "content": "演技？？"
+    },
+    {
+      "user": "Kiko墩墩美少女",
+      "avatar": "https://img3.doubanio.com/icon/u128344801-3.jpg",
+      "content": "🌈卡司真的太爱了……但是剧情emmm一言难尽……母子之间的矛盾表达的不清不楚 最后问题也并没有解决...然鹅奏直奔结尾欢乐一家人了？？？"
+    },
+    {
+      "user": "劈叉",
+      "avatar": "https://img3.doubanio.com/icon/u57931932-4.jpg",
+      "content": "could've ended at 2:35"
+    },
+    {
+      "user": "Meredith王",
+      "avatar": "https://img1.doubanio.com/icon/u99788267-9.jpg",
+      "content": "这应该是网飞最近唯一能看的电影了"
+    },
+    {
+      "user": "墨兰",
+      "avatar": "https://img3.doubanio.com/icon/u182836027-1.jpg",
+      "content": "一般"
+    },
+    {
+      "user": "HOW",
+      "avatar": "https://img3.doubanio.com/icon/u83188680-11.jpg",
+      "content": "有那么一扣扣真情实感动人的地方。"
+    },
+    {
+      "user": "Sisaltarello",
+      "avatar": "https://img3.doubanio.com/icon/u2785783-40.jpg",
+      "content": "Motherhood, that sinking feeling that as your child’s growing up that you’re being broken up with on a gradual but daily basis."
+    },
+    {
+      "user": "张小宁",
+      "avatar": "https://img3.doubanio.com/icon/u28310885-32.jpg",
+      "content": "还以为是电视剧"
+    },
+    {
+      "user": "周小君",
+      "avatar": "https://img1.doubanio.com/icon/u30218761-8.jpg",
+      "content": "网飞终于拍出了一部合格的家庭主题爆米花电影。"
+    },
+    {
+      "user": "郡君",
+      "avatar": "https://img3.doubanio.com/icon/u190708671-1.jpg",
+      "content": "母子连心，父母的爱，是这世上最无私的。"
+    },
+    {
+      "user": "ivy仔",
+      "avatar": "https://img3.doubanio.com/icon/u48427771-1.jpg",
+      "content": "五六十岁的妈妈和二三十岁的儿子们都还蛮养眼的 有笑有泪 还算不错"
+    },
+    {
+      "user": "cy的",
+      "avatar": "https://img3.doubanio.com/icon/u149735705-25.jpg",
+      "content": "还挺有趣的"
+    },
+    {
+      "user": "脑勺花子",
+      "avatar": "https://img1.doubanio.com/icon/u54108352-8.jpg",
+      "content": "我以为是个剧…………，简单简单的故事"
+    },
+    {
+      "user": "自Ran卷万年攻",
+      "avatar": "https://img3.doubanio.com/icon/u1794619-25.jpg",
+      "content": "世上只有妈妈好"
+    },
+    {
+      "user": "花",
+      "avatar": "https://img1.doubanio.com/icon/u1080238-9.jpg",
+      "content": "很好笑，在成為媽媽也都是少女呀。（感覺很多金句。"
+    },
+    {
+      "user": "ChloeL",
+      "avatar": "https://img3.doubanio.com/icon/u59399193-3.jpg",
+      "content": "劳累了一天，看点无脑片放松一下，Angela真是太火辣了，61岁啊！看起来就三十多的状态"
+    },
+    {
+      "user": "米凹",
+      "avatar": "https://img3.doubanio.com/icon/u3452128-6.jpg",
+      "content": "60岁女性主角电影也可以很风趣啊，中国编剧咋就不能写这种主题呢，中国导演咋不能多摸索其他年龄层的生活呢"
+    },
+    {
+      "user": "dreaming121",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "还挺好看的，然后有人漏点，所以不错"
+    },
+    {
+      "user": "Ro",
+      "avatar": "https://img3.doubanio.com/icon/u3774487-23.jpg",
+      "content": "给电视台面子拍的吗"
+    },
+    {
+      "user": "眼睛睁开",
+      "avatar": "https://img1.doubanio.com/icon/u50513523-7.jpg",
+      "content": "很温暖的一部电影"
+    },
+    {
+      "user": "kkx1984",
+      "avatar": "https://img3.doubanio.com/icon/u29035935-2.jpg",
+      "content": "老外并没有我们想象中那么在乎母亲节，我们却还是在朋友圈不遗余力的装孝子"
+    },
+    {
+      "user": "Lomata",
+      "avatar": "https://img3.doubanio.com/icon/u51902924-6.jpg",
+      "content": "纽约啊纽约"
+    },
+    {
+      "user": "张璐璐Lulu",
+      "avatar": "https://img3.doubanio.com/icon/u3093107-30.jpg",
+      "content": "这些妈妈都长得好火辣"
+    },
+    {
+      "user": "头孢吡肟",
+      "avatar": "https://img3.doubanio.com/icon/u189331742-2.jpg",
+      "content": "还挺喜欢的"
+    },
+    {
+      "user": "SANNN",
+      "avatar": "https://img3.doubanio.com/icon/u36951892-20.jpg",
+      "content": "motherhood 美国人的母职"
+    },
+    {
+      "user": "dukeduan",
+      "avatar": "https://img1.doubanio.com/icon/u1048443-9.jpg",
+      "content": "几个老女人演的可真好。虽然讨论的是美国当前的家庭关系，但还是让我想起了自己那朴素，任劳任怨的妈妈。"
+    },
+    {
+      "user": "杭椒花椒",
+      "avatar": "https://img1.doubanio.com/icon/u13136439-17.jpg",
+      "content": "emmm合家欢电影"
+    },
+    {
+      "user": "电影师",
+      "avatar": "https://img3.doubanio.com/icon/u50565913-1.jpg",
+      "content": "辣妈逆子爱。。。"
+    },
+    {
+      "user": "emily",
+      "avatar": "https://img3.doubanio.com/icon/u75546122-3.jpg",
+      "content": "家有儿子👦🏻，操碎心。"
+    },
+    {
+      "user": "贝壳想要一片海",
+      "avatar": "https://img3.doubanio.com/icon/u4916602-6.jpg",
+      "content": "三星半 看着挺开心 所以说 女儿可能更是贴心小棉袄"
+    },
+    {
+      "user": "阿Tea",
+      "avatar": "https://img1.doubanio.com/icon/u2409684-9.jpg",
+      "content": "Netflix总算有部还能看的了，感谢老戏骨们"
+    },
+    {
+      "user": "ROYA",
+      "avatar": "https://img3.doubanio.com/icon/u1087161-12.jpg",
+      "content": "Felicity Huffman还是那么时尚有趣，虽然说的是空巢老人的社会问题，但切入的蛮角度会比较轻松，喜剧片的基调 ，看起来不费力"
+    },
+    {
+      "user": "张小桂",
+      "avatar": "https://img3.doubanio.com/icon/u2069303-4.jpg",
+      "content": "家庭剧，儿大不由娘"
+    },
+    {
+      "user": "三亚边伯贤",
+      "avatar": "https://img3.doubanio.com/icon/u162559945-14.jpg",
+      "content": "谁说网飞拍不了好电影？！这部50+中老年妈妈的精彩人生故事和毕生闺蜜情简直是中国中老年女演员最想接那种题材，我已经开始脑补陈冲 斯琴高娃 巩俐来演了。对于现阶段的我来说这部片子更是意义非凡。"
+    },
+    {
+      "user": "11🇨🇳",
+      "avatar": "https://img1.doubanio.com/icon/u47949792-7.jpg",
+      "content": "三位阿姨演得好又可爱，只是结尾太老套了"
+    },
+    {
+      "user": "记不住密码",
+      "avatar": "https://img3.doubanio.com/icon/u67843912-1.jpg",
+      "content": "再也不看网飞自制电影了，我发誓。"
+    },
+    {
+      "user": "豆腐干gan171",
+      "avatar": "https://img3.doubanio.com/icon/u178623375-3.jpg",
+      "content": "好看的"
+    },
+    {
+      "user": "桃夭",
+      "avatar": "https://img3.doubanio.com/icon/u64163851-2.jpg",
+      "content": "轻喜剧故事套用在母子关系上 可对于中年女性的生活状态的刻画 表现出来的仍然是一种被家庭束缚的静止的生活 而不是真正具有生命力和矛盾性的"
+    },
+    {
+      "user": "cendre",
+      "avatar": "https://img3.doubanio.com/icon/u81404163-12.jpg",
+      "content": "啧啧啧，看向小小芒"
+    },
+    {
+      "user": "Wall-E",
+      "avatar": "https://img3.doubanio.com/icon/u80082228-10.jpg",
+      "content": "想给3星半，比三星丰满一些又不如四星惊艳。"
+    },
+    {
+      "user": "capver",
+      "avatar": "https://img3.doubanio.com/icon/u4577950-10.jpg",
+      "content": "三个踏上找儿子之途的妈妈，最终发现这趟旅程是在找自己。需要和过去和解的不只有孩子，大人也一样，经营好家庭是三方共同的努力，在这个万事都怪原生家庭的时代里反向思维，Netflix的电影总还是有点意思"
+    },
+    {
+      "user": "我是小可爱啊",
+      "avatar": "https://img3.doubanio.com/icon/u195916382-2.jpg",
+      "content": "感觉挺有趣的，不错挺喜欢的剧啊"
+    },
+    {
+      "user": "瓷猫猫",
+      "avatar": "https://img3.doubanio.com/icon/u150940966-4.jpg",
+      "content": "一般"
+    },
+    {
+      "user": "龙太子敖丙",
+      "avatar": "https://img3.doubanio.com/icon/u165022686-4.jpg",
+      "content": "还不错的家庭喜剧"
+    },
+    {
+      "user": "放逐寂寞",
+      "avatar": "https://img3.doubanio.com/icon/u68714045-2.jpg",
+      "content": "7分"
+    },
+    {
+      "user": "德尔马",
+      "avatar": "https://img3.doubanio.com/icon/u42083862-22.jpg",
+      "content": "非常棒的周末家庭电影"
+    },
+    {
+      "user": "gypsiery",
+      "avatar": "https://img3.doubanio.com/icon/u155549492-1.jpg",
+      "content": "emmm 蛮一般的"
+    },
+    {
+      "user": "阿尔宝·减缪",
+      "avatar": "https://img3.doubanio.com/icon/u170983159-2.jpg",
+      "content": "比较typical的喜剧，虽然没有亮点，但是也蛮好看"
+    },
+    {
+      "user": "啦啦啦德玛西亚",
+      "avatar": "https://img3.doubanio.com/icon/u196173978-2.jpg",
+      "content": "妈妈都好美"
+    },
+    {
+      "user": "吃糖吗",
+      "avatar": "https://img1.doubanio.com/icon/u89878210-8.jpg",
+      "content": "作为一个现在都不去夜店的人，我竟然在期待三十年后跟姐妹去蹦迪"
+    },
+    {
+      "user": "Neuream",
+      "avatar": "https://img3.doubanio.com/icon/u170616145-43.jpg",
+      "content": "明年母亲节要用心"
+    },
+    {
+      "user": "insandio",
+      "avatar": "https://img3.doubanio.com/icon/u3719327-14.jpg",
+      "content": "老公死了才发现他曾经出轨过，这口气真是能让人憋死。"
+    },
+    {
+      "user": "Ruby",
+      "avatar": "https://img3.doubanio.com/icon/u147096291-6.jpg",
+      "content": "虽然有点儿套路，但还是打动我，让我笑了，哭了。"
+    },
+    {
+      "user": "醉破春愁",
+      "avatar": "https://img3.doubanio.com/icon/u64109375-4.jpg",
+      "content": "意外地很喜欢，黑人真的不显老啊"
+    },
+    {
+      "user": "蜂蜜茉莉茶",
+      "avatar": "https://img1.doubanio.com/icon/u163348702-7.jpg",
+      "content": "两代人之间的关系，一代人与一代人之间都有着不同的世界观，有着不同的处世方式，这是一种无法调和的矛盾，代代如此，无法消除，只能相互适应。"
+    },
+    {
+      "user": "柯基",
+      "avatar": "https://img3.doubanio.com/icon/u185458151-5.jpg",
+      "content": "马马虎虎"
+    },
+    {
+      "user": "城月",
+      "avatar": "https://img3.doubanio.com/icon/u139378446-12.jpg",
+      "content": "2"
+    },
+    {
+      "user": "蜻蜓",
+      "avatar": "https://img3.doubanio.com/icon/u159610180-2.jpg",
+      "content": "点赞，母亲喜欢黏着儿子"
+    },
+    {
+      "user": "喜欢吃苹果吗",
+      "avatar": "https://img3.doubanio.com/icon/u184828830-6.jpg",
+      "content": "很甜很暖心的故事诶！比Netflix做的什么惊悚复仇电影好看多了"
+    },
+    {
+      "user": "力哥",
+      "avatar": "https://img3.doubanio.com/icon/u144238695-2.jpg",
+      "content": "教育孩子同时也是提升自己的一个过程。"
+    },
+    {
+      "user": "TM就是干干干",
+      "avatar": "https://img3.doubanio.com/icon/u131779913-32.jpg",
+      "content": "美国亲子观不也挺中国的，哈。"
+    },
+    {
+      "user": "豌豆黄儿",
+      "avatar": "https://img3.doubanio.com/icon/u146116591-3.jpg",
+      "content": "虽然很俗但还是泪目"
+    },
+    {
+      "user": "一根年糕走天下",
+      "avatar": "https://img3.doubanio.com/icon/u151872261-2.jpg",
+      "content": "三位母亲，嗯，可以看看"
+    },
+    {
+      "user": "格林",
+      "avatar": "https://img3.doubanio.com/icon/u40215234-22.jpg",
+      "content": "露鸟加一星"
+    },
+    {
+      "user": "水香虹",
+      "avatar": "https://img3.doubanio.com/icon/u49337686-45.jpg",
+      "content": "好温馨 音乐也很棒 Paul 超可爱的"
+    },
+    {
+      "user": "💤️👋不约",
+      "avatar": "https://img1.doubanio.com/icon/u162789122-9.jpg",
+      "content": "两代人之间的关系，一代人与一代人之间都有着不同的世界观，有着不同的处世方式，这是一种无法调和的矛盾，代代如此，无法消除，只能相互适应。"
+    },
+    {
+      "user": "大圣张",
+      "avatar": "https://img3.doubanio.com/icon/u161692615-3.jpg",
+      "content": "不错"
+    },
+    {
+      "user": "小丸子",
+      "avatar": "https://img1.doubanio.com/icon/u40328201-7.jpg",
+      "content": "结尾保罗送给妈妈的花 写给妈妈的信十点 好感人 "
+    },
+    {
+      "user": "凛",
+      "avatar": "https://img3.doubanio.com/icon/u12982540-14.jpg",
+      "content": "三个50岁左右的好友，打算在母亲节突击很久没有联系的儿子，而引出儿子和自己婚姻上的故事。让我最感动的是Daniel和他妈妈坐在家门前楼梯上说的话，原谅很容易，但有时也很难的。"
+    },
+    {
+      "user": "Taylor swift",
+      "avatar": "https://img3.doubanio.com/icon/u181420014-4.jpg",
+      "content": "还行"
+    },
+    {
+      "user": "冬瓜先生",
+      "avatar": "https://img3.doubanio.com/icon/u140895595-3.jpg",
+      "content": "家庭喜剧"
+    },
+    {
+      "user": "美欧前沿",
+      "avatar": "https://img3.doubanio.com/icon/u140173612-2.jpg",
+      "content": "奶奶特竟然还能演电影，在天朝，估计得封杀的干干净净！还是很不错的小品了，三位女士演的很出彩！很美式的价值观！在天朝追寻儿孙满堂的天经地义下，和美国大妈们在50岁还要学着找寻自我精神内核相比，显示出不同文化疆域里的殊途同归！最后的合家欢场面，何尝又不是咱们中国四世同堂一般的家的真谛？"
+    },
+    {
+      "user": "我今天不开心",
+      "avatar": "https://img3.doubanio.com/icon/u188579511-3.jpg",
+      "content": "(´･ω･`)"
+    },
+    {
+      "user": "sunlaptop",
+      "avatar": "https://img3.doubanio.com/icon/u167740928-1.jpg",
+      "content": "感动！"
+    },
+    {
+      "user": "大婊哥",
+      "avatar": "https://img3.doubanio.com/icon/u135516276-2.jpg",
+      "content": "打发时间的小电影"
+    },
+    {
+      "user": "蕙的风",
+      "avatar": "https://img1.doubanio.com/icon/u83704693-7.jpg",
+      "content": "轻松温馨的家庭喜剧，虽然现实里这些矛盾都没可能解决，但慰藉心灵的童话，还是人见人爱的。"
+    },
+    {
+      "user": "等待达西先生",
+      "avatar": "https://img1.doubanio.com/icon/u88687791-7.jpg",
+      "content": "黑人小哥身材真好，还以为舞会上的短发黑妹会和小哥的老妈有什么化学反应呢~~最后感叹一句这也就是中产以上的大妈们  普通人多得是一地鸡毛"
+    },
+    {
+      "user": "Machine",
+      "avatar": "https://img3.doubanio.com/icon/u58207495-6.jpg",
+      "content": "看完给妈妈打个电话吧"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u178437162-2.jpg",
+      "content": "一部千万不能给我妈看到的电影，所有被千夫所指教科书级干涉小孩不认可小孩的传统妈妈手段都 magically work out. It's a lovely movie to watch but life doesn't work like that."
+    },
+    {
+      "user": "鰕虞",
+      "avatar": "https://img3.doubanio.com/icon/u78709708-5.jpg",
+      "content": "1）作为一部清新温情简单的电脑，可推荐。2）主要是三位妈妈在母亲节时并未收到满意的祝福而一起做的一个决定，那就是一起搬到儿子那里住一段时间，而后续产生的一系列故事。看完觉得我们身为儿女，别总是老想着挣脱我们爸妈的怀抱，适时关心也是必要的。父母在，不远游，也是这个理了吧。我们都是第一次活，爸妈也是第一次当父母，相互谅解并没有什么不好。"
+    },
+    {
+      "user": "大傻刘",
+      "avatar": "https://img3.doubanio.com/icon/u94790144-4.jpg",
+      "content": "半夜在披萨店吃披萨喝酒，也太爽了吧"
+    },
+    {
+      "user": "小草",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "合格，完整，有趣，有道理，原来美国妈妈也看不上儿媳妇"
+    },
+    {
+      "user": "Menglin Wei.",
+      "avatar": "https://img3.doubanio.com/icon/u155313591-1.jpg",
+      "content": "下载来在飞行中看的，中规中矩，故事还是不错的，适合和老妈一起看"
+    },
+    {
+      "user": "么么豆",
+      "avatar": "https://img3.doubanio.com/icon/u192187856-1.jpg",
+      "content": "希望我老了也可以无比潇洒"
+    },
+    {
+      "user": "hong",
+      "avatar": "https://img3.doubanio.com/icon/u145165460-4.jpg",
+      "content": "We are there for every big life event we met and now we are lucky if we hear about everything at all.  What we do wrong？We did everything right. We raised our children to be free thinking and dependent being. Now they just don’t need us anymore. That’s we do wrong. You know who you are without me. I need to figure out who I am without you. "
+    },
+    {
+      "user": "俪俪",
+      "avatar": "https://img3.doubanio.com/icon/u148116505-1.jpg",
+      "content": "只有电影有个happy ending，真实的生活只会更行更远吧。。"
+    },
+    {
+      "user": "夏天中的",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "有笑有泪"
+    },
+    {
+      "user": "Happy_W",
+      "avatar": "https://img3.doubanio.com/icon/u165596056-2.jpg",
+      "content": "很一般的电影吧，讲述亲情的，但感觉全片渲染又少，总之没有表现出来母子亲情"
+    },
+    {
+      "user": "叫什么好呢",
+      "avatar": "https://img3.doubanio.com/icon/u146917065-5.jpg",
+      "content": "三个妈妈好美啊"
+    },
+    {
+      "user": "黑",
+      "avatar": "https://img3.doubanio.com/icon/u195980062-1.jpg",
+      "content": "家庭故事"
+    },
+    {
+      "user": "流浪的核桃",
+      "avatar": "https://img3.doubanio.com/icon/u184425609-3.jpg",
+      "content": "一般"
+    },
+    {
+      "user": "剑冬",
+      "avatar": "https://img3.doubanio.com/icon/u196873883-1.jpg",
+      "content": "还行"
+    },
+    {
+      "user": "一个懒人的畅想",
+      "avatar": "https://img1.doubanio.com/icon/u53569448-8.jpg",
+      "content": "看的很感动的电影。作为母亲真的很不容易的。里面有两句话:在成为你的母亲前我也是个女孩; 没有我你找到了你自己，我也该学会在没有你的时候找到自己。真的很戳泪点。"
+    },
+    {
+      "user": "小流氓",
+      "avatar": "https://img3.doubanio.com/icon/u58221924-12.jpg",
+      "content": "电视电影"
+    },
+    {
+      "user": "豆浆油条",
+      "avatar": "https://img3.doubanio.com/icon/u197711686-1.jpg",
+      "content": "家庭喜剧，就那样吧"
+    },
+    {
+      "user": "Gloria.D",
+      "avatar": "https://img3.doubanio.com/icon/u166391839-1.jpg",
+      "content": "还行    "
+    },
+    {
+      "user": "嘚吧嘚吧嗯",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "温情，对30岁的大姐姐我来说，是最佳bedtime睡前故事了"
+    },
+    {
+      "user": "Reece",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "其实这不光是一场寻找孩子的行动，更是妈妈们找回自己的旅途。母亲的一辈子几乎都在围着家庭打转，谁也不记得她们也曾有自由自在的少女时刻，与闺蜜逛街，和朋友游玩......希望孩子们都能明白，在母亲这个身份之前，她们首先应该是自由人。"
+    },
+    {
+      "user": "Idndi.",
+      "avatar": "https://img3.doubanio.com/icon/u190942807-2.jpg",
+      "content": "好像"
+    },
+    {
+      "user": "萌萌哒金鱼草",
+      "avatar": "https://img3.doubanio.com/icon/u53162822-3.jpg",
+      "content": "温馨温情的电影"
+    },
+    {
+      "user": "我是一只小青龙",
+      "avatar": "https://img3.doubanio.com/icon/u193274982-2.jpg",
+      "content": "温情的剧情，打动的内心深处的温柔"
+    },
+    {
+      "user": "我去过一千次了",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "motherhood"
+    },
+    {
+      "user": "milk",
+      "avatar": "https://img3.doubanio.com/icon/u104247362-1.jpg",
+      "content": "温情"
+    },
+    {
+      "user": "珍惜眼前",
+      "avatar": "https://img3.doubanio.com/icon/u179798153-2.jpg",
+      "content": "挺好看的"
+    },
+    {
+      "user": "活着就好",
+      "avatar": "https://img3.doubanio.com/icon/u200752225-1.jpg",
+      "content": "看完了很感人 亲情是最宝贵的感情"
+    },
+    {
+      "user": "紫萱爱薇",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "亲情"
+    },
+    {
+      "user": "木木",
+      "avatar": "https://img3.doubanio.com/icon/u201194007-3.jpg",
+      "content": "哈哈哈哈(ಡωಡ)hiahiahia"
+    },
+    {
+      "user": "谁知道你",
+      "avatar": "https://img3.doubanio.com/icon/u196241207-2.jpg",
+      "content": "与成年的儿子们重塑关系，在这过程中，她们意识到需要改变生活的人不仅仅是自己的儿子。这段旅程变成了一段重新发现之旅，让这些女性重新定义了与孩子、朋友、配偶的关系，最重要的是，重新定义与自己的关系。"
+    },
+    {
+      "user": "清浅忆梦嫣然",
+      "avatar": "https://img3.doubanio.com/icon/u180378493-4.jpg",
+      "content": "还是拍的挺好看一喜剧 很不错电影情节步步紧扣很喜欢"
+    },
+    {
+      "user": "葱妈",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "即使要保持母子之间的线，还是要爱啊"
+    },
+    {
+      "user": "燕婉莉",
+      "avatar": "https://img3.doubanio.com/icon/u80146697-2.jpg",
+      "content": "一般般"
+    },
+    {
+      "user": "燕婉莉",
+      "avatar": "https://img3.doubanio.com/icon/u80146697-2.jpg",
+      "content": "一般般"
+    },
+    {
+      "user": "甜味柠檬1018",
+      "avatar": "https://img3.doubanio.com/icon/u193380640-1.jpg",
+      "content": "好好笑"
+    },
+    {
+      "user": "Translator X",
+      "avatar": "https://img3.doubanio.com/icon/u2549479-453.jpg",
+      "content": "Otherhood"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u200609953-1.jpg",
+      "content": "还行"
+    },
+    {
+      "user": ".",
+      "avatar": "https://img3.doubanio.com/icon/u179455804-1.jpg",
+      "content": "很现实的主题，不光存在于米国，也存在于天朝，虽然很简单粗暴的剧情，但结局似乎能提供一些参考，子女更坦诚一点，父母更“独立”一点"
+    },
+    {
+      "user": "豆友202411808",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "ok"
+    },
+    {
+      "user": "天照",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "有笑点，不错，片荒时看看"
+    },
+    {
+      "user": "魑魅魍魉",
+      "avatar": "https://img3.doubanio.com/icon/u201516181-1.jpg",
+      "content": "非常真实的一部电影，演的非常好"
+    },
+    {
+      "user": "小土豆的生长记",
+      "avatar": "https://img3.doubanio.com/icon/u202141357-1.jpg",
+      "content": "一般般 没有预期的好看"
+    }
+  ]
+}

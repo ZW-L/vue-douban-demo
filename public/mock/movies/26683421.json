@@ -1,0 +1,1289 @@
+{
+  "title": "特工",
+  "url": "https://movie.douban.com/subject/26683421/",
+  "rate": "8.5",
+  "id": "26683421",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2528281606.jpg",
+  "info": [
+    "导演: 尹钟彬",
+    "编剧: 尹钟彬",
+    "主演: 黄政民 / 李星民 / 赵震雄 / 朱智勋",
+    "类型: 剧情",
+    "制片国家/地区: 韩国",
+    "语言: 韩语 / 汉语普通话 / 日语",
+    "上映日期: 2018-05-11(戛纳电影节) / 2018-08-08(韩国)",
+    "片长: 137分钟",
+    "又名: 北风(台) / 北寒谍战(港) / 工作 / The Spy Gone North / Gongjak"
+  ],
+  "desc": "1990年代中期，暗号「黑金星」的南韩「国家安全企划部」情报员，假扮成南韩商人跟北韩进行商业交易，藉此渗透北韩军事单位，打探核开发情报，他得在最危险的地方，赢得敌方的信任，没想到一心只想完成任务的他，却在不自觉中陷入南北韩权力高层间的恐怖阴谋。",
+  "members": {
+    "director": {
+      "name": "尹钟彬 Jong-bin Yoon",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1353211373.83.jpg"
+    },
+    "cast": [
+      {
+        "name": "黄政民 Jeong-min Hwang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1459307788.59.jpg"
+      },
+      {
+        "name": "李星民 Sung-min Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53117.jpg"
+      },
+      {
+        "name": "赵震雄 Cho Jin-woong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512941290.55.jpg"
+      },
+      {
+        "name": "朱智勋 Ji-hun Ju",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1434620083.98.jpg"
+      },
+      {
+        "name": "朴圣雄 Seong-Woong Park",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1455400493.88.jpg"
+      },
+      {
+        "name": "李孝利 Hyo-ri Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p225.jpg"
+      },
+      {
+        "name": "金素真 So-Jin Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1425450773.96.jpg"
+      },
+      {
+        "name": "纪柱峰 Ju-bong Gi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6081.jpg"
+      },
+      {
+        "name": "郑素利 So-ri Jung",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533582400.39.jpg"
+      },
+      {
+        "name": "金弘波 Hong-Fa Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451383569.91.jpg"
+      },
+      {
+        "name": "金应洙 Eung-soo Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1373010708.8.jpg"
+      },
+      {
+        "name": "琴赛璐 Keum Sae-rok",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521541907.57.jpg"
+      },
+      {
+        "name": "崔秉默 Byung-mo Choi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501477234.47.jpg"
+      },
+      {
+        "name": "金正洙 Jong-soo Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1483599020.86.jpg"
+      },
+      {
+        "name": "金仁宇 In-woo Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506478356.77.jpg"
+      },
+      {
+        "name": "白承哲 Seung-chul Baek",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505719781.83.jpg"
+      },
+      {
+        "name": "金智娜 Ji-na Kim ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534304839.24.jpg"
+      },
+      {
+        "name": "郑基燮 Gi-seop Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506333018.76.jpg"
+      },
+      {
+        "name": "朴旻洙 Min-soo Park",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1520244714.92.jpg"
+      },
+      {
+        "name": "车智宪 Ji-heon Cha ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534304157.74.jpg"
+      },
+      {
+        "name": "姜德宗 Deuk-jong Kang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEo5kpcNt4Qccel_avatar_uploaded1516202815.55.jpg"
+      },
+      {
+        "name": "南文哲 Moon-cheol Nam",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505810228.75.jpg"
+      },
+      {
+        "name": "杨贤民 Yang Hyeon-min",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1525923974.34.jpg"
+      },
+      {
+        "name": "韩昌贤 Han Chang-hyeon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516835816.4.jpg"
+      },
+      {
+        "name": "郑载宪 Jae-heon Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1538886929.76.jpg"
+      },
+      {
+        "name": "全相珍 Jeon Sang-jin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEo5kpcNt4Qccel_avatar_uploaded1514270311.36.jpg"
+      },
+      {
+        "name": "崔英民 Young-min Choi ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3DaRMYd3pE8cel_avatar_uploaded1526972600.06.jpg"
+      },
+      {
+        "name": "朴敬贞 Park Kyeong-chan",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534305767.99.jpg"
+      },
+      {
+        "name": "金贤玉 Hyeon-ok Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi1jLpabrpE4cel_avatar_uploaded1518264770.3.jpg"
+      },
+      {
+        "name": "郭振锡 Jin-seok Kwak",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517230362.41.jpg"
+      },
+      {
+        "name": "韩成天 Han Sung-chun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507530411.52.jpg"
+      },
+      {
+        "name": "孙成灿 Son Seong-chan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503295496.64.jpg"
+      },
+      {
+        "name": "权爀 Hyuk Kwon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534302223.68.jpg"
+      },
+      {
+        "name": "郑钟宇 Jung Jong-woo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514286225.55.jpg"
+      },
+      {
+        "name": "徐东锡 Seo Dong-seok",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513752700.72.jpg"
+      },
+      {
+        "name": "李正烈 Lee Jung-yeol",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514288256.51.jpg"
+      },
+      {
+        "name": "朴镇洙 Park Jin-soo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEo5kpcNt4Qccel_avatar_uploaded1516498421.56.jpg"
+      },
+      {
+        "name": "康俊熙 Joon-seok Kang ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1541357655.98.jpg"
+      },
+      {
+        "name": "李艾秀 Ee-soo Lee ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534307884.25.jpg"
+      },
+      {
+        "name": "金松日 Song-il Kim ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534307460.2.jpg"
+      },
+      {
+        "name": "姜在恩 Jae-eun Kang ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534307147.18.jpg"
+      },
+      {
+        "name": "孙贤俊 Hyeon-joon Son ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534306908.87.jpg"
+      },
+      {
+        "name": "Gyoo-nam Kim ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534305676.22.jpg"
+      },
+      {
+        "name": "朴英雄 Yeong-woong Park ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534305526.06.jpg"
+      },
+      {
+        "name": "尹大烈 Dae-yeol Yoon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534304981.9.jpg"
+      },
+      {
+        "name": "崔普光 Bo-kwang Choi ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534304553.57.jpg"
+      },
+      {
+        "name": "金秀妍 Soo-yun Kim ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534303630.44.jpg"
+      },
+      {
+        "name": "闵武济 Moo-je Min",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534303321.34.jpg"
+      },
+      {
+        "name": "郭镇 Jin Kwak",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1534302111.77.jpg"
+      },
+      {
+        "name": "薛昌熙 Seol Chang-hee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512705797.17.jpg"
+      },
+      {
+        "name": "金光炫 Kim Kwang-hyun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514527981.63.jpg"
+      },
+      {
+        "name": "杨志洙 Ji-soo Yang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi1jLpabrpE4cel_avatar_uploaded1519957433.9.jpg"
+      },
+      {
+        "name": "柳圣贤 Ryoo Seong-hyeon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508735639.71.jpg"
+      },
+      {
+        "name": "严志满 Ji-man Eom",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533175624.78.jpg"
+      },
+      {
+        "name": "朴赫民 Hyeok-min Park",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi1jLpabrpE4cel_avatar_uploaded1523445900.88.jpg"
+      },
+      {
+        "name": " 郭子亨 Ja-hyeong Kwak ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3DaRMYd3pE8cel_avatar_uploaded1526004972.1.jpg"
+      },
+      {
+        "name": "权范泽 Bum-taek Kwon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514285766.02.jpg"
+      },
+      {
+        "name": "白承益 Seung-ik Baek",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1532479531.27.jpg"
+      },
+      {
+        "name": "蔡勇 Chae-yong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534304218.24.jpg"
+      },
+      {
+        "name": "李胜浚 Seung joon Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1497932789.69.jpg"
+      },
+      {
+        "name": "李东熙 Dong-hee Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1532477634.3.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2532730624.jpg?",
+        "src": "http://vt1.doubanio.com/201908311055/2d040373937f8371ac45cae964a04698/view/movie/M/402350688.mp4"
+      },
+      {
+        "pic": "https://img3.doubanio.com/view/photo/photo/public/p2537626220.jpg?",
+        "src": "https://sv1.doubanio.com/201908311055/33c4c064339fdcbd10cd7e5289a0620e/video/2018/M/401010312.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2531696433.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2529122065.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "すでに恒司ロス",
+      "avatar": "https://img3.doubanio.com/icon/u45203942-61.jpg",
+      "content": "黄政民用一只假劳力士，先是搞定了新世界里的李政宰，现在又搞定了李圣旻，你还在等什么，想搞基，送劳力士啊。"
+    },
+    {
+      "user": "阿申申",
+      "avatar": "https://img1.doubanio.com/icon/u3670661-17.jpg",
+      "content": "卧槽，被两张扑克脸感动了"
+    },
+    {
+      "user": "范先生",
+      "avatar": "https://img3.doubanio.com/icon/u50747165-2.jpg",
+      "content": "共产主义为什么反对共产主义者当权。"
+    },
+    {
+      "user": "谢飞导演",
+      "avatar": "https://img3.doubanio.com/icon/u114515320-21.jpg",
+      "content": "又是一部惊人的韩国政治电影，开篇写着“真实事件改编，内容纯属虚构”，两头的优势都让它占了！最精彩的部分是第一次正面再现了北朝鲜领导人金二胖的形象，生动、具体，戏份还不少，又令人信服，看来是得益于真实事件里人物的亲历。艺术和历史不能划等号，却又无法分离；人类的记忆与历史记述又有多少来自史实，多少来自后人叙说，甚至戏说呢？韩国的这批电影艺术家们，无论对现在还是未来，都是有担当、有责任的人。"
+    },
+    {
+      "user": "沙宣",
+      "avatar": "https://img1.doubanio.com/icon/u41686939-7.jpg",
+      "content": "大半夜看哭了，好棒"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "去年的《铁雨》，今年的《工作》，韩国类型片在政治立场上的空前蜕变已然做到了对未来的超前引导和同现实的良性互动，世界需要这样的电影和态度。尹钟彬依然为角色披上了Noir的风衣，但这次他们却走向了光明。"
+    },
+    {
+      "user": "老羊",
+      "avatar": "https://img3.doubanio.com/icon/u62496308-2.jpg",
+      "content": "政治的，就是经济的！  反之，经济的，必然是政治的！　大家速速看 深刻体会！"
+    },
+    {
+      "user": "艾晨",
+      "avatar": "https://img3.doubanio.com/icon/u1140816-93.jpg",
+      "content": "“为了国家和民族，就是为了执政党吗？”"
+    },
+    {
+      "user": "响指",
+      "avatar": "https://img3.doubanio.com/icon/u1004116-5.jpg",
+      "content": "浩然正气。"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "韩朝高层想让两国关系冻结得更加彻底，而分别来自韩国和朝鲜的朴皙映和李明云却力求国泰民安，早日团聚。\n两人不约而同的选择了化敌为友，说明国家有选择斗争的自由，百姓也有选择和平的自由。\n电影结尾两人阔别重逢，李明云向朴皙映展示对方送给自己的高仿劳力士手表，朴皙映也亮出对方送给自己的刻有“浩然之气”的领带夹作为回应，这一幕感动了无数观众。\n他们有不同的国籍、性格、职业，但有着共同的对和平、安定、幸福的追求。\n他们出生在不同的地方，但他们流淌着同样的血液，有着共同的祖先。他们盼望着同胞早日团聚，因为他们曾经是一家人。"
+    },
+    {
+      "user": "硬邦邦帮主胡子",
+      "avatar": "https://img3.doubanio.com/icon/u1531788-4.jpg",
+      "content": "比国内千篇一律的谍战片有意思多了。政治永远不是两两相斗，也不是集体对抗，政治是全体作战中的部分叛变与顺从。几个老戏骨演的好到让人落泪。政治正确的也许是户头数字最多的，油腔滑调负面新闻缠身的也许是改变了历史进程的人。看着此片结合锅内政治新闻，纪wei公告，国际关系更有乐趣。推荐！"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "哎哟，尹钟彬导演的新作《特工》把常见的朝韩间谍题材，拍出了新意，挺高级的，推荐大家看看，没有开一枪，没有打一架，却拍出剧力万钧的紧张，没过多渲染最后时刻，却让人快泪目，黄政民、李星民演技有说服力，一块假劳力士表，却换回来真的情谊，不容易呐，正日大将军出场有压倒一切的张力，不愧是懂电影，爱看电影的影迷，允许朝韩拍广告，互相交流。四星推荐。"
+    },
+    {
+      "user": "大瘦瘦",
+      "avatar": "https://img3.doubanio.com/icon/u1804355-2.jpg",
+      "content": "和铁雨一文一武，连片名都有对仗，北风是真实的过去，铁雨是虚构的未来，但都立足当下的国际大环境做出不同的政治表达。韩国目前拍此类政治惊悚题材俨然是亚洲一哥信手拈来了，本片未开一枪（板门店的炮火不算）未流一滴血，却能够带出一整个时代的剧变（板门店事件、金大中选举、朝鲜大饥荒、anycall广告。。。），尽管有过多戏剧化的设置和一些令人啼笑皆非的bug（1995年北京哪里有千禧酒店和王府井小吃街呢？），但结尾假劳力士表和浩然正气胸针的相逢依然煽得人泪目。简直可以预测到将会席卷青龙奖了，二胖目金正日应该是首次以这么直接的形象出现在大银幕前（不算纪录片），想想如果不是他那么热爱电影，或许就不会接下来拍广告的那些故事啦"
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "众多演技派奉献了今年又一波群像，在平壤的死人堆，在厉国的大酒店，在世界的任何地方，这种不包含一般人想法的政治，经历了二十年还继续存在"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "戛纳第11场特别放映。作为政治悬疑片尺度不小，而且故事发生地集中在北京和平壤两个外国人最感兴趣的地方，看看韩国人眼中的90年代中国蛮有趣。长者、金日成、金正日在台词中都有出现，集合了三位我非常喜欢的男演员，可惜还是有点拖沓了，失去了开篇极佳的节奏感，可以做的更好的。"
+    },
+    {
+      "user": "非常不小心",
+      "avatar": "https://img3.doubanio.com/icon/u45456270-6.jpg",
+      "content": "我从未看到如此煽情的兄弟情~~~~~"
+    },
+    {
+      "user": "喋血孤城科巴尼",
+      "avatar": "https://img3.doubanio.com/icon/u159961131-15.jpg",
+      "content": "“为了国家和民族做事，就是为了执政党做事么？”“共产主义政权为什么要反对共产主义者当权？”南韩保守派以及做为保守派重镇的安企部的画皮一下子就被扒出来了，而且还是跟放任饥馑大搞极权统治的金氏政权的画皮一同被扒的。制造紧张局势，只不过是为了给两方的权力精英一种抗拒威胁他们利益的社会与政治变革，转移统治危机的理由，所谓瓦解平壤政权亦或者统一南方只不过是亮堂堂的口号罢了。想起来朴妈彻底垮台前保守党还拿出所谓文在寅写给金正日的谄媚信说他通北，结果后来一查这信是朴妈自己写的，所谓守护韩国免遭南侵的保守派也不过是群类似于KMT的投机分子。\n而至于真正的民族情，早就在朴皙映与李明云二人的真挚友情以及力图实现南北和平往来的努力中体现出来了。李孝利与赵明爱的握手是一个南北和解、民族融合的起点，但远远不是终点。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "以为南北玩不出新花样了，结果还是为之一震，和《铁雨》是一文一武两种选择，但实则达到的是同一个效果；全程用文戏撑确实太考验演员，结果几位主演完成度都挺高，尹钟彬导演也重归于稳。放下了对“无间道”的执念后，韩国人将“卧底”魂包裹于庞杂的南北话题中，并一步步将其推上另一个高度。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "与其说是谍战片，不如说是政治惊悚片，把双方的军人政权都黑得够呛。黄政民还是很好，跟原型人物长得也挺像，北韩的李处长也塑造得不错，最后一场感人。对90年代中期的北京还原得还算可以，印象最深的还是金正日官邸的会面，以及朝鲜路边堆积如山的尸体，金将军实在太像了。拍这种电影韩国真是百无禁忌，这一点中国真没法比。"
+    },
+    {
+      "user": "羽子令",
+      "avatar": "https://img3.doubanio.com/icon/u137169217-6.jpg",
+      "content": "依旧南北题材和坚持南北统一下的兄弟情谊，依旧不忘@我天朝，啃生肉的最大弊端是看着看着真容易出戏啊。黄政民赵震雄表演没有突破，印象深刻的是李圣旻和朱智勋，还有形似度极高的北韩1号，惊喜的是李孝利的客串，出演2005年的自己。"
+    },
+    {
+      "user": "口合合合",
+      "avatar": "https://img3.doubanio.com/icon/u70964412-11.jpg",
+      "content": "1.黄政民个大猪蹄子！！！除了我政宰欧巴，你还在外面送了多少劳力士你说！！！hhhh\r\r2.建议朱智勋的角色和李处长合并，不然着实有点浪费。\r\r3.结局很warm，可放心食用；最后对于特务存在之意义的思考使得全片升华，这是中国的谍战题材普遍缺少的。"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "剧情张力十足的冷战风格间谍战，不动神色、冷静克制却又招招致命，时代感的还原和剧情的严谨度都是《密探》之后的韩影最佳，而90年代初北京和平壤的美术设计都让人拍手叫绝。"
+    },
+    {
+      "user": "方枪枪",
+      "avatar": "https://img3.doubanio.com/icon/u2586116-96.jpg",
+      "content": "朝韩关系真的是一个富矿啊，这次里面的信息量更大，各种人物的反转更大，关系上更复杂，除了两国之间，还有韩国本身的政治黑幕。黄政民演技依旧在线，但不突出，《高地战》、《共同警备区》、《铁雨》，然后是这部《特工》。3.7"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "下药蒙眼渡船领导人见面，停电贿赂窃听水深火热村庄行，手表和领带夹的兄弟情谊；意识形态皆幌子，两个权力集团互相帮忙割韭菜维系自身存在；祖国并非执政党，心凉特工良知发现。基本是零武戏完全文拍的间谍片，难得"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "黄政民还是很突出的"
+    },
+    {
+      "user": "Z星驰007",
+      "avatar": "https://img3.doubanio.com/icon/u139728342-10.jpg",
+      "content": "一腔热血报党国，两行热泪同根情！我们为什么经常会在韩国历史电影中寻找到情感的共鸣和抚慰？大抵是因为中国人和朝韩人民一样有忠诚为上的党国情结、山河破碎的民族梦魇、愿国家繁荣昌盛的强烈国民性。"
+    },
+    {
+      "user": "朝阳区陆依萍",
+      "avatar": "https://img3.doubanio.com/icon/u50060410-16.jpg",
+      "content": "黄政民和李星民真的很稳..."
+    },
+    {
+      "user": "島國拾影",
+      "avatar": "https://img1.doubanio.com/icon/u59771378-67.jpg",
+      "content": "故事多少走入諜報片通用套路 (看看《間諜橋》)，但整體表現完整、煽情恰到好處，充滿話題性 (很敢拍)，是部藉由南北韓破冰而衍生的現象級商業片；從選角、美術到各個技術層面，皆展現南韓商業電影工業的成熟與自信。用台北充當北京外景也是滿有趣的選擇，基隆中山陸橋的長廊繼《千禧曼波》後再次入鏡，亦又一次重回Cannes，哈哈。"
+    },
+    {
+      "user": "五色全味",
+      "avatar": "https://img1.doubanio.com/icon/u1380001-9.jpg",
+      "content": " 想起那天在新聞中看到金正恩文在寅在板門店會面，金正恩跨過三八線的那一刻，看新聞的一個韓國人哭了。政治中當然不乏作秀虛假的成份，好似電影中那些經不起推敲的虛構細節，但人民渴望鬩牆之爭結束、那份同根同源的民族深情、對和平的渴望卻無比真摯動人，就像最後一幕兩個男主角的對望。"
+    },
+    {
+      "user": "小A",
+      "avatar": "https://img1.doubanio.com/icon/u2342914-17.jpg",
+      "content": "超出预期。人物分属南北韩的主战跟主和派，戏剧冲突围绕这四个阵营的合纵连横展开。真事改编，文本比较深厚。北韩饥荒和南韩情报机构反对金大中主和是冲突产生的原因，在此基础上编剧加入人文关怀，走动情路线。李圣旻长得像曾江。"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "韩国版的《窃听风暴》，尤其是结尾两个老男人很暖的画面，在分分合合的南北问题，这次涉及到了政治领域，经济基础决定上层建筑，那些裙带关系和背后的故事引人深思，演员们都很棒啊，只是将军不太像，我有个大胆的想法：于谦。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "东亚四国一区（不好意思，外蒙没什么存在感，湾湾却举足轻重），任何两方的合纵连横，远近疏离常常以共同的第三方“敌人”为纽带。\n群众里面有坏人，干部里面也有好人啊。只不过下面坏人再多抵不过上面一个混蛋，上面几个十几个君子才可能力挽狂澜。\n不要再删我的短评了\n"
+    },
+    {
+      "user": "Nightingale",
+      "avatar": "https://img3.doubanio.com/icon/u59018976-4.jpg",
+      "content": "对于朝鲜的评价相对正面，虽然也有难民、尸体、独裁等表现，但谍战片紧张感来源的不是“敌人”的邪恶，而是就如你在屏幕上看到金正日的感觉一样，一种不言而喻的紧张感...当然，相对于当下的话题，“影响选举”、“南北领导人见面”在影片中回看历史，格外刺眼"
+    },
+    {
+      "user": "芦哲峰",
+      "avatar": "https://img1.doubanio.com/icon/u1329080-9.jpg",
+      "content": "印度电影拍着拍着就走向了歌舞，韩国电影拍着拍着就走向了煽情。一个政治特工片，也能煽到惺惺相惜，泪光闪闪，真让人叹为观止。不煽不是韩国人。"
+    },
+    {
+      "user": "法兰西胶片",
+      "avatar": "https://img1.doubanio.com/icon/u2316731-67.jpg",
+      "content": "三星半。北朝南韩之间还夹着一个北京千禧大酒店，美术组采风估计去的是香港吧哈哈哈。瑕疵也是不少，好几处特工操作都不可信，两男主的友谊产生的节点也很可疑。但格局真好，历史解构得很过瘾。最后字幕欠一句话，2017年11月30日中午12点，兴盛30年的北京动物园批发市场正式关闭。"
+    },
+    {
+      "user": "西四小二",
+      "avatar": "https://img3.doubanio.com/icon/u22071761-26.jpg",
+      "content": "国家是什么？国家是人民，不是执政党。执政党可以为了党派的利益把一切变成工具和手段，但总有人为了国家的利益去奋力一搏。"
+    },
+    {
+      "user": "红袍修罗",
+      "avatar": "https://img3.doubanio.com/icon/u4268830-2.jpg",
+      "content": "①黄政民演技真好②接近胖二的过程，就像扫雷一样，步步惊心③黑金星反问崔室长爱国就是爱执政党吗，怎么这么不和谐④两个相互对立的理想主义者竟成了心照不宣的知己，渡尽劫波兄弟在，相逢一笑泯恩仇⑤中朝外景都是在台湾完成拍摄的"
+    },
+    {
+      "user": "影随茵动",
+      "avatar": "https://img1.doubanio.com/icon/u1355591-37.jpg",
+      "content": "不记得看的第几部朝韩关系的电影了，韩国这个民族很神奇，他们总能把这种电影拍的特别真挚，而且这种尚属于进行时的政治电影，也可以光明磊落的上映。在自我反省上面，韩国影人总是让人惊喜，但是他们又对于丑化他人从不设防，对现实的抨击最直白，对历史的歪曲也最肆无忌惮，真的好矛盾啊。"
+    },
+    {
+      "user": "早 安",
+      "avatar": "https://img1.doubanio.com/icon/u44636465-7.jpg",
+      "content": "睡过了大部分剧情吧。。。虽然不该这么不负责任的评分，但我身边的人不是离场了就也睡了，真的，没很好看"
+    },
+    {
+      "user": "Ada🧣Wang💋💍",
+      "avatar": "https://img1.doubanio.com/icon/u115657337-27.jpg",
+      "content": "冷门佳作，韩国电影继铁雨之后再一次现实主义后冷战时期韩朝题材巅峰之作！为什么共产主义政权反对共产主义者掌握韩国？为什么韩国自己的情报局要和朝方人员一起密谋策划三八线对韩国武力威慑？为什么政客和资本家宁可给钱也要求朝方重启核设施？原因就是想一起欺骗普通民众。人物没有善良、邪恶、忠诚和奸诈的面孔，事件也没有被简化成黑白，这就使得它成为一部好作品。在我们玩世不恭的人际关系中，残酷的生存竞争让我们很难表达心中的善意，但这种善意总是存在的。电影中的两个主人公也是真正的爱国者，他们的信仰让彼此同情。并不是对领导着他们的人忠诚或事业发展的雄心驱使这两个真正的爱国者冒着被消灭的危险，共同抗议和否认发生灾难可能性。韩国电影最牛逼的在于可以把郭嘉机器内幕肮脏的交易赤裸裸的撕下遮羞布放在舞台上让人观赏，勇气可嘉。"
+    },
+    {
+      "user": "皮革业",
+      "avatar": "https://img3.doubanio.com/icon/u1264081-15.jpg",
+      "content": "把间谍题材拍的一枪不开、滴血未见，这个想法本身很酷，可惜也没想出其他营造紧张的办法，最后逃出朝鲜的高潮部分甚至一笔带过，彻底沦为靠台词堆砌的开会片。在台湾搭北京和平壤的外景，倒是个很值得玩味的想法……"
+    },
+    {
+      "user": "花轮君",
+      "avatar": "https://img3.doubanio.com/icon/u11396523-34.jpg",
+      "content": "掌声送给李明云同志，作为一个文官，在恶魔专制之下，见识胆魄胸怀都是楷模了，哪怕势单力薄，也要用尽全力要让国家和人民哪怕只是变好一点点，他真的很爱国，他也真的知道怎么样爱国！"
+    },
+    {
+      "user": "沉睡的雄狮",
+      "avatar": "https://img3.doubanio.com/icon/u52160649-2.jpg",
+      "content": "非常具有观赏性的南北韩谍战片,布景服化道用心,很有质感,叙事节奏的把控非常棒,主演黄政民真是老练!片中男主角在关键时刻的反思与抉择是不错的设计!个人感觉全片总体上优于今年的另一部同类型但较为滥情的\"铁雨\".可最终,我还是按住了给四星的冲动,因为全片有故意模糊核心问题的嫌疑,正如\"至暗时刻\"里那位胖首相所言:\"...一次又一次...你们到底什时候才能明白...\".金大中,卢武铉等韩国前总统算是功过分明,饱受争议,但个人觉得过失方面的恶劣影响实在太大,完全应当摆在首位.南韩的左派幼稚病们请醒醒吧,再绥靖和妄想下去,韩国终有一日会沦为\"朝鲜的南部\".这么多年来,\"阳光\"与\"接触\"的效果是什么还不清楚吗?养肥了那一撮法西斯,然后制造更大的灾难和恐慌.若真的被他们吞并,你尹导可没机会拍这种电影赚钱了喔...可能是我想多了吧,估计那时你们早就移民了..."
+    },
+    {
+      "user": "咯咯精",
+      "avatar": "https://img3.doubanio.com/icon/u41608208-13.jpg",
+      "content": "我要见到黄政民了嘛嘤嘤嘤！！！//黄政民小可爱嘤嘤嘤！"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "厉害了，一个多小时那段去见影迷今正日时照搬了闪灵的开场，航拍的山路行车配上柏辽兹幻想交响曲第五乐章《妖魔夜宴》的采样哈哈哈。"
+    },
+    {
+      "user": "纤纤",
+      "avatar": "https://img3.doubanio.com/icon/u158629236-1.jpg",
+      "content": "韩国电影很有特点的政治风，潜移默化让你接受他的观点。"
+    },
+    {
+      "user": "kingkongofkhan",
+      "avatar": "https://img3.doubanio.com/icon/u1080393-13.jpg",
+      "content": "拿真实事件改编的朝韩谍战题材印象中并不多，更何况是大名鼎鼎的黑金星，除了有传统的写实谍战，更把当年换届选举的政治阴谋也带了进来，把整个的时代格局拓宽，用点对点式的角色驱动来拉开群像画幅，更把两个真爱国者塑造的丰满到位，，表演、情绪感、故事推进都ok，就是节奏感差了点。另外我大帝都的风貌明显是香港式的南方范儿啊。"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "送去屠城的木马跑去王陵掘墓，拿来交易的古瓷用在黑市流通。比北朝鲜核武更紧迫的是总统的交替，比板门店炮弹更危险的是权力的表演。我在薄冰上将生死置之度外，你在酒池里为权欲推杯换盏，孩子在坟场啃噬尸骨，将军在宫殿享用酒肉。外交里的党派不分敌我，广告里的明星不分国籍，效忠人民，浩然正气。"
+    },
+    {
+      "user": "米粒",
+      "avatar": "https://img3.doubanio.com/icon/u4416375-54.jpg",
+      "content": "是否太侮辱将军智商了？！别人那么多电影白看的嘛？但说到底其实还是有点佩服韩国人，竟然总是可以把这种“费尽心机一定要建设资本主义朝鲜”的电影拍得清新脱俗甚至带点腐味…"
+    },
+    {
+      "user": "无趣",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "所以说一开始想探明朝核问题的决心最终就没有任何人关心了是吗？！只要广告拍了，一切都ok了是吧？！"
+    },
+    {
+      "user": "浮影人生",
+      "avatar": "https://img3.doubanio.com/icon/u2946082-4.jpg",
+      "content": "其实影片拍摄得非常一般，这部影片几乎摒弃了一切吸引观众眼球的此类类型片的商业元素，甚至背道而驰，影片从头至尾完全以政治作为影片的中心点加以展开并纵深，试图以此营造紧张刺激的情节与戏剧性冲突，但并且很多情节冗长无味，个别情节甚至有观看电视连续剧的拖沓感。但在我看来影片的这种推陈出新是失败的，或者我们是被影片的片名误导了，这根本不是一部特工类型片，这本就是一部政治题材的影片。如果这么说来倒能说得通，打高分的观众一定都是对韩朝问题比较感兴趣的人，并且这个高分本就不是为影片本身打的，更多的原因是内心对韩朝命运的关注。但影片的结尾非常非常好，两个男子汉悄无声息的对视令人热血沸腾又不禁泪目，点破主题— —浩然正气。幸好片中的李处长不是铁血党棍，且心底葆有人性的良知和善良的本性，结尾是对他最大的褒奖。"
+    },
+    {
+      "user": "时间之葬",
+      "avatar": "https://img1.doubanio.com/icon/u2126832-179.jpg",
+      "content": "讲的道理其实很简单——“爱国不等于爱执政党”，“永远的战争等于永远的和平”。但就是如此简单的道理和事实，被放在真实的历史维度下看，依然让人唏嘘感叹。高举主义大旗势不两立的双方，其实一样的虚伪和可笑。"
+    },
+    {
+      "user": "Sico",
+      "avatar": "https://img3.doubanio.com/icon/u2863758-5.jpg",
+      "content": "黄政民和李星民真是优秀！"
+    },
+    {
+      "user": "shininglove",
+      "avatar": "https://img1.doubanio.com/icon/u2849243-79.jpg",
+      "content": "愿为江水，与君重逢。这其实是爱情片的写法，观看过程似北国佳人李春姬在心中咚咚擂鼓。"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "作为大制作的谍战主旋律影片，在摄制精致、节奏紧凑、格局大气之余，非常难得的是在情感线索处理上极其优异，不比斯皮尔伯格的《间谍之桥》差，甚至更好。从未看到过如此压着拍煽情的韩国商业电影，将不同阵营、不同身份、陷于不同处境的两个男性间惺惺相惜的情感以一种隐忍、哀婉的方式传递出来，非常动人。在煽情点拿捏上的唯一错漏之处，就是李处长放走朴那场戏，用了个类型模式的反转，更好是用一种紧迫、不废话的方式拍，把所有情感克制到最后一场戏。"
+    },
+    {
+      "user": "大海里的针",
+      "avatar": "https://img3.doubanio.com/icon/u65569388-3.jpg",
+      "content": "除了政治噱头一无是处。"
+    },
+    {
+      "user": "逻格斯歌",
+      "avatar": "https://img3.doubanio.com/icon/u45463396-16.jpg",
+      "content": "一个间谍良心觉醒，一个官僚自我感动，对官僚体制的绝佳讽刺，但视听上乏善可陈"
+    },
+    {
+      "user": "圆首的秘书",
+      "avatar": "https://img3.doubanio.com/icon/u4655509-16.jpg",
+      "content": "可看性挺高，但戛纳对韩影的选择还是太局限了，去年就是一个间谍，今年又是一个间谍，，，感觉总是离竞赛差一个台阶。跟政治结合得相当好，人的本性也把握得很准，与此同时还有很强的现实意义。个别转折有点生硬，总体尚佳。"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "看得出来韩国确实是很希望统一的，但朝鲜背靠某大国，考量于半岛地理位置的特殊性，就难说了。"
+    },
+    {
+      "user": "影人疯",
+      "avatar": "https://img3.doubanio.com/icon/u148059286-32.jpg",
+      "content": "比起去年的《铁雨》，更喜欢这一部。文戏很考验演技，几位主演把握得很好。尹钟彬导演很会处理人物细节，叙事沉稳内敛、镜头富有感情。不得不说，结尾处安排两人在人群之外的重遇，细腻又不失伟大。什么时候大陆也拍部和台湾关系的政治片，不知有生之年能看到吗。"
+    },
+    {
+      "user": "安东",
+      "avatar": "https://img1.doubanio.com/icon/u1042606-147.jpg",
+      "content": "最后一幕，真是催泪。"
+    },
+    {
+      "user": "frozenmoon",
+      "avatar": "https://img3.doubanio.com/icon/u1233038-2.jpg",
+      "content": "还可以吧，可能预期过高，也可能工作原因一直关注南北的新闻，觉得其实不过尔尔。"
+    },
+    {
+      "user": "基瑞尔",
+      "avatar": "https://img1.doubanio.com/icon/u57783734-258.jpg",
+      "content": "水平稳定的历史传记片，冷静细致的事件纪录，但当中的惊心动魄被拉伸的片长掩盖了--少掉半小时会更精彩。中朝韩三国，台北所发生的“北京”故事；最吸引人的还是大历史事件下的“凡人感”-- 一对君子之交的承诺以及历经数十年后在人群的对视，那一刻所持有的意见与信仰都已经不足为道。李孝利和那只高贵的猫（经更正是狗【）出镜惊喜加分。"
+    },
+    {
+      "user": "女神的秋裤",
+      "avatar": "https://img3.doubanio.com/icon/u124812731-41.jpg",
+      "content": "一个个演技精湛，还没见过这么清新脱俗的特工"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "3.5。1.审美疲劳。"
+    },
+    {
+      "user": "お狐",
+      "avatar": "https://img1.doubanio.com/icon/u1183419-317.jpg",
+      "content": "政治合谋，这个很吓人啊，题材太猛"
+    },
+    {
+      "user": "shoegazerbaby",
+      "avatar": "https://img1.doubanio.com/icon/u3823154-467.jpg",
+      "content": "适应当下韩朝回暖的政局，后半部分剧本上升得好，不管现实如何，民族和平要摆正，人性之光要赞扬。李星民教科书级的抢戏厉害了，眼神动作都很有层次感，每一场表演都让这个朝鲜官员更立体，韩国编剧也是命硬的很，啥都敢写"
+    },
+    {
+      "user": "重忆小窗纱",
+      "avatar": "https://img3.doubanio.com/icon/u76708282-16.jpg",
+      "content": "今年看到的关于朝韩题材的最好电影！演金正日的特型演员给我留下了深刻印象，还有他的那只宠物狗。적이 있어야 버틸 수 있겠죠.然之，政治还真是这么回事。另外朱智勋演技不错，不敢相信他十年前还是演爱情剧的霸道男一。"
+    },
+    {
+      "user": "白玛",
+      "avatar": "https://img3.doubanio.com/icon/u3608488-46.jpg",
+      "content": "日常羡慕他国政治，还需要操纵民意这么麻烦"
+    },
+    {
+      "user": "左胸上的吸盘",
+      "avatar": "https://img3.doubanio.com/icon/u1128980-24.jpg",
+      "content": "前半段弱于后半段，黄政民的演技这次无甚突破，依旧是那种套在壳子里的人，夸张的表情频密的语速像是在隐藏什么又老于世故，相较而言，男二号李星民更好一些，这个朝鲜外贸处长的角色前半段是撑着改善外汇储备枯竭的重任，后半是表露外国留学的人本教化，“像我这样了解资本主义的人，他们应该不会杀我吧”。人物层次逐渐深入，整体表演不动声色，难度大且完成的好。剧情呢，也从一个间谍黄政民深入朝鲜揭发核武器真相，演变成了暴露朝鲜举国可卖而韩国利用其操纵大选的料，内里还是对南北和解的吁求。除了李星民的戏份，全片对紧张气氛的营造可算失败，黄政民和朱智勋要承担主要责任。靠在朝鲜拍广告来完成间谍计划和促进南北交流的点子、金日成出镜等元素设计的有趣"
+    },
+    {
+      "user": "老珂",
+      "avatar": "https://img1.doubanio.com/icon/u4529884-8.jpg",
+      "content": "韩国导演把真实事件搬上银幕，越来越成熟。主线既不游离历史，商业化编剧又增加了观赏性。本作更稳的是，相信没太多文青拿煽情来吐槽了吧。结尾两个亦敌亦友的生死之交隔空对视，妙。"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "7分。气氛紧张压抑，情节紧凑，但严肃的政治题材看着略显枯燥。这些位高权重者亦正亦邪，功过是非难以分辨清楚，两国关系紧张，他就是政治犯，关系解禁，他就是功臣。"
+    },
+    {
+      "user": "大島",
+      "avatar": "https://img3.doubanio.com/icon/u2608560-91.jpg",
+      "content": "朝鲜处长后段演技炸裂了"
+    },
+    {
+      "user": "夜神月的猫",
+      "avatar": "https://img1.doubanio.com/icon/u54998502-7.jpg",
+      "content": "片头的历史认知很反感，美苏分割的三八线？？好好认识清楚，苏联一毛钱都没投入朝鲜战争。原来三八线附近天天这打一枪那放一炮都是TM为了资本主义世界的选举，真是无聊！希望宝岛上还在对我大陆做敌对情报工作的相关部门的在岗职工多学学人家，该干什么不该干什么要认识清楚，和平大背景、统一大趋势下要多做有益两岸人民利益的事！！"
+    },
+    {
+      "user": "少言",
+      "avatar": "https://img3.doubanio.com/icon/u1104319-26.jpg",
+      "content": "同一题材，没有犯《铁雨》结尾过度煽情的毛病，收得高级，力道恰到好处。有很多小细节设计得极为精彩。黄政民一如既往地好，对手戏的那位叫不出名字的老家伙是惊喜，让人想到《间谍桥》里一战成名的马克里朗斯，整个片子风格也很像《间谍桥》。好看！四星半。"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "黄政民收拾收拾干净约等于半个梁朝伟"
+    },
+    {
+      "user": "火娃",
+      "avatar": "https://img3.doubanio.com/icon/u70990506-12.jpg",
+      "content": "8/10。影片猎奇感即在把特工拍出职场斗争剧的感觉：喝酒吃饭谈条件，见面转手假古董，真情与徦意、我中有敌的翻转，人际关系的复杂性全摆在桌面上，致使相对密闭的关系系统中建立人物互动不缺少流动性。剧本第一阶段的关键点是不断接触朝鲜高层，先于金将军露面的宠物狗有一种外强中干的滑稽效果，晩宴活动熄灭的灯让人物处于沉重的不详之感。第二阶段主题上升到民族信仰的高度，以权谋私的双方领导层心照不宣地激化假想敌的状态，破冰之旅的经济界人士却通敌合作并全身而退，特工在其中穿针引线，需要观看的同时进行推测和背景分析。"
+    },
+    {
+      "user": "gee",
+      "avatar": "https://img3.doubanio.com/icon/u1504780-4.jpg",
+      "content": "看哭了。虽然谍战部分有点故弄玄虚，虽然前半截有点拖沓，但关于政治与权术的解读，以及超越权术之上的民族大义的立意，还是很感染人。李处长这个人物设定很隽永了，他承载的东西可以超越时代"
+    },
+    {
+      "user": "陈哈",
+      "avatar": "https://img3.doubanio.com/icon/u1458351-30.jpg",
+      "content": "真实事件啊... 黑金星还活着吧应该"
+    },
+    {
+      "user": "历史理性",
+      "avatar": "https://img3.doubanio.com/icon/u3913640-1.jpg",
+      "content": "毒辣的反共和国阴谋"
+    },
+    {
+      "user": "维舟",
+      "avatar": "https://img1.doubanio.com/icon/u1679535-8.jpg",
+      "content": "基调阴郁，与历史格局结合紧密，突出小人物身不由己的命运，四个主演的演技可圈可点。故事还是很好看，看似严谨，其实娱乐性很强，悬念、反转和人物心路历程变化其实都不无俗套之处，可说并无多少意外，这样的局势中各方为自己的利益而斗争，本是应有之义。现实中的黑金星恐怕是个亦正亦邪的复杂人物，现在这样反倒有点将他强行升华了，也把权力政治简化成黑帮斗争了（想起黄政民在《新世界》里的出演，一笑）。在中国的几个片段，那些人说的汉语实在让人出戏，当然北京街景也可见韩国人眼里怎么看中国。"
+    },
+    {
+      "user": "汪金卫",
+      "avatar": "https://img3.doubanio.com/icon/u4285566-30.jpg",
+      "content": "【台北湳山二轮戏院】根据很有传奇色彩的真实事件改编，韩国当权者竟与朝鲜私通炒作干预选举，实在讽刺。黄政民演技非常出色，饰演朝方高官的李星民更是熠熠生辉，演出了双雄惺惺相惜的感动。能看出主创努力还原年代感，甚至请来李孝利客串出演。被金正日召见那段明显借鉴了张振成书中的描写。但也有遗憾：平壤万寿台雕像有年代穿帮，在台北华西街夜市拍摄北京王府井街头的戏份让观众太过出戏"
+    },
+    {
+      "user": "U 兔",
+      "avatar": "https://img3.doubanio.com/icon/u1317275-6.jpg",
+      "content": "开始非常闷，好歹全是熟脸所以没出现关系难以厘清的问题。以为是黑朝鲜的，处处机关利益，政治黑象，没想到最后以爱与和平为解决。居然是这样的立意，看得瞠目结舌，这样的影片放其他国家都很难得以露面的吧。连看三部朱智勋，终于知道为什么很多人觉得他时刻会黑化，确实很有反派相，而且是让人不会心疼那种，各种制服诱惑也算是一大看点了。算得上连看三部黄政民，真是好演员，什么角色都能很好地拿捏，这一部算是发挥空间最少的了吧。看过三部尹钟彬，算不得喜欢但都有优点。"
+    },
+    {
+      "user": "饱の嗝",
+      "avatar": "https://img3.doubanio.com/icon/u1000905-1801.jpg",
+      "content": "可怜的金大中。同一民族分裂双方的接口谍报人员意识到后台利益集团枉顾民族大义后自觉自决行事这个点很好，可以翻拍到台海问题上，甚至97前的HK。\n咦，真心英雄有点这个梗"
+    },
+    {
+      "user": "davekozg",
+      "avatar": "https://img3.doubanio.com/icon/u2039887-2.jpg",
+      "content": "在台北拍90年代的北京，恍惚之间，感觉还真是非常出戏。好在片子从头到尾一直绷着一股劲，观赏性好，还是比较下饭的 #奇怪的点啊#"
+    },
+    {
+      "user": "Xaviera",
+      "avatar": "https://img3.doubanio.com/icon/u48953772-16.jpg",
+      "content": "今年目前仅次于《燃烧》的韩影佳作"
+    },
+    {
+      "user": "冉笛",
+      "avatar": "https://img3.doubanio.com/icon/u1824339-140.jpg",
+      "content": "民族情感高于政党利益的主题并不新鲜，但韩国电影人的构思与创作令人拍案叫绝。震撼程度甚而接近当初看《窃听风暴》。政治讽刺恰到好处，即便是朝鲜那边看了想来也无话可说。对相关历史背景不了解也就不做评价，单就人物塑造而言，一个民族的挺立靠的就是这样有胆魄有担当的灵魂，#浩然之气#"
+    },
+    {
+      "user": "周宗澍",
+      "avatar": "https://img3.doubanio.com/icon/u2840184-614.jpg",
+      "content": "中国90年代那种风貌重现得简直绝了！但这片子中的气氛却总有哪里感觉不对，就好像是结尾露出一点点马脚的「CCNTV—news」的朝韩亲属团聚新闻的断句一样，高分高仿。对朝鲜人对金钱交易和韩国人对政治的矛盾态度有非常深刻的描写，甚至金正日，都很逼真（也很猎奇），以上的一切证明背后都有高人指点啊！没有太多情感宣泄和晓之民族大义，隐忍地结合历史格局黑一切才是谍战片的不二法门，韩国人终于踏完那一步了，走得比当年香港《无间道》还远。"
+    },
+    {
+      "user": "souvent",
+      "avatar": "https://img3.doubanio.com/icon/u1067909-12.jpg",
+      "content": "在《丽水爱情故事》上映五年后，黄政民再度用一块劳力士手表得到了伟大的友谊（男人之间不能送点别的吗），我们应该称呼这部电影《北京爱情故事》或者《王府井爱情故事》？"
+    },
+    {
+      "user": "Chambord",
+      "avatar": "https://img3.doubanio.com/icon/u62821849-36.jpg",
+      "content": "90年代半岛密使传奇，不知有生之年能否看到同一年代的海峡密使登上大银幕。片中的北京是在台湾取景的，台湾腔临演露了馅。"
+    },
+    {
+      "user": "维雪魂",
+      "avatar": "https://img1.doubanio.com/icon/u78957039-29.jpg",
+      "content": "三星其实更合适些吧，其实整体中规中矩，不过没有过分煽情，整体感受一下子就舒服了很多。"
+    },
+    {
+      "user": "水浒三国金刚",
+      "avatar": "https://img3.doubanio.com/icon/u3322566-2.jpg",
+      "content": "北寒工作"
+    },
+    {
+      "user": "无耻不混蛋",
+      "avatar": "https://img3.doubanio.com/icon/u1400288-42.jpg",
+      "content": "没有悬念丛生，没有惊心动魄，有的却是以情动人。克制的政治片，最后用朴素的情谊，升华了。"
+    },
+    {
+      "user": "巴伐利亞酒神",
+      "avatar": "https://img3.doubanio.com/icon/u1218430-446.jpg",
+      "content": "最后一幕有点窃听风暴的味道了，这就是所谓的画龙点睛吧。"
+    },
+    {
+      "user": "淋",
+      "avatar": "https://img1.doubanio.com/icon/u75215757-17.jpg",
+      "content": "想娶了黄政民"
+    },
+    {
+      "user": "湖边の许愿树",
+      "avatar": "https://img3.doubanio.com/icon/u2076497-5.jpg",
+      "content": "★★★★☆ 今年韩影现实主义题材第一了 在黑体制猛冲底线多年快审美疲劳以及探讨朝韩关系放不开手脚满脑子想当然的时候 有真实事件支撑的《北风》简直是一股清流 把双方互相博弈立于不同立场各怀鬼胎的形象生动塑造了起来 无政府主义者的蜜糖 小人物在大时代中以己之力搏击时代洪流命运又不得不随波逐流的无奈 最后的重逢如《辩护人》达到完美高潮 再看导演尹钟彬窝槽还是心中韩国现实主义电影No.1的《与犯罪的战争》导演 五星请收下！"
+    },
+    {
+      "user": "非魚",
+      "avatar": "https://img1.doubanio.com/icon/u1009411-109.jpg",
+      "content": "美术和道具做的真好，但此类涉及意识形态的电影很容易在我朝成为禁片，资社两种主义含糊不清的影射是绝不允许的。。。"
+    },
+    {
+      "user": "Lonely",
+      "avatar": "https://img3.doubanio.com/icon/u47461599-3.jpg",
+      "content": "7.5/10 分。对朝鲜韩国历史不熟悉。。。有些地方看得懵懵懂懂。。。总体是合格的，个别细节缺乏真实感。。。"
+    },
+    {
+      "user": "河狸",
+      "avatar": "https://img1.doubanio.com/icon/u2228416-29.jpg",
+      "content": "两个老男人的隔空对望，硬生生把我这个直男看哭了。"
+    },
+    {
+      "user": "ursob",
+      "avatar": "https://img3.doubanio.com/icon/u69463567-15.jpg",
+      "content": "朝鲜如果让这影片公映，朝鲜人能早十年过上好日子，半岛能早统一五十年。二胖的狗比起希特勒的狗差太多了。有人还在祝贺三胖当选呢。"
+    },
+    {
+      "user": "杨三疯",
+      "avatar": "https://img1.doubanio.com/icon/u43703010-7.jpg",
+      "content": "政治从来都几方博弈，片子模糊了中美在朝核问题的作用，怎能单纯把北京作为一个地点？更像是大人眼皮子底下俩小孩打架，儿戏的同时加上帮派内斗，把朝鲜当傻子，把中美当空气，把自己感动了。另，丑化的金正日是北野武演的吗？"
+    },
+    {
+      "user": "我的薄荷糖",
+      "avatar": "https://img1.doubanio.com/icon/u2273195-8.jpg",
+      "content": "郑科长被劳改了，靠"
+    },
+    {
+      "user": "mOco",
+      "avatar": "https://img3.doubanio.com/icon/u2290115-320.jpg",
+      "content": "真正超越主义的爱情。有人为了权力有人为了利益，但总有一些人尽管信仰的主义不同但是却怀抱着同样的爱国情怀，愿意为了国家与人民而不惜牺牲一切，所以当黑金星和处长在多年后重逢时才那么动人。"
+    },
+    {
+      "user": "老罗Lazzaro",
+      "avatar": "https://img1.doubanio.com/icon/u52337061-7.jpg",
+      "content": "政局与权力两股利益斗争中，韩朝相杀转相爱。冷峻平叙，特工为和解而战，动容相惜收尾。黄政民很突出。"
+    },
+    {
+      "user": "kanhi",
+      "avatar": "https://img3.doubanio.com/icon/u1051889-6.jpg",
+      "content": "聚光灯背后两个为国家付出过一切的人四目相视，迫不及待的相互拥抱，这是电影的最后一幕，也是电影最美好的一幕。"
+    },
+    {
+      "user": "fallingraining",
+      "avatar": "https://img3.doubanio.com/icon/u52114041-2.jpg",
+      "content": "相逢一笑泯恩仇啊"
+    },
+    {
+      "user": "本来老六",
+      "avatar": "https://img3.doubanio.com/icon/u1107668-42.jpg",
+      "content": "演技真是无与伦比。"
+    },
+    {
+      "user": "SydneyCarton",
+      "avatar": "https://img3.doubanio.com/icon/u1210604-80.jpg",
+      "content": "李星民演得真好啊，差一点就让我信了。"
+    },
+    {
+      "user": "刘浪",
+      "avatar": "https://img1.doubanio.com/icon/u6753010-9.jpg",
+      "content": "南北双方的抗衡，随着南韩选举与北韩核研的开展，逐渐显露成双方主战/主和的四方对抗。英译作“The Spy Gone North ”，“Gone north”的确也成为了“Spy”身份调转跟局面扭转的开端，从此开始舍弃了先前那种对北韩的刻板描绘。后半段随着电影被主创的南北统一情绪笼罩，对抗双方的立场也逐渐暧昧掉了。从而引出另一个议题：制衡本身也是维系的一种方式。"
+    },
+    {
+      "user": "看风景的人",
+      "avatar": "https://img3.doubanio.com/icon/u1352823-5.jpg",
+      "content": "无趣，不懂那些背景，没有欲望的观影。这种这种题材可以不要再拍了吗？"
+    },
+    {
+      "user": "超cute侠",
+      "avatar": "https://img1.doubanio.com/icon/u3403686-9.jpg",
+      "content": "稳扎稳打的朝韩主题演绎，没有过于夸张式的渲染，情感线也采用了常见的“义兄弟”路数，能看出尹钟彬在剧本上下了功夫，将韩国选举和朝韩关系做了巧妙地融合，意在揭露政治的虚伪，整体还是缺乏爆点，黄政民的小人物演绎也没太大突破。"
+    },
+    {
+      "user": "诸葛钢铁谢七七",
+      "avatar": "https://img3.doubanio.com/icon/u97181253-5.jpg",
+      "content": "全是男神 给我看哭了201809250014"
+    },
+    {
+      "user": "大卫·独处尼",
+      "avatar": "https://img1.doubanio.com/icon/u1205892-9.jpg",
+      "content": "有点像勒卡雷笔下的故事，剔除了所有商业元素，认认真真讲了一个特工的故事，而且在冷战结束后，好像只有半岛还有这样萧杀的氛围。"
+    },
+    {
+      "user": "judy",
+      "avatar": "https://img3.doubanio.com/icon/u1956648-61.jpg",
+      "content": "由真實事件改編。間諜\"黑金星\"所帶出的90年代南北韓關係描繪。沉穩的諜報片，此處沒有拳腳飛車，只有各種挖坑試探，以及試圖取得信任的斡旋。分飾南北韓要員的黃晸玟與李星民演得非常好! 對手戲張力太足了! 話說裡面很多操作都是熟悉的風味呢。像是表面漢賊不兩立，到選舉就檯面下交易。還有滿口為國為民，但只是為party為自己，更或是選不贏就極力構陷政敵一個xx同路人的標籤。嘖嘖..."
+    },
+    {
+      "user": "十个斗的眼窝浅",
+      "avatar": "https://img1.doubanio.com/icon/u2203966-28.jpg",
+      "content": "朝鲜高层亦是鲜衣怒马，奢靡骄纵啊！"
+    },
+    {
+      "user": "妙可中国",
+      "avatar": "https://img3.doubanio.com/icon/u53869175-60.jpg",
+      "content": "南北韩题材中的高水准，制作很出色，尤其是中朝九十年代街景的布置，作为政治片很难得的还出现国家领导人的角色。没有动作戏的官能刺激，转而以下属的视角，去体验来自如领导者的压迫，不动声色制造心理上的恐惧。煽情把控相对一般韩片而言已经非常克制，相互信物的展示，包含太多难言之隐了。"
+    },
+    {
+      "user": "生人回避",
+      "avatar": "https://img3.doubanio.com/icon/u51911319-11.jpg",
+      "content": "上映时间与时事完全吻合，大写的流弊……"
+    },
+    {
+      "user": "Intercept",
+      "avatar": "https://img3.doubanio.com/icon/u3529919-14.jpg",
+      "content": "妈呀每次半岛危机都是一段天真的CP绝恋。我利用了你的信任，但早已死心塌地，你舍命送走我，我好挂住你，徘徊在初次相见之地；世事如潮水，多年以后隔着人群，你向我秀出我送你的劳力士，我向你秀出你送我的领带扣，在不再分界的地图下走向彼此。十年太短，仿佛从未分别，十年很长，鬓已星星也。——酸死我了。"
+    },
+    {
+      "user": "嘟哔嘟哔",
+      "avatar": "https://img3.doubanio.com/icon/u41289155-4.jpg",
+      "content": "光是真人真事这一点就已经很震撼了"
+    },
+    {
+      "user": "宽松睡裤又如何",
+      "avatar": "https://img1.doubanio.com/icon/u26126229-98.jpg",
+      "content": "「我也很爱我的祖国，只是不喜欢我心爱的祖国。」脱离国家与国家，人性和人性之间是可以世界大同的。"
+    },
+    {
+      "user": "完颜穆尔登格",
+      "avatar": "https://img3.doubanio.com/icon/u48590382-13.jpg",
+      "content": "又是南北韩的故事，这次韩国人没有用力过猛过度煽情，表现太好了。我们西朝鲜省的丹东市和沈丹线铁路都被提到，让我觉得很亲切。虽然我是本世纪才搬到北京的，90s未曾见过也有种陌生的亲切感。《暗杀》发生在上海，《特工》发生在北京平壤汉城，身边出没着多少间谍~~~原来黑金星是有原型的呢，现实多么精彩。"
+    },
+    {
+      "user": "GIVIND",
+      "avatar": "https://img3.doubanio.com/icon/u59203564-123.jpg",
+      "content": "孝利客串为什么没有提前看到，导致错过了这么久/(ㄒoㄒ)/~~//  深夜看完，感慨万千。“浩然之气”并非是读历史的人泛泛陈词，在历史发生时总有真正的勇者，以生命的代价去弥合无论多针锋相对的意识形态——多少战争的发端只因为信仰不同，这无妄仇恨真是最不值得。"
+    },
+    {
+      "user": "张老实🤗",
+      "avatar": "https://img1.doubanio.com/icon/u3606585-87.jpg",
+      "content": "这片过誉了。武戏文唱有点意思。李处长可真像李总理"
+    },
+    {
+      "user": "dodofish",
+      "avatar": "https://img3.doubanio.com/icon/u1203085-4.jpg",
+      "content": "政治阴谋 权利斗争背后的人性美 是这个片子最棒的地方 在权利和利益重压之下 也能守护着不变的初心 一身正气 无愧于心 无愧于祖国和人民……拍这种电影韩国真是百无禁忌 这一点天朝真没法比……"
+    },
+    {
+      "user": "岩井俊七",
+      "avatar": "https://img3.doubanio.com/icon/u1815039-22.jpg",
+      "content": "有力且感人，看时常联想到窃听风暴；情节紧凑步调极快，背景音乐配合下更是被压得快喘不过气来，一如被卷入历史湍急河流的芸芸众生；南北俩人惺惺相惜心意相通没啥不对劲的，又一次再一次——“人不一定认识人，但灵魂一定认识灵魂”，分属两个极端对立阵营，为了不同目的，最后却是一致的理想，都搁置狭隘意识抛却尖锐矛盾，选择更高层次的良心与正义，重压之下理想抱负隐晦曲折暗度陈仓着实是特典型东方式的悲情虐点；李处长演技之于本片犹如安藤樱之于小偷家族，阴鸷外表下内心逐步转变拿捏不能更精准，“我不带任何私人感情”虐惨；不过有些情节确实缺乏足够说服力，剧本值得再推敲，另外如果影片整体气质能更加笃定一点更点到即止一点，再削减点台词量，会再上一个台阶  | 20190829影城二刷"
+    },
+    {
+      "user": "zhang 2nd",
+      "avatar": "https://img3.doubanio.com/icon/u2343960-135.jpg",
+      "content": "深入简出，厉害"
+    },
+    {
+      "user": "申由己",
+      "avatar": "https://img1.doubanio.com/icon/u4134449-17.jpg",
+      "content": "朝鲜境内死人堆那个场景，真是可怕，韩国人的电影水准真是越来越高了。谍战，悬疑，政治，东北亚，朝韩中，非常吸引人的一部电影！"
+    },
+    {
+      "user": "与碟私奔",
+      "avatar": "https://img3.doubanio.com/icon/u1305791-1.jpg",
+      "content": "生不逢时的電影，导演也没有想到时局是这样的变化吧，当成历史剧看看得了，真的不敢看北京街头与广州街头的合体要拍北京街头就老老实实说普通话找个内地群演不费劲吧可能这就是韩国🇰🇷人眼里的所谓北京或者朝鲜与北京的纽带吧！"
+    },
+    {
+      "user": "viennavirus",
+      "avatar": "https://img3.doubanio.com/icon/u1014188-36.jpg",
+      "content": "剧作有些简单，但不失为有趣的阴谋论，气氛也妥帖，当然不可或缺的是“不同阵营共同的理想主义者”这一狗血要素，和《铁雨》类似，大抵可以看作一种来自忠武路的告白吧。"
+    },
+    {
+      "user": "老晃",
+      "avatar": "https://img3.doubanio.com/icon/u1019579-12.jpg",
+      "content": "拍的好，想起《间谍之桥》 "
+    },
+    {
+      "user": "风铃",
+      "avatar": "https://img1.doubanio.com/icon/u4131568-8.jpg",
+      "content": "最后两个头发黑白交杂的大叔隔着喧闹的人群（和女神）一个亮出高仿劳力士，一个亮出领带夹的时刻，真的让人热血沸腾。一个间谍，一个文官，本只是双方高层博弈的两个棋子或者连棋子都算不上的螺丝钉，最后为了祖国，促成了双方的友好融合，期间的惊险血腥肮脏不足为外人道也，就如同那枚小小的领带夹，虽小而不起眼，却充盈着“浩然正气”。"
+    },
+    {
+      "user": "十万",
+      "avatar": "https://img3.doubanio.com/icon/u1251805-33.jpg",
+      "content": "质感高级 从演员到布景 震惊了（从不看韩国片的我"
+    },
+    {
+      "user": "贝塔先生",
+      "avatar": "https://img3.doubanio.com/icon/u1200112-135.jpg",
+      "content": "比较少见到特工为了统一而工作。"
+    },
+    {
+      "user": "七宝",
+      "avatar": "https://img3.doubanio.com/icon/u1363779-1.jpg",
+      "content": "3.5；肮脏的政治（有个bug：黄政民这么多年从跟北韩那边挣没挣到钱？我觉得没有 因为韩国对他“投入了巨大的金钱”，if not，北韩为啥要跟他玩这么久？无利不起早 就一点都不怀疑他咩？！）"
+    },
+    {
+      "user": "听霜书生",
+      "avatar": "https://img3.doubanio.com/icon/u29442857-2.jpg",
+      "content": "感觉整个电影的主线可以写成：《特工回忆录：我与李明云》"
+    },
+    {
+      "user": "调反唱唱",
+      "avatar": "https://img3.doubanio.com/icon/u46127626-20.jpg",
+      "content": "浩然之气！"
+    },
+    {
+      "user": "嘟嘟熊之父",
+      "avatar": "https://img3.doubanio.com/icon/u2201715-15.jpg",
+      "content": "要忠要义，有勇有谋。相较以往韩影中极度失真的孤单英雄形象，本片的双面间谍终于更具“人味”，有动摇有恐惧，尤其在阴沉压抑的社会氛围之下，更凸显其在夹缝中求存斡旋的危险处境。"
+    },
+    {
+      "user": "Bittersweet",
+      "avatar": "https://img3.doubanio.com/icon/u58057180-14.jpg",
+      "content": "音乐7 画面8 导演8 故事8 表演8 印象8 平均7.9/10 尹导演对这种南北政治题材的把控还是很到位的。从开始令人屏气凝神的谍影重重，到后面心心相惜的志同道合。虽方式不同，但共同的目的以及深埋的情感，令人动容。终也看透了政治这套把戏。"
+    },
+    {
+      "user": "Paco",
+      "avatar": "https://img3.doubanio.com/icon/u69290051-126.jpg",
+      "content": "3.5。"
+    },
+    {
+      "user": "傻乐的猫",
+      "avatar": "https://img3.doubanio.com/icon/u1181949-142.jpg",
+      "content": "李星民这个角色很像《忠奸人》里的Al Pacino....样子像孙海英都不反感反而被他感动了。"
+    },
+    {
+      "user": "Eco",
+      "avatar": "https://img1.doubanio.com/icon/u45774932-27.jpg",
+      "content": "最后一抹煽情，前面的叙事实在冗长"
+    },
+    {
+      "user": "麦小白",
+      "avatar": "https://img3.doubanio.com/icon/u2034976-123.jpg",
+      "content": "去年的《铁雨》牵扯出三胖，今年这部又把老子给请出来了，还给了大段正面高清无码特写对手戏。尺度没有天花板的韩国电影再这么继续玩下去，恐怕金家祖孙三代都要粉墨登场了。/两个多小时的片长，内容丰富，剧力恰当，既嫌少冷场，又不会信息量大到让人头晕，剧情饱和度刚刚好。"
+    },
+    {
+      "user": "Sabrina",
+      "avatar": "https://img3.doubanio.com/icon/u53180339-82.jpg",
+      "content": "朱智勋下场真是真实啊。。熏疼"
+    },
+    {
+      "user": "Panda的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u53485894-4.jpg",
+      "content": "⒈相较于《特工》，还是更喜欢《铁雨》；⒉有些断片的事情怎么也想不起，而有些铭记的回忆却怎么也忘不掉！—— 通过韩国电影和新闻报道以及道听途说，让我对朝鲜有一定的了解，而那些或是或非的认知成了我精神紊乱时期部分脑洞的载体，朴锡英来到朝鲜的那些镜头则唤起了好些那时候胡思乱想的回忆！⒊话说二十世纪九十年代就有那么便捷小巧的手机了吗？那时候北京的舞厅会有那样现代感挺强的电子舞曲？……"
+    },
+    {
+      "user": "有寂",
+      "avatar": "https://img3.doubanio.com/icon/u2791615-53.jpg",
+      "content": "“为了国家和民族 就是为了执政党吗？”"
+    },
+    {
+      "user": "国产凌凌期",
+      "avatar": "https://img3.doubanio.com/icon/u62917415-13.jpg",
+      "content": "看着黄政民从华侨黑帮，变态市长，朝鲜劳工演到卧底商贩，看来没有能困住这个戏精的角色了。别的方面无需过多评价，单说布景细节。90年代的平壤和改革开放20年的北京还原的非常用心，只是中国演员的台湾腔和横跨20年一直没变过的绿制服警察让人出戏。不过我更好奇那几组平壤街头实景是如何拍摄的。"
+    },
+    {
+      "user": "法荷",
+      "avatar": "https://img3.doubanio.com/icon/u1290468-124.jpg",
+      "content": "之前一直没有特别被打动，临尾却被感动的是人与人之间那些极宝贵的情谊，不计彼此来自何方。珍惜吧人类！"
+    },
+    {
+      "user": "法棍老人",
+      "avatar": "https://img3.doubanio.com/icon/u49942459-10.jpg",
+      "content": "韩国现在拍政治电影跟玩似的，尺度之大令人咋舌。朝鲜半岛连特工都进化为政治高手，虽然分裂，但是唇亡齿寒一衣带水啊，看到北朝鲜成为南韩的选举杠杆，莫名讽刺，最后一幕和《铁雨》的结尾有异曲同工之妙。最令人扼腕的是南北人民化敌为友，但是政治上依旧冰冻三尺，北京千禧酒店真是个交接的好地方。最后，李孝利真的出镜了啊。"
+    },
+    {
+      "user": "诸葛福媛",
+      "avatar": "https://img3.doubanio.com/icon/u36523777-23.jpg",
+      "content": "《铁雨》、《特工》……最近两年韩国这一类型的片子总是让我无言，一方面敬佩韩国影人的勇气和能力，一方面赞叹于民族统一这种话题真的也是universal的，总能被戳中泪点"
+    },
+    {
+      "user": "SingLesinger",
+      "avatar": "https://img3.doubanio.com/icon/u2217677-36.jpg",
+      "content": "好稳，最后的对视流下了眼lui。"
+    },
+    {
+      "user": "旧风",
+      "avatar": "https://img3.doubanio.com/icon/u1261444-32.jpg",
+      "content": "让资本主义照耀朝鲜，让南北半岛不再分开，北兄南弟的相互守望，甚至带点基。"
+    },
+    {
+      "user": "峰峰峰峰",
+      "avatar": "https://img3.doubanio.com/icon/u58930883-46.jpg",
+      "content": "九死一生探虎穴，惊闻权要缔私约，化敌为友讬身命，定情信物劳力士"
+    },
+    {
+      "user": "王小叶儿",
+      "avatar": "https://img3.doubanio.com/icon/u50809981-21.jpg",
+      "content": "人物和主题做得太好了～"
+    },
+    {
+      "user": "阿尔法",
+      "avatar": "https://img3.doubanio.com/icon/u2621589-164.jpg",
+      "content": "编的曲折离奇就显得太假，拍的真了又不好玩"
+    },
+    {
+      "user": "潜意识",
+      "avatar": "https://img1.doubanio.com/icon/u1901885-49.jpg",
+      "content": "演技派们的文艺间谍片，看似剑拔弩张，其实也都是渴望南北团聚的，北韩人民太苦了。"
+    },
+    {
+      "user": "Chris  一切由无聊开始",
+      "avatar": "https://img3.doubanio.com/icon/u1243334-1.jpg",
+      "content": "有点煽，导演也不是特别酷。但是情节扎实，氛围不错，表演在线！最厉害的是把两国元首、两国政治这样的去表现，太大胆。换成我是审查的，我可能都不敢给通过。不过人家国家和咱们差别太大，总统一个一个的出事。。。整体感觉挺好看，槽点少，水平较高。"
+    },
+    {
+      "user": "富贵ʟɪᴜ",
+      "avatar": "https://img3.doubanio.com/icon/u79559157-42.jpg",
+      "content": "和陈老师的看片 就是还行的程度 写人物写得好 别的就....."
+    },
+    {
+      "user": "蚂蚁没问题",
+      "avatar": "https://img1.doubanio.com/icon/u2254558-8.jpg",
+      "content": "非常羡慕韩国已经有这样的自由度，可以拍这样的历史了，从单纯特工的奇巧淫技陡然上升到政治层面，朝韩双方各种黑，很惊悚很感人。"
+    },
+    {
+      "user": "张博",
+      "avatar": "https://img3.doubanio.com/icon/u139273582-3.jpg",
+      "content": "政治利害的权衡下，一个个只思考政权与自身权利的丑陋者，演出一幕幕荒诞的黑色幽默。"
+    },
+    {
+      "user": "高级动物",
+      "avatar": "https://img3.doubanio.com/icon/u80610688-664.jpg",
+      "content": "今晚的政治课上的相当满意有惊喜加一星，看完这部猛片政治能考到99分！难得棒子把朝韩都黑了，居然没黑天朝还在赞扬天朝的改革开放！！！"
+    },
+    {
+      "user": "公民阿良",
+      "avatar": "https://img3.doubanio.com/icon/u139015254-20.jpg",
+      "content": "室长所在的集团需要有敌人的存在，这样才能利用敌人刺激民众，你不过是不想放开你手中的权力。"
+    },
+    {
+      "user": "melonINblue",
+      "avatar": "https://img3.doubanio.com/icon/u111911788-3.jpg",
+      "content": "北方的炮火纵跃三十八度纬线，惊了麋鹿和野彘；南方的美金也与此同时即将进账于那千呼万唤领袖的秘密账户。南北问题在我们普通民众看来是剑拔弩张，是互不相让，而在更高层的领袖们看来，这仅仅是一次次的普通交易而已，民族大义，政治使命，在自己的利益面前根本不值一提。影片最后，两个南北双方原本政治使命截然不同人的相视泪目，似乎让我们明白了什么却依然看不到希望。。。。"
+    },
+    {
+      "user": "Lunar C.",
+      "avatar": "https://img3.doubanio.com/icon/u2238925-122.jpg",
+      "content": "李处长才是特别让我感动的那个。“我们朝鲜人很单纯，认定了一个人就是一辈子。”老头诚不欺我阿！单纯善良的朝鲜人，特殊体制下造就的苦与悲和人性的光，让人唏嘘。"
+    },
+    {
+      "user": "Urkel Grue",
+      "avatar": "https://img1.doubanio.com/icon/u14289883-867.jpg",
+      "content": "180816 MEGABOX COEX 最后掉了两滴眼泪，遭到了我妈的嘲讽，就真的很感动啊，我从送领带夹的时候就开始感动了，好喜欢那句话啊，如果不是特别讨厌就请收下吧，有这—————————么喜欢😢"
+    },
+    {
+      "user": "二月鸟语",
+      "avatar": "https://img3.doubanio.com/icon/u51159028-14.jpg",
+      "content": "真实的力量，揭示了首次打破朝韩关系的两位关键人物。有意思的是导演很聪明，借片中朝鲜反复挑衅韩国边境让大家产生疲劳来讽刺那些对韩国政治片视觉疲劳的观众。"
+    },
+    {
+      "user": "jj73浅之",
+      "avatar": "https://img3.doubanio.com/icon/u1267105-374.jpg",
+      "content": "为了黄政民看，看完再也不想看朝韩关系题材的片子了"
+    },
+    {
+      "user": "安短",
+      "avatar": "https://img3.doubanio.com/icon/u47767005-46.jpg",
+      "content": "南北题材作为韩国电影的特有门类也是紧跟政策导向，要知道朴槿惠当选的那年最火的南北题材可是《隐秘而伟大》这种策反套路，唏嘘！这段影射了“阳光政策”出台前后的阴谋论其实也包含了韩国人对朝韩关系的矛盾看法——至少是文艺创作者的态度，一贯坚持的是左的斗争立场，但情感上又是偏激的民族主义，所以半岛感情反复也不足为奇（ps：当然这部电影也免不了那种对北方”西宫娘娘剥大葱式“的自以为是，所以前半段简直是胡扯，不过多少也能看出韩国对张成泽的怀念，看来不止中国喜欢他）"
+    },
+    {
+      "user": "獨孤島主",
+      "avatar": "https://img3.doubanio.com/icon/u1230769-41.jpg",
+      "content": "400万能蒙过墨镜金，比较匪夷所思"
+    },
+    {
+      "user": "killblue",
+      "avatar": "https://img3.doubanio.com/icon/u80690830-15.jpg",
+      "content": "浩然之气，惺惺相惜。"
+    },
+    {
+      "user": "Chuck",
+      "avatar": "https://img3.doubanio.com/icon/u28918411-32.jpg",
+      "content": "为了理想，为了祖国，为了受苦的人民，被尸堆震撼到了的李处长和朴社长，在迎来和平之后快步走向对方……我觉得还能拍下去，真的！屏息静气地看完了。"
+    },
+    {
+      "user": "发条橙",
+      "avatar": "https://img3.doubanio.com/icon/u169721244-4.jpg",
+      "content": "永远拍不尽道不完的关于韩朝南北问题的电影，温吞冗长了些，立足点明显是今年足矣载入史册的韩朝关系破冰时刻。期待的是敌来我往的谍战大戏，看完明显和想像的很不一样，大部分时间都不明所以黑人问号脸，所有的情感立场转折生硬刻意化，为了友好而友好，假大空的情感融合显然是蹭个今年的大事件热度，如果现实真能像电影这样，那么朝鲜半岛统一有望…最后，黄政民真的很优秀！"
+    },
+    {
+      "user": "栗色雪",
+      "avatar": "https://img3.doubanio.com/icon/u50051173-4.jpg",
+      "content": "#Cannes2018-11 两星半。本应是一个谍战味很浓的商业片，不过我却睡过了半程，可能还是操作上有些问题......黄政民的演技没有问题，不过剧情太主流太可预测，很快就令人失去了兴趣。"
+    },
+    {
+      "user": "Vi",
+      "avatar": "https://img3.doubanio.com/icon/u1143429-555.jpg",
+      "content": "韩国关于南北关系的片子很喜欢玩“分属不同阵营的两人为了更高道义而挫败了危害半岛和平的邪恶计划并因此结下深厚兄弟情”的梗，但确实回回都蛮感人的.."
+    },
+    {
+      "user": "einverne",
+      "avatar": "https://img1.doubanio.com/icon/u46536222-17.jpg",
+      "content": "朝韩关系越来越多的在最近两年的电影出现，除开很早以前的共同警备区，到铁雨，再到这一部，对于朝韩关系韩国的思想一直都很超前。"
+    },
+    {
+      "user": "猫语猫寻",
+      "avatar": "https://img3.doubanio.com/icon/u10864734-74.jpg",
+      "content": "很多年后，我应该还是会记得他们隔着人群的相望吧！感人"
+    },
+    {
+      "user": "helloliu",
+      "avatar": "https://img3.doubanio.com/icon/u40466550-5.jpg",
+      "content": "心心相惜的友谊弥足珍贵"
+    },
+    {
+      "user": "荒林",
+      "avatar": "https://img3.doubanio.com/icon/u48447893-344.jpg",
+      "content": "应该是目前今年韩国最好的商业大片，稳中带劲，黄政民正常发挥，惊喜的是配角李星民，演的太好了，但看完这部千万不要再去看他演的《目击者》，会破坏好感。"
+    },
+    {
+      "user": "张劳动",
+      "avatar": "https://img1.doubanio.com/icon/u1347732-48.jpg",
+      "content": "每个人都是政治的棋子，永恒不变的南北题材，争斗与和解，在博弈之间。相对来说，还是更喜欢《铁雨》，冲着打斗戏去的观众可能会失望了，更多的像变种的宫斗。美术方面很用心。男二太像赵立新了，瞬间出戏。三星半。"
+    },
+    {
+      "user": "huyouyou",
+      "avatar": "https://img3.doubanio.com/icon/u1439441-31.jpg",
+      "content": "“我和你一样，都爱我的民族和祖国”“我爱祖国和民族，但我一定就要爱执政党吗？“原来特工也是为特定阶层服务的。这里面的金二胖，好有派头。#20181120"
+    },
+    {
+      "user": "一碗云吞",
+      "avatar": "https://img3.doubanio.com/icon/u1349428-10.jpg",
+      "content": "大家演技还是炸裂的，但是政治背景实在是疲劳了。。。。最后过于煽情了吧。。。。"
+    },
+    {
+      "user": "枯藤和老虎",
+      "avatar": "https://img1.doubanio.com/icon/u1891500-7.jpg",
+      "content": "3.5编剧也是用尽了辗转腾挪，说的原来是这事儿。话说好像是朴槿惠时代吧，在野党质疑情报部门的秘密拨款逼得情报长官不得不在国会作证款项使用情况，结果一大票在在中国的特工被暴露……貌似和汤灿的事有关。大概编剧其实想说的就是最后李处长所说的”韩国真是个奇葩的国家“吧。\nPS:男主收获爱情这短评太牛逼了！！哈哈哈哈哈……我喜欢！"
+    },
+    {
+      "user": "KinG羽",
+      "avatar": "https://img3.doubanio.com/icon/u3744974-245.jpg",
+      "content": "谈什么这那主义，谈什么民族大义，都是利益。最后假劳力士与浩然正气的兄弟情谊才称得上伟大。基本都是通过台词缓慢推动剧情，别人口中的紧张感悬疑感我是真没怎么感受到，一度昏昏欲睡。朝韩题材拍到现在还能拍出新意来也算不易。李星民大叔太棒了，将冷峻狡黠与亲切温暖完美融合。"
+    },
+    {
+      "user": "蝠蝠",
+      "avatar": "https://img3.doubanio.com/icon/u183816493-22.jpg",
+      "content": "特工这个职业真的是伟大而隐秘，全片始终没有开一枪，却拍了剧力万张的紧张感，最后的场景真的是我今年看过的电影里面最让人泪目的了，不渲染不煽情，一块假劳力士换来一段跨越国家的情谊。拍的真好"
+    },
+    {
+      "user": "刷鞋大王",
+      "avatar": "https://img1.doubanio.com/icon/u157380196-9.jpg",
+      "content": "“政治这个东西，用常人逻辑是无法理解的。”朴和李都是怀着一腔热血为国家奋斗的人，却处在两国高层的阴谋漩涡中身不由己。眼看着共同理想即将沦为利益的牺牲品，两个真正的战士跨越立场建立起了真正的友谊，怀着破釜沉舟的决心迎来了那场高光劝谏。影片取景好评，九十年代的北京、庄严的领导人宫殿和惨不忍睹的贫民窟都让人印象深刻。最后的煽情真是无法抵挡……反正我是被戳到了😭"
+    },
+    {
+      "user": "春叁拾郎",
+      "avatar": "https://img3.doubanio.com/icon/u51514536-4.jpg",
+      "content": "最高尊严... 自黑自白  朝核来自中科大任教的朝物理教授..."
+    },
+    {
+      "user": "曼靑",
+      "avatar": "https://img3.doubanio.com/icon/u3335015-210.jpg",
+      "content": "韩国和朝鲜像两个小朋友一样 这种老是打来打去的戏路，从「隐秘而伟大」开始 我就已经开始厌倦了。从「隐秘而伟大」的金秀贤、到「铁雨」的郑雨盛、再到这一部「特工」中的黄政民，无一不是特工题材。如果不是最后有李孝利的出镜，这就是一部纯爷们儿的电影了。这么多年来 这一类题材的电影已经露出疲态 但是因为时局的缘故反而越拍越来劲儿了。唯一有长进的是，韩国除了不停的揶揄朝鲜这个战斗力弱的哥哥之外，开始一点点的在电影中加入关于和平的憧憬。毕竟，打死不离亲兄弟。"
+    },
+    {
+      "user": "m89",
+      "avatar": "https://img3.doubanio.com/icon/u4896291-26.jpg",
+      "content": "非斗智型。朝鲜的造景不错，还原度很高，委员长也演得惟妙惟肖，北京的部分就太假了，一看就是臆想出来的。前面比较平淡，常规的间谍片戏码，从执政党利用情治机关当打手为选举服务，抹红对手、制造舆论（和民进党很像）才开始好看起来。但最后《英雄本色》式的惺惺相惜太戏剧化了，还是没忍住来了场韩式大煽情。"
+    },
+    {
+      "user": "阿子儿",
+      "avatar": "https://img3.doubanio.com/icon/u2109007-30.jpg",
+      "content": "哑巴里还是40以上的男人才性感。"
+    },
+    {
+      "user": "jinying",
+      "avatar": "https://img3.doubanio.com/icon/u1000674-2.jpg",
+      "content": "间谍片的天生母题就是“组织不可信”，但这部还挖出了一个新的子命题：不是国家民族不可信，是执政dang不可信啊！双雄模式中朝鲜一方的扮演者李星民演技炸裂，把隐忍淳朴加冷血演绎得入木三分，尤其送领带夹时的微表情，值得反复看个十遍。"
+    },
+    {
+      "user": "芥末蘸酱",
+      "avatar": "https://img3.doubanio.com/icon/u4480774-372.jpg",
+      "content": "什么时候有人能拍一部类似的讲述台海两岸故事的电影？"
+    },
+    {
+      "user": "wan安白日梦",
+      "avatar": "https://img3.doubanio.com/icon/u102949183-1.jpg",
+      "content": "真好看，韩国敢直面自己的丑闻，不像某国他妈的天天主旋律，直恶心，电视都懒的开。"
+    },
+    {
+      "user": "Stan 安敢饶舌",
+      "avatar": "https://img3.doubanio.com/icon/u34554917-60.jpg",
+      "content": "190615看过。补标。比《铁雨》更令人信服，质感视效方方面面要好很多。同样是朝韩关系，朝核问题，双主角的配制，剧情上也是这部完整合理得多。很多在90年代‘北京’的戏都取景于台北（华西街夜市，朝北医院），虽然外观差得很远，但氛围上还挺对的。居然直接拍了如何通过重重关卡抵达金二胖的居所(取景台北中山楼)，以及不少二胖的内容（养狗，喝洋酒，卖古董233。对双主角的刻画很成功，总之看到最后是很感动的。"
+    },
+    {
+      "user": "朱熠",
+      "avatar": "https://img1.doubanio.com/icon/u1514785-29.jpg",
+      "content": "你以为是部又挂着韩朝关系外衣的谍战片，但叙事温吞又贫乏，直到后半部陡然撕开了令人瞠目的政治阴谋，还有阴谋下敢于对抗政权保有浩然之气的两个个体"
+    },
+    {
+      "user": "王卡",
+      "avatar": "https://img3.doubanio.com/icon/u1219568-111.jpg",
+      "content": "导演心想：这个故事这么牛逼，这也想拍进去，那也想拍进去，不如全拍进去吧！于是呈现了一个情节巨多，联结不讲究，看画外音的字幕都看得累死了的电影。"
+    },
+    {
+      "user": "风雨骑老师",
+      "avatar": "https://img3.doubanio.com/icon/u4422848-45.jpg",
+      "content": "同为南北韩破冰题材，比起去年《铁雨》强烈的漫画感，这部更走写实路线，叙事更加沉稳扎实，剧本更加令人回味：关于经济与政治的千丝万缕，关于什么是真正的爱国者。90s的朝鲜跟北京的布景也很有意思，演员都很出彩，黄政民依然稳，李兴民惊艳至极，惊喜的是扮演Boss Kim的演员和扮演自己的李孝利。"
+    },
+    {
+      "user": "苏乏",
+      "avatar": "https://img1.doubanio.com/icon/u1123223-28.jpg",
+      "content": "相当稳，给人以随便拍拍就妥的错觉"
+    },
+    {
+      "user": "孤岛",
+      "avatar": "https://img3.doubanio.com/icon/u51138955-72.jpg",
+      "content": "政治永远都是最黑暗的，不管表面什么样。"
+    },
+    {
+      "user": "PROMISE921",
+      "avatar": "https://img3.doubanio.com/icon/u1679234-1.jpg",
+      "content": "谍战的目的何在？这是没个特工需要思考人生的问题(⊙_⊙)"
+    },
+    {
+      "user": "冰山的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u57004536-34.jpg",
+      "content": "小我和大我之间的拉扯。很难不让人将此片与之前的《铁雨》作对比。通过此片大可看出韩国幼稚的政治观。结尾很有力。"
+    },
+    {
+      "user": "木偶",
+      "avatar": "https://img3.doubanio.com/icon/u1333942-42.jpg",
+      "content": "去年有铁雨，今年有特工，韩国的类型片都非常成熟，剧情略沉闷，但对朝韩关系及内部历史描述还是很有意思的。最后两人相识，非常动情。"
+    }
+  ]
+}

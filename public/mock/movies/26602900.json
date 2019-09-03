@@ -1,0 +1,1203 @@
+{
+  "title": "魔女",
+  "url": "https://movie.douban.com/subject/26602900/",
+  "rate": "7.4",
+  "id": "26602900",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522814268.jpg",
+  "info": [
+    "导演: 朴勋政",
+    "编剧: 朴勋政",
+    "主演: 金多美 / 赵敏修 / 朴熙顺 / 崔宇植 / 高敏诗 / 吴美姬 / 崔政宇 / 多恩 / 金秉玉 / 李柱元 / 金河娜 / 李基英 / 权泰元 / 李时勋  / 白承哲 / 袁民奎 / 金宗勋 / 徐翰洁",
+    "类型: 动作 / 悬疑",
+    "制片国家/地区: 韩国",
+    "语言: 韩语",
+    "上映日期: 2018-06-27(韩国)",
+    "片长: 125分钟",
+    "又名: 魔女首部曲：诞生(台) / 魔女首部曲：毀坏(港) / The Witch : Part 1. The Subversion"
+  ],
+  "desc": "该电影讲述了10年前在一起奇怪的事故中独自生还的失忆少女子允，在一对老夫妇的抚养下长大。为了贴补家用，子允参加了某档电视节目，但让她没想到的是，就在节目播出后，开始有各种奇怪的人出现在她面前……",
+  "members": {
+    "director": {
+      "name": "朴勋政 Hoon-jung Park",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1365588974.11.jpg"
+    },
+    "cast": [
+      {
+        "name": "金多美 Da-mi Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1529574373.31.jpg"
+      },
+      {
+        "name": "赵敏修 Min-su Jo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36261.jpg"
+      },
+      {
+        "name": "朴熙顺 Hee soon Park",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1381828377.67.jpg"
+      },
+      {
+        "name": "崔宇植 Woo-Sik Choi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565247258.77.jpg"
+      },
+      {
+        "name": "高敏诗 Min-si Go",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531614188.69.jpg"
+      },
+      {
+        "name": "吴美姬 Mi-hee Oh",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3DaRMYd3pE8cel_avatar_uploaded1527245554.79.jpg"
+      },
+      {
+        "name": "崔政宇 Jung-woo Choi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1378102507.73.jpg"
+      },
+      {
+        "name": "多恩 Daeun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503657327.4.jpg"
+      },
+      {
+        "name": "金秉玉 Byeong-ok Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46741.jpg"
+      },
+      {
+        "name": "李柱元 Ju-won Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506327083.5.jpg"
+      },
+      {
+        "name": "金河娜 Ha-na Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524853118.49.jpg"
+      },
+      {
+        "name": "李基英 Ki-young Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1404287335.85.jpg"
+      },
+      {
+        "name": "权泰元 Tae-won Kwon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511629632.88.jpg"
+      },
+      {
+        "name": "李时勋  Si-hoon Lee ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531314102.87.jpg"
+      },
+      {
+        "name": "白承哲 Seung-chul Baek",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505719781.83.jpg"
+      },
+      {
+        "name": "袁民奎 Woo Min-kyu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518449395.18.jpg"
+      },
+      {
+        "name": "金宗勋 Jong-hoon Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pi1jLpabrpE4cel_avatar_uploaded1521193696.29.jpg"
+      },
+      {
+        "name": "徐翰洁 Han-gyeol Seo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533829166.83.jpg"
+      },
+      {
+        "name": "金道爀 Do-hyeok Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531314755.9.jpg"
+      },
+      {
+        "name": "朴向勋 Sang-hoon Park ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531313161.02.jpg"
+      },
+      {
+        "name": "吕茂英  Moo-yeong Yeo ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531312327.37.jpg"
+      },
+      {
+        "name": "李时宇 Si-woo Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531311512.86.jpg"
+      },
+      {
+        "name": "李圣贤 Mowg",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371287306.97.jpg"
+      },
+      {
+        "name": "高奉久 Bong-goo Go",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531314922.3.jpg"
+      },
+      {
+        "name": " Jeong-goo Seo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531315057.67.jpg"
+      },
+      {
+        "name": "金孝珍 JeA",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1531316739.06.jpg"
+      },
+      {
+        "name": "Hyeok-seong Kwon ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533960479.62.jpg"
+      },
+      {
+        "name": "Gwang-hee Jo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533960740.54.jpg"
+      },
+      {
+        "name": "金永 Kim Yoo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533959961.67.jpg"
+      },
+      {
+        "name": "崔贤钟 Hyeon-jong Choi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533959431.08.jpg"
+      },
+      {
+        "name": "申载敏 Jae-min Sin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533960251.46.jpg"
+      },
+      {
+        "name": "金基政 Gi-jeong Kim",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1533959038.35.jpg"
+      },
+      {
+        "name": "李夏英 Ha-yeong Lee ",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "Seung-yoon Han ",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "宋亨秀 Hyeong-soo Song",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507533534.53.jpg"
+      },
+      {
+        "name": "郑雨琳 Woo-rim Jung",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506482703.31.jpg"
+      },
+      {
+        "name": "金龙云 Yong-woon Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511158468.19.jpg"
+      },
+      {
+        "name": "玄奉植 Bong-shik Hyun",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509075561.77.jpg"
+      },
+      {
+        "name": "白钟焕 Baek Jong-hwan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514284793.02.jpg"
+      },
+      {
+        "name": "郭振锡 Jin-seok Kwak",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517230362.41.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img1.doubanio.com/img/trailer/medium/2537143097.jpg?",
+        "src": "http://vt1.doubanio.com/201908311056/dd440867b4a93bf7d80edb5207ed8e36/view/movie/M/402370890.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2524334429.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2524334424.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2524334356.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2553291616.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "瞬移枪刀破脑，肉盾折肢穿墙，微笑杀人魔女计中计；前一小时蠢又废，后一小时血浆脑浆爽飞天，又一部次世代限制级超能动作场面的片子出现了。去年有《恶女》，今年有《魔女》，感觉韩国在类型片探索上比这几年的好莱坞强很多，但是故事和细节之类还总是莫名尴尬啊。强烈期待续集"
+    },
+    {
+      "user": "宝莎儿",
+      "avatar": "https://img3.doubanio.com/icon/u2393995-13.jpg",
+      "content": "前面看的快睡着了。铺垫太多，引线抛得太长了。 后面大揭晓和打戏，刚提起兴致，没想到结束了。后面还弄了个下回分解。如果是想达到众人期待的效果，那算是成功了"
+    },
+    {
+      "user": "BLAKE",
+      "avatar": "https://img3.doubanio.com/icon/u1429451-23.jpg",
+      "content": "足够暴力，应该可以拍好几部，打分的人好不善良。"
+    },
+    {
+      "user": "嘉嘉的身旁",
+      "avatar": "https://img3.doubanio.com/icon/u3142312-3.jpg",
+      "content": "差点就漏了这部爽片。看片头就隐约猜到是生化改造之类的题材，前半段铺垫，后半段渐入佳境，脑洞大开，动作部分爽快，期待续集"
+    },
+    {
+      "user": "罗杰·费德勒",
+      "avatar": "https://img3.doubanio.com/icon/u90808222-61.jpg",
+      "content": "惠若琪大战刘宪华"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "表演集体浮夸而灾难，至于都在叫好的动作戏，确实可以和武指之前的《大叔》做下对比，后者的动作戏之所以好看，在于具备充沛的感情基础和角色魅力，而本片文本演绎之干瘪程度对于编剧出身的朴勋政来说几乎是再创新低，刚刚因为去年的《V.I.P》而回升的些许好感又一次荡然无存，韩片复制港片制作模式已是老生常谈，只是没想到连港片导演与武指分裂创作所导致的“打戏脱节”这个毛病也“学”了过来，不期待续集。"
+    },
+    {
+      "user": "白兔糖",
+      "avatar": "https://img3.doubanio.com/icon/u162139319-1.jpg",
+      "content": "拖沓冗长，甚至有点无聊，最后动作戏其实也一般般，前期铺垫也没铺垫出个啥，整部电影情感和故事都弱。反派全是一副自己很屌的样子结果实力被吊打，韩影有时的老毛病就是这种反派故意搞得很嚣张的样子，结果他妈不堪一击。。。"
+    },
+    {
+      "user": "听霜书生",
+      "avatar": "https://img3.doubanio.com/icon/u29442857-2.jpg",
+      "content": "打的地方，感觉挺下血本的，可是情节实在理解不了：那个一代大叔，你不就是也想杀了他们吗？你就等着两虎相争再杀就罢了呗？提前装逼干嘛？还有，那个药是给女主这种超人用的，她给养母能管用吗？他俩也不是一样病额……"
+    },
+    {
+      "user": "Alec",
+      "avatar": "https://img1.doubanio.com/icon/u143433332-17.jpg",
+      "content": "暴走 红手 超能打，看前半段还以为这是感染了卡赞诅咒呢。本片唯一优点就是后半段打的很爽。缺点一堆，前半段节奏过慢，整体科幻情节太软，反转和之后的煽情又太硬太刻意。还有结尾也是莫名其妙的，是还要拍续集的意思么？这片子看完有种看《大护法》那感觉，有很多要交代的东西，结果什么都没说，就结束了。坑越挖越大，就是不填。"
+    },
+    {
+      "user": "芦哲峰",
+      "avatar": "https://img1.doubanio.com/icon/u1329080-9.jpg",
+      "content": "魔女扮猪吃虎，结果虎是纸虎。前面铺垫过长，后面打斗太短。反派从不可一世到不堪一击，只在三拳两脚之间。魔女虽有异能术，不及去年恶女狠。"
+    },
+    {
+      "user": "Elva siu",
+      "avatar": "https://img3.doubanio.com/icon/u58139142-16.jpg",
+      "content": "女主和崔宇植竟然有cp感，我都不希望他俩互相残杀。期待下一部。"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "质感非常好的韩国超能力科幻片，青少年向的故事外加成人向的血腥动作，有一些让人很中意的B级趣味，但是整体的节奏感还是太差了，一个多小时的铺垫看得人昏昏欲睡，无效的情节一大把，好在之后的动作场面爽回来了，希望续集可以修正第一部的问题吧。"
+    },
+    {
+      "user": "。",
+      "avatar": "https://img3.doubanio.com/icon/u61897261-11.jpg",
+      "content": "其实是好看的 期待下第二部"
+    },
+    {
+      "user": "化身孤岛的鲸",
+      "avatar": "https://img3.doubanio.com/icon/u147743670-15.jpg",
+      "content": "前面的铺垫为了后面的无敌戏码\n动作戏真的是意淫爽爆了"
+    },
+    {
+      "user": "兔兔猫斯拉",
+      "avatar": "https://img3.doubanio.com/icon/u2681453-16.jpg",
+      "content": "医学怪物整体的基因爆表！strong fast smart 所有优良基因集于一身！关键还冷静！韩国导演把漫画改编电影还算不错👌女主小姐姐选角成功，把一级精致产品演绎的完美！傻闺蜜蛮可爱的！看那个很屌的长发次级产品挑衅最后被收拾的炒鸡过瘾！速度慢意念差还嚣张可不就是活不过续集。"
+    },
+    {
+      "user": "大眼睛很萌",
+      "avatar": "https://img3.doubanio.com/icon/u60073563-23.jpg",
+      "content": "魔女。"
+    },
+    {
+      "user": "词休",
+      "avatar": "https://img3.doubanio.com/icon/u3541486-21.jpg",
+      "content": "韩国版的超体，看得畅快啊！爽！"
+    },
+    {
+      "user": "野蒜",
+      "avatar": "https://img3.doubanio.com/icon/u57966675-30.jpg",
+      "content": "神他妈这女主造型太像金高银了吧。剧情像罗南演的《汉娜》或《机械姬》，人造人对打人造人之母，好莱坞故事模板成功移植到本土；风格则像金高银演的《中国城》，连妈妈的演员都差不多。今年血浆全靠这部和《升级》续，期待第二部！做成系列吧。（失敬失敬，一查发现是《新世界》的导演，朴勋政在犯罪商业片领域会大有作为的。）"
+    },
+    {
+      "user": "琧婯",
+      "avatar": "https://img3.doubanio.com/icon/u1178038-4.jpg",
+      "content": "虽然装逼，但是好看啊"
+    },
+    {
+      "user": "申由己",
+      "avatar": "https://img1.doubanio.com/icon/u4134449-17.jpg",
+      "content": "低配韩国版变异金刚狼？还是有遗传缺陷那种，韩国人的对话总是有喜剧的成分在里面，即便是这种暴力类型的电影，剧情太经不起推敲，如果能仔细完善一下，其实还是很好的。"
+    },
+    {
+      "user": "爆米花教主",
+      "avatar": "https://img3.doubanio.com/icon/u64213791-15.jpg",
+      "content": "韩版《怪奇物语》"
+    },
+    {
+      "user": "Bittersweet",
+      "avatar": "https://img3.doubanio.com/icon/u58057180-14.jpg",
+      "content": "音乐5 画面6 导演5 故事 6 表演7 印象6 平均 5.8/10 这么血腥真不如直接拍个19禁过瘾。主要演员还是很出彩的。只是第一部，相当于前传，到了结尾处，对下一部还是有点小期待。"
+    },
+    {
+      "user": "蹉跎。",
+      "avatar": "https://img1.doubanio.com/icon/u49522216-9.jpg",
+      "content": "很明显影片资金太少了，导致剧情漏洞比比皆是，特效画面一闪而过，布景设置简陋粗糙，都缺乏更精细的打磨。\n而人设以及演技，就纯粹属于韩国电影演员的通病了：无论背靠多么强大的组织，呈现出的气质永远像个街头小瘪三。\n快准狠的打斗还算精彩，但为了追求真实感、爽快感，剪辑的速度太快把动作剪的太零散了，让打斗的连续性被破坏的支离破碎；女主角似白非黑的性格设定也还算有趣，但前期铺垫还是显得太长了，很多没有必要的对话和背景完全可以忽略不计的。\n综合来看，对超能力类题材的尝试值得鼓励，如果后续系列影片追加了投资也值得期待。"
+    },
+    {
+      "user": "甦",
+      "avatar": "https://img3.doubanio.com/icon/u1148235-1.jpg",
+      "content": "朴导 还是更适合新世界那样的节奏哇～ 多美妹子很有戏哇 动作版金高银预定  就是反转来的太晚  下一集 可以考虑看看"
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "很难想象导演是怎么把演员的表演水准都降到最低的，糟糕的角色设定看得非常尴尬"
+    },
+    {
+      "user": "NASA",
+      "avatar": "https://img3.doubanio.com/icon/u60479943-3.jpg",
+      "content": "起初给人感觉是俗套的韩式苦情动作，看到最后半小时才发觉原来是爽快的单方面完虐，女主的能力与腹黑程度实在逆天...如果影片时长能压缩压缩，不要如此冗长会更好。"
+    },
+    {
+      "user": "Xaviera",
+      "avatar": "https://img3.doubanio.com/icon/u48953772-16.jpg",
+      "content": "前面略有拖沓，最精彩的部分都在最后半小时了（毕竟导演自己也说不够钱拍）超能力题材以“魔女”这一女性身份来写本身就很值得鼓励，看完非常想看续集，这一部是subversion，是不是可以来个前传beginning，后续renascence？但还是觉得格局太小，甚至觉得血腥程度也不够高，导演始终还是放不开（这片让朴赞郁来拍可看度估计会升一倍）但金多美演技相当可以甚至今年女新人极有可能收入囊中，最满意还是崔宇植，看过他那么多部电影里面最帅的一部不解释"
+    },
+    {
+      "user": "mu❤se",
+      "avatar": "https://img3.doubanio.com/icon/u64755839-13.jpg",
+      "content": "动作戏看得我超爽啊 喜欢这种无脑爽片"
+    },
+    {
+      "user": "发条橙",
+      "avatar": "https://img3.doubanio.com/icon/u169721244-4.jpg",
+      "content": "挺过了前一个小时，后半部分的“WTF”反转时刻还是蛮爽的。"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "超能力女孩的复仇之路，前面比较无聊，尤其讲述日常、家庭的部分，有些冗长沉闷，好在后面动作戏干净利索，赢回了一些好感，整体算是不功不过，值得一看；女主角长得很朴实，像个丑小鸭，可能是少部分没整过形的韩国女孩儿吧。"
+    },
+    {
+      "user": "裕",
+      "avatar": "https://img3.doubanio.com/icon/u57818292-10.jpg",
+      "content": "动作戏拍得好，反杀超爽的，本来在工作没有太留心看，后来眼睛都离不开屏幕"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "前面比较无趣，铺垫太长了，后面动作戏部分还挺血腥的"
+    },
+    {
+      "user": "榜上有名猫",
+      "avatar": "https://img3.doubanio.com/icon/u77659294-2.jpg",
+      "content": "血腥暴力美学爽片儿，本心以为小女主自幼不堪回首往事成年后小浪漫安稳新生活之际不幸被当年十恶不赦大坏蛋捕杀继而为保护亲友奋起反抗直捣巢穴剿灭敌方的黑暗复仇套路故事。结果反转之后，下手比反派还重，邪魅神情套入Boss级战斗力席位，走势让人十分期待第二部你只抱有把幕后组织赶尽杀绝就这么单纯的想法？"
+    },
+    {
+      "user": "艾晨",
+      "avatar": "https://img3.doubanio.com/icon/u1140816-93.jpg",
+      "content": "三星半，基因题材，看似平静底下的黑暗血腥。铺垫稍长，打斗简单粗暴。等续集。"
+    },
+    {
+      "user": "方枪枪",
+      "avatar": "https://img3.doubanio.com/icon/u2586116-96.jpg",
+      "content": "韩国X战警，超能力女战士，技能多样。下一部按这部后半程来拍就对了，本来就是血腥萝莉斗坏人的故事，还要什么内涵？？！！"
+    },
+    {
+      "user": "錫长安",
+      "avatar": "https://img1.doubanio.com/icon/u163043458-17.jpg",
+      "content": "韩版《超体》。可是却没有《超体》般干净"
+    },
+    {
+      "user": "木木",
+      "avatar": "https://img3.doubanio.com/icon/u10673764-30.jpg",
+      "content": "三星半，还蛮好看的，如果前面铺垫能更精简一点能上四星，应该还有第二部"
+    },
+    {
+      "user": "红袍修罗",
+      "avatar": "https://img3.doubanio.com/icon/u4268830-2.jpg",
+      "content": "①韩国的电影，中国的故事，基因编辑婴儿终致不可控②前面铺垫过长，可以更紧凑一些③单眼皮的逆袭，心机婊完虐装逼犯④好像有宇宙观，似乎准备做一个大新闻"
+    },
+    {
+      "user": "十个斗的眼窝浅",
+      "avatar": "https://img1.doubanio.com/icon/u2203966-28.jpg",
+      "content": "我是因为看了其中打斗戏的剪辑才看的全片。打斗戏的确出彩！属于韩国自己的，少女型超级人类。最近韩国的片子，各种类型的竟然都能看进去，还是挺享受观影过程的。"
+    },
+    {
+      "user": "浮影人生",
+      "avatar": "https://img3.doubanio.com/icon/u2946082-4.jpg",
+      "content": "给三颗星都算极勉强。影片编排得极其随意，简直跟小学生做幻想自己瞬间拥有超能力的白日梦一样，小孩子这样想想倒也罢了，一个影片的编导都敢这样编，那就是不是幼稚的问题了，简直是白痴。影片前半段寡淡如水，甚至令人心生厌倦，后半段几乎毫无过场戏，女主角直接从人畜无害的三好学生瞬间变身怨念重重嗜血如命的冷血刽子手。令人瞠目结舌的不是影片后半段的血浆横飞，而是堪比“妇联”地球卫士们的种种手段。尤其令人厌恶的是影片中的演员们，几乎个个其丑无比，演技更是全线崩溃。尤其崔宇植，片中简直二逼一样，丑得让人看了直想吐，还自我感觉极其良好。其咬手指的小动作塑造简直灾难一样，兰花指都没这个令人作呕。韩国影片整体讲水平非常高，有些类型片可以说是一流的，超越好莱坞的，而本片此类的类型片却往往拙劣不堪，甚至画虎不成反类犬。"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "7分。还不错，通俗易懂。。大开杀戒也算看得爽快。就是结尾突然出现的隐藏人物没搞懂。"
+    },
+    {
+      "user": "种玫瑰的兔子",
+      "avatar": "https://img3.doubanio.com/icon/u162262245-3.jpg",
+      "content": "女主有点金高银的feel，后面武打看的蛮过瘾的，蛮喜欢女主人设的，看的爽"
+    },
+    {
+      "user": "韦人",
+      "avatar": "https://img3.doubanio.com/icon/u175476677-4.jpg",
+      "content": "前半部太拖沓，动作戏太少。分两次看完的，因为前半部实在太拖沓了。勉强给个及格分吧"
+    },
+    {
+      "user": "阿依达",
+      "avatar": "https://img1.doubanio.com/icon/u1158627-19.jpg",
+      "content": "剧情衔接不上的地方还是相当多，不过导演动作片拍得相当精彩，镜头与剪接都很紧凑酷炫，应该考虑拍武打片或者《大逃杀》之类的。"
+    },
+    {
+      "user": "nikki",
+      "avatar": "https://img1.doubanio.com/icon/u1102916-409.jpg",
+      "content": "19048#我觉得导演是不大可能拍得了后面两部的了毕竟这部都穷成这个样子了。女主角很韩国长相了（发飙前）既像金高银又朴素丹，演得还好吧挺有魅力的。故事方面就那样吧，中二感，想了一下好像韩国这类型也不多，不过真的是全片都写着一个穷字，钱都用在布景和化特殊妆上面了吗。前戏太长，高潮太短，女主角设定得太强这个后面要怎么拍呢，不过我想导演多半是拍不出来的了。"
+    },
+    {
+      "user": "国产凌凌期",
+      "avatar": "https://img3.doubanio.com/icon/u62917415-13.jpg",
+      "content": "没想到是部关于变种人的科幻片。说实话，后面女主角的黑化部分惊喜了一把，但是除了血浆和反转之外都不是我所期待的。变种人式的科幻打斗，结尾混乱不清的人物关系，过量的台词和拖沓的节奏，女主角后半程面瘫演技，还有无故挖坑准备续集。感官体验尚可，但续集我真的期待不起来。"
+    },
+    {
+      "user": "神经病有所好转",
+      "avatar": "https://img3.doubanio.com/icon/u53051387-2.jpg",
+      "content": "打架镜头敢不敢多一点。不过瘾啊"
+    },
+    {
+      "user": "蒸桑拿的冰激凌",
+      "avatar": "https://img1.doubanio.com/icon/u1350462-28.jpg",
+      "content": "女主性格想起《武侠》里的甄子丹，但角色性格反转的过于戏剧化，结局为第二部铺垫的太仓促又违和，还挺希望她身份背书结合真实历史的，就像《我要复仇》结尾那样来为这一整套故事做框架。在同类型电影的价值观输出方面，也是比较喜欢的东方气质，不是印度挂那种尬升华。"
+    },
+    {
+      "user": "杰诺拉泽",
+      "avatar": "https://img1.doubanio.com/icon/u1761926-19.jpg",
+      "content": "韩国人爱萝莉。"
+    },
+    {
+      "user": "einverne",
+      "avatar": "https://img1.doubanio.com/icon/u46536222-17.jpg",
+      "content": "编剧666"
+    },
+    {
+      "user": "荒林",
+      "avatar": "https://img3.doubanio.com/icon/u48447893-344.jpg",
+      "content": "装逼一个比一个强，打起来一个比一个弱"
+    },
+    {
+      "user": "罗拉罗拉罗拉罗拉罗拉罗拉罗拉",
+      "avatar": "https://img3.doubanio.com/icon/u1454871-293.jpg",
+      "content": "期待以下，我还以为类似哭声呢，看睡着了，崔宇植太可爱啦"
+    },
+    {
+      "user": "m89",
+      "avatar": "https://img3.doubanio.com/icon/u4896291-26.jpg",
+      "content": "一个俗套的反转，拯救了一部无聊又平庸的电影。"
+    },
+    {
+      "user": "跳楼汽水",
+      "avatar": "https://img3.doubanio.com/icon/u80853946-5.jpg",
+      "content": "集体演技浮夸，和一切垃圾韩剧一样，总是有个聒噪女配，再来个装逼小白脸和三百眼恶毒女配，反派们都集体目中无人的模样，女主黑化后也带上了装逼气息，真的看腻了"
+    },
+    {
+      "user": "Lunar C.",
+      "avatar": "https://img3.doubanio.com/icon/u2238925-122.jpg",
+      "content": "比预期好看。"
+    },
+    {
+      "user": "眼眶有点屎。",
+      "avatar": "https://img3.doubanio.com/icon/u57371510-20.jpg",
+      "content": "说女主演技在线的是认真的吗？从头到尾蜜汁微笑，装无辜就是皱眉瞪眼，该狠的时候也是跟崔帅哥互飙一下蔑视表情而已，没有感受到角色反转的惊喜。动作戏明明就很僵硬好嘛，爆破那几下特技请不要大惊小怪，常规操作。对于日韩片反派装坏喜欢蔑视的微笑还有嚼口香糖真是看着腻歪。ps:7分虚高。"
+    },
+    {
+      "user": "胡桃园咔嚓女王代表老柴咔了你",
+      "avatar": "https://img3.doubanio.com/icon/u1107747-3.jpg",
+      "content": "死毒死毒的爽片相当喜欢（虽然不能说完美）。结束前写着PART I，所以是不是会有第二集？PS，年轻演员表演到位"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "女孩眼神很犀利。"
+    },
+    {
+      "user": "PROMISE921",
+      "avatar": "https://img3.doubanio.com/icon/u1679234-1.jpg",
+      "content": "这看样子还要续集？"
+    },
+    {
+      "user": "GIVIND",
+      "avatar": "https://img3.doubanio.com/icon/u59203564-123.jpg",
+      "content": "血腥不足，浮夸有余。"
+    },
+    {
+      "user": "被子姑娘",
+      "avatar": "https://img3.doubanio.com/icon/u32744103-14.jpg",
+      "content": "想看第二部"
+    },
+    {
+      "user": "Yourlove_Du",
+      "avatar": "https://img3.doubanio.com/icon/u142376774-3.jpg",
+      "content": "0分，真不知道豆瓣拿来这么多人评到7.2分的。看了这么多部韩国电影，一部《美玉》、一部这个《魔女》，只有这两部是真的不好看。"
+    },
+    {
+      "user": "刘三岁",
+      "avatar": "https://img3.doubanio.com/icon/u83908392-72.jpg",
+      "content": "【6.8】即使是类型片也很不错啊，继《与神同行》之后韩国商业片宇宙。前面的铺垫比较细致，虽然时间略长，但我觉得反而是制作比较用心的地方。90分钟后变成了血肉模糊的视觉冲击，有点《升级》+《超体》的感觉，令人惊奇，倒也觉得并不是很过瘾，太短了，而且反派也过于气势汹汹（实力不济）了吧。"
+    },
+    {
+      "user": "33MHz",
+      "avatar": "https://img3.doubanio.com/icon/u47054410-2.jpg",
+      "content": "嘴炮真TM多- -前1小时分钟都在废话。后边再留个不知道所以然的结尾。0分"
+    },
+    {
+      "user": "李坚持",
+      "avatar": "https://img3.doubanio.com/icon/u142362650-2.jpg",
+      "content": "演员演技太棒"
+    },
+    {
+      "user": "小罐脉动",
+      "avatar": "https://img3.doubanio.com/icon/u52576282-2.jpg",
+      "content": "四星，题材喜欢加一星，期待第二部"
+    },
+    {
+      "user": "女神的秋裤",
+      "avatar": "https://img3.doubanio.com/icon/u124812731-41.jpg",
+      "content": "动作满分，故事负分，这么简单的故事好好的学着《升级》那样多好，硬生生尬拍俩小时，好在后一个小时全程高能，加一星"
+    },
+    {
+      "user": "龙皇",
+      "avatar": "https://img3.doubanio.com/icon/u145516659-4.jpg",
+      "content": "是关于长大后的超能力者逃避追杀和寻找解药的事，打斗很精彩，很眩酷，场面很血腥，很暴力，想不到８岁的小女孩就知道寻找躲藏处和上网找解药了，长大后貌似无意选秀曝光，其实是引蛇出洞，太有心机了，看来大脑开发得很厉害。女主颜值一般，演技尚可，配角颜值都比女主强。"
+    },
+    {
+      "user": "Vivian",
+      "avatar": "https://img3.doubanio.com/icon/u45278107-13.jpg",
+      "content": "看的过瘾，韩版x战警"
+    },
+    {
+      "user": "少年_阿一叁",
+      "avatar": "https://img3.doubanio.com/icon/u173037036-41.jpg",
+      "content": "刚刚看完，故事和人物设计有点日本动漫的味道，不禁让我想起亚人和寄生兽，人物都有着自己的利益道德，这种思考很吸引人。唯一的不足是铺垫太长，当然，总的评价要等后两部出来，因为故事是连着的，还没有结束。这算开了个好头。"
+    },
+    {
+      "user": "西决",
+      "avatar": "https://img3.doubanio.com/icon/u48484295-22.jpg",
+      "content": "类似超体，撑到后半段大杀四方还是蛮爽的，小姑娘演技不错"
+    },
+    {
+      "user": "喂，有人在吗？",
+      "avatar": "https://img3.doubanio.com/icon/u2246602-35.jpg",
+      "content": "gam"
+    },
+    {
+      "user": "HarperYug",
+      "avatar": "https://img3.doubanio.com/icon/u161704364-22.jpg",
+      "content": "前面铺垫的实在是太长了，看的时候会感觉有点无聊，后半程的剧情倒还是可以。主演的演技在线，虽然没有宏大的场面做映衬，但总体还不错。6.7"
+    },
+    {
+      "user": "jiade",
+      "avatar": "https://img3.doubanio.com/icon/u34776896-2.jpg",
+      "content": "前半段铺垫枯燥么？我不觉得。"
+    },
+    {
+      "user": "失意的孩子",
+      "avatar": "https://img3.doubanio.com/icon/u64544029-22.jpg",
+      "content": "6.0 1.2倍速。"
+    },
+    {
+      "user": "渡边。",
+      "avatar": "https://img3.doubanio.com/icon/u1862228-10.jpg",
+      "content": "单眼皮瞪大眼太出戏了。"
+    },
+    {
+      "user": "Dioretsa-Z",
+      "avatar": "https://img3.doubanio.com/icon/u104857605-173.jpg",
+      "content": "演员长的奇奇怪怪很具惊悚效果，节奏太慢，表现过于用力"
+    },
+    {
+      "user": "mOco",
+      "avatar": "https://img3.doubanio.com/icon/u2290115-320.jpg",
+      "content": "超长铺垫。系列片能不能考虑下单部观感。"
+    },
+    {
+      "user": "公民阿良",
+      "avatar": "https://img3.doubanio.com/icon/u139015254-20.jpg",
+      "content": "你真是聪明又狡猾。"
+    },
+    {
+      "user": "jj73浅之",
+      "avatar": "https://img3.doubanio.com/icon/u1267105-374.jpg",
+      "content": "这节奏这推进，这扯淡设定"
+    },
+    {
+      "user": "胸口碎大石",
+      "avatar": "https://img3.doubanio.com/icon/u24139618-5.jpg",
+      "content": "我是真的喜欢魔性之女这种调调的片子，哈哈"
+    },
+    {
+      "user": "小二",
+      "avatar": "https://img1.doubanio.com/icon/u64300838-9.jpg",
+      "content": "跪求别有第二部了。"
+    },
+    {
+      "user": "DrankTimeDown",
+      "avatar": "https://img3.doubanio.com/icon/u71156044-4.jpg",
+      "content": "暴力镜头看起来太爽了，女主天生一张“厌世脸”，前半段太拖沓，节奏没有把握好。"
+    },
+    {
+      "user": "老珂",
+      "avatar": "https://img1.doubanio.com/icon/u4529884-8.jpg",
+      "content": "人设不连贯，节奏突兀。前面冗长的铺垫，后面的一堆小鬼头竟然不堪一击。导演编剧硬是让角色们装逼过头。"
+    },
+    {
+      "user": "yo911217",
+      "avatar": "https://img3.doubanio.com/icon/u85685369-3.jpg",
+      "content": "剧情不完整，人物背景都没介绍清楚。动作戏还行，期待续集。"
+    },
+    {
+      "user": "木晨",
+      "avatar": "https://img3.doubanio.com/icon/u76368072-15.jpg",
+      "content": "你创造了我，我毁灭了你及这个世界。"
+    },
+    {
+      "user": "飞鱼小姐姐",
+      "avatar": "https://img1.doubanio.com/icon/u36109432-7.jpg",
+      "content": "女主这种人设…真的好喜欢~~~完全期待第二部！！！！恶人就需要比他更恶的人去制裁！"
+    },
+    {
+      "user": "镜水修二",
+      "avatar": "https://img3.doubanio.com/icon/u3514261-252.jpg",
+      "content": "走狗小队突入的时候竟然一瞬hin有EVA总部被突袭/血洗的质感（＊￣︶￣＊）后半部分明显节奏不错，前半部分小女主跟村里小哥的互动意外小青葱，各自亮点。或者因为拖太久了，感觉这个故事且讲不完了，略闷。痴汉脸小娘炮并没能获得常见影片中日系小变态们讨巧的触发点←果然还是因为颜值不够邪魅"
+    },
+    {
+      "user": "自己として生き",
+      "avatar": "https://img3.doubanio.com/icon/u151154562-2.jpg",
+      "content": "7.9/10 为30分钟上等动作戏编了个中等故事，想起了去年的《恶女》;但这一回故事没换风格，悬疑刺激度也更好，动作戏套上超能力皮看的更爽，演员也演的更好。拍成19禁会更爽，可惜了。前后呼应的细节应该更多的，净拍副线着实恼火，但先塑造好人物对三部曲也算正常。女主演的太好了没话说了"
+    },
+    {
+      "user": "酱酱酱酱",
+      "avatar": "https://img3.doubanio.com/icon/u2194341-56.jpg",
+      "content": "后面很好看啊"
+    },
+    {
+      "user": "任平生",
+      "avatar": "https://img1.doubanio.com/icon/u57409980-8.jpg",
+      "content": "题材挺老的，但动作戏很有意思。小姑娘的水平完全是吊打国内那些流量啊。"
+    },
+    {
+      "user": "沙宣",
+      "avatar": "https://img1.doubanio.com/icon/u41686939-7.jpg",
+      "content": "美国死侍日本无限之住人，韩国终于填补本国刀枪不入的真空了，最后一幕画蛇添足画虎类犬。"
+    },
+    {
+      "user": "曼靑",
+      "avatar": "https://img3.doubanio.com/icon/u3335015-210.jpg",
+      "content": "据说是韩国版的「超体」，反正这样类型的电影，总是避不开阴谋论的，从结尾看 似乎还想拍第二部。具子允最后逼问贵公子的时候说 我需要知道研究所在哪里，这样我才能活下去，我希望我能继续活下去 不是以一个被研究的工具 而是以具子允的身份。贵公子一半嘲笑一半要挟的反问她 你杀了那么多的人、走到今天、走到这里，你还想只做具子允，你觉得可能吗？人生不是 “ 言之命至，人随己愿 ” 的。她一枪打爆了他的头，毫不犹豫。后来我才知道「言之命至，人随己愿」，这句话的意思是：人生中所期待的东西随着自己的努力与坚持，总会在生命中出现。"
+    },
+    {
+      "user": "超哥哥",
+      "avatar": "https://img3.doubanio.com/icon/u42789134-2.jpg",
+      "content": "打斗自成一体，节奏顺畅，挺好的"
+    },
+    {
+      "user": "pksky",
+      "avatar": "https://img3.doubanio.com/icon/u1682352-1.jpg",
+      "content": "引而不发了大半场才终于现身无敌状态…打斗血腥暴力程度都堪称韩版突袭…女主演得还行，潜力不错…期待续集…"
+    },
+    {
+      "user": "白牙尖",
+      "avatar": "https://img1.doubanio.com/icon/u33624857-28.jpg",
+      "content": "动作戏还行，只是感觉从揭露计中计之后，接下来剧情就垮了。另外，崔宇植和绫野刚长得也太像了。"
+    },
+    {
+      "user": "西凉虫",
+      "avatar": "https://img3.doubanio.com/icon/u20952199-170.jpg",
+      "content": "人体实验的剧情不要再拍了，看腻了而且没新意。这么套路的电影为什么还能拍这么拖沓？"
+    },
+    {
+      "user": "满月",
+      "avatar": "https://img1.doubanio.com/icon/u115131162-7.jpg",
+      "content": "《魔女》——超杀女变态升级版。"
+    },
+    {
+      "user": "第三人称",
+      "avatar": "https://img3.doubanio.com/icon/u167297243-1.jpg",
+      "content": "韩国的电影真的有自己的特色，我个人感觉非常好!故事铺垫的非常完美!bgm也非常好!"
+    },
+    {
+      "user": "一枫之无涯",
+      "avatar": "https://img3.doubanio.com/icon/u140998182-1.jpg",
+      "content": "后半小时爽到飞起"
+    },
+    {
+      "user": "大隐隐于市",
+      "avatar": "https://img3.doubanio.com/icon/u55912346-6.jpg",
+      "content": "反派可以说是很搞笑了，明明不堪一击却各种逼迫女主放大招，结果招来反杀，团灭！不过不得不赞叹棒子的电影水准，已经相当的成熟，且伴有高度成熟的商业化！"
+    },
+    {
+      "user": "文淼",
+      "avatar": "https://img3.doubanio.com/icon/u45414635-13.jpg",
+      "content": "我也被女主骗了，她居然是装失忆，让他们找到自己，然后得到解药。"
+    },
+    {
+      "user": "WIKI魏",
+      "avatar": "https://img3.doubanio.com/icon/u27465503-26.jpg",
+      "content": "又一个前戏太长，后面妹子讲都讲清楚了。金多美和崔宇植那么有CP感，这样打打杀杀多不好，留到下一集用不行么，期待CP复活或者搞个新CP。2019.1.25 6/10"
+    },
+    {
+      "user": "Tina",
+      "avatar": "https://img1.doubanio.com/icon/u3665615-7.jpg",
+      "content": "十分冗长，极度装逼，过多的铺垫、琐碎的细节放慢了惊悚片应有的节奏感，故事缺乏基本合理性，所谓超能力也是雷声大雨点小，打斗纯靠肉体不放大招，这样真得很对不起“魔女”的名讳好伐。所有演员的演技，确实是所有，都在及格线以下，最不堪入目的就是暗黑少年组，乳臭未干还要强撑炫酷的中二病小崽子让老衲感觉心好累"
+    },
+    {
+      "user": "服你吸墨器",
+      "avatar": "https://img3.doubanio.com/icon/u82238487-123.jpg",
+      "content": "这种片需要的几个人物，非常厉害的小孩，开始厉害后来不厉害的青少年，一直比较厉害但必须是死的最惨的成年人。"
+    },
+    {
+      "user": "Morning",
+      "avatar": "https://img3.doubanio.com/icon/u2557883-3.jpg",
+      "content": "韩国版超体，絮絮叨叨的铺垫也没有讲出个所以然来，全为拌猪吃老虎做准备，反派太弱，所以也不知道到底是为了骗观众还是骗故事里的人。所有不是人情世故的生活片段演员们全都表现很差，尤其女二号，后段顶着莫名其妙的妆给出一些莫名其妙的表演。"
+    },
+    {
+      "user": "孤狼",
+      "avatar": "https://img3.doubanio.com/icon/u46818877-2.jpg",
+      "content": "大概就是全员装B\n有本事的活了，没本事的全死了"
+    },
+    {
+      "user": "抱抱",
+      "avatar": "https://img1.doubanio.com/icon/u47358295-8.jpg",
+      "content": "太帅气了，后面动作部分利落又干脆。金多美的演技完全赞。话说好久没有看过把血浆拍这么浓稠的电影了。"
+    },
+    {
+      "user": "Raphael雷",
+      "avatar": "https://img3.doubanio.com/icon/u96638998-10.jpg",
+      "content": "4星 女主不算很漂亮但是很自然，气质挺好"
+    },
+    {
+      "user": "神哥",
+      "avatar": "https://img3.doubanio.com/icon/u62478064-3.jpg",
+      "content": "谷阿莫6分版。可以啊，这商业片不错。居然还走变种人的老路线。"
+    },
+    {
+      "user": "麦子麦子酱",
+      "avatar": "https://img3.doubanio.com/icon/u1333650-30.jpg",
+      "content": "铺垫太久话太多 我要看打戏谢谢"
+    },
+    {
+      "user": "XFire",
+      "avatar": "https://img3.doubanio.com/icon/u71979549-3.jpg",
+      "content": "节奏慢，废话多，不停装逼摆POSE，给1星已算太多"
+    },
+    {
+      "user": "素人冯",
+      "avatar": "https://img1.doubanio.com/icon/u53942573-8.jpg",
+      "content": "打戏很棒给五星！节奏慢减一星，期待续作。"
+    },
+    {
+      "user": "左眼看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1737624-3.jpg",
+      "content": "动作戏很爽，期待下集能有大制作"
+    },
+    {
+      "user": "大瘦瘦",
+      "avatar": "https://img3.doubanio.com/icon/u1804355-2.jpg",
+      "content": "新世界导演的新作，青龙和大钟奖的最佳女新演员。开始以为女主是恶女，中途发现是x战警，最后才闹明白原来她就是韩国的小11。节奏烂得一塌糊涂，中间的反转有种令人错愕的傻B感，就这点破事还要拍三部曲？下一集请少找些装逼演员谢谢！"
+    },
+    {
+      "user": "陈哈",
+      "avatar": "https://img3.doubanio.com/icon/u1458351-30.jpg",
+      "content": "cult迷勿要错过，熬过前半部的平淡前戏，后半部喷涌勃发。错过也没事，我不心痛。"
+    },
+    {
+      "user": "爽子",
+      "avatar": "https://img3.doubanio.com/icon/u83890273-46.jpg",
+      "content": "反派和女主杀人时故作轻松的矫情劲儿真的很韩风了。最后的打斗戏，女主十分喜欢用懵懂无知的表情来应付敌人，貌似这样就可以和自己超强的杀人技巧来个反差萌。\n看开头就知道这电影会很墨迹，果然，前一个小时，俩人俩人地聚一起慢悠悠说几句话，透露一些剧情，就不能一起说清楚么？硬是把半小时能说清楚点事愣是延伸到一个多小时，最后二十分钟才开始高潮打斗戏，打斗戏勉强还可以。但打斗人员能不能暂停“散发魅力”，不是来拍偶像剧的！没有感情线！你也不是周润发啊 大哥！"
+    },
+    {
+      "user": "一句话影评",
+      "avatar": "https://img3.doubanio.com/icon/u62457534-4.jpg",
+      "content": "哇～大家都好凶 好害怕呀……别说女主是金高银第二了 也就吃鸡蛋的戏还能看出点演技 耍狠只会瞪眼的女主 第二部还是换掉吧 这种设定只会想当然的剧本 朴勋政确定还要拍吗"
+    },
+    {
+      "user": "唐朝",
+      "avatar": "https://img3.doubanio.com/icon/u39696807-11.jpg",
+      "content": "实验室里的爆发挺好看，前面的铺垫太不紧凑。"
+    },
+    {
+      "user": "两生花",
+      "avatar": "https://img3.doubanio.com/icon/u1163240-1.jpg",
+      "content": "动作戏拍得不错，铺垫太长，节奏有点乱，反派都是弱鸡，这是要拍《超体》啊？惊艳的是有那么一点反类型的意思，把以前韩片的煽情俗套给颠覆掉了，男女主也没有俗套的恋爱，就是人生险恶，活着才是王道。"
+    },
+    {
+      "user": "kiki204629",
+      "avatar": "https://img3.doubanio.com/icon/u1849663-13.jpg",
+      "content": "小姑娘智商和战斗力都超群。看到最后就是大爽片！单眼皮好萌"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "无论“人造人”还是“失控的受训杀手”，都不算新鲜母题。前边的铺垫太长，反转也是意料之中，看下一部能讲出什么花样吧。"
+    },
+    {
+      "user": "不醉无归爱谁谁",
+      "avatar": "https://img3.doubanio.com/icon/u46788415-12.jpg",
+      "content": "嗯。这种面相无辜弱小的冷血杀手，杀起人来特别过瘾。小姑娘长大会怎样？"
+    },
+    {
+      "user": "L_SHEEP",
+      "avatar": "https://img3.doubanio.com/icon/u48453695-21.jpg",
+      "content": "2.8  前面一个半小时，又臭又长。后面半个小时渐入佳境却一下子就结束了。 情节上必要的情报忽视掉，观众都知道的情报又一直通过台词说明。唯一值得称赞的就是动作戏，不愧是《大叔》的动作导演设计的动作戏，节奏快，有力量。"
+    },
+    {
+      "user": "阿朴",
+      "avatar": "https://img3.doubanio.com/icon/u1240451-6.jpg",
+      "content": "可以1.5倍速看，前面一直拖，应该说只要是有对话的部分都挺拖的，后面动作戏还行，反派基本是送人头的。"
+    },
+    {
+      "user": "瑞斯瑞斯啊",
+      "avatar": "https://img3.doubanio.com/icon/u88328153-10.jpg",
+      "content": "前面铺垫太长了，但后面节奏突然加快，最大反派的智商突然下线，结局更是全程高能，女主遇神杀神遇佛杀佛，得到想要的东西之后眼神的转变真的令人心惊胆战，才知道她原来一直都在隐藏自己，所有的一切都在她的掌控之中。所以谓之魔女。"
+    },
+    {
+      "user": "JOJO",
+      "avatar": "https://img3.doubanio.com/icon/u2913317-15.jpg",
+      "content": " 崔宇植演得不错"
+    },
+    {
+      "user": "すでに恒司ロス",
+      "avatar": "https://img3.doubanio.com/icon/u45203942-61.jpg",
+      "content": "中二到无力吐槽，朴勋政这几年越来越走火入魔，大脑改造肯定是不能瞎玩的，但有必要为了那点反转整两小时这么长么|||"
+    },
+    {
+      "user": "mark",
+      "avatar": "https://img1.doubanio.com/icon/u1215748-8.jpg",
+      "content": "韩版超体，现在是个超能力就说宇宙，前半部分的确太冗长了，特别最后还说是女主角的一个计谋"
+    },
+    {
+      "user": "华盛顿樱桃树",
+      "avatar": "https://img3.doubanio.com/icon/u49213881-4.jpg",
+      "content": "有多少电影都是被自己的节奏拖垮啊，清楚明白自己想要什么，干脆利落就完了。起码言行统一，别乱来啊。"
+    },
+    {
+      "user": "田井中律",
+      "avatar": "https://img1.doubanio.com/icon/u58689768-9.jpg",
+      "content": "废话有点多，装逼有点多，演技僵硬，套路还是变种人的套路，剧情又慢又拖，没什么创新，出续集也不会再看。"
+    },
+    {
+      "user": "前夜",
+      "avatar": "https://img3.doubanio.com/icon/u72442723-3.jpg",
+      "content": "给无聊的人看的系列。"
+    },
+    {
+      "user": "夏季的天空",
+      "avatar": "https://img3.doubanio.com/icon/u141049149-3.jpg",
+      "content": "《生化危机》系列虽然终结了，不过韩国版的T病毒研发成功，很是期待Part 2，不知道会不会加入丧尸元素。。。"
+    },
+    {
+      "user": "玉木大河",
+      "avatar": "https://img3.doubanio.com/icon/u1282199-4.jpg",
+      "content": "就…前面很好睡…"
+    },
+    {
+      "user": "走马",
+      "avatar": "https://img3.doubanio.com/icon/u3261682-162.jpg",
+      "content": "莫名其妙的自信"
+    },
+    {
+      "user": "MIKO",
+      "avatar": "https://img3.doubanio.com/icon/u126787726-20.jpg",
+      "content": "弘大cgv打卡~ 铺垫太多 但最后动作戏太爽了 !!!还可以再血腥一点! 第二部剧情有点好奇了  迷之觉得女主像金高银..."
+    },
+    {
+      "user": "凹凸曼",
+      "avatar": "https://img3.doubanio.com/icon/u56970395-2.jpg",
+      "content": "6分差不多了。"
+    },
+    {
+      "user": "小小人",
+      "avatar": "https://img3.doubanio.com/icon/u48138357-20.jpg",
+      "content": "武力值等级设定存在严重问题，因而动作场面不太令人信服。"
+    },
+    {
+      "user": "时代太潦草",
+      "avatar": "https://img3.doubanio.com/icon/u41505610-16.jpg",
+      "content": "幼稚"
+    },
+    {
+      "user": "老晃",
+      "avatar": "https://img3.doubanio.com/icon/u1019579-12.jpg",
+      "content": "好低级啊"
+    },
+    {
+      "user": "李湘",
+      "avatar": "https://img3.doubanio.com/icon/u2055364-24.jpg",
+      "content": "剧情极其拖沓。男女演员还是演技在线的。就是看了半个小时都不知道在说些啥。"
+    },
+    {
+      "user": "安魂",
+      "avatar": "https://img3.doubanio.com/icon/u1428972-1.jpg",
+      "content": "期待第二，第三部！"
+    },
+    {
+      "user": "近似无限透明的蓝色",
+      "avatar": "https://img3.doubanio.com/icon/u1217525-1.jpg",
+      "content": "文戏太拖沓、武戏太简练，魔女与近期看的重生若是能“猜匀”些会更好。后半段的黑化不错，金多美笑容里的确有摄人的邪气，只是故事莫名的地方太多，为反转而反转的人设突兀，像是几个不同故事强行的拼贴，魔女的进化，还是要看续集了。"
+    },
+    {
+      "user": "小天狼星星🌟",
+      "avatar": "https://img3.doubanio.com/icon/u48360271-161.jpg",
+      "content": "学霸模式杀人机器。如果我有她的臂力，emmmmm。"
+    },
+    {
+      "user": "N/A",
+      "avatar": "https://img1.doubanio.com/icon/u1312539-8.jpg",
+      "content": "剧本好棒！好莱坞肯定会翻拍"
+    },
+    {
+      "user": "melvins",
+      "avatar": "https://img3.doubanio.com/icon/u1131992-50.jpg",
+      "content": "2018.12.05-2018.12.06\n文戏前半段差的令人发指。反派面瘫男差评！"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "漫画改类型片，埋下续集伏笔，从《与神同行》后，一种新的韩式有续集大片模式。"
+    },
+    {
+      "user": "xiangkaiad",
+      "avatar": "https://img1.doubanio.com/icon/u48482099-9.jpg",
+      "content": "拍摄手法我喜欢，凌厉干脆不拖泥带水！故事架构好不错，看着有续集？坐等"
+    },
+    {
+      "user": "留象鸣",
+      "avatar": "https://img3.doubanio.com/icon/u81414843-11.jpg",
+      "content": "片长125分钟，直接从90分钟看就行了，前面非常无聊，完全可以不看，后面也略显拖沓，废话较多"
+    },
+    {
+      "user": "没有鱼丸",
+      "avatar": "https://img3.doubanio.com/icon/u2144628-1.jpg",
+      "content": "女主角的表演有说服力..."
+    },
+    {
+      "user": "煎鱼",
+      "avatar": "https://img1.doubanio.com/icon/u78065496-7.jpg",
+      "content": "近期来比较好看的一部韩国电影，剧情不复杂，但打斗却很加分，有种在看B级的钢铁之躯的感觉，鸡血程度爆棚。"
+    },
+    {
+      "user": "蜕",
+      "avatar": "https://img3.doubanio.com/icon/u1894499-24.jpg",
+      "content": "乏味"
+    },
+    {
+      "user": "熊仔饼干",
+      "avatar": "https://img3.doubanio.com/icon/u46573272-4.jpg",
+      "content": "好看。女主是越看越耐看的那种。铺垫越长才会觉得反差越大。导演是新世界的导演。这个片子能沉浸里面。美国杀人小队最终还是扮演了小丑的角色。对手不够匹配，一切尽在多美掌控之中。话说这转基因小朋友让我想起了少林足球打了激素的决赛对手，他们只是身体强壮跟当代变异的男女青年已经不是了一个级别了，这世界发展多快！最可怕的就是满以为你们可以轻松杀了她，却不料都是在她计划好的策略之中，这非常的尴尬，因为她不仅打架牛逼，智商还特么秒杀所有人，这不就是人工智能的升级版么。她，就是《升级》里面的那个牛逼芯片的活人版！"
+    },
+    {
+      "user": "横丫肠",
+      "avatar": "https://img3.doubanio.com/icon/u1060981-5.jpg",
+      "content": "动作戏很好看，前面铺垫太长了，一直反冲突，一共就1.5场打斗。表演比较做作，演杀人狂不是瞪眼或佯笑就可以了。"
+    },
+    {
+      "user": "oh la la",
+      "avatar": "https://img3.doubanio.com/icon/u2634610-21.jpg",
+      "content": "夹杂了《超体》《X战警》《极速特攻》《汉娜》等诸多好莱坞科幻片元素，完全看不出是部韩国电影，女主是越看越耐看的那种。铺垫越长才会觉得反差越大，角色的刻画算是立住了，即聪明又狡猾的魔女，又残暴却不忘报恩的养女。动作戏打得挺爽的，希望续集交代得更细腻些"
+    },
+    {
+      "user": "yikelandigua",
+      "avatar": "https://img1.doubanio.com/icon/u76398143-7.jpg",
+      "content": "可比日本漫改真人版强太多了，简直女版食尸鬼+寄生兽+亚人。后劲不足，下集期待值变低。"
+    },
+    {
+      "user": "一元柚子",
+      "avatar": "https://img3.doubanio.com/icon/u4428446-4.jpg",
+      "content": "三星半吧"
+    },
+    {
+      "user": "柒°晴",
+      "avatar": "https://img3.doubanio.com/icon/u1376010-10.jpg",
+      "content": "7.8 女主角很有味道，剧情比较带劲，还是未完待续。"
+    },
+    {
+      "user": "马赛克",
+      "avatar": "https://img3.doubanio.com/icon/u45460966-6.jpg",
+      "content": "啥设定啊...越装逼的反而越不能打，再说手枪对这种级别的神仙还管用吗....镜头废话太多，删二十分钟也没问题"
+    },
+    {
+      "user": "柏拉不图",
+      "avatar": "https://img3.doubanio.com/icon/u1060877-1.jpg",
+      "content": "都学过凌波微步啊。不管怎样，反正觉得比好莱坞同类题材拍的好。好莱坞那群在天上飞来飞去的才是怪物，这魔女至少还是个“人”。"
+    },
+    {
+      "user": "脱离轨道的天蓬",
+      "avatar": "https://img3.doubanio.com/icon/u58526834-11.jpg",
+      "content": "后半段超能力大战还是精彩的"
+    },
+    {
+      "user": "JustGin",
+      "avatar": "https://img3.doubanio.com/icon/u5892127-20.jpg",
+      "content": "前面铺垫太长了，很有漫画感"
+    },
+    {
+      "user": "阿申申",
+      "avatar": "https://img1.doubanio.com/icon/u3670661-17.jpg",
+      "content": "金高银领衔出的审美异潮扭曲出的最高峰，女主吃鸡蛋那段一定要有心理准备，不谢，雷锋"
+    },
+    {
+      "user": "zzfznp",
+      "avatar": "https://img3.doubanio.com/icon/u1545214-3.jpg",
+      "content": "如果只是懵懂少女觉醒就太无聊的，既然那么聪明，没理由不知道自己的问题。所以后半部圆回来了。这个片我看着越发觉得像《永无止境》，到后面自己开发更高级的药不断强化自己，然后超神。聪明到一定程度，很多束缚条件就不存在了。"
+    },
+    {
+      "user": "哗啦啦",
+      "avatar": "https://img1.doubanio.com/icon/u1902672-17.jpg",
+      "content": "啥魔女，明明是个会功夫的女鬼。太拖沓，少30分钟剧情才合理。"
+    },
+    {
+      "user": "弥彩心",
+      "avatar": "https://img3.doubanio.com/icon/u138464613-15.jpg",
+      "content": "一定要有耐心地看到后面，前半部分都是铺垫，后面一步步揭开谜底真的是激动人心。"
+    },
+    {
+      "user": "空思",
+      "avatar": "https://img3.doubanio.com/icon/u3310238-21.jpg",
+      "content": "单眼皮小美女演的很棒"
+    },
+    {
+      "user": "英年早睡",
+      "avatar": "https://img3.doubanio.com/icon/u140404503-1.jpg",
+      "content": "不清楚是否有原著改编，角色的刻画算是立住了，即是聪明又狡猾的魔女，又是残暴却不忘回报恩情的养女。动作戏打得挺爽的，希望下一章故事交代得更细腻一点。"
+    },
+    {
+      "user": "微光视界",
+      "avatar": "https://img3.doubanio.com/icon/u35008425-5.jpg",
+      "content": "6.3"
+    },
+    {
+      "user": "走鬼神探",
+      "avatar": "https://img3.doubanio.com/icon/u33960706-4.jpg",
+      "content": "前面铺垫有点多了，差点看睡着，最后半小时的反杀很过瘾，开挂的存在，小姐姐演技可以，最后的悬念是要为续集准备了，期待"
+    },
+    {
+      "user": "火木散人",
+      "avatar": "https://img3.doubanio.com/icon/u44695433-4.jpg",
+      "content": "感觉永远不要弄出人类无法掌控的东西来~哪怕是可能无法掌控的也不要弄出来~否则可能一定会变成现实的......前半截铺垫有点太长了~看得想快进~以一个小孩子的能力能逃多远？而且就在那里定居了~离研究所也不是很远...十几年找不到.......后半截太血腥了~就不能干净点吗.......弄得有小孩子在旁边都怕看了学暴力了..........剩下的都还好~女主小妹演技挺好~打动也挺爽快~"
+    },
+    {
+      "user": "St☆r",
+      "avatar": "https://img3.doubanio.com/icon/u2348035-113.jpg",
+      "content": "下一部是，魔女大闹好莱坞？？？"
+    },
+    {
+      "user": "费纸姬",
+      "avatar": "https://img3.doubanio.com/icon/u4144195-20.jpg",
+      "content": "你们嚼口香糖装酷的样子真sb"
+    },
+    {
+      "user": "索尔之锤",
+      "avatar": "https://img3.doubanio.com/icon/u74937470-11.jpg",
+      "content": "哇，女主这人设，太喜欢了。后面自己造药的学霸式发展激动人心，就像当年看永无止境一样爽。就是血腥程度不够高，踩爆头居然要切远景而且也没有真的踩爆，捏爆脸这种操作还要切到背面表现。希望下部可以加大一些尺度"
+    },
+    {
+      "user": "♫eric™",
+      "avatar": "https://img1.doubanio.com/icon/u34172764-17.jpg",
+      "content": "这个女猪脚还是很厉害的，尤其是前后的对比，让我印象深刻。"
+    },
+    {
+      "user": "羽子令",
+      "avatar": "https://img3.doubanio.com/icon/u137169217-6.jpg",
+      "content": "去年同期恶女，今年魔女，都是黑暗血腥至极的电影。不过魔女格局够大，完全是变种人啊，难道要开启韩国变种人宇宙？"
+    },
+    {
+      "user": "中堂的世界",
+      "avatar": "https://img3.doubanio.com/icon/u66168101-13.jpg",
+      "content": "从60分钟开始，开始进入正片。女主金多美太过惊艳，一路开挂到结局，尽管是妥妥的要有续作的节奏了，但不得不说动作戏的设计拳拳到肉，类似最近也很热的《升级》，足够硬核，足够犀利，难得一见的韩国爽片。略微薄弱的还是剧情的设置，如果只是打打杀杀，很容易审美疲劳。Ps:女主总觉得看着眼熟，还以为是金高银...没想到是新人，厉害了！演技大赞！"
+    },
+    {
+      "user": "sanyeqing",
+      "avatar": "https://img3.doubanio.com/icon/u136888845-5.jpg",
+      "content": "前面铺垫有点拖拉，再紧凑点更好，后面的反转高潮，动作戏看起来都很爽。"
+    },
+    {
+      "user": "无害青年",
+      "avatar": "https://img3.doubanio.com/icon/u85333070-3.jpg",
+      "content": "女主的反转还可以。后期打斗打的太用力，反而不是很爽。"
+    },
+    {
+      "user": "黑道少女沈來迟",
+      "avatar": "https://img3.doubanio.com/icon/u84239887-234.jpg",
+      "content": "演了半截的怪奇物语。"
+    },
+    {
+      "user": "夜带猫",
+      "avatar": "https://img3.doubanio.com/icon/u41006416-21.jpg",
+      "content": "看到好多末日片的影子，有意念超能力控制实物的，有从小被基因改造成杀人武器的。"
+    },
+    {
+      "user": "虚杜",
+      "avatar": "https://img1.doubanio.com/icon/u97637940-9.jpg",
+      "content": "女主的表现亮眼而动作戏并没有达到预期，本来是一个很好的概念转化（《超体》）但并没讲好故事而是流于类型化商业化的平庸。"
+    },
+    {
+      "user": "小青蛙看电影",
+      "avatar": "https://img3.doubanio.com/icon/u137556786-15.jpg",
+      "content": "好看，居然还看到了《阿丽塔》的影子。想来这部电影其实拍科幻应该会更加酷炫，但是到了韩国导演的手里，就变成一部人性思考与哲理性的文艺片了，感到的更多的是温情与家庭。女演员演技很好，近乎完美的诠释了暴力天使的角色。快到结尾部分意犹未尽，希望能有第二部。"
+    },
+    {
+      "user": "朋克大帝",
+      "avatar": "https://img3.doubanio.com/icon/u52873640-23.jpg",
+      "content": "微微一笑，头就打爆。这片先是反派装逼，接着女主装逼，最后反派装不过女主，全部GG。我的战斗力只有六千，她最少一万以上，反派小沈阳的内心独白。"
+    },
+    {
+      "user": "Riobluemoon",
+      "avatar": "https://img3.doubanio.com/icon/u51715849-3.jpg",
+      "content": "7分。女主扮猪吃老虎的故事~~这片子割裂感很严重，前半段节奏慢得像文艺片，后半段又HIGH到飞起，重口味桥段一个接一个。女主属于那种第二眼美女吧，一开始的蠢萌和后面的腹黑都表现得不错，几场打斗戏配合所谓的超能力拍得节奏明快，大叔连看了好几遍~~既然是PART1，看起来还会有续集哦~~"
+    },
+    {
+      "user": "杳圻",
+      "avatar": "https://img3.doubanio.com/icon/u38648875-4.jpg",
+      "content": "美国片既视感"
+    },
+    {
+      "user": "伴嘴",
+      "avatar": "https://img3.doubanio.com/icon/u61484994-41.jpg",
+      "content": "相当反感这种嚼着口香糖自以为很牛逼的装逼式的表演。"
+    },
+    {
+      "user": "天堂羽",
+      "avatar": "https://img3.doubanio.com/icon/u2310617-5.jpg",
+      "content": "忍过前面一个小时！前面铺垫，让人感觉太冗长而且莫名其妙的样子，但一个小时之后，就开始精彩了，一个半小时之后，高潮不断。而且再回过头来，会发现前面的铺垫，都是意有所指的伏笔。打斗戏非常的精彩，主角设定非常的精彩。结尾两段大有深意。——看前一个小时的时候，准备打两星了，看完准备打四星，扣的是前面冗长，再思索对比了一下，前面都有用的，五星"
+    },
+    {
+      "user": "O型血",
+      "avatar": "https://img3.doubanio.com/icon/u155502191-10.jpg",
+      "content": "https://www.bilibili.com/video/av29737147假装失忆，变种人https://www.bilibili.com/video/av32648024海报、演员不好看。新人女演员。是不是还有续集呀？http://v.youku.com/v_show/id_XMzc5NTY5NjY5Ng==.html科学家用幼童做实验，不料造出可怕的新人类，拥有毁天灭地的超能力https://www.bilibili.com/video/av32447565"
+    },
+    {
+      "user": "木光",
+      "avatar": "https://img3.doubanio.com/icon/u57338332-16.jpg",
+      "content": "也不知道是经费问题，还是为了制造反转有意为之，铺垫的太过冗长。我承认反转还不错，但打斗就像前戏刚来感觉了，没了？影片太多好莱坞类型片的影子，节奏还不如成熟的美剧，很多东西有点别人玩剩下的感觉，不过也算填补了韩影自身的空白。看样子要拍三部曲，导演也是拍过《新世界》的人，希望续作用点心，早点填坑。"
+    },
+    {
+      "user": "万俟陨枫",
+      "avatar": "https://img3.doubanio.com/icon/u105125970-2.jpg",
+      "content": "太牛了。前面好看，后面也牛。JASON 伯恩。"
+    },
+    {
+      "user": "||:da da da:||",
+      "avatar": "https://img3.doubanio.com/icon/u60734053-21.jpg",
+      "content": "反转来得真过瘾！女孩的演技真不错～打斗场面很给力"
+    },
+    {
+      "user": "张一一",
+      "avatar": "https://img3.doubanio.com/icon/u3998976-25.jpg",
+      "content": "砍掉半小时可能会好一点"
+    },
+    {
+      "user": "泥巴",
+      "avatar": "https://img1.doubanio.com/icon/u1279626-27.jpg",
+      "content": "女二套系，女一很菲女"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u185456358-12.jpg",
+      "content": "剧情全程高智商的实力碾压，女主实力演技，尤其用纯真无辜的眼神做着暴力凶残的事，让人不寒而栗"
+    },
+    {
+      "user": "MarcherryCC",
+      "avatar": "https://img3.doubanio.com/icon/u1855731-161.jpg",
+      "content": "养父母和闺蜜那段是真的感人，也是女主没有变成怪物的根本，他们成了她的软肋也成了她的铠甲。女主很牛逼啊，期待还能有第二部。"
+    },
+    {
+      "user": "阿撇",
+      "avatar": "https://img3.doubanio.com/icon/u1256388-3.jpg",
+      "content": "那个把魔女和比作韩国超体，还说它开启了韩国漫威宇宙的公号作者，你给我出来。"
+    },
+    {
+      "user": "冲玄",
+      "avatar": "https://img3.doubanio.com/icon/u57714176-5.jpg",
+      "content": "烂"
+    },
+    {
+      "user": "雪后林中有鹿",
+      "avatar": "https://img3.doubanio.com/icon/u108077404-2.jpg",
+      "content": "前半部分真的很无聊，导致后面早有预料的反杀并没有很刺激。"
+    },
+    {
+      "user": "一起漫游",
+      "avatar": "https://img3.doubanio.com/icon/u3592439-202.jpg",
+      "content": "好看好看"
+    }
+  ]
+}

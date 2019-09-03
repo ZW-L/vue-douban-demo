@@ -1,0 +1,1123 @@
+{
+  "title": "猖獗",
+  "url": "https://movie.douban.com/subject/26975011/",
+  "rate": "5.8",
+  "id": "26975011",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2534697355.jpg",
+  "info": [
+    "导演: 金成勋",
+    "编剧: 黄肇允 / 元新渊 / 黄肇允",
+    "主演: 玄彬 / 赵宇镇 / 张东健 / 金义城 / 李善彬 / 郑满植 / 徐智慧 / 赵达焕 / 金太祐 / 许成泰 / 朴镇宇 / 韩智恩 / 许俊硕 / 白秀章 / 郑惟安",
+    "类型: 动作 / 恐怖",
+    "制片国家/地区: 韩国",
+    "语言: 韩语",
+    "上映日期: 2018-10-25(韩国)",
+    "片长: 121分钟",
+    "又名: 尸杀帝国(港) / 尸落之城(台) / Rampant"
+  ],
+  "desc": "《猖獗》讲述了古代王子带兵与名为“夜鬼”的僵尸战斗，拯救国家的故事，玄彬饰演了在国外当十多年人质后回国的王子，而张东健则饰演了手握兵权，试图进行改革的朝廷重臣。",
+  "members": {
+    "director": {
+      "name": "金成勋 Seong-hoon Kim",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517387118.69.jpg"
+    },
+    "cast": [
+      {
+        "name": "玄彬 Hyun Bin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41248.jpg"
+      },
+      {
+        "name": "赵宇镇 Woo-jin Jo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1450844238.18.jpg"
+      },
+      {
+        "name": "张东健 Dong-gun Jang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p358.jpg"
+      },
+      {
+        "name": "金义城 Eui-sung Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1398092297.07.jpg"
+      },
+      {
+        "name": "李善彬 Sun-bin Lee",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pKn2FysxcFIAcel_avatar_uploaded1474371111.48.jpg"
+      },
+      {
+        "name": "郑满植 Man-shik Jeong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pGbadPeppScgcel_avatar_uploaded1362804460.73.jpg"
+      },
+      {
+        "name": "徐智慧 Ji-hye Seo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474821671.64.jpg"
+      },
+      {
+        "name": "赵达焕 Dal-hwan Jo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1471297483.89.jpg"
+      },
+      {
+        "name": "金太祐 Tae-woo Kim",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1394854069.29.jpg"
+      },
+      {
+        "name": "许成泰 Seong-tae Heo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533326570.6.jpg"
+      },
+      {
+        "name": "朴镇宇 Park Jin-woo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pRIALjZAIEKkcel_avatar_uploaded1499593174.26.jpg"
+      },
+      {
+        "name": "韩智恩 Han Ji Eun",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1450843977.34.jpg"
+      },
+      {
+        "name": "许俊硕 Jun-seok Heo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424930010.57.jpg"
+      },
+      {
+        "name": "白秀章 Soo-Jang Baek",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484199905.18.jpg"
+      },
+      {
+        "name": "郑惟安 Yoo-ahn Jung",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516970001.33.jpg"
+      },
+      {
+        "name": "孔政焕 Jeong-hwan Kong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pR8jsLQoQYZccel_avatar_uploaded1416594918.96.jpg"
+      },
+      {
+        "name": "林哲亨 Lim Chul-hyung",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508735691.45.jpg"
+      },
+      {
+        "name": "张仁浩 Yin-ho Jang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521701401.47.jpg"
+      },
+      {
+        "name": "郑宇荣 Woo-yeong Jeong ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1550346452.17.jpg"
+      },
+      {
+        "name": "崔奎利 Gyoo-ri Choi ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCU97NlKuVyMcel_avatar_uploaded1553863322.94.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img1.doubanio.com/img/trailer/medium/2533179369.jpg?",
+        "src": "http://vt1.doubanio.com/201908311450/e61f4f6987022676c9bd2dde598c9889/view/movie/M/402350829.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2510033769.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2538396483.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2553045137.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2535384166.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "用心體會",
+      "avatar": "https://img3.doubanio.com/icon/u81670106-3.jpg",
+      "content": "消費僵屍的老梗逆謀片.....劇情超級爛!但是場面演員道具特效都很浩大很用心。就是劇情特別爛!爛到我打哈欠了~~我旁邊的也打哈欠了。想看僵屍血腥的都不用看了，這部沒有非常血腥粗暴的畫面。想看人性的也不用看，這部沒講到啥。劇情很一般。一般到覺得根本浪費了錢拍這部片阿。要看玄彬可以看另一部極智對決還比較好看哩。"
+    },
+    {
+      "user": "在你身体里冲刺",
+      "avatar": "https://img3.doubanio.com/icon/u60648596-54.jpg",
+      "content": "说是古代版釜山行吧，它还不如釜山行能看。玄彬最近几年的选片眼光到底怎么了，简直怀疑导演是靠在玄彬这边忽悠张东健已经接演了，在张东健那边忽悠玄彬已经接演了，才把这俩人骗来演这个电影的。"
+    },
+    {
+      "user": "m89",
+      "avatar": "https://img3.doubanio.com/icon/u4896291-26.jpg",
+      "content": "原来是部鼓吹朝独的作品，怪不得这么快就被台湾引进了233…故事要不要这么老套无聊，僵尸围城+王子复仇记，翻译得也是过分文绉绉，好几次哈欠连天。不过特效化妆还是不错的，看着一群丧尸在传统韩式宫廷建筑里咬人，有一种奇妙的穿越感。"
+    },
+    {
+      "user": "约翰尼先森",
+      "avatar": "https://img3.doubanio.com/icon/u81270736-5.jpg",
+      "content": "这么好的阵容，这么好的题材，能拍的这么无趣，也是挺厉害的！"
+    },
+    {
+      "user": "Sara",
+      "avatar": "https://img3.doubanio.com/icon/u86907086-63.jpg",
+      "content": "word妈，张东健和玄彬！！！！！啊啊啊我死了"
+    },
+    {
+      "user": "无耻不混蛋",
+      "avatar": "https://img3.doubanio.com/icon/u1400288-42.jpg",
+      "content": "玄彬宫殿手刃群尸场面，简直堪比“《王牌特工》教堂百人斩”。主角光环简直没谁了。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "韩影在我这儿一度是港片替代品，不过从各方面看近年韩影的普遍质量也是肉眼可见的下滑，这部便是极好的例子。"
+    },
+    {
+      "user": "杰洛特",
+      "avatar": "https://img1.doubanio.com/icon/u133624871-7.jpg",
+      "content": "我大清又亡了！"
+    },
+    {
+      "user": "版王",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "打到后面就是闹剧了"
+    },
+    {
+      "user": "巽",
+      "avatar": "https://img3.doubanio.com/icon/u2072047-230.jpg",
+      "content": "不好看，跟《王国》也差太多了。故事框架差不离，硬件技术虽然差一些但也没差太远，这个时候就凸显剧本的可贵了，王国差不多6小时我几乎没有走神，观影体验顺畅且爽，这个很快就让人困倦并且陷入脸盲绝境…男主的设定和演法也是我刻板印象中的韩剧男主模板，不喜欢。"
+    },
+    {
+      "user": "すでに恒司ロス",
+      "avatar": "https://img3.doubanio.com/icon/u45203942-61.jpg",
+      "content": "没看过这么形式主义的双雄对决，服装组是有多丧心病狂，才忍心让玄彬着一身“高级定制白色蓬蓬裙”开挂全场，唯一看点的僵尸群戏&动作场景设计也一塌糊涂，欸，问苍天问大地，釜山行之于韩国电影界是怎样的存在？毒瘤一样的存在。"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "5，古装僵尸片的设定其实还挺好玩的，可惜执行太无趣了。"
+    },
+    {
+      "user": "张咏轩Wayne®",
+      "avatar": "https://img3.doubanio.com/icon/u55617091-3.jpg",
+      "content": "很难看，还又臭又长，几度忍不住拿起手机看新闻，美术设计和场景营造还算在水准之上，群尸围攻和动作场面却单一而重复，看久视觉真的会疲劳，尤其又是这么无趣的剧本，电影将宫斗争权与僵尸屠城现下两大时髦的元素相结合，就完成了这部不伦不类的韩影古装惊悚片，主角光环闪瞎眼，路人甲中尸毒秒残，正反主角被围攻轻松杀出血路以及被咬还能靠意志支配尸毒，导演的逻辑偏向真是活脱脱一笑话，在政权和人性隐喻的方面也是直白到一言难尽，电影里的角色砍杀的热血沸腾，荧幕外的观者却是哈欠连天，一贯韩国棒子的自我精神意淫，严重低于期待的狗血乱炖大杂烩"
+    },
+    {
+      "user": "chuchu",
+      "avatar": "https://img1.doubanio.com/icon/u86728823-19.jpg",
+      "content": "近期韓國商業片的完成度真的很高~現在這樣的水平~算是韓國商業大片的基準了~"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "3.0。1.平庸的猖獗。2.格局造势很宏大，但故事无甚新奇之处。3.夜鬼即古装丧尸，怪不得会交给《釜山行》团队。4.好久不看玄彬演戏，恍如隔世。"
+    },
+    {
+      "user": "살기싫어",
+      "avatar": "https://img1.doubanio.com/icon/u144290509-7.jpg",
+      "content": "吓人是真你妈的吓人 画面还是很好看的啊 还有玄彬的演技嗷嗷嗷嗷嗷嗷嗷！！！！！！！"
+    },
+    {
+      "user": "榜上有名猫",
+      "avatar": "https://img3.doubanio.com/icon/u77659294-2.jpg",
+      "content": "低配电影版的《李尸朝鲜》，前半段伪宫斗，后半场“丧尸无双”简直瞎编的，凑合当动作科幻片看。"
+    },
+    {
+      "user": "富贵ʟɪᴜ",
+      "avatar": "https://img3.doubanio.com/icon/u79559157-42.jpg",
+      "content": "后剧本后劲明显不足 甚至有比较明显的bug总体还算工整."
+    },
+    {
+      "user": "谢飞导演",
+      "avatar": "https://img3.doubanio.com/icon/u114515320-21.jpg",
+      "content": "在菲律宾奎松电影节光看文艺片、同志片了，想去看看商业片《大轰炸》，但它一天只排了一场，没赶上，就看了这部韩国僵尸片。在一号厅，六七百座位上坐率七成，是《釜山行》的原班人马，大量僵尸场面，血腥、恐怖，玄彬与张东健对手飙戏，从头打到尾。古代故事，又全是夜景，看得郁闷。不如《釜山行》。"
+    },
+    {
+      "user": "蹉跎。",
+      "avatar": "https://img1.doubanio.com/icon/u49522216-9.jpg",
+      "content": "没逻辑也没演技，\n不恐怖也不惊悚。\n披着丧尸皮的双雄对决，\n而且两样都拍的不好看。\n"
+    },
+    {
+      "user": "自己として生き",
+      "avatar": "https://img3.doubanio.com/icon/u151154562-2.jpg",
+      "content": "7.8/10 在今年史剧中，毫无疑问的第一。张东健玄彬两位男神联手上阵，演技和动作戏都奉献了满意的成果。此次结合僵尸，也总算是多少破了\"无宫斗不史剧\"的套路(虽然很少) <釜山行>的团队上阵，配合恰好的氛围，确实紧张感和氛围都做的很好。不过最大的败笔在后半段，煽情煽了四次，主人公对决来了三次，关键可看性并没增长。你要是编不下去了就收啊，拖的又臭又长的要怎样啦！"
+    },
+    {
+      "user": "kanhi",
+      "avatar": "https://img3.doubanio.com/icon/u1051889-6.jpg",
+      "content": "韩国古装丧尸片，题材的再创新非常新颖，但也就这点创新了，对丧尸题材趣味的挖掘一点没有，整体非常平庸，还不如当年老美的《傲慢与偏见与僵尸》，《吸血鬼猎人林肯》。"
+    },
+    {
+      "user": "Rfaye",
+      "avatar": "https://img3.doubanio.com/icon/u20582129-2.jpg",
+      "content": "為了玄彬顏值和演技 多給一顆星 帥呆 "
+    },
+    {
+      "user": "居无间",
+      "avatar": "https://img3.doubanio.com/icon/u49549492-13.jpg",
+      "content": "2.5。近年来韩国电影水准下降严重。拍出《走到尽头》的金成勋执掌大制作也是平平。政治片（内忧）+丧尸片（外患），两者的融合还是有点生硬。宫内几次丧尸咬人写得还可以，直到张东健被咬了一口，这种类型拼贴算是见效了。丧尸有对权欲的讽刺，张东健从丧尸群中走向皇位是设计巧妙的镜头。比较有力量的，是朝鲜迎接清王朝使者的那段蒙太奇。整体太常规，结局只能用个人英雄主义强带情绪了。爆款啊，都得警惕。"
+    },
+    {
+      "user": "juri1117",
+      "avatar": "https://img1.doubanio.com/icon/u38652742-27.jpg",
+      "content": "完成度不错"
+    },
+    {
+      "user": "申由己",
+      "avatar": "https://img1.doubanio.com/icon/u4134449-17.jpg",
+      "content": "没有《釜山行》惊艳，还行。"
+    },
+    {
+      "user": "是浩子君呀",
+      "avatar": "https://img3.doubanio.com/icon/u63902849-93.jpg",
+      "content": "宫斗丧失两生花，花......."
+    },
+    {
+      "user": "Lunar C.",
+      "avatar": "https://img3.doubanio.com/icon/u2238925-122.jpg",
+      "content": "借此想象了一下清宫古代丧尸片会是什么样，然后有一种千万别拍的感觉……"
+    },
+    {
+      "user": "公民阿良",
+      "avatar": "https://img3.doubanio.com/icon/u139015254-20.jpg",
+      "content": "没人可怜我们，没人肯救我们，没人聆听我们，但大君您都做到了，那不就是王吗。"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "剧情基本上可以忽略，动作场景化妆制作倒是不错。5.5"
+    },
+    {
+      "user": "glim",
+      "avatar": "https://img3.doubanio.com/icon/u1301668-166.jpg",
+      "content": "皇上打僵尸，剧情断裂，张东健硬带但是其他人都不跟上，没法救"
+    },
+    {
+      "user": "可爱的无厘头",
+      "avatar": "https://img3.doubanio.com/icon/u67552884-6.jpg",
+      "content": "为了玄彬的颜值和演技，我就多给你一颗星……"
+    },
+    {
+      "user": "胡桃园咔嚓女王代表老柴咔了你",
+      "avatar": "https://img3.doubanio.com/icon/u1107747-3.jpg",
+      "content": "搭上张东健和玄彬也加不了分~~（张东健最后感染又保持清醒后看着确实像很能打，但给这片当反派男配有点浪费），怪设就是丧尸+怕光。然而同一类题材拍多了就没意思了，而且也不惊险，再混入古代君主的不爱民这个那个，主题被分散。"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "险恶用心的朝独分子囤活尸建新国，海归太子击鼓耍刀放烟花，鼓舞百姓道：从来就没什么救世主，创造幸福靠自己！这么主旋律的电影，不引进真对不起广大爱国群众"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "韩国人确实是敢拍啊。"
+    },
+    {
+      "user": "flaming",
+      "avatar": "https://img3.doubanio.com/icon/u66535614-1.jpg",
+      "content": "丧尸加武侠结果只能是不伦不类，再加上狗血剧情，各种强行煽情，尴尬看完！"
+    },
+    {
+      "user": "枯藤和老虎",
+      "avatar": "https://img1.doubanio.com/icon/u1891500-7.jpg",
+      "content": "3.3"
+    },
+    {
+      "user": "HappyArlene",
+      "avatar": "https://img3.doubanio.com/icon/u1051697-1.jpg",
+      "content": "分那么低过分了吧，丧尸韩剧《王国》分可是很高呢，明明结构还差不多，情节也有雷同。长得帅也是罪过，不过片中玄彬的高校片段很有意思哦"
+    },
+    {
+      "user": "抓马人生",
+      "avatar": "https://img3.doubanio.com/icon/u54034239-11.jpg",
+      "content": "因为男神玄彬多给一颗星！大半夜一个人来看丧尸回家的时候差点没给我吓死！剧情稍有点俗套 但演员们的演技 真的可以吹上天 两大男神 配角们也是 制作也很用心。我男神真的太帅了 这次演的又疲又帅的 真实的心空！"
+    },
+    {
+      "user": "LeungChanXXX",
+      "avatar": "https://img3.doubanio.com/icon/u48687824-52.jpg",
+      "content": "动作场面和化妆效果还不错，感受一下古代冷兵器防御术对付丧尸也挺有意思的。"
+    },
+    {
+      "user": "dyalikedags",
+      "avatar": "https://img3.doubanio.com/icon/u37608497-32.jpg",
+      "content": "背景好玩"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "真的是无聊，难以下咽的那种无聊，丧失部分和宫斗部分结合得还不如之前的《物怪》，大段大段无聊的文戏基本上已经到了灾难的级别，两位男神空洞的表演更是把影片推向了万劫不复的深渊，难怪韩国拿了一周票房冠军就迅速退出了市场。"
+    },
+    {
+      "user": "重忆小窗纱",
+      "avatar": "https://img3.doubanio.com/icon/u76708282-16.jpg",
+      "content": "《Kingdom》里是宣祖成了僵尸，这部里则是仁祖成了僵尸，这两部影视已经很清楚地展示了当代韩国编剧是如何看待17世纪的历史。PS：玄彬演历史电影实在是用力过猛，摊手！"
+    },
+    {
+      "user": "左胸上的吸盘",
+      "avatar": "https://img3.doubanio.com/icon/u1128980-24.jpg",
+      "content": "勉强及格。以我目前的所见，这类重构韩国民族性的片子始于卢武铉时代，不知彼时是怎样一种社会思潮的影响。这片子在此类中制造已属上乘，题目所谓“猖獗”，即是僵尸（夜鬼）的肆虐，也是反角张东健的权力欲望。借一个白人僵尸船员入韩，结构了张东健引入僵尸乱宫篡权跟浪荡世子玄彬（他是真怀念在清朝做人质的甘美日子）皈依朝鲜民族性的个人觉悟两条线索。和玄彬二度合作的金成勋用始终处于严密把控中的镜头（群演不出戏，夜景虽多但不累眼）讲了这个饱含赤诚热血的古装打僵尸故事，玄彬对王家的悲叹依稀有《思悼》的意味，一票对抗僵尸的农民军亦有《代立军》的影子，可惜后半段的剧情组织差了不少，玄彬和僵尸王化了的张东健几番对决都充满三国无双的浮夸感"
+    },
+    {
+      "user": "蓝抑郁剂 Lily",
+      "avatar": "https://img3.doubanio.com/icon/u74672452-12.jpg",
+      "content": "打呀打呀打僵尸，打到一只大僵尸，哟还是个王，打完僵尸救李朝"
+    },
+    {
+      "user": "非魚",
+      "avatar": "https://img1.doubanio.com/icon/u1009411-109.jpg",
+      "content": "比王国差远了…"
+    },
+    {
+      "user": "LoudCrazyHeart",
+      "avatar": "https://img3.doubanio.com/icon/u72086305-3.jpg",
+      "content": "我想以人的身份死去，这句话是主体，但是全片布局之大，效果却差。人物剧情都不够好，而夜鬼的来源依旧未明。且不说以寡敌众的局势，大臣的叛乱和皇帝的昏庸都过于扁平。僵尸设定的俗套是不够满足观众的。"
+    },
+    {
+      "user": "么么茶",
+      "avatar": "https://img3.doubanio.com/icon/u40518377-5.jpg",
+      "content": "我觉的挺好啊，人人演技在线，而且韩国人总是把故事说得那么顺畅"
+    },
+    {
+      "user": "二月鸟语",
+      "avatar": "https://img3.doubanio.com/icon/u51159028-14.jpg",
+      "content": "故事非常敷衍"
+    },
+    {
+      "user": "发条橙",
+      "avatar": "https://img3.doubanio.com/icon/u169721244-4.jpg",
+      "content": "韩影嘛，对学以致用（或者说是高级山寨）这块还是挺上心的。细节硬伤不少，还好在大框架上没什么大问题，且对类型杂糅运用也还算得心应手。剧情偏弱，甚至有些反智，不过工业水准摆在那也难看不到哪儿去，作为一部商业娱乐片，整体来说是合格的。"
+    },
+    {
+      "user": "荒林",
+      "avatar": "https://img3.doubanio.com/icon/u48447893-344.jpg",
+      "content": "后半段崩的彻底，砍个没完没了"
+    },
+    {
+      "user": "曼靑",
+      "avatar": "https://img3.doubanio.com/icon/u3335015-210.jpg",
+      "content": "据说改编自历史上清朝初年朝鲜凤林大君的故事。129分钟毫无废笔古，不愧是装版「釜山行」。生于朝鲜、长于清朝的韩国世子是故事主角，这样一个看似没有民族归属感的人其实很讨好，因为他所有的付出都是出于情感和本能。大反派是兵部尚书张东健，这个还是让我有点儿惊喜的。僵尸入侵的原因也很简单，奸臣尚书利用远洋而来的僵尸病毒完成自己篡权的目的。虽然知道善良终归胜利的规则，但还是仍然会为那个被僵尸突袭咬中了左手而仰天痛哭的张东健，善恶到头终有报，他自己埋下的苦果最重要自己吞下，他再也没有机会走在阳光下。这个世界不会要一个不能见阳光的人，更何况是一个不能见阳光的国君。"
+    },
+    {
+      "user": "影人疯",
+      "avatar": "https://img3.doubanio.com/icon/u148059286-32.jpg",
+      "content": "片如其名，真是\"猖獗\"...这是曾拍出《釜山行》的制作团队吗？剧本太烂了吧。内斗（王位之争）+外患（满城夜鬼）被韩棒子拍的简直无趣到极点，玄彬和张东健成了炫颜值的摆设。大量的夜戏是又臭又长，男主光环实在是强大，屏幕外的我“都想一箭射死他...”要是结尾来个反转，张东健没烧死拉玄彬下去，然后全剧终。这样的反套路结局我想我是可以接受的。"
+    },
+    {
+      "user": "超人叔叔",
+      "avatar": "https://img1.doubanio.com/icon/u49274272-7.jpg",
+      "content": "这个题材拍成这样算是废了 压缩精炼下说不定还能有点紧凑的气氛"
+    },
+    {
+      "user": "克拉許crash",
+      "avatar": "https://img1.doubanio.com/icon/u55414544-17.jpg",
+      "content": "美术服装动作都还不错，就是故事剧情有些普通。因为不久前才看了另一部韩国电影《怪物》，故事基本上是一模一样的，就演员不同，怪物变成丧尸而已。所以，以剧情来说，还是《釜山行》比较有新鲜感。"
+    },
+    {
+      "user": "安蓝·怪伯爵𓆝𓆟𓆜",
+      "avatar": "https://img3.doubanio.com/icon/u1056861-674.jpg",
+      "content": "点个火儿拍了半个点儿，服，全程黑咕隆咚打（看）到最后感觉我比玄彬还累……为我俩加一星嘻嘻~~~ps，是不是釜山行反响挺好所以膨胀了？差太远了~而且这次的丧尸妆着实有点儿恶心……"
+    },
+    {
+      "user": "kingkongofkhan",
+      "avatar": "https://img3.doubanio.com/icon/u1080393-13.jpg",
+      "content": "尸能勤王，亦能弑君；拿丧尸搞独立弄谋反脑洞也挺清奇的，就差把抗清神剧的戏份再给加多了，不然搞个万国丧尸对抗赛，看我大清尸王凶还是你们的狠。"
+    },
+    {
+      "user": "握不住的灵魂",
+      "avatar": "https://img1.doubanio.com/icon/u5498220-68.jpg",
+      "content": "老套又工整，等剧版。"
+    },
+    {
+      "user": "麦小白",
+      "avatar": "https://img3.doubanio.com/icon/u2034976-123.jpg",
+      "content": "很失望啊，政斗戏又长又无趣，两线合并后也没有什么亮眼的丧尸戏。"
+    },
+    {
+      "user": "飘零燕",
+      "avatar": "https://img3.doubanio.com/icon/u15006507-2.jpg",
+      "content": "立意不错，剧情平淡到无聊"
+    },
+    {
+      "user": "悍客.罗",
+      "avatar": "https://img3.doubanio.com/icon/u2366981-316.jpg",
+      "content": "历史宫斗+僵尸，这个脑洞可以，只是后来的煽情有点过了。"
+    },
+    {
+      "user": "大卫·独处尼",
+      "avatar": "https://img1.doubanio.com/icon/u1205892-9.jpg",
+      "content": "不知为何，对韩国古装剧总是无感，即使是僵尸片。而且我看的版本后半段时间轴乱了，字幕对不上，好在台词不多。"
+    },
+    {
+      "user": "左眼看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1737624-3.jpg",
+      "content": "热评第一的到底有没认真看电影， 这只是一部纯商业的丧尸娱乐大片，为什么还一定要找里面的政治因素。什么鼓吹朝独，里面想朝独的是电影里谋国弑君的大反派张东健，而且最后也变成丧尸了，甚至是作为丧尸boss的存在。至于其他人都老老实实的做大清的附属国，主角从头至尾都还一直想回大清。韩国这些年的商业电影已经是成为了亚洲的领军，虽然也不乏意淫，但娱乐效果都是完成度很高的，看个电影而已，即使瞧不起人家，也没必要什么事都往政治上想"
+    },
+    {
+      "user": "红线蓝线都不剪",
+      "avatar": "https://img3.doubanio.com/icon/u169316018-2.jpg",
+      "content": "丧尸版韩国偶像剧，但是张东健和玄彬真的好帅啊！！！"
+    },
+    {
+      "user": "我爱罗宾",
+      "avatar": "https://img3.doubanio.com/icon/u49867478-2.jpg",
+      "content": "僵尸爽片，古装版釜山行，冷兵器求生之路。张东健僵尸皇帝造型够帅，除了大场面其余都很cult"
+    },
+    {
+      "user": "疾风大嘴狼",
+      "avatar": "https://img3.doubanio.com/icon/u49971927-2.jpg",
+      "content": "还行啊，就是不知道钱花哪去了，最后那段有点尬，前面其实还OK"
+    },
+    {
+      "user": "陵皇玥月",
+      "avatar": "https://img3.doubanio.com/icon/u178738438-2.jpg",
+      "content": "看了这部深深感受到男主角根本没有主角光环 要做什么事都被阻碍 为何坏人比主角更具主角光环 "
+    },
+    {
+      "user": "卡列宁的微笑",
+      "avatar": "https://img1.doubanio.com/icon/u3558557-68.jpg",
+      "content": "先百姓才有王，男主最后化身政治哲学家。"
+    },
+    {
+      "user": "L.A.Darwinci",
+      "avatar": "https://img3.doubanio.com/icon/u60236579-16.jpg",
+      "content": "咋能这么无聊"
+    },
+    {
+      "user": "羽子令",
+      "avatar": "https://img3.doubanio.com/icon/u137169217-6.jpg",
+      "content": "三星半。玄彬的这部猖獗比协商演的好，在大清朝当人质、心中本没有国家和臣民的朝鲜王室降临大君（原型凤林大君）因为世子的遗言回国，却卷入了朝廷宫斗之中，带领民众消灭夜鬼重振朝鲜王朝，最终明白了有王才有百姓的道理。玄彬的戏不算太重，僵尸的场面比较多，替他捏把汗，最后在王殿一人砍夜鬼非常帅气，和张东健的对手戏也不错。"
+    },
+    {
+      "user": "夏季的天空",
+      "avatar": "https://img3.doubanio.com/icon/u141049149-3.jpg",
+      "content": "好好地丧尸围城题材却把主线让道给了三流宫斗剧+朝鲜独立义和团，相比之下隔壁的《物怪》都要显得单纯的可爱。演员阵容、画面、服装、音效、动作设计都是一流的，奈何人物设定和剧情细节齐齐扑街，尤其是主角光环太过逆天。"
+    },
+    {
+      "user": "蜉蝣",
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "content": "《王国》第一集多有电影感，这部就多有塑料电视剧感。"
+    },
+    {
+      "user": "声声慢",
+      "avatar": "https://img3.doubanio.com/icon/u52079394-6.jpg",
+      "content": "多有趣的题材啊，古代宫廷丧尸围城+宫变阴谋+论一个纨绔子弟在家破人亡后的成长。可是这种引狼入室以致引火烧身的阴谋，作为反派大boss的智商，真的过关？"
+    },
+    {
+      "user": "wallace李",
+      "avatar": "https://img1.doubanio.com/icon/u41223325-8.jpg",
+      "content": "国仇家恨还有丧尸？口味真的有够独特"
+    },
+    {
+      "user": "xiangkaiad",
+      "avatar": "https://img1.doubanio.com/icon/u48482099-9.jpg",
+      "content": "张东健居然沦为二线大反派？清朝养子嬉笑怒骂成了王？大殿如此燃烧坐在房顶上不烫屁股？bug太多了！"
+    },
+    {
+      "user": "Ying_0111",
+      "avatar": "https://img1.doubanio.com/icon/u53021898-48.jpg",
+      "content": "前面多无聊就不说了。主角虽然看着不像是个正常脑袋瓜的人，但没想到傻到极致，非要在已经开始塌了的瓦顶上蹦起来使尽全力用刀砍已毫无招架之力的反派boss，果不其然一起掉下去了！可是这电影以为主角是劳拉么，熊熊烈火的大殿啊，掉下去抓住哪里能不把手烫焦了？最后主角竟然还毫发无损的爬上来。服了"
+    },
+    {
+      "user": "彩戏师",
+      "avatar": "https://img3.doubanio.com/icon/u2863549-80.jpg",
+      "content": "改革般的独立反叛"
+    },
+    {
+      "user": "横丫肠",
+      "avatar": "https://img3.doubanio.com/icon/u1060981-5.jpg",
+      "content": "古装丧尸的题材蛮好，可惜变成了无双式的割草，主角的成长略单薄，砍刀蛮帅的。"
+    },
+    {
+      "user": "Hez",
+      "avatar": "https://img3.doubanio.com/icon/u1729650-11.jpg",
+      "content": "download with meteor | 三星 | 独臂刀丧尸无敌了"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "权力和丧尸一样，都是可怕的瘟疫。但这夜鬼太弱了，政治对手也很蠢，既无悬念，也少跌宕。朝鲜和清国的关系，倒是韩国电影里值得研究的一个点。"
+    },
+    {
+      "user": "张天师",
+      "avatar": "https://img3.doubanio.com/icon/u1300332-134.jpg",
+      "content": "我不管，看到玄彬我无法客观公正"
+    },
+    {
+      "user": "zzfznp",
+      "avatar": "https://img3.doubanio.com/icon/u1545214-3.jpg",
+      "content": "张东健要不要考虑建立一个丧尸帝国？明显他黑化后更牛逼。我们国家什么时候才会有丧尸类电影呢？"
+    },
+    {
+      "user": "甘丽卿",
+      "avatar": "https://img1.doubanio.com/icon/u2281601-47.jpg",
+      "content": "结尾真的是一言难尽…是一定要拍足2小时吗…不过玄彬演技真心赞…"
+    },
+    {
+      "user": "华盛顿樱桃树",
+      "avatar": "https://img3.doubanio.com/icon/u49213881-4.jpg",
+      "content": "古装版釜山行，除了投资也是没有比釜山行强的点吧。貌美如花的玄彬也不行。"
+    },
+    {
+      "user": "老晃",
+      "avatar": "https://img3.doubanio.com/icon/u1019579-12.jpg",
+      "content": "胡来"
+    },
+    {
+      "user": "不懈不戒",
+      "avatar": "https://img3.doubanio.com/icon/u3177308-2.jpg",
+      "content": "冷兵器对战僵尸并非不够看，但你全程用刀横砍竖斫还不带钝的就没什么意思了。整体调度也乱。张东健演的反派还算出彩。"
+    },
+    {
+      "user": "戴边",
+      "avatar": "https://img3.doubanio.com/icon/u63425875-61.jpg",
+      "content": "底子里还是韩影这几年里讲烂了的朝鲜半岛需要独立自强的观点。化妆是唯一可圈点之处，丧尸片看了何其多，这部片子里夜鬼的诡异形象还是成功膈应到了我。"
+    },
+    {
+      "user": "O型血",
+      "avatar": "https://img3.doubanio.com/icon/u155502191-10.jpg",
+      "content": "https://www.bilibili.com/video/av36707396宫斗剧也玩丧尸，韩国这部古装版《釜山行》再次刷新了认知https://www.bilibili.com/video/av37015510"
+    },
+    {
+      "user": "PASSMEBY",
+      "avatar": "https://img3.doubanio.com/icon/u2116066-105.jpg",
+      "content": "这什么垃圾编剧，浪费玄彬的颜。"
+    },
+    {
+      "user": "Entrop1e",
+      "avatar": "https://img3.doubanio.com/icon/u34154206-111.jpg",
+      "content": "场景和阵仗 精彩还是精彩 玄彬也是真的帅啊 但是…主角光环太过了吧…boss的bug也是…无法直视得过分😂"
+    },
+    {
+      "user": "bluewater",
+      "avatar": "https://img3.doubanio.com/icon/u1031448-51.jpg",
+      "content": "勉强看到一半。韩国人的自尊心真是受过极大的伤害。对清国不时嘲讽一下。"
+    },
+    {
+      "user": "苹果干",
+      "avatar": "https://img3.doubanio.com/icon/u185984958-2.jpg",
+      "content": "这个剧情太一般了，浪费了玄彬和张东健两个演员了。"
+    },
+    {
+      "user": "Nightingale",
+      "avatar": "https://img3.doubanio.com/icon/u59018976-4.jpg",
+      "content": "宫斗背景下的僵尸片，背景是东方但继承西方僵尸的模式，不知是不是大明星IP原因僵尸像蝗虫一样多但是没有战斗力……"
+    },
+    {
+      "user": "夏晚卿",
+      "avatar": "https://img3.doubanio.com/icon/u1100234-61.jpg",
+      "content": "2.5"
+    },
+    {
+      "user": "Riobluemoon",
+      "avatar": "https://img3.doubanio.com/icon/u51715849-3.jpg",
+      "content": "6分。一样的题材，一样的明星，甚至导演的名字都是一样的，为什么拍出来的作品差距那么大呢？？《李尸王国》质量那么高，搞到同样类型的电影就变成抗清神片了？？各种莫名其妙的设计与故事发展，以及亮瞎全球人狗眼的主角光环。一旦有对比，这质量就显露出来了啊~~~"
+    },
+    {
+      "user": "桂小兔",
+      "avatar": "https://img3.doubanio.com/icon/u2204743-1.jpg",
+      "content": "好难看"
+    },
+    {
+      "user": "游侠一笑",
+      "avatar": "https://img3.doubanio.com/icon/u82851721-3.jpg",
+      "content": "这部古装《釜山行》实在没多少新意可言，让僵尸披上古装并不算新意。关键是抢江山的核简单而无趣。"
+    },
+    {
+      "user": "第四声",
+      "avatar": "https://img3.doubanio.com/icon/u56365286-3.jpg",
+      "content": "和《王国》比起来，又臭又长"
+    },
+    {
+      "user": "ZeonGin Sou",
+      "avatar": "https://img3.doubanio.com/icon/u3495654-15.jpg",
+      "content": "也许是各位导演编剧对惊悚片有什么误解？男主们半程无聊宫斗半程开挂宰丧尸有啥好看，韩国古人都是超人了不起哦？还是等李尸朝鲜吧。"
+    },
+    {
+      "user": "一句话影评",
+      "avatar": "https://img3.doubanio.com/icon/u62457534-4.jpg",
+      "content": "杀兵卒变成杀僵尸 都是在黑暗中黑压压的一片 没什么两样 至于权谋 无非就是懦弱的皇帝 挟天子以令诸侯的大臣 流落民间的皇子 誓死效忠的义士之间对台词 在韩国古装片里只会有无聊 且更无聊"
+    },
+    {
+      "user": "烟视媚行",
+      "avatar": "https://img3.doubanio.com/icon/u2092765-1.jpg",
+      "content": "老套俗套加无趣，人物一个都不可爱，正派反派全部干瘪瘪的。可以说是毫无亮点了。一样是丧尸片，釜山行有各种感情牵挂有紧张刺激悬念有可爱的胖子大叔有各种人物个性鲜明情节递进层次分明，这部真的什么都没有。连张东健的逆反和恶都不突出，连玄彬的帅都黯然无光。最后还非要单身杀进去主角光环闪耀一下。"
+    },
+    {
+      "user": "nancy527",
+      "avatar": "https://img3.doubanio.com/icon/u1108185-13.jpg",
+      "content": "毫无新意。"
+    },
+    {
+      "user": "伊豆",
+      "avatar": "https://img1.doubanio.com/icon/u1410905-68.jpg",
+      "content": "古装丧尸片，丧尸还是很恐怖的好吗！！！但是确实拍的太长了。张东健堪称打不死的小强，怎么也不变身，哈哈。wuli彬动作戏，帅！"
+    },
+    {
+      "user": "yukiho",
+      "avatar": "https://img3.doubanio.com/icon/u4210761-3.jpg",
+      "content": "去年看的忘了评，韩国古装丧尸，好无趣"
+    },
+    {
+      "user": "Santorini",
+      "avatar": "https://img3.doubanio.com/icon/u150948299-25.jpg",
+      "content": "要不是有玄彬，张东健，应该不会看这部古装丧尸片"
+    },
+    {
+      "user": "满月",
+      "avatar": "https://img1.doubanio.com/icon/u115131162-7.jpg",
+      "content": "《猖獗》——丧尸题材放在古装背景里就是无法适应。"
+    },
+    {
+      "user": "七十三",
+      "avatar": "https://img3.doubanio.com/icon/u25174155-1355.jpg",
+      "content": "一般"
+    },
+    {
+      "user": "朝阳区妻夫木聪",
+      "avatar": "https://img1.doubanio.com/icon/u57750369-57.jpg",
+      "content": "想要复制釜山行的成功，结果因为加入了太多有的没的类型元素大杂糅，显得非常冗长且呆板，大家想看丧尸大乱斗，谁要看无聊的宫斗。"
+    },
+    {
+      "user": "KAPoOo",
+      "avatar": "https://img3.doubanio.com/icon/u14407242-56.jpg",
+      "content": "我看完了。并献上对玄彬深沉的爱。导演肯定也很爱他 嗯。"
+    },
+    {
+      "user": "丝竹宴音",
+      "avatar": "https://img1.doubanio.com/icon/u48149885-19.jpg",
+      "content": "不能因为釜山行火了，就开始各种版本的打丧尸打怪兽啊，看得我极度乏味。前半段的大君跟白雪公主似的……"
+    },
+    {
+      "user": "秀山鲤鱼",
+      "avatar": "https://img3.doubanio.com/icon/u128265644-3.jpg",
+      "content": "6分，古装宫斗加僵尸还是有点料的，张东健演技在线，玄彬差点。“有了百姓才有王”韩国人拍僵尸片都要上升到这样政治高度，也是醉了。"
+    },
+    {
+      "user": "Mamacita117",
+      "avatar": "https://img3.doubanio.com/icon/u139657634-4.jpg",
+      "content": "古装宫廷版“釜山行”，相对于釜山行的逼仄空间丧尸大游行，宫廷内的空间感塑造极其糟糕，尤其加上“夜鬼”这一设定，大量夜间戏也是为了遮丑，釜山行本身毛病就不少，硬拗一个古装版，文本一塌糊涂，还不如在海报上宣传一下张东健VS玄彬，我想老迷妹们应该会买账。"
+    },
+    {
+      "user": "KMPD-SWAT",
+      "avatar": "https://img3.doubanio.com/icon/u3709827-13.jpg",
+      "content": "虎头蛇尾"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "比较诡异的是，和《李尸朝鲜》不仅撞题材和剧本，连导演中文名也给撞上了……★"
+    },
+    {
+      "user": "小萧",
+      "avatar": "https://img3.doubanio.com/icon/u79942000-5.jpg",
+      "content": "剧情普通，完全没有亮点，演员表现还不错，活尸好像没有想象中吓人。"
+    },
+    {
+      "user": "白熊大王™",
+      "avatar": "https://img3.doubanio.com/icon/u1608475-6.jpg",
+      "content": "就是很工整的一部商业丧尸片，我彬不需要打扮，把脸洗干净就很帅了，这么帅只能4星伺候了。"
+    },
+    {
+      "user": "拐子流星锤",
+      "avatar": "https://img1.doubanio.com/icon/u26384755-19.jpg",
+      "content": "主角光环太强，任务又太冗长重复，以至于一直担心玄彬说出阿西吧来"
+    },
+    {
+      "user": "吃橙的恬仔",
+      "avatar": "https://img3.doubanio.com/icon/u10583789-72.jpg",
+      "content": "hmm 又要升华了 升华了 董存瑞没炸成的悲情 啊 还是给玄彬一颗星 "
+    },
+    {
+      "user": "梦行30",
+      "avatar": "https://img1.doubanio.com/icon/u57080555-27.jpg",
+      "content": "浪费演员，群众演员真的很辛苦，电影真的很难看，内心毫无波澜的看完，一点不激动！"
+    },
+    {
+      "user": "左子楚",
+      "avatar": "https://img3.doubanio.com/icon/u2133568-3.jpg",
+      "content": "披着丧尸外衣的权谋宫斗戏"
+    },
+    {
+      "user": "Diva Tequila",
+      "avatar": "https://img3.doubanio.com/icon/u2727073-121.jpg",
+      "content": "这个背景设定真是。。"
+    },
+    {
+      "user": "非虚构",
+      "avatar": "https://img3.doubanio.com/icon/u139314696-71.jpg",
+      "content": "乱七八糟！乱七八糟！乱七八糟！"
+    },
+    {
+      "user": "V_Lachesis",
+      "avatar": "https://img3.doubanio.com/icon/u3614301-16.jpg",
+      "content": "有珠玉在前，失了先机；照搬现代思维模式，干脆没啥心机"
+    },
+    {
+      "user": "无机客",
+      "avatar": "https://img3.doubanio.com/icon/u1065130-33.jpg",
+      "content": "娱乐性不足"
+    },
+    {
+      "user": "四月物语",
+      "avatar": "https://img3.doubanio.com/icon/u1350223-10.jpg",
+      "content": "1080#看了37分钟，很松散很虚假的表演。"
+    },
+    {
+      "user": "电漫",
+      "avatar": "https://img1.doubanio.com/icon/u1541133-79.jpg",
+      "content": "元彬的皇帝僵尸装扮还挺帅 其他都不行"
+    },
+    {
+      "user": "RealityBites",
+      "avatar": "https://img3.doubanio.com/icon/u51894959-273.jpg",
+      "content": "韩国拍丧尸片拍上瘾了，这回来了个古装的。让张东健的大反派早早被咬，剧作上是不是太偷懒？最后强行政治口号“有百姓才有王”，生硬倒也受用。你们要自己救自己，别等着人来救。"
+    },
+    {
+      "user": "笑笑笑笑笑笑",
+      "avatar": "https://img3.doubanio.com/icon/u2215256-2.jpg",
+      "content": "除了古代僵尸稍微有点创意外，其余一无是处，吐槽都吐不胜吐。尤其那个兵判，我看不是想当王，是想当黑社会老大。"
+    },
+    {
+      "user": "八爪",
+      "avatar": "https://img3.doubanio.com/icon/u4454692-3.jpg",
+      "content": "也没那么差。阴谋篡位的故事加上古装丧尸的元素，也算是老中翻新。但是故事讲的实在太硬，场面和特效都不错，少有的大制作的丧尸片。节奏没控制好，不是无聊的政治斗争，就是大段的砍杀到无聊。主角光环无敌，BOSS变丧尸也有意识，这个设定太过俗套刻板。最后还强行煽情到矫情。结尾最后一个镜头带兵救援，不是应该大吼一声冲啊，然后呼天抢地的冲出去嘛！怎么轻轻的说一声“驾”，然后拉个远景就看到部队在缓慢前进……对的起当时的形势吗？（可参照《双塔奇兵》中甘道夫的救援）"
+    },
+    {
+      "user": "高级动物",
+      "avatar": "https://img3.doubanio.com/icon/u80610688-664.jpg",
+      "content": "没啥意思"
+    },
+    {
+      "user": "暗夜精灵",
+      "avatar": "https://img3.doubanio.com/icon/u4415314-15.jpg",
+      "content": "蠢归蠢，混搭风设定一旦接受还是蛮好玩的，纯粹图个“丧尸”遇上“反清复明”的乐子。"
+    },
+    {
+      "user": "宛如智障鱼摆摆",
+      "avatar": "https://img3.doubanio.com/icon/u44106862-166.jpg",
+      "content": "？？"
+    },
+    {
+      "user": "凤影妮窝",
+      "avatar": "https://img1.doubanio.com/icon/u40424240-7.jpg",
+      "content": "소정한 시간에 소정한 친구랑 \n오빠들의 영화 봤다 \n재밌없다\n연기 좋지만 아쉬움 스토리"
+    },
+    {
+      "user": "发条饺子",
+      "avatar": "https://img3.doubanio.com/icon/u1996037-3.jpg",
+      "content": "看介绍有宫斗和夜鬼，以为韩国人翻拍权力的游戏，看到一半发现原来翻拍的是古惑仔，大家吼，吾细渣渣健，系兄弟就来砍我。"
+    },
+    {
+      "user": "夕霏",
+      "avatar": "https://img3.doubanio.com/icon/u4637318-721.jpg",
+      "content": "简直了看得我哈哈乐，编剧同志，编不下去您就收尾啊，硬编是怎么回事，开头还挺吸引人的，到后面基本就是闹剧了，张东健的大反派即使变成僵尸也是打不死的僵尸（不愧有主角光环），和玄彬硬是打了三次才被将将打死。玄彬更是主角光环附体就差上天了，被僵尸都包围了也没被咬一口，最后血刺拉擦的坐在屋顶接受众人的欢呼。没啥逻辑，看个热闹吧。韩国最近真流行僵尸题材啊，明年还有一部僵尸电视剧《kingdom》要上。"
+    },
+    {
+      "user": "Xia",
+      "avatar": "https://img3.doubanio.com/icon/u69763543-11.jpg",
+      "content": "想面面俱到，却差了点火候（这好像是我看的第一部不以现代为背景的丧尸片诶～）"
+    },
+    {
+      "user": "雀斑Frec🌈",
+      "avatar": "https://img1.doubanio.com/icon/u25441525-8.jpg",
+      "content": "两大男神也拯救不了这个烂剧本..."
+    },
+    {
+      "user": "想象向东",
+      "avatar": "https://img1.doubanio.com/icon/u103675557-8.jpg",
+      "content": "古代丧尸片，两个男神的演技比拼，其实剧情挺弱，不过古代丧尸还是有点意思。"
+    },
+    {
+      "user": "灰灰灰",
+      "avatar": "https://img3.doubanio.com/icon/u153627307-3.jpg",
+      "content": "用一个成语形容本片-不伦不类，非要将一个逆贼叛乱被不得宠大君平定的故事配上丧尸情节，让本来就老生常谈的故事变得匪夷所思，完全没看出丧尸的用意。最后还非要将故事中心上升至有百姓才有王，更是生搬硬套。不过，玄彬是真帅。"
+    },
+    {
+      "user": "一匹马赛克",
+      "avatar": "https://img3.doubanio.com/icon/u36149701-30.jpg",
+      "content": "剧本里很多元素和因果都是挺好的，比如疾病由外国白人商船带来，比如玄彬的政治立场等等，可惜组接起来太差，打斗场面又缺乏新意，不断重复。失望平庸。"
+    },
+    {
+      "user": "小瓣生🌈",
+      "avatar": "https://img1.doubanio.com/icon/u58231376-129.jpg",
+      "content": "想把整个天下都攥握在手中，却偏被掌心的一道伤口断送了贪婪；想要守护的不过是一纸遗嘱，却偏被遗嘱背后的家国使命推崇为英雄。其实麻木愚昧的民心恐怖胜过这汹涌的瘟疫。张东健的表现出彩尚有几分。"
+    },
+    {
+      "user": "longhann",
+      "avatar": "https://img1.doubanio.com/icon/u1249091-88.jpg",
+      "content": "剧情就…很像游戏"
+    },
+    {
+      "user": "killblue",
+      "avatar": "https://img3.doubanio.com/icon/u80690830-15.jpg",
+      "content": "好蠢"
+    },
+    {
+      "user": "Estelle",
+      "avatar": "https://img1.doubanio.com/icon/u1366616-408.jpg",
+      "content": "亢长乏味，浪费一个好题材"
+    },
+    {
+      "user": "夏语冰",
+      "avatar": "https://img3.doubanio.com/icon/u9354883-13.jpg",
+      "content": "古装+宫斗+丧尸这种天才题材也只有韩国人才能想出来了，可惜故事并不精彩"
+    },
+    {
+      "user": "The_Marzz",
+      "avatar": "https://img3.doubanio.com/icon/u119753069-5.jpg",
+      "content": "高丽政权加恐怖元素管用的套路，不过确实比之前的类型片好不少。"
+    },
+    {
+      "user": "于是",
+      "avatar": "https://img3.doubanio.com/icon/u1032146-3.jpg",
+      "content": "和雪国列车釜山行相隔大约行尸走肉"
+    },
+    {
+      "user": "Eveyのn个晴天",
+      "avatar": "https://img3.doubanio.com/icon/u119316126-10.jpg",
+      "content": "看完王国觉得没过瘾的话再来看看这部是不错的选择，都是古装丧尸好多设定也非常相似，别带太大预期就也还行吧，至少场面和氛围都还不输，还有玄彬和张东健坐镇。其实前半部分都还不错的，后面越该紧张的时候越开始煽情导演也真是没眼力见儿。玄彬穿着大白蓬蓬裙的一系列武打场面我给个好评吧。"
+    },
+    {
+      "user": "大号煎饼",
+      "avatar": "https://img3.doubanio.com/icon/u64345409-3.jpg",
+      "content": "还行吧~"
+    },
+    {
+      "user": "小五",
+      "avatar": "https://img3.doubanio.com/icon/u50097862-20.jpg",
+      "content": "普通 像电视剧一样的电影 是有idea在的 但是很套路 "
+    },
+    {
+      "user": "海德",
+      "avatar": "https://img3.doubanio.com/icon/u29398353-50.jpg",
+      "content": "看样子还是Netflix的李尸好一点"
+    },
+    {
+      "user": "和运超",
+      "avatar": "https://img3.doubanio.com/icon/u2038126-46.jpg",
+      "content": "马马虎虎可以看"
+    },
+    {
+      "user": "Miss Crush",
+      "avatar": "https://img3.doubanio.com/icon/u2168103-384.jpg",
+      "content": "看哭了"
+    },
+    {
+      "user": "阿cai啊",
+      "avatar": "https://img1.doubanio.com/icon/u2041700-139.jpg",
+      "content": "烂尾了，应该说后半部分就开始烂了。\r但感觉很史实，尽管肯定无法百分百史实，但对比国内的古装片，真的强了不知道多少倍。\r韩国的大部分古装电影不管是服装等道具还是室内室外的环境，哪怕你对历史没有了解，也会给你这么一种感觉：他们那个时候就是那样子的。\r再看看国内的，所谓精致画面，服装精致，妆容精致，环境精致……先不说史实不史实，就那些所谓精致，已经让我出戏了。"
+    },
+    {
+      "user": "LIMBOYZP",
+      "avatar": "https://img1.doubanio.com/icon/u53216235-28.jpg",
+      "content": "韩影基本上可以看做对港片没落的替代者，有些烂片是可以预见的。"
+    },
+    {
+      "user": "兔子小i",
+      "avatar": "https://img1.doubanio.com/icon/u1354436-7.jpg",
+      "content": "没有kingdom好看"
+    },
+    {
+      "user": "GoodWillHuntin",
+      "avatar": "https://img3.doubanio.com/icon/u2897818-10.jpg",
+      "content": "白瞎了这个古装僵尸的创意……乱七八糟，塞了太多东西"
+    },
+    {
+      "user": "SUNSAD.psd",
+      "avatar": "https://img3.doubanio.com/icon/u1725717-32.jpg",
+      "content": "古代人打僵尸，两星半吧。"
+    },
+    {
+      "user": "yuan",
+      "avatar": "https://img3.doubanio.com/icon/u2711526-14.jpg",
+      "content": "丧尸和政斗结合，倒也有趣，但没能发挥好。最后的双雄对决，气势整个弱掉。打僵尸变成砍瓜切菜。"
+    },
+    {
+      "user": "全塑料外壳",
+      "avatar": "https://img1.doubanio.com/icon/u2839065-7.jpg",
+      "content": "这个算电影版的《王国》了吧"
+    },
+    {
+      "user": "木三君",
+      "avatar": "https://img3.doubanio.com/icon/u66138271-6.jpg",
+      "content": "这是什么玩意儿？？？"
+    },
+    {
+      "user": "阿彪",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "张东健这装扮真不好认，就是后半段处于“痴呆”状态。玄彬真是帅酷了！因为釜山行团队的参与，所以丧尸的表演还是可以的。但依旧拯救不了整部剧的烂"
+    },
+    {
+      "user": "purelan",
+      "avatar": "https://img1.doubanio.com/icon/u47904693-19.jpg",
+      "content": "演员阵容强大，奈何还是吐槽无力。玄彬和张东健，一正一邪，正的以一敌百，邪的被丧尸咬了反而金刚不坏。到最后，正角以一挑所有，精疲力尽，才跳梁点火，这剧情……看看玄彬就好。两星半吧，一众演员辛苦了。"
+    },
+    {
+      "user": "Hedidntwakeup",
+      "avatar": "https://img3.doubanio.com/icon/u167487913-2.jpg",
+      "content": "帥啊啊啊啊啊啊"
+    },
+    {
+      "user": "灰机涛",
+      "avatar": "https://img3.doubanio.com/icon/u34153568-5.jpg",
+      "content": "不好看"
+    },
+    {
+      "user": "__雲淡風輕.",
+      "avatar": "https://img3.doubanio.com/icon/u60214722-3.jpg",
+      "content": "还不错 就是主角光环太强了"
+    },
+    {
+      "user": "Fei",
+      "avatar": "https://img1.doubanio.com/icon/u13319308-39.jpg",
+      "content": "王子跟班临死前那句“不要踩到狗屎”让我笑场了"
+    },
+    {
+      "user": "悟饭婆婆",
+      "avatar": "https://img3.doubanio.com/icon/u63922576-5.jpg",
+      "content": "低配古装宫廷版《釜山行》，丧尸围城+宫廷逆谋的情节设定，可是导演拍得太拖沓无聊了，人物个性扁平且太脸谱化，丧尸围城的困兽之斗毫无紧张感，宫廷逆谋的权利争夺也全无起伏转折，唯一的看点也就剩下逼真的化妆特效了。"
+    },
+    {
+      "user": "邵禹升",
+      "avatar": "https://img3.doubanio.com/icon/u139680927-2.jpg",
+      "content": "想给四星，但是还差了那么一点！"
+    },
+    {
+      "user": "罗西基",
+      "avatar": "https://img3.doubanio.com/icon/u34901213-15.jpg",
+      "content": "二星：构思不错，但设定以及执行都不如人意。要不是冲着两位男神的落力演出，尸山尸海产生的视觉疲劳实在是考验观影的耐性。"
+    },
+    {
+      "user": "306号房客",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "无力吐槽，浪费了那么好的资源和那么多的金钱，拍出来这么一部垃圾片。按照人类睡眠时间，观看表演大概是晚上八点吧，君王变成夜鬼，夜鬼们开始侵略宫城.大概晚上九点，主角通知禁卫军守好宫门，然后禁卫军足足守到第二天早上六点太阳出来，还是用冷兵器，真牛，毫不怯战的夜鬼竟然九个小时都攻不下宫门？禁卫军们把钢刀挥舞九个小时都不力歇，还可以远赴半天路程的兵营？最后一幕更搞，都已经世界末日了，还指望一个人点火，按逻辑，他敲鼓只要引来二十个夜鬼就死定了，还怎么继续引来更多夜鬼？难道几百个夜鬼还会等他敲完鼓再咬他？主角更SB，明明叫一群人射火箭就能点火，非要自己一个人浪费观众时间。"
+    },
+    {
+      "user": "花啦花。",
+      "avatar": "https://img3.doubanio.com/icon/u32224711-34.jpg",
+      "content": "emm，宫斗加丧尸很新的题材啊，主角也厉害啊，但是主角光环太厉害，剧情也太老套了"
+    },
+    {
+      "user": "北斗星626",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "两颗星给两位男主"
+    },
+    {
+      "user": "四不象",
+      "avatar": "https://img3.doubanio.com/icon/u1832573-36.jpg",
+      "content": "剧场版不行啊"
+    },
+    {
+      "user": "哈魯哈",
+      "avatar": "https://img3.doubanio.com/icon/u80107080-1.jpg",
+      "content": "李屍朝鮮屌打這部"
+    },
+    {
+      "user": "飞逝即殇",
+      "avatar": "https://img3.doubanio.com/icon/u36185277-2.jpg",
+      "content": "看完之后我有个问题。皇帝决定依附清朝，大皇子私买火器要对抗清朝，那么大皇子是不是确实就是造反？如果李朝真的有能力对抗清朝，又站在李朝的立场，大皇子确实是英雄，但是掂量清楚自己的实力没？"
+    },
+    {
+      "user": "远古飞行员",
+      "avatar": "https://img3.doubanio.com/icon/u43102060-14.jpg",
+      "content": "主角光环太厉害导致根本让观众不相信角色！后半段看的人走神无比。另外反派也是，一直不变化，一直有意识，莫名其妙的很！！玄彬思想转变也太快，让人震惊，最后又冲那么多人回来，前面何必那边搞东搞西烧丧失！！？？"
+    },
+    {
+      "user": "minhe",
+      "avatar": "https://img3.doubanio.com/icon/u31884889-281.jpg",
+      "content": "bug有点多呀"
+    },
+    {
+      "user": "花吃了卡百利",
+      "avatar": "https://img3.doubanio.com/icon/u2527093-34.jpg",
+      "content": "非常一般…可能期待太高？"
+    },
+    {
+      "user": "Vic.x",
+      "avatar": "https://img3.doubanio.com/icon/u4198832-40.jpg",
+      "content": "2星，多1星是给张东健和玄彬的美貌的。。。"
+    },
+    {
+      "user": "搭座木屋好不好",
+      "avatar": "https://img3.doubanio.com/icon/u50919323-13.jpg",
+      "content": "玄彬和张东健这造型太丑了 一星给丧尸群演"
+    },
+    {
+      "user": "高羽",
+      "avatar": "https://img3.doubanio.com/icon/u64453828-3.jpg",
+      "content": "丧尸的来源还是说不清道不明的，只能推给舶来品。兵判为什么能有理智？敲鼓时候如何避免被咬？小问题很多哦。"
+    },
+    {
+      "user": "沉山泥",
+      "avatar": "https://img1.doubanio.com/icon/u1049253-37.jpg",
+      "content": "我的玄彬啊，张东健欧巴都给你当配角了，你就帅帅地打完全场呀。剧情很扯……"
+    },
+    {
+      "user": "🍑野兽桃半仙",
+      "avatar": "https://img3.doubanio.com/icon/u3262475-293.jpg",
+      "content": "最近韩国跟丧尸杠上了，追逃没有釜山行爽，人员没有王国壮观emmm……玄彬还是很可爱。"
+    },
+    {
+      "user": "天元小生",
+      "avatar": "https://img3.doubanio.com/icon/u55945559-31.jpg",
+      "content": "又一部朝鲜人的反华片"
+    },
+    {
+      "user": "星星",
+      "avatar": "https://img3.doubanio.com/icon/u51229872-43.jpg",
+      "content": "创意不错，缺点应该是各种剧情漏洞，一般，属于吃饭时可以看看，氛围什么的还是很容易进入情景"
+    },
+    {
+      "user": "Wait",
+      "avatar": "https://img1.doubanio.com/icon/u3618040-7.jpg",
+      "content": "据说是王国的电影版，我猜到会烂，但没想到会这么烂…两个多小时，剧情拖沓，人物塑造不清晰，丧尸也没有王朝恐怖，眼仁变白是山村老尸用剩下的，还搞了个夜王出来，权游么，和夜王的对决用的决战紫禁之巅，还暗搓搓的黑了一下清朝，槽点太多了。如果没看王国我可能会打两星，看了就只有一星了…"
+    },
+    {
+      "user": "月章星句",
+      "avatar": "https://img3.doubanio.com/icon/u60504195-5.jpg",
+      "content": "太普通，也就玄彬拔剑砍人的帅气稍微能看看。"
+    },
+    {
+      "user": "莎翁笔下的精灵",
+      "avatar": "https://img3.doubanio.com/icon/u49146355-10.jpg",
+      "content": "怪不得说《李尸朝鲜》是《猖獗》的高配版，不过，品相差远了，完全不是一个等级，属于不补也绝不会后悔系列[挖鼻]。就是情绪，情绪，情绪！事件呐，人物呐，还有为毛一出现丧尸就摇个远景，动不动就是从上往下看的视角，是想让人感受那尸山尸海？那你特效做得丰满点啊。"
+    },
+    {
+      "user": "大酸酸",
+      "avatar": "https://img3.doubanio.com/icon/u4426212-11.jpg",
+      "content": "看了韩剧王国才看的猖獗，设定差不多，但拍得不抓人也不刺激，故事也没讲好，浪费卡司…"
+    },
+    {
+      "user": "CathShero",
+      "avatar": "https://img3.doubanio.com/icon/u25314137-12.jpg",
+      "content": "还好我先看了kingdom，所以在嗅到这片的弱智气息时果断选择倍速观看"
+    },
+    {
+      "user": "Stone Ning",
+      "avatar": "https://img1.doubanio.com/icon/u44656368-7.jpg",
+      "content": "三星半，虽逊色于《釜山行》，但瑕不掩瑜，在题材及类型融合上迈出了一大步。"
+    },
+    {
+      "user": "思考",
+      "avatar": "https://img3.doubanio.com/icon/u138913631-3.jpg",
+      "content": "张东健的人鬼定位有问题导致烂尾了！"
+    },
+    {
+      "user": "ceci",
+      "avatar": "https://img3.doubanio.com/icon/u1531878-3.jpg",
+      "content": "光看玄彬和张东健就值了。剧情比较渣，看个热闹还是可以的。"
+    },
+    {
+      "user": "球宝宝",
+      "avatar": "https://img1.doubanio.com/icon/u3670119-7.jpg",
+      "content": "hhh？@历史理性 事大主义伤痕文学能拍成丧尸片我真是佩服南朝鲜脑洞，虽然一片骂声但是我真的觉得比日本丧尸片爆款《摄影机不要停》好玩，虽然全是套路，但，这纯粹是“只有重复才能产生新”了，就好比土豆是老的，菠菜也是老的，你吃过土豆炒菠菜吗？"
+    },
+    {
+      "user": "忘川",
+      "avatar": "https://img3.doubanio.com/icon/u189680724-6.jpg",
+      "content": "古代朝鲜+丧尸+王权斗争…《王国》连续剧的剧本元素跟它一模一样，看来《王国》是它的连续剧版（毕竟它先发行的嘛）。挺喜欢“有百姓才有王”这句话，古代不是也有一句：“民为重 社稷次之 君为轻”"
+    },
+    {
+      "user": "磁凝胶",
+      "avatar": "https://img1.doubanio.com/icon/u2246961-39.jpg",
+      "content": "一般般的丧尸片"
+    },
+    {
+      "user": "Cy钰",
+      "avatar": "https://img3.doubanio.com/icon/u1209521-346.jpg",
+      "content": "两星半。玄彬还是很帅的！僵尸们也是很卖力的！"
+    },
+    {
+      "user": "lesley",
+      "avatar": "https://img3.doubanio.com/icon/u52671883-2.jpg",
+      "content": "古语听着特别容易困，老走神，看了两次才看完，🧟♀️丧尸打斗效果还是不错的，跟美国片比节奏太慢，可能因为对话比较多"
+    },
+    {
+      "user": "Seven_Ling",
+      "avatar": "https://img3.doubanio.com/icon/u131148712-5.jpg",
+      "content": "演的啥？？？"
+    }
+  ]
+}

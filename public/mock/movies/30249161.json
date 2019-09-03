@@ -1,0 +1,1156 @@
+{
+  "title": "哆啦A梦：大雄的月球探险记",
+  "url": "https://movie.douban.com/subject/30249161/",
+  "rate": "7.4",
+  "id": "30249161",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557500825.jpg",
+  "info": [
+    "导演: 八锹新之介",
+    "编剧: 藤子·F·不二雄 / 辻村深月",
+    "主演: 水田山葵 / 大原惠美 / 嘉数由美 / 木村昴 / 关智一 / 大谷育江 / 皆川纯子 / 铃木晶子 / 渡边明乃 / 广濑爱丽丝 / 中冈创一 / 吉田钢太郎 / 柳乐优弥 / 高桥茂雄 / 高木涉 / 松本保典 / 荻野志保子 / 庆长佑香 / 矢口麻美 / 寺岛拓笃 / 三石琴乃 / 武田幸史 / 生天目仁美 / 金光宣明 / 村濑迪与 / 鸟海胜美 / 小原好美 / 酒井蓝",
+    "类型: 剧情 / 动画",
+    "官方网站: doraeiga.com/2019/",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "上映日期: 2019-06-01(中国大陆) / 2019-03-01(日本)",
+    "片长: 111分钟",
+    "又名: 哆啦A梦剧场版：大雄的月面探查记 / 哆啦A梦：大雄的月球探测记 / 哆啦A梦：月球探险记"
+  ],
+  "desc": "月球探测器在月亮上捕捉到了白影，大雄认为这道白影是月亮上的兔子，惹来了大家的耻笑，于是哆啦A 梦为了帮助大雄，利用道具“异说俱乐部徽章”，在月球背面制造了一个兔子王国。一天，神秘少年露卡转学而来，与大雄和伙伴们一同前往月亮上的月兔王国展开了一场别开生面的浪漫想象力之旅。",
+  "members": {
+    "director": {
+      "name": "八锹新之介 Shinnosuke Yakuwa",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469190483.72.jpg"
+    },
+    "cast": [
+      {
+        "name": "水田山葵 Wasabi Mizuta",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1375424738.93.jpg"
+      },
+      {
+        "name": "大原惠美 Megumi Oohara",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1358580306.49.jpg"
+      },
+      {
+        "name": "嘉数由美 Yumi Kakazu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36838.jpg"
+      },
+      {
+        "name": "木村昴 Subaru Kimura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1403613523.51.jpg"
+      },
+      {
+        "name": "关智一 Tomokazu Seki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4372.jpg"
+      },
+      {
+        "name": "大谷育江 Ikue Ootani",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7451.jpg"
+      },
+      {
+        "name": "皆川纯子 Junko Minagawa",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2478.jpg"
+      },
+      {
+        "name": "铃木晶子 Suzuki Akiko",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pj6I3y_H-tH4cel_avatar_uploaded1539528328.34.jpg"
+      },
+      {
+        "name": "渡边明乃 Akeno Watanabe",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27831.jpg"
+      },
+      {
+        "name": "广濑爱丽丝 Alice Hirose",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40968.jpg"
+      },
+      {
+        "name": "中冈创一 Souichi Nakaoka",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "吉田钢太郎 Kôtarô Yoshida",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49462.jpg"
+      },
+      {
+        "name": "柳乐优弥 Yûya Yagira",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1399275661.42.jpg"
+      },
+      {
+        "name": "高桥茂雄 Shigeo Takahashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504752172.44.jpg"
+      },
+      {
+        "name": "高木涉 Wataru Takagi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23364.jpg"
+      },
+      {
+        "name": "松本保典 Yasunori Matsumoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10291.jpg"
+      },
+      {
+        "name": "荻野志保子 Shihoko Hagino",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507606925.37.jpg"
+      },
+      {
+        "name": "庆长佑香 Keichō Yuka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1560331840.02.jpg"
+      },
+      {
+        "name": "矢口麻美 Yaguchi Asami",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pGHRa7Yp9grscel_avatar_uploaded1550494673.74.jpg"
+      },
+      {
+        "name": "寺岛拓笃 Takuma Terashima",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1415813261.4.jpg"
+      },
+      {
+        "name": "三石琴乃 Kotono Mitsuishi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4957.jpg"
+      },
+      {
+        "name": "武田幸史 Takeda Kouji",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p03hD7dz4zV8cel_avatar_uploaded1544012008.8.jpg"
+      },
+      {
+        "name": "生天目仁美 Hitomi Nabatame",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10430.jpg"
+      },
+      {
+        "name": "金光宣明 Kanemitsu Nobuaki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1560169618.54.jpg"
+      },
+      {
+        "name": "村濑迪与 Michiyo Murase",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1487762662.11.jpg"
+      },
+      {
+        "name": "鸟海胜美 Toriumi Katsumi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1560174868.01.jpg"
+      },
+      {
+        "name": "小原好美 Konomi Kohara",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1493012772.34.jpg"
+      },
+      {
+        "name": "酒井蓝 ",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img1.doubanio.com/img/trailer/medium/2557508299.jpg?",
+        "src": "http://vt1.doubanio.com/201908311454/5a748c2be2f632d84d46d0b38509a1d9/view/movie/M/402470560.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2555844412.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2555844417.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2555844419.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2542764299.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "低端的一日三岁",
+      "avatar": "https://img3.doubanio.com/icon/u5803661-3.jpg",
+      "content": "剧场版故事更复杂场面更大，可我还是喜欢小时候那种简单纯粹的单元故事～"
+    },
+    {
+      "user": "钱仔",
+      "avatar": "https://img1.doubanio.com/icon/u33061160-67.jpg",
+      "content": "有谁能不喜欢哆啦A梦呢"
+    },
+    {
+      "user": "believe in.",
+      "avatar": "https://img3.doubanio.com/icon/u187548635-2.jpg",
+      "content": "想象力是未来，是对人类的关怀。放弃想象力的时候，破坏就开始了。台词飙泪😭"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "回到了巅峰水平，剧本的每个方面都十分出色，尤其是埋设细节上，用心程度和近年的剧场版形成鲜明对比。后半部分其实有点融梗《星球大战》+《阿丽塔》，竟然不违和。"
+    },
+    {
+      "user": "法兰西胶片",
+      "avatar": "https://img1.doubanio.com/icon/u2316731-67.jpg",
+      "content": "三星半。这集比冰凉凉和金银岛好看太多，直奔日本诞生的水准，新角色是渚薰异色版小智，最后连铳梦都用上了。听到大决战里哆啦A梦怒喊“想象力是未来，是对人类的关怀”这种台词实在飙泪！"
+    },
+    {
+      "user": "委員長",
+      "avatar": "https://img3.doubanio.com/icon/u58356811-4.jpg",
+      "content": "这部大雄没有偷看静香洗澡"
+    },
+    {
+      "user": "AMY园",
+      "avatar": "https://img3.doubanio.com/icon/u3636182-202.jpg",
+      "content": "这不是探险，是暗黑寓言"
+    },
+    {
+      "user": "马 夋",
+      "avatar": "https://img1.doubanio.com/icon/u30395883-29.jpg",
+      "content": "全世界都催着我长大，还好有哆啦A梦把我当小孩"
+    },
+    {
+      "user": "赤之彗星",
+      "avatar": "https://img3.doubanio.com/icon/u70686485-5.jpg",
+      "content": "【6.5】“别乱说话，会被抓的”“有区别吗？反正现在到处都像监狱”听到这两句台词我都惊了。虽然故事还是蓝胖最俗的那个冒险故事，但基调却拔高了一些。大雄和小智联手大战暗黑破坏神，大菠萝机器大帝控制死星对底层进行收割，背后的故事还是蛮有梗也蛮灰暗的。"
+    },
+    {
+      "user": "弃之竹",
+      "avatar": "https://img3.doubanio.com/icon/u66784778-25.jpg",
+      "content": "近几年看过的最好的剧场版。可惜后面有点赶。要不然足足的五星。送的特典真可爱～"
+    },
+    {
+      "user": "水浒三国金刚",
+      "avatar": "https://img3.doubanio.com/icon/u3322566-2.jpg",
+      "content": "虽然和南极，金银岛一样都属于编剧原创剧场版，不过这部对原著的致敬元素更多，比如捏土做兔子那个道具，大雄一开始做的失败品怪物后来成了兔子们的反派，地心说和日心说通过道具演示就出自原著漫画，不过原创的新角色路卡的画风似乎和哆啦A梦系列不在一个次元吧，另外这部里静香格外地关心大雄，感觉两人的感情积累得越来越深厚了"
+    },
+    {
+      "user": "施小音爱林先生",
+      "avatar": "https://img3.doubanio.com/icon/u4396853-2.jpg",
+      "content": "三星半～还很真诚地很萌地在给小盆友们讲道理的呢…快三十岁了还是好喜欢蓝胖子啊（╹◡╹）"
+    },
+    {
+      "user": "路西法尔",
+      "avatar": "https://img3.doubanio.com/icon/u4214564-2.jpg",
+      "content": "不知道为什么大雄一旦和露卡同框我就想在屏幕上打一个“囍”字(¯―¯٥)反技术的内核还在，但表现得不好。个人觉得哆啦A梦版反乌托邦还没有超越92版《云之国》的。"
+    },
+    {
+      "user": "冷蔵保存",
+      "avatar": "https://img3.doubanio.com/icon/u151824159-3.jpg",
+      "content": "纪念第一部在电影院看的哆啦A梦，主题曲一响整个人都快哭出来了"
+    },
+    {
+      "user": "冰红深蓝",
+      "avatar": "https://img3.doubanio.com/icon/u58206795-16.jpg",
+      "content": "纪念人类登月50周年 & 哆啦a梦开播40周年的剧场版。在异说俱乐部徽章（大雄与地底人）的短篇基础上改编，融合了《辉夜姬物语》传说及最新的人工智能话题。内核还是友情、正义、想象力与生态环保。片尾曲时出现的漫画中的“小兔人”应该是致敬《大雄的宇宙开拓史》。细节精致，许多经典元素基本都有出现，比如胖虎唱歌（这次竟遇到惺惺相惜的月面歌王，歌声如《铁皮鼓》奥斯卡尖叫般可怖）、静香洗澡、小夫哭叫妈妈、大雄秒睡着和哆啦a梦紧急时刻乱翻口袋找不到道具等。PS：看的国语配音版，感觉也很赞。（8.5/10）"
+    },
+    {
+      "user": "Dilettante G",
+      "avatar": "https://img1.doubanio.com/icon/u36804126-7.jpg",
+      "content": "为了庆祝六一儿童节看的,剧情冗长幼稚无聊,最受不了二次元世界里发色各异的造型,强忍看完,影院座椅太舒服。"
+    },
+    {
+      "user": "正在",
+      "avatar": "https://img3.doubanio.com/icon/u2751358-40.jpg",
+      "content": "也算是为我国未来提供了一个范本。杀伤性武器生成意识，成功统治社会上千年，最后要靠预言玄学才得解放。"
+    },
+    {
+      "user": "曼彻斯特的雪",
+      "avatar": "https://img3.doubanio.com/icon/u180401152-1.jpg",
+      "content": "这部终于翻身了，又达到了伴我同行那年的水准，歌曲也好听，每年六一都有蓝胖子的陪伴也是一件很幸福的事啊。哈哈。"
+    },
+    {
+      "user": "没有人",
+      "avatar": "https://img3.doubanio.com/icon/u66494720-4.jpg",
+      "content": "整部电影只喜欢一句话，“正因为能力有限才努力，正因为生命短暂才美好”。"
+    },
+    {
+      "user": "玉君",
+      "avatar": "https://img1.doubanio.com/icon/u151782295-28.jpg",
+      "content": "多1分情怀分，这次不但寓教于乐还发人深省，有的情节设置很有趣，兔子很萌，但故事进展略显套路，且虎头蛇尾，憋着的眼泪硬是强行给收了回去，比起某死神小学生，我大机器猫在宇宙里可以横着走，下一部难道是恐龙重置？"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "机器猫还是2D好看呀，又萌又紧张还有笑声，就像小时候守着电视看一样。"
+    },
+    {
+      "user": "Miss Macarons",
+      "avatar": "https://img3.doubanio.com/icon/u48908798-23.jpg",
+      "content": "10/10 幸福感满分观影体验就是这样，有笑点有泪点有萌点人设也棒，还改编融入了原作里我最喜欢的地底国，最后还能被主题曲苏得正中红心，静香在近年剧场版里真的越来越酷，在六本木看到超优秀海报就知道这部剧场肯定质量不会差，新宿toho几乎身边都是带小孩的，我隔壁的小朋友被反派怪兽出来的时候吓到钻到爸爸怀里，一瞬间让我这种铁打的丁克都有了生娃的冲动，当然就一瞬间而已"
+    },
+    {
+      "user": "Panda的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u53485894-4.jpg",
+      "content": "2013年至今每年儿童节都有坚持看动画过节的习惯，今年的《大雄的月球探险记》是继《大雄的金银岛》后第二次六一在影院观看《哆啦A梦》剧场版（还特地穿上我的「哆啦A梦」卫衣），也是继2014年《大雄的恐龙》、2015年《伴我同行》、2016年《大雄与铁人兵团》《大雄与银河超特急》、2018年《大雄的金银岛》后第五年有「哆啦A梦」陪伴的儿童节，在前不久的努力下，我也算是把至今为止的所有剧场版全部追完了。1.推荐观影前看下高畑勋导演2013年的《辉夜姬物语》；2.哆啦A梦用完任意门去月球后都不收起来，以至于我一度担心妈妈去大雄房间不小心打开遇到危险；3.印象里第一次看到“发光苔藓”是在《大雄与龙骑士》里；4.以前的剧场版大雄都露点好几次了，现在即使有脱光光的镜头私密部位也回避掉了；5.高潮的群兔大作战真是太萌了；6.科幻→想象力→奇幻……"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "这个系列的剧场版，倒是始终能保持在水准线之上。萌物与科普，以及不变的友情。"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "看过这部大熊的月球探险记之后，突然觉得这个系列可以一年一部是有原因的，感觉日本电影很少在类型框架上做的这么工整，类型片的技巧可以保证故事的完成度和可看性。故事有低幼的成分，但如果成年人稍微联想一下，这个异说俱乐部徽章和人工智能统治世界的故事都很有深意，片中能看到很多其他影视作品的影子，迷影的角度也是一个留给影迷的小乐趣。"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "片头梅里埃NETA，EVA转校生，清朝僵尸既视机器人，face of boe……"
+    },
+    {
+      "user": "亲爱的猥琐猪",
+      "avatar": "https://img3.doubanio.com/icon/u51840446-3.jpg",
+      "content": "OP里快速闪过各种关于月亮的典故很有意思。不过……一行人坐着热气球去月背的兔子王国冒险，这很马里奥奥德赛！（月面兔子是星之卡比吗？）长不大的种族，一千年的躲避，结合竹取物语和捣年糕的设定还是很有意思。不过后面帝国AI加死星大炮又把画风搅乱了。总的来说中规中矩的一部吧，虽然背景很大，但其实没能更多体现大雄的个性。登月步行车长时间无法启动，莫名想到玉兔了（。"
+    },
+    {
+      "user": "煽情破坏者",
+      "avatar": "https://img1.doubanio.com/icon/u37507203-128.jpg",
+      "content": "看完此片唯一的观后感就是——让自己再次明确自己离童年有多么遥远。"
+    },
+    {
+      "user": "ekling",
+      "avatar": "https://img3.doubanio.com/icon/u1061468-3.jpg",
+      "content": "好看！我甚至不想说别的只想说好看！用大作家写剧本的好处完全凸显出来 故事完成度高 能感受为什么访谈时会提到的“是今天F老师会创作的作品” 各种伏笔基本上都收的很好 各种场景里不时出现的哆啦动画关联的梗也会让真爱粉们莞尔 推荐所有小学生以上的大雄们去电影院看看"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "大人的世界里只有定说，他们用机器探测了月球上没有兔子，论证了地心说是个谬论。孩子们却可以相信异说，他们能用月兔拯救遥远的辉夜星，戴上徽章看到世界的尽头。升空的热气球上，下面是万家灯火。去营救朋友之前，每个人都知道危险，还是像无数次冒险时那样勇敢，想象力和勇气是每个孩子的以太能量。"
+    },
+    {
+      "user": "李鲤桃",
+      "avatar": "https://img1.doubanio.com/icon/u43369645-7.jpg",
+      "content": "“我们随时可以见面，因为我们都有想象力。”听到这句话，我又一次明白了，为什么看起来除了热情善良一无是处的大雄，能够泳有哆啦A梦。"
+    },
+    {
+      "user": "     你只属于我",
+      "avatar": "https://img3.doubanio.com/icon/u67805703-1.jpg",
+      "content": "童年熟悉感扑面而来，长大以后也是需要满满的想象力啊！"
+    },
+    {
+      "user": "我要上斯坦福！",
+      "avatar": "https://img3.doubanio.com/icon/u54830619-3.jpg",
+      "content": "之前一直在电脑上看剧场版和TV版、在电视上看TV版（小时候），现在终于在影院看了一次，纪念第一次在影院看多啦A梦；选的是国语版，人超多，刚到影厅看到全场的熊孩子就觉得很后悔没选人少的日语版，不过看的过程中熊孩子们也没发出什么大喊大叫，还可以；最后反派BOSS居然是人工智能的破坏机器，是主创让大家警惕AI呢，还是机器人超越人类的理论？"
+    },
+    {
+      "user": "凹凸",
+      "avatar": "https://img3.doubanio.com/icon/u60689518-41.jpg",
+      "content": "3.5 辉夜姬+阿丽塔"
+    },
+    {
+      "user": "诸葛若见",
+      "avatar": "https://img3.doubanio.com/icon/u48849613-173.jpg",
+      "content": "哆啦A梦依然可爱，道具依然有想象力。可剧情有些拖沓，20分钟的剧情，被拉到2小时。真的有点顶不住。"
+    },
+    {
+      "user": "花開院弥生",
+      "avatar": "https://img3.doubanio.com/icon/u47548408-34.jpg",
+      "content": "前边节奏都挺好的，收尾有些仓促。"
+    },
+    {
+      "user": "xslidian",
+      "avatar": "https://img3.doubanio.com/icon/u2346084-1.jpg",
+      "content": "静香摘下徽章也没事 这是爱的信念！"
+    },
+    {
+      "user": "SELVEN",
+      "avatar": "https://img3.doubanio.com/icon/u1666383-355.jpg",
+      "content": "75/100 大型政治隐喻现场，以及永远似曾相识的剧情但一直可以让人感动和获得力量的故事。"
+    },
+    {
+      "user": "极圈里的燕鱼",
+      "avatar": "https://img3.doubanio.com/icon/u72002197-23.jpg",
+      "content": "轻松欢快地讲述史诗背景的故事，镜头配乐开朗与压迫交替。节奏错落起伏，冲突中规中矩，友情、勇气、责任、希望、思考一个不少，可以说是剧场版动画的模范作品。但什么都有，又什么都差点，看时会投入，看过却不会时常记起。还以为那么美好柔软的月兔王国会被殃及需要被拯救，没想到却成了预言中的救世主，有点小惊喜。"
+    },
+    {
+      "user": "［已注销］",
+      "avatar": "https://img3.doubanio.com/icon/u159516175-3.jpg",
+      "content": "最后胖虎把那个东西送给那个小孩的时候就哭了"
+    },
+    {
+      "user": "不然呢。",
+      "avatar": "https://img3.doubanio.com/icon/u65833533-2.jpg",
+      "content": "“想象力是一切，是对人的关怀。” 这句话是给孩子最好的礼物 蓝胖子掏出巨大铁锤表示要砸烂自己以死谢罪 今日最佳"
+    },
+    {
+      "user": "SleepingBruce",
+      "avatar": "https://img3.doubanio.com/icon/u131861906-16.jpg",
+      "content": "【75】很久没看哆啦A梦的剧场版了，但是这部真的不错。从中既能看到传统文化，也能找到一些科幻经典的影子。背景设定很有趣，理念的传递也简单明了。哆啦A梦本身就是想象力的符号，只要嵌套一个好的文本故事之下，它就依旧能让我们为之兴奋，为之感动。"
+    },
+    {
+      "user": "黒",
+      "avatar": "https://img1.doubanio.com/icon/u3208671-7.jpg",
+      "content": "每年三月必赴之约 光是原作发散而来这一点就值得鼓掌啦 静香比前几作都更加勇敢了 抢过昏迷花对战兔兔怪的时候简直令人感动 书呆ノビト太可爱啦！看着片尾全球各地工作室的名单就想 世事依然白云苍狗 而哆啦酱对于这个世界的所有宝宝们都是永恒的"
+    },
+    {
+      "user": "書衣偵探華斯比",
+      "avatar": "https://img3.doubanio.com/icon/u1333127-134.jpg",
+      "content": "异说世界和定说世界的设定很喜欢，最后利用设定的大反转太棒了！最令人感动的还是结尾，露卡一族放弃超能力回归普通人的部分！观影途中本来以为这次静香不洗澡了，结果马上啪啪打脸！🐰🐰🐰"
+    },
+    {
+      "user": "塔塔君Minkun",
+      "avatar": "https://img3.doubanio.com/icon/u108166875-11.jpg",
+      "content": "为了“想象力”而离家出走，归来时将“想象力”深埋故土——这种极具象征意味的情节，包括不断重复的“想象力”这个名词，怎么看都觉得不是写给小孩子看的。那套带《Comic LO》封面sense的概念海报，其中小夫那张的宣传语——只有大人，才最擅长假装成为大人——便说明了一切。"
+    },
+    {
+      "user": "深夜声咽",
+      "avatar": "https://img3.doubanio.com/icon/u2712168-64.jpg",
+      "content": "原来如此！异说俱乐部！地平说！野比兔萌物！"
+    },
+    {
+      "user": "大瘦瘦",
+      "avatar": "https://img3.doubanio.com/icon/u1804355-2.jpg",
+      "content": "著名作家辻村深月编剧，果然比前几部剧场版好很多，角色都有深入刻画尤其是小夫，辉夜姬这段就当是缅怀高畑勋吧"
+    },
+    {
+      "user": "博",
+      "avatar": "https://img3.doubanio.com/icon/u3118434-45.jpg",
+      "content": "编剧绝对是原著粉，对藤子先生的“爱与和平”，“大政府与权利失控的不信任”之类的核心思想传达的丝丝入扣。借由孩子们信任的角色哆啦a梦们的嘴深入简出，循循善诱，这才是我们说的传承。能写到这里的作品，我就给它五星了。画面制作精良，音乐优美等等，只是它的plus了。"
+    },
+    {
+      "user": "逐光残暗",
+      "avatar": "https://img3.doubanio.com/icon/u156682155-25.jpg",
+      "content": "最后被虐到了QAQ，距离遥远但心还相连的设定好棒hhh，想吃大雄X露卡，露娜小姐姐好可爱！！小夫难得撩妹，剧情有致敬铁人兵团的地方，节奏稍微有点快了，但整体还是很有藤子老师SF感的感觉啊！！新导演表现很棒！！"
+    },
+    {
+      "user": "wizard",
+      "avatar": "https://img3.doubanio.com/icon/u1019462-1.jpg",
+      "content": "这个系列的最大问题是机器猫的口袋太神奇太逆天，导致编剧太偷懒，任何问题都是道具解决，短片还可以彰显想象力，长篇就反受其害了"
+    },
+    {
+      "user": "妙可中国",
+      "avatar": "https://img3.doubanio.com/icon/u53869175-60.jpg",
+      "content": "（秘密道具博物馆）之后的剧场版都索然无味，虽无突破但仍可在既定的框架内本分的完成套路，虽然请来知名作家辻村深月但实际上也无能为力。主题曲还是能吹爆的，其他就无甚可说了。"
+    },
+    {
+      "user": "汪金卫",
+      "avatar": "https://img3.doubanio.com/icon/u4285566-30.jpg",
+      "content": "对想象力要保护，对独裁者要严惩。对异说要包容，对友情要珍惜。三观正得真是让人钦佩。看的国语版，再次被《哆啦A梦》所感动，欢笑与眼泪并存。剧情结合了月兔、辉夜姬等神话传说，一些设定有向《金刚》《星球大战》《阿丽塔》致敬。感谢《哆啦A梦》和日本动漫，让我们从小到大，都能够拥有珍贵而丰富的想象力！"
+    },
+    {
+      "user": "unpredictable",
+      "avatar": "https://img3.doubanio.com/icon/u140926486-2.jpg",
+      "content": "我要看睡着了 果然我已经不再是小孩子了"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "连续第五年大陆上映哆啦A梦剧场版，日本三月大陆六月上映依旧好评！\n虽说惯例五星，但是今年这部是10年代以来最精彩的一部原创长篇了。\n被人工智能极端发展所破坏的星球，用天真和想象力拯救的世界。除了辻村深月的剧本，镜头语言也更丰富除成熟，选择重回月球去救朋友那一段，跟以往的哆啦A梦都不一样，十分煽情但是又很感动。\n“想象力才是未来，是对人的关怀，放弃想象力的那一刻，才是破坏的开始。”\n最后。想坐个哆啦A梦形状的热气球去宇宙。"
+    },
+    {
+      "user": "indicent time",
+      "avatar": "https://img1.doubanio.com/icon/u51061132-59.jpg",
+      "content": "本周第二部真香电影，道具博物馆最佳哆啦A梦原创集，不再是用卖萌和粗糙设定去糊弄观众，是用心地拍了一部桃花源记一般的故事，对想象力的定义让人感动。作为40周年纪念作，全片充满了各式各样的致敬：月球旅行记、金刚、大雄的宇宙开拓史、大雄的日本诞生记、大雄结婚前夜……"
+    },
+    {
+      "user": "zitsunari",
+      "avatar": "https://img3.doubanio.com/icon/u1143017-866.jpg",
+      "content": "辉夜星的人民一定不会放过你的！"
+    },
+    {
+      "user": "按快门的桐哥",
+      "avatar": "https://img3.doubanio.com/icon/u59742368-3.jpg",
+      "content": "😂看到最后我也不会想到，我小姑配的竟然是小夫"
+    },
+    {
+      "user": "刘小青",
+      "avatar": "https://img3.doubanio.com/icon/u3852910-23.jpg",
+      "content": "挺好的"
+    },
+    {
+      "user": "浪漫血液",
+      "avatar": "https://img3.doubanio.com/icon/u154264973-3.jpg",
+      "content": "从梅里爱的《月球旅行记》点亮了那颗月亮开始，大银幕上天马行空的幻想便不曾停止过。电影，造梦，想象力万岁！"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "脑洞还行"
+    },
+    {
+      "user": "Rebecca",
+      "avatar": "https://img3.doubanio.com/icon/u3456229-30.jpg",
+      "content": "1-决战时哆啦A梦大喊：想象力是未来，是对人类的关怀。放弃想象力时，破坏就开始了。2-大雄对露卡解释友情的时候。3-大家以各种方式离开家里，告别家人，准备赶赴月球的时候。4-最后露卡说我们也想变得跟地球人一样，因为生命短暂，所以要努力，要去感受美好。这些瞬间都看哭了。好的动画片，不同年龄段的人都可以解读出不同的东西来。"
+    },
+    {
+      "user": "半日光辉",
+      "avatar": "https://img3.doubanio.com/icon/u47954194-22.jpg",
+      "content": "带着日本外甥女看的，终于让小家伙在中国看了一场日本动画片。"
+    },
+    {
+      "user": "方枪枪",
+      "avatar": "https://img3.doubanio.com/icon/u2586116-96.jpg",
+      "content": "友情，科幻，陪伴，暗黑的AI...."
+    },
+    {
+      "user": "施舍翅膀",
+      "avatar": "https://img3.doubanio.com/icon/u47928438-1.jpg",
+      "content": "儿童节应景地来看儿童片，旁边的小胖盘着腿笑得哈哈，我却看睡着了，真该检讨一下自己的童心。剧场版的故事不低幼，反而有点太复杂了？这么多条线。看到片尾才意识到这是改编自月球造王国那一话，我看过！大决战里哆啦A梦喊出“想象力是未来，是对人类的关怀”理应是飙泪高潮，我却感觉尬，这集哪里有想象力了？人工智能机器人反派统治未来，道具也都是之前出现过的（奈何我还是很喜欢字实体化的药水），月兔王国等等，被俘虏的永远是女性，永远是触手系…我并没有看到想象力。（我睡没睡着是检验影视作品最直接的标准！"
+    },
+    {
+      "user": "Irgendwie",
+      "avatar": "https://img3.doubanio.com/icon/u1588742-1373.jpg",
+      "content": "暗示地球文明是“人造”的，非常脆弱和虚无，居心叵测！吓到小朋友怎么办？大雄徽章掉了，马上就从华丽的月宫坠入了荒凉的月球表面，难道不正是大脑跌出了承载它的容器。比午夜场恐怖片还可怕！"
+    },
+    {
+      "user": "Yukip",
+      "avatar": "https://img1.doubanio.com/icon/u34744036-7.jpg",
+      "content": "喜欢喜欢喜欢~~"
+    },
+    {
+      "user": "清心玉映",
+      "avatar": "https://img3.doubanio.com/icon/u60112005-30.jpg",
+      "content": "真挚的感情可以击溃私欲，冰冷的机器无法控制人心。因为我的心中仍有梦，哪怕没有“异说徽章”，我也会继续喜欢这个故事的。\n其实，何谓定说？何谓异说？不过就是少数服从多数。"
+    },
+    {
+      "user": "穆如初",
+      "avatar": "https://img3.doubanio.com/icon/u44652353-115.jpg",
+      "content": "生日电影。   可爱~"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "和小哆啦在月面上的冒险，“固定”想象有趣啊。"
+    },
+    {
+      "user": "林瑞鸾",
+      "avatar": "https://img3.doubanio.com/icon/u168835041-6.jpg",
+      "content": "哆啦A梦就是好看"
+    },
+    {
+      "user": "珠我好运",
+      "avatar": "https://img3.doubanio.com/icon/u1282673-141.jpg",
+      "content": "以辉夜姬/月球兔子的传说为蓝本讲述了一个传说/现实/未来相互融合的故事，探讨了机器人与人类的关系，友情的可贵，最终从哆啦A梦的嘴里点题了：人类（尤其是孩子）不能失去想象力。外星人的建筑星球生存模式致敬了铳梦的世界观，有一种惊喜在其中！"
+    },
+    {
+      "user": "天马星",
+      "avatar": "https://img3.doubanio.com/icon/u68499588-11.jpg",
+      "content": "-乱说话会坐牢的\n-没关系，现在哪里都跟牢房一样"
+    },
+    {
+      "user": "金轮际息烙",
+      "avatar": "https://img3.doubanio.com/icon/u2678402-32.jpg",
+      "content": "是一贯的剧场版风格，一个强劲的主题、展开不太坚实的故事，以及不逊色于任何同期作品的精致作画。boss的设定很贴合近年热点，不过好像和十几年前的海底鬼岩城重复了哦。对又安排静香做治疗和守城角色略有不满，不过最后竟然因此成了救场角色，算是扯平了吧。总的来说，在人生中认识哆啦A梦真是太好了啊，谢谢你，蓝胖子。"
+    },
+    {
+      "user": "翱云",
+      "avatar": "https://img3.doubanio.com/icon/u4308433-14.jpg",
+      "content": "陪孩子度过了愉快的六一"
+    },
+    {
+      "user": "楚大刀",
+      "avatar": "https://img3.doubanio.com/icon/u1473445-1.jpg",
+      "content": "“放弃想象力的时候，破坏就开始了！”真棒！"
+    },
+    {
+      "user": "鲸鱼君",
+      "avatar": "https://img3.doubanio.com/icon/u4370686-15.jpg",
+      "content": "《哆啦A梦：大雄的月球探险记》：它的情节之复杂超出预料。始于月球神秘事件，到大雄和机器猫到月球上养兔子，然后建立了兔子王国，阿斯帕尔人也浮出水面，接着就是阿斯帕尔人与辉夜姬人的战争……脑洞很大的辻村深月操刀剧本，让故事像滚雪球一样越来越大，而想象力也一路狂奔，笑声从没停过。★★★"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "梅里埃和辉夜姬共存，Moon Rabbit=Moonbit~异说与正说共同构成了随时表里互换的世界，风萧萧兮易水寒之少年团月圆夜下出征太空，解救兔耳异能团，大战《铳梦》未来城杀人AI。画风回归大赞"
+    },
+    {
+      "user": "爆炸头",
+      "avatar": "https://img1.doubanio.com/icon/u62434414-9.jpg",
+      "content": "异说说一万次，就会成真。\n有一个世界永远属于浪漫的人。"
+    },
+    {
+      "user": "给我个电话亭，我要拯救地球！",
+      "avatar": "https://img3.doubanio.com/icon/u1920660-106.jpg",
+      "content": "六月份的快乐"
+    },
+    {
+      "user": "Saltiness",
+      "avatar": "https://img3.doubanio.com/icon/u89111899-6.jpg",
+      "content": "把我看哭了，可以竞争原创哆啦A梦剧场版最佳。在没有原作的前提下制作组最大限度的重现了藤子老师执笔的剧场版的风味。剧作极佳，人物生动，主题更面向成年观众。这样的作品可以提醒自己十年如一日的喜欢蓝胖子的原因，太美好了"
+    },
+    {
+      "user": "允难",
+      "avatar": "https://img3.doubanio.com/icon/u32596748-81.jpg",
+      "content": "超级好看，比我想象中好看很多！原本以为是很平静很无聊的，没想到场面大剧情也很激烈，重燃我的少年之心啊啊啊！六月一日回到童年，只有哆啦A梦。"
+    },
+    {
+      "user": "海马体已死",
+      "avatar": "https://img3.doubanio.com/icon/u119330133-3.jpg",
+      "content": "可能是过了那个年纪了，有些太过天真的情节已经无法忽视了；而且还是有反派过弱战斗简单的毛病，显得有些幼稚。但很喜欢这部的主题想象力，以及异说世界和正说世界的互通穿越。反派星球设定和最终决战有点像铳梦和钢炼的结合，露比他们放弃能力变成普通人也让我想起了爱德。虽然有些不如人意的地方，yuya的配音也略为生硬，但是平井大的片尾曲一出我就都原谅了，简单直接的快乐和心想事成的满足真好啊~ @金鸡湖UME"
+    },
+    {
+      "user": "蚂蚁没问题",
+      "avatar": "https://img1.doubanio.com/icon/u2254558-8.jpg",
+      "content": "异说俱乐部、XXX族人【实在没记住】其实是普通人、片头曲，挺好，下面没了"
+    },
+    {
+      "user": "张不才",
+      "avatar": "https://img3.doubanio.com/icon/u43285764-35.jpg",
+      "content": "全世界都在催你长大，只有哆啦A梦一直守护你的童心。"
+    },
+    {
+      "user": "高等游民阿朽",
+      "avatar": "https://img1.doubanio.com/icon/u1326807-457.jpg",
+      "content": "年年一部蓝胖子"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "辉夜家及其敌人这么多年来来去去还是月亮，太没创意了。哆啦A梦和大熊这么多年一直没长大，不需要工作，要什么变出来就去玩，真好。"
+    },
+    {
+      "user": "李寻欢",
+      "avatar": "https://img3.doubanio.com/icon/u167866995-6.jpg",
+      "content": "这两年的哆啦A梦剧场版一次比一次优秀是我的错觉吗/有剧情有思考/源于情怀，一开头我就热泪盈眶/有时候自己过于感性好烦/露卡有点小帅/一年一次，守护自己的童心/今年也和大家一起冒险了呢^_^感谢陪伴"
+    },
+    {
+      "user": "纽扣",
+      "avatar": "https://img3.doubanio.com/icon/u53797535-3.jpg",
+      "content": "人生有尽头，所以才美好"
+    },
+    {
+      "user": "阿子儿",
+      "avatar": "https://img3.doubanio.com/icon/u2109007-30.jpg",
+      "content": "嘻嘻 &T"
+    },
+    {
+      "user": "赛末点",
+      "avatar": "https://img3.doubanio.com/icon/u3417557-36.jpg",
+      "content": "结尾看到当年原版漫画上的粘土人，真的好感动，当年简单纯真的世界"
+    },
+    {
+      "user": "P猪大侠",
+      "avatar": "https://img3.doubanio.com/icon/u62404228-12.jpg",
+      "content": "比哥斯拉和皮卡丘好看"
+    },
+    {
+      "user": "肥魚",
+      "avatar": "https://img3.doubanio.com/icon/u1352237-163.jpg",
+      "content": "画面和动态一直与时俱进。强制煽情也是新版一直存在的毛病。故事构架不错，细节还是有些粗糙"
+    },
+    {
+      "user": "风间隼",
+      "avatar": "https://img3.doubanio.com/icon/u2521825-70.jpg",
+      "content": "陪豆包看的，给小家伙科普了一下“狄阿波罗大人”，哈哈！"
+    },
+    {
+      "user": "风心醉",
+      "avatar": "https://img1.doubanio.com/icon/u94138930-7.jpg",
+      "content": "好萌的兔兔 Ｏ(≧▽≦)Ｏ \n比上一部《金银岛》要精彩。\n哆啦A梦剧场中等偏上作品。\nP.S. 可惜看的是国语版。"
+    },
+    {
+      "user": "小熙",
+      "avatar": "https://img3.doubanio.com/icon/u145161117-5.jpg",
+      "content": "六一必打卡童年经典哆啦A梦，全新的故事完全比前两部剧场版好看太多了。不变的情节，不变的童心。沙啦啦啦～"
+    },
+    {
+      "user": "锐利修蕊",
+      "avatar": "https://img1.doubanio.com/icon/u12544519-58.jpg",
+      "content": "特别特别厉害的剧场版！致敬科幻电影史的“想象力至上”！不管是“异想徽章”，还是“臆想世界”的设置，都令人拍案叫绝！没想到现在哆啦A梦的剧作，严谨到不浪费任何一个细节。内容核心也深藏不露，看完整个大满足！“邪恶武器”被摧毁前最后一句台词是“愚笨的民众”，也就提点了科幻近未来和远古现在的距离。在遥远的星球之外，动画不管是对于上层君王制的讽刺，以及对背后傀儡式的寓言，甚至连蒙蔽的韭菜提及都一笔带过。看完想到茄子蛋的歌词：“我们哭了却相视而笑”，相约月亮见！对于月亮王国的神是创造他们的人类，而对于人类来说，信或不信又代表着什么呢？"
+    },
+    {
+      "user": "不小可",
+      "avatar": "https://img3.doubanio.com/icon/u1326005-2.jpg",
+      "content": "怎么会有这么难看的多啦a梦！"
+    },
+    {
+      "user": "有寂",
+      "avatar": "https://img3.doubanio.com/icon/u2791615-53.jpg",
+      "content": "已经退化到美国合家欢都比不上了 更别提二十年前的日本动画了 迎合儿童的笑点萌点几乎都没有 情感逻辑都差 迎合成人的点更是为零 除了一些影迷梗 "
+    },
+    {
+      "user": "一朵潛水云",
+      "avatar": "https://img3.doubanio.com/icon/u48951480-104.jpg",
+      "content": "外星人的文化形象怎麼有點像韓國？"
+    },
+    {
+      "user": "房产遍天下",
+      "avatar": "https://img3.doubanio.com/icon/u185366367-2.jpg",
+      "content": "又来我guo骗钱"
+    },
+    {
+      "user": "功夫兔子",
+      "avatar": "https://img3.doubanio.com/icon/u4713424-41.jpg",
+      "content": "比较复杂的动画了，真想每天都存在在机器猫的未来世界里。"
+    },
+    {
+      "user": "倒长的树",
+      "avatar": "https://img3.doubanio.com/icon/u41576123-42.jpg",
+      "content": "成年人基本都坐着玩手机，比如我。真的看不下去低幼的动画，尽管反战题材，但是小孩子是无法领会的。"
+    },
+    {
+      "user": "江枫渔火",
+      "avatar": "https://img3.doubanio.com/icon/u38672214-2.jpg",
+      "content": "7/10.看见露卡出场瞬间想到了渚薰，也太像了吧~想象力的主题不错，歌很棒~"
+    },
+    {
+      "user": "磚家",
+      "avatar": "https://img3.doubanio.com/icon/u73723847-1.jpg",
+      "content": "暗黑童话"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "「辉夜姬」续集。「只有想象力才能创造未来，异说也可以成为定说。」龟兔赛跑，神秘转校生，月球移民，异星文明，星际矛盾，族群冲突，以太能量，人工智能。戴上徽章才能看见的兔子王国，有些事物存在于假想，也必定存在于某个维度的现实之中。奇想天外的冒险，不同生物的友谊，歌颂少年少女的天真与勇气，一如赞美月亮千年不变的皎洁与美丽。"
+    },
+    {
+      "user": "剑气凌厉的江南",
+      "avatar": "https://img1.doubanio.com/icon/u1404466-19.jpg",
+      "content": "没想到编剧竟然是。。。？？？？\r前两天刚在苏州诚品看了这个动画片的展\r有点上当买了个国语版，配音很台腔啊\r兔耳朵还是很萌的。。。剧情逻辑就。。。"
+    },
+    {
+      "user": "十月",
+      "avatar": "https://img1.doubanio.com/icon/u4520238-8.jpg",
+      "content": "六一陪孩子，孩子很开心。中规中矩的儿童片。"
+    },
+    {
+      "user": "赛里斯的风筝",
+      "avatar": "https://img3.doubanio.com/icon/u56679873-5.jpg",
+      "content": "每次看蓝胖子的时候总觉得自己还没长大"
+    },
+    {
+      "user": "AKi",
+      "avatar": "https://img3.doubanio.com/icon/u1508694-430.jpg",
+      "content": "千兔降临咪咪咪咪～～"
+    },
+    {
+      "user": "羽子令",
+      "avatar": "https://img3.doubanio.com/icon/u137169217-6.jpg",
+      "content": "现在想想，童年时期对科幻的美好向往就是机器猫种下的，无限的想象力啊。"
+    },
+    {
+      "user": "凉",
+      "avatar": "https://img3.doubanio.com/icon/u2765344-2.jpg",
+      "content": "060219金鸡湖UME"
+    },
+    {
+      "user": "梦里诗书",
+      "avatar": "https://img3.doubanio.com/icon/u57542378-10.jpg",
+      "content": "作为同由哆啦A梦粉丝编剧完成的作品，《哆啦A梦：大雄的月球探险记》的总体表现与上一年的《金银岛》基本持平，同样是冒险的展开，同样是天马行空的奇想，只是这一次电影将故事的主场放在了月球背面，而兔元素的加入也使电影显得更加萌态。"
+    },
+    {
+      "user": "lixunhuan",
+      "avatar": "https://img3.doubanio.com/icon/u1083626-1.jpg",
+      "content": "还算有点意思吧，但是怎么感觉和某集喜羊羊蜜汁相似。"
+    },
+    {
+      "user": "悟空&憨豆",
+      "avatar": "https://img3.doubanio.com/icon/u71185340-16.jpg",
+      "content": "绚丽多彩的想象力世界，又一次惊险刺激而以感人道别为终的奇幻冒险。P.S.1.剧场版中终于出现了转学生。2.小夫难得走一回桃花运，可惜也就如此了。"
+    },
+    {
+      "user": "狷介有乌青",
+      "avatar": "https://img1.doubanio.com/icon/u1374060-749.jpg",
+      "content": "【2019.54】"
+    },
+    {
+      "user": "万户",
+      "avatar": "https://img3.doubanio.com/icon/u1215463-36.jpg",
+      "content": "有趣，原创剧本加入了很多的恶搞/致敬，月兔捣年糕、辉夜姬等等，科幻元素也是层出不穷，居然连蓝胖子都能克总！\n前半段剧情有点散，不过进入主线后还好，最后的结局我很喜欢。"
+    },
+    {
+      "user": "车了个干",
+      "avatar": "https://img3.doubanio.com/icon/u46492567-20.jpg",
+      "content": "坐在一堆小朋友中间看完了 感觉为了升华有一些强行的剧情 不过总体还是很不错的 算是近年来比较合格的新作了 "
+    },
+    {
+      "user": "我爱沙尘暴",
+      "avatar": "https://img3.doubanio.com/icon/u42295837-3.jpg",
+      "content": "相像力和童心"
+    },
+    {
+      "user": "想桃叶当时唤渡",
+      "avatar": "https://img3.doubanio.com/icon/u10801658-2.jpg",
+      "content": "反乌托邦寓言童话。日本文创又一次完爆中国文创。联合原作者的出生年代，也是他那一辈日本人对权力和阶层会有的冷静吧。"
+    },
+    {
+      "user": "Anarchy",
+      "avatar": "https://img3.doubanio.com/icon/u4646905-214.jpg",
+      "content": "渚薰，星球大战，阿丽塔？"
+    },
+    {
+      "user": "瑞波恩",
+      "avatar": "https://img3.doubanio.com/icon/u39690610-4.jpg",
+      "content": "昏昏欲睡的时候，梦游一样看完了哆啦A梦的剧场版动画，其实月亮上面住着兔子的想法，兔子们还在月亮里捣年糕， 我小时候也有过的，所以蓝胖子带着大雄他们实现这个梦想时还是由衷地激动了一下。可惜我们再也回不去小时候了，不过有回忆也足够了吧。"
+    },
+    {
+      "user": "给你我最亲爱的",
+      "avatar": "https://img3.doubanio.com/icon/u54843254-44.jpg",
+      "content": "一年一度，羡慕大雄"
+    },
+    {
+      "user": "东林君",
+      "avatar": "https://img3.doubanio.com/icon/u21158381-2.jpg",
+      "content": "If I stared too long I probably break down and cry"
+    },
+    {
+      "user": "kiki204629",
+      "avatar": "https://img3.doubanio.com/icon/u1849663-13.jpg",
+      "content": "超龄儿童，六一快乐！虽然左手边的麻麻和右手边的刘先生都睡着了好几次，但是我还是看的超开心。想象力可以创造奇迹，只要童心未泯，童年就永远都在。"
+    },
+    {
+      "user": "🍒",
+      "avatar": "https://img3.doubanio.com/icon/u131958766-3.jpg",
+      "content": "永远都会为情怀买账 但还是在看的时候清楚的感觉到自己真的长大了"
+    },
+    {
+      "user": "阿斯蒂芬斯蒂芬",
+      "avatar": "https://img3.doubanio.com/icon/u68270208-185.jpg",
+      "content": "前面和结局根据新番里地底世界改编的。后面炫耀武力炸月球搞得自己星球遭殃这波操作有些看不懂。。。去打boss不带静香没有灵魂。攻打地阿波罗有些像是圣斗士。最后靠把异说改定论简直bug级别神器，就像用如果电话亭一样，有些没意思啊。"
+    },
+    {
+      "user": "雁落孤山",
+      "avatar": "https://img3.doubanio.com/icon/u123229428-5.jpg",
+      "content": "要不是火锅说了一句“哆啦A梦好看”又差点错过，重回童年的感觉真好，是今年目前为止看过最治愈欢乐的电影了。\n说几个既视感【其实就是在全场KY吧x：\n反派——“其名为迪亚波罗”！（JO言JO语开始——虽然翻译不是这样叫）以及自称朕什么的，始皇是你吗始皇，或者子安老师也可以合适这种形象哈哈哈哈哈（又在欺负关桑了么）。\n哆啦A梦——“哆啦A梦！快用你那无敌的次元口袋想想办法！”\n“原来月球人都是这样的吗”——从此型月玩家有了具体形象ww\n“跳入超空间”——STAR WAR！银护！\n里面的大佐出场的剪影仿佛洛基，近看的面罩仿佛Batman，也不奇怪反正N52也是日本画师(°Д°)声音好好听！\n感觉人物形象比起小时候看的更加有爱善良，一月球的兔子萌煞人，哆啦A梦永远是造梦的地方啊(இωஇ )"
+    },
+    {
+      "user": "婴儿",
+      "avatar": "https://img1.doubanio.com/icon/u1852864-9.jpg",
+      "content": "冷饭集结号"
+    },
+    {
+      "user": "一棵海椒",
+      "avatar": "https://img3.doubanio.com/icon/u3344118-6.jpg",
+      "content": "近几年质量较高的一部哆啦A梦剧场版，剧本独立完整，具有哲学思辨和时代特征。少年团偷偷离家去冒险的桥段热血又催泪。陪女儿看的第五部哆啦A梦大电影，也是连续第三年在儿童节当天陪她进电影院，一转眼她都十岁了，不知道蓝胖子和大雄的故事还能吸引她多久，只希望她的童年记忆里除了作业和考试，还有这样一群可爱的朋友，以及在高速运转的生活中，不要丢失她的想象力。"
+    },
+    {
+      "user": "冰岛好人",
+      "avatar": "https://img1.doubanio.com/icon/u52498752-57.jpg",
+      "content": "I'll see you on the dark side of the moon"
+    },
+    {
+      "user": "迪奥",
+      "avatar": "https://img3.doubanio.com/icon/u2165844-26.jpg",
+      "content": "看这个作品30几年了 作品里的人还是没有长大呢"
+    },
+    {
+      "user": "猫耳正太",
+      "avatar": "https://img1.doubanio.com/icon/u3312587-67.jpg",
+      "content": "剧场版就要和想征服宇宙的邪恶力量作战才有意思！如果是为了夺取以太能量川普大统领联合沙皇董卓派遣征服月球的联合舰队被少年们打败就更好了。"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "两星半。作为原创，可看性比《冰冰凉》和《金银岛》好一点，但我还是那个看法：最新原创的大长篇越来越看不下去，还是期待作者生前创作的经典大长篇重制吧。《海底鬼岩城》啥时候才重制啊？"
+    },
+    {
+      "user": "朝阳区妻夫木聪",
+      "avatar": "https://img1.doubanio.com/icon/u57750369-57.jpg",
+      "content": "允许你的不完美，允许你的胡思乱想，更允许你做个孩子。哆啦A梦是成人的残酷童话，更是孩子的温柔情书。"
+    },
+    {
+      "user": "alpha.h",
+      "avatar": "https://img3.doubanio.com/icon/u4508449-3.jpg",
+      "content": "每年一部，欢度六一。（只是一部不如一部。"
+    },
+    {
+      "user": "而已",
+      "avatar": "https://img3.doubanio.com/icon/u2640406-75.jpg",
+      "content": "某人看的还挺来劲，对我来说还是太幼稚了。"
+    },
+    {
+      "user": "佛米",
+      "avatar": "https://img3.doubanio.com/icon/u3728865-293.jpg",
+      "content": "很吵，不知道是不是电影院的问题。边上的小孩全程爬楼梯，认真看的都是大人。虽然有一搭没一搭的，但是看到友情看到守护，看到踟蹰过后又赶去的小夫，还是落泪了"
+    },
+    {
+      "user": "餮饕",
+      "avatar": "https://img3.doubanio.com/icon/u2882895-6.jpg",
+      "content": "童年的乐趣都没了，陪孩子看的时候差点儿睡着了，这就是成年人的悲哀么？"
+    },
+    {
+      "user": "Eros噢",
+      "avatar": "https://img3.doubanio.com/icon/u48887677-10.jpg",
+      "content": "哆啦A梦真的太好哭了"
+    },
+    {
+      "user": "小药水",
+      "avatar": "https://img3.doubanio.com/icon/u4169224-11.jpg",
+      "content": "最好玩的还是建造兔子王国的部分，后面打反派就比较没劲了，对小朋友来说，相信一个有趣世界的存在太可爱啦，嗯，咱就是辉夜姬（"
+    },
+    {
+      "user": "桃念舊夢",
+      "avatar": "https://img3.doubanio.com/icon/u3161438-25.jpg",
+      "content": "我還是第一次看小叮當的電影。"
+    },
+    {
+      "user": "超闲理论",
+      "avatar": "https://img3.doubanio.com/icon/u4100447-20.jpg",
+      "content": "童年"
+    },
+    {
+      "user": "印象派打字姬",
+      "avatar": "https://img3.doubanio.com/icon/u55558738-411.jpg",
+      "content": "#庆六一# 听到“人不能失去想象力。”这种台词觉得这个世界还有希望。六一看看这种不用动脑的动画挺好的，以及怀念童年追一本本连载漫画的时光。"
+    },
+    {
+      "user": "一个神经病",
+      "avatar": "https://img3.doubanio.com/icon/u3347040-20.jpg",
+      "content": "前面一对情侣喂了我一整场的狗粮啊喂喂喂喂喂喂喂！"
+    },
+    {
+      "user": "Chen忘笙",
+      "avatar": "https://img3.doubanio.com/icon/u175062626-3.jpg",
+      "content": "“别乱说话，会被抓起来的”“有什么关系，现在哪里都像监狱”这个剧场版，让我忘了主人公是谁了…（不过，露卡真的好帅啊嘻嘻嘻）"
+    },
+    {
+      "user": "De.Areafrad",
+      "avatar": "https://img1.doubanio.com/icon/u33221467-409.jpg",
+      "content": "最后为毛要选择做普通人.....保留超能力才是赛高好不 而且怎么看都觉得提前迎来了中秋节.... 又好想吃年糕"
+    },
+    {
+      "user": "西蔚",
+      "avatar": "https://img3.doubanio.com/icon/u40634354-6.jpg",
+      "content": "还不错，被兔仔们可爱到发出Awwwww的声音"
+    },
+    {
+      "user": "无人应答",
+      "avatar": "https://img3.doubanio.com/icon/u2349644-13.jpg",
+      "content": "机器猫大电影不适合我=="
+    },
+    {
+      "user": "陈四喜",
+      "avatar": "https://img3.doubanio.com/icon/u1504057-51.jpg",
+      "content": "在纯原创剧情的剧本中制作出来的剧场动画，这部属于质量最高的了。可以说是哆啦A梦版的星球大战吧。有笑有泪，“想象力把我们连接在一起”，多美好。"
+    },
+    {
+      "user": "飞鸟凉",
+      "avatar": "https://img3.doubanio.com/icon/u1125189-195.jpg",
+      "content": "胖虎终于找到了好朋友，为他高兴！"
+    },
+    {
+      "user": "大馨瓜瓜瓜",
+      "avatar": "https://img3.doubanio.com/icon/u173412039-3.jpg",
+      "content": "从小到大超喜欢的动画片，好多想象力的来源，在22世纪，什么都有可能，应该是的 :) \n"
+    },
+    {
+      "user": "喵老师2333",
+      "avatar": "https://img3.doubanio.com/icon/u4539158-33.jpg",
+      "content": "找作家写剧本有伏笔有文学性，在低幼的情况下还能有引导有思考，算是近年比较优秀的剧场版了。"
+    },
+    {
+      "user": "Königsberg",
+      "avatar": "https://img3.doubanio.com/icon/u54590453-206.jpg",
+      "content": "7.5 不用和熊孩子抢电影院是美妙的 继去年在电影院看龙猫成就达成后如今也实现了在电影院看多啦A梦的小成就 只是遗憾不是日语原版；虽然晚了两天 但还是对自己说一声六一快乐 想象力 友情 勇气 对一个成年人来说一样是弥足珍贵的品质；这部作品的一些元素会让我想起79年那部经典的银河铁道999的剧场版"
+    },
+    {
+      "user": "死也不告诉你",
+      "avatar": "https://img3.doubanio.com/icon/u1553487-4.jpg",
+      "content": "7分，每年都会看的蓝胖子长篇，这些年引进国内的系列中，这部不算是最好的，但也不是最糟糕的，可以说是一贯水准吧，不过如果拿来作为40年周年纪念作的话，觉得还是差了点。整体内容其实都没啥太大问题，但要说缺点的话，还是模式过于重复了，和之前的那些作品一样，看前就能猜到后，也就那做坏掉的兔子有点好玩。"
+    },
+    {
+      "user": "云吞老丸子",
+      "avatar": "https://img3.doubanio.com/icon/u2195576-53.jpg",
+      "content": "1.异说俱乐部徽章造就的月兔王国，和月兔早的反向徽章、这个对应设定很赞；2.整个月兔王国很有趣，满满的胡萝卜元素;3.路卡很小智；4.备用口袋，以及口袋间可以相连的设定想到了白金迷宫那部；5.哆啦A梦口袋被拿走则想到了太阳王传说；6.辉夜星的设定很1984，最后的“老大哥”是机器人的设定令人感慨；7.最后，哆啦A梦的剧场版可以看作是一次又一次的邂逅与离别，论细节度这部做的很好，喜欢。"
+    },
+    {
+      "user": "Echo瑜",
+      "avatar": "https://img3.doubanio.com/icon/u151363452-26.jpg",
+      "content": "感觉我的智商被按在地上摩擦……这粗制滥造的剧情啊我实在受不了 好无聊 我好反感大雄啊 从他们教兔子人类社会的生存方式那里我就窒息了 这真的不是暗黑世界的开始吗 日语翻译很多bug……槽点满满 "
+    },
+    {
+      "user": "Hugo",
+      "avatar": "https://img3.doubanio.com/icon/u73932803-24.jpg",
+      "content": "7.0 / 至少是近几年（《伴我同行》后）的哆啦 A 梦剧场版最佳。"
+    },
+    {
+      "user": "Suking",
+      "avatar": "https://img3.doubanio.com/icon/u91990572-1.jpg",
+      "content": "很多童年回忆都烟消云散了，唯有哆啦A梦还一直陪伴着我们，而且每年剧场版还会六一准时归来，用各种奇思妙想陪我们重返童年。"
+    },
+    {
+      "user": "渲染離別",
+      "avatar": "https://img3.doubanio.com/icon/u151942766-5.jpg",
+      "content": "每年暑假都要看到哆啦A夢電影～沒想到是小夫讓我哭了。雖然一樣是團結起來打敗壞蛋的故事，但帶來的感動是不變的，希望我們都能成為能用想像力關懷他人的存在"
+    },
+    {
+      "user": "全唐人狂朝",
+      "avatar": "https://img3.doubanio.com/icon/u1516214-1.jpg",
+      "content": "就是感觉一般…毕竟肯定是happy end，一点紧张感也没有…幻想性也一般…大长篇里喜欢的没有这个…话说跟着哆啦A梦一起旅行真是到哪都是5星际住宿啊~至今仍印象深刻的有恐龙和海底那住宿条件啧啧~没说的~"
+    },
+    {
+      "user": "哆啦Z梦",
+      "avatar": "https://img1.doubanio.com/icon/u4275367-67.jpg",
+      "content": "不如去年的金银岛，不过这两年都是和日本同年上映，非常好，OP里细节特别多，ED的水彩也好看，整个剧情有点儿拼凑，人设也没有太多亮点，不过肯定依旧是引进必去影院支持，男神一生追随~"
+    },
+    {
+      "user": "La~jum~bo",
+      "avatar": "https://img1.doubanio.com/icon/u58203248-38.jpg",
+      "content": "徽章（今天天好好哦）"
+    },
+    {
+      "user": "杳圻",
+      "avatar": "https://img3.doubanio.com/icon/u38648875-4.jpg",
+      "content": "片尾曲好听～"
+    },
+    {
+      "user": "Caelian",
+      "avatar": "https://img3.doubanio.com/icon/u2072847-93.jpg",
+      "content": "那位最帅气的将军的声音非常英俊对不对？是柳乐优弥啊！！！！！"
+    },
+    {
+      "user": "Little Leaf",
+      "avatar": "https://img3.doubanio.com/icon/u2451428-21.jpg",
+      "content": "日本人脑洞真的很大"
+    },
+    {
+      "user": "寄它",
+      "avatar": "https://img3.doubanio.com/icon/u89245984-5.jpg",
+      "content": "①2019-06-01"
+    },
+    {
+      "user": "SundanceKid🌈",
+      "avatar": "https://img3.doubanio.com/icon/u65864683-55.jpg",
+      "content": "情节饱满而不浮夸，宣传语写得很好，“请相信，想象力”。伴大雄前行，主旨虽然老套，但友谊的热血或“异说”的儿时世界都还是讨人喜欢的"
+    },
+    {
+      "user": "Orangedietc",
+      "avatar": "https://img3.doubanio.com/icon/u78955356-1.jpg",
+      "content": "太低幼了…以及有点麦麸"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "异世界大作战，以太创造者戈达尔博士，创新力的新定义，以及长相亦如铁壁阿童木的超能力少年，这些都是幻想世界里最值得珍惜的一部分。如果非要以成人的视角去看待月球背后的居民，大抵每个人都会想到乌托邦，机器人战争武器统治星球【生化危机】，但电影中说到“我们如果向地球人袒露身份，他们也许并不会相信我们，但小孩子会”童年就要爱幻想，动手创造心中所想的瑰丽艺术世界，这是难能可贵的，余忆童稚时，少些理性多点想象。"
+    },
+    {
+      "user": "powerddt",
+      "avatar": "https://img3.doubanio.com/icon/u40180572-1.jpg",
+      "content": "看片头原作者只有藤子F不二雄，没有藤子不二雄A，不知道具体是哪个时期的作品。确实挺有想象力，特别是那个徽章和反作用徽章的逻辑。说实在的有几个应用没太看懂，但是不明觉厉。2019.6.1 与妻子儿女 女儿生日宴后 泉城路新世纪"
+    },
+    {
+      "user": "突然粉碎",
+      "avatar": "https://img1.doubanio.com/icon/u4051316-9.jpg",
+      "content": "破案了，北影节海报是在致敬电影里的月宫吧，这部竟然可以当太空片科幻片看，异说徽章神似三体思想钢印，反派基地神似阿丽塔，以太和空间跳跃莫名想到复联，蓝胖子的热气球飞船很复古，辉夜星的毁灭很霓虹，大雄也是走到哪儿都能交到朋友的自来熟啊"
+    },
+    {
+      "user": "iam__lily",
+      "avatar": "https://img3.doubanio.com/icon/u61689538-2.jpg",
+      "content": "比去年那部好看太多了"
+    },
+    {
+      "user": "アイリス",
+      "avatar": "https://img3.doubanio.com/icon/u52555204-16.jpg",
+      "content": "看到最后十分钟，前排的小朋友：这个怎么还没看完啊～旁边的人都笑了。确实是有点拖了。没注意买到国语版，想哭。"
+    },
+    {
+      "user": "竹蜻蜓的夏天",
+      "avatar": "https://img3.doubanio.com/icon/u56974642-2.jpg",
+      "content": "第一部在影院看的哆啦A梦剧场版。剧情连贯，结合了辉夜姬物语，外星文明，民间传说。想象力是人类前进唯一的动力。蓝胖子永远能带给我们无穷的想象力，无穷的感动。值得一看。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "就像生日一样，很多年不过，也就无所谓了。\n柯南，小新，蓝胖子的剧场版，剧情多半也早无所谓了，权当过生日了。"
+    },
+    {
+      "user": "1568",
+      "avatar": "https://img3.doubanio.com/icon/u1410510-23.jpg",
+      "content": "和娃一起看机器猫，差点没把自己感动哭了。从孩子的眼光去看的时候，第一次觉得动画片这么用心。"
+    },
+    {
+      "user": "Rust",
+      "avatar": "https://img3.doubanio.com/icon/u126084992-22.jpg",
+      "content": "  和以前的剧场版差的太多，不重视编剧，只玩特效，毫无想象力。甚至在美术风格上都不统一，新人物全是网红画风，这种毁童年的片还是麻烦导演以后不要再拍了。"
+    },
+    {
+      "user": "~~關寶卷卷！",
+      "avatar": "https://img3.doubanio.com/icon/u2392544-144.jpg",
+      "content": "咩咩观影记录"
+    },
+    {
+      "user": "跑_真的跑不动",
+      "avatar": "https://img1.doubanio.com/icon/u26641383-28.jpg",
+      "content": "太hardcore了！"
+    },
+    {
+      "user": "半",
+      "avatar": "https://img3.doubanio.com/icon/u1347691-5.jpg",
+      "content": "带娃看的，结果娃都吓坏了……"
+    },
+    {
+      "user": "┢落┦",
+      "avatar": "https://img3.doubanio.com/icon/u14163854-2.jpg",
+      "content": "想象力才是未来，是对人们的关怀。"
+    },
+    {
+      "user": "慕詩",
+      "avatar": "https://img1.doubanio.com/icon/u147190792-118.jpg",
+      "content": "美好的童年，有点解压～"
+    },
+    {
+      "user": "我家ohno最可爱",
+      "avatar": "https://img3.doubanio.com/icon/u59798234-46.jpg",
+      "content": "微博写完了，我也不复制了，深奥的层次我理解不够没看出来，但是大雄搞笑的地方，眼镜兔子🐰搞笑地方，还有戴帽子小帅的自我牺牲，大雄五人组为了救新同伴深夜离家那段，真又有搞笑又有感人地方啊✔落一部，会补上！以上。"
+    },
+    {
+      "user": "暗夜精灵",
+      "avatar": "https://img3.doubanio.com/icon/u4415314-15.jpg",
+      "content": "名副其实动画大电影，比那些纯粹卖情怀的要强多了。机器猫关于“想象力”的那句对白值得你倒回去再感受一次。"
+    },
+    {
+      "user": "北北~",
+      "avatar": "https://img3.doubanio.com/icon/u1340775-23.jpg",
+      "content": "这次的比之前的剧场版好看诶"
+    },
+    {
+      "user": "幽昙天香",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "哆啦A梦的歌声一出来，我就彻底沦陷了！幸福的童年，就不能缺少美丽的童话！哆啦A梦，大朋友小朋友都永远爱你！！"
+    },
+    {
+      "user": "小楼。",
+      "avatar": "https://img1.doubanio.com/icon/u4773109-8.jpg",
+      "content": "不幸的是，嫦娥四号登录月球背面了。"
+    },
+    {
+      "user": "刑天=_=",
+      "avatar": "https://img3.doubanio.com/icon/u76653168-1.jpg",
+      "content": "谁说月球没有兔子呢？谁说妖精没有尾巴呢？永远的冒险，永远热泪盈眶！"
+    },
+    {
+      "user": "北海道 花系",
+      "avatar": "https://img3.doubanio.com/icon/u52763172-40.jpg",
+      "content": "电影剧情不尴尬，尴尬的是电影院里全是十岁以下的小朋友。这次的故事比较复杂，前半部分是充满了想象力的兔子王国，后半部分的冒险过程，有点虎头蛇尾，有点套路。最后的结局让我想起来齐神的结局。感觉还不错。电影里的兔人也是致敬了原著里《大雄的宇宙开拓史》。静香也对大雄越来越体贴了。"
+    },
+    {
+      "user": "moonjay",
+      "avatar": "https://img3.doubanio.com/icon/u4573464-4.jpg",
+      "content": "能力有限才会努力 生命有限才显得可贵"
+    },
+    {
+      "user": "西桥",
+      "avatar": "https://img3.doubanio.com/icon/u4657391-15.jpg",
+      "content": "南极大冒险和金银岛的故事都记不清了，但是影响对蓝胖子剧场版的期待。这个世界并不完美，但至少有蓝胖子还能对你我温柔以待。"
+    },
+    {
+      "user": "庄小龙也有尾巴",
+      "avatar": "https://img1.doubanio.com/icon/u68303574-38.jpg",
+      "content": "我最近超喜欢哆啦A梦啊 买了带哆啦A梦的衣服！还想入其他周边。都是童年啊！！"
+    },
+    {
+      "user": "春风沉赘",
+      "avatar": "https://img3.doubanio.com/icon/u158855051-5.jpg",
+      "content": "第五百部标记，玉兔，辉夜姬，鬼武士，八岐大蛇，电子眼，老大哥，集权世界，圣经，创世，异说世界，定说世界。唯心主义大辩论。以后我们会不会见不到了？没关系我们有想象力。"
+    },
+    {
+      "user": "书剑",
+      "avatar": "https://img1.doubanio.com/icon/u2556660-7.jpg",
+      "content": "真挺不错的。尤其是台普配音的机器猫，令人感觉台普和动画片，真的是绝配呢。但是哆啦A梦这么多年了，就不能稍微稍微稍微往成年人动画片上靠一丢丢吗？"
+    },
+    {
+      "user": "余生",
+      "avatar": "https://img3.doubanio.com/icon/u154039834-13.jpg",
+      "content": "欢快 可爱 充满想象力"
+    },
+    {
+      "user": "Emiya奥莱",
+      "avatar": "https://img3.doubanio.com/icon/u194990309-3.jpg",
+      "content": "看了这么多动画，还是蓝胖子适合我呀。这部比前两部好很多，剧情构架暗喻都很到位。只是日语场好难找，跑了好远才找到一家放日语的。推荐一家人来看，但看电影时一定要管好孩子，不要影响到他人观影。"
+    },
+    {
+      "user": "麦田圈212",
+      "avatar": "https://img1.doubanio.com/icon/u71206058-27.jpg",
+      "content": "六一欠小朋友的"
+    },
+    {
+      "user": "离歌笑",
+      "avatar": "https://img3.doubanio.com/icon/u14406150-5.jpg",
+      "content": "real real boring"
+    },
+    {
+      "user": "Mo",
+      "avatar": "https://img1.doubanio.com/icon/u49338392-8.jpg",
+      "content": "天才兔兔~~静香总是能找到帮手来救场，还是不了解什么反转徽章，为什么用假说变了普通人...."
+    },
+    {
+      "user": "viviwei",
+      "avatar": "https://img1.doubanio.com/icon/u3217386-7.jpg",
+      "content": "从小看到大依然觉得那么好看(｡･ω･｡)ﾉ♡"
+    }
+  ]
+}

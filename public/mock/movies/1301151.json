@@ -1,0 +1,999 @@
+{
+  "title": "豺狼时刻",
+  "url": "https://movie.douban.com/subject/1301151/",
+  "rate": "8.2",
+  "id": "1301151",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452083076.jpg",
+  "info": [
+    "导演: 英格玛·伯格曼",
+    "编剧: 英格玛·伯格曼",
+    "主演: 马克斯·冯·叙多夫 / 丽芙·乌曼 / 耶特鲁德·弗里德 / 乔治·莱德伯格 / 厄兰·约瑟夫森 / 英格丽·图林",
+    "类型: 剧情 / 恐怖",
+    "制片国家/地区: 瑞典",
+    "语言: 瑞典语 / 挪威语",
+    "上映日期: 1968-02-19(瑞典)",
+    "片长: 90分钟",
+    "又名: Hour of the Wolf / Die Stunde des Wolfs"
+  ],
+  "desc": "剧情:\n                                    \n                                　　这是个诡异的故事，画家约翰和妻子艾尔玛居住在荒凉的孤岛上，画家经常为怪诞的梦境困扰，醒来他总是将梦境绘在速写本上。妻子有天碰到了一个精灵般的老婆婆，催促她去读约翰的日记，看后她发现了丈夫的秘密，后来，日记里描绘的城堡主人梅堪约他们做客，在城堡里艾尔玛发现了这些人曾经出现在丈夫的速写本上。回家路上，艾尔玛恳求丈夫远离那些人，而画家一言不发走了。回到家中画家对妻子承认在悬崖边杀害过一个孩子，第二天，城堡里神秘的访客再度约翰的家，并诱惑约翰再次来的城堡，看见了恶魔的仪式也陷入无法自拔的境地，而城堡外艾尔玛徒劳寻找着约翰，但是，她找到的是他的遗物，却永远失去了他。\n                                    \n                                　　幕后制作：\n                                    \n                                　　影片将惊悚片和超现实的元素相结合，表现艺术创造和疯狂之间的内在联系，是伯格曼导演的惟一恐怖片。两位主角以精湛的表演，展现了心理扭曲的痛苦，极具震撼力。",
+  "members": {
+    "director": {
+      "name": "英格玛·伯格曼 Ingmar Bergman",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p675.jpg"
+    },
+    "cast": [
+      {
+        "name": "马克斯·冯·叙多夫 Max von Sydow",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23386.jpg"
+      },
+      {
+        "name": "丽芙·乌曼 Liv Ullmann",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484989652.29.jpg"
+      },
+      {
+        "name": "耶特鲁德·弗里德 Gertrud Fridh",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "乔治·莱德伯格 Georg Rydeberg",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "厄兰·约瑟夫森 Erland Josephson",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30166.jpg"
+      },
+      {
+        "name": "英格丽·图林 Ingrid Thulin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6252.jpg"
+      },
+      {
+        "name": "福尔谢·松德奎斯特 Folke Sundquist",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "Mona Seilitz",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1525083553.59.jpg"
+      },
+      {
+        "name": "Mikael Rundquist",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "乌尔夫·约翰松 Ulf Johansson",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "Lenn Hjortzberg",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "古德龙·布罗斯特 Gudrun Brost",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "阿格达·海林 Agda Helin",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "Bertil Anderberg",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "纳伊玛·维夫斯特兰德 Naima Wifstrand",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2506268189.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2506268177.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p1055032063.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p809444388.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2373932141.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "九只苍蝇撞墙",
+      "avatar": "https://img3.doubanio.com/icon/u1382097-5.jpg",
+      "content": "很疯狂的片儿。看了一半才发现就是刚到法国时迟到十五分钟没看到开头的那部伯格曼，直接影响启发了我自己后来心血来潮拍的那个毕业作业。Liv Ullmann是那种极赞的女演员，长的如此难看，但是身体的每个细节，表情和肢体动作都充满了莫名动人的魅力。"
+    },
+    {
+      "user": "何阿嵐",
+      "avatar": "https://img1.doubanio.com/icon/u1325646-9.jpg",
+      "content": "每一個段落都在實驗，敘事結構分段上下部份(男女兩種敘事角度)，聲音音樂的對位落差，莉芙面對觀眾的自白，還有一開始聲音收錄了拍攝電影時的聲音，褒曼真的沒有受到法國新浪潮影響嗎？藝術家苦無創作慾念，生活壓迫，最可怕原來是自己的心魔，這部褒曼口中不怎麼成功的作品中，還是有很多閃光時刻。"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "#2018年6月重温第三遍#通篇宛如梦魇、呓语、分裂梦境，长长的影子，惊飞的群鸟，过曝的谋杀段落，明晃晃日光下的噩梦演绎；再惊悚的氛围，仍是童年父权阴影的覆盖与自我焦虑的交织，“界限已逾越，镜子已打碎”---颠倒的扭曲的镜像世界；几乎贴到脸上的特写增强压迫感，丽芙·乌曼真经得起挑剔镜头。"
+    },
+    {
+      "user": "冰红深蓝",
+      "avatar": "https://img3.doubanio.com/icon/u58206795-16.jpg",
+      "content": "伯格曼唯一一部恐怖片，呈现艺术家的梦魇并探讨其与观众/批评者的关系。1.Alma女名及阴涩氛围同[假面]。2.晚宴的快摇镜头切换人物，老太现身的瞬移跳切。3.狼之时刻：最多人逝去与出生、睡眠最深与梦魇至真、醒者骇栗之时。4.\"拍摄\"画外音揭幕,以乌曼面朝观众自语作首尾。5.44min20s出片名。（8.0/10）"
+    },
+    {
+      "user": "JoshuaLi",
+      "avatar": "https://img3.doubanio.com/icon/u47940288-71.jpg",
+      "content": "这部极为黑暗的伯格曼电影是对恐惧的解构，恐惧最核心处是恶魔，恐惧会以各种方式侵袭，而恶魔也会以很多面孔出现，被恐惧吞噬，而后也会被恶魔吞食。上流社会的恶魔晚宴强度频繁的摄影机运动在伯格曼电影中比较少见，过曝处理的杀人段落很有意思，硬光在强调恶魔感的镜头中被频繁使用。"
+    },
+    {
+      "user": "幽灵不会哭",
+      "avatar": "https://img3.doubanio.com/icon/u1535563-1.jpg",
+      "content": "一位艺术家的自我剖析，他希望超越世俗的生活，追求内心最美的纯洁，却不自觉地陷入欲望的陷阱，他渴望他人的认同，却难以抵抗虚荣心的侵蚀，伯格曼用人的潜意识噩梦和超现实主义来展现一个人走入疯狂的过程，对未来的恐惧和对过去梦魇不能释怀，在豺狼时刻即将到来之时，伯格曼将自我投入无尽的虚无里"
+    },
+    {
+      "user": "★",
+      "avatar": "https://img3.doubanio.com/icon/u43787487-192.jpg",
+      "content": "4夢境中的Bergman對你說:Now is when nightmares come to us.你來到這裡，朋友都變成了幽靈，他們與你共處同一空間，呼吸著同一份的空氣。你會隨時隨地感受到死亡的恐懼，即便是一頓盛宴都無法化解你心中的疑慮。伴隨著音樂，你張開了雙臂，準備即刻擁抱大地，并高喊：It's only jealous,Plz go away！"
+    },
+    {
+      "user": "UrthónaD'Mors",
+      "avatar": "https://img1.doubanio.com/icon/u1793566-1867.jpg",
+      "content": "“One thing more: They want to destroy us.”In Swedish and Finnish folk religion it is the hour when most people die and are born."
+    },
+    {
+      "user": "hahahalea",
+      "avatar": "https://img3.doubanio.com/icon/u1295060-2.jpg",
+      "content": "真．恐怖片。惜結構零碎。然剪接炫，初入城堡晚宴繞圈交錯對話鏡頭很喜歡，也喜歡人偶劇及對《魔笛》中Papageno的詮釋。不確定到底喜不喜歡出現的烏鴉與大量鴿子，感覺看到很多其他作品的影子。  男主為啥叫約翰伯格啦，瞬間穿越到攝影世界。"
+    },
+    {
+      "user": "冰山李",
+      "avatar": "https://img3.doubanio.com/icon/u1442320-101.jpg",
+      "content": "a collapse too rational"
+    },
+    {
+      "user": "feather",
+      "avatar": "https://img1.doubanio.com/icon/u2580958-18.jpg",
+      "content": "此片太诡异..导致偶看完直接逃课肥家鸟。。。看的四肢发凉逐渐意识涣散== ||||"
+    },
+    {
+      "user": "何倩彤",
+      "avatar": "https://img3.doubanio.com/icon/u1003853-196.jpg",
+      "content": "Film Society Lincoln Center 6:45pm"
+    },
+    {
+      "user": "coney",
+      "avatar": "https://img1.doubanio.com/icon/u3804138-69.jpg",
+      "content": "为了演员们的小眼神儿和那震撼死人的三场戏，就不得不给五星了。诡异、荒诞、扭曲，伯格曼你到日本拍恐怖片毫无压力好吗！"
+    },
+    {
+      "user": "vivi",
+      "avatar": "https://img3.doubanio.com/icon/u2129993-253.jpg",
+      "content": "没觉得恐怖。只觉得做作和空虚。冯叙多化妆后的脸部特写似乎真的可以跟乌曼混淆。后来读乌曼的书，她说冯叙多跟自己特别相像，一样的害羞、敏感、善良。（简直就是男版的乌曼。）"
+    },
+    {
+      "user": "翟墨子",
+      "avatar": "https://img3.doubanio.com/icon/u48594726-176.jpg",
+      "content": "吸血鬼家族的故事，还想拍续集啊.....摄影机的运动值得小注意下，晚宴以一个环绕镜头开场，后接闪摇+闪摇+闪摇+.....用光很讲究，硬光，尤其是杀生一场，重复剪辑；无论是画皮，还是人在天花板上行走，不恐怖，这是蒙太奇相比长镜头的缺陷。。。三圣终被全歼，收藏的战利品为伯格曼/安东尼奥尼7费里尼6"
+    },
+    {
+      "user": "犹在镜中",
+      "avatar": "https://img3.doubanio.com/icon/u93158337-283.jpg",
+      "content": "有些虚，但是值得称道的是拍摄的手法。晚宴摇动的镜头，干净利落地剪辑掉老妇以及过曝的谋杀片段，这个不错。"
+    },
+    {
+      "user": "ChorSeb",
+      "avatar": "https://img3.doubanio.com/icon/u2323063-150.jpg",
+      "content": "一个女人如果长久地和她爱的男人相处，学习按他的方式思考，是不是就会变得象他？那么如果我不爱他，不象他，是不是可以更好地保护他？但如果我不象他，是不是因为我爱他爱得不够，(不如我想象得那么多) 所以我才这么妒忌？"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "最恐怖的是身临其境，在现实，在梦境，或者在分不清现实和梦境的时空。"
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "艺术家的自我解剖和自我毁灭。厉害的镜头和构图（like other Bergman's movies)"
+    },
+    {
+      "user": "451½°F™",
+      "avatar": "https://img1.doubanio.com/icon/u2056470-37.jpg",
+      "content": "爱成怖。精神病妄想的成因不过是恐惧和执著，这次Bergman在曝光过度造成惊悚影像和如同恶作剧般「溶脸」惊吓后，终于还是在结尾借女主之口为自己的作品注脚。另外《圣鹿之死》中利用音效营造惊悚气氛似乎也有偷师于此。"
+    },
+    {
+      "user": "paradiso",
+      "avatar": "https://img1.doubanio.com/icon/u2791818-8.jpg",
+      "content": "神之手，梦之作。纯正当代恐怖片音效领先时代。冯西多演技爆发，这样埃贡席勒式的高个条感儿一演神经病简直魅力无法挡。妻子痛苦自问“是错在爱太多还是爱不够”令人无比唏嘘"
+    },
+    {
+      "user": "大佑",
+      "avatar": "https://img3.doubanio.com/icon/u2918454-271.jpg",
+      "content": "4.0 強攝影跟舞台劇式的美術彌補了剪輯轉場跟超現實表現方式中的生硬部分，音樂段落很劇場化啊，魔笛元素／臉／特寫鏡頭／光／都是伯格曼最喜歡用的吧。只覺得看著女主那無可救藥又病態地愛一個人非常非常瘧，壓抑地讓人感覺超級難受....即使在那么嗨的狀態下看完這片仍然覺得需要出門走走"
+    },
+    {
+      "user": "逻姬恨剧透",
+      "avatar": "https://img1.doubanio.com/icon/u1751895-19.jpg",
+      "content": "第二个伯格曼。配乐好猛。总是有小孩在里面。很喜欢女主给超cu。叙事很有意思但是核心思想怎么总是那一套啊。有些镜头停留过短有些又过长。"
+    },
+    {
+      "user": "Lycidas",
+      "avatar": "https://img3.doubanio.com/icon/u46752165-32.jpg",
+      "content": "镜子已碎裂，界限已跨越。亲密关系中的谎言与沉默，有多少人可以抱着未满足的欲望度过渺渺一生，又有多少未说出口的暧昧秘密尚待解开。相濡以沫的陪伴，比不上激情让人饮鸩止渴，欲罢不能唯有走向异化。"
+    },
+    {
+      "user": "冰山的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u57004536-34.jpg",
+      "content": "伯格曼的《闪灵》，探讨幽闭环境下人类精神的异变。中段才出现的片名将全片划分为两个截然相悖的部分，正如午夜的豺狼时刻作为老者逝去与婴儿新生的界限。同时此片又同《芬与亚》一样，饱含作者自身的内心创伤。费里尼有马戏团，伯格曼则是木偶剧。另外开场黑幕里喊「开机」的声音是伯格曼自己的吗？"
+    },
+    {
+      "user": "三千岁",
+      "avatar": "https://img3.doubanio.com/icon/u60892551-10.jpg",
+      "content": "伯格曼唯一的恐怖片，丽芙乌曼前后呼应的旁白，以及大段的心理暗示语言。无疑，电影是上乘之作。两位主角的表演也着实精湛，这种人物无法抵抗内心的邪恶，才是最大的恐惧。直抵内心的作品才是真正意义上的好作品。"
+    },
+    {
+      "user": "Mannialanck",
+      "avatar": "https://img3.doubanio.com/icon/u2664326-53.jpg",
+      "content": "8。很有德国表现主义的味道。"
+    },
+    {
+      "user": "焚紙樓",
+      "avatar": "https://img3.doubanio.com/icon/u80722428-35.jpg",
+      "content": "烏曼前幾年那部紀錄片Liv & Ingmar出世後，最直接衝擊的就是這部片有多少基底於現實的解讀空間了吧？心智創作與物理居所的符碼連結，男人（柏格曼？）左腳是生活底氣（妻之木屋），右腳是生命刺激（鬼之別墅），得不到的永遠在騷動，因而只能永恆流連……"
+    },
+    {
+      "user": "室内滂沱",
+      "avatar": "https://img3.doubanio.com/icon/u5812768-70.jpg",
+      "content": "后设文本+第四面墙，影片在大概第46分钟才出片名，由此被分割为两块，前半部分通过一些巧妙的叠化镜头营造角色对自己所见的不确定感，后半部分用跳剪制造了不少匪夷所思的场面，从过曝那场戏的不详到后面几场戏的惊惧，伯格曼也开诚布公地运用了惊悚片形式。终于等到英格丽·图林的裸戏。"
+    },
+    {
+      "user": "超cute侠",
+      "avatar": "https://img1.doubanio.com/icon/u3403686-9.jpg",
+      "content": "谈不上是恐怖片，伯格曼的表现方式一向如此，女人的呓语和男人的梦魇，水中的尸体和天花板上的恶魔，开头男人抱怨一分钟有多长的那场戏拍得太好，伴随着秒针的滴答以及夫妻间的相对无语，婚姻的度秒如年一下子就跃出来了。"
+    },
+    {
+      "user": "⚪️HelloThere🔵",
+      "avatar": "https://img3.doubanio.com/icon/u35510811-184.jpg",
+      "content": "不是一家人不进一家门。在我的理解里，男主对旧爱的执着和对【】的愧疚扭曲了他的现实，逼疯了自己；女主“和男主越来越相像”，这份爱也靠近了男主那种疯癫。大家开心就好（。"
+    },
+    {
+      "user": "woniu2048",
+      "avatar": "https://img3.doubanio.com/icon/u64887402-1.jpg",
+      "content": "10多年看的第一部伯格曼，也差不多是恐惧失眠症的开始，遗留的感受就是压抑，现在想来估计也就是不懂，很多光影交错，梦境与现实的模糊描写。而现在看来，该算是伯格曼不怎么严肃的主题作品之开端。豺狼时刻应该算是破晓前的那一段午夜，从身体机能到意志都是最为薄弱的时间点，伯格曼从这个概念下手，把梦境和现实几乎无懈可击的融合，真相与虚构的模糊，音响和光影的渲染，提高了这部都可以算作惊悚片的水准。因为故事都是女主一人的自述，究竟幻觉是男主一人还是女主自身？呈现的将是完全是不同的真相脉络。当然伯格曼最后也不忘玩一把爱情哲学。看到一个解脱自我的伯格曼展现出极大的创作才华。"
+    },
+    {
+      "user": "xīn",
+      "avatar": "https://img3.doubanio.com/icon/u1296250-20.jpg",
+      "content": "【BAMPFA】2018.2.8.7pm 去城堡与旧爱会面，到最终消失的神秘段落非常迷人。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "那些面朝大海春暖花开的日子~"
+    },
+    {
+      "user": "令和学习机器",
+      "avatar": "https://img3.doubanio.com/icon/u4581247-100.jpg",
+      "content": "6-20LUXE大厅看大脸特写，太阴郁了，今天看了两部恐怖片，一个是丧尸一个是心理丧失"
+    },
+    {
+      "user": "美卡 mecca",
+      "avatar": "https://img3.doubanio.com/icon/u1143085-332.jpg",
+      "content": "6/16@天山 7分。孤岛艺术家幽闭恐惧的故事特别眼熟，银幕看却没有太大感觉。人性中的暗黑面被逐步唤醒，终于在万籁俱寂的凌晨时分（Vargtimmen）被招魂。艺术对资本与权力的俯首依附，过往悬而未决的愧疚与不堪终将显灵。中意岩石戏 / 洞穴戏。 #SIFF"
+    },
+    {
+      "user": "巴伐利亞酒神",
+      "avatar": "https://img3.doubanio.com/icon/u1218430-446.jpg",
+      "content": "一场彻头彻尾的梦魇，一出哥特氛围浓郁的黑暗剧。与其说伯格曼的恐怖片，不如说他自己的一条心理惊悚之路。噩梦是内心撕裂的折射，是那些秘密与谎言的扭曲之地，是死去孩子以及阴魂不散情人的六道轮回，是魔笛奏响后群魔乱舞的狂欢之城……几乎能够感同身受于导演的创伤与苦痛。"
+    },
+    {
+      "user": "白昼白",
+      "avatar": "https://img1.doubanio.com/icon/u47037012-18.jpg",
+      "content": "唯一可惜的是，AFS没有35mm胶片。看Bergman感觉渐入佳境，对导演本人的喜爱也越来越多。整个故事是一个绝佳的clinical psychology的case study，而且还牵扯到原生家庭和对partner的影响。 4.5/5"
+    },
+    {
+      "user": "babydog不Muyan",
+      "avatar": "https://img3.doubanio.com/icon/u1641010-22.jpg",
+      "content": "A Love Story....."
+    },
+    {
+      "user": "般若死火",
+      "avatar": "https://img3.doubanio.com/icon/u2283061-334.jpg",
+      "content": "狼的时刻，是人死去，婴儿出生的时刻"
+    },
+    {
+      "user": "脑拷靥",
+      "avatar": "https://img1.doubanio.com/icon/u1341094-59.jpg",
+      "content": "'humiliation' 泛vampire."
+    },
+    {
+      "user": "儒",
+      "avatar": "https://img1.doubanio.com/icon/u1562637-7.jpg",
+      "content": "大屏幕看好美；非常sensory又非常抽象同时还极为丰富，一定是内心广阔、神秘的世界吧（这么想来感觉伯格曼的追随者们都差得挺远的…更别提近年的很多…"
+    },
+    {
+      "user": "Enjoy🌈Rachel",
+      "avatar": "https://img3.doubanio.com/icon/u48566275-382.jpg",
+      "content": "记2018SIFF第一天：晚场电影略困，伯格曼的慢热依旧，看的有些吃力。"
+    },
+    {
+      "user": "HurryShit",
+      "avatar": "https://img1.doubanio.com/icon/u3490094-87.jpg",
+      "content": "3.5。真的是恐怖片…算是Bergman連貫性主題的一次偽紀錄片與恐怖片（將過往內藏的心魔化作可辨識的魔物）嘗試。片名40多分鐘出現。有趣實驗不少，但越到後面節奏越怪，有點沒完沒了的感覺。場景心理化。"
+    },
+    {
+      "user": "typacm",
+      "avatar": "https://img3.doubanio.com/icon/u66444290-3.jpg",
+      "content": "#SIFF#对艺术家创作的剖析，对恐惧吞噬状态的呈现，疯狂、怪异、扭曲，非常杰出的摄影与构图，并且画面很像德国表现主义时期的恐怖片，不过剧情上还是差了点，尤其是情节的推动显得太为勉强"
+    },
+    {
+      "user": "把噗",
+      "avatar": "https://img3.doubanio.com/icon/u42097517-14.jpg",
+      "content": "极富创造力的开片以及44mins第二次出现片名。"
+    },
+    {
+      "user": "bloom",
+      "avatar": "https://img3.doubanio.com/icon/u1109854-11.jpg",
+      "content": "啊真是太好了。要与犹在镜中一争高下"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "1.你看不到我们，而我们却看着你。2.晚宴以摇镜头往返把控言语者。3.微型歌剧舞台同芬妮与亚历山大。4.孤独生活的一部分，或为爱情，或为艺术。5.黑暗中不断擦亮又熄灭的火柴。6.豺狼时刻：许多老人在此逝去，许多婴孩在此诞生。7.男女应同体而生。"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "某种意义上是用通俗戏剧化文本重新构筑一次《假面》的体验形式，这部电影也许唯有在这种对比度呈绝对二元化的黑白显影美学下，才能够将“惊悚”完全地渗透于庸常情景和庸俗面孔当中。从《沉默》到《假面》再到《豺狼时刻》，以此三部作品作为轴心的观影很可能是观众重新认识导演身份的伯格曼的机会。★★★★☆"
+    },
+    {
+      "user": "峰峰峰峰",
+      "avatar": "https://img3.doubanio.com/icon/u58930883-46.jpg",
+      "content": "《豺狼时刻》终于将那个不能说出的重大东西说了出来，那便是“羞辱”。"
+    },
+    {
+      "user": "阿树",
+      "avatar": "https://img3.doubanio.com/icon/u4020404-1754.jpg",
+      "content": "天花板上的男人，夢中的裸體女人，挖出的眼睛，烏鴉，鳥人，無法消逝的童年夢魘，小孩死去又浮上來的屍體。現實與夢之間的邊界，她說我不知道是不是愛得不夠，壓抑，悲傷又孤獨"
+    },
+    {
+      "user": "发不沾霓",
+      "avatar": "https://img1.doubanio.com/icon/u1930210-9.jpg",
+      "content": "“精神”的这件薄纱，在孤独压抑和自我怀疑面前，不堪一击；爱做实验的伯格曼，用了音乐的伯格曼；“一分钟还没过去”；出现两次的电影标题；“你曾说，你之所以喜欢我，是因为上帝把我创造成一个有感情和思想的人，你说这世上有我这样的人很重要，那真动听……”"
+    },
+    {
+      "user": "柴郡的酪梨",
+      "avatar": "https://img3.doubanio.com/icon/u48704168-21.jpg",
+      "content": "伯格曼就这样默默地拍出了比希区柯克还要恐怖的电影。爱伦坡的幽灵盘桓不去。"
+    },
+    {
+      "user": "TWY",
+      "avatar": "https://img3.doubanio.com/icon/u80915199-11.jpg",
+      "content": "音画体验和实验性都不亚于《假面》的杰作，伯格曼带观众深入欲望和猜忌的地狱，放肆的高对比摄影和大特写打造的压迫感在大银幕观赏都太令人疯狂，打五星还不就是为了一句话：情不自禁，就是这么简单～～～～"
+    },
+    {
+      "user": "judy",
+      "avatar": "https://img3.doubanio.com/icon/u1956648-61.jpg",
+      "content": "藝術家心魔、夢魘的具象化。實驗性質很強的一部。柏格曼名義上唯一一部恐怖片，但我覺得他其他作品，比這部更恐怖的很多…"
+    },
+    {
+      "user": "_Esperanza__",
+      "avatar": "https://img1.doubanio.com/icon/u52592385-9.jpg",
+      "content": "“艺术家在黎明前最后一个小时的焦虑。”在那个明暗交替的时刻里，或许并没有什么办法可以区分出想象和真实。伯格曼式压抑的梦境/现实和叹为观止的特写；丽芙乌曼，为电影而生。"
+    },
+    {
+      "user": "云上的日子2046",
+      "avatar": "https://img3.doubanio.com/icon/u1124910-25.jpg",
+      "content": "05-01-14 精神分裂。"
+    },
+    {
+      "user": "ファッション",
+      "avatar": "https://img3.doubanio.com/icon/u76497080-40.jpg",
+      "content": "镜头语言也太高级和前卫了，我反复回顾同时期的好莱坞电影，它们在这个方面无趣得像个弟弟，同时我再回顾同是涉及夫妻焦虑的《反基督徒》，发现拉丝也是个弟弟。除了结尾丈夫进入古堡的一段外都很喜欢。I try to tell you all my fears/ You still don't care/ That's okay 其实男女主之间根本没有过称得上“交流”的对话，女主面对镜头的独白，留下怅然在我心头。"
+    },
+    {
+      "user": "Ying_0111",
+      "avatar": "https://img1.doubanio.com/icon/u53021898-48.jpg",
+      "content": "竟然是文艺恐怖片，借着恐怖片的形式表现疯癫的爱情？可能是逼格不够，没看出来哪里诡异和恐怖了。"
+    },
+    {
+      "user": "闻人林",
+      "avatar": "https://img3.doubanio.com/icon/u2401285-161.jpg",
+      "content": "非常憎恨豆瓣的短评字数限制。fuck you all"
+    },
+    {
+      "user": "错荡",
+      "avatar": "https://img3.doubanio.com/icon/u43413383-2.jpg",
+      "content": "应该怎样都忘不了——海边谋杀与走上天花。"
+    },
+    {
+      "user": "SH3056",
+      "avatar": "https://img3.doubanio.com/icon/u52075599-15.jpg",
+      "content": "超级先锋恐怖电影 包括丽芙乌曼第四面墙的设置 超现实梦境及其表现主义的运用 父权阴影下的自身指涉 艺术家对当下语境以及本体与外界联系的思考 非常伯格曼 每个人的艺术世界就是自己的梦魇"
+    },
+    {
+      "user": "McLwren",
+      "avatar": "https://img3.doubanio.com/icon/u35886294-41.jpg",
+      "content": "被迫害妄想症，就算去再怎么与世无争的地方都没用，他最终变成了梅菲斯特。伯格曼用光赋予了黑白色彩，也对演员的脸骨无比挑剔。"
+    },
+    {
+      "user": "brennteiskalt",
+      "avatar": "https://img1.doubanio.com/icon/u34981241-18.jpg",
+      "content": "伯格曼的[豺狼时刻]不是梦魇，而是失眠折磨中的焦虑，混合了艺术上的折磨、旧情与婚姻中的罪孽感、和对他的观众、买家和评论人的敌意。尽管表现主义的超现实恐怖段落令人毛骨悚然，但最终作品让人觉得缺乏结构。显然他没与艺术外的生活取得和解，甚至不认为爱情是良药，这让深受桑爷影响的我情何以堪。"
+    },
+    {
+      "user": "小熊QQ",
+      "avatar": "https://img3.doubanio.com/icon/u42222694-14.jpg",
+      "content": "梦与现实交织，理性崩塌，豺狼出没。"
+    },
+    {
+      "user": "阿文",
+      "avatar": "https://img3.doubanio.com/icon/u2702193-13.jpg",
+      "content": "这是我看过伯格曼最诡异的一部，大体理解就是一对夫妇来到一座小岛生活，丈夫是一名画家。在岛上的生活中，丈夫渐渐的精神出现问题，产生诸多分不清幻想还是现实的场景，在与岛上各种人物的接触下，其病情越发严重，最后画家神秘消失。故事被我说的索然无味，但是在画家的精神世界中，那些镜头那些构图，简直就是黑白艺术品！产生无比美丽又诡异的观感，黑白的影像与人物讲优雅 神秘 荒凉 茫然 恐惧等等情绪具象到屏幕上，这种感觉让人觉得很神奇，这就是一种艺术欣赏体验吧！也不是说看不懂分不清不明所以就是高超的艺术，但难得的是很少有人将这些内心中难以名状的感觉表达出来。那些通过绘画 雕塑 电影 把这些展现出来的，真的都是大艺术家！这样的电影，大概只有欧洲拍的出来，印象中的美国电影还有国产电影，好像一部类似艺术电影都没有。"
+    },
+    {
+      "user": "Rhodesia",
+      "avatar": "https://img3.doubanio.com/icon/u2697640-72.jpg",
+      "content": "并不觉得是惊悚片，噩梦太真实。有一说豺狼时刻是凌晨四点，说起来也是我经常醒过来的时候。"
+    },
+    {
+      "user": "qia|有痣青年",
+      "avatar": "https://img3.doubanio.com/icon/u1091657-1.jpg",
+      "content": "这片的精神层次远高于一般吸血鬼片，但还是勉强归入吸血鬼类，重在氛围"
+    },
+    {
+      "user": "DR邬梦雨",
+      "avatar": "https://img3.doubanio.com/icon/u46643232-12.jpg",
+      "content": "“我创作中没有不言而喻的东西，只有冲动和欲望…”等一分钟流逝，诡异的视线剪辑，强烈的调度痕迹，被放大的交谈声，影片充满虚假的快感。45分钟时间轴正中间出现标题。无声高调的回忆进入前有一个急促的推镜。当界限被逾越镜子被打破，影像（声画）失效，恐惧重现。伯格曼对女性的态度很复杂纠结。"
+    },
+    {
+      "user": "雪国之熊猫",
+      "avatar": "https://img3.doubanio.com/icon/u119456550-34.jpg",
+      "content": "#SIFF21 悬崖边的小男孩，可以说打消了我的倦意。"
+    },
+    {
+      "user": "…",
+      "avatar": "https://img3.doubanio.com/icon/u2798006-21.jpg",
+      "content": "片子太好，实在不想看第二遍了，看一段就得停下听听人声，这日子没法过了啊"
+    },
+    {
+      "user": "融化chocolate",
+      "avatar": "https://img3.doubanio.com/icon/u2089685-34.jpg",
+      "content": "还是爱——信仰。祭祀。疯狂。\n不过总觉得叙事上太晦涩了一点，直接情感冲突再多一点点感觉更好"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "其实伯格曼口味很重的。"
+    },
+    {
+      "user": "人类学科研究员",
+      "avatar": "https://img3.doubanio.com/icon/u2221343-242.jpg",
+      "content": "看伯格曼如何折磨上影节观众，带劲。"
+    },
+    {
+      "user": "健三快跑",
+      "avatar": "https://img1.doubanio.com/icon/u3502559-7.jpg",
+      "content": "#siff2018#虽然看得一脸懵逼，但是莫名觉得比第七封印更好看，标志性的人脸特写几乎充斥了整部电影，虽然我只能大概理解这又是个艺术家发疯的故事，也没能理解电影语言的隐喻，但是镜头非常实验性，非常酷。"
+    },
+    {
+      "user": "面包面条面饼",
+      "avatar": "https://img3.doubanio.com/icon/u50782420-3.jpg",
+      "content": "SIFF#06, 与魔笛相呼应, digital restoration at 天山"
+    },
+    {
+      "user": "灰色幽默",
+      "avatar": "https://img3.doubanio.com/icon/u141745650-4.jpg",
+      "content": "如果觉得晦涩难懂，不如将其与《闪灵》对比起来解析。同样是长期处在封闭环境中导致人心理状态发生异变，但本片的恐怖效果产生于内心欲望与过往回忆间的扭曲变形，与外界的环境暗示关系不大。伯格曼的所有电影本质上都是爱情片。大量特写、极端打光和刺耳的音效是支撑电影封闭扭曲氛围的三大关键"
+    },
+    {
+      "user": "Shawvey",
+      "avatar": "https://img3.doubanio.com/icon/u27339296-4.jpg",
+      "content": "伯格曼居然cult了！"
+    },
+    {
+      "user": "Säger",
+      "avatar": "https://img1.doubanio.com/icon/u4525352-69.jpg",
+      "content": "是对噩梦最真实时刻的集中放大 不仅是艺术家的心魔 / 18.2.6 上课重看…大清早看好醒神 比第一次看更欣赏 注意到了镜头移动 开场时声响打破虚构限制"
+    },
+    {
+      "user": "大猫",
+      "avatar": "https://img3.doubanio.com/icon/u3541401-53.jpg",
+      "content": "艺术的终极境界是一场魔鬼仪式 放荡的女神仰卧祭台 吸血鬼和食人族桀桀怪笑 他们身着黑衣 吹起魔笛 为他化妆 使他变得是又不是自己 他们化身贵族 邀他赴宴 用破碎又无聊的高谈阔论撕扯他的耳膜\n失眠 恐惧与噩梦是他的豺狼时刻 也是他的灵感源泉 他试图杀死童年的自己 摆脱这阴影 奈何火柴明明灭灭 钟表滴滴答答 也无法停止这走向祭坛的脚步\n白衣婆婆为她指路 然而她也没能拯救他 他们给了他一把手枪\n他转身走入树林 接受魔鬼永恒的鞭笞"
+    },
+    {
+      "user": "宽松睡裤又如何",
+      "avatar": "https://img1.doubanio.com/icon/u26126229-98.jpg",
+      "content": "直面欲望与恐惧，赤裸拥抱黑暗与绝望。如果我看过的所有电影是一座殿堂，这部就是穹顶。大开眼界，惊为天人。"
+    },
+    {
+      "user": "ParkerLI",
+      "avatar": "https://img3.doubanio.com/icon/u139788361-2.jpg",
+      "content": "【YVR-Cinematheque】四星半。大荧幕观看这部大师唯一恐怖片是对恐怖范畴的拓宽。无血腥无血浆，有的是直抨恐惧核心的欲望裹挟。眼珠，扭曲脸面，不管是表现主义，抑或直接的扭曲影视表现，这种赤裸裸的对人性对恐惧的拷问在画面下却是徐徐道来的。可惜，氛围的搭建在快餐暴力强调视觉暴力下几近消失"
+    },
+    {
+      "user": "嗓嗓",
+      "avatar": "https://img3.doubanio.com/icon/u47534992-30.jpg",
+      "content": "虎叔推荐的电影，即使是我热爱的超现实主义，也不能改变我对伯格曼的讨厌"
+    },
+    {
+      "user": "Jestem",
+      "avatar": "https://img1.doubanio.com/icon/u166582416-7.jpg",
+      "content": "最大的恐惧来自于人们内心，人们是否能直面自己的恐惧？以女主的独白作起始，电影宛如一幅拼图，充满着各种类似抽象的画作，鸽子和乌鸦等等符号化的东西，一如既往的晦涩难懂。硬光和脸部特写的运用让人印象深刻，光是音乐就让我毛骨悚然。"
+    },
+    {
+      "user": "燃烧的暹罗猫",
+      "avatar": "https://img3.doubanio.com/icon/u1412409-24.jpg",
+      "content": "乌鸦、蝙蝠、怪人、鲜血、怪梦……应该算是标准的恐怖片配置，但是不同于一般恐怖片，这部更像是在以超现实故事表现人物的内心真实。"
+    },
+    {
+      "user": "艾習角™",
+      "avatar": "https://img1.doubanio.com/icon/u3136293-128.jpg",
+      "content": "分三次看的，没大看懂。气氛与质地把握得很好。乌曼很出色了已经。"
+    },
+    {
+      "user": "帕拉",
+      "avatar": "https://img3.doubanio.com/icon/u58059498-5.jpg",
+      "content": "伯格曼的邪典作品，也是艺术家走火入魔的故事。"
+    },
+    {
+      "user": "El Sur",
+      "avatar": "https://img3.doubanio.com/icon/u51962215-15.jpg",
+      "content": "伍迪艾伦那么崇拜伯格曼，汉娜姐妹里镜头在餐桌中心旋转的片段，灵感来源就是这部的古堡晚宴吧…其他不用夸，太符合我对恐怖片的“审美”了，而且远超于此。遗憾始终无法从整体把握他的叙事，每次都理解困难，诶"
+    },
+    {
+      "user": "啸杨",
+      "avatar": "https://img3.doubanio.com/icon/u55011855-12.jpg",
+      "content": "后来的魔笛正在孕育。\n太神叨，看来看去伯格曼的风格并不受我喜欢，神学哲思，唯心虚无论，意识流叙事如写小说形散神不散，多个无章法的个体组成一个主题。\n我看到的是现实版的大开眼戒"
+    },
+    {
+      "user": "火娃",
+      "avatar": "https://img3.doubanio.com/icon/u70990506-12.jpg",
+      "content": "8/10。深夜画家向妻子倾诉儿时受罚关进黑衣柜的恐惧，生长环境的罪恶感遭遇了自身创造的疯狂幻境，小鬼赤身压着使他产生同性色欲又被理性扼杀，旧情人的尸体醒来与众魔鬼羞辱他，亲吻戴着画皮的老妇臭脚、被化妆成小丑、打伤脸部闪过鸟雀惊慌的蒙太奇，与死相依的恋爱困扰了身心的画家消失在豺狼时刻。"
+    },
+    {
+      "user": "安魂",
+      "avatar": "https://img3.doubanio.com/icon/u1983610-1.jpg",
+      "content": "伯格曼到底有多喜欢魔笛，真怀疑这是他不知道哪个人生阶段看魔笛看出的阴影。但是恐怖片都能拍成这样，这还给不给别的导演留活路了。瑞典演员的优秀真是看这一部就够了，次要角色都够在别的片子里扛把子了，更别提叙多夫和丽芙乌曼，整部片子是大型宗教画的话，丽芙就是永恒的圣女像，伯格曼挑演员的能力登峰造极。而且感觉伯格曼真心想的话，是能拍出老塔那样的镜头的。"
+    },
+    {
+      "user": "日啖牛排三百块",
+      "avatar": "https://img3.doubanio.com/icon/u4529214-5.jpg",
+      "content": "习惯了现代恐怖片的我很不喜欢这种黑白又没血浆的恐怖片风格，为什么这么老的片子，在豆瓣有这么高的评分我十分不解，难道是我的文化修养有问题？对于一般的电影观众我不推荐去看这部电影，现在的无聊之作，可能在那个时代这就是《闪灵》了吧，这是我肤浅的见解。"
+    },
+    {
+      "user": "MuyBien",
+      "avatar": "https://img3.doubanio.com/icon/u15505594-14.jpg",
+      "content": "人的破碎和拼复完整的失败。扭曲病态部分用的是过曝的镜头和惊悚的配乐。第二次进入城堡的段落很有想象力：走到天花板上弯腰抱头、走廊乱飞的鸽子、和脸一起摘掉的帽子、诡异的化妆，收于不断推进的镜头里。有几处对电影本身的探讨：开场职员表时的片场环境音、看表数一分钟、女主面对镜头的讲述。"
+    },
+    {
+      "user": "密室星人",
+      "avatar": "https://img3.doubanio.com/icon/u3778818-30.jpg",
+      "content": "最富文艺气的惊悚片"
+    },
+    {
+      "user": "问号",
+      "avatar": "https://img3.doubanio.com/icon/u90613705-2.jpg",
+      "content": "将恐怖与爱情两大主题结合伯格曼确实得高级又出彩，个人风格元素又迷惑性太强了。"
+    },
+    {
+      "user": "尘世流年",
+      "avatar": "https://img3.doubanio.com/icon/u57999912-6.jpg",
+      "content": "最后这一切都没有平静，还再继续着，邪恶永不停止，只是改变了方向，搜寻下一个目标，寻找那在罪恶深渊中却惧畏忏悔的人。"
+    },
+    {
+      "user": "麦克阿瑟",
+      "avatar": "https://img3.doubanio.com/icon/u4165611-4.jpg",
+      "content": "英格玛博格曼唯一的恐怖片，展现了大师对恐怖的理解。"
+    },
+    {
+      "user": "proustalain",
+      "avatar": "https://img1.doubanio.com/icon/u128956983-17.jpg",
+      "content": "设置如同《犹在镜中》之孤岛的隔绝环境，也同样入木三分地表现了人在豺狼时刻（《犹》中的布朗肖时刻）中的精神异化困境，叙述中的童年阴影、以麦高芬形式存在的梦魇、实在的日记和画像以及现实生活交错接连发生了复杂精妙的拓扑式投射，乌曼与冯叙多在伯氏面部大特写下完美呈示了此种投射之微观变化。"
+    },
+    {
+      "user": "月冷西关",
+      "avatar": "https://img1.doubanio.com/icon/u63951072-7.jpg",
+      "content": "仿佛是半伪纪录片，掺杂着各种哥特恐怖意象，虚幻与现实的边界变得模糊不清，人与人之间的思维模式也在悄然同化。伯格曼不是恐怖大师，但是恐怖诡异的元素在他的电影中并不少见，到这里终于有了一部“真正意义上”的恐怖片了。最后皮一下，这部电影告诉我们不要熬夜，保持充足睡眠是多么重要！（于万圣节 PFA）"
+    },
+    {
+      "user": "M & R",
+      "avatar": "https://img1.doubanio.com/icon/u60709783-39.jpg",
+      "content": "ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ，梦境刻画真绝了，伯格曼就代表着质量！"
+    },
+    {
+      "user": "落鳥",
+      "avatar": "https://img3.doubanio.com/icon/u45725150-22.jpg",
+      "content": "The limit has finally been transgressed, the mirror has been shattered. But what do the splinters reflect?"
+    },
+    {
+      "user": "daffie",
+      "avatar": "https://img1.doubanio.com/icon/u2222657-98.jpg",
+      "content": "画家关于自己艺术的那段表白很勇敢，最后是谦卑的姿态。"
+    },
+    {
+      "user": "金司机",
+      "avatar": "https://img3.doubanio.com/icon/u50305002-22.jpg",
+      "content": "dpn215i9"
+    },
+    {
+      "user": "anticross",
+      "avatar": "https://img3.doubanio.com/icon/u62524902-2.jpg",
+      "content": "这个！！不就是如今文艺类型的恐怖游戏最喜欢走的套路吗！！艺术家走火入魔脑内yy出五百部大戏最后还得把老婆克死的那种套路！！这年头，艺术家没精分过没克死过老婆出门都不好意思跟同行打招呼呢……"
+    },
+    {
+      "user": "长宁公房老阿姨",
+      "avatar": "https://img3.doubanio.com/icon/u51082233-32.jpg",
+      "content": "第一次去影院祭神 结果被旁边情侣不断发出的噪音和谈论极大破坏了氛围感 但其实只是因为我们都在一个巨大的cult里面而他们不自知"
+    },
+    {
+      "user": "Nn",
+      "avatar": "https://img3.doubanio.com/icon/u36578071-165.jpg",
+      "content": "四面八方襲來的恐懼。殺人回憶那段光線很特別啊，男孩的舉動怪異，這是真的回憶嗎，還是捏造出來的恐懼呢。"
+    },
+    {
+      "user": "qw0aszx",
+      "avatar": "https://img3.doubanio.com/icon/u88439681-2.jpg",
+      "content": "片中出片名 ★★★★"
+    },
+    {
+      "user": "倒行逆施",
+      "avatar": "https://img3.doubanio.com/icon/u142357055-3.jpg",
+      "content": "前40min和后40min简直判若两片，男主进入狼之时刻后，拍得比《假面》更敢表现。伯格曼真是内在人格的显微镜，而恰好北欧可以保有人的现代性，同时纯净到将人的社会身份降到最低，极大限度还原个体。"
+    },
+    {
+      "user": "卡珊德拉的悲鸣",
+      "avatar": "https://img3.doubanio.com/icon/u163677587-4.jpg",
+      "content": "伯格曼诸多电影中又一部高不可攀的巅峰。似乎梦境/幻觉叙事+自传性镜头在他的后期电影中已经成为家常便饭，所有人物，不是逐渐滑入深渊，就是在深渊中凝视着我们。中段电影名称的插入，仿佛一剂足以让人清醒的良药，把观众稍稍从古堡的幻想中抽提出来，提醒我们，狼的时刻从未结束——这是许多人永远离开这个世界的时刻，是噩梦最真实的时刻，是失眠的人无法摆脱最强大的焦虑的时刻，是幽灵和魔鬼最肆虐的时刻，是很多孩子出生的时刻。"
+    },
+    {
+      "user": "清澄",
+      "avatar": "https://img3.doubanio.com/icon/u4523987-6.jpg",
+      "content": "两个人是否在一起久了，就会越来越像？你以为你足够爱他，或者不够爱他，你爱到都要放弃自我，继承了他的思想，你自责你忏悔你追忆你沉陷。而他不爱你，或说不够爱你，他甘愿为了曾经的情妇背叛你驱逐你。你们在豺狼时刻——失眠者的梦魇、象征着生死的时间受幻觉折磨，他在追逐自我，而你在深陷泥淖。"
+    },
+    {
+      "user": "長島冰茶",
+      "avatar": "https://img3.doubanio.com/icon/u54035643-12.jpg",
+      "content": "有人死去，有婴儿出生的时刻。"
+    },
+    {
+      "user": "Ber!",
+      "avatar": "https://img3.doubanio.com/icon/u28538786-6.jpg",
+      "content": "自怨自艾会让人逃避现实，到最后，什么是现实，什么是梦境，已经分不开了。就像绿野仙踪，要是离开家久了，就回不去了。"
+    },
+    {
+      "user": "东尼酱",
+      "avatar": "https://img3.doubanio.com/icon/u64125647-13.jpg",
+      "content": "#伯格曼诞辰一百周年#法语熟语狼狗时间指在这个时间里,善与恶的界线变得模糊,融化成了一片夕阳的血红……影片中女主人公对着精神分析师讲述所见的故事，但实际无法判断孰真孰假。伯格曼将弗洛伊德精神分析的五大经典案例之一《狼人》改编成此片，很多出地方可以一一对应，大师在心理学的造诣很深。配乐很棒，不过电影真的好恐怖啊。。。"
+    },
+    {
+      "user": "费什七",
+      "avatar": "https://img1.doubanio.com/icon/u1036207-39.jpg",
+      "content": "内心的焦虑和外界的敌意最终断送了艺术家的生命。为标榜而对艺术家的奉承，对艺术家的利用，嘲讽，作弄或者视其为精神病，那副嘴脸是看够了。。"
+    },
+    {
+      "user": "子龙",
+      "avatar": "https://img3.doubanio.com/icon/u63782623-4.jpg",
+      "content": "豺狼时刻 你到底在害怕什么 越是内向剖析的过程越是艰难而跳跃迸发 观众需紧随其后 如身临其境"
+    },
+    {
+      "user": "喘喘",
+      "avatar": "https://img3.doubanio.com/icon/u3369724-2.jpg",
+      "content": "8373"
+    },
+    {
+      "user": "莉莉玛莲",
+      "avatar": "https://img3.doubanio.com/icon/u113992757-43.jpg",
+      "content": "这部绝对是《闪灵》的灵感滥觞，太多意象符号重合，从环境设置到结构走向都一样，但技法和思想是后者无法企及的。"
+    },
+    {
+      "user": "暗夜精灵",
+      "avatar": "https://img3.doubanio.com/icon/u4415314-15.jpg",
+      "content": "无惊亦无喜，体会不到导演有什么深层含义，惭愧。"
+    },
+    {
+      "user": "Hinkly",
+      "avatar": "https://img3.doubanio.com/icon/u4597338-2.jpg",
+      "content": "读不透的心魔，还是放过自己吧"
+    },
+    {
+      "user": "烤芬",
+      "avatar": "https://img3.doubanio.com/icon/u47558959-122.jpg",
+      "content": "一个猜测：畸形怪异的贵族家庭是画家几种情绪的分身，是他在打破的镜子里看到的一个个破碎的、狰狞的自我。她的另一面是他，他的另一面是他们。"
+    },
+    {
+      "user": "长河吟Ev_",
+      "avatar": "https://img3.doubanio.com/icon/u64834839-10.jpg",
+      "content": "非常诡异和超现实的一部作品，摄影即使在伯格曼一贯的高水平里也算非常出色了，尤其喜欢宴会那段的拍摄手法，主客观镜头的不停转换，突兀的大特写和不知所云的谈话主题，顿生茫然和诡异。"
+    },
+    {
+      "user": "神经小帕西",
+      "avatar": "https://img3.doubanio.com/icon/u55844857-13.jpg",
+      "content": "在河边杀死小男孩那一段，汗毛都竖起来了，jon射了老婆三枪，进去冷冰冰的城堡后那一段赞到我无话可说，每一个关卡都很诡异震撼，男人捂着脸低声哭泣后直接沿着墙走到天花板上，男主被化妆后来到停尸床，欲望激吻后遭受哄堂大笑又尬又羞耻又痛苦又不解又绝望，完全捕捉到弥漫整部片的不安的情绪"
+    },
+    {
+      "user": "Luminiscencia",
+      "avatar": "https://img3.doubanio.com/icon/u116032642-54.jpg",
+      "content": "现实与想象的穿插、抽象与具象的结合，如晦涩的梦攀附在清晰的心理叙事线上。内心滋生的“不明所以的恶”所带来的焦虑令男主无法摆脱。伯格曼的恐怖片表现的是两性关系的左右为难。怀疑、否定和批判人在现实中的无能为力仍然是他作品的基本精神特质。"
+    },
+    {
+      "user": "二马究竟是啥马",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "对《假面》的又一次重复性表达，片中可以见到《小丑之夜》的过度曝光、《野草莓》的恐怖面孔和《羞耻》的孤岛夫妇、《芬妮与亚历山大》中的父亲的责罚，摄影上与剪辑上的出色掩盖不了本片老调重弹的本质，看过伯格曼电影里最晦涩、最具实验性的一部，也侧面反映了本片在编导上的混乱"
+    },
+    {
+      "user": "∞",
+      "avatar": "https://img3.doubanio.com/icon/u47551521-33.jpg",
+      "content": "毛骨悚然，艺术家的梦魇，不时会出现快速推进的特写，晚宴以360环视到人物对话的横摇快切镜头表现力十足。狼之时刻：许多人在此时逝去，许多婴儿于此时诞生，噩梦在此时侵袭我们，而如果我们醒着，我们便会害怕。"
+    },
+    {
+      "user": "Jingqiu",
+      "avatar": "https://img3.doubanio.com/icon/u1747789-21.jpg",
+      "content": "伯格曼的每部电影几乎都在自我挣扎和独白，主角往往是自私的男人及艺术家的综合体，而女人的角色往往是欲望和引诱、以及救赎和圣母的两极 ，据荣格的理论，这一遍遍的自我探索，是得有多么的自恋，而英格曼和荣格都在用不同的方法给自己找理由 | 乌曼永远这么美 | 不由自主想到卡夫卡的《城堡》加《荒原狼》最后意识流一段 | 再看三部mark好的伯格曼就收山不看了，实在受不了，以及发誓这辈子不再爱艺术家类型的人 ，吸精力"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "彻夜对坐未眠似乎是伯格曼作品中对人物饱受煎熬的焦灼心理的一种表达形式，如同《秋日奏鸣曲》般，这种方式将心理上的时间无限扩冗，令人疲乏晕眩。Johan与男孩并列面向大海那幕，紧凑的音乐与海面起伏的波纹相应和，甚为精妙。赞叹：男孩的死尸在水中的浮潜交替、黑暗中伸出的手、木偶戏的打光！"
+    },
+    {
+      "user": "Secret",
+      "avatar": "https://img1.doubanio.com/icon/u157892889-8.jpg",
+      "content": "好晦涩，大致是想表达不染尘世的艺术家内心的痛苦与恐惧吧。只记得那句台词：“豺狼时刻是许多人永远离开这个世界的时刻，是噩梦最真实的时刻，是失眠的人无法摆脱最强大的焦虑时刻，是幽灵和魔鬼最肆虐的时刻，是很多孩子出生的时刻。”"
+    },
+    {
+      "user": "丽贝卡",
+      "avatar": "https://img3.doubanio.com/icon/u153934534-4.jpg",
+      "content": "“那些美好的、邪恶的或无名的鬼魂、恶魔和精灵，突如其来地撞到我脸上，逼迫着我、刺痛着我”《豺狼时刻》或许是最接近伯格曼内心的一部电影。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "死亡呈现出两种形态，区别在于经历者和观看者，男主角看着小男孩慢慢沉下去，最终，他又在女主角的观看中被谋害，身份转变。而死亡也经历着转变，首先是一个动作，一个过程，转化成了一个状态，这个状态是消失。"
+    },
+    {
+      "user": "面包树",
+      "avatar": "https://img3.doubanio.com/icon/u52579051-5.jpg",
+      "content": "#2018上海电影节#看前几分钟猜到了是伯格曼，影片风格和取景偏好与《第七封印》太像了。豆瓣介绍说是艺术创作与疯癫的联系，对此不认可，真要讲的话，我是相信“恐惧”对象的存在的，嗯所谓的“神秘主义”。童年阴影里的衣橱小男孩——海边扼杀男孩——更多的神秘人物、更深的恐惧😱..."
+    },
+    {
+      "user": "CC",
+      "avatar": "https://img3.doubanio.com/icon/u48664485-1.jpg",
+      "content": "伯格曼说这部电影因为触及他太多东西，所以观众会觉得力度不够，我自己看的时候会觉得不明所以，又去看了一遍他在拍这部电影时想表达的东西后，会觉得，作者想要表现的，和观众得到的，会是两种不同的体验"
+    },
+    {
+      "user": "八大人觉",
+      "avatar": "https://img3.doubanio.com/icon/u1438982-6.jpg",
+      "content": "没有精分的画家不是好丈夫。通篇只有夫妻两个是真人。诡异黑色离奇的气氛做的太好了。被低估的杰作。"
+    },
+    {
+      "user": "饕餮暴血",
+      "avatar": "https://img1.doubanio.com/icon/u63140830-28.jpg",
+      "content": "#siff2018#连看两部伯格曼对我目前来说还是吃力了点，记忆点也就在于两段过曝的谋杀戏，最后城堡内的剪辑和音效的运用。至于到底讲了什么，貌似从中段片名出现的那一刻我就放弃追寻了"
+    },
+    {
+      "user": "自決",
+      "avatar": "https://img1.doubanio.com/icon/u49079483-9.jpg",
+      "content": "片段式的结构，建议与假面合看"
+    },
+    {
+      "user": "VincentP",
+      "avatar": "https://img1.doubanio.com/icon/u57523661-7.jpg",
+      "content": "真的是太真实恐怖感，被梦魇和黑暗的过去折磨，最终坠入无尽的黑暗虚无之中。"
+    },
+    {
+      "user": "小狗吻陀思妥",
+      "avatar": "https://img3.doubanio.com/icon/u138266692-2.jpg",
+      "content": "反复出现嫉妒是什么意思？杀害儿时的自己象征着杀害作为艺术家的童真？每一个城堡里的人物，那个涂脂抹粉妖冶的老女人、痴痴呆呆的傻子走上天花板的旧情人的旧情人，有什么含义？丽芙那个角色最后的自白里那句“something we don't know up from down，we get completely……”（大意）是什么意思？"
+    },
+    {
+      "user": "小匈奴人",
+      "avatar": "https://img3.doubanio.com/icon/u69649375-32.jpg",
+      "content": "可以说是伯格曼一生梦魇的集合了，女尸、评论家、童年训诫…观影过程像是一次毛骨悚然的窥视。那个伯格曼，躲在黑暗的柜子里，打开了放映机，他的世界呈现了。"
+    },
+    {
+      "user": "不打诳语",
+      "avatar": "https://img3.doubanio.com/icon/u34353180-1.jpg",
+      "content": "伯格曼真是大师，他的镜头节奏真是独一无二的，长镜头却又不限于长镜头，饭桌那场戏应该影响了不少导演，还有那个快速zoom in 同时加大光圈曝光特写来切换镜头转场真是印象深刻。当然了，电影还是看不懂的，但非常入戏了。"
+    },
+    {
+      "user": "梦游者",
+      "avatar": "https://img3.doubanio.com/icon/u91407993-1.jpg",
+      "content": "最讨厌看这种莫名其妙的艺术片！"
+    },
+    {
+      "user": "我嘴很大",
+      "avatar": "https://img1.doubanio.com/icon/u94380874-7.jpg",
+      "content": "喜欢上一个豆瓣用户，日子过的额外艰难。但我真的看不下去啊…"
+    },
+    {
+      "user": "維&尼",
+      "avatar": "https://img3.doubanio.com/icon/u53559432-4.jpg",
+      "content": "Hour of the wolf:死亡最多的时刻，出生最多的时刻。如果你还清醒，噩梦将至。"
+    },
+    {
+      "user": "...",
+      "avatar": "https://img3.doubanio.com/icon/u103674668-4.jpg",
+      "content": "两星半，大卫林奇的内陆帝国是打这来的吧"
+    },
+    {
+      "user": "何足道",
+      "avatar": "https://img3.doubanio.com/icon/u1066351-23.jpg",
+      "content": "梦和现实的分界线很难分开。我经常想bergman是不是就是在拍自己的梦啊。"
+    },
+    {
+      "user": "silencio",
+      "avatar": "https://img3.doubanio.com/icon/u132370607-13.jpg",
+      "content": "癫狂，诡异。大量面部特写加上打光构成惊悚的压迫感，短促尖锐的配乐出其不意恫吓着观众，伯格曼真的很喜欢破墙凝视。我分不清最后是臆想还是鬼魅，我个人倾向是画家杀了孩子后精神错乱，亦或是那个诡异的家族是孩子的家属为其复仇，anyway足够惊悚就够了。（不要找一个艺术家一起生活"
+    },
+    {
+      "user": "Telejoy",
+      "avatar": "https://img1.doubanio.com/icon/u65018246-69.jpg",
+      "content": "🎫01 个人观影感受总体和看《橡皮头》时类似"
+    },
+    {
+      "user": "shirlly",
+      "avatar": "https://img1.doubanio.com/icon/u2964919-9.jpg",
+      "content": " 结构简单 却直抵人心 "
+    },
+    {
+      "user": "我们敏熙",
+      "avatar": "https://img3.doubanio.com/icon/u83377263-54.jpg",
+      "content": "A，难以或者说是无法解剖该片，但非常赞同核心其实是爱。"
+    },
+    {
+      "user": "Recianov",
+      "avatar": "https://img3.doubanio.com/icon/u48967297-5.jpg",
+      "content": "影史上最长的一分钟 晚宴的长镜头 背景时钟的滴答 是因为爱你太多还是不够爱你 最终都会变成对方的样子 听说明年有电视剧版了 可看"
+    },
+    {
+      "user": "畔德",
+      "avatar": "https://img3.doubanio.com/icon/u162125876-2.jpg",
+      "content": "主观镜头和推进镜头带来的压迫感挺强的，黑白色中都看的出其厉害的灯光氛围营造"
+    },
+    {
+      "user": "Ayase II",
+      "avatar": "https://img3.doubanio.com/icon/u155648612-22.jpg",
+      "content": "有和《假面》共通的主题，主角变成画家更像伯格曼的自我投射，旧日的烈火情人和现今的安稳伴侣早也成了一个黄金公式。声效渲染的恐怖气氛，餐桌戏的旋转镜头和过曝的杀人片段，有不少后来的电影都借鉴了吧。"
+    },
+    {
+      "user": "牵猪瞎溜达",
+      "avatar": "https://img3.doubanio.com/icon/u68485264-1.jpg",
+      "content": "电影的感觉，挺美。镜头，节奏，说不出的美好。艺术家崩溃的心理。演员表演很赞。女主坐在那里，就是戏。艺术家的疯狂，文化创作的扭曲与痛苦，想起了《巴顿·芬克》，不过还要震撼：伯格曼的呓语。"
+    },
+    {
+      "user": "Future?",
+      "avatar": "https://img3.doubanio.com/icon/u50029958-10.jpg",
+      "content": "无感，乱七八糟，也没有一丝恐怖或者悬疑。让人讨厌的女主演丽芙乌曼，又来了。不会是伯格曼专属女主演吧？？"
+    },
+    {
+      "user": "洪都boy",
+      "avatar": "https://img1.doubanio.com/icon/u40744802-29.jpg",
+      "content": "果然诡异"
+    },
+    {
+      "user": "穿越人行横道！",
+      "avatar": "https://img3.doubanio.com/icon/u82240417-45.jpg",
+      "content": "Siff.2018由于通宵的KTV爬梯睡了差不多一个小时很绝望，我会重看的！！！"
+    },
+    {
+      "user": "akasa|呆",
+      "avatar": "https://img3.doubanio.com/icon/u1675208-73.jpg",
+      "content": "You see what you want to "
+    },
+    {
+      "user": "死亡一统天下",
+      "avatar": "https://img3.doubanio.com/icon/u53246416-10.jpg",
+      "content": "刚刚重看了一遍。\n苹果树没能成为自我突破的理由，在内心以另外的方式成形之后，在暴力的谜语之后，在爱之前"
+    },
+    {
+      "user": "arckys",
+      "avatar": "https://img3.doubanio.com/icon/u57469413-40.jpg",
+      "content": "其实没大明白，有些单词不认识挺影响观看的，不过单纯当恐怖片看也是十分不错的。当年大一时候跟专业课老师屁股后面要这电影看，结果一直也没个答复"
+    },
+    {
+      "user": "倒带",
+      "avatar": "https://img3.doubanio.com/icon/u1892627-2.jpg",
+      "content": "夫妻相处中，女人的心魔就是越在意越关心越爱，越不安越焦虑越看到对方看到的幻象。镜头如同钟摆晃动，喃喃自语和读秒的嘀嗒，看的人疲惫不堪，正好感同身受两个人互相折磨后的精疲力尽。"
+    },
+    {
+      "user": "醒醒我们到家了",
+      "avatar": "https://img3.doubanio.com/icon/u95151588-3.jpg",
+      "content": "上影看的忘标记了... 梦呓一样的片 镜头跟灯光很强"
+    },
+    {
+      "user": "假驴",
+      "avatar": "https://img3.doubanio.com/icon/u129145464-5.jpg",
+      "content": "伯格曼的电影很有深度。喜欢这个女主角，好美。希望有机会读到剧本。"
+    },
+    {
+      "user": "醒醒我们到家了",
+      "avatar": "https://img3.doubanio.com/icon/u95151588-3.jpg",
+      "content": "上影看的忘标记了... 梦呓一样的片 镜头跟灯光很强"
+    },
+    {
+      "user": "slow",
+      "avatar": "https://img3.doubanio.com/icon/u1033240-3.jpg",
+      "content": "居然是个惊悚片。受鬼怪侵扰诱惑的部分拍得像童话里的噩梦，和妻子相处的部分就像伯格曼平常描绘情感关系的样子，这么混搭感觉有点怪……对幻觉不同程度的深入呈现出事实的不同样貌，兼顾两层意思的交叉推进挺棒的。（又想了想觉得画家最后的选择并不是被迷惑，他撑不下去放弃了，知道自己会被鬼怪分享"
+    },
+    {
+      "user": "far辉",
+      "avatar": "https://img3.doubanio.com/icon/u51652146-3.jpg",
+      "content": "#SIFF2018#伯格曼对我还是太过了点，其实知道他在讲个什么故事，但是他的处理手法就是让低端的我云里雾里"
+    },
+    {
+      "user": "破布",
+      "avatar": "https://img3.doubanio.com/icon/u149748114-5.jpg",
+      "content": "大师拍的恐怖片都和一般人不一样，无论是从剧情还是拍摄手法上，让人感受到深深的恐惧，当然两位主演的表演也功不可没。男孩的梦魇与恶魔的模样源于他的恐惧。ps第一部全程英文字幕看下来的电影。"
+    },
+    {
+      "user": "喂你这是",
+      "avatar": "https://img3.doubanio.com/icon/u24673863-174.jpg",
+      "content": "画家站在悬崖边垂钓，海面的浮动令人晕眩。"
+    },
+    {
+      "user": "feather看虎牙",
+      "avatar": "https://img3.doubanio.com/icon/u1121561-16.jpg",
+      "content": "2018年6月16日，上海虹桥艺术中心天山影院。瘆人！完全没有看睡着，但其实情节也没完全理解。"
+    },
+    {
+      "user": "岩井俊七",
+      "avatar": "https://img3.doubanio.com/icon/u1815039-22.jpg",
+      "content": "昨天的纪录片里看到的发现自己没看过，去找竟然不容易只有个英文字幕......好些画面现在看来并不恐怖，但诡谲的氛围越看越觉得背脊发凉，比如走着走着走到天花板上去了.......2018电影节@天山重看，影院看惊悚程度增加许多，情感关系中的焦灼不安恐惧欲望的梦魇般的表达"
+    },
+    {
+      "user": "尚在影",
+      "avatar": "https://img3.doubanio.com/icon/u72385013-15.jpg",
+      "content": "伯格曼唯一惊悚恐怖题材，想看许久今日达成，后半段被吓到，精神上的恐惧大于一切，恶魔餐桌那段戏拍绝了！"
+    },
+    {
+      "user": "小蠍",
+      "avatar": "https://img3.doubanio.com/icon/u37454467-2.jpg",
+      "content": "够诡异和恐怖的一部伯格曼作品，画家的疯狂依然离不开童年创伤，离不开自己误杀小孩的意外，离不开欲望纠缠的维罗妮卡。但是真正让人恐惧的是怀孕的妻子忧心忡忡地说到夫妻相处久了就会越来越像…"
+    },
+    {
+      "user": "Dust Blessur",
+      "avatar": "https://img3.doubanio.com/icon/u83298227-1.jpg",
+      "content": "It’s a story. frame narrative的结构是关键。摄影，high contrast真的厉害. "
+    },
+    {
+      "user": "一一",
+      "avatar": "https://img3.doubanio.com/icon/u1581894-12.jpg",
+      "content": "没有看懂"
+    },
+    {
+      "user": "π混沌兽π",
+      "avatar": "https://img3.doubanio.com/icon/u2203673-20.jpg",
+      "content": "艺术家果然爱挑战观众 等时一分钟 女主是全篇唯一正常的 但也不是\nso 爱你 是保护你 还是变成你"
+    },
+    {
+      "user": "咸鱼撵死猫",
+      "avatar": "https://img3.doubanio.com/icon/u4437905-4.jpg",
+      "content": "伯格曼的恐怖片，好与众不同；有字幕的资源这么难搞"
+    },
+    {
+      "user": "谢小非日记",
+      "avatar": "https://img3.doubanio.com/icon/u138737871-60.jpg",
+      "content": "#SIFF   上海百丽宫 IMAX看这部经典,大量特写，大光比，还有刺耳音效，中部差点睡着，太丢人了。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "哥特？"
+    },
+    {
+      "user": "夏晚卿",
+      "avatar": "https://img3.doubanio.com/icon/u1100234-61.jpg",
+      "content": "画皮之下，迷城之间，逢魔之时。"
+    },
+    {
+      "user": "品客",
+      "avatar": "https://img3.doubanio.com/icon/u1562273-545.jpg",
+      "content": "nb"
+    },
+    {
+      "user": "唐顿庄园",
+      "avatar": "https://img3.doubanio.com/icon/u83579469-1.jpg",
+      "content": "女主角的演技真棒，伯格曼真是大师。"
+    },
+    {
+      "user": "空自知",
+      "avatar": "https://img1.doubanio.com/icon/u142837001-8.jpg",
+      "content": "siff重温。粗浅理解：艺术家鄙弃琐碎平庸的现实，同时明白是自己失去生活的热情与能力。周围一切却一方面将他拖入现实，一方面以其身份逼迫他沉迷虚幻。旧情人是已逝的对生活的热情，已然看透一般的炫耀式自省是另一种逃避方式，在这两边，也就是在现实和幻想间无处容身，镜面破裂折射出的只有虚无"
+    }
+  ]
+}

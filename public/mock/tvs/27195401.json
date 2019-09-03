@@ -1,0 +1,1161 @@
+{
+  "title": "大小谎言 第二季",
+  "url": "https://movie.douban.com/subject/27195401/",
+  "rate": "9.0",
+  "id": "27195401",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558544696.jpg",
+  "info": [
+    "导演: 安德里亚·阿诺德",
+    "编剧: 大卫·E·凯利 / 莉安·莫里亚蒂 / 马修·廷克",
+    "主演: 瑞茜·威瑟斯彭 / 妮可·基德曼 / 梅丽尔·斯特里普 / 谢琳·伍德蕾 / 佐伊·克罗维兹 / 劳拉·邓恩 / 亚历山大·斯卡斯加德 / 亚当·斯科特 / 伊恩·阿米蒂奇 / 凯瑟琳·纽顿 / 罗宾·薇格特 / 凯伦 科尔曼 / 梅琳·当吉 / 詹姆士·塔珀 / 道格拉斯·史密斯 / 达比·坎普 / 杰弗里·诺灵 / 凯蒂·菲德斯通 / 克洛伊·科尔曼 / 莫·麦克雷 / 拉里·苏利文 / 卡梅伦·克罗维蒂 / 艾薇·乔治 / 尼古拉斯·克罗维蒂 / 克里斯·阿基利诺 / 霍梅洛·洛佩兹",
+    "类型: 剧情 / 悬疑 / 犯罪",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "首播: 2019-06-09(美国)",
+    "季数: 12",
+    "集数: 7",
+    "单集片长: 46分钟",
+    "又名: 小谎言(港) / 美丽心计(台) / 小谎大事"
+  ],
+  "desc": "今年斩获8项艾美奖的大热美剧《大小谎言》正式续订第二季，妮可·基德曼、瑞希·威瑟斯彭确认回归主演并担任执行制片，David E. Kelley也将继续担任创作人和编剧，同样是7集。谢琳·伍德蕾、劳拉·邓恩、佐伊·克拉韦茨、亚当·斯科特等主演也有望回归，让-马克·瓦雷不再担任导演，奥斯卡得主安德里亚·阿诺德(《美国甜心》《鱼缸》)接手执导。\n                                    \n                                　　第二季将会更加深入挖掘这些角色的故事，探索恶意的谎言、友谊的持久性、婚姻的脆弱性以及恶毒残暴的家庭教育。关系会被磨损，忠诚会被侵蚀，情感与身体上的伤害也将现形。",
+  "members": {
+    "director": {
+      "name": "安德里亚·阿诺德 Andrea Arnold",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1560222131.11.jpg"
+    },
+    "cast": [
+      {
+        "name": "瑞茜·威瑟斯彭 Reese Witherspoon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49827.jpg"
+      },
+      {
+        "name": "妮可·基德曼 Nicole Kidman",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p619.jpg"
+      },
+      {
+        "name": "梅丽尔·斯特里普 Meryl Streep",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p614.jpg"
+      },
+      {
+        "name": "谢琳·伍德蕾 Shailene Woodley",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p42217.jpg"
+      },
+      {
+        "name": "佐伊·克罗维兹 Zoë Kravitz",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27287.jpg"
+      },
+      {
+        "name": "劳拉·邓恩 Laura Dern",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1426959690.18.jpg"
+      },
+      {
+        "name": "亚历山大·斯卡斯加德 Alexander Skarsgård",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26844.jpg"
+      },
+      {
+        "name": "亚当·斯科特 Adam Scott",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26623.jpg"
+      },
+      {
+        "name": "伊恩·阿米蒂奇 Iain Armitage",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1495687808.16.jpg"
+      },
+      {
+        "name": "凯瑟琳·纽顿 Kathryn Newton",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34606.jpg"
+      },
+      {
+        "name": "罗宾·薇格特 Robin Weigert",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20208.jpg"
+      },
+      {
+        "name": "凯伦 科尔曼 Kelen Coleman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/psDe3xxPS6ZUcel_avatar_uploaded1363313306.22.jpg"
+      },
+      {
+        "name": "梅琳·当吉 Merrin Dungey",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1556455723.06.jpg"
+      },
+      {
+        "name": "詹姆士·塔珀 James Tupper",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8115.jpg"
+      },
+      {
+        "name": "道格拉斯·史密斯 Douglas Smith",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1407361164.89.jpg"
+      },
+      {
+        "name": "达比·坎普 Darby Camp",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1488088653.09.jpg"
+      },
+      {
+        "name": "杰弗里·诺灵 Jeffrey Nordling",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p26830.jpg"
+      },
+      {
+        "name": "凯蒂·菲德斯通 Katie Featherston",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40575.jpg"
+      },
+      {
+        "name": "克洛伊·科尔曼 Chloe Coleman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1488088726.65.jpg"
+      },
+      {
+        "name": "莫·麦克雷 Mo McRae",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1494318767.8.jpg"
+      },
+      {
+        "name": "拉里·苏利文 Larry Sullivan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13130.jpg"
+      },
+      {
+        "name": "卡梅伦·克罗维蒂 Cameron Crovetti",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516353640.86.jpg"
+      },
+      {
+        "name": "艾薇·乔治 Ivy George",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1491231872.67.jpg"
+      },
+      {
+        "name": "尼古拉斯·克罗维蒂 Nicholas Crovetti",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516353746.95.jpg"
+      },
+      {
+        "name": "克里斯·阿基利诺 Chris Aquilino",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1553161226.15.jpg"
+      },
+      {
+        "name": "霍梅洛·洛佩兹 Homero Lopez",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517815940.31.jpg"
+      },
+      {
+        "name": "普娜·贾甘纳坦 Poorna Jagannathan",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469442980.99.jpg"
+      },
+      {
+        "name": "菲丝·玛格丽特·基德曼-厄本 Faith Margaret Kidman-Urban",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564654181.49.jpg"
+      },
+      {
+        "name": "桑迪·萝丝·厄本 Sunday Rose Urban",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564654243.08.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2556031484.jpg?",
+        "src": "http://vt1.doubanio.com/201908311533/931cbfc324f7ec868aaca6e1315d4aea/view/movie/M/402460902.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2544853772.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2520819198.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2557738835.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2562939116.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "卡特秦",
+      "avatar": "https://img3.doubanio.com/icon/u43466355-10.jpg",
+      "content": "梅姨的演技真是一个打五个。。"
+    },
+    {
+      "user": "悟饭婆婆",
+      "avatar": "https://img3.doubanio.com/icon/u63922576-5.jpg",
+      "content": "《Cold little heart》响起的那一刻，所有曾经的感觉都回来了。"
+    },
+    {
+      "user": "向阳南木",
+      "avatar": "https://img1.doubanio.com/icon/u132539655-7.jpg",
+      "content": "梅姨这个角色太瘆人了！！她一出场，其他人都显得委屈巴巴的是怎么回事。。。"
+    },
+    {
+      "user": "HAL",
+      "avatar": "https://img3.doubanio.com/icon/u64119509-5.jpg",
+      "content": "最后五分钟的戏，我已经看到你梅左手艾美右手金球了。"
+    },
+    {
+      "user": "满舒克的满",
+      "avatar": "https://img3.doubanio.com/icon/u175452322-1.jpg",
+      "content": "某些梅粉不要尬吹了 捧一踩五？ 光你梅喝咖啡那段就十分刻意又做作"
+    },
+    {
+      "user": "Xavière",
+      "avatar": "https://img3.doubanio.com/icon/u3023031-74.jpg",
+      "content": "第一季的撕逼是让道给悬疑的，第二季大抵是毒婆婆大战小黄鸡了，辟头骂人家矮，杀气腾腾一句so who are we planning to kill。Celeste怀恋Perry、Bonnie自咎，或将落入梅姥阵营。配曲贴切，DILF们颜值高，换了导演镜头依然闪闪闪。精彩婊演，不容错过，每周锁定《海边的碧池》。"
+    },
+    {
+      "user": "雪碧阿童木🍊",
+      "avatar": "https://img1.doubanio.com/icon/u54654221-28.jpg",
+      "content": "“Monterey Five”，女团名字都给你起好了//剧情是真水，演技是真绝。第三季的可能性又松口了，对故事没什么兴趣了，但这个卡司拍什么看什么拍几季看几季。"
+    },
+    {
+      "user": "蔓鱼蒲烧",
+      "avatar": "https://img3.doubanio.com/icon/u141794100-11.jpg",
+      "content": "上一季的女人们像浪，可以温柔平静，也可以汹涌澎湃，冲刷着礁石，击碎一切；这一季的女人们像海，可以容忍包容，也可以掩盖痛苦，拥抱着彼此，共度难关。"
+    },
+    {
+      "user": "淋",
+      "avatar": "https://img1.doubanio.com/icon/u75215757-17.jpg",
+      "content": "这次，女人们最大的对手是一位悲痛的母亲"
+    },
+    {
+      "user": "Enigma",
+      "avatar": "https://img3.doubanio.com/icon/u55972806-5.jpg",
+      "content": "梅梅短短两句“You are very short！”“I find little people to be untrustworthy.”就拉开了这一季的撕逼序幕！ Shailene更是用母章鱼梗告诉你漂亮的女人们都不好惹！请保持安全距离！期待之后这几个女人更加汹涌的战争，真是提前争夺艾美的好戏！"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "1.第1季，塞莱斯特被家暴，却认为是自己的错；\n第2季，对于派瑞的死，她仍然认为是她的错。\n施暴者不觉得有错，反倒是受害者反省自己；\n施暴者不去看心理医生，反倒是受害者总是去看心理医生，太魔幻了。\n2.艾比第1季想出卖第一次，第2季又不想上学。\n这的确不对，可是玛德琳不懂沟通，只是强制反对。\n这并不能让艾比理解她，只会让她更加叛逆。\n3.理解玛丽爱子心切，但无法认同她盲目支持儿子，甚至因为塞莱斯特不和她一起尖叫就生气，党同伐异，是非不分。\n4.塞莱斯特总是说梦话，早晚会说漏嘴。\n第1集最后她不小心在梦中说：杀了他！\n玛丽连忙问：要杀谁？\n5.一条暗线，塞莱斯特和玛德琳在录口供。\n也许这是未来的时间线，警方已经知道真相。\n正如《盲山》，女主一怒之下杀了渣男，并没有让一切好转，反而掉进了深渊。"
+    },
+    {
+      "user": "吃坏肚子的猪",
+      "avatar": "https://img1.doubanio.com/icon/u155689392-8.jpg",
+      "content": "舒肤佳的声音一出来我真是梦回cmbyn……\n我被梅姨吓到了"
+    },
+    {
+      "user": "云无心",
+      "avatar": "https://img3.doubanio.com/icon/u4332532-12.jpg",
+      "content": "梅姨就像一把手术刀一样，碾压maddie这个'小个子'话痨。也会像一把利刃一样，切开大家不愿说出的真相。这是一场1v5的女性战争！"
+    },
+    {
+      "user": "插头",
+      "avatar": "https://img1.doubanio.com/icon/u2073013-29.jpg",
+      "content": "第一季还有点故事情节的话，第二季就？？！？！就看表演？！！？！excuse me?!?!"
+    },
+    {
+      "user": "maximunmad",
+      "avatar": "https://img3.doubanio.com/icon/u167947233-22.jpg",
+      "content": "I hope every woman knows that we are on the same side and stop against each other！和上一季很不一样 没有了那么锋利的矛盾棱角 开始娓娓道来 在那件事发生以后 所有人都被波及影响 而且造成的影响不会停止 没有尽头 一直到死亡 我看的时候也是有这样的感受 不知道接下来的走向 不知道何时是个尽头 这就是生活吧 "
+    },
+    {
+      "user": "Julychild",
+      "avatar": "https://img1.doubanio.com/icon/u53592125-7.jpg",
+      "content": "个人觉得梅姨的表演用力过猛"
+    },
+    {
+      "user": "Surgeon",
+      "avatar": "https://img1.doubanio.com/icon/u126813437-7.jpg",
+      "content": "CMBYN 没有买断舒肤佳的版权么？在这里听到很违和啊。再有Big Littte Lies这么大的剧怎么不另外请人再制作呢…"
+    },
+    {
+      "user": "放意肆志",
+      "avatar": "https://img3.doubanio.com/icon/u195566742-3.jpg",
+      "content": "风光无限的背后总暗藏着肮脏龌龊，糟糕生活下的不够完整的人又如何担负起孩子的成长？没有充足的准备下的生孩子就真的只是在繁衍后代，仅此而已了"
+    },
+    {
+      "user": "Forky333",
+      "avatar": "https://img1.doubanio.com/icon/u65073574-7.jpg",
+      "content": "梅姨的表演吓着我了"
+    },
+    {
+      "user": "melody",
+      "avatar": "https://img3.doubanio.com/icon/u3952476-2.jpg",
+      "content": "太精彩了！还是老配方，熟悉的味道！请cele多做点和perry在一起的噩梦！"
+    },
+    {
+      "user": "playellow",
+      "avatar": "https://img3.doubanio.com/icon/u63565450-40.jpg",
+      "content": "怎么那么惨啊，渣男把女的祸害了，不管是性侵还是家暴，然后女的要背负一辈子，还可能要坐牢。"
+    },
+    {
+      "user": "Wstar",
+      "avatar": "https://img1.doubanio.com/icon/u130958564-7.jpg",
+      "content": "梅姨这个也太厉害了吧，碾压玛德琳的气势+诡异的尖叫，这是王者段位1v5的存在吧，不知道女团能不能扛得住....."
+    },
+    {
+      "user": "水蜜桃汽水",
+      "avatar": "https://img3.doubanio.com/icon/u11020421-2.jpg",
+      "content": "我之前觉得第一季完结了就打住就好，不过看了第一集梅姨和Reese的飚戏觉得还是有看头，期待后面梅姨让姐妹五人组“梅法呼吸”😂。"
+    },
+    {
+      "user": "绿豆之",
+      "avatar": "https://img1.doubanio.com/icon/u43000180-38.jpg",
+      "content": "怎么都说梅姨吊打啊，我觉得妮可才是第一演技"
+    },
+    {
+      "user": "维生素B",
+      "avatar": "https://img3.doubanio.com/icon/u57478055-64.jpg",
+      "content": "nathan真是画风清奇，老婆郁闷不理他然后他找前妻的现任让人带自己老婆去吃饭顺便开导？这是什么操作？被前妻现任婉拒之后还骂人家坏？？？"
+    },
+    {
+      "user": "Dessert",
+      "avatar": "https://img3.doubanio.com/icon/u2693048-35.jpg",
+      "content": "梅姨的演技就是……她看你一眼你都觉得浑身起鸡皮疙瘩，她嘴角微微一笑你都心里慎得慌，害怕她把你生吞了……我觉得她要报仇，完虐蒙特利5人组……"
+    },
+    {
+      "user": "42",
+      "avatar": "https://img3.doubanio.com/icon/u45238478-11.jpg",
+      "content": "第二集结尾响起了上一季的那首《The Wonder of You》，啊... 瞬间沦陷，懂得人看到这里一定会为之动容。"
+    },
+    {
+      "user": "花色苷",
+      "avatar": "https://img1.doubanio.com/icon/u58820217-8.jpg",
+      "content": "完全丢失了第一季的气质，泯然众人矣。小说文本赋予剧作丰富的隐藏信息荡然无存……沦为大量排铺对白来推进剧情的无聊产物（并且，剧情本身也没什么实质性进展）。每个角色都变得平白无趣，歇斯底里，虽然保留了美学的面皮，但已经失去了悬疑的结构，而后者是第一季的高星最为核心的部分。和真探第二季如出一辙"
+    },
+    {
+      "user": "YWEEKLY",
+      "avatar": "https://img3.doubanio.com/icon/u45274191-4.jpg",
+      "content": "不明白为什么还会比第一季分高，完全就是水准不在线啊，面对着梅姨这张脸到底是谁在尬吹？？？"
+    },
+    {
+      "user": "Leon&C",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "Meryl Streep是人类之光"
+    },
+    {
+      "user": "曹屎蛋",
+      "avatar": "https://img1.doubanio.com/icon/u45868602-8.jpg",
+      "content": "火箭阿姨101，冲鸭！"
+    },
+    {
+      "user": "Jasmine_Yuqi",
+      "avatar": "https://img3.doubanio.com/icon/u48130345-2.jpg",
+      "content": "拜托不要让Ed心碎了好吗！😢"
+    },
+    {
+      "user": "Supreme小宇宇",
+      "avatar": "https://img3.doubanio.com/icon/u54783024-6.jpg",
+      "content": "梅梅的几场戏都非常惊艳，“老娘21提就是和你们这些2提4提没有提的人们不一样！”"
+    },
+    {
+      "user": "Debbie王",
+      "avatar": "https://img3.doubanio.com/icon/u2892458-44.jpg",
+      "content": "没有冲突和前进事件，都在追溯第一季发生过的内容，以及主人公的情绪病展现过度，追不下去。"
+    },
+    {
+      "user": "我和我的小毛衣",
+      "avatar": "https://img3.doubanio.com/icon/u93208688-4.jpg",
+      "content": "剧情已经精简到拍到谁谁开始烦的感觉了，吵起来一点儿铺垫都没有，互相又要很懂的问对方一些很傻逼的问题，不过就第二季这种傻乎乎的女性观影视角体验也是真的很有意思"
+    },
+    {
+      "user": "大陆郭碧婷",
+      "avatar": "https://img3.doubanio.com/icon/u147819830-22.jpg",
+      "content": "打五星的是没看过美剧吗，有妮可有梅姨又怎样，剧本不行，平平无奇。"
+    },
+    {
+      "user": "Morty.",
+      "avatar": "https://img1.doubanio.com/icon/u169163930-9.jpg",
+      "content": "这一季每个人都有自己的秘密和自己的问题，喜欢上了Renata"
+    },
+    {
+      "user": "梵顿",
+      "avatar": "https://img3.doubanio.com/icon/u140116141-26.jpg",
+      "content": "观感十分不错，在经历了第一季事件后的这几位女人们的形象变得更加立体且丰富，两年之后能再次看到这群女人们的故事，十分开心。"
+    },
+    {
+      "user": "克里斯托福",
+      "avatar": "https://img3.doubanio.com/icon/u63435023-14.jpg",
+      "content": "这季彻底颠覆了上季徐徐道来的节奏，变得异常drama和“粉丝向”，希望不要收尾得太难看，毕竟蒙特利的海景房实在实在是太梦幻了。"
+    },
+    {
+      "user": "SkylineTo",
+      "avatar": "https://img3.doubanio.com/icon/u158431744-2.jpg",
+      "content": "《宠儿》只是三个女人一台戏就够精彩了，《大小谎言》有六个，我已经坐等每周的《恶婆婆智斗贵妇团》了"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "这剧比“绝望主妇”强的地方，就在于削减了所有无谓的戏剧性，而只有在梅姨加入后，撕逼才真正变成了撕人。谎言就像雪球，但谎言也带来了女性之间的友谊。如果要颁发最佳表演奖，毫无疑问是给妮可——爱她所有的柔弱与坚强、冷艳与冰霜，护犊的母亲不要太狂！"
+    },
+    {
+      "user": "洛",
+      "avatar": "https://img3.doubanio.com/icon/u83043057-4.jpg",
+      "content": "第六集结尾 妮可摆脱萎靡不振的状态 高呼这是我自己的战役，让我自己来面对。简直强心剂。btw同情renata一分钟，很好的一个人，被垃圾丈夫毁了人生 嗷嗷嗷 蒙特利五人组组团过日子就很好。就像第一季的片尾，有钱的女人们和孩子们，简直完美画面"
+    },
+    {
+      "user": "TcMbL",
+      "avatar": "https://img3.doubanio.com/icon/u60862694-4.jpg",
+      "content": "WTF，，，，，张力尽失，强行说教\n每次MS一张嘴你就在想，这个演员的台词怎么这么长，她说这些有意义么，，，，，，"
+    },
+    {
+      "user": "夏奈呀！",
+      "avatar": "https://img3.doubanio.com/icon/u16249062-770.jpg",
+      "content": "换了导演果然不行，剪辑乱来，剧情肥皂倾向严重，且严重拖沓，剧中好几个角色就是在泥沼中止步不前，对故事毫无任何贡献和加分。三星半吧，看最后一集。"
+    },
+    {
+      "user": "Ga____Ga",
+      "avatar": "https://img3.doubanio.com/icon/u2232016-2.jpg",
+      "content": "还是喜欢第一季更多一些，第一季我都看了2遍了，这部跳着看的。。"
+    },
+    {
+      "user": "Cassie",
+      "avatar": "https://img3.doubanio.com/icon/u182399228-3.jpg",
+      "content": "第六集！简直全程高能！！！妮可演技太棒了！"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "和《奥丽芙·基特里奇》那种内化于角色心理的戏剧性相比，《大小谎言》以一系列添油加醋的情节、囿于偏执的人物塑造所榨取的戏剧性显得低级、恶意无比。这部剧究竟是一部意图明确的女性剧，还是一部连创作者也未曾意识到的女性剥削剧呢？两种观点似乎都可从第二季中得到举证。★★☆"
+    },
+    {
+      "user": "april44",
+      "avatar": "https://img3.doubanio.com/icon/u148124754-2.jpg",
+      "content": "第6集！！！！前面压抑的火山开始爆发，我能为这里面的几个女主泪流满面，因为她们嘴巴里、眼泪里好像是替我的愤怒在诉说，所有的伤害背后都是难以愈合的伤口。但是这是我自己的战争，让我自己去面对，妮可基德曼说出来的时候，我也在心里对自己说。"
+    },
+    {
+      "user": "四道风",
+      "avatar": "https://img1.doubanio.com/icon/u4199724-7.jpg",
+      "content": "五美加油，打到梅姨，梅姨的角色就是太无脑宠溺儿子，才导致儿子变态人格。"
+    },
+    {
+      "user": "斯普特尼克",
+      "avatar": "https://img1.doubanio.com/icon/u172812010-117.jpg",
+      "content": "想捶死Meryl Streep"
+    },
+    {
+      "user": "晚上吃得有点饱",
+      "avatar": "https://img1.doubanio.com/icon/u162591037-9.jpg",
+      "content": "整个气氛都在蓄力，然后所有都爆发在一个点"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "别惹女人，否则你不知道你是怎么死的。\n别惹太多女人，否则让你生不如死。"
+    },
+    {
+      "user": "咯咯精",
+      "avatar": "https://img3.doubanio.com/icon/u41608208-13.jpg",
+      "content": "台词和剪辑都不如s1，Jane的角色太鸡肋了，Bonnie的部分不构成悬疑竟然就毫无魅力。我的renata呜呜呜。how I wish Arnold "
+    },
+    {
+      "user": "榴莲煎大饼",
+      "avatar": "https://img3.doubanio.com/icon/u151689549-3.jpg",
+      "content": "梅姨面前，妮可就是只可怜楚楚小猫咪，依旧颜值爆表那种"
+    },
+    {
+      "user": "暖",
+      "avatar": "https://img3.doubanio.com/icon/u19615070-16.jpg",
+      "content": "观望一下，第二季是完全不同的质感了，梅姨一出马就有种碾压式婆媳剧的感觉。"
+    },
+    {
+      "user": "Sophie  Z",
+      "avatar": "https://img3.doubanio.com/icon/u2081801-91.jpg",
+      "content": "206里Bonnie对她妈妈控诉“I resent you for”的时候爆哭…207里她妈妈最后说i am sorry的时候我哭得更厉害了…还有Celeste, Madeline, Mary Louis, Renata...每个角色在亲密关系里的挣扎感都太鲜活了，这是我见过的最好的女性群像作品。"
+    },
+    {
+      "user": "KAPoOo",
+      "avatar": "https://img3.doubanio.com/icon/u14407242-56.jpg",
+      "content": "众碧池中最喜欢renata 不够那么聪明 却够火爆够果敢 一人怒怼全世界 破事一箩筐也从不落下为闺蜜站队 扛着重担却从不愿分担给伙伴 来来去去处理都是风火一个人 如果有第三季 希望她处境能好些！"
+    },
+    {
+      "user": "张天翼",
+      "avatar": "https://img1.doubanio.com/icon/u1960791-37.jpg",
+      "content": "五美和梅姨的演技真是太舒服了，几场法庭戏简直不舍得眨眼。剧本也好，Renata的台词写得最不好，单调。梅姨的台词最好。一直最担心的是Madeline跟Ed，幸好最后给了她如此圆满的结局。"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "终于等到你，没了帅气的亚历山大，梅姨硬核插入。还是喜欢这几位实力加颜值的女演员，但张力和剧情差强第一季。结局也太伟光正，似乎没第三季了。"
+    },
+    {
+      "user": "翻滚吧！蛋堡",
+      "avatar": "https://img3.doubanio.com/icon/u7542909-93.jpg",
+      "content": "妮可和梅姨的法庭戏太太太太太好看了！不过没想到最后眼泪竟然是为Madeline飙的"
+    },
+    {
+      "user": "老珂",
+      "avatar": "https://img1.doubanio.com/icon/u4529884-8.jpg",
+      "content": "虽然第二季已经没有原著的依托，但依然写出了一个绝佳的剧本，对原有角色人设的稳妥延续是至关重要的一点。加大邦妮戏份，把原著里邦妮悲催童年在第二季以闪回方式丰满呈现，加上邦妮对自己无心之失把闺蜜的家暴老公当成报复母亲的一个镜像来折射，解刨这个人物复杂的心理，让观众起到奇妙的回味化学作用。新增梅姨的加盟，让第二季掀起一阵阵高潮，把质疑并试图挖掘儿子死亡真相的母亲身份，和向儿媳争夺孙子抚养权的婆婆身份，汇聚一身。蒙特利五美，加上一个婆婆，以及五美各自家庭、事业及感情的波澜，再次打造了实至名归的艾美奖盛誉！"
+    },
+    {
+      "user": "Collier",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "在脱离小说之后，继续保持着上一季的高水准，这已经不是单纯的撕X，经历过过失杀人的事件后，五位母亲在如何平衡婚姻、子女和内疚感中的生活挣扎，Madeline外遇终于东窗事发，和丈夫Ed的关系得到考验；女强人Renata事业蒸蒸日上，没想到丈夫的败家突如其来；Celeste摆脱了家暴，但是婆婆的纠缠不休让她伤口始终无法愈合；Bonnie终日沉浸在罪恶感中无法自拔，无法倾诉的压抑感蓄势待发；单亲母亲Jane以为超越了创伤的痛，渴望新的感情，但是身体的恐惧挥之不去。最后，静候梅姨大杀四方。"
+    },
+    {
+      "user": "沭",
+      "avatar": "https://img3.doubanio.com/icon/u3199036-20.jpg",
+      "content": "madeline两任一碰面就吵架也太好笑了吧！ 女人在一起撕逼就是比谁更bitchy，他们两个大男人撕就是比谁更幼稚！ 好笑！ "
+    },
+    {
+      "user": "Danny",
+      "avatar": "https://img3.doubanio.com/icon/u2583895-32.jpg",
+      "content": "梅毒的演技，简直不能想象，影后齐集，还是被她吊打。好想看有一天，于阿姨和梅毒一同飙戏，到底哪家强？"
+    },
+    {
+      "user": "😕",
+      "avatar": "https://img3.doubanio.com/icon/u47042347-33.jpg",
+      "content": " 歌好好听 妮可好美 编剧太能憋了 前面几集越看越难看 结果大招憋到倒数第二集才放出来 还好强迫症如我弃了之后又捡回来了 妮可真的会发光吧"
+    },
+    {
+      "user": "Mona Lishark",
+      "avatar": "https://img3.doubanio.com/icon/u1998052-303.jpg",
+      "content": "梅姨(和贝尔的)演技(都)是那种冰融化在水里，如果不仔细趴上看，就看不出演员本来样子的痕迹。"
+    },
+    {
+      "user": "黄信滚",
+      "avatar": "https://img3.doubanio.com/icon/u1424002-31.jpg",
+      "content": "比起第一季的情绪累积推向高潮，本季更娓娓道来波澜不惊。最后一集看得好解气啊"
+    },
+    {
+      "user": "cat",
+      "avatar": "https://img1.doubanio.com/icon/u46150219-1678.jpg",
+      "content": "meryl streep is so overrated 演技造作 塑造的人物毫无真实感 白瞎了一群演什么像什么的女人"
+    },
+    {
+      "user": "不吃馒头争口气",
+      "avatar": "https://img3.doubanio.com/icon/u17046536-112.jpg",
+      "content": "编剧质量还是一如既往的高 经历了第一季事件后 这几个妈妈们的形象更加立体丰富 第一集刚出场就拉开了撕逼的序幕 坐等后面矛盾升级 剧情发展"
+    },
+    {
+      "user": "Nyle",
+      "avatar": "https://img1.doubanio.com/icon/u154872620-27.jpg",
+      "content": "唯一的败笔就是“梅姨”的部分"
+    },
+    {
+      "user": "摩羯座的猫",
+      "avatar": "https://img1.doubanio.com/icon/u3257622-8.jpg",
+      "content": "刚看完第一集，依旧保持上一季的水准。梅里尔斯特里普的加盟，真是添彩。每个演员表现非常好。故事走向平稳，画面和配乐也保持了一贯风格。很值得推荐。"
+    },
+    {
+      "user": "岬",
+      "avatar": "https://img3.doubanio.com/icon/u1745245-721.jpg",
+      "content": "大人們的壓力尚是海平面下有跡可循的暗湧，孩子們的壓力才是更沉默的深不見底。"
+    },
+    {
+      "user": "安堡暗得莫西",
+      "avatar": "https://img1.doubanio.com/icon/u127107718-9.jpg",
+      "content": "一如既往的剧情紧凑好看，梅姨怎么可以演得这么像高智商神经质老太婆啊哈哈哈哈哈哈"
+    },
+    {
+      "user": "向阳",
+      "avatar": "https://img3.doubanio.com/icon/u181214070-1.jpg",
+      "content": "第一集梅姨的演技就可以直接给艾美奖了。第二集四大女主集体飙戏，有伤心的哭，有发疯，简直了，又要横扫了吗？       挺佩服这样的编剧的，没有了原著的指引，仍然可以将线伏的这样好。剧集过半，看起来很多无关的剧情都聚到了一起，暗流涌动，每一集都在抓人，每一集都有一个小爆点，不论是影后之间的飙戏，还是五个主角各自的心事，高低起伏，应有尽有。不似某些剧惯于把所有drama堆到最后两集一次爆发，让人觉得一下子过于紧张而不够过瘾。期待结局。最后的两场法庭审问真是紧张刺激，这一季不像上一季有一个谜团能一直萦绕，只有一个谎言，一个事实在不停地出现，惊喜度不如上一季，婆媳的飙戏倒是挺棒的，第三季可能会烂，希望及时收住，要不就得贡献出更棒的剧本。"
+    },
+    {
+      "user": "♤♡◇♧",
+      "avatar": "https://img3.doubanio.com/icon/u84529817-5.jpg",
+      "content": "没了悬念，配角群——就是第一季里把开头3分钟观众胃口吊得死死的那群审问室里神采飞扬的事逼——戏份全无，即便有了梅姨的助力也没有第一季那么好看了"
+    },
+    {
+      "user": "然鹅",
+      "avatar": "https://img1.doubanio.com/icon/u58255452-17.jpg",
+      "content": "梅儿的戏真是让人移不开眼！！最后轻拍Nicole背时眼神让人毛骨悚然\rso…who r we planning to kill?\r------2019/7/22晚看完了-------\r想打六星 脑子里词海翻涌还是只想吼出一句太好看了！！！如果是看完第二季再去的Monterey感觉一定不一样吧"
+    },
+    {
+      "user": "放开那个浪味仙",
+      "avatar": "https://img3.doubanio.com/icon/u2014360-183.jpg",
+      "content": "暗潮涌动的小镇，凶案的阴影吞噬着每个人的生活。极为精彩的女性群像，六大女主一起飙戏真的太爽了！"
+    },
+    {
+      "user": "约兰达",
+      "avatar": "https://img1.doubanio.com/icon/u38614998-7.jpg",
+      "content": "I'm gonna miss these ladies."
+    },
+    {
+      "user": "Nin",
+      "avatar": "https://img1.doubanio.com/icon/u6826420-307.jpg",
+      "content": "哭了 年度最佳 nicole要拿最佳女主了 meryl要拿最佳女配了  导演为什么叙事风格进步这么大"
+    },
+    {
+      "user": "xxx",
+      "avatar": "https://img3.doubanio.com/icon/u115309027-6.jpg",
+      "content": "第二集最后半分钟太感人了"
+    },
+    {
+      "user": "Fayest",
+      "avatar": "https://img3.doubanio.com/icon/u47124439-4.jpg",
+      "content": "四集了，感觉还没有进入状态，比第一季差好多……"
+    },
+    {
+      "user": "Nadja",
+      "avatar": "https://img1.doubanio.com/icon/u45435702-19.jpg",
+      "content": "虽然不如上一季那么迫切想看下去，但非常非常走心，每个女性看了以后应该都会有共鸣"
+    },
+    {
+      "user": "羊男的乌鸦",
+      "avatar": "https://img3.doubanio.com/icon/u1008847-64.jpg",
+      "content": "有些谎言是为了自己 有些谎言是为了别人 有些谎言你不得不说 更多的是 谎言如同雪球 要用很多谎言去遮盖谎言。谎言让我们成为了朋友 是彼此之间的羁绊"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "4.0。"
+    },
+    {
+      "user": "你的盒饭掉了",
+      "avatar": "https://img3.doubanio.com/icon/u2085950-75.jpg",
+      "content": "终于完结。真是各人都有各自的修行啊"
+    },
+    {
+      "user": "幻",
+      "avatar": "https://img1.doubanio.com/icon/u1106931-78.jpg",
+      "content": "啊。。。Shailene Woodley的脸肿成小猪一样了都"
+    },
+    {
+      "user": "vivi",
+      "avatar": "https://img3.doubanio.com/icon/u2129993-253.jpg",
+      "content": "4.5 我觉得不是很满意的地方是，这些女主角们把第一季里很多小孩子的戏份都给抢了。编剧和演技都全程在线，请一定要有第三季。"
+    },
+    {
+      "user": "饮歌",
+      "avatar": "https://img3.doubanio.com/icon/u35790692-21.jpg",
+      "content": "有生之年能看到这样的卡司演对手戏真的非常过瘾，非常知足。"
+    },
+    {
+      "user": "Later",
+      "avatar": "https://img3.doubanio.com/icon/u49994457-32.jpg",
+      "content": "终于回归啦歌单也可以跟着更新了 啊啊啊27分钟舒肤佳的mystery of love一秒带我回到🍑的夏天！喜欢Nicole喜欢Reese!梅姨这角色是单口演员嘛Can't complain. Actually I can和I don't mean it in a negative way. Maybe I do哈哈哈 这季都没讲啥 Bonnie的故事线太无聊了 这结尾？要有下一季么"
+    },
+    {
+      "user": "雪崩之时",
+      "avatar": "https://img1.doubanio.com/icon/u51765682-8.jpg",
+      "content": "看到第二集，决定弃剧。人物的个性和氛围有了非常微妙而令人不适的转变，各人的个性开始被削减成抓马的共性，而第二季根本就是集抓马之大成。叙述手法的精准也一泻千里。GoT的先例应该已经告诉过我：建立在小说上的剧，一旦脱离原著就有进入胡写的危险。不看了。"
+    },
+    {
+      "user": "YiQiao",
+      "avatar": "https://img3.doubanio.com/icon/u53689416-73.jpg",
+      "content": "像第一季作品的仿制衍生 并且是个做作的惊悚版本//严肃提问 为什么这些美剧在脱离原始文本的基础后大部分会越来越难看？"
+    },
+    {
+      "user": "bobo",
+      "avatar": "https://img3.doubanio.com/icon/u71025704-5.jpg",
+      "content": "六个女人一台戏，看着她们如何的开撕。。。梅姨第一集演技爆表，绝望的神经质老母亲。。。"
+    },
+    {
+      "user": "不想做神仙鱼",
+      "avatar": "https://img3.doubanio.com/icon/u2664977-2.jpg",
+      "content": "谎言像雪球越滚越大，小谎造成大错，大谎造成更大的错，并呈几何级放大，所有人都从这一个点开始失去了各自的完整生活。不断的闪回当然能理解是创伤后当事人逃不开的日常，但整整两季不间断用同一种模式轰炸对观者而言也实在有一点疲劳，更好奇阿诺德原本想拍成的是什么样子了。最后两集挽回了不少印象。7/10"
+    },
+    {
+      "user": "草威",
+      "avatar": "https://img3.doubanio.com/icon/u1443025-15.jpg",
+      "content": "这部剧的编剧和很大一部分国产电视剧的编剧达成了某种共识，就是剧中这些小日子过得有滋有味的人都不用上班。"
+    },
+    {
+      "user": "JIN",
+      "avatar": "https://img3.doubanio.com/icon/u4347027-25.jpg",
+      "content": "确实不如第一季，没有了多线叙事和平行剪辑的悬念。前面都比较温吞水，还好最后一集大结局挽回一点，一些角色的展开丰富还是比较合理的，最后也让故事更圆满了。整体也还是不错，特别是几位女主表演太棒，飙戏很过瘾。感觉又要横扫明年艾美金球提名了……"
+    },
+    {
+      "user": "阿根廷艾",
+      "avatar": "https://img3.doubanio.com/icon/u146343326-5.jpg",
+      "content": "E大作为魅力反派，让妻子又恨又爱。刚看了E大的一个电影，叫 敌人妻，哈哈哈   喜欢他的去看看😍😍"
+    },
+    {
+      "user": "菓、",
+      "avatar": "https://img3.doubanio.com/icon/u53683900-36.jpg",
+      "content": "公关出来的矫情伪神剧"
+    },
+    {
+      "user": "阿迷",
+      "avatar": "https://img1.doubanio.com/icon/u123786431-18.jpg",
+      "content": "开始索然无味了。梅姨演过了，变态偏执得不像常人。邦尼一直在崩溃的拍摄手法没有上一季拍摄简的崩溃拍得好，邦尼的崩溃开始剖析她童年阴影，但还是显得太做作了。从邦尼毫不犹豫就推e大下楼，就可以看出她不是这种自我怀疑懦弱的人，所以第二部性格明显分裂了。梅姨演一个失去儿子的失心疯，这个弱点那么明显，五美团没有想法子去攻击么，毕竟上一季人都杀了。这一季沉迷于拍痛苦，可是其实她们心里没多少痛苦，为什么要一直在镜头里刻意放大。上一季渣男家暴男用天降正义的说法毫无破绽，这一季的自我怀疑和投降感拍得太过了。"
+    },
+    {
+      "user": "鱼的魔法",
+      "avatar": "https://img3.doubanio.com/icon/u182474317-1.jpg",
+      "content": "无聊，没什么剧情，全是故弄玄虚家长里短"
+    },
+    {
+      "user": "faya",
+      "avatar": "https://img3.doubanio.com/icon/u1491868-6.jpg",
+      "content": "真的两星没法再高了。第一季基本上算是烂尾而且故弄玄虚了一整季，第二季竟然看了一集产生了无法忍的感觉。每一个人物都让人厌恶，一个个用弗洛伊德理论设计出来的人物，缺乏真正的灵魂，她们怒的时候你不觉得有震撼，她们痛的时候更像是惺惺作态。尤其那个被强奸后生出私生子的女人、一副我有心理疾病我被毁掉了的创伤妄想症患者，还有尼可，完全是不知活在哪个世纪的被侮辱与损害的女主，第二季竟然又添加了一个杀人后不断被良心谴责性格大变的，我的天，这些美式俗套太让人厌烦了。悬疑部分也做的如此薄弱。"
+    },
+    {
+      "user": "迷宝",
+      "avatar": "https://img3.doubanio.com/icon/u49422504-21.jpg",
+      "content": "算高开低走吧，前两集吊尽胃口，后面突然开始强行搞women/mather power的那一套，强行反转，以及修复童年阴影和救赎神马的，非常无趣，不算上乘了，和第一季的精致没法比"
+    },
+    {
+      "user": "Doublebitch",
+      "avatar": "https://img3.doubanio.com/icon/u1917438-180.jpg",
+      "content": "这两年那么多女性题材的英美剧 只有这部我服"
+    },
+    {
+      "user": "Justina",
+      "avatar": "https://img3.doubanio.com/icon/u53083392-11.jpg",
+      "content": "撕逼团队加入梅姨，我天，能不好看吗？！"
+    },
+    {
+      "user": "JacTik",
+      "avatar": "https://img3.doubanio.com/icon/u99166544-1.jpg",
+      "content": "我真的超爱大小谎言，这是我看过的最舒服的美剧，没有之一。完全没有走大部分美剧全程高能，整个世界观砸向观众的路线，重点人物，关键主线，情感挣扎，娓娓道来，就这么简单，真的很舒服的观剧体验！"
+    },
+    {
+      "user": "ReeZan",
+      "avatar": "https://img3.doubanio.com/icon/u44232292-85.jpg",
+      "content": "一直是当喜剧看的，所以一直最appreciate剧中的幽默感，这一季开头还欣慰有增无减，可惜这样结尾太无力了"
+    },
+    {
+      "user": "Panda的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u53485894-4.jpg",
+      "content": "1.原想在第七集播出后完整追看第二季，结果却拖到八月底才观剧；2.个人感觉第一季更有趣味，各种插科打诨式的采访挺有意思；第二季的剧情走向则更加严肃现实，着重讲述五个家庭面对各自遭遇的生活问题（看最后一集结尾感觉应该还会有第三季？）；3.一如既往地在影视剧里听到自己喜欢的歌曲会为此感到惊喜（<Bad Reputation><Mystery of Love><RunningUpThatHill>……）；4.越渐感觉影视作品的力量是多么有限，即使这么多年诞生了那么多优秀作品，依然没能“阻止”这个世界每天发生各种糟糕的事情，曾经好些天真的想法逐渐被复杂的现实击碎瓦解，只留下破裂的雏形在脑海中苟延残喘。……"
+    },
+    {
+      "user": "hawua",
+      "avatar": "https://img3.doubanio.com/icon/u45312368-10.jpg",
+      "content": "婚姻的存在就是一个bug"
+    },
+    {
+      "user": "水水",
+      "avatar": "https://img3.doubanio.com/icon/u1159968-1.jpg",
+      "content": "Happy ending "
+    },
+    {
+      "user": "ASuEN",
+      "avatar": "https://img3.doubanio.com/icon/u139937792-12.jpg",
+      "content": "今年各大IP相继玩脱后，甚至降低了对大小谎言的期许，毕竟这一季缺少了原著的支撑，但是这一季却是意料之中的优秀意料之外的的惊喜 ，节奏优秀角色塑造优秀配乐也优秀，真的太优秀了。每个角色在这一季中都在不停地suffer不停地自我救赎，谎言就是Monterey Five的友谊真的太好哭了"
+    },
+    {
+      "user": "Imp",
+      "avatar": "https://img1.doubanio.com/icon/u4648386-47.jpg",
+      "content": "nicole kidman真的是美不胜收，神一样的存在。"
+    },
+    {
+      "user": "indicent time",
+      "avatar": "https://img1.doubanio.com/icon/u51061132-59.jpg",
+      "content": "想念让马克瓦雷，这一季有点过于沉重了，失去了第一季的灵气，看的比较辛苦，但演员的表演个个一等一，增色不少"
+    },
+    {
+      "user": "自然醒Rita",
+      "avatar": "https://img1.doubanio.com/icon/u64208736-8.jpg",
+      "content": "一口气把后四集看完了，妮可基德曼美得让人移不开眼睛，斯特里普的加入增色不少，最后一集在法庭上的交锋很精彩。这一季比上一季深入，第一季是把光鲜亮丽的生活撕开了一个大口子，这一季伸向暴力的更深处，说不清的爱恨交织。为了维持生活的美好假象，人们制造出的大小谎言让人几乎窒息，但最后发现没有任何事情、关系是完美的，人们要背负很多沉重活下去。Although all is fucked up, we can still live on for love, but no more lies. 非常喜欢这部剧处理记忆和梦境的闪回，像在水中听到声音那般遥远模糊、不可捉摸、没有方向。BTW，生活在像剧里这样的海边小镇是梦想。"
+    },
+    {
+      "user": "维纶吃牛蛙",
+      "avatar": "https://img1.doubanio.com/icon/u48773692-8.jpg",
+      "content": "从第一集来看是续貂了，画风很公共台。女人不撕逼就不是大小谎言了，梅姨的演技水准就在那里，但不足以成为加分理由。基德曼的人设，怎么又再次陷入强奸和做爱分不清的状态了呢？总之，和首播集比起来，高下立判。"
+    },
+    {
+      "user": "久野",
+      "avatar": "https://img3.doubanio.com/icon/u132977487-21.jpg",
+      "content": "太有人情味了，真的想为每个角色飙眼泪。对于家暴男Perry的刻画也很喜欢，没有一概否定他的存在，他爱过温柔过体贴过，只是没有抑制住自己体内的恶魔。Celeste和婆婆的角色太精彩了，愿你不再有白发人送黑发人的痛苦，可我拒绝被要求将孩子让给你。and最好的一对还是Madeline和Ned，太幸福了，让我们一起再制定不会再背弃的誓言吧，这一切都将是新的开始！"
+    },
+    {
+      "user": "404了",
+      "avatar": "https://img3.doubanio.com/icon/u71108776-65.jpg",
+      "content": "“那个谎是我们的友谊”，不输第一季的，更侧重那个谎言使五个女人联结又反噬到每个人身上然后分崩离析的生活，也挖了一些前史。那个人是死了，但他的死反噬着每一个人，梅姨气势汹汹自以为是的讨伐也很精彩，台词一级棒好吧，女人为难起女人来，真的是一个比一个狠。这季我最喜欢的是renata的线，就算破产了老娘还想东山再起，也能给女儿同学一人买一头北极熊hh，最后一集她用棒球棍砸坏垃圾老公的飞机模型那一段太解气了！！你让我们破产了，还和保姆搞在了一起。让我失去了钱，让女儿失去了家，而你居然还能拥有玩具？去你大爷的吧。"
+    },
+    {
+      "user": "Enjoy🌈Rachel",
+      "avatar": "https://img3.doubanio.com/icon/u48566275-382.jpg",
+      "content": "可谓完美的一季。不知道自己要什么才会挣扎，但看清了自己要什么就一定要做出选择，选择离开家庭或是留下，选择放弃爱情或是重新开始。一位女性导演，六位女性主角，最好的女权系列剧集。"
+    },
+    {
+      "user": "谷穗",
+      "avatar": "https://img3.doubanio.com/icon/u60624180-13.jpg",
+      "content": "this is probably the best ending "
+    },
+    {
+      "user": "幸运+++",
+      "avatar": "https://img3.doubanio.com/icon/u52258502-44.jpg",
+      "content": "一口气刷完，有点过瘾"
+    },
+    {
+      "user": "再起不能",
+      "avatar": "https://img1.doubanio.com/icon/u2617429-348.jpg",
+      "content": "第一季的Zoe Kravitz：我超🉑️；第二季的Zoe Kravitz：请不要再切她的镜头了谢谢！"
+    },
+    {
+      "user": "13shadesofblue",
+      "avatar": "https://img3.doubanio.com/icon/u44762177-110.jpg",
+      "content": "某两只makeout bgm是我闪马我死亡"
+    },
+    {
+      "user": "Q·ian·Sivan",
+      "avatar": "https://img1.doubanio.com/icon/u86835059-19.jpg",
+      "content": "「I can't complain. Actually, I can. My son is dead.」「You all right, dear? Another nightmare? Yes? It's all right. So... who are we planning to kill?」「People are never really gone. 'Cause they live on in the hearts of those they leave behind.」"
+    },
+    {
+      "user": "我要变腿精",
+      "avatar": "https://img3.doubanio.com/icon/u129767574-2.jpg",
+      "content": "梅姨的设定。。有点刻意了"
+    },
+    {
+      "user": "盲忙",
+      "avatar": "https://img3.doubanio.com/icon/u2206329-131.jpg",
+      "content": "梅姨那一声仰天长啸让人没有一丝丝防备，仿佛在说老娘来啦！导演是故意的吧，女演员们终于找到机会堂而皇之地和梅姨撕逼啦，仿佛在说忍你很久啦！总觉得威瑟斯彭Ex很喜欢她的现任，各种挑逗调戏，已经脑补一万字毒舌小贱攻和忠犬壮汉受啦！"
+    },
+    {
+      "user": "又又",
+      "avatar": "https://img1.doubanio.com/icon/u3051458-238.jpg",
+      "content": "前面好难看啊，每一集都像憋着那么难受，直到最后一集终于舒了口气，最后一集挽回一星。"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "依旧很牛啊，这一季走向还是肯有看头。"
+    },
+    {
+      "user": "小偷|隐忍沉定",
+      "avatar": "https://img1.doubanio.com/icon/u1286081-138.jpg",
+      "content": "女性角色的心理分析全面，不同类型轮番上阵，结局合为一体"
+    },
+    {
+      "user": "Hushhash",
+      "avatar": "https://img1.doubanio.com/icon/u2693448-68.jpg",
+      "content": "begin with lies, end with honesty.  "
+    },
+    {
+      "user": "EUTRIV",
+      "avatar": "https://img3.doubanio.com/icon/u190701890-4.jpg",
+      "content": "四集弃，神经而狗血，第一季招牌砸了个稀烂。"
+    },
+    {
+      "user": "Johny",
+      "avatar": "https://img3.doubanio.com/icon/u2063963-185.jpg",
+      "content": "每个人都面对真实的自己，挺好的。"
+    },
+    {
+      "user": "养猫的女士",
+      "avatar": "https://img3.doubanio.com/icon/u61646397-16.jpg",
+      "content": "太会讲故事了，虽然是日常的家长里短，但细节把控得太到位了，节奏不紧不慢。而且我总算深深的体会到演员的价值，人家就该值那么多。"
+    },
+    {
+      "user": "IH",
+      "avatar": "https://img1.doubanio.com/icon/u192566834-7.jpg",
+      "content": "看到Bonnie的confession那里落泪了"
+    },
+    {
+      "user": "凹凸",
+      "avatar": "https://img3.doubanio.com/icon/u60689518-41.jpg",
+      "content": "far better than Season 1 心疼劳拉邓恩 这么好的表演 明年艾美也只有给梅梅洗脚的份"
+    },
+    {
+      "user": "W²y",
+      "avatar": "https://img3.doubanio.com/icon/u177364742-1.jpg",
+      "content": "觉得梅姨这个角色设定有点用力过度 觉得太过偏激了...😑"
+    },
+    {
+      "user": "炊飯器_",
+      "avatar": "https://img3.doubanio.com/icon/u158147247-1.jpg",
+      "content": "梅姨的每一句话就像是一把把小刀插进Monterey Five的心里，面对突如其来的发问和怀疑，真的像Madeline说的那样：我们需要团结。又像是Celeste在海边对Madeline说的那样：The lie is the friendship."
+    },
+    {
+      "user": "小溪笑嘻嘻",
+      "avatar": "https://img3.doubanio.com/icon/u3851077-41.jpg",
+      "content": "虽然每个人的故事框架和结尾完全是预料之中，比起上一季套路了很多，但是架不住几位姐姐演技好发自肺腑啊～女人～"
+    },
+    {
+      "user": "荞麦安娜娜娜",
+      "avatar": "https://img1.doubanio.com/icon/u3888049-37.jpg",
+      "content": "每个人都有自己的业障因果，谁不是在挣扎中求生存呢？多数成年人的问题还是和童年经验有关，原生家庭的影响太强大。想要过好自己的生活，就要努力脱离原生家庭，找到真正的自我，同时也尽量理解他人吧。塞莱斯特棒棒哒，妈妈为了孩子是可以变身超级英雄的。邦尼对内森说从没爱过他，我就知道她接下来要做什么了。"
+    },
+    {
+      "user": "Dorje",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "演技上线"
+    },
+    {
+      "user": "tankdream",
+      "avatar": "https://img1.doubanio.com/icon/u4128805-27.jpg",
+      "content": "总结：嘴巴管不住惹的祸。。。。真的没必要第三季了 见好就收吧"
+    },
+    {
+      "user": "浑浑噩噩",
+      "avatar": "https://img3.doubanio.com/icon/u50210563-6.jpg",
+      "content": "蒙特利五美，oh ，不，应该是六美，漏了梅姨   "
+    },
+    {
+      "user": "above",
+      "avatar": "https://img1.doubanio.com/icon/u4559373-49.jpg",
+      "content": "最后两集终于不再无聊平淡了"
+    },
+    {
+      "user": "Dita",
+      "avatar": "https://img3.doubanio.com/icon/u2813899-734.jpg",
+      "content": "不如第一季那么吸引人 一度看不下去 忍着看到第六集才觉得慢慢好看了！看到妮可反杀真的是太爽了！要不真是梅法梅天！"
+    },
+    {
+      "user": "FMIUL",
+      "avatar": "https://img3.doubanio.com/icon/u137226993-12.jpg",
+      "content": "前五集的我：我真的不在乎Bonnie的PTSD还有玛德琳和他老公是否离婚还有Renata是否破产，我只要第一季既神秘又抽丝剥茧的感觉。后两集的我：呜呜呜法庭戏哭死了好感动，玛德琳和她老公的婚姻相处也很值得学习，Renata好可爱喜欢了，Bonnie的内心独角戏好触动啊，Celest和Jane也都好坚强好妈妈。最透彻的一句话：The lie is the friendship。期待下一季虽然看起来好像没啥好拍了。"
+    },
+    {
+      "user": "下午三點",
+      "avatar": "https://img1.doubanio.com/icon/u50611324-117.jpg",
+      "content": "最喜欢最后的婚礼，让人看到婚姻二字的希望"
+    },
+    {
+      "user": "冰镇西瓜橘子水",
+      "avatar": "https://img3.doubanio.com/icon/u65400706-1.jpg",
+      "content": "完全神仙阵容  第一集就渐入佳境  期待梅姨的角色后期发挥 感觉会是戏眼"
+    },
+    {
+      "user": "D K U N",
+      "avatar": "https://img3.doubanio.com/icon/u32530580-301.jpg",
+      "content": "妮可在这里的演技已经可以耀眼过梅姨了"
+    },
+    {
+      "user": "长耳朵走来走去",
+      "avatar": "https://img3.doubanio.com/icon/u2030456-46.jpg",
+      "content": "女性之间的情谊很动人。"
+    },
+    {
+      "user": "睿蕊",
+      "avatar": "https://img3.doubanio.com/icon/u1978997-1.jpg",
+      "content": "最后两集拯救全剧"
+    },
+    {
+      "user": "AshBoydSwan",
+      "avatar": "https://img3.doubanio.com/icon/u67630591-71.jpg",
+      "content": "垃圾白男DEK和JMV 欺负女性导演 恶臭"
+    },
+    {
+      "user": "Big fish",
+      "avatar": "https://img3.doubanio.com/icon/u154894555-1.jpg",
+      "content": "看梅姨真的享受太爽了吧"
+    },
+    {
+      "user": "kış🌈uykusu",
+      "avatar": "https://img3.doubanio.com/icon/u64061866-31.jpg",
+      "content": "支持妮可基德曼再拿艾美视后。\n唯一的不足是音乐没有第一季好听了，果然妈妈都没有Chloe一样的好歌品。\n"
+    },
+    {
+      "user": "扬花点点",
+      "avatar": "https://img3.doubanio.com/icon/u1678272-6.jpg",
+      "content": "神仙打架，影后同台飙戏"
+    },
+    {
+      "user": "容安",
+      "avatar": "https://img3.doubanio.com/icon/u2321998-41.jpg",
+      "content": "最后两集有争夺抚养权的主线，剧情一时之间紧凑很多，其他几条线的穿插不喧宾夺主。权游你怎么不跟人家学学呢"
+    },
+    {
+      "user": "小二",
+      "avatar": "https://img1.doubanio.com/icon/u64300838-9.jpg",
+      "content": "演技堪称完美，梅姨真的是婊到极致，看得恨得让人去抽电视屏幕。剧本充分地表现了什么叫不信地狱，谎言带来的折磨又多么让人崩溃，而人又绝对不能崩溃。请集体提名，不过Emmy奖瞎了的时候多……第二季感觉比第一季更耐看一些。"
+    },
+    {
+      "user": "vanvan",
+      "avatar": "https://img3.doubanio.com/icon/u2118656-12.jpg",
+      "content": "ED是最好男人无疑。第二季没有第一季来得抓人和紧凑，但是给人无限压抑感。老戏骨加入，抽丝剥茧，老怕哪个地方又要露馅，谎言被拆穿。故事线比较零散，婆婆一会探查儿子死因真相，一会抢监护权。人物方面围绕每个人的心魔，不管是原生家庭带来还是创伤事件导致。答案就是和解，放下。连同罪恶感也一并去除。挺好的结尾。只是观影过程老觉得第二部有点没事找事。"
+    },
+    {
+      "user": "Quill",
+      "avatar": "https://img3.doubanio.com/icon/u1832189-375.jpg",
+      "content": "早知道就只看最后一集...."
+    },
+    {
+      "user": "SynonymGurl🍂",
+      "avatar": "https://img3.doubanio.com/icon/u88322614-71.jpg",
+      "content": "本来想说最后一集真的够intense但也够healing 结果最后给我当头一棒\n这季中间部分过于拖沓了 不过开头和收官都算是不错吧 以及NO MORE SEASON 3 plzzzzzzzz "
+    },
+    {
+      "user": "黄小旭",
+      "avatar": "https://img3.doubanio.com/icon/u1778442-26.jpg",
+      "content": "梅姨来的作用就是让她们别抱团，重新撕！每个人生活的一地鸡毛弄的我鼻子样痒痒，却又打不出喷嚏，难受。"
+    },
+    {
+      "user": "DoRight",
+      "avatar": "https://img3.doubanio.com/icon/u2875096-6.jpg",
+      "content": "想到第一季整部也很讨厌，主要在结尾联手杀死坏男人不用得到惩罚这点加分。没想到第二季又在不断纠结这问题，一遍一遍陷入泥淖烦死了。采用的反派也是梅姨这种演什么是什么的大咖，每个眼神台词看了就很恐惧厌恶的代入感。结尾又是婆婆看了儿子混蛋被感化，于是女性拥抱彼此达到大和解，这种泰勒佩里的黑人电影糟粕，干嘛搞得女性群体这样不体面？其他几个新加的角色和感情纠结都无聊腻烦"
+    },
+    {
+      "user": "Eveyのn个晴天",
+      "avatar": "https://img3.doubanio.com/icon/u119316126-10.jpg",
+      "content": "上一季通过凶案悬疑以人性弱点为引层层抽丝剥茧，雾里看花，这一季是以Monteray Five的谎言建立起的友谊为基础，女人们如何与自己与家庭达成和解，渡化伤痛。虽然可能没有第一季的悬疑感剧本那么引人入胜，但依然胜在情感细腻，慢热之后最后一集是全部的爆发点。每一个人的演技都太好辽，梅姨就等手捧金球艾美好了。梅姨深夜独自去妮可家要她不要“撒谎”，庭审结束后黯自离开座位…到最后，导演会让你看到每个人内心其实都是破碎的，人性复杂却美妙。所以当妮可让孩子们去告别奶奶、Bonnie妈妈临终向她道歉……却突然又能在片刻的黯然之后获得意外的一点温暖，编剧这次的伎俩在于，在恰到好处时突然冲破你的情感防线，决堤之后再让你平静。（在看：第一集竟然有cmbyn的配乐omg…and梅姨牛批！）"
+    },
+    {
+      "user": "夜潇狂",
+      "avatar": "https://img3.doubanio.com/icon/u57833598-2.jpg",
+      "content": "好剧还是好剧，撕逼场面也是更上一层楼。然而没有第一季那种蒙在鼓里又恍然大悟的震撼了。"
+    },
+    {
+      "user": "vicky",
+      "avatar": "https://img3.doubanio.com/icon/u195335395-4.jpg",
+      "content": "剧情没有分那么高"
+    },
+    {
+      "user": "SleepWalker",
+      "avatar": "https://img3.doubanio.com/icon/u44564069-12.jpg",
+      "content": "在人物关系的处理上，是比第一季好的，原因在于戏剧张力下降，因此表达的难度增加，但各组人物的互动仍然细腻而巧妙地勾连在一起，但问题也同时出现，由于五美已经保持了一种动态平衡般的团结，本季“反派”仅梅姨一位，剧情便显得力不从心，如上季般继续注水，实为遗憾。梅姨的表演教科书再添一课，可恨的可怜之人，越是烦她越是赞叹，被妮可扇大嘴巴子十足解气。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "第一季或许太过于完美，这再多一季多一集都是破坏那种气氛。弃了。"
+    },
+    {
+      "user": "唐小万",
+      "avatar": "https://img3.doubanio.com/icon/u2011896-62.jpg",
+      "content": "更喜欢第二季"
+    },
+    {
+      "user": "猫司令",
+      "avatar": "https://img3.doubanio.com/icon/u2272123-250.jpg",
+      "content": "好看的呢！"
+    },
+    {
+      "user": "甜野",
+      "avatar": "https://img3.doubanio.com/icon/u54730204-115.jpg",
+      "content": "最有爱的两个角色，歌单小公主克洛伊，宽厚稳定的卷毛小王子"
+    },
+    {
+      "user": "gegemoon",
+      "avatar": "https://img3.doubanio.com/icon/u2447648-26.jpg",
+      "content": "耽搁了好久终于把第二季补完了，比起第一季更近了一步，编剧刻画人物还是很厉害的。梅姨这个恶婆婆应该能拿艾美了吧我的妈呀。"
+    },
+    {
+      "user": "metaphor17",
+      "avatar": "https://img1.doubanio.com/icon/u3430573-69.jpg",
+      "content": "虽然不喜欢毒瘤梅，但在这部里演绎得还算精彩。第一季导演让-马克·瓦雷没有回归有点遗憾"
+    },
+    {
+      "user": "素衣染天香",
+      "avatar": "https://img3.doubanio.com/icon/u1140911-23.jpg",
+      "content": "因为一个谎言而聚集到一起的女人们在第二季里经历了折磨之后，最后大结局是去面对现实了。但因为梅姨这个角色的出现。以及邦妮母亲的到来，让我们看到的是第一季里几大主演身上带着的原生家庭带来的隐患和后果。包括那个该死早死的男主。"
+    },
+    {
+      "user": "是的是的是的",
+      "avatar": "https://img3.doubanio.com/icon/u70855287-11.jpg",
+      "content": "本来就不应该有第二季 换了导演更难受 为了撕逼而撕逼 为了冲突而冲突 跟第一季完全不是一个档次行吗 结局什么啊 弘扬真善美吗 我可要骂人了"
+    },
+    {
+      "user": "Creep_",
+      "avatar": "https://img3.doubanio.com/icon/u3688098-112.jpg",
+      "content": "还是有所克制，不太爽，为了主线很多角色都是草草点缀。不过梅姨还是太厉害了。我猜结尾绝对不是自首。"
+    },
+    {
+      "user": "luerdelphic",
+      "avatar": "https://img3.doubanio.com/icon/u2082256-13.jpg",
+      "content": "虽然有些人物比如邦尼稍有错位感，有一些剧情也较上一季刻意，但两大影后飙戏真的有点吓人。最后一集很精彩！"
+    },
+    {
+      "user": "比如",
+      "avatar": "https://img3.doubanio.com/icon/u2209723-73.jpg",
+      "content": "我觉得比上一季水 不停闪回 梅姨阴阳怪气的戏份还蛮好笑的 renata非常解气 但一切也不过是归咎于上一代 有些简单了"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "磨叽了半天终于找到了点儿合理存在，但仍是毫无必要的一季。"
+    },
+    {
+      "user": "西帕克",
+      "avatar": "https://img3.doubanio.com/icon/u49097402-173.jpg",
+      "content": "讲述如何走出上一季的伤痛，可惜已没多少惊艳感了。第一季谎言开始谎言结束，治愈了一些，但更多是伤痛。第二季最后啥问题都没有了，然后就自首了？整体上弱了太多。"
+    },
+    {
+      "user": "Asa",
+      "avatar": "https://img3.doubanio.com/icon/u1381050-12.jpg",
+      "content": "最后一集非常精彩，但5-7集的精彩集中在Celeste，为了后三集我还是推荐第二季，但同时也是这一季的遗憾：Madeline和Ed着墨太少，他们对自己和对方的认知和剖析是准确的，所以他们都还有继续相处的空间，原本是应该更精彩的戏份。Bonnie线戏份多却有点突兀和游离，她父母的情节比较败笔，Nathan也沦为背景板，小朋友们尤其是Ziggy Chole出镜屈指可数，浪费了这么多极佳的小演员。第一季非常精细又有无限留白的文本在这一季不复存在，编剧偷懒，ost也没了灵性。当然看到最后我知道这一季的重点确实就在Bonnie，在Celeste，在Perry和Mary Louise，在如何say farewell to your past，最后Maddie一家、Renata和Jane身上也走向这个主题"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u1236291-798.jpg",
+      "content": "不算特别水但仍然感觉没有必要。当时期待Andrea Arnold太天真了。"
+    },
+    {
+      "user": "Spade",
+      "avatar": "https://img3.doubanio.com/icon/u64302994-11.jpg",
+      "content": "其实已经无甚新意了，整体气氛比第一季要更为压抑，故事丧失悬疑元素后，节奏变慢了。理解讲故事的人层层堆叠是想一口气来个大高潮，但前期铺垫太过窒息，让人几度想直接弃剧。在每一个濒临破灭的脆弱女人的面前，梅姨是最出彩的，她值2颗星。"
+    },
+    {
+      "user": "ink.",
+      "avatar": "https://img3.doubanio.com/icon/u166262912-1.jpg",
+      "content": "换了女性导演后 视角更加的细腻 但相较第一季 没有了悬疑的烘托剧情稍显薄弱 第一季的剪辑上真的太巧妙惊艳了。当然了 整体来说依旧是非常优质的精良制作 第二季能保持水准真的已经非常不易了 希望剩下的三集 带来更多惊喜。"
+    },
+    {
+      "user": "W I l l",
+      "avatar": "https://img3.doubanio.com/icon/u2284728-193.jpg",
+      "content": "梅姨的演技啊"
+    },
+    {
+      "user": "阿喵喵喵",
+      "avatar": "https://img3.doubanio.com/icon/u184277690-4.jpg",
+      "content": "美剧真的有个可怕的地方，持续久，一两年出一季，再看的时候物是人非。那时和你追剧的人在何方。\n结局过于圆满，所有人都和自己和解，得到了内心的宁静，但是现实从来不会这样。"
+    },
+    {
+      "user": "waking王小心",
+      "avatar": "https://img3.doubanio.com/icon/u1282605-6.jpg",
+      "content": "只要有表演痕迹和情节套路，再有趣的故事和再精彩的表演也构不成五星片。"
+    },
+    {
+      "user": "呆瑞克",
+      "avatar": "https://img3.doubanio.com/icon/u49837094-76.jpg",
+      "content": "妮可的简历更新：（增加）曾在剧中愤怒掌掴奥斯卡金像奖得主梅丽尔·斯特里普。"
+    },
+    {
+      "user": "长宁公房老阿姨",
+      "avatar": "https://img3.doubanio.com/icon/u51082233-32.jpg",
+      "content": "I'm just happy that hannah's mom is no longer a 同妻 in ohio and now a strong independent judge in california"
+    },
+    {
+      "user": "Jadrugg",
+      "avatar": "https://img3.doubanio.com/icon/u152018602-10.jpg",
+      "content": "最后一集是近几年来看过的剧集里面最完整、最到位、最爽的结局。"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "梅姨这是来抢孩子的吗？明明是抢戏orz还好妮可在梅姨面前稳住了，不容易。"
+    },
+    {
+      "user": "是假发不是桂",
+      "avatar": "https://img3.doubanio.com/icon/u45908198-4.jpg",
+      "content": "看到第三集，觉得已经沦为依靠抓马来保持张力的肥皂剧了。\n"
+    },
+    {
+      "user": "子夜",
+      "avatar": "https://img3.doubanio.com/icon/u3267803-22.jpg",
+      "content": "我觉得浪费了好几个小时的时间，看了一部女性视角自弹自唱的肥皂剧，还是没主线，没高潮，没故事，连颜值都变低下了的那种。"
+    },
+    {
+      "user": "Andrei_Han",
+      "avatar": "https://img3.doubanio.com/icon/u49226222-4.jpg",
+      "content": "如果有下一季希望可以换成群戏，Bonnie的角色还有很多可以发挥，而且人设也是最特别的最酷的一位。Celest真的是太美，美到不知道讲什么好，妮可基德曼这气质就没法说啊。Madeline而作为一个核心把五位女性连结在一起，同时也是一位出色的母亲，睿智的妻子。Jane在下一季也是可以有更多可能，甚至生活的态度和本人的气质。最后想要把the best actress award 给暴躁Renata，she is so fucking perfect! I love her so fucking much! No more fucking words can express my fucking love to her!!!"
+    },
+    {
+      "user": "玉琉苏",
+      "avatar": "https://img3.doubanio.com/icon/u48992194-2.jpg",
+      "content": "一个重新结婚宣誓，一个终于决定离婚，一个争得了孩子抚养权，一个重新接受爱情，一个放过被母亲控制的人生，终于自由。说出了最大的谎言以后，还会有第三季吗"
+    },
+    {
+      "user": "Lily Liu",
+      "avatar": "https://img3.doubanio.com/icon/u33538142-1.jpg",
+      "content": "绝对女主群戏大爆发！"
+    },
+    {
+      "user": "伊夏",
+      "avatar": "https://img3.doubanio.com/icon/u30123013-41.jpg",
+      "content": "很多人觉得这一季不够好看了，其实没有，它也可以被理解为暗黑的，冷的，撕破脸的this is us。怎么说呢，生活逼人上梁山，但你还得学着怎么下去。第七集的法庭戏好看，细想又幼稚，我们互相捅刀子，也得互相疗愈。"
+    },
+    {
+      "user": "demon玥",
+      "avatar": "https://img3.doubanio.com/icon/u102885466-1.jpg",
+      "content": "大团圆结局吗？\nMadeline去自首的话ed不是又觉得受到欺骗，刚和好又要失望了。"
+    },
+    {
+      "user": "SUN",
+      "avatar": "https://img1.doubanio.com/icon/u1295915-68.jpg",
+      "content": "意犹未尽，想看第三季"
+    },
+    {
+      "user": "绿蘑菇",
+      "avatar": "https://img3.doubanio.com/icon/u87497353-5.jpg",
+      "content": "啥几把玩意儿 Arnold别来掺和中产"
+    },
+    {
+      "user": "后知后觉又成球",
+      "avatar": "https://img3.doubanio.com/icon/u2011727-4.jpg",
+      "content": "第二集好狗血，各种巧合各种展开，出场人物也有点多，先打个四星再继续观望。"
+    },
+    {
+      "user": "不要焦虑浣熊妹",
+      "avatar": "https://img3.doubanio.com/icon/u2481045-203.jpg",
+      "content": "演员没的说，但是丢掉了第一季的从容和暗涌流动。美剧最硬伤的一点就是用力过猛，生怕人转台，生拉硬凑让所有矛盾集中爆发，破产和偷情败露得莫名其妙。"
+    },
+    {
+      "user": "DONT_BOTHER",
+      "avatar": "https://img3.doubanio.com/icon/u61019177-5.jpg",
+      "content": "看到第二集了，一切崩塌的太快了。为了崩塌而崩塌。我看这个有点水土不服。\n看完了，还可以吧。"
+    },
+    {
+      "user": "子酉",
+      "avatar": "https://img1.doubanio.com/icon/u1097777-77.jpg",
+      "content": "YOU DON'T OWN ME"
+    },
+    {
+      "user": "Cut the world",
+      "avatar": "https://img3.doubanio.com/icon/u4216000-10.jpg",
+      "content": "一群奥斯卡影后撕逼真的让人看得意犹未尽啊，为毛只有7集啊"
+    }
+  ]
+}

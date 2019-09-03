@@ -1,0 +1,1040 @@
+{
+  "title": "夏目友人帐",
+  "url": "https://movie.douban.com/subject/27166442/",
+  "rate": "8.0",
+  "id": "27166442",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546745948.jpg",
+  "info": [
+    "导演: 大森贵弘 / 伊藤秀树",
+    "编剧: 绿川幸 / 村井贞之",
+    "主演: 神谷浩史 / 井上和彦 / 高良健吾 / 小林沙苗 / 泽城美雪 / 石田彰 / 藤村步 / 村濑步 / 伊藤美纪 / 伊藤荣次 / 堀江一真 / 佐藤利奈 / 木村良平 / 菅沼久义 / 雪野五月 / 川澄绫子 / 樋口晓里 / 冈村明美 / 黑田崇矢 / 长岛雄一 / 松山鹰志 / 下崎纮史 / 知桐京子 / 岛本须美",
+    "类型: 剧情 / 动画 / 奇幻",
+    "官方网站: natsume-movie.com",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "上映日期: 2019-03-07(中国大陆) / 2018-09-29(日本)",
+    "片长: 104分钟",
+    "又名: 夏目友人帐：结缘空蝉 / 剧场版 夏目友人帐～缘结空蝉～ / 夏目友人帐 剧场版 / 夏目友人帐 电影版 / Natsume's Book of Friends The Movie: Tied to the Temporal World"
+  ],
+  "desc": "在人与妖怪之间过着忙碌日子的夏目，偶然与以前的同学结城重逢，由此回忆起了被妖怪缠身的苦涩记忆。此时，夏目认识了在归还名字的妖怪记忆中出现的女性·津村容莉枝。和玲子相识的她，现在和独子椋雄一同过着平稳的生活。夏目通过与他们的交流，心境也变得平和。但这对母子居住的城镇，却似乎潜伏着神秘的妖怪。在调查此事归来后，寄生于猫咪老师身体的“妖之种”，在藤原家的庭院中，一夜之间就长成树结出果实。而吃掉了与自己形状相似果实的猫咪老师，竟然分裂成了3个——！？",
+  "members": {
+    "director": {
+      "name": "大森贵弘 Takahiro Omori",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21498.jpg"
+    },
+    "cast": [
+      {
+        "name": "神谷浩史 Hiroshi Kamiya",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23870.jpg"
+      },
+      {
+        "name": "井上和彦 Kazuhiko Inoue",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5198.jpg"
+      },
+      {
+        "name": "高良健吾 Kengo Kora",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1131.jpg"
+      },
+      {
+        "name": "小林沙苗 Sanae Kobayashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7245.jpg"
+      },
+      {
+        "name": "泽城美雪 Miyuki Sawashiro",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3662.jpg"
+      },
+      {
+        "name": "石田彰 Akira Ishida",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1520.jpg"
+      },
+      {
+        "name": "藤村步 Ayumi Fujimura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1486091196.91.jpg"
+      },
+      {
+        "name": "村濑步 Ayumu Murase",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pia7m1nVJkz0cel_avatar_uploaded1397237623.11.jpg"
+      },
+      {
+        "name": "伊藤美纪 Miki Itô",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9463.jpg"
+      },
+      {
+        "name": "伊藤荣次 Itou Eiji",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541074590.54.jpg"
+      },
+      {
+        "name": "堀江一真 Kazuma Horie",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49509.jpg"
+      },
+      {
+        "name": "佐藤利奈 Rina Satou",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1379470223.77.jpg"
+      },
+      {
+        "name": "木村良平 Ryohei Kimura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p33876.jpg"
+      },
+      {
+        "name": "菅沼久义 Hisayoshi Suganuma",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1376972420.94.jpg"
+      },
+      {
+        "name": "雪野五月 Satsuki Yukino",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11421.jpg"
+      },
+      {
+        "name": "川澄绫子 Ayako Kawasumi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1076.jpg"
+      },
+      {
+        "name": "樋口晓里 ",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "冈村明美 Akemi Okamura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15181.jpg"
+      },
+      {
+        "name": "黑田崇矢 Takaya Kuroda",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1492444182.5.jpg"
+      },
+      {
+        "name": "长岛雄一 Yûichi Nagashima",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11694.jpg"
+      },
+      {
+        "name": "松山鹰志 Takashi Matsuyama",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513345515.29.jpg"
+      },
+      {
+        "name": "下崎纮史 Shimozaki Horoshi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1560173530.66.jpg"
+      },
+      {
+        "name": "知桐京子 Chikiri kyoko",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566710671.16.jpg"
+      },
+      {
+        "name": "岛本须美 Sumi Shimamoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356199849.63.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2549896945.jpg?",
+        "src": "http://vt1.doubanio.com/201908311228/ea37a53a74d39fc9bff8f8e81fabb35b/view/movie/M/402440022.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2517144230.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2549422203.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2546767237.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2546767230.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "人类走路只需20分钟，妖怪穿墙却要三个月；与亲人相伴已有八年，被世界忘记只需一瞬。内向的妖怪总是迟钝，无情的人类往往健忘。没有天眼的普通人看不见相遇瀑布，习得神力的除妖师解不开分别咒语。没有了神却仍能祈祷，没有了爱就只能流浪，离开就被忘记是最残酷的奖赏，化身逝者陪伴是最温柔的神罚。"
+    },
+    {
+      "user": "多仔",
+      "avatar": "https://img3.doubanio.com/icon/u77587429-3.jpg",
+      "content": "当年搬着小板凳为防近视坐得老远 熬住一天只看一集的自己 一定想不到有一天在异乡的电影院里 一个人哭成傻逼"
+    },
+    {
+      "user": "堂本琥珀去霓虹",
+      "avatar": "https://img1.doubanio.com/icon/u3306004-117.jpg",
+      "content": "节奏舒服，娘口三三有丝分裂可爱崩溃"
+    },
+    {
+      "user": "Mike",
+      "avatar": "https://img3.doubanio.com/icon/u67162797-4.jpg",
+      "content": "总感觉夏目友人帐是一部充满淡淡忧伤、满满温柔和一丝禅意的动画，从高中看到工作以后，夏目同学还是个高中生。"
+    },
+    {
+      "user": "诺基亚",
+      "avatar": "https://img1.doubanio.com/icon/u142530230-7.jpg",
+      "content": "夏目还是那个夏目，而我已不知青春是何物，不出所料的，在影院我羞耻的哭了，曾经被治愈过的那些青春。"
+    },
+    {
+      "user": "冰雪聪明shi",
+      "avatar": "https://img3.doubanio.com/icon/u11344831-50.jpg",
+      "content": "剧情特别散，不是绿川亲妈写的夏目真是没法看——\n为了百合和剪纸强行加一星(･ω･ )"
+    },
+    {
+      "user": "顾茗清",
+      "avatar": "https://img3.doubanio.com/icon/u154806790-2.jpg",
+      "content": "其实我一直觉得友人帐传达的从来都不是归属感\n而是一种无法解除的疏离感\n不论是人与人之间还是人与妖怪之间\n从来都是抱团取暖\n因为一件小事执着不肯离去\n每次看完只是会增加孤独的感觉\n别无其他"
+    },
+    {
+      "user": "丢了的心",
+      "avatar": "https://img3.doubanio.com/icon/u44901258-4.jpg",
+      "content": "对鬼怪故事的好奇，大约是日本人基因中源远流长的执念。而夏目故事，无疑是其中最温暖的那一种"
+    },
+    {
+      "user": "Edward_lord",
+      "avatar": "https://img3.doubanio.com/icon/u164044403-1.jpg",
+      "content": "还是那个夏目，还是那堆人，猫就更肥了！感动常在！"
+    },
+    {
+      "user": "Lycidas",
+      "avatar": "https://img3.doubanio.com/icon/u46752165-32.jpg",
+      "content": "除了分裂的猫老师和躲在墙里的害羞妖怪之外全无亮点，精彩程度拉到tv版里连中等都排不上吧，夏目的故事体量非常适合短篇幅，拖成一个半小时的剧场版就很寡淡。过于单元化的情节一直是这个系列硬伤，完全可以有更高级也不伤害日常感的设定，但主创一股浓浓的压根不愿尝试的吃老本感（不是猫卖萌就能解决一切的"
+    },
+    {
+      "user": "艮艮",
+      "avatar": "https://img1.doubanio.com/icon/u191583109-8.jpg",
+      "content": "娘口三三分裂超级萌，夏目还是一如既往的温柔，中级还是那么搞笑。"
+    },
+    {
+      "user": "荼",
+      "avatar": "https://img3.doubanio.com/icon/u14649140-155.jpg",
+      "content": "好久没在电影院看哭了。\n\n曲终，电影院灯光亮起，在场半数人都在哭。人的短暂一生，真的是有那么多不可结缘的相遇吗。一如既往的高质量剧本，高质量配乐和配音。妈蛋主题曲太好听了！五星推荐。意外电影院里成年人比较多。旁边坐了位叔叔。 娘口三三恶意卖萌啊！三团子太可爱了！"
+    },
+    {
+      "user": "鱼头包饼",
+      "avatar": "https://img3.doubanio.com/icon/u155684761-4.jpg",
+      "content": "多年前那种温柔又暖萌的感觉又回来了。"
+    },
+    {
+      "user": "白雪飞花",
+      "avatar": "https://img3.doubanio.com/icon/u165209119-3.jpg",
+      "content": "很温暖，很治愈。"
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "把人与人的关系比作高山上流下的瀑布，追求自然流淌和变化是本片的主题。总监督也是TV版的监督，难怪节奏和情绪的把握这么舒服@festival grand cinema"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "穗之影离去的时候，所有看不见妖怪，并且不会对它产生记忆的人类，都看见了它带来的那一场泡沫飞絮——是夏目这么多年来最有情怀的画面了，这是所有普通人类都看见了妖怪的瞬间，让我泪流满面。"
+    },
+    {
+      "user": "imblue",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "我觉得节奏太慢了。或许是我自己的心境变了。"
+    },
+    {
+      "user": "薰衣草",
+      "avatar": "https://img3.doubanio.com/icon/u172570175-4.jpg",
+      "content": "很萌 治愈系 温暖的夏目"
+    },
+    {
+      "user": "Reaper",
+      "avatar": "https://img3.doubanio.com/icon/u27442548-20.jpg",
+      "content": "其实不管人还是妖怪，都是很寂寞的啊"
+    },
+    {
+      "user": "莫有",
+      "avatar": "https://img3.doubanio.com/icon/u188756432-3.jpg",
+      "content": "只要有想见的人，就不是孤身一人。这感觉真的很好"
+    },
+    {
+      "user": "懒懒",
+      "avatar": "https://img3.doubanio.com/icon/u172518080-3.jpg",
+      "content": "日漫里的羁绊总是那么感动，夏目还是那么温暖"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "实在还是不太适合院线观影，虽然剧场版的剧作保持住了TV版的中等单集水准，并且整个画风更为精致饱满，但作为一部情节上并不戏剧化、视觉上并不激进的治愈系动画，《夏目友人帐》仅是适合在工作疲惫之余看上一两集放松心情的作品。电影版将原本二十分钟即可圆满结束的故事，通过添加毫无趣味的支线的方式注水到一部电影的时长，导致观影体验愈发绵长疲惫，和TV版达到的目的及效果南辕北辙。★★"
+    },
+    {
+      "user": "麻辣小龙虾",
+      "avatar": "https://img3.doubanio.com/icon/u183762314-3.jpg",
+      "content": "温柔的夏目，傲娇的娘口三三，可爱的中级们，………好想快点看到你们啊！！！！"
+    },
+    {
+      "user": "喜欢猫和橙子",
+      "avatar": "https://img3.doubanio.com/icon/u172522844-1.jpg",
+      "content": "陪朋友来看 没想到意外的好 节奏极度舒适 娓娓道来的感觉 画面好看"
+    },
+    {
+      "user": "放逐",
+      "avatar": "https://img3.doubanio.com/icon/u89108137-16.jpg",
+      "content": "不太喜欢这种“治愈”"
+    },
+    {
+      "user": "天仙",
+      "avatar": "https://img3.doubanio.com/icon/u187725917-3.jpg",
+      "content": "夏目还是那么温柔，三三超级可爱。真的好久没看动画片了。大家真的可以去看。超级好看的"
+    },
+    {
+      "user": "焚紙樓",
+      "avatar": "https://img3.doubanio.com/icon/u80722428-35.jpg",
+      "content": "角色外表的年齡表現越來越謎了，祖母的同輩學妹看起來和藤原太太同齡、名取看下來頂多比夏目大幾歲、的場看上去卻比田沼年輕。不，也許真正的癥結是，所有人的臉不分男女都越來越像？"
+    },
+    {
+      "user": "大头绿豆",
+      "avatar": "https://img3.doubanio.com/icon/u1000152-23.jpg",
+      "content": "当前这个分数（8.7）是失真的。虽然我们看的是同一部电影，但TV版粉丝们的给分对象，是他们在过去那么多年里看过的那么多季那么多番，以及他们一起度过的那么多时光。而我的给分对象，不问往事前尘，就是这部电影本身。如果你像我一样，「夏目友人帐」完全是零基础，那么大概也会像我一样，在全片前四分之三那些有头没尾、七零八落的剧情面前，不停问号脸：「看样子导演每一段好像都有很多话要说，但这明明是电影，你怎么可能说得完呢？」加上画风平淡，人脸千篇一律（恕我无法感受到斑老师的萌），这样的体验无疑是令人沮丧的。直到最后，关于遗忘，关于陪伴，关于宿命的变迁，这些主题隐约聚拢的时候，才让我觉得，TV版、动漫版能令那么多人着迷，道理应该在这。"
+    },
+    {
+      "user": "私~川流",
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "content": "是一个非常好非常暖的故事。"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "一直没听出椋雄的声音是谁配的，只确定是某个特别熟悉的演员，最后一看居然是高良健吾！高良健吾的声音一直是这么温柔的吗，我以前是太关注他的脸了吗！这回真的是只靠一把温柔过飞絮的声音就令我第一万次重新陷入爱情了！"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "春天来了，在电影里作一场秋天的告别。常绿的是茂密的植被，点着一些晨曦与晚霞，给人与妖怪作清净舒雅的背景，去寻那些过往的错别以及现时的幻影。善良与温存都是闪闪发光的，连带着告别与遗憾也都有了神。这样的感动真是怡然。"
+    },
+    {
+      "user": "风间隼",
+      "avatar": "https://img3.doubanio.com/icon/u2521825-70.jpg",
+      "content": "没看过电视版，清新的神怪故事，有点像《虫师》。表面上有打斗也有悬疑，其实内核还是人与人之间的羁绊，以及对人生的感悟。中国文化其实也有这种氛围的，只可惜被过去一个世纪的战天斗地扫荡殆尽了。"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u150315233-2.jpg",
+      "content": "日本的动画电影很多都是温暖治愈型的，又能给人带来一定的思考"
+    },
+    {
+      "user": "叶隐",
+      "avatar": "https://img3.doubanio.com/icon/u91948912-22.jpg",
+      "content": "如果活着总要变成记忆，而记忆无非是一种信念，篡改记忆和篡改过去没什么差别，发生过和从未发生也无差别，如果夏目（唯一的记忆保有者）也忘记，一切又变成故事中的故事，而故事中的故事就等于故事就等于现实。究竟如何活过已经不那么重要了。然而故事里的人还是活得那么好，活在山间鸟鸣中，活在没人嗤笑故事的人间，活在随处有神的村庄，有雕花和家庭合影的小小房间里。人间有多好呢，这故事就有多好。"
+    },
+    {
+      "user": "王明阳",
+      "avatar": "https://img3.doubanio.com/icon/u156517502-6.jpg",
+      "content": "差点看睡着，剧情无半点新意，这也太没诚意了吧"
+    },
+    {
+      "user": "陈小宝贝儿",
+      "avatar": "https://img3.doubanio.com/icon/u149244161-1.jpg",
+      "content": "那个叫夏目的少年啊，给了我无数个冬天的温暖与夏天的清爽，治愈了我日常中的浮躁与感伤。这部动漫是对当下人世间所欠缺的善良的一种美好期许…"
+    },
+    {
+      "user": "丸子",
+      "avatar": "https://img3.doubanio.com/icon/u163495919-3.jpg",
+      "content": "温柔而美好绝对治愈"
+    },
+    {
+      "user": "MaDsHeep",
+      "avatar": "https://img3.doubanio.com/icon/u131219235-4.jpg",
+      "content": "套路基本上都用過了，但這個番不需要劇情，看你們打打鬧鬧我都很開心。"
+    },
+    {
+      "user": "vivi",
+      "avatar": "https://img3.doubanio.com/icon/u2129993-253.jpg",
+      "content": "有时我也说不清“治愈”是什么，大概是不再害怕伤疤被揭或是挑战降临吧。"
+    },
+    {
+      "user": "岩井俊七",
+      "avatar": "https://img3.doubanio.com/icon/u1815039-22.jpg",
+      "content": "3.5 稍微有点失望，从短篇番剧转变为大银幕的常见病，这部我挚爱的动画一样没有逃过，编剧不得不受到原剧格局影响，长篇叙事结构失衡，节奏也颇有些乱了步调，而温和、悠远、纯笃又伤感的节奏氛围本来是本剧最大优点之一，而且为考虑到随机误入的观众，又花费太多时间铺垫设定补习“背景知识”，当然剧集粉丝与路人都要兼顾，确实是两难抉择，具体到操作上难上加难；娘口三三真的比电视上更胖了，夏目每天这样驮着它都要长不高了啦！和今天连连看的惊奇队长一样，喵酱才是当之无愧的主角，啊我愿意看娘口三三吃东西，连看100集都可以"
+    },
+    {
+      "user": "宋生",
+      "avatar": "https://img3.doubanio.com/icon/u63907968-1.jpg",
+      "content": "脱出原著节奏慢，粉丝向最后硬塞唐突，但是能在大屏幕看到纳兹咩，还能抱怨什么呢？哪怕这个系列适合的是一个人静静地看。\r\r这次依旧说了一个结缘与羁绊的故事，孤独的人是会互相吸引的，当离别成为必然，能忘记是一种福分，相信看夏目友人帐的都没有恶人，愿你也能成熟地善待世界。\r\r话说看夏目的男生这么少的么，我的厅除我之外全是姑娘。。"
+    },
+    {
+      "user": "萨库拉",
+      "avatar": "https://img1.doubanio.com/icon/u4193588-7.jpg",
+      "content": "比较低幼。唯一喜欢那个瀑布，每个水滴是一个人的命运，水流的改变就是无数命运的离合，人和人的连系就是这么脆弱。"
+    },
+    {
+      "user": "what'swilliam",
+      "avatar": "https://img3.doubanio.com/icon/u52286623-2.jpg",
+      "content": "3.4星（非TV版粉丝）。还算及格和完整的剧场版TV动画。1.风景画风唯美，人物画风。。。对大银幕来有点过于简洁甚至掉帧。2.如同想到台湾青春片就想到“蓝色”，想到日本动画就会想到“充满蝉声的夏天”。3.猫师父太可爱啦~4.本片融合了治愈温暖和惆怅忧伤，这种感觉非常奇妙，有文艺散文的feel。5.看完会有想哭的冲动是怎么回事。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "他一路向北，一颦一笑温柔了年岁 \n它一路南追，一觞一咏折煞了神鬼"
+    },
+    {
+      "user": "青柠小主",
+      "avatar": "https://img3.doubanio.com/icon/u172543755-2.jpg",
+      "content": "淡淡的很温暖的感觉，适合一个人看"
+    },
+    {
+      "user": "诸葛若见",
+      "avatar": "https://img3.doubanio.com/icon/u48849613-173.jpg",
+      "content": "有形的东西容易消亡，而温柔的回忆，却永远存在。百妖日行，有趣而善良。"
+    },
+    {
+      "user": "efuchan",
+      "avatar": "https://img3.doubanio.com/icon/u49384148-953.jpg",
+      "content": "夏目友人帐会还你一个最温柔的世界。这里的人类与妖怪和平共处，蓝天白云，阳光水滴，一草一木都是纯净而治愈人心的存在。（小喵老师们太可爱啦，猫还是不要太肥的好hhh"
+    },
+    {
+      "user": "申由己",
+      "avatar": "https://img1.doubanio.com/icon/u4134449-17.jpg",
+      "content": "日本人的想法真是腻害，思路清奇，果真菊与刀！非常喜欢这个故事。"
+    },
+    {
+      "user": "久碍",
+      "avatar": "https://img3.doubanio.com/icon/u171904772-10.jpg",
+      "content": "忧郁  温暖  治愈                                          我爱的那个少年 还是那么温柔❤️"
+    },
+    {
+      "user": "独坐楼阁",
+      "avatar": "https://img3.doubanio.com/icon/u141002138-5.jpg",
+      "content": "娘口三三好可爱，就是很烦推广这件事"
+    },
+    {
+      "user": "昵称25197",
+      "avatar": "https://img3.doubanio.com/icon/u172449635-2.jpg",
+      "content": "从我第一次开始看夏目友人帐起，我就深深被这部作品打动，它打破了以往我对中国传统文化中的“妖怪”的既定印象，给我们展示了一个充满温情的绚丽梦境，热泪盈眶的瞬间，我好想回到童年"
+    },
+    {
+      "user": "大阪妞osaka",
+      "avatar": "https://img3.doubanio.com/icon/u4414007-25.jpg",
+      "content": "一如既往的暖，温馨提示娘口三三这次萌到炸裂"
+    },
+    {
+      "user": "seabisuit",
+      "avatar": "https://img3.doubanio.com/icon/u1293096-21.jpg",
+      "content": "没看过剧集误入粉丝场，氛围还真的很好。清新干净的画风没想到是妖怪的题材，请把我的名字还给我，日本那种对大自然的敬畏和山神的信仰才能催生出这样的故事，馋嘴萌宠的猫咪老师承担了大部分的看点。"
+    },
+    {
+      "user": "NaphetS",
+      "avatar": "https://img1.doubanio.com/icon/u77299465-7.jpg",
+      "content": "粉丝向电影吧，就像给小孩子看的片一样"
+    },
+    {
+      "user": "老人",
+      "avatar": "https://img3.doubanio.com/icon/u153292498-2.jpg",
+      "content": "没记错的话，第一次看项目的时候是在初二。那个温柔的少年，那个可爱的娘口三三，那个永远晴朗的夏天，那些千奇百怪的妖怪，全部全部都是我记忆中的《夏目友人帐》。夏目我见过最温柔的二次元少年，这也是我觉得最美好的日本动漫，三月七日，我来了！"
+    },
+    {
+      "user": "true偶尔",
+      "avatar": "https://img3.doubanio.com/icon/u188698010-2.jpg",
+      "content": "淡淡的忧伤，又很治愈的一部动漫，或许这就是一个人最好的状态"
+    },
+    {
+      "user": "舒农",
+      "avatar": "https://img1.doubanio.com/icon/u1303086-68.jpg",
+      "content": "风吻别芒草，剩尘埃路遥遥。说是治愈，其实是接受生命里所有离别的丧。以及，猫老师分裂成3个我真的不可以，不行！"
+    },
+    {
+      "user": "阳之流光",
+      "avatar": "https://img3.doubanio.com/icon/u142010023-1.jpg",
+      "content": "没啥意思，无聊"
+    },
+    {
+      "user": "少年无忧",
+      "avatar": "https://img3.doubanio.com/icon/u145179371-5.jpg",
+      "content": "无论好坏，都是一种邂逅，一如既往的温暖，还有点忧伤，娘口三三还是一如既往的胖啊"
+    },
+    {
+      "user": "一梦长安",
+      "avatar": "https://img3.doubanio.com/icon/u137503237-14.jpg",
+      "content": "官方吐槽最为致命！对猫咪老师的吐槽：说它是头猪都是对猪的不敬hhhhhhhh"
+    },
+    {
+      "user": "雨宫萤",
+      "avatar": "https://img3.doubanio.com/icon/u1150428-1.jpg",
+      "content": "所以凤凰是掌管记忆的吗"
+    },
+    {
+      "user": "yangzilan",
+      "avatar": "https://img3.doubanio.com/icon/u175054402-3.jpg",
+      "content": "期待了很久，终于看到了，很好看。"
+    },
+    {
+      "user": "So Magic",
+      "avatar": "https://img1.doubanio.com/icon/u1340420-238.jpg",
+      "content": "如果关于一个人的记忆真的都变成花絮飞走了，那他存在过的证据究竟是什么呢"
+    },
+    {
+      "user": "银杏",
+      "avatar": "https://img3.doubanio.com/icon/u188688651-2.jpg",
+      "content": "这部动漫太有感染力了，愿被温柔相待"
+    },
+    {
+      "user": "流年*指尖的沙",
+      "avatar": "https://img3.doubanio.com/icon/u171975725-2.jpg",
+      "content": "只要有想见的人，就不再孤身一人。等了好久，你终于来啦，不负期待。很好看。影片“温暖治愈”的气质恰与初春契合，刚好邀约身边人一同观影。我想大胆向“想见的人”表白——不错过春天也不错过你。"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "3.5  因为剧场版的时长，有弊有利。剧本结构出了蛮大问题，第一幕被拉得过长，个别支线无必要，导致观感很倦；但同时，故事的气质和意境是整个六季下来最好的那一类。"
+    },
+    {
+      "user": "看乐子",
+      "avatar": "https://img3.doubanio.com/icon/u155808660-2.jpg",
+      "content": "嗯，太高了，这个也就7分。作为一部影片，起码得特效都没有，剧情残缺，也就画风暖一点。"
+    },
+    {
+      "user": "曼仔",
+      "avatar": "https://img3.doubanio.com/icon/u4150687-120.jpg",
+      "content": "看哭TUT 编导们还是很有野心的，想讲的东西很宏大，想讲记忆之于存在的重要性，也想讲人与人命运相交的偶然性，还想讲或许在我们可知的世界里另有更广阔的可感的、不可知的世界。呈现的非常有诗意，妖怪与人同行世间，融奇异于日常。"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "人生如水流，即便一瞬涟漪的相识亦会改变彼此命运走向；置换身份的欺骗陪伴，让情真意切之感伤慢慢消散；不想在人间留下记忆者，不经意间改变了她的过去：真想看见你眼中魍魉魑魅的世界……《百鬼夜行抄》、《虫师》、《夏目友人帐》，这类淡雅惆怅的日式怪谈实在美好"
+    },
+    {
+      "user": "夜神月的猫",
+      "avatar": "https://img1.doubanio.com/icon/u54998502-7.jpg",
+      "content": "你悄悄的来，正如你悄悄的离开，没带走一片云彩，不经意间，却治愈了我"
+    },
+    {
+      "user": "紅豆生南京",
+      "avatar": "https://img3.doubanio.com/icon/u2201818-41.jpg",
+      "content": "“不可结缘，徒增寂寞”。《夏目友人帐》整整六季对于万物间的关系所下的注脚从未改变过。命运宛如湍湍细流，脆弱却生生不息。那些被欺骗的时光，也是共度的时光呀。夏目的世界还是如此的亚撒西。娘口三三变成1/3*3真的无敌可爱。"
+    },
+    {
+      "user": "武侠老王子",
+      "avatar": "https://img3.doubanio.com/icon/u1413054-35.jpg",
+      "content": "里面的角色善良得太不真实了吧。"
+    },
+    {
+      "user": "撒娇硬汉柚木烟",
+      "avatar": "https://img3.doubanio.com/icon/u2278119-113.jpg",
+      "content": "大清早在新宿电影院看的，红眼航班的原因看睡着了一会儿…有丝分裂的娘口三三是真的萌"
+    },
+    {
+      "user": "SundanceKid🌈",
+      "avatar": "https://img3.doubanio.com/icon/u65864683-55.jpg",
+      "content": "作为长篇并不优秀，还是那些剧情点，喜欢他是秉持，觉得扩充冗长便是固守了。仍然舒心，多苦涩的回忆、绵长的怀念都弥散在夏目沙色的发间。然后飞絮濛濛季节变迁，多重的情感都能轻盈一些"
+    },
+    {
+      "user": "牛佬",
+      "avatar": "https://img3.doubanio.com/icon/u1410853-46.jpg",
+      "content": "前段时间太累，中午又喝了点小酒，看了一会就昏睡了过去，还久没在电影院睡觉了，真香。大概只看了前面十来分钟和最后二十多分钟，电影感挺弱的，没什么好说。"
+    },
+    {
+      "user": "大大大大笨兔子",
+      "avatar": "https://img3.doubanio.com/icon/u43498037-1.jpg",
+      "content": "就。。。很典型的夏目友人帐的故事"
+    },
+    {
+      "user": "半转儿",
+      "avatar": "https://img3.doubanio.com/icon/u45000531-10.jpg",
+      "content": "没达到期待值，缓缓地有些瞌睡了，剧情比较简单，有些前因后果觉得逻辑不怎么通。"
+    },
+    {
+      "user": "狮子",
+      "avatar": "https://img3.doubanio.com/icon/u167590257-1.jpg",
+      "content": "所谓人世，像水流一般的虚幻之物，触碰就会散落分离，与其哀叹分离，不如感谢长足陪伴我们的人或物。"
+    },
+    {
+      "user": "一般社畜宫本桑",
+      "avatar": "https://img3.doubanio.com/icon/u50291481-94.jpg",
+      "content": "一只娘口三三，可爱。三只娘口三三，可爱×3！"
+    },
+    {
+      "user": "王水琴珈",
+      "avatar": "https://img1.doubanio.com/icon/u141236924-8.jpg",
+      "content": "夏目的温柔，三三的调皮。那个雨水很多的夏天，那个妖怪很皮的世界"
+    },
+    {
+      "user": "旧茶山",
+      "avatar": "https://img3.doubanio.com/icon/u165490084-6.jpg",
+      "content": "是夏日黄昏时分的一个故事，带着淡淡的情绪，低空掠过。遗忘和记忆，温柔对待当下和过往。"
+    },
+    {
+      "user": "恋天光",
+      "avatar": "https://img3.doubanio.com/icon/u45366812-12.jpg",
+      "content": "若永不离去，便永不失忆。大概，穗之影正是想如此，在容莉枝有生之年，互伴彼此吧。"
+    },
+    {
+      "user": "深夜声咽",
+      "avatar": "https://img3.doubanio.com/icon/u2712168-64.jpg",
+      "content": "去暖就完事了，配乐好听，字幕走完最后一幕右下角有惊喜。"
+    },
+    {
+      "user": "刘康康",
+      "avatar": "https://img1.doubanio.com/icon/u46843344-18.jpg",
+      "content": "夏目友人帐是那种体会过孤独的人看完会心里暖暖的动画。"
+    },
+    {
+      "user": "小月",
+      "avatar": "https://img1.doubanio.com/icon/u54434181-17.jpg",
+      "content": "一如既往的治愈。分裂成三个的喵三赛很卡哇伊"
+    },
+    {
+      "user": "洛。",
+      "avatar": "https://img1.doubanio.com/icon/u2598265-317.jpg",
+      "content": "看了些啥呢：猫，最高的EMOI，大屏幕石田彰口説き文句"
+    },
+    {
+      "user": "P0P",
+      "avatar": "https://img1.doubanio.com/icon/u1307390-177.jpg",
+      "content": "人与人、人与怪的kizuna，无处不在的季节感，妖怪比人还有诚信。构成挺好，故事完整性满分，制作只能说比TV版好一点，剪辑转场加分。早场包场观影感受太棒(虽然音响是真的很差)，在大荧幕听到卡米亚的声音也算此生无憾了，毕竟十年情感，高良健吾好软好软啊。。。官方太黑了，一次出三个周边"
+    },
+    {
+      "user": "Makoto  Tatsu",
+      "avatar": "https://img3.doubanio.com/icon/u45505797-3.jpg",
+      "content": "18.4.9添加想看：出了六季TV最后剧场版圈波钱也算良心了。 (9 有用)2019.3.20看过，第4部在大陆影院看的日本剧场版动画。夏目这种片子果然不适合改变成长篇，同行的小姐姐在没看过TV版的情况，经常会感到莫名其妙。但情怀依旧，愿我贡献的2张电影票能使我们将来尽快相见，十年了，夏目依然是高中生，而我却从高中步入工作，感叹一声。愿大家都好。"
+    },
+    {
+      "user": "labmem",
+      "avatar": "https://img3.doubanio.com/icon/u114514209-1.jpg",
+      "content": "何必拍个长片呢"
+    },
+    {
+      "user": "见微知晓",
+      "avatar": "https://img1.doubanio.com/icon/u1418385-189.jpg",
+      "content": "娘阔33萌的三次方！克隆33 soooooooooo cute！感觉人生也大抵如此，不停地遇见，然后又再见，不管是妖怪也好，还是人类也好，都需要感情的维系啊，羡慕夏目有喵，喵也有夏目，所以刚刚好～"
+    },
+    {
+      "user": "令和学习机器",
+      "avatar": "https://img3.doubanio.com/icon/u4581247-100.jpg",
+      "content": "确实是tv版的集大成，看了下编剧不是绿川，故事蛮旧味道的，没什么新意，可能看大屏幕希望有个更新的感受吧。希望友人帐上的名字永远不要还完QAQ【依旧只字不提外公】"
+    },
+    {
+      "user": "三七",
+      "avatar": "https://img1.doubanio.com/icon/u1938235-257.jpg",
+      "content": "还是记忆中温柔的风格。娘口三三真是越来越胖了。"
+    },
+    {
+      "user": "鲸鱼君",
+      "avatar": "https://img3.doubanio.com/icon/u4370686-15.jpg",
+      "content": "《夏目友人帐》：要是看着剧集长大并喜欢上日本妖怪文化的话，可能非看不可了。比《镰仓物语》更轻盈，更有治愈的功效，特别是猫咪老师真心萌翻，它代表了猫本来就该有的态度，分裂成三个之后算是返璞归真了。即使不是剧集版的粉丝，也不会有理解障碍，不过听说有人看哭了，这个难度还是蛮大的。★★★"
+    },
+    {
+      "user": "痣桑虚弱地",
+      "avatar": "https://img3.doubanio.com/icon/u31365118-36.jpg",
+      "content": "少了点味道……但是猫老师还是十分萌的！"
+    },
+    {
+      "user": "猫的莫咪跪神棍",
+      "avatar": "https://img3.doubanio.com/icon/u37565514-25.jpg",
+      "content": "头一次在大荧幕上看夏目，感觉非常新奇，见到里面的每一个人都有一种遇见老朋友的感觉，夏目真的是能让我很容易就投入感情。"
+    },
+    {
+      "user": "允难",
+      "avatar": "https://img3.doubanio.com/icon/u32596748-81.jpg",
+      "content": "太过平淡"
+    },
+    {
+      "user": "温海生",
+      "avatar": "https://img1.doubanio.com/icon/u4110623-129.jpg",
+      "content": "两小时加长版sp，依然温情脉脉有温度地诉说人和人感情，我们相遇，我们离开，可是，我仍想让你记得我的存在。"
+    },
+    {
+      "user": "Strelizeia",
+      "avatar": "https://img3.doubanio.com/icon/u3392754-170.jpg",
+      "content": "每次夏目友人帐总是戳中你内心的温油之处，这个剧场版里的大妖怪只能自己承接着那独一份的记忆啊，还好你也被很多人温柔对待呢！不过不自觉地接收着sabisi啊寂しい然后娘口三三这次真的有三个哦，这个复刻身体的表现手法真是美哭了，感谢有夏目陪伴的日子。"
+    },
+    {
+      "user": "Salvatore",
+      "avatar": "https://img3.doubanio.com/icon/u46116182-15.jpg",
+      "content": "看完只想有丝分裂三只猫咪老师"
+    },
+    {
+      "user": "花开彼岸",
+      "avatar": "https://img3.doubanio.com/icon/u143008558-3.jpg",
+      "content": "藤原夫妇也很温柔"
+    },
+    {
+      "user": "indicent time",
+      "avatar": "https://img1.doubanio.com/icon/u51061132-59.jpg",
+      "content": "主题是真的好，最后好几条线居然能串成一个圆，真的不容易。以及，后排一个女生讲了77遍“好可爱啊啊啊”，你以为我想说这部电影很萌，不，我只是想说那个女生很烦人"
+    },
+    {
+      "user": "木瓜",
+      "avatar": "https://img3.doubanio.com/icon/u39231342-2.jpg",
+      "content": "好久没看过这么骗钱的电影了，呵呵。为什么没有负分选项"
+    },
+    {
+      "user": "记忆刻痕",
+      "avatar": "https://img3.doubanio.com/icon/u76702643-1.jpg",
+      "content": "3月9日，今天和女朋友求婚了，不求轰轰烈烈，只想平平淡淡的走下去。呐，你知道，为什么，那个册子叫友人帐吗？因为啊，我战胜了你，你把你的名字给了我，这样我们就是朋友了啊。"
+    },
+    {
+      "user": "小山生桂枝",
+      "avatar": "https://img3.doubanio.com/icon/u58083109-2.jpg",
+      "content": "被高良健吾温柔的声音吸引着"
+    },
+    {
+      "user": "(ↀ⌓ↀ)",
+      "avatar": "https://img3.doubanio.com/icon/u4225967-25.jpg",
+      "content": "我以为我看了什么TV总集篇，以及斑是怎么做到画得比TV还崩的"
+    },
+    {
+      "user": "高等游民阿朽",
+      "avatar": "https://img1.doubanio.com/icon/u1326807-457.jpg",
+      "content": "终于知道猫咪老师是怎样的存在啦。"
+    },
+    {
+      "user": "冷杉",
+      "avatar": "https://img3.doubanio.com/icon/u1001021-5.jpg",
+      "content": "充满世俗元气的鬼故事，跟《鎌仓物语》类似，可能更奇妙也更深刻一点。美国动画看多了，看日本动画总有很多奇思妙想。制作看起来简单，甚至粗糙。但故事讲述方式很独特，你甚至无法给人简短复述这个故事。人物太多，情节线太多，设定太多。只是信息量太大，很多需要台词讲述，整体节奏就拖慢了。主题是人与人的感情，家庭的本质。人的感情是高山流下的瀑布，随时间流淌变化，一如世俗自然生长，营养充分，当然全无戾气。"
+    },
+    {
+      "user": "半夏",
+      "avatar": "https://img3.doubanio.com/icon/u188660950-2.jpg",
+      "content": "一直喜欢日本动漫的羁绊让人思考很多感悟很深"
+    },
+    {
+      "user": "血刀老祖",
+      "avatar": "https://img3.doubanio.com/icon/u59999741-4.jpg",
+      "content": "按某些人对流浪地球的评论，煽情与硬要煽情还是有区别的。最喜欢第一季，感觉后来变得套路化，煽情也是很生硬。"
+    },
+    {
+      "user": "Captain_C",
+      "avatar": "https://img3.doubanio.com/icon/u125256660-5.jpg",
+      "content": "与遗忘有关的故事总是那么美好而忧伤，漫天飞絮中是你曾经的痕迹，笑中带泪里是我们一起的记忆。"
+    },
+    {
+      "user": "微喵的兔姑娘",
+      "avatar": "https://img1.doubanio.com/icon/u2344260-79.jpg",
+      "content": "娘口三三的小小只，一如既往温柔细腻的夏目，故事缓缓道来"
+    },
+    {
+      "user": "Donald",
+      "avatar": "https://img1.doubanio.com/icon/u4449663-7.jpg",
+      "content": "非粉丝，看得我好困。"
+    },
+    {
+      "user": "小邪",
+      "avatar": "https://img1.doubanio.com/icon/u155084898-7.jpg",
+      "content": "也许是因为没有看过前作，总觉得平平淡淡飘飘荡荡没有什么重心"
+    },
+    {
+      "user": "亲爱的猥琐猪",
+      "avatar": "https://img3.doubanio.com/icon/u51840446-3.jpg",
+      "content": "不久前b站刷出个经典老歌合集，一堆弹幕说好好听这是什么番，然后听到了中孝介，听到long and short party，还想夏目的歌不算老嘛。今天大屏幕看完剧场版查豆瓣，才发现已经十年了啊！老实说夏目那么多故事，记住的少忘掉的多，但始终如一的亲近怀旧温暖自然，又疏离孤独悬疑妖冶的感觉留下来。这也算我追过最长的系列之一了。感谢朱夏社，从brain's base独立出来后，填了无头骑士的坑(尽管评价各异)，然后始终没有放弃夏目，剧场版还拉上白狐wit一众，也算一个阶段总结。剧情本身，配乐方言雕画都熨帖舒适无须多言，情节倒没比tv更复杂，依旧关于回忆。倒是三等分猫老师简直萌死人不偿命。值得注意的是外公又被提及，而最后猫老师对夏目那句无心的“友人帐也快用完了”似有暗示?还是让一切自然抵达吧……"
+    },
+    {
+      "user": "Black Tulip",
+      "avatar": "https://img1.doubanio.com/icon/u2428240-39.jpg",
+      "content": "遗忘也好，分裂也罢。终究是收起你的孤独，拥抱你的温暖。"
+    },
+    {
+      "user": "海歌",
+      "avatar": "https://img1.doubanio.com/icon/u123838490-7.jpg",
+      "content": "平淡如水的故事，以及跟tv版半斤八两的质量，这真的是剧场版而不是超长特别篇么？"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "治愈系"
+    },
+    {
+      "user": "nathan",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "2019年第40部 没看过TV版，看的过程一度好困，画风清新，几个男性角色长得差不多看完了我也还是分不清谁是谁，妖怪们也都丑得清奇，个人觉得故事层面甚至不如前两周上映的朝花夕誓。"
+    },
+    {
+      "user": "猫语猫寻",
+      "avatar": "https://img3.doubanio.com/icon/u10864734-74.jpg",
+      "content": "好多个娘口三三可爱爆炸！"
+    },
+    {
+      "user": "Jin Unrated",
+      "avatar": "https://img3.doubanio.com/icon/u1665693-355.jpg",
+      "content": "经典的催泪配方…"
+    },
+    {
+      "user": "徽柔Orchid",
+      "avatar": "https://img3.doubanio.com/icon/u32131802-4.jpg",
+      "content": "这都能上口碑榜。真爱粉好多。"
+    },
+    {
+      "user": "玥玲",
+      "avatar": "https://img3.doubanio.com/icon/u52323953-2.jpg",
+      "content": "记忆消失的妖怪。微影。像凤凰的鸟。"
+    },
+    {
+      "user": "阿卜",
+      "avatar": "https://img3.doubanio.com/icon/u2390363-82.jpg",
+      "content": "三三(●—●)！"
+    },
+    {
+      "user": "熊扑奶团、",
+      "avatar": "https://img3.doubanio.com/icon/u173677008-63.jpg",
+      "content": "好多年前看的了，还是和当年一样，很温暖，很治愈！"
+    },
+    {
+      "user": "壁鹿",
+      "avatar": "https://img3.doubanio.com/icon/u1320405-83.jpg",
+      "content": "温暖的故事里藏着淡淡的悲伤，安静的乡村生活真让人向往。虽然情节有点散，但是故事的结尾还是有点感动。听完片尾曲Remember，最后一个镜头里树前神社上放了一束花，故事温柔的就像一阵风。"
+    },
+    {
+      "user": "淋",
+      "avatar": "https://img1.doubanio.com/icon/u75215757-17.jpg",
+      "content": "太太太太太慢了，期间没有能一直抓住人注意力的东西出现，看一个小时已经是极限了"
+    },
+    {
+      "user": "木偶",
+      "avatar": "https://img3.doubanio.com/icon/u1333942-42.jpg",
+      "content": "淡淡忧伤，满满温情，会心一笑"
+    },
+    {
+      "user": "Grey",
+      "avatar": "https://img3.doubanio.com/icon/u4350294-4.jpg",
+      "content": "剧场版有点流水账"
+    },
+    {
+      "user": "九命猫@victor-eyes",
+      "avatar": "https://img3.doubanio.com/icon/u1339547-3.jpg",
+      "content": "不合格的动画电影，合格的剧场版。在日本人手里，羁绊、温情、记忆、你的名字，都从执念渐渐堆化成套路。每个人都害怕离开后被对方遗忘，日本人会摸心事，而已。"
+    },
+    {
+      "user": "炎夏",
+      "avatar": "https://img3.doubanio.com/icon/u50851987-3.jpg",
+      "content": "2019年大陆院线第一个惊喜《四个春天》，第二个惊喜《夏目友人帐》。堪比大型吸猫现场的剧场版，三三老师萌萌的蛙蛙跳，众妖对三三的调侃——暖与乐，缓和疾，年岁伴着青春，在荧幕上面交汇出一层层极富张力的画卷。能够在这里遇见你们，我真开心。初识夏目、三三、玲子们是在2015年（三联三年计划的第一年），在我最沉默最无助最低微最虚弱的年华里，得自现实的温暖远不及电影角色的陪伴。夏目、三三是其中最璀璨的一支。是枝裕和教会我看待死亡，李安指点我平衡平和，Kevin Spacey给我展示了演技的域，夏目与三三让我看到了相聚又别离的欢喜、苦痛、烦恼、感激。这里有我一生的营养，这里藏着我三十年的记忆，这里有我的爱、我的美、我最珍惜的朋友们。"
+    },
+    {
+      "user": "胸口碎大石",
+      "avatar": "https://img3.doubanio.com/icon/u24139618-5.jpg",
+      "content": "三倍的娘姑森塞三倍的快乐，故事有点哀伤，人与人之间的羁绊啊，那该是千丝万缕的牵连，绝不会轻飘飘风过无痕。"
+    },
+    {
+      "user": "正午是不小心",
+      "avatar": "https://img3.doubanio.com/icon/u58828944-23.jpg",
+      "content": "你的记忆是别人的遗忘，是惩罚吧"
+    },
+    {
+      "user": "长耳朵走来走去",
+      "avatar": "https://img3.doubanio.com/icon/u2030456-46.jpg",
+      "content": "想不到有一天可以在影院看，四星感情分。夏目的世界永远这么温柔治愈。"
+    },
+    {
+      "user": "向日葵d兽",
+      "avatar": "https://img3.doubanio.com/icon/u18313578-10.jpg",
+      "content": "0.副标题结缘空婵就很日式佛禅。1.人类走路只需20分钟，妖怪穿墙却要三个月；与亲人相伴已有八年，被世界忘记只需一瞬。内向的妖怪总是迟钝，无情的人类往往健忘。没有天眼的普通人看不见相遇瀑布，习得神力的除妖师解不开分别咒语。没有了神却仍然祈祷，没有了爱就只能流浪，离开就被忘记是最残酷的奖赏，化身逝者陪伴是最温柔的神罚。2.前线铺垫很混乱，娘口三三有丝分裂可爱崩溃。"
+    },
+    {
+      "user": "decidels",
+      "avatar": "https://img1.doubanio.com/icon/u42600622-7.jpg",
+      "content": "对于我这种没看过tv版的人来说，也不会接不上...但还是有点伤感啊"
+    },
+    {
+      "user": "秋熙",
+      "avatar": "https://img3.doubanio.com/icon/u1274778-54.jpg",
+      "content": "夏目的故事其实一直很简单，用留白写隽永，一旦用电影的时长来套就显得空洞了。不过娘口三三卖萌还是让全场倒抽了一口冷气，简直丧心病狂。准备了纸巾去的，好几年没看tv版了，回顾剧情的时候，泪珠在眼眶里疯狂打转，终究也没掉下来。"
+    },
+    {
+      "user": "baobaodu",
+      "avatar": "https://img3.doubanio.com/icon/u1485984-25.jpg",
+      "content": "ta比烟花寂寞"
+    },
+    {
+      "user": "宅拾叁",
+      "avatar": "https://img3.doubanio.com/icon/u47373915-15.jpg",
+      "content": "第一次看这个。"
+    },
+    {
+      "user": "一实",
+      "avatar": "https://img3.doubanio.com/icon/u4042034-595.jpg",
+      "content": "对这种神怪治愈系完全没有抵抗力"
+    },
+    {
+      "user": "说什么图灵",
+      "avatar": "https://img3.doubanio.com/icon/u4332196-20.jpg",
+      "content": "其实还是动画一集的框架，都是老三样，稍微有点拖。猫咪老师是亮点，其他内容都和动画一样的，吃这套的肯定喜欢，不吃这套的会觉得拖沓平淡"
+    },
+    {
+      "user": "ChrisKirk",
+      "avatar": "https://img3.doubanio.com/icon/u58244021-43.jpg",
+      "content": "温柔得好像夏天吹过的微风。"
+    },
+    {
+      "user": "WIKI魏",
+      "avatar": "https://img3.doubanio.com/icon/u27465503-26.jpg",
+      "content": "内向的人，会错过很多美好，但他们都会记得。离开忘记的人最幸福，留下来记得的人最痛苦，内向的人，到死都必须要自我疗伤。夏日，一集集的慢慢教我们接受并善待自己的“寂寞”。"
+    },
+    {
+      "user": "Chaall",
+      "avatar": "https://img1.doubanio.com/icon/u1933204-68.jpg",
+      "content": "0基础被萌化了，记忆中飘满飞絮"
+    },
+    {
+      "user": "红叶@提不起劲",
+      "avatar": "https://img3.doubanio.com/icon/u2768499-2.jpg",
+      "content": "娘口三三天下第一可爱"
+    },
+    {
+      "user": "小D",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "结束曲很好听"
+    },
+    {
+      "user": "犬系少女刘七七",
+      "avatar": "https://img3.doubanio.com/icon/u4688056-425.jpg",
+      "content": "出现了比夏目更亚撒西的妖怪！声音又好听！！！感觉官方要出雕画周边了！"
+    },
+    {
+      "user": "Jane",
+      "avatar": "https://img1.doubanio.com/icon/u2998597-48.jpg",
+      "content": "怎么像在凑字数"
+    },
+    {
+      "user": "汐羽",
+      "avatar": "https://img3.doubanio.com/icon/u47946324-250.jpg",
+      "content": "一如既往的感动。好喜欢穗之影，结局还是有点难过的"
+    },
+    {
+      "user": "东条暴躁姬",
+      "avatar": "https://img3.doubanio.com/icon/u3192302-580.jpg",
+      "content": "居然剧情很完整 居然不是随便骗钱的剧场版 令人震惊 以及夏目贵志看上去也越来越不符合年龄了 才十几岁就去原谅故人了 这是八十几岁的人才干的事吧 经历再多十几岁的孩子也得出去干一架才行吧 这依旧是夏目里我最不喜欢的一点 总之不管怎样跟中之人比起来都闪亮太多了：）"
+    },
+    {
+      "user": "武士猫",
+      "avatar": "https://img1.doubanio.com/icon/u1017782-49.jpg",
+      "content": "不论情怀，就电影本身十分散乱，叙事、情绪都不集中，踩不到节奏点。椋雄的故事是TV版标配的守护、遗忘、let go和生命的消逝等情感；结城的故事里包含了少年的孤独、谎言、失落与和解；喵先生继续贪吃和可爱...然而诸般杂烩也没有翻炒出TV日常的水平。遗憾。"
+    },
+    {
+      "user": "灼灼裴质",
+      "avatar": "https://img1.doubanio.com/icon/u4800478-17.jpg",
+      "content": "只有夏目记得的妖怪"
+    },
+    {
+      "user": "XJ_XXX",
+      "avatar": "https://img3.doubanio.com/icon/u125115743-74.jpg",
+      "content": "从高二开始追番，夏目真的很温柔，无论是外婆还是贵志，都在努力的追寻属于自己的羁绊。看完感触很深，无论是短暂的相处，或是几年的陪伴，都可以顷刻变为随风飘扬的飞絮，别人看到了也只能感叹「又到秋天了呀」，剧场版的诚意满满，其实没看过前几部的稍了解也可以看懂，剧场版比起番剧，给了我更深的感触。 看到八年的陪伴转眼化为飞絮，内心布满遗憾，眼泪夺眶而出，然而温暖的结局依然告诉我们，即使那些回忆变成了飞絮，依然有人会把它保存在心底。"
+    },
+    {
+      "user": "乐山小佛",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "没看过剧，只是卖萌，也挺无聊的"
+    },
+    {
+      "user": "下饭菜",
+      "avatar": "https://img3.doubanio.com/icon/u71586138-4.jpg",
+      "content": "故事很平淡，可是只要看见圆滚滚的猫咪老师，看到夏目，即便平淡，我也依然很喜欢。"
+    },
+    {
+      "user": "熊升树",
+      "avatar": "https://img3.doubanio.com/icon/u55665186-3.jpg",
+      "content": "里面的鬼怪都很有趣，其中的生离死别令人唏嘘，但记忆和怀念却无比温暖，在有限的时间里，好好地陪伴身边的人吧……"
+    },
+    {
+      "user": "二 天",
+      "avatar": "https://img1.doubanio.com/icon/u1696272-138.jpg",
+      "content": "高良老师（嚎叫"
+    },
+    {
+      "user": "yfxlavender",
+      "avatar": "https://img3.doubanio.com/icon/u47929210-4.jpg",
+      "content": "时光易逝，人生短暂。珍惜生命中的美好的人，美好的回忆。"
+    },
+    {
+      "user": "懺悔は浴室で。",
+      "avatar": "https://img3.doubanio.com/icon/u45158875-5.jpg",
+      "content": "陪别人看。对太有名的事物都没什么兴趣。其实我想看的是别的，对方点了这个我也没法拒绝了，除了喵老师的萌点之外，全程快睡着"
+    },
+    {
+      "user": "赫恩曼尼",
+      "avatar": "https://img3.doubanio.com/icon/u62675594-4.jpg",
+      "content": "结城说：夏目，其实不管你能不能看到妖怪，都不必告诉我，但假如你看见了，我也好想看到啊。日本电影和文学里，最让人感动的莫过于人与人之间的分寸感。人和人的关系，真的就像瀑布的水流，轻轻一碰，就全然不同。相逢与离别，生与死——“人类的宿命就是这种只需轻轻一碰就会改变、极为脆弱的东西”。"
+    },
+    {
+      "user": "蝶扑秋千",
+      "avatar": "https://img3.doubanio.com/icon/u119353813-2.jpg",
+      "content": "暖到催泪😭。不可结缘，徒增寂寞。"
+    },
+    {
+      "user": "李小毛",
+      "avatar": "https://img3.doubanio.com/icon/u1776318-11.jpg",
+      "content": "为了把所有角色都带出来有的地方节奏有点不对，但整体完成度很高，意境也到了，注水部分也很可爱（虽然是注水。算是有tv平均值吧，严格来说应该3.5"
+    },
+    {
+      "user": "东条从军姬",
+      "avatar": "https://img3.doubanio.com/icon/u2625939-716.jpg",
+      "content": "两个新妖怪都是合法棒读非业界人士啊"
+    },
+    {
+      "user": "碧落亦然",
+      "avatar": "https://img3.doubanio.com/icon/u2399791-303.jpg",
+      "content": "我也想养一只猫呀！先生！非常柔和温情的一部剧场版啊，讨论的也是一件有趣的话题，到底什么是回忆，什么是记住，什么是人和人之间的感情及关系。"
+    },
+    {
+      "user": "好养活",
+      "avatar": "https://img3.doubanio.com/icon/u47941742-45.jpg",
+      "content": "記憶な…… 十一年真是一转眼。。PS. 作为动画十周年之际出的剧场版来说有点太平淡了？？"
+    },
+    {
+      "user": "憨大仁",
+      "avatar": "https://img3.doubanio.com/icon/u51342796-34.jpg",
+      "content": "又被夏目暖了一次"
+    },
+    {
+      "user": "牧三洵",
+      "avatar": "https://img3.doubanio.com/icon/u130380686-20.jpg",
+      "content": "一如既往的温暖摄人心。"
+    },
+    {
+      "user": "雅斯科罗宁",
+      "avatar": "https://img3.doubanio.com/icon/u1460460-81.jpg",
+      "content": "挺平淡的。我大致能感受到电影想表达的一些东西，就不够触动，插科打诨混时长多了点，情绪不积累。挺粉丝向的，作为SP是可以，单纯评一部剧情动漫来说，就是…平淡。娘口三三的戏份非常吃重，但这套傲娇吃货贱萌——我老爷们儿虽然也吸猫——却是不吃的。其他的几个常驻妖怪倒还挺有印象的，应该也是剧集里慢慢充实起来的。画面、音乐可以，日式一贯的那种治愈系。"
+    },
+    {
+      "user": "嘚嘚嘚嘚嘚",
+      "avatar": "https://img3.doubanio.com/icon/u48652163-31.jpg",
+      "content": "75，大学时期很喜欢的动画，夏目友人帐一直是这个风格，总有被抛入尘世的孤单、悲伤和温情。为了让不了解的观众理解基本设定，夏目的过往，夏目和猫老师的羁绊，玲子与友人帐的过去，妖怪与人类的相伴，多线巧妙地融合进一个单元故事里。这个故事讲述记忆，妖怪与人产生情感，在儿子死后陪在母亲身边来抚平伤痛，最后化身柳絮般离开人世，用极为恻隐怜悯之心来关照阴阳两界。反观《捉妖记》这种低幼设定，《夏目友人帐》反而是成年人能更为感动的故事。"
+    },
+    {
+      "user": "金轮际息烙",
+      "avatar": "https://img3.doubanio.com/icon/u2678402-32.jpg",
+      "content": "果然，时长一拉长到剧场版的长度，这种类型作品的局限就暴露出来：情节推进力弱但渲染力强，在单元剧里会很有力量，但在剧场版里因为情绪一直绷着，入戏难又坚持不了一整出戏。整体故事还是夏目一贯水准，感觉做成ova就够了。这种细腻而微妙的情感，非东亚文化语境下的直男观众会不会买账呢？"
+    },
+    {
+      "user": "冬季向日葵",
+      "avatar": "https://img3.doubanio.com/icon/u1145996-172.jpg",
+      "content": "温柔又忧伤"
+    },
+    {
+      "user": "小夜時雨",
+      "avatar": "https://img3.doubanio.com/icon/u65353594-6.jpg",
+      "content": "出于情怀去看了电影，但是剧情还不如连载时的剧集，平平淡淡，内心毫无波动地看完了。不可结缘。"
+    },
+    {
+      "user": "LittleMonster",
+      "avatar": "https://img1.doubanio.com/icon/u53172476-7.jpg",
+      "content": "给猫咪先生"
+    },
+    {
+      "user": "Quester",
+      "avatar": "https://img3.doubanio.com/icon/u2946724-3.jpg",
+      "content": "夏目剧里淡淡的忧伤与温情，是最迷人的地方。馨香清远，细水流长。人妖共生的世界，应该如何相安无事的相处？反差萌的猫咪老师，明明有着巨大的能量，却喜欢圆滚滚的以各种借口赖在你身边，这是一种傲娇而温柔的选择；而从友人帐中释放被禁锢的妖怪，何尝不是另一个温柔的选择？一晃眼，忧伤空寂的《夏夕空》已经飘荡十年了。"
+    },
+    {
+      "user": "功夫兔子",
+      "avatar": "https://img3.doubanio.com/icon/u4713424-41.jpg",
+      "content": "又是粉丝向电影，还好有猫咪老师拯救了我！"
+    },
+    {
+      "user": "Sodom程",
+      "avatar": "https://img3.doubanio.com/icon/u1030410-40.jpg",
+      "content": "不是我的菜"
+    },
+    {
+      "user": "陆暮",
+      "avatar": "https://img3.doubanio.com/icon/u41312092-102.jpg",
+      "content": "居然不感冒了.."
+    },
+    {
+      "user": "胡二",
+      "avatar": "https://img3.doubanio.com/icon/u11120634-56.jpg",
+      "content": "娘口三三大型卖萌现场。前面铺垫有点长，剧情偏散，治愈和温暖依旧。有了家人跟朋友陪伴的纳兹咩，还是一如既往温柔啊"
+    },
+    {
+      "user": "王星眸",
+      "avatar": "https://img3.doubanio.com/icon/u55632366-12.jpg",
+      "content": "剧场版。很久之前就准备看这个，因为是番剧没毅力追就放弃了。剧场版的故事特别温暖，因为猎奇志怪来的，可是竟然被行善的妖和人类的羁绊给治愈了。"
+    },
+    {
+      "user": "一枫之无涯",
+      "avatar": "https://img3.doubanio.com/icon/u140998182-1.jpg",
+      "content": "很感动"
+    },
+    {
+      "user": "次非",
+      "avatar": "https://img3.doubanio.com/icon/u1255665-16.jpg",
+      "content": "故事写得差 "
+    }
+  ]
+}

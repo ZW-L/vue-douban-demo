@@ -1,0 +1,1154 @@
+{
+  "title": "奇葩说 第五季",
+  "url": "https://movie.douban.com/subject/30228909/",
+  "rate": "7.4",
+  "id": "30228909",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2534020405.jpg",
+  "info": [
+    "导演: 李梦颖 / 花子卉",
+    "主演: 马东 / 蔡康永 / 高晓松 / 李诞 / 薛兆丰 / 肖骁 / 马薇薇 / 黄执中 / 邱晨",
+    "类型: 脱口秀",
+    "制片国家/地区: 中国大陆",
+    "语言: 汉语普通话",
+    "首播: 2018-09-21(中国大陆)",
+    "集数: 24",
+    "单集片长: 100分钟"
+  ],
+  "desc": "《奇葩说》是一档由爱奇艺出品，米未制作的说话达人秀节目。节目将于2018年9月21日起每周五、六晚20：00在爱奇艺播出。本季节目由马东担任主持人，高晓松、蔡康永、李诞、薛兆丰担任导师。本季将集结华人世界最勇敢的60位新⽣生表达者，前四季的老奇葩也将和新奇葩在同一起跑线上公平竞争，优秀奇葩组成四大战队，激烈角逐中国最强说话战队，《奇葩说》前四季奇葩之王马薇薇、黄执中、肖骁、邱晨将担任四大战队教练。《奇葩说》第五季将进行一次从形式到内容的“颠覆性”升级，彻底打破过往的棚内单一场景， 延续“辩论”主节目形式的同时还会引入“24小时台前幕后全记录”的真人秀机制。",
+  "members": {
+    "director": {
+      "name": "李梦颖 Mengying Li",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8Esk1YmVwEccel_avatar_uploaded1409050989.24.jpg"
+    },
+    "cast": [
+      {
+        "name": "马东 Dong Ma",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1393327037.61.jpg"
+      },
+      {
+        "name": "蔡康永 Kevin Tsai",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p16853.jpg"
+      },
+      {
+        "name": "高晓松 Xiaosong Gao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15023.jpg"
+      },
+      {
+        "name": "李诞 Dan Li",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566203096.73.jpg"
+      },
+      {
+        "name": "薛兆丰 Zhaofeng Xue",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537663337.22.jpg"
+      },
+      {
+        "name": "肖骁 Xiao Xiao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1522170232.46.jpg"
+      },
+      {
+        "name": "马薇薇 Weiwei Ma",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1462792122.87.jpg"
+      },
+      {
+        "name": "黄执中 Chi Chung Huang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500390331.2.jpg"
+      },
+      {
+        "name": "邱晨 Chen Qiu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500389456.02.jpg"
+      },
+      {
+        "name": "张歆艺 Xinyi Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40191.jpg"
+      },
+      {
+        "name": "Papi酱 Yilei Jiang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507361047.89.jpg"
+      },
+      {
+        "name": "吴谨言 Jinyan Wu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533456759.53.jpg"
+      },
+      {
+        "name": "梁洛施 Isabella Leong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2312.jpg"
+      },
+      {
+        "name": "陈学冬 Xuedong Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508145845.01.jpg"
+      },
+      {
+        "name": "毛不易 Buyi Mao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501498979.21.jpg"
+      },
+      {
+        "name": "梁文道 Man-tao Leung",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551529606.79.jpg"
+      },
+      {
+        "name": "周冬雨 Dongyu Zhou",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.jpg"
+      },
+      {
+        "name": "陈铭 Ming Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pKdnCBt5WiGQcel_avatar_uploaded1500389678.1.jpg"
+      },
+      {
+        "name": "颜如晶 Rujing Yan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500390415.93.jpg"
+      },
+      {
+        "name": "沈玉琳 Yu-Lin Shen",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500122316.9.jpg"
+      },
+      {
+        "name": "董婧 Jing Dong",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1544804203.7.jpg"
+      },
+      {
+        "name": "马剑越 Jianyue Ma",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541045001.26.jpg"
+      },
+      {
+        "name": "臧鸿飞 Hongfei Zang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pGjVf4Cm1t4ocel_avatar_uploaded1510038791.12.jpg"
+      },
+      {
+        "name": "秦教授 Professor Qin",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pOJbihx9yjM8cel_avatar_uploaded1497953088.63.jpg"
+      },
+      {
+        "name": "张雪峰 Xuefeng Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531114987.05.jpg"
+      },
+      {
+        "name": "仇佩佩 Peipei Qiu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496584328.24.jpg"
+      },
+      {
+        "name": "傅首尔 Shou'er Fu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5AjLgJAFNpscel_avatar_uploaded1544025295.33.jpg"
+      },
+      {
+        "name": "赵英男 Yingnan Zhao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5gRkpN4qFw0cel_avatar_uploaded1544254011.44.jpg"
+      },
+      {
+        "name": "商振博 Zhenbo Shang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1526453356.74.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2534818840.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2534818725.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2534818400.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2536433552.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2534818690.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "一座山",
+      "avatar": "https://img3.doubanio.com/icon/u91515323-2.jpg",
+      "content": "姜思达的出走是聪明的，人不能总停留在原点。"
+    },
+    {
+      "user": "试图摘星星",
+      "avatar": "https://img3.doubanio.com/icon/u136863087-15.jpg",
+      "content": "服了，臧鸿飞和马剑越有什么好留的？因为他俩是老奇葩？？？\n剪辑太恶心了，想知道奇葩说对它的受众是个什么定位，把观众当傻子来高高在上指点吗？\n我不明白为什么大部分都是爱情题，亲情友情职场生活这些能延伸出很多啊，别告我这些广电都不允许，选题组是有人情路不顺吗？？？\n11.16高手和高手的交锋，目前为止本季最好的一期！陈铭老师这季优秀得令人惊艳！"
+    },
+    {
+      "user": "大噪",
+      "avatar": "https://img3.doubanio.com/icon/u60519809-4.jpg",
+      "content": "《中国有辩论》《中国新吵架》"
+    },
+    {
+      "user": "西瓜瓤",
+      "avatar": "https://img3.doubanio.com/icon/u52132726-5.jpg",
+      "content": "高晓松第一期不来是对的。"
+    },
+    {
+      "user": "学习就像多巴胺",
+      "avatar": "https://img1.doubanio.com/icon/u65041356-119.jpg",
+      "content": "选题实在是乏善可陈，无趣至极。 翻来覆去的爱情题和这个节目本身一样，成了一块鸡肋。唯一慰藉：新爱豆，薛兆丰！"
+    },
+    {
+      "user": "油笔小鑫",
+      "avatar": "https://img3.doubanio.com/icon/u148019142-1.jpg",
+      "content": "以前是奇葩会说，现在是奇葩和说。"
+    },
+    {
+      "user": "詹霑",
+      "avatar": "https://img3.doubanio.com/icon/u130092030-13.jpg",
+      "content": "按郝蕾的话来说，马东想赚钱，我不能说“不行啊，你得热爱点艺术”。可是，我不是演员（辩手），我是观众啊！"
+    },
+    {
+      "user": "毛猴和玫瑰花刺",
+      "avatar": "https://img3.doubanio.com/icon/u126714292-4.jpg",
+      "content": "虽然第三期开始还是有在辩论了但是还是不喜欢这种真人秀的调调……各种落泪各种心里状态各种七七八八的真人秀 乏善可陈"
+    },
+    {
+      "user": "潋 | Béatrice",
+      "avatar": "https://img3.doubanio.com/icon/u3094255-120.jpg",
+      "content": "五季下来，就这一季我没法给五星。这种思辨类的节目，不可能每一期的出题和辩论都维持高水平，偶尔有起落也正常，也不可能取悦所有人。但是，李诞的加盟和新人的本末倒置我忍不了。根本没有在李诞身上看到思想深度和基本礼数，基本上可以说是毫无家教影响大局，不展开批评了，一万个膈应。另一个问题是，新人的注血虽然很必要，但是筛选机制太有问题了。虽然这是一个把辩论赛进行娱乐化的节目，但是老将们发言中的插科打诨仍然是基于立论和逻辑的，但是新人们似乎觉得段子才是制胜法宝，经常有东一榔头西一棒槌的荒谬感，看新人和老将混搭在一组里合作时，这个水平落差上上下下太难受了。"
+    },
+    {
+      "user": "柒二",
+      "avatar": "https://img3.doubanio.com/icon/u144582539-2.jpg",
+      "content": "观众也太难伺候了，一个“奇葩”和“说”同样重要的节目，嫌吵闹嫌无脑的，非逼人家真拍成严肃的辩论节目吗？看华辩录像不就好了？好玩儿的不就是这群求同存异的人把道理揉进段子里活给你看吗？要啥自行车啊？"
+    },
+    {
+      "user": "清平调",
+      "avatar": "https://img1.doubanio.com/icon/u141984553-7.jpg",
+      "content": "陈铭真是被人设害的，明明实力与颜值并重，逻辑脑洞和辩论口才起飞，BB king急需要他的加入，拉升水平和深度-）"
+    },
+    {
+      "user": "莫黛尘🌈",
+      "avatar": "https://img3.doubanio.com/icon/u78227900-1.jpg",
+      "content": "第一期，来打分。\n经期做爱选手打人出柜分手这些都先放一边。\n我是奇葩说铁粉，近乎脑残的地步了，前四期都打了五星。但这季，至少第一期，太尴尬了。辩论是逻辑，演绎和思辨。按照奇葩说的选题，题目好了效果自然出来，没必要让选手这么声嘶力竭歇斯底里的表演。\n议题可以奇葩，但辩论需要严肃。"
+    },
+    {
+      "user": "shatutut112",
+      "avatar": "https://img3.doubanio.com/icon/u80305341-6.jpg",
+      "content": "唉，以前看奇葩说是连连点头”诶，说的有道理哦，这个角度我没考虑过”。现在看是”诶，这傻B😒”"
+    },
+    {
+      "user": "曹笑天",
+      "avatar": "https://img3.doubanio.com/icon/u81980301-10.jpg",
+      "content": "可能是我接受能力比较强吧，这一季依然喜欢。"
+    },
+    {
+      "user": "海边的卡夫卡",
+      "avatar": "https://img3.doubanio.com/icon/u140174229-2.jpg",
+      "content": "2018.11.3更新的这集，是我看了五季奇葩说最好看的一集。2018.11.16这期那么精彩，居然没涨分。"
+    },
+    {
+      "user": "阿又。",
+      "avatar": "https://img3.doubanio.com/icon/u2743256-12.jpg",
+      "content": "看到肖骁选陈铭的瞬间！好燃！！！太喜欢肖骁了好真实！不油腻！共享知识的那一集加一星。"
+    },
+    {
+      "user": "风中芭蕾",
+      "avatar": "https://img1.doubanio.com/icon/u63773386-7.jpg",
+      "content": "这一季肉眼可见的变化大，前所未有的残酷赛制，但是不变的内核还是辩论和内容，新奇葩里有熊浩庞颖詹青云这样的辩论大神，也有李思恒这样的搞笑奇葩，比上一季的新奇葩要强，而且老奇葩如傅首尔臧鸿飞也稳定发挥，期待明天的花希！！"
+    },
+    {
+      "user": "老师在线答疑",
+      "avatar": "https://img3.doubanio.com/icon/u156816670-5.jpg",
+      "content": "当第二集正经说论点的老实人输给全靠装逼的rap歌手的时候，我对这个节目很失望了。特别是李诞，非常平静地把复活权利给老实人的时候，对比那些嬉皮笑脸的导师和观众，我对他表示同情。一个节目，输出全靠吼，吸纳了过多没内涵的综艺咖，这个节目也就看不到思想的魅力了。"
+    },
+    {
+      "user": "高达君-",
+      "avatar": "https://img3.doubanio.com/icon/u6071212-24.jpg",
+      "content": "首先这个满星有鼓励成分，毕竟五季老粉。其实每个现象级IP节目从第二季起大多都逃不过逐渐flop的境遇，区别只在于撑几季而已。而奇葩说大概第三季开始就已经出现新鲜感消褪审美疲劳的问题。只是没想到姜思达突然地崛起像是给节目打了一剂强心针又再撑了两季。而到了第五季，一波十八折地拖到现在才播出，目前从第一集看还是蛮不错的有用心，至少大改赛制带来了不错的新鲜感，也竭力地找了很多新选手（虽然一眼扫过去都是熟面孔啦，什么张雪峰杨奇函沈玉琳甚至奶茶所长三棒子都是各种其他类型综艺出现过的话题人物。内地通告艺人时代来临？），而新导师蛋蛋和薛兆丰也是有相当看点。但四季bibiking退出辩手位，姜思达范湉湉也退出第五季，节目的精彩度会不会大打折扣呢？还是放眼期待吧。"
+    },
+    {
+      "user": "長島冰茶",
+      "avatar": "https://img3.doubanio.com/icon/u54035643-12.jpg",
+      "content": "EP8EP16EP17不错"
+    },
+    {
+      "user": "一剑西来",
+      "avatar": "https://img3.doubanio.com/icon/u35791987-2.jpg",
+      "content": "红梅是不是有背景？这种也叫有逻辑又可爱？等了这么久，结果有些失望！到了后面，臧鸿飞已经gai到了加分点，所以就使！紧！吼！而最让人失望的是，奇葩说开始把观众当成傻逼去对待，而现场的观众们确认了这种看法是对的。"
+    },
+    {
+      "user": "武侠老王子",
+      "avatar": "https://img3.doubanio.com/icon/u1413054-35.jpg",
+      "content": "谁撒泼、谁会表演谁就能赢？也是够奇葩的。"
+    },
+    {
+      "user": "小皮",
+      "avatar": "https://img3.doubanio.com/icon/u159113771-1.jpg",
+      "content": "是不是应该反省一下奇葩说的重点到底是奇葩还是说？(五季老粉，四星观望)(不观望了，9期结束，三星)"
+    },
+    {
+      "user": "volcano",
+      "avatar": "https://img3.doubanio.com/icon/u64268758-3.jpg",
+      "content": "节目形式改得太让人失望了，明明是牛逼的原创，跑去学别人组什么战队？？？一堆乱七八糟的采访和社交词汇组成的点评混在一起，再随意地插入辩论中间，破坏了所有的节奏。一个内容至上的节目，把仅剩的荣光都丢了。奇葩说选手能红不是玩什么选秀节目的养成类游戏，真的不是。"
+    },
+    {
+      "user": "胖斌plus",
+      "avatar": "https://img3.doubanio.com/icon/u70975366-5.jpg",
+      "content": "不好意思！维护老奇葩的倾向太明显！差评！！新赛制、新模式无可厚非，只是臧鸿飞的这种呐喊式“求生欲”实在不敢苟同！逻辑是不顺的，论据是弱的，能在车轮战中取胜在我看来无非是靠着所谓“摇滚式呐喊”刺激现场观众得来的！有理不在声高，难不成这句话是扯淡的？说话打结不是错，辩论基本靠吼就特么是你的错了！"
+    },
+    {
+      "user": "嘿嘿嘿",
+      "avatar": "https://img3.doubanio.com/icon/u49757536-21.jpg",
+      "content": "马薇薇的哪一出闹剧，直接让奇葩说这个温暖的节目变得毫无真情实感可言，再看他们落下的每一次泪水都不觉得是真心而是虚假。哦嚯 又出了傅首尔泼妇打董婧 拜拜了您咧这个节目"
+    },
+    {
+      "user": "清水一郎",
+      "avatar": "https://img3.doubanio.com/icon/u74651408-12.jpg",
+      "content": "神烦飞飞，不行就是不行，加nmlgb"
+    },
+    {
+      "user": "开膛手贝塔",
+      "avatar": "https://img1.doubanio.com/icon/u4181809-58.jpg",
+      "content": "近亲繁殖，裙带关系，各种撕逼，已不好看。"
+    },
+    {
+      "user": "小屿转晴",
+      "avatar": "https://img3.doubanio.com/icon/u2381276-41.jpg",
+      "content": "对李诞粉转路人，一直打岔的观感太不好了"
+    },
+    {
+      "user": "tonybro",
+      "avatar": "https://img3.doubanio.com/icon/u141886816-1.jpg",
+      "content": "这个赛制没问题，但是找一些没啥水平的人和有水平的人一起辩论就像一场闹剧，毫无营养，浪费时间"
+    },
+    {
+      "user": "朝阳区妻夫木聪",
+      "avatar": "https://img1.doubanio.com/icon/u57750369-57.jpg",
+      "content": "老粉追到现在，也不指望贵节目能出什么有质量有深度的辩题了，爱情题颠来倒去换个法子问十遍，不想吐都被催吐了。赛制也是莫名其妙，人为设计的剧本感也太重了，为了打造如晶队的逆袭和马vv队的跌落“神坛”而刻意制造冲突，选手访谈也是不停打断辩论的连贯性。或许作为娱乐真人秀，它还是好看的吧，但老粉表示真的还是想看到奇葩说作为一档辩论节目的理性担当吧。下一季干脆改个名叫“奇葩嘤嘤嘤之谁能比我更惨看我分分钟哭给你看show”吧。（全季追完，最后如晶队夺冠真的是剧本痕迹明显到恨不得写出来贴在脑门上了，然而话虽如此，最后陈铭跟如晶争BBKing还是看得很过瘾，以及陈铭最后赢了的时候都哭腔了，二位确实都不容易。但是最后那题什么鬼？下一季再出爱情题导演请切腹谢罪好吗？给最后一集加一星吧，唉）"
+    },
+    {
+      "user": "一壶浊酒尽余欢",
+      "avatar": "https://img3.doubanio.com/icon/u76117501-4.jpg",
+      "content": "野红梅马剑越臧鸿飞哪一个不比李思恒差？"
+    },
+    {
+      "user": "Cycble",
+      "avatar": "https://img3.doubanio.com/icon/u33328167-4.jpg",
+      "content": "欧阳超怎么又来啦？？？还好一剪梅，不然又是大型gai不到笑点懵逼现场。期待多一点普通男孩赵英男、川味少年李思恒、哈佛博士詹青云、率性网红野红梅、温柔绅士熊浩这样的新奇葩吧，吊打老奇葩还是挺好看的。有一种魔幻叫做，李思恒、花希淘汰了，欧阳超还在。"
+    },
+    {
+      "user": "花压",
+      "avatar": "https://img3.doubanio.com/icon/u146910191-5.jpg",
+      "content": "马薇薇那群抱团的人，简直成为这个节目最恶心的存在。"
+    },
+    {
+      "user": "🌙°",
+      "avatar": "https://img3.doubanio.com/icon/u165178510-24.jpg",
+      "content": "能不能把臧鸿飞淘汰掉"
+    },
+    {
+      "user": "犇赑猋靐矗麤毳",
+      "avatar": "https://img3.doubanio.com/icon/u44824245-3.jpg",
+      "content": "奇葩说被下架的就有很多期了，舆论环境越来越窄，只能辩论些无关痛痒的话题，所以奇葩说重点变成奇葩可能也是无奈，整体来说节目很聒噪；老奇葩各种撕逼，撕人的不走，被撕的走了。/// 看到第六期，发现最令人失望的还是新奇葩，和一位中生代奇葩马剑越，几乎每一个人都快进了。/// 啊啊啊肖骁 E08 太厉害了！"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "2.5 赛制竟然变成了《中国好奇葩》加《奇葩101》，目前就“场子乱”这么一个感觉。后期每集结尾都要哭一哭，一整季都在尬卖情怀，服了。"
+    },
+    {
+      "user": "嘟嘟熊之父",
+      "avatar": "https://img3.doubanio.com/icon/u2201715-15.jpg",
+      "content": "讲真的，都办到第五季了，辩题的深度能不能提高哪怕一点点？什么打赏女主播？一夜暴富？识别绿茶？好歹都是上过大学的人，这么上蹿下跳急赤白脸的结果就辩些这？以及，动不动就把辩论搞得跟追悼会一样，哭哭唧唧靠卖惨洗白博同情，再没见过比《奇葩说》这帮人更精致的利己主义者了。"
+    },
+    {
+      "user": "孙学文",
+      "avatar": "https://img3.doubanio.com/icon/u120213623-5.jpg",
+      "content": "看《奇葩说》如何变成《中国有奇葩》。"
+    },
+    {
+      "user": "acupofbouquet",
+      "avatar": "https://img3.doubanio.com/icon/u107686146-6.jpg",
+      "content": "都走奇葩综艺咖路线 不尴尬吗？全程二倍速还是跳着看的                                              "
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "依然是直男不可能胜出的节目（最后居然陈铭胜了，哈哈），五季下来，其实属于残喘阶段了，跟父母出柜那次被禁之后，很多话题不能再碰，不敢再辩，改赛制，找李诞、薛兆丰也是勉为其难了，如果没有老奇葩续命，热度会持续下降，而老奇葩已经形成小圈子和利益共同体，内部又有拉帮结伙的分裂，傅首尔、董婧从口撕到真打，已经把内部矛盾白热化，成也老奇葩，败也老奇葩，米未危机初现，再兑现一些流量之后，是该见好就收，考虑转型了。"
+    },
+    {
+      "user": "淋",
+      "avatar": "https://img1.doubanio.com/icon/u75215757-17.jpg",
+      "content": "马薇薇，给我把你的臭嘴闭上！"
+    },
+    {
+      "user": "谢明宏",
+      "avatar": "https://img3.doubanio.com/icon/u55842929-2.jpg",
+      "content": "马东，蔡康永，高晓松，薛兆丰，压不了ong和eng的韵，都别想当导师。李诞嘛，另算吧……"
+    },
+    {
+      "user": "走伐走伐就迷路",
+      "avatar": "https://img3.doubanio.com/icon/u135473337-11.jpg",
+      "content": "看了第一期，剪辑和后期开始走《中国有嘻哈》的路子。明明只有半个小时的干货，非要加上一堆选手的采访，结尾还开始留起了悬念，这都是以前奇葩说没有的。很难判断这种效果的好坏，但最终节目口碑还是得回归到节目内容上，第一期看下来，略失望。"
+    },
+    {
+      "user": "哪吒男",
+      "avatar": "https://img3.doubanio.com/icon/u42174843-51.jpg",
+      "content": "第一次觉得，会说话的人咋这么讨厌啊！！"
+    },
+    {
+      "user": "兔子是哑巴",
+      "avatar": "https://img3.doubanio.com/icon/u140280396-4.jpg",
+      "content": "以前最喜欢的综艺节目竟然变成了这样，一群没什么观点的人全靠吼的闹剧，很失望。复活赛连选手辩论时的一句话都剪不进去，反而全是心理活动，拜托，我是要看观点和辩论，谁在乎你们当时是紧张遗憾还是别的什么啊！节目时间有限就少剪点广告和段子不行吗"
+    },
+    {
+      "user": "蜉蝣百里",
+      "avatar": "https://img1.doubanio.com/icon/u32867787-38.jpg",
+      "content": "令人惊喜的大概是薛兆丰了"
+    },
+    {
+      "user": "不良生",
+      "avatar": "https://img1.doubanio.com/icon/u2065435-38.jpg",
+      "content": "姜思达走后，这一季成了姜思达模仿秀吗——肖骁的发型，花希的妆容，赵英男的嗓音，全都在向姜思达致敬～"
+    },
+    {
+      "user": "mm32",
+      "avatar": "https://img3.doubanio.com/icon/u83538603-6.jpg",
+      "content": "第一期就两个字：聒噪。那个山东大妈和湖南小演员真的太聒噪了，太吵了，太烦了。片头看到好多熟悉的面孔，关八的二毛，N年没见的雷雷，一转眼幸福晚点名是八年前的综艺了，内地版大学生了没，我的大学时光特别爱看。没想到第四季几乎没追，第五季竟然一直在看，加一颗星，但是这一季的辩题太low了，基本全是情情爱爱，太垃圾了。"
+    },
+    {
+      "user": "月光",
+      "avatar": "https://img3.doubanio.com/icon/u50821658-5.jpg",
+      "content": "快乐是短暂的快乐，但沈玉琳和他的瞎话段子永流传。"
+    },
+    {
+      "user": "𓅩 𓅪 𓅭 𓅮",
+      "avatar": "https://img3.doubanio.com/icon/u97410847-5.jpg",
+      "content": "抱着看辩论节目的心情，发现这一季从制作组到新人到老奇葩到导师到导演，所有人都在以娱乐节目标准在做。难以置信花了两个多小时看了快手抖音标准的泼妇撕逼。再见"
+    },
+    {
+      "user": "豆瓣逼我改名",
+      "avatar": "https://img1.doubanio.com/icon/u62498151-8.jpg",
+      "content": "不说别的，一直以来我看这个节目就是因为里面会时不时的提供给我一些新观点新视角。以前每一期至少能有几个观点让我感慨，但是这季两期了，一点没有观点的冲击，只有吵吵吵的……脑袋都疼，也没啥内容。剩下的是赛制和形式，内容丢了"
+    },
+    {
+      "user": "zolker",
+      "avatar": "https://img3.doubanio.com/icon/u52014785-4.jpg",
+      "content": "毫无存在感的导师，各种尴尬，顺利从辩论节目变成骂街节目...另外四位老奇葩拿着耳机听不累吗"
+    },
+    {
+      "user": "Simone",
+      "avatar": "https://img3.doubanio.com/icon/u144784053-13.jpg",
+      "content": "看了四季，终于觉得“太吵了”！可能是我长大了吧……"
+    },
+    {
+      "user": "啊哦额咦唔",
+      "avatar": "https://img3.doubanio.com/icon/u104690194-2.jpg",
+      "content": "臧鸿飞什么玩意儿？喊什么？有病吗 这么多季了也没个长进 真的不知道是怎么还留在这个节目里的 恶心（11.4更新 加两星 陈铭真的厉害 以前不喜欢他的发言 但是这一季太强了吧 他和董婧的最后开杠一分钟 怎么说都在自己划得的圈子里 厉害！（12.11更新 陈铭BB King！五星支持！"
+    },
+    {
+      "user": "鲜肉兄",
+      "avatar": "https://img3.doubanio.com/icon/u58172456-4.jpg",
+      "content": "希望我最爱的奇葩说，可以回到它刚开始的样子。"
+    },
+    {
+      "user": "蓝布鞋。",
+      "avatar": "https://img3.doubanio.com/icon/u147005730-3.jpg",
+      "content": "看完第九期后真的想弃了。首先，导师没有秉持中立。虽然喜欢李诞，但这期他diss正方杨奇函和陈铭真的让人不痛快。其次，跑票数当观众是傻子。正方跑最多的李思恒被淘汰，臧鸿飞跑了60+票。第三，辩论节目变成了脱口秀，剧本痕迹不忍直视。一直以来，奇葩说的赛制就很成问题（S4半决赛史诗级灾难），这季还没吸取教训？想红的要捧的一目了然，辩题也越来越没含量，直接沦为二流综艺。既然如此，作为老观众的我只能用一星来敲醒一步一步作坏自己、一步一步侮辱观众的主创了。🙄（打脸了 17期共享知识加两星！24期陈铭夺冠再加半星吧，就不四舍五入了）"
+    },
+    {
+      "user": "蓝田",
+      "avatar": "https://img3.doubanio.com/icon/u59215037-51.jpg",
+      "content": "还是希望看到睿智的观点，然而除了熊浩外，这样的人尚未出现。可我不喜欢他的说话方式，听着就说教意味很重。"
+    },
+    {
+      "user": "独孤行二",
+      "avatar": "https://img3.doubanio.com/icon/u154805320-3.jpg",
+      "content": "改变了前四季的模式，变得更像综艺。蛋总和熊浩好评！无论离婚撕逼真假，开播前微博各种炒作热搜不是好现象。更想看辩论和新奇观点，而不是奇葩搞笑。姜思达和范湉湉的出走或许是聪明的，陈铭的封王实至名归。"
+    },
+    {
+      "user": "Weico",
+      "avatar": "https://img1.doubanio.com/icon/u90056142-29.jpg",
+      "content": "我蛮爱看台湾综艺的一点就是它们大多数都在直言不讳地坦诚自己俗，诶我就是下饭的，我就低级趣味。而这种披着给你指引给你力量却只会喊口号搞煽动抖机灵说讨喜的话的节目，就像一个假热情真自私的渣男一样，看似可靠实则荒谬。"
+    },
+    {
+      "user": "王哼哼",
+      "avatar": "https://img1.doubanio.com/icon/u155510353-8.jpg",
+      "content": "ep09对李诞粉转路\n飞飞讲的的确不错\n但是李诞跑票期间无故diss杨奇涵加上之前直播\n让我从今晚80后脱口秀，吐槽大会，脱口秀大会一系列积累的好感瞬间清零\n就像前几天他微博发的，他的确不适合活的通透这个人设。\nep17改成三星，陈铭老师和詹青云老师还有康永哥和薛教授真是神仙打架，那句我们还有星辰和大海还有用詹青云说:开尔文说物理的大厦已经建成，然后陈铭老师说后面还有一句但是还有两团乌云你没说反打知识垄断也太惊艳了，让我知道了读书有多重要，学习了。"
+    },
+    {
+      "user": "一個死槍槍",
+      "avatar": "https://img1.doubanio.com/icon/u1531287-17.jpg",
+      "content": "渣男抬槓潑婦罵街 你橫你BB 誰慫誰尷尬"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "正在半综艺半辩论的阶段，正逐步走向完全综艺娱乐节目。辩论胜利全靠撕哄和煽情，段子正在消解逻辑和论证，傅首尔深谙此道。老奇葩一个没死表明这节目现在有多精明！臧鸿飞和马剑越起死回生复活晋级，这水分简直是水漫滔天。6.5"
+    },
+    {
+      "user": "蜉蝣",
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "content": "掏心掏肺这件事，一两次觉得很感人，多了就只剩恶心了。自己的内脏请妥善保管，尤其你只是为了赢。(或者有的人为了钱掏情怀)。聪明还不卖惨，如晶和薛教授多难得。"
+    },
+    {
+      "user": "Odyssee",
+      "avatar": "https://img3.doubanio.com/icon/u66715562-4.jpg",
+      "content": "前三季精彩，第四季一般，这一季真的很差。"
+    },
+    {
+      "user": "spirit1204026",
+      "avatar": "https://img3.doubanio.com/icon/u99546853-1.jpg",
+      "content": "质量雪崩 辩题幼稚 很多辩手水平低下。李诞开始还行，调节气氛能力优秀，到中期开始莫名其妙，用一贯的看似不在乎的质疑去干扰辩手，表现出极重的胜负心，比如多次说辩手胡说八道 、昨晚怼奶茶。马薇薇水平下滑，和傅首尔窃窃私语拉帮结派的嘴脸简直不要太难看。花希都能被淘汰 我还看什么？      刚知道马薇薇得了抑郁症，哎，祝早日康复。"
+    },
+    {
+      "user": "阿鲁",
+      "avatar": "https://img1.doubanio.com/icon/u1754144-19.jpg",
+      "content": "当众读稿，分贝输出，冷场掉线，胡搅蛮缠……剩下的一星给陈铭。 # 知识共享集更新：再添一星给陈铭，能给他添五颗星吗？"
+    },
+    {
+      "user": "阿醒",
+      "avatar": "https://img3.doubanio.com/icon/u48056497-3.jpg",
+      "content": "李诞只会插嘴打断别人讲话什么玩意儿啊。"
+    },
+    {
+      "user": "與",
+      "avatar": "https://img3.doubanio.com/icon/u7108196-2.jpg",
+      "content": "奇葩说范儿回来了~（Update:并没有）"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "臧鸿飞，马剑越老奇葩该走了，这一季从剪辑到选手都一言难尽，播了这么多期没有一期能好好说话的！"
+    },
+    {
+      "user": "陈家大花",
+      "avatar": "https://img3.doubanio.com/icon/u56145274-12.jpg",
+      "content": "Diss马剑越臧鸿飞野红梅等一干没实力的奇葩"
+    },
+    {
+      "user": "安蓝·怪伯爵𓆝𓆟𓆜",
+      "avatar": "https://img3.doubanio.com/icon/u1056861-674.jpg",
+      "content": "bbking是谁意义不大，对我而言本季最大收获是薛教授（星星眼）！整季亮点真数不出几个，辩题越来越水，一些戏精老奇葩江郎才尽辩论技术说不上进步演技倒是高超了不少。理解一档节目做到第五季有多难，虽然还会跟着哈哈哈哭哭哭是没错，可感触呢好像嘴角归位擦干鼻涕眼泪心里啥也没留下。不过我学会了看完写几笔自己对辩题的感受和想法，能吸取别人观点豁达自己心胸，不非得让别人知道我怎么想的更不强求别人认同，凡事春生点头.gif，这才是真的收获吧。ps，希望彻底大换血，不要辩着辨着就唠互相之间的情感嗑。腻。你看人家“冷血”薛教授！最后一句：虫仔加油！最最后一句，决赛真特么恶心，拿观众当啥了？最最最后再首尾呼应一下，恭喜陈铭！值得加一星！"
+    },
+    {
+      "user": "不贰",
+      "avatar": "https://img3.doubanio.com/icon/u149537298-6.jpg",
+      "content": "大型尬聊"
+    },
+    {
+      "user": "tintinzhou",
+      "avatar": "https://img3.doubanio.com/icon/u23093702-46.jpg",
+      "content": "没见过这么烂的赛制 先是淘汰表现不错的秦教授，后来淘汰新奇葩表现极为亮眼的李思恒 一个星是泄愤 太气了"
+    },
+    {
+      "user": "高调的抽风",
+      "avatar": "https://img3.doubanio.com/icon/u49642517-2.jpg",
+      "content": "看完11.3这期想说应该不会再看了。这期的后30分钟陈铭用八千字讲述了为什么大多人误解的话就是坏话，正方的最后结辩竟然是我们的初心是好的，瞬间质疑自己我为什么看这个节目。奇葩说的确是一个辩论节目，马东也一直说规则就是规则，但是我一直觉得节目的优点正是李诞调侃的那句“找观点硬说”。这季的赛制让所有的选手都绷着弦只为了赢，别跟我说奇葩说是专业的辩论节目、辩论技巧是关键，那肖晓范湉湉根本就不可能走到现在，这本来应该是一个供不同的人一起成长的平台，让各种“奇葩”说出不一样的角度的平台，现在呢？新的选手没等着表现就已经被淘汰了，李思恒秦教授都是很棒的选手；老选手每天都想我要赢我要让观众给我投票我要打感情牌，肖骁站起来哭说我的队员们比别人都努力的时候我都笑了，天啊这到底是个什么节目？不忘初心，我觉得它没做到。"
+    },
+    {
+      "user": "maruko",
+      "avatar": "https://img3.doubanio.com/icon/u124786531-1.jpg",
+      "content": "没有思达只有撕逼，各种抱团，第五季，希望不是气数已尽"
+    },
+    {
+      "user": "其乐融融",
+      "avatar": "https://img3.doubanio.com/icon/u162138880-1.jpg",
+      "content": "李诞狗屎不如"
+    },
+    {
+      "user": "əlʎʞuɐʇ",
+      "avatar": "https://img1.doubanio.com/icon/u55888909-28.jpg",
+      "content": "好奇葩一个接一个淘汰....留下臧鸿飞野红梅这种又无趣又没逻辑的人"
+    },
+    {
+      "user": "海虻恺",
+      "avatar": "https://img3.doubanio.com/icon/u53038935-23.jpg",
+      "content": "2018/10 爱奇艺 @London；想试着看一集，嚯，“情侣吵架谁错谁道歉，还是男生先道歉“？？？？！！！从前几季的（婉转）公开支持LGBT倒退到TMD公然性别歧视的辩题？？？真有出息嘿！"
+    },
+    {
+      "user": "chaos",
+      "avatar": "https://img3.doubanio.com/icon/u3845576-6.jpg",
+      "content": "薛教授很不错，李诞很闹很烦。\n赛制很烂，辩题越发无聊，应该没有下一季了。\n（PS:马剑越为什么总是不上场？)"
+    },
+    {
+      "user": "王夕雨小姐姐",
+      "avatar": "https://img3.doubanio.com/icon/u178908169-1.jpg",
+      "content": "李思恒被淘汰了，回来改一星，作死的节目。该淘汰的一直强留，强捧灰飞烟灭！"
+    },
+    {
+      "user": "小猪林儿",
+      "avatar": "https://img3.doubanio.com/icon/u53920122-1.jpg",
+      "content": "李思恒走了，我也决定弃剧了。老奇葩的裙带关系，赞助资本对导师的控场，几个男人的糖衣炮弹……回归初心就是看的生气就换台！"
+    },
+    {
+      "user": "T.V.Zoe ி",
+      "avatar": "https://img3.doubanio.com/icon/u1564567-25.jpg",
+      "content": "鬼使神差看了这一季我也不知道为什么  但是反正我知道这一季诠释了什么叫菜鸡互啄"
+    },
+    {
+      "user": "放大招！",
+      "avatar": "https://img3.doubanio.com/icon/u84610236-2.jpg",
+      "content": "奇葩说第五季怎么多了那么多有趣的直男！"
+    },
+    {
+      "user": "心有微澜",
+      "avatar": "https://img3.doubanio.com/icon/u150394703-1.jpg",
+      "content": "扪心自问，你还是最初那个提倡多元，能一语惊醒梦中人的奇葩说吗"
+    },
+    {
+      "user": "程术",
+      "avatar": "https://img3.doubanio.com/icon/u145171269-6.jpg",
+      "content": "陈铭、詹青云在发光"
+    },
+    {
+      "user": "象二",
+      "avatar": "https://img3.doubanio.com/icon/u84255321-10.jpg",
+      "content": "飞飞和马剑越强行赢就没意思q"
+    },
+    {
+      "user": "糖豆儿_🍑",
+      "avatar": "https://img3.doubanio.com/icon/u149140629-5.jpg",
+      "content": "花希走了－1\n李思恒走了－1\n臧鸿飞还不走－1"
+    },
+    {
+      "user": "幻听",
+      "avatar": "https://img1.doubanio.com/icon/u52293862-9.jpg",
+      "content": "置之死地而后生的奇葩说啊！果然高手在民间，四位bbking被关起来（233）露真性情就可爱多了，少爷笑点跟康永一样低，vv姐那句\"他一定会选我的\"简直太圈粉了。虽然我戾气很重，但是低的吵架能力真的太短板了，这简直唤起了我久违的杠精欲…啊不辩论欲。说实话，老奇葩都乏善可陈，傅首尔说得再好也一票否决，老奇葩里除去真爱陈铭和宝贝如晶，就是我警察叔叔！！！！！！我是警察叔叔万年粉！！！！！！变心我就被直接收监！！！！！！神tm东京巴黎不顺路。。。还有神tm买书包。。。哈哈哈哈哈哈哈哈哈哈哈哈。。。（被精神病科带走）。。。"
+    },
+    {
+      "user": "风车若葵one",
+      "avatar": "https://img3.doubanio.com/icon/u141837672-61.jpg",
+      "content": "因为野红梅在复活赛的表现\n我对第五季要恶心透了\n真的是在把在场观众当没有脑子的傻子遛，最有意思的是在场观众居然任她遛？"
+    },
+    {
+      "user": "涵爷取向特别直",
+      "avatar": "https://img3.doubanio.com/icon/u102921177-2.jpg",
+      "content": "看得出来 第五季无论是从节目形式 还是各位奇葩 所有的一切都在寻求改变 每个人都在努力变好 大家也不要一直沉浸在以往的模式中 有改变才会有进步 看了第一期节目 全程逗得我傻笑 期待后面的选手 更期待矮大紧 希望越往后越惊喜"
+    },
+    {
+      "user": "阳光下的行走201",
+      "avatar": "https://img3.doubanio.com/icon/u140395553-1.jpg",
+      "content": "该淘汰的不淘汰，不该淘汰的倒先出局，还有那个李诞，在未锁票的时候嘴咋那么贱，偏袒那么明显。李思恒和花希的率先淘汰减两星，贱嘴李诞减一星，低俗段子沦为奇葩说主旋律再减一星"
+    },
+    {
+      "user": "字绿",
+      "avatar": "https://img3.doubanio.com/icon/u142037444-11.jpg",
+      "content": "新一季真的很脱口秀，看完第一集觉得这简直就是大型人生百态，各个维度的人大杂烩化学反应很奇妙。"
+    },
+    {
+      "user": "波多克",
+      "avatar": "https://img1.doubanio.com/icon/u67859443-7.jpg",
+      "content": "做这个评论是第五季车轮赛最后一场结束，秦教授主动离开。追了五季，给个差评确实不那么容易吧。其实这季从开始憋了很多不满，一直到现在。输出全靠吼，胡搅蛮缠战胜好好说话，剪辑强行带节奏，肖骁打的第一场比赛就开始说自己一路走来多么不容易，一直打到今天这场，还是在表演哽咽。我看了下评论，好像大部分都是说肖骁努力肖骁成长之类的，可即便真如你所说，我也想回到辩题和思考本身，那些煽情，我不喜欢。奇葩说终于还是从一个内容输出节目变成了真人秀节目，辩手们从我想说变成了我要说观众爱听的。既然这样，奇葩说不就失去了它的本质了吗，所以一星再见，是时候告别了。"
+    },
+    {
+      "user": "VIO丨",
+      "avatar": "https://img3.doubanio.com/icon/u143358133-1.jpg",
+      "content": "很失望。之前马东说要更多的去吸引年轻的00后观众群体，本以为是会从话题或者嘉宾上面做一些不一样的考量，结果改成了这么一个不伦不类的形式，话题有没有深度姑且不说，问题是这还是在辩论吗？以前的节目里是会有一些说的很一般的人，但每个组里总会有一两个大神，我可以理解不可能所有的奇葩们都很会说，但我真正受不了的是两个水平相差巨大的甚至可能是两个菜鸟的所谓辩论，我花时间看他们说一些既不深刻又一点都不好笑的话是干嘛？以前完全是因为内容喜欢这个节目，前几季一期没落下，但今天一期我都看不下去。丢掉自己真正的不一样的点去学一些所谓爆红综艺的形式，真是不知道是怎样的市场分析让他们做这样的一个自毁根基的改变。"
+    },
+    {
+      "user": "Crazy-Joker",
+      "avatar": "https://img1.doubanio.com/icon/u144531362-7.jpg",
+      "content": "李诞这两字就值五星"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img3.doubanio.com/icon/u76711880-3.jpg",
+      "content": "请藏鸿飞赶紧下台"
+    },
+    {
+      "user": "秦时明月",
+      "avatar": "https://img3.doubanio.com/icon/u169784931-1.jpg",
+      "content": "就知识共享这一期，足以吹爆这一季"
+    },
+    {
+      "user": "里士多德",
+      "avatar": "https://img3.doubanio.com/icon/u158073705-1.jpg",
+      "content": "11.16的这一期是让这一季上了一个新高点啊！陈铭就是男神啊！！！"
+    },
+    {
+      "user": "米山瓜",
+      "avatar": "https://img3.doubanio.com/icon/u58709050-55.jpg",
+      "content": "为我女神詹青云打十星，不会改\n散发着理性的光，表达着法律人的良心\n是我想成为的样子和羡慕的人生"
+    },
+    {
+      "user": "kolili01",
+      "avatar": "https://img3.doubanio.com/icon/u2945889-1.jpg",
+      "content": "一直追随的、心中最爱的综艺。陈铭在发光、熊浩有大爱。粉上荒诞感的欧阳超，so cute"
+    },
+    {
+      "user": "野蒜",
+      "avatar": "https://img3.doubanio.com/icon/u57966675-30.jpg",
+      "content": "第16期的辩题“在外地工作过得不开心要不要跟爸妈说”第23期“知道死亡时间是否要告知他人”还不错，但我不懂爱奇艺每期的视频标题为什么不是辩题，而是“董岩磊高秋梓回忆被骂上热搜 董婧犀利发问直击飞飞”，让人毫无观看欲望。太蠢了。用megalo box的配乐当节目BGM给钱了吗？"
+    },
+    {
+      "user": "喂，叫我愤青!!",
+      "avatar": "https://img1.doubanio.com/icon/u4691748-77.jpg",
+      "content": "除了李蛋嘴炮和傅首尔的段子 已无看点"
+    },
+    {
+      "user": "喝茶",
+      "avatar": "https://img3.doubanio.com/icon/u141808401-1.jpg",
+      "content": "原先看完第五期之后从三分改到四分，坚持看到第九期，这节目现在在我心里也就值两分了，弃了。"
+    },
+    {
+      "user": "老葡",
+      "avatar": "https://img3.doubanio.com/icon/u4396203-12.jpg",
+      "content": "我何时追了一档情感节目？？"
+    },
+    {
+      "user": "忧郁的皮蛋",
+      "avatar": "https://img3.doubanio.com/icon/u65674123-34.jpg",
+      "content": "熊浩、赵英男不错诶…怎么着，这一期辩论是不是证明学习是有价值的哈哈哈哈。这一期人怎么时常有抠图感…如果那些黑料都是真的大家私下这么尴尬还要为了生计搞一个节目么…那不如别说别的了，说说这个吧“私下都妈卖批了节目里还有必要笑嘻嘻么”不过这也不是rap节目，没必要real是吧…虽然有个垃圾的发布会，但第一二集还阔以。第三季这个正经的辩论很好了，加星星，庞颍如晶和傅首尔在辩论上真的厉害…詹青云选马薇薇她们是希望自己能娱乐化些么？不是很懂…明明执中or邱晨更厉害啊…看吐槽大会不怎么喜欢李诞，看了这个觉得李诞也就那样吧。知识共享这一集太棒了太有意思了，薛教授詹青云陈铭真不错👍其他人就别说自己在辩论了吧，撒泼吵架还差不多。"
+    },
+    {
+      "user": "Lan~die",
+      "avatar": "https://img1.doubanio.com/icon/u1275416-68.jpg",
+      "content": "薛教授找对了，单维黄执中。高晓松、飞飞不能缺，詹青云亮晶晶，李诞除了干扰啥也不会。3BangZ萌未来星酷，想看他们跟欧阳超Battle。\n邱晨：恋爱中真实可能没那么重要，真实感才重要。\n马薇薇：爱不是比较，家是家园，是可以让我们不那么好。\n高晓松：年轻人当然觉得爱情重要，慢慢活得久了，就觉得要过一个什么样的人生、想成为一个什么样的人更重要。纯良、诚恳、磊落的自己，这是人生中最重要的而不是谈恋爱。两个自由的灵魂相爱，才是最好的感情。两个互相阉割甚至自我阉割的灵魂，这也不行那也不行藏着掖着躲着，那不是好的爱情，更不是好的人生。\n欧阳超：最好的爱情其实是不般配的。两个人之间的缝是微妙的潮汐引力，我们如两颗星球，又是两块磁铁，彼此拉扯牵引。正是因为你在前面我才不舍得抛弃，你时时能看到我奋力追赶留下的车辙又觉动情。"
+    },
+    {
+      "user": "Vulpecula.h",
+      "avatar": "https://img1.doubanio.com/icon/u4145696-139.jpg",
+      "content": "奇葩说工作人员都是干嘛的 本来很有实力的选手死逼到无法控制来回微博开骂 最后退赛人设崩塌 新奇葩没几个能撑起场子的 这么长时间怎么选的角 会说话情商高真搞笑想出名的人都死光了吗 一帮歪瓜裂枣都垮了多少集了…"
+    },
+    {
+      "user": "已放弃治疗患者",
+      "avatar": "https://img3.doubanio.com/icon/u57582735-62.jpg",
+      "content": "为了最新一集打五星 这一季有这一期就值得5星了！"
+    },
+    {
+      "user": "廿伍",
+      "avatar": "https://img3.doubanio.com/icon/u48870317-62.jpg",
+      "content": "emmmmm…小失望…希望后面不会消费完剩下的情怀"
+    },
+    {
+      "user": "邓安庆",
+      "avatar": "https://img3.doubanio.com/icon/u4112660-56.jpg",
+      "content": "我希望下一季的奇葩说能设置一个环节，评委有随时“反转”的权利，比如A队陈铭发言说“人应该合群”说了一堆，然后蔡康永说“反转”，陈铭要立马陈述“人有不应该合群的权利”，结果马东说“反转”，陈铭又立马陈述“人应该合群”，感觉会很好看……"
+    },
+    {
+      "user": "文武",
+      "avatar": "https://img1.doubanio.com/icon/u2216458-28.jpg",
+      "content": "占小便宜这件人生小事，如果有机会，千万别客气。哈哈哈哈哈"
+    },
+    {
+      "user": "居无间",
+      "avatar": "https://img3.doubanio.com/icon/u49549492-13.jpg",
+      "content": "能明显嗅出这档节目的求生欲，请来的选手鱼龙混杂，靠不同人身上的特质碰撞出一些话题性。《奇葩说》的价值体现在它选择的辩题，它将这个时代人们的焦虑捧到人们眼前，立场不同的正反两方在唇枪舌剑的过程中所迸发出的观点总能释放人们的焦虑。辩手不只要有清晰流畅的口条、准备的角度和辩驳点，还要有创造「金句」的能力。能体现语言的魅力，这档节目就值得追下去。"
+    },
+    {
+      "user": "子在川上Cho",
+      "avatar": "https://img3.doubanio.com/icon/u72554094-6.jpg",
+      "content": "把请李诞的钱用来请嘉宾不是很好吗？"
+    },
+    {
+      "user": "念阿@",
+      "avatar": "https://img1.doubanio.com/icon/u144785244-9.jpg",
+      "content": "「Raise your words，not your voice.It is rain that makes the flowers grow，not thunder.」"
+    },
+    {
+      "user": "CHENEY",
+      "avatar": "https://img3.doubanio.com/icon/u100258196-1.jpg",
+      "content": "剪辑是个什么垃圾玩意"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "从这一季的播出时间比往年都要晚就能看出来，节目在模式和思路上确实做了极大的调整，一方面是来自网综限制的压力，一方面是节目自身的推陈出新，想要做到平衡是一件蛮难的事情。新赛制更加胡闹，晋级的选手很多也都是靠插科打诨过去，很难聊出有深度的东西，这是米未团队对于自身节目属性的一种降级，完全娱乐化。所以索性完全把这个当做一个娱乐节目看，也不指望能获得太多思考，降低期待反而会有惊喜，毕竟很多事情想要坚持做下去，真的身不由己。"
+    },
+    {
+      "user": "阿尔法",
+      "avatar": "https://img3.doubanio.com/icon/u2621589-164.jpg",
+      "content": "勉强能看看，辩论的一塌糊涂，即使无所谓，也真的不好笑不励志学不到东西，观感较差"
+    },
+    {
+      "user": "文鹰",
+      "avatar": "https://img3.doubanio.com/icon/u135021823-2.jpg",
+      "content": "奇葩说最有魅力的地方是观点输出，是敢于撞击社会主流价值观的高墙，是勇于剥开人性中最脆弱的部分，而不是什么残酷的比赛制度。只有竞争，没有情怀，是这一季最大的悲哀。"
+    },
+    {
+      "user": "听闻有汽笛",
+      "avatar": "https://img3.doubanio.com/icon/u141271500-4.jpg",
+      "content": "看了17期，来改了三次评价，节目效果和内容越来越好，大家辩论起来都特别精彩，上价值和讲故事，导师纷纷说真的太喜欢，这还是我最喜欢的节目，多想和他们一起战斗。"
+    },
+    {
+      "user": "Smokinsoul",
+      "avatar": "https://img3.doubanio.com/icon/u48041762-31.jpg",
+      "content": "整季辩题质量参差不齐 甚至重复 亮点在于薛教授的加入 以及看 陈铭 场上无敌手。黄执中和马薇薇的走低真是意料之中，更喜欢邱晨稳定的高能量输出。果然听人说话，除去逻辑，共情能力才是更为重要。"
+    },
+    {
+      "user": "SILENCE_",
+      "avatar": "https://img3.doubanio.com/icon/u44682173-61.jpg",
+      "content": "一堆婆婆妈妈没什么可讨论的恋爱题真是浪费了不少人的学识。"
+    },
+    {
+      "user": "---",
+      "avatar": "https://img3.doubanio.com/icon/u56492265-25.jpg",
+      "content": "新奇葩最喜欢李思恒和詹青云，进步最大的老奇葩应该是董婧和傅首尔吧，不欢而散实在可惜。对陈铭，我宁愿看他站在宇宙中心呼唤爱，也不想听他利用辩论技巧来蛊惑观众，神烦臧鸿飞，完全听不下去，薛兆丰出乎意料地好，李诞太吵闹，最心疼如晶宝贝。希望节目组能好好反思下评分下降的原因吧。"
+    },
+    {
+      "user": "求不被视奸哭哭",
+      "avatar": "https://img3.doubanio.com/icon/u140980720-3.jpg",
+      "content": "看得出来诚意 还有李诞是来掉粉的吗"
+    },
+    {
+      "user": "wcy2864",
+      "avatar": "https://img3.doubanio.com/icon/u3426786-1.jpg",
+      "content": "新奇葩直接和老奇葩对决的话，很难凸显实力，第一集这种淘汰赛的形式很聪明，见证新奇葩一路过关斩将和观众一起成长，是奇葩说吸引人的一点特质。"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "哎，真是越来越完蛋了，谁特么想看你们煽情呀？煽你大爷！"
+    },
+    {
+      "user": "哈哈哈哈哈",
+      "avatar": "https://img3.doubanio.com/icon/u139873365-1.jpg",
+      "content": "这么多季奇葩说打分最低的一季，请来李诞真的是一个败笔，真要辩论又说不出什么东西，天天就知道打断别人说话，素质真的太差了。然后应该是和臧鸿飞私交甚好，天天帮着臧鸿飞，然后每次都说对方是胡说八道。李诞还是不要来毁奇葩说了吧"
+    },
+    {
+      "user": "雏菊",
+      "avatar": "https://img3.doubanio.com/icon/u63441248-1.jpg",
+      "content": "为什么奇葩说第一季的评分有9.1分之高，而第五季却滑到7.2的平淡分数，其实不论是赛制还是选拔出来的新人都是越来越优秀的，但是大家的要求越来越高了……口头说着奇葩说变了，奇葩说娱乐至死了的观众，可能是一直没真正认清，奇葩说一直都是个“严肃的”辩论节目～"
+    },
+    {
+      "user": "片忆",
+      "avatar": "https://img3.doubanio.com/icon/u156742603-5.jpg",
+      "content": "一星是给高晓松那一排的导师的。还有一星是给肖骁熊浩陈铭如晶等有实力也没那么多抱团撕逼打架的辩手的。而那些台上台下都泼妇骂街胡缠的，倒扣五星。最后还是拿出一星给高晓松他们。"
+    },
+    {
+      "user": "沙皮狗的忧伤",
+      "avatar": "https://img3.doubanio.com/icon/u145773382-1.jpg",
+      "content": "要不是老奇葩和李诞，真是一分钟都不想看下去了，这什么乱七八糟的，所有人都在刻意演奇葩。"
+    },
+    {
+      "user": "Renee",
+      "avatar": "https://img1.doubanio.com/icon/u43537337-29.jpg",
+      "content": "薛兆丰真是宝藏男孩"
+    },
+    {
+      "user": "越的旅行箱",
+      "avatar": "https://img3.doubanio.com/icon/u15390643-2.jpg",
+      "content": "这一季综艺感太强了。吵吵闹闹的有一两位就好。突然来这么多不讲道理只大喊大叫的有点消化不了。"
+    },
+    {
+      "user": "墨  尘",
+      "avatar": "https://img1.doubanio.com/icon/u2307800-117.jpg",
+      "content": "陈铭吾爱！！！！！！！！！！！！！！"
+    },
+    {
+      "user": "Bbbbbbbbbb",
+      "avatar": "https://img3.doubanio.com/icon/u3117944-3.jpg",
+      "content": "可太烂了 从辩题到选手 统统写着三个大字 不走心 一星给李蛋吧 不值得辩的题和只是想红的人 出不了好节目"
+    },
+    {
+      "user": "zykmilan",
+      "avatar": "https://img3.doubanio.com/icon/u3761104-2.jpg",
+      "content": "开始几期基本没法看，就是比谁嗓门大、比谁“现场亲友团”嗓门大……越到后来才越品出了些之前的味道，包括留到后来的新奇葩也有肉眼可见的进步，节目才真正好看了起来。最后的BBKing争夺，如晶真是好可惜（PS：吐槽一下这种观众看着票数投票的制度，肯定总有那么一两个想制造惊喜最后一秒改票的脑残），不过她和陈铭都好棒，谁拿都绝对deserve it。"
+    },
+    {
+      "user": "刀_小刀",
+      "avatar": "https://img3.doubanio.com/icon/u35392470-71.jpg",
+      "content": "Update 12.08 改一下评分吧。希望国内原创综艺好。希望能少点情情爱爱哭来哭去。希望下一季不要再有教练，能不能让厉害的人多输出点。//看了三期。还充了会员看了奇葩说不停。除了失望，越来越失望，还能说什么？对不起陈老师...我会去看你的cut的。"
+    },
+    {
+      "user": "Mr.Craner",
+      "avatar": "https://img1.doubanio.com/icon/u52618754-28.jpg",
+      "content": "过了夏的蚊子——一季不如一季"
+    },
+    {
+      "user": "尿裤侠",
+      "avatar": "https://img3.doubanio.com/icon/u3548152-163.jpg",
+      "content": "不管从哪个方面来说，奇葩说都是一档难得罕见的好节目。话说 3bangz 的辩论竟然还不错，傅首尔还是很厉害。"
+    },
+    {
+      "user": "血与冰激凌",
+      "avatar": "https://img3.doubanio.com/icon/u57139809-12.jpg",
+      "content": "采了颜如晶和薛兆丰后多打一星吧"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "节目之外的戏也太多了吧？不少人设都崩了……"
+    },
+    {
+      "user": "熊猫大福",
+      "avatar": "https://img3.doubanio.com/icon/u46570537-2.jpg",
+      "content": "听说这一季掉粉又掉分，特来驰援，翻了许多差评都出现在刚开播的九月。其实进入淘汰赛后辩论水平明显大幅提高，尤其是陈铭、颜如晶、詹青云、熊浩、庞颖几位专业辩手（按水平排序），傅首尔大魔王，加上欧阳超、沈玉琳、秦教授、杨奇函、董婧几个实力奇葩（按喜好排序），就连野红梅也在迅速成长（不讲八点讲六点）。不仅真理越辩越明，谈恋爱，过日子，哪一样不得学会好好说话？爱奇艺千万别砍了《奇葩说》，否则年费VIP还我。终于看到了最终集，最好的结局！"
+    },
+    {
+      "user": "桃子",
+      "avatar": "https://img3.doubanio.com/icon/u1044635-42.jpg",
+      "content": "这季不错～喜欢杨奇函"
+    },
+    {
+      "user": "饱の嗝",
+      "avatar": "https://img3.doubanio.com/icon/u1000905-1801.jpg",
+      "content": "学了街舞说唱的节目，连限时battle都有了；当事人和观众插短评也挺流俗和油腻的，嗯，vv肖骁邱晨执中他们dg一样坐上边，还拿着耳机扒着耳朵，挺油腻的"
+    },
+    {
+      "user": "戚阿九",
+      "avatar": "https://img3.doubanio.com/icon/u55885396-33.jpg",
+      "content": "平平无奇甚至有点槽糕的这一季 薛兆丰是唯一的惊喜"
+    },
+    {
+      "user": "决",
+      "avatar": "https://img3.doubanio.com/icon/u52077733-4.jpg",
+      "content": "啥也不说了，三星吧……"
+    },
+    {
+      "user": "小小张",
+      "avatar": "https://img3.doubanio.com/icon/u153850537-21.jpg",
+      "content": "第12期，优秀"
+    },
+    {
+      "user": "清野",
+      "avatar": "https://img3.doubanio.com/icon/u57900053-4.jpg",
+      "content": "理解节目组做了这些年必须得找点新鲜点的焦虑，但高度竞争的赛制已经明显成了这一季最大的败笔，把辩手们搞得这么累，观众看得也不会开心。其实看到大家一个个离开，会有点唏嘘，觉得就好像是演出结束了，他们一个个谢幕、告别——然而离开的也常常不是因为开心、表演出色、得到掌声和欢呼——又是何必呢。这一季出来的时候是照例追着看的，而看到现在心已经很累，《奇葩说》如果之后不能回归初心，那还是，就做到今年为止吧。把好感磨没了，你难堪，观众也难过。"
+    },
+    {
+      "user": "saiyuki",
+      "avatar": "https://img1.doubanio.com/icon/u1970125-67.jpg",
+      "content": "老奇葩都经历了什么，满脸岁月更迭；奇葩说也老了：变得简单、粗糙、易怒"
+    },
+    {
+      "user": "伪电影截图AI",
+      "avatar": "https://img3.doubanio.com/icon/u54761902-36.jpg",
+      "content": "都想保邱晨 李诞一直在提团灭团灭操纵观众，左边有2位都及出色，右边只有1个邱晨，想看邱晨一个人的辩论或是恻隐之心，弃赛制不顾。感情题无聊之处在于理性和感性的平行，让哪一方都看起来有道理"
+    },
+    {
+      "user": "末了",
+      "avatar": "https://img3.doubanio.com/icon/u32770964-3.jpg",
+      "content": "老粉表示无尽的失望～第六期拍成那个鬼也好意思拿出来丢人，还不如掐掉不播～思达走的真是明智"
+    },
+    {
+      "user": "青猫",
+      "avatar": "https://img3.doubanio.com/icon/u14836914-6.jpg",
+      "content": "本来全是爱情题烂到不行的一季，昨晚那一期让人觉得原来的奇葩说又回来了。人还是要多读书多学习啊"
+    },
+    {
+      "user": "岬",
+      "avatar": "https://img3.doubanio.com/icon/u1745245-721.jpg",
+      "content": "为止最糟糕的一季。太多小格局无谓辩题；赛制苛刻造成气氛紧绷，扼杀让新奇葩放飞自我的空间，明明这个节目最大魅力根本不在谁飞的高快，而在当大家松毛松翼花式秀各自羽毛和其下的心脏大脑的余裕时刻。"
+    },
+    {
+      "user": "qhd霸气璐",
+      "avatar": "https://img3.doubanio.com/icon/u134462242-6.jpg",
+      "content": "蛋总的加入恰恰好，在一群新奇葩的战战兢兢中格外轻松~第五期实在是无聊，新人还需要下功夫适应现场的表演方式"
+    },
+    {
+      "user": "siddhar",
+      "avatar": "https://img3.doubanio.com/icon/u46197316-6.jpg",
+      "content": "看到第八期真的一集比一集失望。临时改赛制是对所有参赛人员的不尊重。队伍实力不均衡也是前期赛制导致的结果，正确做法是在后面的比赛里给出更公平的赛法。这两期的临时调整真的突破竞赛节目的底线，即使综艺也不应该如此。另外给肖骁刷口碑可以不要这么明显吗，表现并没有那么好。"
+    },
+    {
+      "user": "That十四",
+      "avatar": "https://img3.doubanio.com/icon/u49344788-34.jpg",
+      "content": "好一集坏一集掺着来，完全是因为李诞和矮大紧看下去的。怎么说呢，只能说姜思达的离开是对的。"
+    },
+    {
+      "user": "今天更博学了吗",
+      "avatar": "https://img1.doubanio.com/icon/u133043560-7.jpg",
+      "content": "想一直听薛教授讲经济学………评论说这个节目就是在不断探索表达的疆界！太认同了！以及拥有文化知识的魅力太迷人了……这一季太多太多喜欢的！想去好好读书！"
+    },
+    {
+      "user": "不开心。",
+      "avatar": "https://img1.doubanio.com/icon/u155996987-9.jpg",
+      "content": "为最新一期打五星"
+    },
+    {
+      "user": "madeleine",
+      "avatar": "https://img3.doubanio.com/icon/u2305323-81.jpg",
+      "content": "逐渐成为一群跳梁小丑们在精神病院排泄的闹剧。"
+    },
+    {
+      "user": "厚切牛舌",
+      "avatar": "https://img3.doubanio.com/icon/u127112404-31.jpg",
+      "content": "今天这一期回到了高点。之前太垃圾了。飞飞能不能赶紧走……辩题也太爱情狗血了，你们以前那些愚人井水之类的好看死了。今年题都是爱情挺无聊的。11.17更新，共享知识也太好看了吧！这是我爱的奇葩说！"
+    },
+    {
+      "user": "费公子",
+      "avatar": "https://img3.doubanio.com/icon/u146088554-2.jpg",
+      "content": "能不带着耳机在后面装b吗？能不请这么多没深度没意义的丑八怪吗"
+    },
+    {
+      "user": "安东尼",
+      "avatar": "https://img3.doubanio.com/icon/u140160066-2.jpg",
+      "content": "写给节目组：剪辑太混乱了 语言类节目剪掉那么多人的全部发言真的没有意思了。故弄玄虚 就应该淘汰颜如晶"
+    },
+    {
+      "user": "今天不加班",
+      "avatar": "https://img3.doubanio.com/icon/u49165214-10.jpg",
+      "content": "奇葩说这一季的赛制真的是很扑街了… 真正菜的没走, 垃圾赛制淘汰掉的全是有料的！这一季, 我几乎很少有前四季那种固有价值观动摇然后坐下来反思的感觉, 能量输出密度太小。选手压力太大是一个原因… 节目的初衷不是为了让观众吸收到更多不一样的观点让大家发散思维吗?? 一个娱乐辩论节目搞得很选秀似的赛制, 节目组的初心呢??"
+    },
+    {
+      "user": "这个人好懒a",
+      "avatar": "https://img3.doubanio.com/icon/u151547018-3.jpg",
+      "content": "给某些很尴尬的选题打一星，但忍不住给优秀的最新一期打五星。别让我们这些老粉失望，加油吧"
+    },
+    {
+      "user": "猥琐的小旭学长",
+      "avatar": "https://img3.doubanio.com/icon/u55332184-1.jpg",
+      "content": "看了两期，第一期为傅首尔疯狂打电话！第一期笑点十足，第二期就呵呵了，好看的都在第一期剪辑了"
+    },
+    {
+      "user": "呵呵呵",
+      "avatar": "https://img3.doubanio.com/icon/u174747733-1.jpg",
+      "content": "看的最恶心的一季，有多喜欢就有多厌恶"
+    },
+    {
+      "user": "风信子1",
+      "avatar": "https://img3.doubanio.com/icon/u4971467-1.jpg",
+      "content": "没别的原因，就是淘汰李思恒，莫名其妙"
+    },
+    {
+      "user": "Peter",
+      "avatar": "https://img3.doubanio.com/icon/u3426128-5.jpg",
+      "content": "奇葩说的求生欲也很明显，本季也许不会再有大魔王稍稍释放暗面的寒冷，欢乐的笑一下也挺不错的。"
+    },
+    {
+      "user": "丑的好看cdhk",
+      "avatar": "https://img3.doubanio.com/icon/u151922471-1.jpg",
+      "content": "昨天的热搜让人失望，今天的内容让我满意，奇葩说团队还是有追求的，这个节目陪伴了我整个研究生生涯，现在我已经工作了，奇葩说依然是我唯一zqsg追的综艺"
+    },
+    {
+      "user": "粗",
+      "avatar": "https://img3.doubanio.com/icon/u2312133-110.jpg",
+      "content": "这个节目似乎走进了牛角尖，明明淘汰并没有让节目好看，为什么还要强努着淘汰下去？刚刚得知董婧傅首尔因为狗血互撕被退赛了？那还有什么看头？我觉得节目组是不是搞丢了初心，奇葩说到底哪里好看？是超级女声般的淘汰赛制吗？为了维护所谓的规则把李思恒傅首尔这样的亮点都弄走 节目就会好看了吗？——果然这两队没有晋级，成就了颜如晶，否则不可能轮到他们。——决赛：陈铭的冠军实至名归，颜如晶队夺冠其实是莫名其妙；另外：冠军队伍到底有何意义？所谓的胜利感难道不是迅速的被得不到个人冠军冲淡到不剩什么了吗？？？"
+    },
+    {
+      "user": "沉冰",
+      "avatar": "https://img3.doubanio.com/icon/u1347306-11.jpg",
+      "content": "都退步成这样了依然有让我心动的时刻"
+    },
+    {
+      "user": "[ e c h o ]",
+      "avatar": "https://img1.doubanio.com/icon/u1251928-27.jpg",
+      "content": "这一季一直就觉得陈铭表现不错，薛教授也不错。"
+    },
+    {
+      "user": "猫不然Maoburan",
+      "avatar": "https://img1.doubanio.com/icon/u1866734-559.jpg",
+      "content": "第五季的节奏真是好看太多 李蛋也真的不错 缓解了这个节目原先的婊气"
+    },
+    {
+      "user": "煽情破坏者",
+      "avatar": "https://img1.doubanio.com/icon/u37507203-128.jpg",
+      "content": "这一季可以看到几位老奇葩的进步，也能看到几位不错的新奇葩。别管浑水摸鱼的，撑到最后的一定是有真正实力的选手。"
+    },
+    {
+      "user": "LoVe",
+      "avatar": "https://img3.doubanio.com/icon/u3467163-335.jpg",
+      "content": "不好玩了 用心在造冠军的感觉"
+    },
+    {
+      "user": "＜－这样FAN",
+      "avatar": "https://img3.doubanio.com/icon/u50276433-4.jpg",
+      "content": "不知道是选题的锅还是选手的锅 从神仙打架到菜鸡互啄 加上场内场外小团队撕X实在影响观感 果然是有人的地方就有江湖啊 这个节目还是走下神坛了 姜思达不参加是对的 永远留在神坛上 被大家念叨着好"
+    },
+    {
+      "user": "Antonio",
+      "avatar": "https://img3.doubanio.com/icon/u166724916-1.jpg",
+      "content": "前几期哗众取宠打一星，但是今天这道题目终于看到了以前的奇葩说"
+    },
+    {
+      "user": "清欢xyy",
+      "avatar": "https://img3.doubanio.com/icon/u139912242-4.jpg",
+      "content": "最差一届🙂️竟然淘汰李思恒，请尽快淘汰野红梅臧鸿飞还有小马（尽管小马很努力很可爱）"
+    },
+    {
+      "user": "Дмитрий",
+      "avatar": "https://img3.doubanio.com/icon/u155889066-1.jpg",
+      "content": "马vv逼走姜思达后，看看自己还能牛逼啥？第八期节目赤裸裸地把她拉下神坛。"
+    },
+    {
+      "user": "❌",
+      "avatar": "https://img3.doubanio.com/icon/u61654896-13.jpg",
+      "content": "薛兆丰和蔡康永的小粉红成为我追综艺的动力之一"
+    },
+    {
+      "user": "维肯洛·金",
+      "avatar": "https://img3.doubanio.com/icon/u144093424-16.jpg",
+      "content": "终于可以标“看过”这档年度期待的综艺了。\n其实仅从辩题的设置上，看得出节目团队被某组织施压要“维稳”，小心翼翼地出一堆无关痛痒又重复无趣的“婚姻”“情侣”题，其余的辩题还是有趣的。\n记得去年高考完和妈妈一起看第四季决赛时，她问我是不是想去中传，我为了让她不失望，只说了“还行吧”，选择了不喜欢的学校。我会永远后悔当时没有理直气壮地说，“是啊，我就想去我喜欢的地方，我就想做自己喜欢的事情。”\n看《奇葩说》，是一种习惯，在“人云”中寻找自己认同的观点，“亦云”。"
+    },
+    {
+      "user": "本草纲目",
+      "avatar": "https://img3.doubanio.com/icon/u162547465-3.jpg",
+      "content": "知识共享这一期，我被不同的浪潮反复冲刷，詹青云的物理大厦、陈铭的两朵乌云、巴格达、专利权、《华氏451度》、《博闻强识的富内斯》……我没有方向的漂浮在无垠的大海上，此时满船清梦压星河。那枚幻想中的芯片仿佛向我们交出了它的一个晶体管。\n而朋友不吃这颗安利时，你怎么能不支持知识共享？"
+    },
+    {
+      "user": "日の六次方",
+      "avatar": "https://img3.doubanio.com/icon/u2459543-3.jpg",
+      "content": "起点太高所以越往后越难突破的综艺节目。感觉越来越不引人吸引的原因是不是太想讨好观众了？还是说节目的赛制流程出了问题？或者是奇葩辩手们不突出？哎，虽然每集都追，但不走心。"
+    },
+    {
+      "user": "呢喃",
+      "avatar": "https://img3.doubanio.com/icon/u142875081-2.jpg",
+      "content": "实在受不了这些无聊的选题了，除了爱情就没有值得讨论的东西了吗？？？讨论一下网络社会，人工智能，学生生活，社会人情，人格心理，人性善恶等等一堆东西不行吗？？？选题的人完全就是敷衍，还导致出现很多不同辩题内容几乎完全相同的论点的，真的很无趣，败好感。还有，淘汰机制也很傻逼。这样只要抱紧组里唯一的大腿，像马剑越这种就可以永远躺着咯。。。（麻烦臧鸿飞、野红梅、马剑越快点淘汰！）"
+    },
+    {
+      "user": "朝颜",
+      "avatar": "https://img3.doubanio.com/icon/u163112676-2.jpg",
+      "content": "为11.16播放的这期打4星。"
+    },
+    {
+      "user": "疯狂的兔宝宝",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "宝藏男孩薛教授绝对本季最佳～辩手中个人觉得詹青云最佳，陈铭刚开始几期觉得很炸裂。但到后面几期，尤其是“一秒共享知识”那期，他的观点细想站不住，青云的点比他深刻。但是他简单粗暴呼唤爱做法显然容易在场上让人欢呼。开杠主要胜在强词夺理，青云这种深思熟虑的玩不过他。到后面那期“隐藏贫穷富有”，观点更是带有大量的主观臆想，强词夺理，误导观众。他本质上和首尔一样，预设一个价值观，主观代入。但陈铭预设的是一个道德制高点的价值观，用这个价值观攻击别人。辩论是为了把事情越辩越明，好的坏的自己选择，不是来弘扬社会主义价值观的。难怪李诞和他不对路，看不惯。反正我挺李诞。"
+    },
+    {
+      "user": "羊男的乌鸦",
+      "avatar": "https://img3.doubanio.com/icon/u1008847-64.jpg",
+      "content": "陈铭实至名归"
+    },
+    {
+      "user": "Esmerada",
+      "avatar": "https://img3.doubanio.com/icon/u62805578-3.jpg",
+      "content": "越来越烂 果然财富传家 富不过三代 诗书耕读道德在娱乐至死的时代都是流星"
+    },
+    {
+      "user": "忘",
+      "avatar": "https://img1.doubanio.com/icon/u1439664-28.jpg",
+      "content": "看到16期。薛兆丰真是个妙人，喜欢！"
+    },
+    {
+      "user": "Adam",
+      "avatar": "https://img3.doubanio.com/icon/u42673711-171.jpg",
+      "content": "姜思达走的太对了，越来越无聊"
+    },
+    {
+      "user": "Leonardo",
+      "avatar": "https://img3.doubanio.com/icon/u50877316-23.jpg",
+      "content": "看了第六集太失望，一星给晓松"
+    },
+    {
+      "user": "死鱼",
+      "avatar": "https://img3.doubanio.com/icon/u4558263-5.jpg",
+      "content": "想打三星的，因为爱情题太多了，有些问题根本没有太多讨论的意义，对于现实没啥帮助。难得一个生活化辩题为主的节目，更应该讨论更多让现实中的人迷茫纠结不知道怎么选的选题。陈铭这季太圈粉，他的逻辑让我学到很多。几个新的选手也很有亮点。最后一星加给共享大脑那集，太赞！！"
+    },
+    {
+      "user": "溯夜",
+      "avatar": "https://img3.doubanio.com/icon/u2562419-6.jpg",
+      "content": "跟之前几季比很不喜欢这季。比赛比得不是谁会辩论，是谁会吵架。尤其是臧鸿飞改变风格反败为胜的那次，感觉很不好，为了讨好观众从好好讲道理变成大吼大叫不讲理，结果赢了。这季的辩题也从先锋话题变成街道大妈话题，很失望。喜欢李诞、薛兆丰，对杨棋涵印象比较深。"
+    },
+    {
+      "user": "小狐狸增增",
+      "avatar": "https://img3.doubanio.com/icon/u4016064-14.jpg",
+      "content": "從第一期開始李誕就不停地在那裡插科打諢，講的東西又沒內容又沒營養，可以感到并沒有很多的知識儲備，我不知道為什麼很多人都覺得他有才，論脫口秀，他說得有黃子華好嘛？？？想到第二季金星也沒有太多的知識儲備，但是相比之下，金星比李誕真的好太多了，起碼金星有很認真的在準備每一期的辯題，並且不會沒有禮貌地打斷別人！！！所以，下一期（如果還有的話）麻煩請李誕滾出好嘛！！！"
+    },
+    {
+      "user": "海山·野火",
+      "avatar": "https://img1.doubanio.com/icon/u1292384-9.jpg",
+      "content": "前几季确实有些观点说出来真实牛逼的一匹，虽然在吵闹，但是有认知。第五季就感觉辩题没劲，辩论也成了吵架，抖机灵。"
+    },
+    {
+      "user": "许多熊",
+      "avatar": "https://img3.doubanio.com/icon/u91241564-5.jpg",
+      "content": "视觉审美略有提升。选人的审美一落千丈。辩论变成抬杠，难不难受。"
+    },
+    {
+      "user": "离群的飞",
+      "avatar": "https://img3.doubanio.com/icon/u48532700-12.jpg",
+      "content": "这一季有些感情题挺无聊的，但第17期共享知识一出，我认为可以打9分了"
+    },
+    {
+      "user": "Castor ⊿ ⊿ ⊿",
+      "avatar": "https://img1.doubanio.com/icon/u4541017-307.jpg",
+      "content": "一个不讲规则，为了收视，无所不用其极煽情造话题的瞎逼逼综艺"
+    },
+    {
+      "user": "粉红噪声台",
+      "avatar": "https://img3.doubanio.com/icon/u64821728-13.jpg",
+      "content": "选题真的永远是最大的问题，55555不过好爱他们啊，好喜欢这个小小的生态。看一些很丧的辩手要高呼直面恐惧和不舒适，强势犀利的辩手也愿意剥开心底的柔软，还有愤怒和泪水，虽然不知道掺了几分真假，可我愿意相信啊，这个常以威吓大家人性本恶的论点作为最后价值的节目，其实本质是超级的良善啊。真希望这个节目能一起做下去"
+    },
+    {
+      "user": "暖乐",
+      "avatar": "https://img3.doubanio.com/icon/u51788500-62.jpg",
+      "content": "为陈铭和詹青云疯狂打call"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img1.doubanio.com/icon/u97388726-8.jpg",
+      "content": "最喜欢知识共享那一期，其他期的辩题大多围绕着婚恋，没有这期思辨性强。"
+    }
+  ]
+}

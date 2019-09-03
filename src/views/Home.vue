@@ -4,7 +4,7 @@
     <div>
       <movie-category :categoryInfo="cinemaHot"></movie-category>
     </div>
-    <div v-for="item of categoriesTwo" :key="item.title">
+    <div v-for="item of categoriesHot" :key="item.title">
       <movie-category :categoryInfo="item"></movie-category>
     </div>
   </div>
@@ -24,12 +24,21 @@ export default {
   },
 
   created() {
-    getList(this.hotAndNew.cinemaHot.listName)
+    // 影院热映
+    getList(this.cinemaHot.listName)
       .then(res => {
-        this.$store.commit('GET_CINEMA_HOT', res.data.data);
+        this.$store.commit('MOVIE_CINEMA_HOT', res.data.data);
       })
-      .catch(err => {
-        console.log(err);
+      .catch(err => console.log(err));
+    // 热门电影
+    getList(this.categoriesHot.movies.listName)
+      .then(res => {
+        this.$store.commit('MOVIE_CATEGORIES_HOT', res.data.data);
+      })
+    // 热门电视剧
+    getList(this.categoriesHot.tvs.listName)
+      .then(res => {
+        this.$store.commit('TV_CATEGORIES_HOT', res.data.data);
       })
   },
 
@@ -37,7 +46,7 @@ export default {
     ...mapGetters([
       'hotAndNew',
       'rankingList',
-      'categoriesTwo',
+      'categoriesHot',
       'categoriesMovies',
       'categoriesTvs',
     ]),

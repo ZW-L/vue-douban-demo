@@ -1,5 +1,5 @@
 <template>
-  <div class="content">
+  <div class="content" @click="toDetailView(item.id)">
     <div class="wrapper">
       <img :src="require(`../../public/img/${type}/${picName}`)">
     </div>
@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { getPic } from '@/api/get.js';
+// import { getPic } from '@/api/get.js';
 
 export default {
   name: 'movie-card',
@@ -28,12 +28,15 @@ export default {
     }
   },
   methods: {
-    getPic() {
+    _getPic() {
       this.picName = this.item.cover.match(/([^/]+\.(jpg|png))/)[0];
+    },
+    toDetailView(id) {
+      this.$router.push({ path: `/detail/${id}`});
     }
   },
   mounted() {
-    this.getPic();
+    this._getPic();
     const el = this.$refs.stars;
     const position_y = (Math.ceil(this.item.rate) + 1) * 10;
     el.style.backgroundPosition = `0 ${position_y}px`;

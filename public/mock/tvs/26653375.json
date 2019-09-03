@@ -1,0 +1,1025 @@
+{
+  "title": "我的英雄学院",
+  "url": "https://movie.douban.com/subject/26653375/",
+  "rate": "9.0",
+  "id": "26653375",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327887133.jpg",
+  "info": [
+    "导演: 长崎健司",
+    "编剧: 黑田洋介",
+    "主演: 山下大辉 / 三宅健太 / 冈本信彦 / 石川界人 / 佐仓绫音 / 悠木碧 / 广桥凉 / 细谷佳正 / 井上麻里奈 / 增田俊树 / 畠中祐 / 梶裕贵 / 内山昂辉 / 真堂圭 / 桑野晃辅 / 喜多村英梨 / 西田雅一 / 名塚佳织 / 三好晃祐 / 古岛清孝 / 奈良彻 / 诹访部顺一 / 吉野裕行 / 犬山犬子 / 小樱悦子 / 高户靖广 / 藤原贵弘 / 最上嗣生",
+    "类型: 剧情 / 动作 / 动画",
+    "官方网站: heroaca.com",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "首播: 2016-04-03(日本)",
+    "集数: 13",
+    "单集片长: 24分钟",
+    "又名: Boku no hero academia / My Hero Academia"
+  ],
+  "desc": "电视动画《我的英雄学院》改编自日本漫画家堀越耕平原作的同名漫画。在漫画杂志《周刊少年JUMP》2015年49期上，发表了其TV动画化的决定。\n                                    \n                                　　剧情简介：大部分的人类，在这个时代里都拥有名为“个性”的力量，但有力量之人却不一定都属於正义的一方。只要邪恶出现的地方，必定会有英雄挺身而出拯救众人。一名天生没有力量的少年——绿谷出久从小就憧憬一位顶尖英雄，而他的梦想就是成为伟大的英雄，可是，没有力量的他能实现自己的梦想吗？虽然困难重重，少年却依旧不放弃，朝著自己的目标勇往前进！",
+  "members": {
+    "director": {
+      "name": "长崎健司 Kenji Nagasaki",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1498830911.08.jpg"
+    },
+    "cast": [
+      {
+        "name": "山下大辉 Daiki Yamashita",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1490072678.98.jpg"
+      },
+      {
+        "name": "三宅健太 Kenta Miyake",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23513.jpg"
+      },
+      {
+        "name": "冈本信彦 Nobuhiko Okamoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13552.jpg"
+      },
+      {
+        "name": "石川界人 Kaito Ishikawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1483071935.03.jpg"
+      },
+      {
+        "name": "佐仓绫音 Ayane Sakura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421070854.33.jpg"
+      },
+      {
+        "name": "悠木碧 Aoi Yuki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513498179.44.jpg"
+      },
+      {
+        "name": "广桥凉 Ryô Hirohashi",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p28709.jpg"
+      },
+      {
+        "name": "细谷佳正 Yoshimasa Hosoya",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p29490.jpg"
+      },
+      {
+        "name": "井上麻里奈 Marina Inoue",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1370835897.95.jpg"
+      },
+      {
+        "name": "增田俊树 Toshiki Masuda",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1420895999.43.jpg"
+      },
+      {
+        "name": "畠中祐 Tasuku Hatanaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467332433.83.jpg"
+      },
+      {
+        "name": "梶裕贵 Yûki Kaji",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48084.jpg"
+      },
+      {
+        "name": "内山昂辉 Koki Uchiyama",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45601.jpg"
+      },
+      {
+        "name": "真堂圭 Kei Shindou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389584806.74.jpg"
+      },
+      {
+        "name": "喜多村英梨 Eri Kitamura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36852.jpg"
+      },
+      {
+        "name": "名塚佳织 Kaori Nazuka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46324.jpg"
+      },
+      {
+        "name": "诹访部顺一 Junichi Suwabe",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5771.jpg"
+      },
+      {
+        "name": "吉野裕行 Hiroyuki Yoshino",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10253.jpg"
+      },
+      {
+        "name": "犬山犬子 Inuko Inuyama",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34395.jpg"
+      },
+      {
+        "name": "小樱悦子 Etsuko Kozakura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21376.jpg"
+      },
+      {
+        "name": "高户靖广 Yasuhiro Takato",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503573978.34.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2413454300.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2413454353.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2413454335.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2413454324.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2288106241.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "路西法尔",
+      "avatar": "https://img3.doubanio.com/icon/u4214564-2.jpg",
+      "content": "这个番的后传我看过，后来男主秃了。"
+    },
+    {
+      "user": "双二。",
+      "avatar": "https://img3.doubanio.com/icon/u3209444-170.jpg",
+      "content": "第二话后半燃哭了好吗！！从一开始就担心这样的一个主角要如何成为英雄呀。。。就像平庸的，无能的自己一样，要怎样成为自己梦想中的样子呢？抱着这样的心情看着的！"
+    },
+    {
+      "user": "河狸",
+      "avatar": "https://img1.doubanio.com/icon/u2228416-29.jpg",
+      "content": "火影和暗杀完结后，小英雄已经稳稳是jump的第二台柱了，目测连载上10年问题不大。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img3.doubanio.com/icon/u45800980-40.jpg",
+      "content": "看着还是超尴尬  老前辈传功梗 基本是努力涨肌肉学园比赛打坏人傲娇幼驯染等等套路"
+    },
+    {
+      "user": "南條某葉",
+      "avatar": "https://img3.doubanio.com/icon/u4069708-91.jpg",
+      "content": "1期，剧情挺燃的。不过男主那治不好的哭丧脸，实在是太减分了（虽然后期还行。"
+    },
+    {
+      "user": "神之遗失",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "看了各种短评，简直花式喷。我只想说，我就是孤陋寡闻，井底之蛙，火影后我就没有见过这么纯粹的热血番了。设定的漏洞、画风的喜好，这些仁者见仁智者见智，但我真心鄙视将梦想当作笑柄来嘲讽的loser。"
+    },
+    {
+      "user": "KayCorleone",
+      "avatar": "https://img3.doubanio.com/icon/u58915928-6.jpg",
+      "content": "王道热血的衰败已是大势所趋 故事很俗 连制作也很俗 对jump和骨头社来说都是很普通的合格线作品 有海贼在jump一天 这都出不了头 燃得很虚伪 无论是海贼还是火影其人物追求的价值观都不是英雄大爱而伪善的命题 这却在抛出理想之后作品又无法回到角色本身的诉求上 角色都比不上前二的饱满有力 有血又有肉"
+    },
+    {
+      "user": "基本无解",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "你可以说是老套，热血王道的初心就该这样，比恶意的堆砌矛盾来营造所谓的“深度”不知道高到多少"
+    },
+    {
+      "user": "観布子",
+      "avatar": "https://img1.doubanio.com/icon/u69282322-369.jpg",
+      "content": "再好的故事也需要一个铺垫的过程吧，何况是骨头社这种习惯性慢热的。目前从第一集来看，还原度很高啊，节奏上来看也没有任何问题。男主虽然表面看起来懦弱，但内心十分强大。幼年遭遇了否定未来般的打击，却始终如一的坚持着英雄梦到现在。要是做不好这种题材那就不叫骨头社了。不懂看一话就喷啥心态。"
+    },
+    {
+      "user": "步惊云",
+      "avatar": "https://img3.doubanio.com/icon/u130670054-1.jpg",
+      "content": "无论是从吹牛逼上，吹牛逼上还是吹牛逼上都无可挑剔！"
+    },
+    {
+      "user": "雨宫萤",
+      "avatar": "https://img3.doubanio.com/icon/u1150428-1.jpg",
+      "content": "打架番我一般看不来，还是看完了。最喜欢的是价值观：唯良善之人可天下第一。还有老师帅裂的那句“已经没事了！因为我来了！”"
+    },
+    {
+      "user": "Roy",
+      "avatar": "https://img1.doubanio.com/icon/u43786281-7.jpg",
+      "content": "看不动这种标准少年漫，受不了鼻涕男主和炸毛男二，受不了这种一个入学要讲五集的进度，受不了这种繁琐又浅薄的心理活动和磨磨唧唧的嘴炮表现，最受不了这是骨头社的作品，骨头在四月番的才华都跑到隔壁超人幻想去了…"
+    },
+    {
+      "user": "望仔滚去减肥",
+      "avatar": "https://img3.doubanio.com/icon/u1706338-90.jpg",
+      "content": "无论多少岁，还是会为这样的热血感动，这样的自己也还算是没有彻底被平庸湮没吧？和一拳超人那种嬉皮笑脸的青年漫不一样，这是正统的热血少年漫啊！"
+    },
+    {
+      "user": "聖",
+      "avatar": "https://img3.doubanio.com/icon/u146491194-1.jpg",
+      "content": "等等，我居然一个下午看完了一季？"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "只要每次看这种热血番，都依然能像当年看奥特曼和龙珠一样蹦起来嗷嗷叫，就特么证明老子未老。"
+    },
+    {
+      "user": "幼银",
+      "avatar": "https://img3.doubanio.com/icon/u2697269-160.jpg",
+      "content": "到了第十话才感觉有点燃 前面真的很无聊 而且各种人设太明显是从其他作品借鉴来的……这要真的是jump的未来台柱的话只能说 jump啊真是堕落了……不过或许也是我从少年漫毕业了 男主的个性大概可以算是脑子毕竟灵活？基友的性格超级讨厌 饭田君可爱哟～ 青蛙梅雨酱也好可爱"
+    },
+    {
+      "user": "猫的莫咪跪神棍",
+      "avatar": "https://img3.doubanio.com/icon/u37565514-25.jpg",
+      "content": "本！季！最！佳！啊啊啊啊啊！！！！！重拾青春啦啦啦啦啦！！！！！我还以为会是个年番呐第二季快来来来来来！！！o(≧口≦)o"
+    },
+    {
+      "user": "爱的镇魂歌",
+      "avatar": "https://img3.doubanio.com/icon/u58910508-4.jpg",
+      "content": "酱铺有点儿急了，极有民工潜质的我英被拿来搞季度番简直暴殄天物。这一季度也就够算个铺垫，大展身手的只有欧鲁迈特一人，主人公和小伙伴们表现实在寥寥，再怎么说这也是雄英学生们当家做主的故事，第一期至少应该搞成半年番直接做完学园祭篇才是。"
+    },
+    {
+      "user": "巴伐利亞酒神",
+      "avatar": "https://img3.doubanio.com/icon/u1218430-446.jpg",
+      "content": "每当我陷入中年危机的泥沼时，我便明白所需要的从来都不是鸡汤，而是鸡血！"
+    },
+    {
+      "user": "燭台切奥さん",
+      "avatar": "https://img3.doubanio.com/icon/u40497585-104.jpg",
+      "content": "【9】那什么，想要成功，就要有过人的胆识，要坚定不移，要持之以恒，还要有个过硬的后台（。"
+    },
+    {
+      "user": "Iamacatt",
+      "avatar": "https://img3.doubanio.com/icon/u63438574-2.jpg",
+      "content": "2集弃。都是套路，第二集后半段get不到你们说的泪点，表情刻画十分出戏。"
+    },
+    {
+      "user": "shamekiller",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "这就是JUMP现在的当红头牌？魅力在哪？看点在哪？完全get不到，设定垃圾的一比，这超能力世界观能在无聊一点吗？人设也是丑的无话可说，绿毛主角看着都难受，几个出场人物的性格设定也是一点意思都没有，而且第一集的战斗看不到任何亮点，画面音乐也毫无过人之处，整个看片过程就是无聊和蛋疼相结合"
+    },
+    {
+      "user": "工口工口小黃門",
+      "avatar": "https://img3.doubanio.com/icon/u2763691-100.jpg",
+      "content": "王道要讲的好也是有难度的 第一话还不错有燃点 但是后面几话展开不够有趣 随便就获得能力强行开挂 翻了相关讨论感觉可以放心扔了"
+    },
+    {
+      "user": "海王星王子",
+      "avatar": "https://img3.doubanio.com/icon/u103297087-3.jpg",
+      "content": "一如既往的骨头风电波叙述方式+越来越Flop的jump系故事情节。靠这番作为新台柱？？？（笑）"
+    },
+    {
+      "user": "静静的投资",
+      "avatar": "https://img3.doubanio.com/icon/u67876993-16.jpg",
+      "content": "10集开始进入主线，最后三集时间差不多到漫画剧情，于是准备第二季了...进入主线后还是能看看的。"
+    },
+    {
+      "user": "六壁坂",
+      "avatar": "https://img3.doubanio.com/icon/u1606446-96.jpg",
+      "content": "出色的王道少年作品。我觉得王道少年漫也是像传火一样传下去的……"
+    },
+    {
+      "user": "亲爱的猥琐猪",
+      "avatar": "https://img3.doubanio.com/icon/u51840446-3.jpg",
+      "content": "来看骨头包装主流热血少年漫也很有趣，画风上20%噬魂80%英雄人，还是那么飒爽。配乐立功！情节老套，但扎实，打斗真是骨头强项，一拳拳满是分量感，配合简明的台词，还是能点燃少年魂。骨头这个春季一部文豪一部英雄，一点都不浪，是在为今后的巨浪做准备，还是真从良了？期待后续。"
+    },
+    {
+      "user": "玥玲",
+      "avatar": "https://img3.doubanio.com/icon/u52323953-2.jpg",
+      "content": "燃哭！就喜欢这种拼搏的孩子！201607月"
+    },
+    {
+      "user": "kidivy",
+      "avatar": "https://img3.doubanio.com/icon/u1860984-26.jpg",
+      "content": "是真的有点点像家教呀..."
+    },
+    {
+      "user": "甲鱼",
+      "avatar": "https://img3.doubanio.com/icon/u54779305-2.jpg",
+      "content": "低幼向，全套路～"
+    },
+    {
+      "user": "BKKKKKKK君",
+      "avatar": "https://img3.doubanio.com/icon/u42376342-461.jpg",
+      "content": "就算是老套的热血番依旧还能让我泪目的燃起来，看来我离中年危机还远【安心"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "后四集群战真的赞爆，一直期待能在美国同类真人题材中看到的场面，终归还是要在日漫中等到。虽然英雄梦本身就很有共振，但相比《灵能百分百》等超能力日漫还是显得拖沓，软叽叽的涕泪横下与啰嗦嗦的心理活动真的太生厌。霸凌的小胜（竟然与粤语的蟑螂谐音）以及毫无自尊非要贴上去的绿谷，人设真的不喜欢啊。但愿极其冗长的铺垫结束后，第二季对得起那分数。三星半。"
+    },
+    {
+      "user": "yѧѳ⑉爻",
+      "avatar": "https://img3.doubanio.com/icon/u93484113-12.jpg",
+      "content": "第三集惊现小吉超激动！ 山下大辉太能喊了 堪比kaji 飯田这形象不就是石川界人嘛hhh 爆豪那家伙好吵好烦 有干眼症老师的睡袋hhh 主角不是绿谷出久 明明就是永远开挂的欧尔麦特嘛 最后一集小吉的那声尖叫强行三星变四星 故事没什么亮点不是很吸引我 班级人物好多还都没来得及介绍 首次一天补完一部动漫"
+    },
+    {
+      "user": "爆米花教主",
+      "avatar": "https://img3.doubanio.com/icon/u64213791-15.jpg",
+      "content": "男主好圣母啊"
+    },
+    {
+      "user": "苏乏",
+      "avatar": "https://img1.doubanio.com/icon/u1123223-28.jpg",
+      "content": "无聊"
+    },
+    {
+      "user": "Inland in",
+      "avatar": "https://img3.doubanio.com/icon/u108597970-12.jpg",
+      "content": "同类型更喜欢一拳超人……又是一个标准的jump故事……"
+    },
+    {
+      "user": "yvne",
+      "avatar": "https://img3.doubanio.com/icon/u47608440-186.jpg",
+      "content": "竟然都不做个半年番…大king念旁白时真好，自从尸帝国以来就觉得偏青年些的声线简直美翻。"
+    },
+    {
+      "user": "伏见 微",
+      "avatar": "https://img3.doubanio.com/icon/u4789307-322.jpg",
+      "content": "第二集后半段真心好看，之后......就没有之后了，骨头这季小英雄和文豪的节奏一个比一个飘，果真热情都浪在隔壁超幻了吗。对jump传统热血向没有什么意见，一代人总得有那么个一代的记忆，但真的必须得说，和前辈们比比......这个人设就已经输在起跑线上了啊（简直堵了本子的后路"
+    },
+    {
+      "user": "陀希其实是十四",
+      "avatar": "https://img3.doubanio.com/icon/u83701119-5.jpg",
+      "content": "第一集毫无亮点。希望后面更精彩吧"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "这两天就靠这个动画续命"
+    },
+    {
+      "user": "丶晓美焰",
+      "avatar": "https://img3.doubanio.com/icon/u136636125-2.jpg",
+      "content": "很少看到主角踏踏实实成长的王道热血动漫了，终于不龙傲天了。战斗作画帅炸天，尤其是欧尔麦特VS脑无，燃哭"
+    },
+    {
+      "user": "昨天开始发霉",
+      "avatar": "https://img3.doubanio.com/icon/u3326178-102.jpg",
+      "content": "差点以为这个academia是老派的那个意思呢，上来看翻译好像不是呀，嘻嘻。各方面都很流水线式的热血。没点还老擅自感动自己草个努力人设，努力就能成功？？？好没意思。希望内山以后专注坏人役！"
+    },
+    {
+      "user": "Lycidas",
+      "avatar": "https://img3.doubanio.com/icon/u46752165-32.jpg",
+      "content": "3.5 日常吹轰总并日常赞美林友树的配乐"
+    },
+    {
+      "user": "虚构天堂",
+      "avatar": "https://img3.doubanio.com/icon/u52758719-1.jpg",
+      "content": "废柴吊丝们幻想着通过自身努力和自认为与众不同的思想就能得到机遇和成功，并获得精英阶层，天之骄子们认可甚至追捧的YY神作。注：凡事都该有个度，梦想甚至幻想不等于YY，卖鸡汤也不等于卖春药。"
+    },
+    {
+      "user": "夏沐",
+      "avatar": "https://img1.doubanio.com/icon/u52793849-9.jpg",
+      "content": "Nobu这次的声线我听着都疼，完全是扯着嗓子配的。E05燃哭了，为毛看个投球也能哭傻啊。E12「黑暗越为沉重...那随之到来的光芒就越是灿烂夺目。」Kokki这个反派配的太出色了。这段打戏超级燃，其实现在燃戏动画不多了，我这季追的里面能称得上燃的也只有小英雄了。BONES这次的作画配乐实在是太赞了。"
+    },
+    {
+      "user": "P",
+      "avatar": "https://img3.doubanio.com/icon/u44480779-4.jpg",
+      "content": "同类型泛滥 人设又不出彩 剧情大部分时间都味同嚼蜡 每集的燃点都相当的刻意 男主这动不动就哭的性格反感的不行 更别说男2三观歪到下水沟"
+    },
+    {
+      "user": "贺兰迈克",
+      "avatar": "https://img3.doubanio.com/icon/u68523936-16.jpg",
+      "content": "很好，很燃，节奏不慢"
+    },
+    {
+      "user": "L",
+      "avatar": "https://img3.doubanio.com/icon/u66669225-6.jpg",
+      "content": "幼稚向的动画，废材男猪笑起来跟磕了药一样，他妈吓尿，来来回回就是一句我来了加上怪异的笑声装逼"
+    },
+    {
+      "user": "饲养员爱守财奴",
+      "avatar": "https://img3.doubanio.com/icon/u3571959-6.jpg",
+      "content": "啊啊啊天惹噜！为什么之前我没看！！！！相见恨晚说的就是我！48小时之内看完三部+漫画"
+    },
+    {
+      "user": "Lightning",
+      "avatar": "https://img3.doubanio.com/icon/u52420928-165.jpg",
+      "content": "“啥？完结了？”的感觉，还有就是太拖。"
+    },
+    {
+      "user": "hazy",
+      "avatar": "https://img1.doubanio.com/icon/u2336350-58.jpg",
+      "content": "血统纯正的少年JUMP"
+    },
+    {
+      "user": "某J。624",
+      "avatar": "https://img1.doubanio.com/icon/u2223174-29.jpg",
+      "content": "姬友安利。热评第一笑死我了，琦玉老师以前才没有绿头发！可能是第一季太短，相比弹幕激动地刷各种男主小天使、卡酱以及轰总，最爱的反倒是相泽33跟英雄欧尔麦特。"
+    },
+    {
+      "user": "theVII",
+      "avatar": "https://img1.doubanio.com/icon/u1440826-309.jpg",
+      "content": "OP第一眼就喜欢上轰轰了w 小久简直可爱炸！！"
+    },
+    {
+      "user": "野蒜",
+      "avatar": "https://img3.doubanio.com/icon/u57966675-30.jpg",
+      "content": "一般"
+    },
+    {
+      "user": "咸鱼王腐loli",
+      "avatar": "https://img3.doubanio.com/icon/u10669919-51.jpg",
+      "content": "虽然俗套但是超好看!简直泡面番"
+    },
+    {
+      "user": "温蒂尼",
+      "avatar": "https://img3.doubanio.com/icon/u75728627-12.jpg",
+      "content": "超级超级超级讨厌这个懦弱墨迹傻逼绿毛青蛙男主！"
+    },
+    {
+      "user": "呼噜噜队长🍀",
+      "avatar": "https://img3.doubanio.com/icon/u2307401-1052.jpg",
+      "content": "骨头社节奏good！二季来吧！"
+    },
+    {
+      "user": "ZeonGin Sou",
+      "avatar": "https://img3.doubanio.com/icon/u3495654-15.jpg",
+      "content": "这很X男。就是喜欢欧尔麦克“出现就稳了”的感觉。设定，相当有趣。热血，永不过时。"
+    },
+    {
+      "user": "离桑",
+      "avatar": "https://img3.doubanio.com/icon/u54940586-14.jpg",
+      "content": "哪里好看？？"
+    },
+    {
+      "user": "海马体已死",
+      "avatar": "https://img3.doubanio.com/icon/u119330133-3.jpg",
+      "content": "这样题材的番真不应该做得这么平庸的，骨头社都救不回来。设定啊逻辑啊都经不起推敲，作者对主角偏爱得令人发指，全靠一群可爱的角色撑起人气。然而实际上对配角的刻画少之又少，同人圈力量真伟大。不过真情实感赞美相泽老师。ps短评说王道热血奋发向上就给五星的，若只要价值观积极就是好，怎么没见你们对国产电影这么宽容啊？"
+    },
+    {
+      "user": "WYF飞凡",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "看不下去，因为那个爆豪"
+    },
+    {
+      "user": "猩哗社",
+      "avatar": "https://img3.doubanio.com/icon/u2810749-2.jpg",
+      "content": "二话弃，这种套路太低龄了。"
+    },
+    {
+      "user": "：)：",
+      "avatar": "https://img3.doubanio.com/icon/u2107349-221.jpg",
+      "content": "呜呜呜好看死了啦！！OST超加分！！"
+    },
+    {
+      "user": "竹飞羽",
+      "avatar": "https://img3.doubanio.com/icon/u45382903-40.jpg",
+      "content": "前面各种表现男主渴望成为英雄却又是少有的没有“个性”的普通人，以为这种绝望会激发男主用其他能力，比如智慧或计谋成为跟别人不一样的英雄，结果告诉我他能继承超能力？这哪是即使我弱小我也能实现梦想的热血漫，这明明是开挂的金庸武侠剧。只有欧尔迈特人设有亮点。热血佳作有完结的也不能硬捧。"
+    },
+    {
+      "user": "阿蘺",
+      "avatar": "https://img3.doubanio.com/icon/u67048173-5.jpg",
+      "content": "怎么说呢，标准的热血王道漫，除了第一英雄来自美漫好像没什么特别。入学考试完全偏向战斗暴力系么，其他像隐身妹子还有粘球的小个子到底怎么打机器人？该有的元素都有，吊车尾的小子，不高兴的好基友，厉害的导师，动作大场面，哪里哪里都那么熟悉……完全是把各种元素拼了一个标准的故事出来吧……"
+    },
+    {
+      "user": "微喵的兔姑娘",
+      "avatar": "https://img1.doubanio.com/icon/u2344260-79.jpg",
+      "content": "第一季是真棒( •̀ϖ•́)b"
+    },
+    {
+      "user": "安然槿 - 露",
+      "avatar": "https://img3.doubanio.com/icon/u1592540-101.jpg",
+      "content": "MHA居然是骨头的吗=口="
+    },
+    {
+      "user": "与影牵手",
+      "avatar": "https://img3.doubanio.com/icon/u3627289-6.jpg",
+      "content": "12集2016-04-03★★★★纯正热血搞笑。"
+    },
+    {
+      "user": "LOVE&PEACH",
+      "avatar": "https://img3.doubanio.com/icon/u1520552-194.jpg",
+      "content": "最朴素的美好。"
+    },
+    {
+      "user": "不喝水的鲫鱼",
+      "avatar": "https://img3.doubanio.com/icon/u83771916-2.jpg",
+      "content": "超能力普及的设定，和《一拳超人》差不多，还让我想到了《天空学园》。剧情真是拖沓，好想急死你，到第5话才入学。嘴炮多到让人恶心。既然超能力后天可以继承，那之前强调男主先天没有超能力有什么意义啊？男主的战斗服太丑了。"
+    },
+    {
+      "user": "yahiko",
+      "avatar": "https://img1.doubanio.com/icon/u3871995-567.jpg",
+      "content": "我分分钟炸毛的nobu超可爱"
+    },
+    {
+      "user": "乏了的涎水",
+      "avatar": "https://img3.doubanio.com/icon/u53058729-2.jpg",
+      "content": "那么多满分评价，我觉得吧，就是个标准的JUMP系，有喜欢的有不喜欢的，没必要一言不合就搬出梦想啊什么的吧，就算赶鸭上架也要坚持年少时懵懂无知确立的梦想，不是每个人都适合这样的吧。话说回来反派果然也都是在实现自己的梦想吧，梦想就是做个反派什么的啊。还有些槽点，毕竟英雄漫画，不提也罢。"
+    },
+    {
+      "user": "Cure Kuma",
+      "avatar": "https://img3.doubanio.com/icon/u42819825-150.jpg",
+      "content": "漫画最近进入了救基友模式……www【看漫画好了"
+    },
+    {
+      "user": "萌塔 C-137",
+      "avatar": "https://img3.doubanio.com/icon/u26829552-190.jpg",
+      "content": "一口气补完了，真的很好看啊！私心认为比起暗杀教室还是这种王道作品才能做JUMP招牌。打斗戏和音乐都很燃，交给骨头来做一万个放心。坐等二期w"
+    },
+    {
+      "user": "穆如初",
+      "avatar": "https://img3.doubanio.com/icon/u44652353-115.jpg",
+      "content": "太燃啦啦啦啦~~~~闯关养成冒险我还能再嗑一百年！1.中国？？\n2.哈哈哈吐血这个设定太萌了吧\n3.真是通俗易懂的取名呢"
+    },
+    {
+      "user": "较怂",
+      "avatar": "https://img3.doubanio.com/icon/u78146463-5.jpg",
+      "content": "有点简单过头甚至弱智的热血番"
+    },
+    {
+      "user": "lovely叶小妹",
+      "avatar": "https://img3.doubanio.com/icon/u50025483-11.jpg",
+      "content": "好无聊啊，jump要完，王道热血漫要完的感觉"
+    },
+    {
+      "user": "黑色太少",
+      "avatar": "https://img1.doubanio.com/icon/u49526037-9.jpg",
+      "content": "骨头社还真是喜欢这种设定老套剧情只走套路的安全牌番剧......还有这战斗服简直是难看死了。"
+    },
+    {
+      "user": "Robert",
+      "avatar": "https://img3.doubanio.com/icon/u4531032-30.jpg",
+      "content": "低龄向不说，人设还特别蠢"
+    },
+    {
+      "user": "冰箱坛子鸦",
+      "avatar": "https://img3.doubanio.com/icon/u150664534-1.jpg",
+      "content": "认为王道漫就是老套的绝对是天大的误解。\n王道漫的核心在于巨大的危机、面对危机的勇气和牺牲换取成长。\n可惜这不作品了，作者舍不得给主角制造危机，主角面对危机缺乏主动，而主角的成长也没有付出相应的牺牲。\n太多让人觉得可惜的精彩设定。"
+    },
+    {
+      "user": "思想实验",
+      "avatar": "https://img3.doubanio.com/icon/u54780145-6.jpg",
+      "content": "太短了不够看，感觉废久更废了，爆豪...果然是女主担当，我的轰股还没开卖呜呜呜"
+    },
+    {
+      "user": "麟",
+      "avatar": "https://img3.doubanio.com/icon/u52334476-2.jpg",
+      "content": "有点燃哦 就是太短了…"
+    },
+    {
+      "user": "zqnpz",
+      "avatar": "https://img3.doubanio.com/icon/u49484741-14.jpg",
+      "content": "不愧是黑田，节奏把握的不错！不难看但亮点也不多，OP不错"
+    },
+    {
+      "user": "Cosmos42",
+      "avatar": "https://img3.doubanio.com/icon/u1860724-4.jpg",
+      "content": "听说很好看，坚持了四集…节奏有点慢，人物长得都太花哨\n最近越来越喜欢天马行空的长相和画风了，比如四叠半，混沌武士"
+    },
+    {
+      "user": "仁慈的父",
+      "avatar": "https://img3.doubanio.com/icon/u1658148-15.jpg",
+      "content": "很热血。"
+    },
+    {
+      "user": "苏沫",
+      "avatar": "https://img3.doubanio.com/icon/u62198966-10.jpg",
+      "content": "不错的热血番，超级英雄的修正集合+日式热血番成长之路。我敢说那个喋喋不休的萌熊校长一定超级强，从形象反差这一点考虑，其【个性】极有可能是巨大化。"
+    },
+    {
+      "user": "文森特森林",
+      "avatar": "https://img3.doubanio.com/icon/u52624708-33.jpg",
+      "content": "1. 并没有想象中惊艳，可能是这几年类似题材的作品太多了。（观望中，希望后期有好的表现；2. 够热血！但危机处理的情节有些重复；3. 大家可不可以美型一点"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "「所谓英雄，乃是无论何时都能冲破绝境的人啊！」小英雄真的好燃啊！燃到爆炸！燃到飙泪！Plus Ultra！"
+    },
+    {
+      "user": "暮玦明",
+      "avatar": "https://img3.doubanio.com/icon/u48979443-46.jpg",
+      "content": "太好看了！英雄和梦想的主题永远这么戳。期待第二季！！"
+    },
+    {
+      "user": "Megumi",
+      "avatar": "https://img3.doubanio.com/icon/u62824119-25.jpg",
+      "content": "老套归老套，其实蛮好看的，但这种超级英雄个人看着就是热血不起来。部分情节“燃”得过于用力了。英雄变成一种职业也挺微妙，所以救人的本质是拿钱办事？虽然也不觉得都要追求高尚……\n关于爆豪的人设，始终觉得欺凌那段是个败笔，如果只是瞧不起绿谷，被他帮了自尊心受不了，辱骂几句还能接受，他的行为性质太恶劣了，是严重的以强欺弱。就算后面挖掘出其他优点，也没办法掩盖。而且这和他后期的表现也有点矛盾，也只能解释为当时膨胀昏了头，以及作者没能过渡好。这是人设计出来的故事，放在现实中被欺凌想必又是另一种展开。\n//看到第三季这点还是没啥变化，我还是很希望看到爆豪成长的，不是抱着崇拜力量觉得厉害这种中二小男生心性。如果不把“守护”放在第一位，每次都自信爆棚忙着冲上去厮打，那在导师心里的评价永远不可能赶上绿谷的。"
+    },
+    {
+      "user": "星陨",
+      "avatar": "https://img3.doubanio.com/icon/u123754808-4.jpg",
+      "content": "这就完了！？这故事才刚刚开了个头啊！这类热血王道少年漫画动画化不是应该先来个50集才够意思吗！12集就完了！？完全不够看啊！"
+    },
+    {
+      "user": "玉牙周晓",
+      "avatar": "https://img3.doubanio.com/icon/u3542121-44.jpg",
+      "content": "传统热血番，超能力战斗番，在前有那么多珠玉的情况下，要在一季做的吸引人眼球，对于以长篇为目的的漫画原作来说，个人认为，不可能。Jump系的漫画，最后还是得看作者的长篇驾驭能力，期盼作者的意志力吧。"
+    },
+    {
+      "user": "一生懸命养乐多",
+      "avatar": "https://img3.doubanio.com/icon/u3116365-70.jpg",
+      "content": "老套的热血番，二次元不变的英雄主题，这个世界永远不缺英雄"
+    },
+    {
+      "user": "软体动动物",
+      "avatar": "https://img3.doubanio.com/icon/u52186826-60.jpg",
+      "content": "超......超超超好看啊啊啊啊啊！！！！！！！！剧情特别干脆！"
+    },
+    {
+      "user": "mieko",
+      "avatar": "https://img1.doubanio.com/icon/u2982237-57.jpg",
+      "content": "画风有点复古，第二季应该也会看看。"
+    },
+    {
+      "user": "蓑雨吟[已注水]",
+      "avatar": "https://img3.doubanio.com/icon/u3087993-30.jpg",
+      "content": "只有第二集和最后一集能看，别的太平淡，人物智商太低，类似火影第一部但差远了。"
+    },
+    {
+      "user": "♤♡◇♧",
+      "avatar": "https://img3.doubanio.com/icon/u84529817-5.jpg",
+      "content": "勉勉强强……"
+    },
+    {
+      "user": "洋渔",
+      "avatar": "https://img3.doubanio.com/icon/u1890255-33.jpg",
+      "content": "这么简单的剧情，热血的好白痴，但是还是很热血了..."
+    },
+    {
+      "user": "反眼失敗松果體",
+      "avatar": "https://img1.doubanio.com/icon/u3769629-109.jpg",
+      "content": "All Might太有型啦！美式畫風超讚！想嫁！除了AM, 其他沒那麼喜歡，性格開首表達得很不討喜；劇情經常重複拖曳。內容基本不多，期待看第二季！"
+    },
+    {
+      "user": "Suito",
+      "avatar": "https://img1.doubanio.com/icon/u4559199-67.jpg",
+      "content": "啧啧啧，骨头社这打斗，12话最后那拳荒井和人呀，燃燃燃，年度作画预定。"
+    },
+    {
+      "user": "甘楽",
+      "avatar": "https://img3.doubanio.com/icon/u50617725-211.jpg",
+      "content": "！！！【】人设好评并且现在只想嫁班主任！！！|ω눈)♡"
+    },
+    {
+      "user": "はぐみ",
+      "avatar": "https://img3.doubanio.com/icon/u46035519-12.jpg",
+      "content": "我的燃料已经用完了……"
+    },
+    {
+      "user": "zxc9668",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "断断续续补完第一季，真的是难看，这剧情也太落伍了，我没有用俗套而是落伍是因为像之前魔神Z也是俗的燃，但是确实看的沙雕热血，但是他英就看的尬了。这角色塑造的，我比起爆豪来更讨厌绿谷，赶紧让爆豪打死绿谷算了，不过绿谷讨厌也是因为爆豪塑造的太差。主要角色都塑造的这么讨厌作者是怎么塑造的。优点也是有，画风我还是蛮喜欢的，设定也不错，有些配角还是可以的（能把所有角色都塑造讨厌了也是本事），最喜欢蛙妹（我老婆）和欧叔。但这些只是绿叶，没有红花不行啊。话说我看爆豪的样子就像一方，结果还是冈本信彦配的，他怎么老配这样的角色，嗓子不难受么。"
+    },
+    {
+      "user": "说了我是黑无常",
+      "avatar": "https://img3.doubanio.com/icon/u46097887-4.jpg",
+      "content": "疯了，服了，八百年没有两天补完一部了，是有个小英雄在幕后使用“一旦打开就无法停下来”的个性吗？！小哭包男主根本超可爱啊！"
+    },
+    {
+      "user": "Pius",
+      "avatar": "https://img3.doubanio.com/icon/u1955648-24.jpg",
+      "content": "从少年长成男人，总要有一部Jump系啊。"
+    },
+    {
+      "user": "麻非",
+      "avatar": "https://img3.doubanio.com/icon/u2646596-233.jpg",
+      "content": "好看！"
+    },
+    {
+      "user": "曾小贱",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "俗套的剧情和设定，但是TM的燃哭了，如果满分100，那我给200，多出来的100给BGM，林友树太吊了，本来下了超人幻想，现在根本看不下去，满脑子欧尔迈特和《you say run》"
+    },
+    {
+      "user": "骤雨至",
+      "avatar": "https://img3.doubanio.com/icon/u46326052-256.jpg",
+      "content": "喜欢，好看，找回了看日漫的热情"
+    },
+    {
+      "user": "狂躁 C-137",
+      "avatar": "https://img3.doubanio.com/icon/u11333196-120.jpg",
+      "content": "分有点虚高吧（。可能是我受够了弱小男主承担命运重量变得强大起来的剧情，其他角色的塑造也过于空洞和单一，设定阅过之后就没新鲜感了。翻了些漫画看法也没有改观...Jump 这种开篇剧情“冲击性引入”的方式是不是只能一做到底了..."
+    },
+    {
+      "user": "トランクス",
+      "avatar": "https://img3.doubanio.com/icon/u40375186-90.jpg",
+      "content": "可能是如今最无愧于热血漫画四个字的番了"
+    },
+    {
+      "user": "谦虚的人",
+      "avatar": "https://img3.doubanio.com/icon/u53145042-1.jpg",
+      "content": "虽说在有了《一拳超人》和《灵能百分百》这样颠覆超级英雄的作品之后，《我的英雄学院》显得没什么新意，但是依然很燃很热血。刚看完第一季，其他的待追。"
+    },
+    {
+      "user": "四季",
+      "avatar": "https://img3.doubanio.com/icon/u50321178-173.jpg",
+      "content": "没有想到紧接着又来了一部如此热血的英雄动画。"
+    },
+    {
+      "user": "ryujin",
+      "avatar": "https://img3.doubanio.com/icon/u2597570-1.jpg",
+      "content": "完全的低龄番，小时候会看的很开心吧……可惜了一丝不苟的作画。"
+    },
+    {
+      "user": "Ston3s",
+      "avatar": "https://img3.doubanio.com/icon/u1338828-153.jpg",
+      "content": "作为幼儿园看龙珠的中年人~强行入戏必有“批判”~看罢大叹买点组合的创作其实也有生命~各人命名简单粗暴~强行燃因为设定合理煽情套路成熟又角度更高~并不违和且有打动人心的真实感动。努力呐超越呐奉献呐，一拳的无证骑士戏份自然入心，绿男工整也有诚意。"
+    },
+    {
+      "user": "IN",
+      "avatar": "https://img3.doubanio.com/icon/u57729976-491.jpg",
+      "content": "热血≠开挂"
+    },
+    {
+      "user": "小林鳟",
+      "avatar": "https://img3.doubanio.com/icon/u48598074-963.jpg",
+      "content": "喜欢八百万！！！"
+    },
+    {
+      "user": "yoory",
+      "avatar": "https://img3.doubanio.com/icon/u1546732-406.jpg",
+      "content": "明明叫我的英雄学院 可是从进入学院开始我的注意力就涣散了 不知道是习惯了套路还是人设提不起劲"
+    },
+    {
+      "user": "mikaholic",
+      "avatar": "https://img3.doubanio.com/icon/u1439185-45.jpg",
+      "content": "这片被土豆独播严重影响传播好吗？！好久没有这么正统热血的燃漫了！"
+    },
+    {
+      "user": "元不溜啾宝",
+      "avatar": "https://img1.doubanio.com/icon/u2068615-59.jpg",
+      "content": "燃爆！多角色不同特性的描绘，却又能个个兼顾。为欧尼麦特疯狂打call！"
+    },
+    {
+      "user": "喜宴",
+      "avatar": "https://img1.doubanio.com/icon/u1637278-207.jpg",
+      "content": "回忆杀和说教太多，十分墨迹，不习惯少年向的还是不推荐了。角色设定可以凑合看看，总觉得大部分土土的，不过妹子都很萌。OP动画还不错，内山昂辉的反派挺好，感兴趣可以挑着看看，梶裕贵说话就比较少了。"
+    },
+    {
+      "user": "啪啪啪扒鸡",
+      "avatar": "https://img3.doubanio.com/icon/u2863556-83.jpg",
+      "content": "第一集前十分钟我看了三四遍 咬牙熬结果过去 一口气看了两季 (′；ω；`) 我不管幼驯染太美了【我在说什么】"
+    },
+    {
+      "user": "毛大刺",
+      "avatar": "https://img3.doubanio.com/icon/u1862340-6.jpg",
+      "content": "果然过了这么多年还是想要当英雄啊。可惜没有人给我超能力。"
+    },
+    {
+      "user": "缚床灵团子",
+      "avatar": "https://img3.doubanio.com/icon/u43802739-54.jpg",
+      "content": "超燃巨燃怎么这么燃！男朋友坐在旁边面无表情的吐槽好想打他：（"
+    },
+    {
+      "user": "宵待雨月丶",
+      "avatar": "https://img1.doubanio.com/icon/u76963008-9.jpg",
+      "content": "说实话 各方面都不是我的菜。"
+    },
+    {
+      "user": "人类学科研究员",
+      "avatar": "https://img3.doubanio.com/icon/u2221343-242.jpg",
+      "content": "画风不一样蛮好笑的，很纯正的热血漫呀。帧数还高，没什么不满意的了。"
+    },
+    {
+      "user": "甘党",
+      "avatar": "https://img3.doubanio.com/icon/u50264396-1.jpg",
+      "content": "输出全靠吼之哭丧废柴主角系列。这种强行摇着你肩膀跟你吼好燃好燃的也算情感绑架了吧"
+    },
+    {
+      "user": "暮色苍茫",
+      "avatar": "https://img3.doubanio.com/icon/u159202992-22.jpg",
+      "content": "没有预期的好，不过实在是一部优秀的少年热血动画"
+    },
+    {
+      "user": "🖤",
+      "avatar": "https://img3.doubanio.com/icon/u44143739-40.jpg",
+      "content": "小绿谷真是个好孩子 正太时期天天卖萌 听说漫画精彩的部分还没开始 没有什么心动的高人气配角 等等看把"
+    },
+    {
+      "user": "滿神的異教徒",
+      "avatar": "https://img3.doubanio.com/icon/u48347281-16.jpg",
+      "content": "卖傻人设看疲劳了。"
+    },
+    {
+      "user": "Samantha",
+      "avatar": "https://img3.doubanio.com/icon/u3802312-2.jpg",
+      "content": "我好像很容易喜欢多人各有超能力的剧情。。。这部不拖沓我喜欢，但感觉整个故事的背景框架不够完整。。。总觉得哪里怪怪的"
+    },
+    {
+      "user": "爱丽斯提亚",
+      "avatar": "https://img1.doubanio.com/icon/u54905681-147.jpg",
+      "content": "太你妈的螺旋爆炸无敌好看了！！！！！我爱爆豪胜己！！！！！！！！！！！！！！！！！！！！"
+    },
+    {
+      "user": "为罪",
+      "avatar": "https://img3.doubanio.com/icon/u56980157-3.jpg",
+      "content": "这番的最大作用是让我见识到一拳粉的脑残程度。"
+    },
+    {
+      "user": "田井中律",
+      "avatar": "https://img1.doubanio.com/icon/u58689768-9.jpg",
+      "content": "三季都看了，挺久了，打斗开大的场面很厉害，动作画风还行。但三季以来的剧情和设定就很让人无语。作者是想要探讨社会问题，但是那个社会的基石是不合理的，虚构的。按照设定，那社会的生产力早已提高，为何还会有人热衷于做英雄（条子）？那种社会人应该有更先进的追求，即社会主义第三种形态。然后剧里的世界观跟实际会发生的世界观不符。我便是一直在纠结这点。其次男主对男二的感情到底是如何维持下去的，男主就像个智障。"
+    },
+    {
+      "user": "粗眉毛的甘乐",
+      "avatar": "https://img3.doubanio.com/icon/u4360751-46.jpg",
+      "content": "王道热血漫，气氛好过剧情，搞笑部分不错，喜欢饭田少爷和梅雨酱，幼驯染组加油。"
+    },
+    {
+      "user": "阿朴",
+      "avatar": "https://img3.doubanio.com/icon/u1240451-6.jpg",
+      "content": "漫画没看过，动画意外的不错。很单纯的少年向，相比一贯喜欢说教的热血作品，节奏快了不少画质也好，看得蛮爽。"
+    },
+    {
+      "user": "七黛.",
+      "avatar": "https://img1.doubanio.com/icon/u1737544-19.jpg",
+      "content": "又燃又感动，热血王道！！！QAQ  第二话泪目，第七话帅炸！无论再过多少年，自己也会被这种纯粹打动的吧……配乐、声优、画面都极上乘，感谢骨头社，将一个好故事呈现得如此精彩！二期come on！！"
+    },
+    {
+      "user": "瞳·莲",
+      "avatar": "https://img1.doubanio.com/icon/u2818044-28.jpg",
+      "content": "我社+jump双强联手，前三话略无聊蓝而相泽老师出场一秒我就追了，慵懒老男人真心是帅cry……唉这辈子别想从jump毕业了【挖鼻孔"
+    },
+    {
+      "user": "钉宫党的胜利",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "从一开始的惊艳到高潮再到索然无味，这片子在我心中地位真是大起大落，设定太过随心所欲，世界观实在还构得不是很大，作者就开始失控了，往后的剧情也不大敢想了"
+    },
+    {
+      "user": "阿特拉斯抠抠脚",
+      "avatar": "https://img3.doubanio.com/icon/u68034206-31.jpg",
+      "content": "3.5"
+    },
+    {
+      "user": "Kannimeia",
+      "avatar": "https://img3.doubanio.com/icon/u49567226-2.jpg",
+      "content": "可能是刚刚看完一拳超人和Overlord，感觉这个水平相比较之下好像略平庸。随便看看就好。"
+    },
+    {
+      "user": "ななせまる",
+      "avatar": "https://img3.doubanio.com/icon/u4717092-53.jpg",
+      "content": "【完】"
+    },
+    {
+      "user": "Lost丶Key",
+      "avatar": "https://img3.doubanio.com/icon/u63929627-11.jpg",
+      "content": "燃炸！这么说吧，小英雄和小排球是最近几年来唯二两部每一集都值得让我刷三遍以上的作品，热血不死，jump赛高。小英雄潜力无限。ps请至少看完前两集再决定是否弃番，剧情需要铺垫，第二集燃哭"
+    },
+    {
+      "user": "极楽",
+      "avatar": "https://img3.doubanio.com/icon/u2489066-14.jpg",
+      "content": "难得让人一气追完全集的番！喜欢小天使和轰，丽日的小八字眉粉可爱，爆豪虽然本性不坏，但欺凌绿谷的前科不能洗白。希望敌联盟早日崩塌，虽然对英雄的救助理所当然的社会需要改革，但不是被这些恶鬼。"
+    },
+    {
+      "user": "正月初三",
+      "avatar": "https://img3.doubanio.com/icon/u67950697-15.jpg",
+      "content": "Jump系的白开水现在吸引不了咱了"
+    },
+    {
+      "user": "煎鱼",
+      "avatar": "https://img1.doubanio.com/icon/u78065496-7.jpg",
+      "content": "第三集真是太感动了，真正的英雄，身体先动于思维。"
+    },
+    {
+      "user": "DINGAYIN",
+      "avatar": "https://img3.doubanio.com/icon/u55943262-2.jpg",
+      "content": "熱血到爆，畫風音樂節奏在動畫中都表現得很好，頭2集都感動到泛淚了，之後的每一集都好像跟著主角在成長一樣，非常期待第2季。這也是我最近遠離煩惱的唯一救贖了吧。"
+    },
+    {
+      "user": "陆 味 地 黄 丸",
+      "avatar": "https://img3.doubanio.com/icon/u64005853-62.jpg",
+      "content": "第一季已补完\n宅萌当道果然还是要看骨头社平衡平衡男子气概\n尤其是这样朝气蓬勃的夏天！\n青春啊，燃烧吧哈哈哈哈哈"
+    },
+    {
+      "user": "寂静的风",
+      "avatar": "https://img3.doubanio.com/icon/u48323263-2.jpg",
+      "content": "除了第一集有点熬，后面就越发顺畅了，虽然高能不多，但是燃点泪点倒是很足啊。"
+    },
+    {
+      "user": "队长",
+      "avatar": "https://img3.doubanio.com/icon/u53238292-1.jpg",
+      "content": "太过于慢热，如果你没看到第四集的话就放弃，会错过这部精彩的热血动漫，看完第三集之后就开始精彩并加快推进了"
+    },
+    {
+      "user": "江倍恒",
+      "avatar": "https://img3.doubanio.com/icon/u42137037-42.jpg",
+      "content": "综合素质还行，但是男主的设定不讨喜虽然努力精神值得赞扬但是实在太罗里吧嗦，一直在说着努力太招人烦，无法避免的让人感觉有嘴遁的嫌疑。"
+    },
+    {
+      "user": "完蛋",
+      "avatar": "https://img3.doubanio.com/icon/u56282560-34.jpg",
+      "content": "原作更多关于师生情的着墨，其实还在后头（10000%SMASH和风中残烛篇），不过长崎监督早在第二集，便先作好了概念图。黄昏，逆光，瘦弱的师傅，跪地的徒儿。"
+    },
+    {
+      "user": "乌鸦坐飞碟",
+      "avatar": "https://img3.doubanio.com/icon/u62712229-22.jpg",
+      "content": "画风挺特别的，男主角真是小坚强这都能坚持下来，我只能说可追好吧。——以上是看第一集时的感受。骨头社还是良心啊，很纯粹的燃漫，“hero”大概是这类动画永远不过时，永远能给人激励和鸡血的主题。"
+    },
+    {
+      "user": "שדון",
+      "avatar": "https://img3.doubanio.com/icon/u134034550-25.jpg",
+      "content": "只能说大爱骨头社啊"
+    },
+    {
+      "user": "Linear",
+      "avatar": "https://img3.doubanio.com/icon/u4755718-132.jpg",
+      "content": "这种角色设定也太纯粹了！看的一把鼻涕一把泪！为了梦想敢拼就对了！"
+    },
+    {
+      "user": "花都满",
+      "avatar": "https://img3.doubanio.com/icon/u2586091-30.jpg",
+      "content": "即使你neta上一代jump名作达到了原样照搬的程度，我还是爱你（づ￣3￣）づ╭❤～"
+    },
+    {
+      "user": "杨小歪",
+      "avatar": "https://img3.doubanio.com/icon/u2636497-114.jpg",
+      "content": "有些慢热 前几集觉得不好看 后面就燃起来了||特别喜欢个性活用这个概念  ||英雄学院的感觉就是“很多优秀的人聚在一起就是伤害"
+    },
+    {
+      "user": "__冷雨''",
+      "avatar": "https://img3.doubanio.com/icon/u48195677-12.jpg",
+      "content": "干就完了"
+    },
+    {
+      "user": "迷影导Sir丶",
+      "avatar": "https://img3.doubanio.com/icon/u48899980-11.jpg",
+      "content": "设定严重涉嫌抄袭《一拳超人》！不过挺好看的，热血又励志，继续追第二季！"
+    },
+    {
+      "user": "电个爆炸头",
+      "avatar": "https://img3.doubanio.com/icon/u73046958-54.jpg",
+      "content": "少年JUMP的热血动画集大成之作，但也可以理解为低幼及一贯套路，能看到许多动画的影子，海贼王的恶魔果实，火影的人设，一拳超人的简单，東京喰種的反派氛围...也可以理解为潜力很大，用来做民工番会不会比季番更好呢？毕竟持续连载，能量也有，绿谷和爆豪之间的关系，后者会不会黑化，轰的家庭，恋爱线，欧叔和大BOSS的前尘往事...不过能留这么多空隙，也意味着这部动画有许多漏洞和小坑，能力者的“个性”设定，英雄学院的考核模式，A班上许多学生的“个性”是不是也有点太弱了等等。"
+    },
+    {
+      "user": "OpinionatedDbU",
+      "avatar": "https://img3.doubanio.com/icon/u26414546-64.jpg",
+      "content": "很传统 很优秀"
+    },
+    {
+      "user": "D.K.Xu",
+      "avatar": "https://img1.doubanio.com/icon/u45021212-7.jpg",
+      "content": "一开始觉得这个设定和风格都很美式，看下来还是传统的日式热血动画。挺好看的。"
+    },
+    {
+      "user": "乙烷君",
+      "avatar": "https://img1.doubanio.com/icon/u43441835-7.jpg",
+      "content": "明明是泪点为什么要做得那么鬼畜！！！"
+    },
+    {
+      "user": "张家强🌈",
+      "avatar": "https://img1.doubanio.com/icon/u2720390-9.jpg",
+      "content": "燃的要掉泪啊！！！我英会火的！！一定会的！！王道动漫，看的人会热血沸腾的，不愧是我期待了大半年的番！Plus Ultra ！第二季见！"
+    },
+    {
+      "user": "冬青木",
+      "avatar": "https://img3.doubanio.com/icon/u40506888-3.jpg",
+      "content": "主角太傻逼"
+    },
+    {
+      "user": "彭薇薇",
+      "avatar": "https://img1.doubanio.com/icon/u54147058-8.jpg",
+      "content": "王道系越来越看不下去了"
+    },
+    {
+      "user": "深海怪兽",
+      "avatar": "https://img3.doubanio.com/icon/u102820242-6.jpg",
+      "content": "在人物设定与情节发展上大量致敬《火影忍者》，细节的耕耘不能掩盖热血漫画的迟暮与衰朽"
+    },
+    {
+      "user": "Frank",
+      "avatar": "https://img1.doubanio.com/icon/u2459760-139.jpg",
+      "content": "第一季结束了mark一下"
+    },
+    {
+      "user": "运动读经小助手",
+      "avatar": "https://img3.doubanio.com/icon/u61040620-353.jpg",
+      "content": "角色可爱，作画精良，剧情过于子供向，砍掉闪回可以缩到6集"
+    },
+    {
+      "user": "jakefang",
+      "avatar": "https://img3.doubanio.com/icon/u80482289-4.jpg",
+      "content": "画风太粗糙，剧情太拖拉。12集里唯一一场好看的打戏只有第一次班级对抗赛里绿谷队vs爆豪队那次。（和我对一拳超人不感冒的理由一样，剧情第一优先其他皆次要）"
+    },
+    {
+      "user": "虫银改了个名字",
+      "avatar": "https://img1.doubanio.com/icon/u43393606-137.jpg",
+      "content": "燃哭了"
+    },
+    {
+      "user": "バナナ邦奇君",
+      "avatar": "https://img3.doubanio.com/icon/u3432789-1074.jpg",
+      "content": "燃"
+    },
+    {
+      "user": "アイリス",
+      "avatar": "https://img3.doubanio.com/icon/u52555204-16.jpg",
+      "content": "正统热血少年番 可以的！"
+    },
+    {
+      "user": "Kitsch",
+      "avatar": "https://img1.doubanio.com/icon/u45578730-18.jpg",
+      "content": "我 真的 超爱 ！！！！！！！！配乐也都好棒"
+    },
+    {
+      "user": "Chandler",
+      "avatar": "https://img3.doubanio.com/icon/u51549155-6.jpg",
+      "content": "够燃，够jump"
+    },
+    {
+      "user": "鱼",
+      "avatar": "https://img3.doubanio.com/icon/u3058291-41.jpg",
+      "content": "想给。。三星半"
+    },
+    {
+      "user": "Nightingale",
+      "avatar": "https://img3.doubanio.com/icon/u59018976-4.jpg",
+      "content": "好热血 “修仙”的套路一致（不禁联想到宋书航...），但至少绿谷是一位有梦想去奋斗的好少年！"
+    },
+    {
+      "user": "薛洋",
+      "avatar": "https://img3.doubanio.com/icon/u1625566-514.jpg",
+      "content": "爆豪帅炸！！！！！！！！"
+    },
+    {
+      "user": "momo",
+      "avatar": "https://img3.doubanio.com/icon/u1423724-5.jpg",
+      "content": "6集弃。"
+    },
+    {
+      "user": "mojo233",
+      "avatar": "https://img3.doubanio.com/icon/u144966102-26.jpg",
+      "content": "剧情俗套但依旧热血 不愧JUMP未来新台柱之名"
+    },
+    {
+      "user": "ደስተኛ",
+      "avatar": "https://img3.doubanio.com/icon/u67314740-46.jpg",
+      "content": "作画教程"
+    }
+  ]
+}

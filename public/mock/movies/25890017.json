@@ -1,0 +1,1226 @@
+{
+  "title": "哥斯拉2：怪兽之王",
+  "url": "https://movie.douban.com/subject/25890017/",
+  "rate": "6.3",
+  "id": "25890017",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg",
+  "info": [
+    "导演: 迈克尔·道赫蒂",
+    "编剧: 迈克尔·道赫蒂 / 扎克·希尔兹 / 麦克思·鲍伦斯坦",
+    "主演: 凯尔·钱德勒 / 维拉·法米加 / 米莉·波比·布朗 / 章子怡 / 渡边谦 / 布莱德利·惠特福德 / 托马斯·米德蒂奇 / 艾莎·辛德斯 / 莎莉·霍金斯 / 查尔斯·丹斯 / 大卫·斯特雷泽恩 / 小奥谢拉·杰克逊 / 希·庞德 / 安东尼·拉莫斯 / 杰森·莱尔斯 / 乔纳森·霍华德 / 莱尔·布罗卡托 / 兰德尔·P·海文斯 / T·C·马特恩 / 吉米·冈萨雷斯 / 萨莎·里翁达 / 文斯·福斯特 / 贾斯蒂斯·利克 / 菲奥娜·哈丁汉姆 / 露西·卡罗尔 / 约书亚·利瑞 / 艾伦·马克森 / 肯尼斯·以色列 / 阿尔·维森特 / 塞西尔·M·亨利 / 迈克尔·大卫·育尔 / 本杰明·韦弗 / 卡梅伦·布鲁姆布罗 / 帕蒂·舍尔哈斯 / 理查德·多顿 / 詹姆斯·斯特林 / 麦克斯威尔·海史密斯 / 贾斯汀·斯劳特 / 肖恩·索斯 / 马科·查卡 / 蒂莫西·卡尔",
+    "类型: 动作 / 科幻 / 冒险 / 灾难",
+    "官方网站: www.godzilla-movie.net",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "上映日期: 2019-05-31(中国大陆/美国) / 2019-05-25(大规模点映)",
+    "片长: 132分钟",
+    "又名: 哥斯拉：怪兽之王 / 哥斯拉II: 王者巨兽(港) / 哥吉拉II怪兽之王(台) / 哥斯拉2 / 哥斯拉2018 / Godzilla 2"
+  ],
+  "desc": "随着《哥斯拉》和《金刚：骷髅岛》在全球范围内取得成功，传奇影业和华纳兄弟影业联手开启了怪兽宇宙系列电影的新篇章—一部史诗级动作冒险巨制。在这部电影中，哥斯拉将和众多大家在流行文化中所熟知的怪兽展开较量。全新故事中，研究神秘动物学的机构“帝王组织”将勇敢直面巨型怪兽，其中强大的哥斯拉也将和魔斯拉、拉顿和它的死对头——三头王者基多拉展开激烈对抗。当这些只存在于传说里的超级生物再度崛起时，它们将展开王者争霸，人类的命运岌岌可危……",
+  "members": {
+    "director": {
+      "name": "迈克尔·道赫蒂 Michael Dougherty",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34473.jpg"
+    },
+    "cast": [
+      {
+        "name": "凯尔·钱德勒 Kyle Chandler",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20877.jpg"
+      },
+      {
+        "name": "维拉·法米加 Vera Farmiga",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11871.jpg"
+      },
+      {
+        "name": "米莉·波比·布朗 Millie Bobby Brown",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477066064.22.jpg"
+      },
+      {
+        "name": "章子怡 Ziyi Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.jpg"
+      },
+      {
+        "name": "渡边谦 Ken Watanabe",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34972.jpg"
+      },
+      {
+        "name": "布莱德利·惠特福德 Bradley Whitford",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552457212.6.jpg"
+      },
+      {
+        "name": "托马斯·米德蒂奇 Thomas Middleditch",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1397573646.37.jpg"
+      },
+      {
+        "name": "艾莎·辛德斯 Aisha Hinds",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p19406.jpg"
+      },
+      {
+        "name": "莎莉·霍金斯 Sally Hawkins",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512988325.57.jpg"
+      },
+      {
+        "name": "查尔斯·丹斯 Charles Dance",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p56511.jpg"
+      },
+      {
+        "name": "大卫·斯特雷泽恩 David Strathairn",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1388897763.42.jpg"
+      },
+      {
+        "name": "小奥谢拉·杰克逊 O'Shea Jackson Jr.",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1440908596.87.jpg"
+      },
+      {
+        "name": "希·庞德 CCH Pounder",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12419.jpg"
+      },
+      {
+        "name": "安东尼·拉莫斯 Anthony Ramos",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pMvGo8n4rnBocel_avatar_uploaded1517841918.64.jpg"
+      },
+      {
+        "name": "杰森·莱尔斯 Jason Liles",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504853164.94.jpg"
+      },
+      {
+        "name": "乔纳森·霍华德 Jonathan Howard",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1383987845.66.jpg"
+      },
+      {
+        "name": "莱尔·布罗卡托 Lyle Brocato",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516868475.12.jpg"
+      },
+      {
+        "name": "兰德尔·P·海文斯 Randall P. Havens",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/puqS3biE9tVocel_avatar_uploaded1468673086.69.jpg"
+      },
+      {
+        "name": "T·C·马特恩 T.C. Matherne",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1538205792.37.jpg"
+      },
+      {
+        "name": "吉米·冈萨雷斯 Jimmy Gonzales",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508121117.34.jpg"
+      },
+      {
+        "name": "萨莎·里翁达 Sasha Rionda",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997315.94.jpg"
+      },
+      {
+        "name": "文斯·福斯特 Vince Foster",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pGjVf4Cm1t4ocel_avatar_uploaded1512207123.27.jpg"
+      },
+      {
+        "name": "贾斯蒂斯·利克 Justice Leak",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1529940436.66.jpg"
+      },
+      {
+        "name": "菲奥娜·哈丁汉姆 Fiona Hardingham",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509431792.94.jpg"
+      },
+      {
+        "name": "露西·卡罗尔 Lucie Carroll",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1527864789.23.jpg"
+      },
+      {
+        "name": "约书亚·利瑞 Joshua Leary",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1422523052.69.jpg"
+      },
+      {
+        "name": "艾伦·马克森 Alan Maxson",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997363.91.jpg"
+      },
+      {
+        "name": "肯尼斯·以色列 Kenneth Israel",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547876703.93.jpg"
+      },
+      {
+        "name": "阿尔·维森特 Al Vicente",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1361362576.3.jpg"
+      },
+      {
+        "name": "塞西尔·M·亨利 Cecil M. Henry",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509433684.25.jpg"
+      },
+      {
+        "name": "迈克尔·大卫·育尔 Michael David Yuhl",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997428.21.jpg"
+      },
+      {
+        "name": "本杰明·韦弗 Benjamin Weaver",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1542071211.44.jpg"
+      },
+      {
+        "name": "卡梅伦·布鲁姆布罗 Cameron Brumbelow",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550138674.29.jpg"
+      },
+      {
+        "name": "帕蒂·舍尔哈斯 Patti Schellhaas",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552277259.73.jpg"
+      },
+      {
+        "name": "理查德·多顿 Richard Dorton",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997495.46.jpg"
+      },
+      {
+        "name": "詹姆斯·斯特林 James Sterling",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "麦克斯威尔·海史密斯 Maxwell Highsmith",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552277020.11.jpg"
+      },
+      {
+        "name": "贾斯汀·斯劳特 Justin Slaughter",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997575.6.jpg"
+      },
+      {
+        "name": "肖恩·索斯 Shawn South",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550997631.66.jpg"
+      },
+      {
+        "name": "马科·查卡 Marko Caka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1492413987.2.jpg"
+      },
+      {
+        "name": "蒂莫西·卡尔 Timothy Carr",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535601937.63.jpg"
+      },
+      {
+        "name": "亚历珊德拉‧瑞秋·拉贝 Alexandra Rachael Rabe",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1557902860.78.jpg"
+      },
+      {
+        "name": "戴安娜·隆博拉 Diana Rombola",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566358217.5.jpg"
+      },
+      {
+        "name": "斯凯拉·丹尼 Skylar Denney",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566356597.68.jpg"
+      },
+      {
+        "name": "乔·莫顿 Joe Morton",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12689.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2554464244.jpg?",
+        "src": "http://vt1.doubanio.com/201908311049/af905edd2bb366b71c117f5a5b3c3405/view/movie/M/402460166.mp4"
+      },
+      {
+        "pic": "https://img1.doubanio.com/view/photo/photo/public/p2558625397.jpg?",
+        "src": "https://sv1.doubanio.com/201908311049/b6e31849acc11d7fa7d433e43b1b0139/video/2019/M/401030195.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2557461635.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2555010694.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "爱吃面条",
+      "avatar": "https://img3.doubanio.com/icon/u3583873-4.jpg",
+      "content": "神仙打架，凡人在旁边刷存在感，刷不出来硬刷，感动天感动地，感动了自己。\r下回，让怪兽宝宝们打满俩小时，一个人类角色不要有，好吗？"
+    },
+    {
+      "user": "氯化银沉淀",
+      "avatar": "https://img3.doubanio.com/icon/u163898186-10.jpg",
+      "content": "1.彩蛋是泰温·兰尼斯特买了一条龙并在心里默念“Long live the King”\n\n2.至那些想不明白为啥这部的评分不如第一部高的朋友：大部分豆瓣用户观影，看重的首先是剧本，想看特效分啊，请去淘票票/猫眼。"
+    },
+    {
+      "user": "木卫二",
+      "avatar": "https://img1.doubanio.com/icon/u1128221-98.jpg",
+      "content": "全程至少 120min 都在想一件事：女主怎么不早点去死\n\n实在无法忍受这种主角一家生死不分离，别人灰飞烟灭的蠢蛋故事。你们有爱亲生，直立行走，别人野生无尸骸——一次又一次近乎全灭的无脑拯救，看得人尿意频繁，咬合力十足。\n\n差点忘了，这还是一部主打怪兽的电影。全程你都跟着一伙人在找怪兽……怪兽去哪儿了……奔跑吧，怪兽……\n\nemmmmmm……万万没想到，唯一一处意味深长的地方，就是让霓虹金人肉扛核弹，这么玩“核平一切”，真的好嘛。"
+    },
+    {
+      "user": "般若多目",
+      "avatar": "https://img1.doubanio.com/icon/u3214496-27.jpg",
+      "content": "人类真是弱鸡，通篇就做了叫醒服务和喂食服务"
+    },
+    {
+      "user": "居无间",
+      "avatar": "https://img3.doubanio.com/icon/u49549492-13.jpg",
+      "content": "怪兽之斗，居然是因为，一个灭霸级圣母婊？？？于是，前两幕无聊到爆，第三幕想炸，动作场面既没想象力又没层次，看得全程冷漠脸。知道你们在组宇宙，不拿《新·哥斯拉》跟你比，但交出这样的作品实在难以令人满意。大陆市场为章子怡争来一句中文台词。客串王渡边谦值了，本片的戏，基本是他职业生涯最高光时刻。"
+    },
+    {
+      "user": "一块二",
+      "avatar": "https://img3.doubanio.com/icon/u96671127-16.jpg",
+      "content": "金刚:这谁顶得住啊~"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "哥斯拉气势磅礴，仿佛是天神下凡；\n基多拉酷炫霸气，引力光线雷霆万钧；\n魔斯拉五彩斑斓，美到极致，恰似一只大蝴蝶，堪称大自然最出色的杰作；\n拉顿八面威风，空中旋转所向披靡，如同大鹏展翅。\n有的震撼，有的唯美，有的邪恶，有的正义，四大怪兽都有非常鲜明的特色。\n动作戏毁天灭地，视觉效果登峰造极，配乐荡气回肠，每一帧都堪称史诗。\n空中激战，陆地争霸，破海而出……海陆空面面俱到。\n最喜欢战火纷飞、乌云滚滚中古堡巍然屹立的镜头，震撼到窒息。\n剧本仍然是短板，但是真的有人是奔着看剧情来的吗？\n严肃，庄重，深沉，不卖萌，不幽默，不讲段子，注定评分不会高，注定口碑会两极分化。\n但在我看来，至少它不中规中矩，不打安全牌，不妥协，而是剑走偏锋，让我们看到一部与众不同的电影。\n宁愿独树一帜，也不要千篇一律。"
+    },
+    {
+      "user": "无耻不混蛋",
+      "avatar": "https://img3.doubanio.com/icon/u1400288-42.jpg",
+      "content": "绝对稳了！又硬又燃又爽又爆，堪称“史诗级怪兽大片”，我没想到，迄今为止，年度最硬核动作片，居然是“怪兽打怪兽”。不仅有两段视觉上爆炸到极致的哥斯拉大战三头巨兽基多拉，而且还有美到炫目的摩斯拉大战火焰怪兽拉顿。从视觉上看，完全是《哥斯拉1》的“全面升级版”。"
+    },
+    {
+      "user": "西楼尘",
+      "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+      "content": "运送鱼雷核弹的路，一个人拾级而上，注定是一场孤单的朝圣。引诱声呐奥卡的车，一个人调虎离山，终将是一次亡命的救赎。巨兽是地球派出的抗体，还是毁灭万物的神祗。人类是打破平衡的罪人，还是束手待宰的羔羊。宁愿发射灭氧的生化武器自保，不愿向怪兽之王臣服。甘愿阻止巨兽自由，不肯与其共存共生。"
+    },
+    {
+      "user": "钝刀",
+      "avatar": "https://img3.doubanio.com/icon/u135843569-3.jpg",
+      "content": "怪兽的特效较差，场面不错，章子怡的戏份接近可有可无。"
+    },
+    {
+      "user": "吴知之",
+      "avatar": "https://img1.doubanio.com/icon/u72365328-7.jpg",
+      "content": "哥斯拉：这届人类戏真多"
+    },
+    {
+      "user": "正义B胜",
+      "avatar": "https://img3.doubanio.com/icon/u43177047-3.jpg",
+      "content": "不算视觉垃圾，姑且算个视觉鸡肋吧。看得坐立不安，故事又水又强行。开始担心这个所谓的怪兽宇宙了，迄今只有金刚拍出了传奇想要的那种调调和质感，两部哥斯拉都太…太强行了…强行抬高格局，强行煽动情绪，强行为人类制造存在感，强行给每个角色分猪肉让TA们不至于鸡肋，最终强行建立一个所谓的宇宙…事实证明，这个IP改编只会是又一个失败的一厢情愿"
+    },
+    {
+      "user": "喵尔摩丝",
+      "avatar": "https://img3.doubanio.com/icon/u44370220-14.jpg",
+      "content": "古典主义的符号太多了，从图腾崇拜到末日情结，从文明失落到解构与重建，随便从哪个点切进去，都能把一部爆米花电影拍出纵深感，然而并没有。所以看电影的整个过程，就像导演先带着你进了历史博物馆，告诉你什么亚特兰蒂斯什么山海经他都略懂，然后把你塞进自然博物馆恐龙区，告诉你侏罗纪公园才是他的菜，就…何必呢？所以有时候脑子里东西太多也未必是件好事，看这部让我觉得就像一碗晃悠散了豆腐脑摆在我眼前，不吃浪费，吃了味儿也不对。"
+    },
+    {
+      "user": "一條魚佔滿了河",
+      "avatar": "https://img3.doubanio.com/icon/u4699624-10.jpg",
+      "content": "渣男蜥蜴和烈女撲棱蛾子的愛情故事，女朋友為了救自己都犧牲了，他面對胖揍女朋友的火雞竟然無動於衷！絕對的爽片，幾場動作戲毀天滅地很炸，文戲說不上精彩，至少沒有拖後腿。章子怡的英文好像退步了，目測下一部戲份會吃重，埋了感情戲伏筆。"
+    },
+    {
+      "user": "YthguaN",
+      "avatar": "https://img1.doubanio.com/icon/u53644977-17.jpg",
+      "content": "艾玛·灭霸博士的理论深深说服了我 人类快点灭亡吧 别整天祸祸人家大怪兽了 打来打去好累的"
+    },
+    {
+      "user": "渡口无边",
+      "avatar": "https://img3.doubanio.com/icon/u50386362-52.jpg",
+      "content": "料真的很足，非常硬核的动作场面，糅合了漫画向的彩色氤氲，音效和氛围渲染也都很用力，对于有巨兽情结的人来说是过瘾的。然而人类部分写得像坨屎，为了凑够两小时生硬安插一些毫无逻辑的戏码，你哪能想到这一切的发生都是因为一朵圣母白莲花。"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "每次哥斯拉亮相的时候，都萌到不行，真是有独特的萌感。遗憾还是人类戏份太多啦，今夜，我们并不关心人类，只想多看狗吉拉。"
+    },
+    {
+      "user": "康报虹",
+      "avatar": "https://img3.doubanio.com/icon/u89528523-10.jpg",
+      "content": "时隔半个多世纪后，东宝三大怪兽与王者基多拉再次同时出现在银幕之上，不仅延续了前作中浓重的宗教色彩和如油画般的末日图景，还进一步确立了哥斯拉作为“地球守护者”的身份与人性化特征。在此基础上，导演将所有重要的舞台都交还给真正的主角：影片中的哥斯拉不再隐匿于迷雾与夜色中，不再故作神秘地漏出一鳞半爪，而是以“神”的身份站在了人类身边。如果说前作中的哥斯拉代表了来自未知的神罚，那本片中则变为了那些刻印在远古石壁上、书写于传说故事中真实的人族古神。在摒弃了《大白鲨》式的表现手法后，影片用一场酣畅淋漓的视觉盛宴献给了影院中瞠目结舌的观众。\n我预感，《哥斯拉2:怪兽之王》将像开启MCU的《钢铁侠》一样成为怪兽电影宇宙的流行源头，至于个人风格化十足的《哥斯拉》与《金刚：骷髅岛》，也许只会变成不起眼的注脚。"
+    },
+    {
+      "user": "［已注销］。",
+      "avatar": "https://img3.doubanio.com/icon/u168523615-1.jpg",
+      "content": "我一直对于这种巨大生物&物体充满超级热血的浓厚兴趣，比如EVA，比如变形金刚，比如环太，还有哥斯拉 怪兽之王。哥斯拉这次终于正名成为了主角，看着这群神明打架简直不要太爽！\n听我的，怪兽之王上映后，去IMAX感受这场神仙打架就对了。"
+    },
+    {
+      "user": "大屯路的劳伦斯",
+      "avatar": "https://img3.doubanio.com/icon/u45127156-22.jpg",
+      "content": "万达收购传奇后，《哥斯拉2》算是最能拿得出手的作品。影片不仅有章子怡的加盟更有大量恰到好处的东方神话元素，同时也因为东宝的介入，让哥斯拉更像哥斯拉。"
+    },
+    {
+      "user": "翻滚吧！蛋堡",
+      "avatar": "https://img3.doubanio.com/icon/u7542909-93.jpg",
+      "content": "怪兽互斗一时爽，一直互斗一直爽"
+    },
+    {
+      "user": "Z1013",
+      "avatar": "https://img1.doubanio.com/icon/u160410679-9.jpg",
+      "content": "故事上的陈词滥调完全被影片紧凑的节奏以及充满史诗气质的视觉奇观和配乐盖过去了，真的是爽。"
+    },
+    {
+      "user": "承泽明",
+      "avatar": "https://img3.doubanio.com/icon/u4075446-144.jpg",
+      "content": "真·怪兽电影！一场震撼到炸裂的视听盛宴，当魔斯拉、哥斯拉、基多拉、拉顿相继出场，并展开混战，我一瞬间就被这些毁天灭地的家伙们安排的明明白白。虽然剧情有不如人意之处，但作为怪兽电影，把特效做到这个级别，不服是不行的。PS：这部电影还是各大演员串戏现场，《招魂》的维拉·法米加、《怪奇物语》的小11、《水形物语》的莎莉·霍金斯、《权游》的泰温·兰尼斯特，再加上基多拉是三头龙的巨兽，真的是能够让人开出好多有趣的脑洞。"
+    },
+    {
+      "user": "深谷星光",
+      "avatar": "https://img3.doubanio.com/icon/u98992705-33.jpg",
+      "content": "蠢哭了，人类把史前怪兽叫醒了，智商也退化到史前了，看的时候恨不得人类可以集体去世。不明白这种电影的意义在哪，怪兽打架没啥好看的，一只手可以数出来的那几招，人类就更没看头了，智商集体掉线，可能是编剧觉得不把人类塑造成这样就突显不出怪兽的神性？每次怪兽打架人类在下面瞎几把折腾我巴不得有个坠落物可以直接把他们砸死。。。。这种不带脑子看也觉得石乐志的爆米花，可以看，但没必要。"
+    },
+    {
+      "user": "Enjolras",
+      "avatar": "https://img3.doubanio.com/icon/u49104376-24.jpg",
+      "content": "果然还是日本人为了哥斯拉可以去死……"
+    },
+    {
+      "user": "顗禮",
+      "avatar": "https://img3.doubanio.com/icon/u149152146-5.jpg",
+      "content": "用汉语讲神话，用日语说再见。\n\n本质上是以“王位争夺战+地球生物对抗天外来客”的思路拍了部怪兽电影，第一部的问题是没钱，这一部的问题是太有钱，视效场面确实极其夸张，但这样的夸张在开篇还能震出点鸡皮疙瘩，到后面就是场面堆砌带来的审美疲劳了，当然该说不说，作为起到承上启下作用的宇宙展开作品，爆米花指数还是过关的，只是除了几只怪兽本身外难找亮点（和皮卡丘情况一样）只有几次哥斯拉标志性BGM的变奏出现让人激动不已（尤其是片尾字幕，直接放完了一整首）。\n\n另：1、为什么要让我最喜欢的几个角色便当啊！？生气   2、章子怡戏份超多，各种特写，可惜还是存在感不够（甚至有违和感），她还是更适合走电影节评委这样更加高端的路线（毕竟已经修行足够）没必要在这样的爆米花电影里浪费自己"
+    },
+    {
+      "user": "帕帕多普洛斯",
+      "avatar": "https://img3.doubanio.com/icon/u98164670-22.jpg",
+      "content": "灭霸尸骨未寒，继承遗志的就来了，这种消灭人类的反派真的看烦了，连带着整个主角家庭线都无比无聊烦人，最后大战中还要开条线给他们这边；号称多少只结果主要也就俩，打得也就麻麻地，配乐和吼叫完全互相干扰，气氛起不来。\n\n唯一能夸的可能就是几幕插画版的定格亮相了"
+    },
+    {
+      "user": "明月何时照哥谭",
+      "avatar": "https://img1.doubanio.com/icon/u63718313-18.jpg",
+      "content": "《哥斯拉大战金刚》剧情猜想：\n哥斯拉：kneel before your king！\n金刚邪魅一笑：not today！\n哥斯拉大战金刚！！！！\n哥斯拉把金刚按在地上摩擦，张嘴正欲结果了他\n金刚：UR helping them kill Mothra（魔斯拉）！\n哥斯拉一脸惊愕：Mothra！？why did you say that name！？\n正在这时泰温用剁椒龙头复活的毁灭基多拉杀过来，两人被杀个措手不及，哥斯拉无法招架，只见基多拉升级版动感光波就要取他性命！\n奥特曼从天而降挡下一击！\n哥斯拉问金刚：Is he wiht you？\n金刚：I thought he with you！\n\nBTW 电影超燃超好看，还有，我爱BVS！"
+    },
+    {
+      "user": "蜉蝣",
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "content": "到看完也没明白章子怡在戛纳大师班说的“这是一个有的演的角色，而不是只用我的脸和名字”，这不是换谁演甚至删掉角色都没什么问题吗？可能怪兽片限制演员，每个演员都没什么发挥空间，渡边谦要不是结尾强行加戏，会不会偶尔产生自己还在别的剧组的幻觉？"
+    },
+    {
+      "user": "卡特兰",
+      "avatar": "https://img3.doubanio.com/icon/u1169642-86.jpg",
+      "content": "哥斯拉根本不是站在人类这边的。地球是哥斯拉老家，人类是哥斯拉家的宠物。外来怪物基多拉在自己家地盘作威作福，欺负自己家宠物，还拉拢自己家小弟 —— 哥斯拉因为这才大战基多拉的[呲牙]"
+    },
+    {
+      "user": "CyberKnight电子骑士",
+      "avatar": "https://img3.doubanio.com/icon/u1819911-2.jpg",
+      "content": "非常俗套的家庭设定，与怪兽对决生硬结合在一起。前面铺垫挺长，人类的戏份还是不好看！反派逻辑莫名其妙，老爸的主角光环也很没有道理——既不能打又不是解谜的关键角色。\n怪物登场了，画面好看起来，意境也有了——特别是三头龙基多拉站在火山上的场景，颇有气势！特效场面很大，怪兽打打打不停！问题是怪兽战斗太多了，哥斯拉和基多拉几次对决，缺乏层次和差异，就是肌肉互殴加对喷能量！后来看得有点疲惫。\n为何哥斯拉要拼命维护人类，手撕基多拉；为何魔斯拉会帮助哥斯拉。对这些的交代都是只言片语，非常零碎。如果能把怪兽分拯救派和降临派这事儿说清楚就好了——呃，我是说，地球派和外星派！\n传奇/华纳为了让这个系列发展下去，不惜在这一部里大招全出，但后面就不好发展了吧。下一部里只会肉搏而且人类武器都能重创的金刚怎么跟它打？"
+    },
+    {
+      "user": "法式曌影",
+      "avatar": "https://img1.doubanio.com/icon/u148625937-29.jpg",
+      "content": "我佛了，居然比1还难看。传奇啊，这么好的怪物宇宙就这么好好败坏吧。其实怪兽场面非常好，几次怪兽大战看的我热血澎湃，果然是顶级爆米花之一；然而除了动作戏之外，文戏简直算是灾难啊。这尼玛才是人类历史上最大的灾难。把怪兽的设定一个个弄得像人类一样低俗我也忍了，无数的剧情漏洞我也忍了，关键是人类本身，全片出镜的所有人都是sb罢了。一个个全都智商为负，更可怕的是尼玛全员圣母婊，一个个把自己当地球救世主，尼玛漫威都不敢这么拍啊。扩充宇宙的想法完全照搬《侏罗纪世界2》，还玩的不如人家，人家最后好歹是个同类，你丫是真的bitch。你就好好拍怪兽打怪兽爽爽不好吗，就偏让一群sb人类来恶心我？？\n【详见长评】"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "没想到是爱情片，实打实的怪兽PK，画面虽然偏暗（为了节省CG细节），但比第一部黑不溜秋强，当然也没有当年PK前先关门的坑爹视角，像山一样，宏伟、震撼。故事来源于1964年的《三大怪兽》，破坏氧气的炸弹、芹泽博士的举动都是致敬1954年版，还有著名的哥斯拉进行曲都是燃点。然而，人类戏份在本片中已经不仅仅是多余了，而是拖后腿，人类就会抬头张着嘴看上帝，还搞事情，比在《变形金刚》里的地位还次！招魂姐比灭霸不知道差到哪里去了，这烂故事看了影响观感，必须扣分！"
+    },
+    {
+      "user": "X教授的傻儿子",
+      "avatar": "https://img1.doubanio.com/icon/u119617402-17.jpg",
+      "content": "男主和哥斯拉都是因自己老婆的牺牲，获得了胜利。"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "泰温·兰尼斯特苦心孤诣唤醒三头巨龙为哪般，还不是为了教教三个废物崽什么叫“兰尼斯特有债必偿”！章子怡在这种片子里的表现也不比李冰冰什么的强多少啊，短发造型还很于丹，接这个角色的初衷是不是就为了说那一句“That Bitch!”"
+    },
+    {
+      "user": "EWGemini Lee",
+      "avatar": "https://img1.doubanio.com/icon/u18629326-7.jpg",
+      "content": "55/100 不失为一次视觉污染行为艺术"
+    },
+    {
+      "user": "Morning",
+      "avatar": "https://img3.doubanio.com/icon/u2557883-3.jpg",
+      "content": "马不停蹄的炮制了一场怪兽盛宴，真正的做到了现代的神话感和科技感相结合，丝毫不遮不掩的那种恢弘与大气，就是对远古的唤醒。比起许多怀抱发展之心的peace的科幻片来说，这个电影将人类置于一种严肃、沉重、紧张和危机的未来感之中，依靠怪兽这个命题，反醒自身，它比《侏罗纪世界2》将恐龙放逐世界还要进一步。它真正讲到了共存，而不是简单的灾难片那样的生死随机和黑白分明，共存是每一种立场的利与弊的对峙，在支撑影片的背后，十分有效。它也用另一种方式讲到了对家的渴望，对神话的内心呼应和麦迪森最后回到了家，在如此庞大的叙事下从时空两头讲到了人类另一种本质。维拉法米加的表演精湛而准确，将电影变得更有血有肉，而小11在哥斯拉面前那个微笑的镜头，堪称巨星的表演，十分辉煌。"
+    },
+    {
+      "user": "隐",
+      "avatar": "https://img3.doubanio.com/icon/u1169348-41.jpg",
+      "content": "怪兽的部分很好看，所有人类的戏份都可以忽略不计"
+    },
+    {
+      "user": "V.",
+      "avatar": "https://img1.doubanio.com/icon/u176122983-29.jpg",
+      "content": "这电影是最棒最爽最炸裂的怪兽电影，很多地方都让我想鼓掌👏。上一部哥斯拉有人说太暗了，这一部差点亮瞎；上一部哥斯拉有人说哥斯拉神龙见首不见尾，这一部哥斯拉一直出现；上一部也有人说怪兽打斗太少了，这一部从头打到尾。本片配乐和特效简直了(特别是配乐，吹爆的程度)，2019年目前看过的最棒的商业片没有之一，爱上导演Michael了。(骷髅岛靓仔：红莲哥斯拉这谁挨得住啊?打锤子，走了走了。)/没想到凯尔钱德勒还在05版的金刚里出演过，这算不算哥斯拉大战金刚的彩蛋👀。"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "陷入了与卖拷贝的《变形金刚》相同的伦理学困境：怎样把人类角色加进电影？"
+    },
+    {
+      "user": "时间之葬",
+      "avatar": "https://img1.doubanio.com/icon/u2126832-179.jpg",
+      "content": "嗅到了一股浓浓的变形金刚味"
+    },
+    {
+      "user": "L&M&爱你长久",
+      "avatar": "https://img3.doubanio.com/icon/u4308965-60.jpg",
+      "content": "超级期待维拉·法米加!!"
+    },
+    {
+      "user": "LCL超亮",
+      "avatar": "https://img3.doubanio.com/icon/u92632954-1.jpg",
+      "content": "看了点映，imax效果上的红莲哥斯拉很震撼，摩斯拉非常漂亮！在我心中是排第二的怪兽片，如果这部出现了机械哥斯拉的话那就完美满分了！！！这部片怪兽迷必看！！！ps:最后彩蛋预示人类反派可能会复活基多拉，将它改造或制造，这样就可能引出日版的机械基多拉这个设定！ "
+    },
+    {
+      "user": "加印",
+      "avatar": "https://img3.doubanio.com/icon/u165635989-3.jpg",
+      "content": "该片堪称耳膜轰炸机，同时也像老奶奶的裹脚布又臭又长。IMAX版画面都这么暗，难以想象普通3D会是什么灾难。你不得不承认IMAX视听效果一流，在平板或电脑上真的没必要看这片了，可这也是IMAX的优点不是影片本身的优点啊。最后，人类的征服欲真是可怕，无论是绿巨人、大黄蜂还是哥斯拉的头都想伸手抚摸一把。"
+    },
+    {
+      "user": "天马星",
+      "avatar": "https://img3.doubanio.com/icon/u68499588-11.jpg",
+      "content": "看得热泪盈眶，说到底还是悲剧才能让人印象深刻啊。从王者基多拉，拉顿，到红莲哥斯拉，摩斯拉，高度还原昭和时代特摄世界观，当渡边谦说出「再会，吾友」的时候，再也忍不住了眼泪，这是对特摄文化的致敬，更是对东方怪兽文化的回归，而最后摩斯拉奋不顾身地战斗直至牺牲，更是将悲情上升到超越物种的高度，摩姐这个被我们调侃为大蛾子的远古之神从外表到内心都无与伦比的美丽。本质上哥斯拉就是人类恐惧自身的产物，而最终也需要通过自我牺牲才能完成救赎，《哥斯拉：万兽之王》是对东方万物有灵的哲学一次有趣尝试，这一次章子怡饰演的陈博士是关键信息人，渡边谦饰演的芹泽博士是关键拯救者，不得不说这才是真正地文化输出。"
+    },
+    {
+      "user": "壹安²",
+      "avatar": "https://img3.doubanio.com/icon/u3409691-135.jpg",
+      "content": "世界真大，我们真小，哥斯拉之大，骷髅岛靓仔直接退群聊；人类之小，复联都表示办不了。这部续作直接全年升级大场面，IMAX也快撑不下了，但大场面反而让画面失控，综合看，半喜半忧吧！PS.大蛾子实在太美了。"
+    },
+    {
+      "user": "OCT IO≯",
+      "avatar": "https://img3.doubanio.com/icon/u23344187-53.jpg",
+      "content": "哥斯拉系列一直在怪兽主题的外衣下搭载着深沉的环保主题，不过到了这一部环保元素有种不得不肩负+强行插入的违和感……但怪兽打得这么爽，这点小问题可以忽略不计啦……隔得太久了都快把渡边和那个破表忘光了，章子怡戏份比想象中多，表现也比预期好一些，希望下一部里能再多点……"
+    },
+    {
+      "user": "Reaper",
+      "avatar": "https://img3.doubanio.com/icon/u27442548-20.jpg",
+      "content": "这是你们的…神罚！真神与伪神的战斗，设定真的太带感了。看来经费大幅增长了，画面都是油画般的厚重质感。Long live the king！"
+    },
+    {
+      "user": "大奇特(Grinch)",
+      "avatar": "https://img3.doubanio.com/icon/u1074463-104.jpg",
+      "content": "美国早有怪兽片历史，可追溯到像《金刚》《失落的世界》等。但是日本的哥斯拉是作为一个隐喻创作的，它在美国电影中已然失去了语境。相比14年前作以隐藏怪兽信息渲染恐怖氛围的做法，这一部更加突出它怪兽之王的神性色彩，表面看似气势磅礴，实则虚张声势，骨架是垮的。人类角色全部都是功能辅助，一些人类行为也不是必要的。章子怡虽然戏份不少，可还是鸡肋一样走个过场。"
+    },
+    {
+      "user": "安迪呢",
+      "avatar": "https://img3.doubanio.com/icon/u79891186-4.jpg",
+      "content": "自己女儿出了事就急呀哭呀，别人成千上万的死掉就不管了，美其名曰为了地球。这不就是大学者贺某奎嘛！灭霸都比她强，好歹人家连自己女儿都可以牺牲！\n那个盒子如此重要，结果却那么轻易地被一个孩子拿走了！泰温，你存在的意义是什么？！\n逃难一定要记得跟主角在一起，因为天崩地裂海底地震，主角不管是坐飞机还是潜艇都木有问题！\n"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "真！磅礴！巨战！！对上一部失望的这次理应大满足了。氧气破坏装置、红莲哥斯拉、还有初代主旋律都太惊喜了，还有什么遗憾呢？拉顿和魔斯拉的戏份少了点。求下部别打大猩猩了（它打得赢么？）直接打“戴魔”吧！氧气破坏装置都出来了，戴魔不可能不出现的。最后留意下片尾演员表，哥斯拉和三大怪兽都位列其中“扮演它们自己”，太有趣了。8/10"
+    },
+    {
+      "user": "blue薇姿",
+      "avatar": "https://img3.doubanio.com/icon/u92559363-1.jpg",
+      "content": "这种已经拍到极致了，无法想象还有更牛逼更大的怪兽了，简直要爱上哥斯拉了"
+    },
+    {
+      "user": "焚紙樓",
+      "avatar": "https://img3.doubanio.com/icon/u80722428-35.jpg",
+      "content": "構圖和故事皆犯了難以掩飾的毛病。把人類當作比例尺的拍法，令怪獸身型隨著特寫的乎近乎遠連帶忽大忽小，大大削弱了巨獸之「巨」；而，把怪獸安放在環保生態環的敘述，雖沿襲於東寶（不覺得此片很像《最後戰役》翻拍嗎？）但所有巨獸全歸入此一體系，從此無一反派，怪獸打架獲得了大義的正當性，那續集還有啥好看？咱們期望的怪獸之「怪」，不是以地球為榻榻米的慈善拳賽，而是貨真價實的破壞，不是嗎？一套《超人幻想》，怪獸成立的根本原因正是在它反生物．你捨本逐末留下生物面，哥吉拉和大一些的哈士奇又有何魅力區別呢？"
+    },
+    {
+      "user": "tankry",
+      "avatar": "https://img1.doubanio.com/icon/u58449012-7.jpg",
+      "content": "竟然一时无法分辨，究竟是将环球巨兽的研究控制权全权交给一个美利坚非军方组织更反智，还是一位博士说出巨兽是地球释放的抗体因此要清洗人类文明更民科。"
+    },
+    {
+      "user": "法兰西胶片",
+      "avatar": "https://img1.doubanio.com/icon/u2316731-67.jpg",
+      "content": "5.5分。能看到导演本人当年给《超人归来》写剧本时一筹莫展的心情，给哥斯拉找一个和美国人有关的当代的理由真TM难。"
+    },
+    {
+      "user": "贪吃的米其林",
+      "avatar": "https://img3.doubanio.com/icon/u56277834-2.jpg",
+      "content": "亮度加强版环太平洋～\n女版“灭霸”                                                           章子怡无违和感～还年轻漂亮！\n叫“芹泽”的都很厉害"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "基本知道观众想要什么，既然人类打怪兽你们看腻了，那就让怪兽打怪兽好了，于是最后半小时来上一场飞沙走石的怪兽大战，人类成为了哥斯拉加冕怪兽之王过程中的纪念品。但前面的一个半小时实在索然无味，家庭线的寡淡和刻意的女权氛围营造，使得整个观影过程处于割裂的状态。章子怡的表现要看跟谁比，台词是多了，但整体也就那么回事。唯一的贡献可能是和渡边谦对戏时能让人想起另一部作品，增添了几分东方的神秘感。如果可以选择，看最后半小时就够了。"
+    },
+    {
+      "user": "荔枝超人",
+      "avatar": "https://img3.doubanio.com/icon/u1114759-42.jpg",
+      "content": "每一个元素每一场戏都不会太差，但是凑在一起就是可以这么闷。景甜换成章子怡，连吐槽都没那么有趣了。"
+    },
+    {
+      "user": "小水",
+      "avatar": "https://img3.doubanio.com/icon/u1453929-10.jpg",
+      "content": "“有时候，治疗伤痛的唯一方法，是和造成伤痛的罪魁祸首和解”……这台词有毒啊！"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "编剧说，哥斯拉之后，还发现了17头巨兽，感觉怪兽宇宙没尽头了。编剧为了打造一个宏大的电影宇宙，赚大家的钱，不得不强行闭门造车，到了这一部，人物的行为逻辑很生硬，全程找怪物，一会儿圣母要毁灭世界，一个人类会是哥斯拉的宠物，把哥斯拉搬到美国，没了核恐慌，只能从远古神话和外星生物上找存在感，连各种名画和壁画都编上了，一本正经的胡说八道，给人严重水土不服的感觉，明明是来自远古巨兽，设定上却还是喜欢吃核弹。这部里人物角色都很鸡肋，从女主角一开场硬是要靠近魔斯拉，跟她交流，就受不了编剧的戏剧逻辑了，其实就是看编剧随便给一个肤浅的理由，死活和大招都不需要逻辑，让一群特效巨兽在那里打个昏天暗地，让人类在边上全程旁观而已。"
+    },
+    {
+      "user": "Pury",
+      "avatar": "https://img3.doubanio.com/icon/u63615698-5.jpg",
+      "content": "这个系列前两部跟一般爆米花的不同之处在于风格化摄影与怪兽的奇观场面。这一部换了导演以后在剧本上强加了好多无聊的人类故事线，电影节奏极其混乱，出现了五六次最后时刻营救的桥段真是编剧手法拙劣。视觉上靠视效堆砌的确有很多奇观场面，但这导演调度动作的场面极其差劲，两只怪兽只要一打起来就极其难看，要不就立马切掉改人类线，真正的打斗镜头乏善可陈也毫无亮点，期待下一部找个好导演吧……"
+    },
+    {
+      "user": "Bèn",
+      "avatar": "https://img3.doubanio.com/icon/u1599546-361.jpg",
+      "content": "居然看到爱情美好的模样"
+    },
+    {
+      "user": "胖官赵",
+      "avatar": "https://img3.doubanio.com/icon/u122454843-36.jpg",
+      "content": "粉丝的狂欢。因为东宝的完全介入，所以把28本致敬的明明白白，我想看过哥斯拉系列的人在原初bgm响起，摩斯拉变身，双胞胎出现，基多拉嘶吼和哥总原子吐息以及红莲哥斯拉居然也有戏份时，不可能不激动到鼓掌。还有渡边谦的芹泽博士，那是完完全全属于1954年的记忆啊～好像在看一个真正的落幕，正像当初平成哥斯拉终结一般，到20年《哥斯拉大战金刚》，这个短暂的新时代系列就要结束，不过对于老版粉丝而言，有生之年能看到拉顿、摩斯拉、基多拉、哥斯拉混战真的够了。大概有100个彩蛋吧，能让我原谅它文戏的多处尬点和导演调度的紧缩，够了，还要什么自行车。"
+    },
+    {
+      "user": "iPhone X",
+      "avatar": "https://img1.doubanio.com/icon/u90976874-9.jpg",
+      "content": "冒着这个雷阵雨天气去看电影真是带感，手动狗头。嫌弃画面太黑的要么是无脑黑，要么你去投诉影院克扣灯泡。其实影院涨价十元提高亮度也不是不行口牙。最后这电影还能说啥，看怪兽打打打还要什么自行车？如果有日语吹替版看看也是极好的。PS 不应该6.9分，应该8分左右较为客观。"
+    },
+    {
+      "user": "思路乐",
+      "avatar": "https://img3.doubanio.com/icon/u153112416-2.jpg",
+      "content": "【B】1.视觉效果上全面超越前作，同样是夜战，不像第一部中过多的局部视角和过暗的光源，这一部的夜战光源效果非常好，且给的基本都是怪兽的大全景，不会有第一部那种遮遮掩掩的效果。但夜战效果仍然不及六年前的《环太平洋》；2.怪兽的戏份是多了，但人类的戏份也没见少，且家庭主线看上去比第一部还要蠢，而且我真正感兴趣的华盛顿大战也就两三个镜头完事，其他十三头巨兽也就偶尔露个面，完全没有正面表现出他们的破坏力；3.可怜我的魔姐，太惨了，希望下一部能复活；4.暗黑，油画，宗教，真正的怪兽“史诗”，真该让某位扎姓导演好好看看；5.根据片尾彩蛋，我有预感下一部GVK大概就是怪兽版的BVS（我真的没有暗示什么，因为即视感实在是太强烈了）。"
+    },
+    {
+      "user": "赤之彗星",
+      "avatar": "https://img3.doubanio.com/icon/u70686485-5.jpg",
+      "content": "【5.5】真不能给及格，导演功力真的是稀烂，巨多的人物脸部大特写，你一个脸部特写我一个脸部特写，所有人都要有多次重复脸部特写，甚至拍哥斯拉基多拉莫斯拉拉顿都还是脸部特写，实名替加里斯爱德华斯鸣不平！怪兽特效量很大，但质量好像不怎么高，毫无压迫感，冲一块啃就完事了。而且大量白开水人类戏多到最后甚至令人反感，人物写的比《金刚骷髅岛》差太多了，虽然那片也一般，更别提PJ的《金刚》。中间讨论外来生物的一段我以为在映射什么，结果是我想多了。怀念14G，至少有一场极致风格化的跳伞戏令我至今记忆犹新。要说优点的话，可能就是它致敬了《世纪必杀阵》，以及将基多拉莫斯拉用工业特效做出来了，其他的拉倒吧。"
+    },
+    {
+      "user": "Jackdaw",
+      "avatar": "https://img3.doubanio.com/icon/u48010886-95.jpg",
+      "content": "I’m the King of my own land/ Facing the tempest of dust, I’ll fight until the end/ Creatures of my dreams raise up and dance with me/ Now and forever, I am your King. "
+    },
+    {
+      "user": "Bryan·M",
+      "avatar": "https://img1.doubanio.com/icon/u172236294-7.jpg",
+      "content": "不夸张的说，绝对是要被记住的怪兽电影！导演完全知道观众想要什么，节奏把控得很到位，上帝视角和人类视角取得平衡点，凭着就吊打14版了。而且导演功力着实值得称赞下，把官方设定里面神话大战（凡人遭殃）的描述表现的淋漓尽致，尤其是拉顿、基多拉云中对撞、哥斯拉、基多拉波士顿决战等等的画面极具冲击力和压迫感。文戏少还拍的好，动作戏非常充足。大部分是补设定和填坑为续集作铺垫，家庭线也挺感人的。5星不怕骄傲，我敢说至少未来5年内很难再有此等水准的怪兽电影！PS：拉顿值得一个小金人，一个非人类角色能把“二五仔”诠释的如此到位也是种水平。（黑夜PTSD患者可以闭嘴了，数字IMAX厅亮度我都能看清哥总的皮肤细节，自己挑垃圾厅看没体验就别怨天尤人了。BTW，没有IMAX定制倒计时和全画幅真的蛮可惜的）。"
+    },
+    {
+      "user": "萨库拉",
+      "avatar": "https://img1.doubanio.com/icon/u4193588-7.jpg",
+      "content": "为什么哥斯拉要帮愚蠢的人类，为什么我家法米加要演一个傻逼的圣母，累了，为什么子怡要接这种冰冰们的花瓶角色我也不想问了。"
+    },
+    {
+      "user": "大唐咕噜",
+      "avatar": "https://img3.doubanio.com/icon/u92318310-11.jpg",
+      "content": "非常纯粹的爆米花爽片，大量的特效怪兽打斗不断冲击着观众的视觉神经，很燃很爽就没有然后了。如果说上一部的人类是为了展现灾难视角的话，那这一部的人类则发挥了至关重要的作用，女主一家的支线最后也是非常感人。总体来说技法不如上部，但燃度爽度完爆上部！"
+    },
+    {
+      "user": "萌发奇想",
+      "avatar": "https://img3.doubanio.com/icon/u9881459-121.jpg",
+      "content": "抽中观影团点映很开心，华纳和传奇这是打造一个怪兽宇宙电影系列啊！惊现小11（七月份还期待着她的怪奇物语S3），维拉法米加演了一个很另类（bitch）的角色，章子怡则是最后我都不知道是干什么的，还给靠科普，但至少演技比骷髅岛的景甜好。哥斯拉！怪兽之王尽然站在人类这边（暂时），人类是宠物；人类是蠢货；人类就是地球的癌细胞……最后怪兽打怪兽，也就看个爽！其实我期待各种怪兽大乱斗来着可惜米有，哥斯拉暴揍了老大基多拉，其他怪兽就都乖乖的俯首称臣了。来来来，开个赌局看看明年哥斯拉大战金刚谁会赢？我赌他两没准打着打着就变成联手一起暴揍机械基多拉了~~结尾有\"泰温兰尼斯特\"的彩蛋！嗯！"
+    },
+    {
+      "user": "水浒三国金刚",
+      "avatar": "https://img3.doubanio.com/icon/u3322566-2.jpg",
+      "content": "人类虫子就是喜欢自以为是，多管闲事，尤其是美国虫子"
+    },
+    {
+      "user": "圆首的秘书",
+      "avatar": "https://img3.doubanio.com/icon/u4655509-16.jpg",
+      "content": "哥斯拉II 编剧一定是走错了片场，开头泰温·兰尼斯特sends了他的regard，然后坦格利安家的三头龙称霸了世界，结尾三头龙践踏了君临城，但还是被弄死了。哪个角色最后还喊了一句Long live the king，全场就看我一个人笑崩了，，，短短两个小时看了一个精简版GoT，很难说值还是不值，但至少有一点可以确定，那就是并不比烂尾的第八季好看多少"
+    },
+    {
+      "user": "后自愈",
+      "avatar": "https://img1.doubanio.com/icon/u75391386-29.jpg",
+      "content": "太多怪兽打架，视觉疲乏与剧情无聊叠加产生双倍效果，单拎出来每一场戏都可圈可点。人类部分的文戏写的儿戏也罢，所传达的价值观还是白左的那一套，又是在好为人师的给观众上课，一切的根源都因为女主圣母，所以那么多人死于非命，人性的光辉是如此体现么？别那么热衷于构建宇宙了，先把片子拍好再说吧。"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "龙 live the king 空 出 头 歌斯拉"
+    },
+    {
+      "user": "科林",
+      "avatar": "https://img3.doubanio.com/icon/u2160141-4.jpg",
+      "content": "末日降临，毁天灭地！神话是探寻怪兽历史的重要准绳，如果你看过几部老版本，章子怡饰演的双胞胎角色其实非常重要！PS：拉顿简直是古代宫廷剧里唯首是瞻、吃软怕硬的奸臣典型。"
+    },
+    {
+      "user": "用心體會",
+      "avatar": "https://img3.doubanio.com/icon/u81670106-3.jpg",
+      "content": "又是一部浪費特效的大片...劇情超中二，主角一家超自以為是，這家人怎麼不去死一死，讓怪獸自己開口對戰好了啦，人類不要出來廢話。導演剪輯超差，雜亂無章，打算看厲害的戰鬥時就跳下一段了(幹)，看完只覺得哥吉拉弱爆，一直要人幫。想看打鬥或劇情的不用花錢看........."
+    },
+    {
+      "user": "蒂姆德普",
+      "avatar": "https://img3.doubanio.com/icon/u71117624-6.jpg",
+      "content": "把素材给我，我剪的不比它差……"
+    },
+    {
+      "user": "寒枝雀静",
+      "avatar": "https://img3.doubanio.com/icon/u93124222-46.jpg",
+      "content": "C / 论各方面的技法都不如第一部，这个不可信的（抖M）好评完全出自半个怪兽粉的类型趣味。一方面削弱巨兽的神秘感与第一部背道而驰（哪怕也有几个类似的视角处理），另一方面又把第一部那种欲盖弥彰的（窥视的）恋物癖成百上千倍放大。人类的戏份再多也仅仅是作为一种愚蠢的朝圣or献祭仪式规程而存在；任何强装严肃的自然伦理或是文化交融探讨，也仅仅是这种作为臣服与毁灭的无尽渴求的粉饰。以至于最后的疑问反而变成了，作为观众的我到底要如何对待自己这种近乎病态但又确实存在的快感呢……？"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "每段大场面打戏都令人振奋，但同时也能在每段人类戏里体会到编剧为了强凑而一筹莫展的痛苦心情。不断陷入“犯蠢—弥补”的循环，看得心累。相比之下，第一部虽然对战少，至少还有工整的类型剧本和清晰的导演风格；而《哥斯拉2》则陷入大、爽、但失控的情况中。幸而爽的部分还是值回票价的，给及格分。"
+    },
+    {
+      "user": "嘟嘟熊之父",
+      "avatar": "https://img3.doubanio.com/icon/u2201715-15.jpg",
+      "content": "备受煎熬。无休止的物理攻击，无法唤醒苍白的故事内核，人物塑造坚定地秉持分猪肉原则，没能制造出任何可以激起内心波澜的情感冲击或立场碰撞。感觉像是误入一座三流军事+自然博物馆，观看了一场极为无趣的军备演练+科教宣传片，再附加一堂结结实实的思想品德课。只是人类再怎么狼狈，也依然是观赏者操弄者，而非反省者失败者。传奇不要再消耗IP了，找不到好的切入点干脆别拍。"
+    },
+    {
+      "user": "黄信滚",
+      "avatar": "https://img3.doubanio.com/icon/u1424002-31.jpg",
+      "content": "虽然剧情比第一部复杂，但是太无聊零散沉闷了。巨型怪兽/机甲片的魅力就是庞然大物的战斗面前人类熟知正常 scale 的物体被衬托得渺小和不堪一击，通常俗套的方式就用地标来表现。这部倒好了，大打大，城市一早变碎片，没有对比的巨大化毫无震慑感。“反派”的理由正当到让骂街的主角们才像无理取闹。另外现在的少女都这么认路的吗，我在道路完整有路牌的城市里回家都得开导航，你们在已经成为废墟的地方居然还能找到家，活地图。"
+    },
+    {
+      "user": "曾良君",
+      "avatar": "https://img3.doubanio.com/icon/u40960942-235.jpg",
+      "content": "里面的人类都和怪兽靠得太近了吧，我很担心他们受到了过量的核辐射。"
+    },
+    {
+      "user": "西帕克",
+      "avatar": "https://img3.doubanio.com/icon/u49097402-173.jpg",
+      "content": "内核很家庭片，失去儿子的悲伤，需要毁灭世界来填补。但过程实在是太无聊，可能需要4D厅背后使劲杵你背才能不睡着。渡边谦和章子怡艺伎回忆录重聚算是个彩蛋，可惜主要就是给哥斯拉送了次外卖。最后，求拍克苏鲁！"
+    },
+    {
+      "user": "Panda的阴影",
+      "avatar": "https://img3.doubanio.com/icon/u53485894-4.jpg",
+      "content": "1.华纳的DC电影宇宙拼不过迪士尼的漫威，那就好好打造「招魂」宇宙、「怪兽」宇宙……2.第一部《哥斯拉》画面过于阴暗不明的3D、哥斯拉“犹抱琵琶半遮面”拖拉很久才出场等问题，在这部《怪兽之王》里得到了极大的改善，IMAX 3D效果挺不错，“狂暴巨兽”们先后纷纷亮相，一场接一场的战斗戏真够爆米花，最终四只神兽如预期上演终局之战也是够给力；3.故事情节编排较不满，人类戏份槽点挺多，与其让塑造圣母婊女灭霸，还不如来个邪恶至极的女小丑（她就是坏到想看人类灭绝）……4.电影里不少台词画面关联到第一部以及《金刚：骷髅岛》，让我也期待《哥斯拉大战金刚》会是怎么个打法？再联想到彩蛋，难不成是像《蝙蝠侠大战超人》一样先内斗然后再团结一起对外？（偶然看到影评里有篇《真的莫名觉得续集GVK就是怪兽版BVS》和我有同感而惊喜一下）……"
+    },
+    {
+      "user": "VeryGZ",
+      "avatar": "https://img1.doubanio.com/icon/u1576610-119.jpg",
+      "content": "除了CG复现王者基多拉、魔姐、拉顿，这部续集没有丝毫进步，走上了环太2的老路，一门心思扑在打斗戏上讨好观众，然鹅真正能看的只有最后30分钟。一直到哥斯拉登场曲响起，动作设计依旧非常、非常难看（有友邻嗅到了变形金刚味，嗯。），连神性闪现的时刻都寥寥无几，恰好反证了日版庵骗的才是“真·哥斯拉”，无限接近完美的正确拍法。传奇影业天真地以为给哥总套了个帝王计划or电影宇宙就能参透怪兽电影奥义了？强行嫁接那套资本主义核心家庭观和没有动机也要创造动机的反派逻辑简直翻尽白眼，前有攻壳机动队后有皮卡丘哥斯拉，土鳖的美国人压根就不懂日本人脑袋里在想些什么，反正都能扔上流水线生产出没有灵魂的奇观商品。幸灾乐祸地想知道初始设定已被吊打的金刚在下一部如何不尴尬地融入这群神仙打架，华纳拍DCEU那套？@卢米埃IMAX"
+    },
+    {
+      "user": "宇宙逃生指南",
+      "avatar": "https://img1.doubanio.com/icon/u54355939-568.jpg",
+      "content": "章子怡的英语是不是在和我开玩笑？"
+    },
+    {
+      "user": "Madison",
+      "avatar": "https://img3.doubanio.com/icon/u34347136-6.jpg",
+      "content": "到最后一幕前我都是3星略失望的，但最后还是高潮到了。不过整体来讲，视效的的史诗感和节奏感是不如加斯顿·爱德华兹的，更多的都是靠大和爽来撑的，也缺少第一部跳伞那样的年度十佳级别镜头。"
+    },
+    {
+      "user": "Dongrui",
+      "avatar": "https://img3.doubanio.com/icon/u174762543-1.jpg",
+      "content": "只允许拥有漫威的情怀打高分，却不允许拥有特色怪兽情怀的人打高分吗？ 光是哥斯拉进行曲这一点我就可以给一万分"
+    },
+    {
+      "user": "Mintsmallsmall",
+      "avatar": "https://img3.doubanio.com/icon/u122352396-15.jpg",
+      "content": "4DX with screen X 福利观影，我真是无福消受，晃得乱七八糟，极大影响观感，就不能好好看个电影吗？难道是因为没什么剧情吗？故事推进毫无逻辑，人物动机莫名其妙，女主是看完复联被灭霸洗脑了吗？另外，主角光环强大的已经不顾观众感受了，后半段基本全部崩掉。国际章的戏份不少，但角色却可有可无。两颗星全给时不时就被唤醒打一仗的哥斯拉，摊上这样的编剧，你辛苦了。"
+    },
+    {
+      "user": "凹凸",
+      "avatar": "https://img3.doubanio.com/icon/u60689518-41.jpg",
+      "content": "mega班吉拉+彩粉蝶 V.S. 三首恶龙+mega喷火龙X 客串登场：阿利多斯和象牙猪"
+    },
+    {
+      "user": "煽情破坏者",
+      "avatar": "https://img1.doubanio.com/icon/u37507203-128.jpg",
+      "content": "前面昏昏欲睡，结尾彻底炸裂！以至于让我怀疑那么多拖沓没用的垃圾文戏都是故意的，只为了烘托怪兽打斗的刺激。当然两场为了拯救他人英勇就义的戏码还是挺动人的，但最精彩的还是酷到爆炸的哥斯拉！！"
+    },
+    {
+      "user": "mdr skywalker",
+      "avatar": "https://img3.doubanio.com/icon/u179357693-1.jpg",
+      "content": "这不就是看爆米花电影的感觉么！伴着震天动地的音效，看着这几头灭世巨兽的打斗，视听效果超一流，看得全身起了鸡皮疙瘩！剧情么，就是无脑了，尤其是渺小的人类，作用就是送人头和充当救世主了，章娘娘比景甜好的多，戏份也足，可是作用就是给外国人科普中国传统文化了。片尾字幕结束有彩蛋。（8/10）"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "Earth needs a Godzilla,but earth doesn't need a terrible Godzilla movie."
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "更大更强更过瘾，哥斯拉、摩丝拉VS拉顿、基多拉，毁天灭地，long live the king。不过整体的导演手法不如上一部高明，前半部略显混乱，但最后三十分钟爽到失语，老版主旋律响起也是燃到不行，加一星给真正的怪兽王者！PS：渡边谦和章子怡的表演状态真的好像哦！"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "CG为巨大生物的压制震慑提供了多元的有力视角，此绝非主要依赖模型布景作为简单参照系的特摄所能比拟，然而，怪兽搏斗的恐怖力量一旦在细节与分镜上变得自由和无限，观众对破坏毁灭的敬畏却也就随着距离的拉进被消解，人类角色的存在便是起到了保持观看距离的作用，圆谷英二和本多猪四郎的特摄片中人类对怪兽总是远观的，然而本片中的人类戏份不但并未如宣传般有所减少，且除了渡边谦牺牲外，其他都在没有起到基本距离作用的同时还愚蠢和无意义的过分抢夺参与，拉顿的处理更是将其从三巨头中拆除沦为鸡肋，本应对付戴斯特洛伊的红莲形态用在这部托高潮亦是急切的浪费，道赫蒂称自己是日本怪兽片铁粉，我是不相信的。"
+    },
+    {
+      "user": "ReeZan",
+      "avatar": "https://img3.doubanio.com/icon/u44232292-85.jpg",
+      "content": "专业演员就是厉害，这么蠢的剧情都能演下去【几段配乐是仅有亮点，同时又被打斗场面声破坏了……"
+    },
+    {
+      "user": "LoVe",
+      "avatar": "https://img3.doubanio.com/icon/u3467163-335.jpg",
+      "content": "怪兽打架还不错。哥斯拉永远看不清他的脸…怎么体质那么差呢…另外，人人都应该买一件加拿大鹅。"
+    },
+    {
+      "user": "内有恶犬",
+      "avatar": "https://img1.doubanio.com/icon/u7255952-28.jpg",
+      "content": "好莱坞致力于让一切故事变得简单，背景动机角色结果一起组成了又一部量产的同质化大片。"
+    },
+    {
+      "user": "刮刮油",
+      "avatar": "https://img3.doubanio.com/icon/u4890144-11.jpg",
+      "content": "所有人类感情、讲理、科学戏码都完全可以去掉，剧本和对白实在太出戏，只来神仙打架怪兽恩爱就对了。"
+    },
+    {
+      "user": "二火山",
+      "avatar": "https://img3.doubanio.com/icon/u51016659-30.jpg",
+      "content": "不如第一部稳扎稳打。视效震撼，剪辑痕迹明显，人类的戏份乏善可陈，男主实在太男配脸了。传奇的怪兽宇宙三部下来铺得不温不火，没太多实质性的进展。换成章子怡，戏份也没比景甜吃重多少，说好要在好莱坞那边争夺话语权，估计拍了不少，后期都给剪没了。"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "看得很烦躁，麻烦人类有点自知之明，两个小时的怪兽片，你们就占了80%的时长，并不care你们的死活……"
+    },
+    {
+      "user": "风间隼",
+      "avatar": "https://img3.doubanio.com/icon/u2521825-70.jpg",
+      "content": "有个球意思啊？满屏幕的夜景加强闪光，不知道的还以为在看动画剧场版呢。怪兽形象没创意，动作没新意，细节欠缺说服力。一只怪兽的身世和特技都没有好好经营，弄十八只出来也没用啊，又不是要镇守十八层地狱，对吧？只有音乐不错，梵呗加片尾的笛声，再配上经典的主旋律，嗯所以这片子看片尾字幕就够了。"
+    },
+    {
+      "user": "GQ",
+      "avatar": "https://img3.doubanio.com/icon/u57319076-6.jpg",
+      "content": "观影前期望值已经降很低，但依旧让人失望。槽点满满，BUG多多。摄影行活不断，特效美术透视没学好，怪物和人的比例变来变去。#31"
+    },
+    {
+      "user": "skaz",
+      "avatar": "https://img1.doubanio.com/icon/u1554013-37.jpg",
+      "content": "真正的怪兽电影就应该这样，跨物种、大乱斗"
+    },
+    {
+      "user": "谋杀游戏机",
+      "avatar": "https://img1.doubanio.com/icon/u10969301-317.jpg",
+      "content": "这集怪兽料很足，怪兽控一本满足！每次巨兽在朦朦胧胧的光电雨雾冰中现身都倒吸一口冷气，震撼又美丽，团战厮打也很热血，特效满分。剧情略弱，居然搞出个女灭霸...还是非黑即白二分法、个人英雄主义、家庭团圆等好莱坞灾难片套路。那个奥卡也很唬人，不过我眼里只有怪兽。小女孩还蛮招人喜欢，倔强的样子让我想起娜塔丽波曼。章子怡短发造型好看，戏份差不多还是各国演员代表平均分配。IMAX零点场氛围很好，是我在国内看片最好的一次，从头到尾没一个人讲话，当然也可能是音响和配乐实在太大声了，感觉脑壳都要震开了。连放三版IMAX广告的片子果然视效很好...但是感觉我看的3D效果不是很明显。这部还没上映续集哥斯拉大战金刚就已经拍完了，美国人把哥斯拉进化到这么强，很好奇小个子金刚要怎么击败小短手了。"
+    },
+    {
+      "user": "滕子京",
+      "avatar": "https://img3.doubanio.com/icon/u1650020-33.jpg",
+      "content": "虽说想看的就是怪兽乱斗，但乱成这个样子也是服气。一部电影遍布核爆级混乱场面，一言不合就核爆。人类不仅弱鸡而且智障。主角一家三口应该直接删除在地球上。唯一令人起敬的是渡边谦的表演，硬是撑起了再烂的剧本都可以做好的演员。章子怡可能是角色设置问题，没啥发挥空间。但也比看戏精一家人用力过度好。"
+    },
+    {
+      "user": "TWY",
+      "avatar": "https://img3.doubanio.com/icon/u80915199-11.jpg",
+      "content": "能在美版电影里听到54原版配乐登场还是一件很爽的事情。"
+    },
+    {
+      "user": "张小北",
+      "avatar": "https://img1.doubanio.com/icon/u2279829-8.jpg",
+      "content": "从头到尾就是一顿干……感觉跟快进着看毛片似的……"
+    },
+    {
+      "user": "Nick",
+      "avatar": "https://img3.doubanio.com/icon/u42445441-6.jpg",
+      "content": "就，从头打到尾，但还挺好看。然后几个预告片还都挺叫人喜欢，背景音乐用变奏的Clair de Lune, Somewhere Over the Rainbow 都好好听啊。"
+    },
+    {
+      "user": "汤姆·赫兰德",
+      "avatar": "https://img3.doubanio.com/icon/u153477177-5.jpg",
+      "content": "年度最佳视效大片预定。\n魔斯拉惊艳全场，拉顿就是个墙头草。\n哥斯拉换了颜色，“王者”基多拉biss。\n各种怪兽轮番出场，关于金刚的铺垫也不少，比如骷髅岛之类的。片尾一个彩蛋。"
+    },
+    {
+      "user": "Hachiko",
+      "avatar": "https://img3.doubanio.com/icon/u1508098-40.jpg",
+      "content": "哥斯拉好像充电宝啊！！！"
+    },
+    {
+      "user": "色烈芬_",
+      "avatar": "https://img1.doubanio.com/icon/u69475039-9.jpg",
+      "content": "看到女主妈唤醒了第一只像蟑螂一样的怪兽 我想对北方的小伙伴说：嗯 我们南方的蟑螂就有这么大，真的。"
+    },
+    {
+      "user": "麦",
+      "avatar": "https://img3.doubanio.com/icon/u1255822-50.jpg",
+      "content": "完全是被去年的一版预告种的草，BGM是德彪西的月光，恢弘壮阔又悲悯的史诗画风，拿着手机瞪大了眼睛。要多打一星给巨型飞蛾，小时候五毛钱一张票挤在录像厅里的大人堆里，也是瞪着眼睛看完它化茧成蝶，永远烙印在了心里的美丽画面。"
+    },
+    {
+      "user": "曼彻斯特的雪",
+      "avatar": "https://img3.doubanio.com/icon/u180401152-1.jpg",
+      "content": "只想看怪兽打架，其他都是多余的。可惜最后的大战还是不太过瘾，多打会儿啊。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "这群怪兽太他妈恶心了，让人产生生理不适。"
+    },
+    {
+      "user": "pppsky",
+      "avatar": "https://img3.doubanio.com/icon/u4108453-34.jpg",
+      "content": "屎一样的电影，编剧导演都请去死好吗！"
+    },
+    {
+      "user": "突然粉碎",
+      "avatar": "https://img1.doubanio.com/icon/u4051316-9.jpg",
+      "content": "有些人表面上是驱（科）魔（学）师（家），却偏要当女灭霸，怪兽大战，人类退散，哥斯拉登基，外星伪王滚出，表白护夫狂魔摩斯拉，表白小短手哥斯拉，一刷特效加分，二刷索然无味，文戏太长长长了，小11演技真是shit"
+    },
+    {
+      "user": "何婊砸",
+      "avatar": "https://img3.doubanio.com/icon/u35346929-91.jpg",
+      "content": "All hail the king,Godzilla!!!宏大磅礴，怪兽群架，王者称霸！本来我以为这部是哥斯拉大战金刚的，结果……而且金刚只远远露脸了一两下有点失望。Emma简直就是怪物宇宙中的灭霸……章子怡的英文口音有点一言难尽。谢幕部分配上酷炫的片尾曲很精彩！！！小11的出场方式和《大黄蜂》里海狸妹妹的出场方式甚为相似（Millie你居然在听Pixies！）。"
+    },
+    {
+      "user": "发条橙",
+      "avatar": "https://img3.doubanio.com/icon/u169721244-4.jpg",
+      "content": "It's so boring！！！劣质扎眼3D与大量夜戏更搭哦，前期吹的炸裂口碑差点就信了…"
+    },
+    {
+      "user": "萌汉药",
+      "avatar": "https://img3.doubanio.com/icon/u68525093-5.jpg",
+      "content": "我不知道那些打低分的是什么鬼，反正看完电影我和我朋友大赞，哥斯拉2太好看了，这是怪兽电影！不是故事片悬疑片推理片，请你们注意好不好。"
+    },
+    {
+      "user": "哪 吒",
+      "avatar": "https://img3.doubanio.com/icon/u1209738-44.jpg",
+      "content": "要二刷！是我喜欢的怪兽片！可以说是新世纪近二十年以来的至尊怪兽片了吧！无论是怪兽数量、cg设计、打斗场面都接近史诗巨制！imax看出六分仪在NERV看二号机手刃使徒的感觉！摩丝拉牺牲宛如绫波丽自曝！神话传说的回溯，水下失落文明，哥斯拉红莲进化我都想站起来鼓掌👏怪兽出场的配乐听出东宝的日式情怀，传奇用心了。人类弱鸡！请忽略！请忽略一切人类剧情！Long Live the King！"
+    },
+    {
+      "user": "叉叉你个圈圈",
+      "avatar": "https://img1.doubanio.com/icon/u3245224-17.jpg",
+      "content": "我寡姐和钢铁侠牺牲了自己才把人类拯救回来。怎么又跳出来一个傻逼说人口太多要他妈的灭掉人类地球生态才能平衡。这狗屎剧情看的人太生气了。太生气了。"
+    },
+    {
+      "user": "德卡的羊",
+      "avatar": "https://img3.doubanio.com/icon/u146177041-46.jpg",
+      "content": "45/100，比起前作真的是各种倒退。文本仿佛是为了假装有剧情随便写出来的多线叙事，写那么多角色也不知道是干嘛，都没什么用也没有塑造起来。打戏/特效变得更加简单粗暴，也没有调度可言，用镜头的晃+影像的闪来虚张声势，其实打的毫无美感，除了哥斯拉，其他怪兽大概就真的只是无脑动物了。总体来说就是CG视觉污染。"
+    },
+    {
+      "user": "雨苔思音",
+      "avatar": "https://img3.doubanio.com/icon/u66009504-4.jpg",
+      "content": "我知道下一部剧情了，哥斯拉被金刚暴打，哥斯拉大喊：“摩斯拉！”金刚问“Why do you say that name”然后两怪联手对抗基多拉变种"
+    },
+    {
+      "user": "Nano",
+      "avatar": "https://img3.doubanio.com/icon/u137383588-1.jpg",
+      "content": "“幸好它是我们这边的”，否则人类真的要成为它的宠物。\n\n对比第一部来讲，整部剧的色调明朗了好多，哥斯拉正面大战的镜头也多了，与莫斯拉共同对抗三头怪基多拉的时候简直太震撼！推荐！\n\n应影院要求，不过多剧透，上映后值得二刷！\n\n最后，期待明年哥斯拉与金刚的王者之战😎"
+    },
+    {
+      "user": "犹在镜中",
+      "avatar": "https://img3.doubanio.com/icon/u93158337-283.jpg",
+      "content": "其实最开始女科学家给出的解决方案，很后人类主张，在中间提振了我的观看热情。但怎么说，电影志不在此，它一直致力于展示美式家庭温情和怪物奇观，以及换汤不换药的英雄主义，你说这叫“与它们共存”吗？彻头彻尾地人类中心主义啊。不过后人类主张的确很难突破人类中心主义的收编。这还是只是怪物片，打完一定要刻意勾画出怪物的轮廓，让它的形象镌刻在观众脑海中，除此之外看不到与它共存的想法。结尾一群人类坐上飞机远离战场，就意味着要和怪物分裂，保存人类文明的火种。所以我不知道为什么既要把怪物塑造成一味杀戮、破坏人类社会的形象，又要强调反省人类，最后又回到最初的起点。算了，放弃分析这部电影的意图。视效也一般。"
+    },
+    {
+      "user": "猛汉世雄",
+      "avatar": "https://img3.doubanio.com/icon/u2179233-1601.jpg",
+      "content": "终于看了，讲述了空降部队基多拉打压哥斯拉并暂时上位，把公司经营得一团糟后，又被原总裁哥斯拉和他的女朋友一起合力踹出公司的故事，爽雷，我喜，拉顿真是个墙头草，个臭不要脸的狗东西，只配被流放去扫厕所。"
+    },
+    {
+      "user": "团小纸",
+      "avatar": "https://img3.doubanio.com/icon/u34646513-495.jpg",
+      "content": "文戏一塌糊涂，拿出来讲可以全当笑话听；怪兽还是帅的，就是基多拉和哥斯拉各有各的挂，人类纯属搅和，哥斯拉没有第一部帅了，沦落成肥胖山大王了，感觉下一部打金刚会更土……"
+    },
+    {
+      "user": "birds",
+      "avatar": "https://img3.doubanio.com/icon/u66186806-41.jpg",
+      "content": "零点雨夜又做了一件蠢事，睡饱"
+    },
+    {
+      "user": "Draven.",
+      "avatar": "https://img1.doubanio.com/icon/u168467984-7.jpg",
+      "content": "是真的烂，不论打斗还是特效还不如第一部，章子怡除了取个名字外这角色真的可有可无，特效看得眼睛疼，以为最后红莲爆发能多打几分钟，居然一下子就完了，那些个怪兽居然还会俯首称臣，说好的利维坦呢，最期待的角色居然都没露脸，这电影我可是期待了整整五年,最后就这样的效果，太失望了，我说完这个肯定有喷子来讨骂，电影拍的烂不许别人说？！"
+    },
+    {
+      "user": "JeffLivorno",
+      "avatar": "https://img3.doubanio.com/icon/u138660941-43.jpg",
+      "content": "第一次被影院工作人员叫醒，围笑"
+    },
+    {
+      "user": "五摆五折",
+      "avatar": "https://img1.doubanio.com/icon/u1110915-19.jpg",
+      "content": "一个婊子引发的全球灾难。"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "看到维拉的那段圣母解释我笑了，这是女版灭霸？剧情推进令我昏昏欲睡，基本断片。想到既然来了IMAX场别浪费，努力争取把特效看完。找怪兽、打怪兽、怪兽互打、四大怪兽，毁天灭地，荡气回肠，黑糊糊黑云压城，章子怡，嘿嘿，嘿嘿嘿。结论：午夜场会断片。"
+    },
+    {
+      "user": "奶 牛 嘎",
+      "avatar": "https://img1.doubanio.com/icon/u1934026-98.jpg",
+      "content": "致敬54年日本昭和版，但与昭和版相比，特效很不错，但是人物文戏有点多，章子怡有点尬演。"
+    },
+    {
+      "user": "浅汐",
+      "avatar": "https://img3.doubanio.com/icon/u4656142-6.jpg",
+      "content": "2.5/5 真的很無聊⋯一度睡著⋯我只想好好看怪獸們打架⋯沒人類啥事⋯"
+    },
+    {
+      "user": "小天猴大眼萌",
+      "avatar": "https://img3.doubanio.com/icon/u41790266-24.jpg",
+      "content": "泰温的戏份结局骤然消失，好想喊Dracarys！后半段打打打看起来太爽啦！"
+    },
+    {
+      "user": "metaphor17",
+      "avatar": "https://img1.doubanio.com/icon/u3430573-69.jpg",
+      "content": "简单粗暴的视效大片，中美同仇敌忾的美好祝愿似乎只能存在于电影里了吧。"
+    },
+    {
+      "user": "掉线🌈",
+      "avatar": "https://img1.doubanio.com/icon/u45134592-69.jpg",
+      "content": "【C+】"
+    },
+    {
+      "user": "八爪",
+      "avatar": "https://img3.doubanio.com/icon/u4454692-3.jpg",
+      "content": "点映场的上座率还比较可观，但是影片就乏善可陈了，整体比第一部略好，但不如金刚骷髅岛。画面整体偏暗，就算是IMAX亮度也不高，也不是IMAX的画幅，直接上2D会更好。故事是比较日式的毁灭=重建的阴谋失控段子，人类的戏份着实无趣，硬塞章子怡，怪兽互殴的部分既爽又很乏味，“爽”的让人犯困。怪兽宇宙前景堪忧，如果不从剧本入手，爽完哥斯拉大战金刚就没后劲了。倒是可以上面哥斯拉和金刚互殴，下面章子怡和景甜互撕。"
+    },
+    {
+      "user": "沐梵",
+      "avatar": "https://img3.doubanio.com/icon/u43316233-16.jpg",
+      "content": "和权游交相辉映，五月真的是屠龙月啊！连哥斯拉都有女朋友了……怪兽互殴戏还是少了点，许多超级怪兽出场很飒很竞艳，却没有决斗入场券！怪兽宇宙慢慢建立，期待金刚大战哥斯拉大战机械基多拉。另，基多拉在火山口浴火称王的镜头很棒，前景矗立着代表毁灭与救赎的十字架。"
+    },
+    {
+      "user": "榜上有名猫",
+      "avatar": "https://img3.doubanio.com/icon/u77659294-2.jpg",
+      "content": "期待已久的2V2怪兽战，特效带感，不足之处是男女主一家有点脑残跑偏了。另外，连哥斯拉都可以有伴侣，我还是一个人在影院看，总觉得有点悲催！"
+    },
+    {
+      "user": "sevenseas",
+      "avatar": "https://img3.doubanio.com/icon/u3822288-43.jpg",
+      "content": "怪兽打斗的戏比第一部好太多。（没有人在意人演的部分谢谢"
+    },
+    {
+      "user": "L+",
+      "avatar": "https://img3.doubanio.com/icon/u3339300-561.jpg",
+      "content": "满足对怪兽片、灾难片、战争片的所有期待"
+    },
+    {
+      "user": "李恩祖",
+      "avatar": "https://img3.doubanio.com/icon/u59534364-4.jpg",
+      "content": "看片会看完说说感想，不明白这种灾难片为什么排在六一档，没完没了的特效，人物关系交代的很模糊，章子怡的存在毫无意义，戏份仿佛游离在剧情之外，一个表情完成整部表演。中国的龙再厉害还是被大怪兽吃掉了。吃相真难看。"
+    },
+    {
+      "user": "艾晨",
+      "avatar": "https://img3.doubanio.com/icon/u1140816-93.jpg",
+      "content": "2019118.怪兽大战，合格的爆米花。有几个画面很帅。以及请珍爱生命，早点打死圣母。"
+    },
+    {
+      "user": "柯东侦探",
+      "avatar": "https://img3.doubanio.com/icon/u49013117-1.jpg",
+      "content": "所有的怪兽都是人类欲望的挣扎与膨胀。最后地球恢复平衡只是自欺欺人。"
+    },
+    {
+      "user": "晚不安",
+      "avatar": "https://img3.doubanio.com/icon/u50205806-15.jpg",
+      "content": "文戏冗长、乏味，高度模式化，经不起仔细推敲，直接导致所有牺牲对观众没有触动。最精彩的视觉呈现全被收进预告片了，剩下的对决戏码缺乏足够的亮点。配乐倒有些记忆点。在构建所谓怪兽宇宙之前，应该致力于把基本的情节设计做到位。如此看来，陀螺的《环太平洋》依然是好莱坞怪兽电影的佼佼者。"
+    },
+    {
+      "user": "张咏轩Wayne®",
+      "avatar": "https://img3.doubanio.com/icon/u55617091-3.jpg",
+      "content": "看出来是花了钱的，两个小时充斥着各种毁天灭地的打斗，整个IMAX影厅椅子都快被拔起了，魔斯拉，哥斯拉，基多拉，拉顿相继出场，豪华又炸裂的视听盛宴被安排的明明白白，故事依旧陈词滥调，人类搅屎棍无疑，一家三口自以为是，动机浅陋的不值一提，特效愈发惊艳，剧本却越来越随便，人类这条线不仅无聊，还切碎好几场怪兽大战的完整性，强行制造人类的存在感，强行为每个角色注入背景，其实感天动地只感动了自己，怪兽大战这样子搞，真是拖沓又觉没必要，另外打斗场景比较单一，所以到结尾会产生视觉疲劳，场面应该再多玩弄视点多样性，好在高潮处还是足够精彩，挽救了文戏中逻辑顺拐的遗憾，但这个系列画面亮度的问题始终是个谜，建议去高亮的IMAX厅。★★★☆"
+    },
+    {
+      "user": "挪威耀阳",
+      "avatar": "https://img3.doubanio.com/icon/u103296640-1.jpg",
+      "content": "1.卖拷贝看完会沉默，德陀螺看完会哭😂  \n\n2.从头打到尾，从头炸到位，怪兽爱好者的福利，废话煽情点到为止，各路怪兽粉墨登场！哥斯拉是绝对主角！！！  \n\n3.观影过程也是有趣得很：女主串招魂、小11串怪奇宇宙、章子怡串科洛弗、渡边谦串盗梦、泰温串权游、女指挥串瓦坎达、霍金斯串水形物语、各路怪兽串环太平洋……简直影剧串戏大联动~"
+    },
+    {
+      "user": "tata",
+      "avatar": "https://img3.doubanio.com/icon/u2871839-10.jpg",
+      "content": "就想知道人类什么时候灭绝"
+    },
+    {
+      "user": "老罗Lazzaro",
+      "avatar": "https://img1.doubanio.com/icon/u52337061-7.jpg",
+      "content": "惹怪兽一时爽，一直惹一直爽。"
+    },
+    {
+      "user": "Aerial",
+      "avatar": "https://img3.doubanio.com/icon/u142825953-3.jpg",
+      "content": "特效炸裂，全程爽到尾，剧情什么的就不要苛责了…子怡在里面也没有打酱油"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u1236291-798.jpg",
+      "content": "为了看那一点点可怜的怪兽打架，要忍受无止境的人类智障戏份和沙雕对白，搞什么宇宙很开心吗。"
+    },
+    {
+      "user": "钢铁侠4",
+      "avatar": "https://img3.doubanio.com/icon/u161831327-4.jpg",
+      "content": "这个女主是不是很讨厌地球人啊！开局就想让怪兽弄死地球人，好作啊！地球生命都是个轮回，教授怎么可能不懂这个道理？当婊子又立牌坊结局想博个同情😂"
+    },
+    {
+      "user": "大卫·独处尼",
+      "avatar": "https://img1.doubanio.com/icon/u1205892-9.jpg",
+      "content": "当灾难降临的时候，人类通过献祭自己，祈求神的拯救。然而不管祂们谁赢了，我们都输了……"
+    },
+    {
+      "user": "Eros噢",
+      "avatar": "https://img3.doubanio.com/icon/u48887677-10.jpg",
+      "content": "看到后面的确有点累"
+    },
+    {
+      "user": "WillRious",
+      "avatar": "https://img3.doubanio.com/icon/u64515288-3.jpg",
+      "content": "招魂女巫，不去祛邪除魔，竟然丧心病狂的召唤神兽了，然后就变得，腹黑，偏执，恶毒，自私，欺骗，残忍，无脑，单纯，疯癫，神经，还有，傻X。因为人类造成的战争、疾病、污染等，曾经有拿导弹、病毒，甚至还有响指，来猎杀人类、保持地资源平衡的，这次又成为了远古神兽，思想不错、但重复尴尬啊。场面一直火爆，哥斯拉完全体究极体不断进化，章的角色直逼景兄，豆瓣6.3的节奏吧。"
+    },
+    {
+      "user": "夜神月的猫",
+      "avatar": "https://img1.doubanio.com/icon/u54998502-7.jpg",
+      "content": "你会因为女主一家不能被喷死而先急死！要不是 割鸡啦 努力奋斗，这片要被女主一家拉成一星！能造出这么一个女主，导演也是犯贱！心累！"
+    },
+    {
+      "user": "大冢绯沙子",
+      "avatar": "https://img3.doubanio.com/icon/u1660661-56.jpg",
+      "content": "我想让更多人看这个电影，所以没有打太低的星。同时，我想让更多人看这个电影，不代表我不觉得这个电影傻逼。导演傻逼编辑傻逼连角色都这么傻逼，但是怪兽还是可爱的，基多拉三个头还会吵架，可萌了！最后感谢坐在我边上的资深肥宅，会在时不时和朋友聊两句，也不招人烦还能让我有种关键时刻被点拨豁然开朗的感觉，以及让我明白了最后彩蛋的意义，非常好，以及恳请华纳不要再贴中国资本了，谢谢。"
+    },
+    {
+      "user": "火羽白",
+      "avatar": "https://img1.doubanio.com/icon/u52219315-7.jpg",
+      "content": "当年美国经济大萧条，一部《金刚》把观众都忽悠进电影院。现在经济不景气，中美贸易战，不知这一部《哥斯拉2》能卖到什么程度。"
+    },
+    {
+      "user": "HaGaU",
+      "avatar": "https://img3.doubanio.com/icon/u12440690-4.jpg",
+      "content": "电影三星 特效外加一星（Castle Bravo翻译成漂亮城堡是几个意思？"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "除了神话、宗教的重构，也就是怪兽相搏有点意思，哪怕双方都是在拼转化与续航能力，至少往特效上砸的钱是到位的。但女主一家真的很神经，编剧要靠这种老套的变态来引出怪兽也很弱鸡。文戏太水，一群明星客串得毫无光彩，唯独渡边谦有点高光。而且虽然壮烈，但才出生的魔斯拉就跟哥斯拉有过一腿（很美式地，小两口都姓斯拉）？真有虫洞让一群怪兽迅速凑到同一地点？最后泰温大人急着收龙，都不知道铁王座没了么？两星半。"
+    },
+    {
+      "user": "kakakarl",
+      "avatar": "https://img1.doubanio.com/icon/u57273476-18.jpg",
+      "content": "3.5。比《金刚：骷髅岛》又要好看了一点，人戏和怪兽戏不分伯仲的达到和谐，从头到尾小高潮不断，章子怡的华人角色不像景甜般多余，从日本到美国，最爱哥斯拉的依旧还是日本人啊，渡边谦的日语收尾全场最感人泪点。哥斯拉都已经是怪兽之王了，更期待《金刚大战哥斯拉》！声呐奥拉是人类声波和怪兽声波的结合设定很巧妙，毕竟在没有怪兽的真实世界，人类是地球上最大的怪兽。"
+    },
+    {
+      "user": "李阿斗",
+      "avatar": "https://img3.doubanio.com/icon/u43704692-100.jpg",
+      "content": "太刺激了好看啊！如果人类戏份有且仅有运送鱼雷给哥斯拉那里（画面美到窒息）我愿意加一星。我只想看怪兽打架！！"
+    },
+    {
+      "user": "Luc",
+      "avatar": "https://img3.doubanio.com/icon/u1978083-2.jpg",
+      "content": "谁要看人类婆婆妈妈的家庭戏，我只要着狗基拉大战三头龙！ 又是一个灭霸级圣母婊惹的祸，最后还得咱大肥龙来肉搏..下一场金刚怎么打得过啊？ 要不，改拍章子怡大战景甜吧( •̥́ ˍ •̀ू )"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "烈焰大鸟拉顿掠过城市毁天灭地的流体动力学效果不错；人民公仆哥斯拉回家睡个觉都要被核醒上班；魔斯拉和章子怡双生巫女互动的戏份被删光了吗？基多拉作为师奶杀手负责给重要女性角色派便当……文戏逻辑糟糕透顶，视效没啥特色，但砸钱砸出来的温吞水还算符合爆米花票价"
+    },
+    {
+      "user": "七只踮脚的喵",
+      "avatar": "https://img3.doubanio.com/icon/u137268907-113.jpg",
+      "content": "2.5星！期待多了点，个人觉得依旧是在靠噱头为买点的电影，只是把大家想看的都会聚到了一起而已。前半部分入题闷，以家庭离兮切入 在到对人类文明与生存环境探讨，复活怪兽们的原因看得我嘴角上扬了一下，还以为女主要实施另一种形式的“人类补完计划”那。感情戏部分也很不走心，能激起观众内心的情感冲突可以说几乎没有，全靠特效与场面堆加，以至于后半部分看的很累。Ps. 大腹便便的哥斯拉居然有个这么漂亮的女友，这也可以。\n"
+    },
+    {
+      "user": "同志亦凡人中文站",
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "content": "女主为何如此圣母婊？？？娘娘英文退步太快了~~~~"
+    },
+    {
+      "user": "EmptyWorld",
+      "avatar": "https://img3.doubanio.com/icon/u54804851-2.jpg",
+      "content": "头一个小时看得简直昏昏欲睡，虽然这明摆着就是为了来看精彩的怪兽对决（公允地说，这点做的还算到位），可是咱也能不能有点追求，基本的戏好好写可以吗？这些人类戏码岂止能用无聊来形容，简直能让人反感啊，好莱坞这种病态的球奸人设可以停一停了嘛，要球奸也有点信念好吗，因为小孩就半途转变是为啥。人物各种尴尬，文戏甚至让人难以忍受，能撑到看怪兽互打也不容易，更别提这美帝中心主义的突出，这世界观搭的多么赶和尬，以及一帮科研人员天天对着一群怪兽long live the king，有没有一点基本的科学精神和人类尊严了....目测哥斯拉大战金刚和蝙蝠侠大战超人会有异曲同工之妙。"
+    },
+    {
+      "user": "red.",
+      "avatar": "https://img3.doubanio.com/icon/u1294931-146.jpg",
+      "content": "两个星都送给渲染出来的怪物们（其实是送给CGLA？），人类的戏份实在不好看，millie直接移植了在ST里的表情和大叫方式，童星的问题极其明显。"
+    },
+    {
+      "user": "沉默",
+      "avatar": "https://img3.doubanio.com/icon/u2729697-86.jpg",
+      "content": "超级爽片！爽得起飞😝类型片爱好者福音😄😄😄\n从小就喜欢看巨兽，人类不具备的恐怖力量，可以说是慕强心理的直白体现。这部哥斯拉在立意上依然是反思向，人类的贪婪和破坏性也是地球上支配性的恐怖存在。现代社会人类对地球其他生物毫无敬畏滥用科技力量，破坏自然和生态平衡。没有制约的力量终究会是自取灭亡，《哥斯拉》《寄生兽》这类的作品就是设定一种碾压人类的力量，将人置于食物链底层，以虚构的强大力量迫使人类反省，并重塑生存法则。音乐超级燃，嘿嘿嘿。"
+    },
+    {
+      "user": "Ada🧣Wang💋💍",
+      "avatar": "https://img1.doubanio.com/icon/u115657337-27.jpg",
+      "content": "我如果是哥斯拉，我就直接拎包走人，凭啥你们人类自己做大死最后闯了祸让我替你们这群蚂蚁擦屁股？心疼哥斯拉兄，累死累活996，然而还没有工资打卡。打架当老大有啥意义？买得起房吗？工资高吗？生病了社保报销吗？\n\n而女主的智商基本上代表了所有好莱坞白左的平均智商，因为人类污染了地球，所以我要放出怪物清洗地球，维持生态平衡。嗯，没毛病，现实任何一个接受九年义务教育的人都不会得出如此sb的结论。这更体现了编剧黔驴技穷为了甩锅给人类强行拉低角色智商的可笑行为。唯一的亮点是女主终于死了，真的看得过瘾！"
+    },
+    {
+      "user": "Noldolantë",
+      "avatar": "https://img3.doubanio.com/icon/u1933725-60.jpg",
+      "content": "人类很烦的 能不能全片怪兽打架"
+    },
+    {
+      "user": "瑞思勒之墓",
+      "avatar": "https://img3.doubanio.com/icon/u52076257-110.jpg",
+      "content": "现在的怪兽打架真是越来越没看头了，除了嘶吼就是放电，更不要提爬行和昆虫有这画面简直柏拉图。"
+    },
+    {
+      "user": "Henrique Asano",
+      "avatar": "https://img3.doubanio.com/icon/u37313645-24.jpg",
+      "content": "视觉强暴"
+    },
+    {
+      "user": "what'swilliam",
+      "avatar": "https://img3.doubanio.com/icon/u52286623-2.jpg",
+      "content": "3星半。竟然还可以。怪兽撕逼居然还挺好看的。1.原来哥斯拉是“好兽”，原来奥特曼一直打的不是哥斯拉。2.女博士应该和灭霸聊得来，略病态的脑回路。3.魔斯拉堪称金牌辅助，但作为辅助身体构造略脆皮，技能稍鸡肋，堪比水兵水星。4.主角一家三口的亲情线和行为动机逻辑都挺迷的。5.轰炸机非得近战送人头，女主最后争取那点时间又够啥？6.“十字架+火山+基多拉”的那个镜头很经典，魔斯拉诞生时的中国风配乐很好听。7.日本博士那幕还挺悲壮宿命感的，坐我旁边的女生哭到要昏厥。。。哭个屁啊。。。8.章子怡的角色，emmm，论戏份不如《巨齿鲨》的李冰冰多，论惊艳程度又不如《X战警逆转未来》的范冰冰，存在感也就比《金刚骷髅岛》的甜甜强那么一丢丢，电影和演员互相没给彼此加分。"
+    },
+    {
+      "user": "路西法尔",
+      "avatar": "https://img3.doubanio.com/icon/u4214564-2.jpg",
+      "content": "和制哥斯拉中的杰作几乎都离不开国族叙事，哥斯拉是绝对力量的象征。好莱坞似乎拒绝承认一旦哥斯拉出现美国人将不再处于这个星球食物链顶端的事实，执着于与怪兽友好地瓜分地球，这与《金刚：骷髅岛》如出一辙：大猩猩伫立在美国大兵仓皇撤出的热带雨林里，犹如第三世界的军阀。笨拙的政治叙事使得影片缺乏日版的力量。东方哲学教导人与龙和平共处更是典型的“东方主义”，你是没听说过孙猴儿还是没听说过哪吒？"
+    },
+    {
+      "user": "K.",
+      "avatar": "https://img3.doubanio.com/icon/u3885405-6.jpg",
+      "content": "想看怪兽特效，乌黑一片细节缺失；想看人类反思，人物立场混乱思路立不住脚；飞船里的小分队也没有建立足够的联系…唯二可看的地方是拉顿空中翻腾大战战斗机以及泰温.兰尼斯特终于也有三头龙了，所以这个暑期档真的不是权游的延伸吗？子怡和景甜是一个公司的，哥斯拉跟金刚居然也是一个宇宙的，怪不得她们都演了一个看起来话多但其实屁用都没有的角色。"
+    },
+    {
+      "user": "嘚嘚嘚嘚嘚",
+      "avatar": "https://img3.doubanio.com/icon/u48652163-31.jpg",
+      "content": "全片唯一的期待就是各个怪兽，人类部分的戏简直无法看，最后大战只想看怪兽打怪兽，不想看爸妈找孩子。所有此类型大片的反角都有高于人类而在生态意义上终极目标：人类是癌细胞，消灭人类。"
+    },
+    {
+      "user": "Usthiel",
+      "avatar": "https://img3.doubanio.com/icon/u40427269-94.jpg",
+      "content": "一星多给大哥和哥斯拉进行曲。人类的戏份还不够少！！！不够少！！！！这家门真的烦得鸭匹谁要看你们一家的情感纠葛啊给我更多大哥！伊福部昭才是哥斯拉的灵魂没有哥斯拉进行曲叫什么哥斯拉麻痹美终于意识到了（说着把痞子的哥斯拉再翻出来看一遍）。最后让我们恭喜泰温，Lannisters always pay their debts."
+    },
+    {
+      "user": "夏多先生",
+      "avatar": "https://img3.doubanio.com/icon/u116493409-6.jpg",
+      "content": "第一次去电影院看超前点映，福利太好了，IMAX票价便宜不说，万达还送了爆米花可乐和海报。\n只可惜我做不到吃人家嘴短，虽然场面毁天灭地，电影美术音画效果震撼得全程合不拢嘴，但实话实说，剧情比起被许多人吐槽的第一部（其实我很喜欢）都差很多。\n最主要的原因，大概依然是人类戏份被渲染得太多的原因吧……拜托，我们想看的是如天灾一样的怪兽肆虐人间的大场面，而不是主角一家人如小强般光环附体，在各种根本不可能存活下来的环境随随便便就苟下来的剧情好吗？\n唯一有灾难片感的段落，居然是配角拉顿出现的场景，其他怪兽决战的场地，要么就是荒郊野外，要么就是无人的空城，怪兽赋予世间的巨大恐怖感和压迫力并没很好的体现，如果多补充一些平民视角和城市毁灭的画面，相信会更有信服力得多。\n章子怡这角色很尬，除了给怪兽取名字就没用了吧。"
+    },
+    {
+      "user": "三七莲华",
+      "avatar": "https://img3.doubanio.com/icon/u1505730-12.jpg",
+      "content": "除了主角一家没完没了地刷存在感把怪兽片当家庭剧拍之外我很喜欢！水下城、大蛾子、基多拉都很酷啊，哥斯拉也超酷。这种怪兽片人类只要负责惊叫旁观震惊就好了啊，神仙打架掺合啥。"
+    },
+    {
+      "user": "loonatic",
+      "avatar": "https://img3.doubanio.com/icon/u43781354-142.jpg",
+      "content": "除了这家人很喜欢做匪夷所思的事情外 还挺好看的 就怪兽打架呗。。话说回来换三人演的话我也肯定会气吐 再感叹一记kyle chandler真好帅一男的（（"
+    },
+    {
+      "user": "zing",
+      "avatar": "https://img3.doubanio.com/icon/u2029148-564.jpg",
+      "content": "希望下一部哥斯拉打架，找个平原打，就一个固定机位，框全景，长镜头，不要人类。"
+    },
+    {
+      "user": "久光耀一郎",
+      "avatar": "https://img1.doubanio.com/icon/u68366606-27.jpg",
+      "content": "虽然剪辑师在剪人类戏与怪兽戏时反复横跳，想做到巧妙交织，但还是违和、割裂感重。另外这位妈妈的人设，编剧团是在竞争年度电影讨厌人设排行榜TOP3吗？技术层面，特效并未得到预期中的升级，这点音效也一样，看似铺满全片烧了不少钱，实际挑单帧看就不是，吃量不吃质，跟《海王》一个道理。除此之外，的确是令怪兽粉与路人观众分别得到情怀满足，视听满足的体验式爆米花娱乐作。"
+    },
+    {
+      "user": "Devlali Number",
+      "avatar": "https://img1.doubanio.com/icon/u120060064-8.jpg",
+      "content": "我很难想象在一部把华盛顿活生生给毁成一片海的巨片之后还能呈现怎样的惊喜，骷髅岛靓仔有多想退出群聊，我现在就多期待续集哈哈哈哈哈！按照这个思路，巨兽宇宙的惊人起源，制造基多拉的外星文明，氧气破坏者搞出来的戴魔，对付美国哥斯拉的华为机械哥斯拉（屁啦！）都是有可能的啊！"
+    },
+    {
+      "user": "瑞波恩",
+      "avatar": "https://img3.doubanio.com/icon/u39690610-4.jpg",
+      "content": "除了工业光魔的特效不错外，凌乱的叙事结构，哥斯拉忽然成为人类小伙伴这一点，以及巨兽们错综复杂的关系（魔斯拉与哥斯拉有感情戏？）让我还是一时反应不过来。脑洞其实蛮大，可惜落脚点还是奇怪，人类纯粹打酱油，怪兽们之间的战争无穷无尽（结尾的彩蛋透露基多拉还可能复活，哥斯拉大战金刚？难不成要拍成巨兽的“复联”版系列？）哎，现在的怪兽片都拍得如此高级复杂，竟然怀念起曾经看一集一个怪兽的老怪兽片了。。。"
+    },
+    {
+      "user": "Will🌈",
+      "avatar": "https://img3.doubanio.com/icon/u119695950-121.jpg",
+      "content": "真的很震撼！越大越好！越多越好！但是最后四只大怪兽没好好利用！打斗场景也点lame啊。"
+    },
+    {
+      "user": "⚪️HelloThere🔵",
+      "avatar": "https://img3.doubanio.com/icon/u35510811-184.jpg",
+      "content": "我站泰温大人（。请人类导演注意，观众对人类家庭drama一点兴趣都没有，巴不得你们快废话完，让大家安心欣赏小怪兽摔跤。这集的摔跤比上集好看多了，场面十分好评。基多拉这个妖艳贱货我爱了。然而辣鸡人类又欺负憨厚的哥酱了，凭什么炸人家祖宅 🙄 *粉头终于和欧巴见面的场景感到我了"
+    },
+    {
+      "user": "GA",
+      "avatar": "https://img1.doubanio.com/icon/u2632103-37.jpg",
+      "content": "公式"
+    },
+    {
+      "user": "白发生",
+      "avatar": "https://img3.doubanio.com/icon/u31188250-33.jpg",
+      "content": "虚张声势，外强中干。文戏蹩脚，动机令人智熄；全程暗黑，细节严重缺失。被预告骗里美爆的魔斯拉忽悠去的人表示极其不爽，战斗力被削弱成物理攻击为主的废渣也就勉强忍了，然而竟连能看清全貌的镜头都没几个，持续时间最长的一段居然始终在那里发出我辈凡人无法直视的金光。我实在忍不住想问一句：你特么到底是有多缺经费？在劳碌了一整天的工作日晚上去看显然算不上明智的选择，催眠属性翻倍。亮点在于“真是个另类”，笑果不亚于“你个老伙计”。"
+    },
+    {
+      "user": "SELVEN",
+      "avatar": "https://img3.doubanio.com/icon/u1666383-355.jpg",
+      "content": "30/100 失控的类型片，毫无价值的人物、装模作样的怪物，情感联结点粗糙幼稚，场面调度死气沉沉连流水线的程度都达不到。"
+    },
+    {
+      "user": "宋智孝老公",
+      "avatar": "https://img3.doubanio.com/icon/u142111211-2.jpg",
+      "content": "灭霸：为什么这个长得像绯红女巫的人这么认可我？"
+    },
+    {
+      "user": "拂袖斋客人",
+      "avatar": "https://img3.doubanio.com/icon/u36734617-3.jpg",
+      "content": "1.拯救世界最终指向拯救家庭。2.你把动物当宠物，没准它们把你当宠物。3.哥斯拉，基多拉，摩斯拉，拉顿，拉拉拉拉完啦。4.目前所观电影中最弱的反派。"
+    },
+    {
+      "user": "H0mer",
+      "avatar": "https://img3.doubanio.com/icon/u1509902-62.jpg",
+      "content": "三头龙感觉上就是帅气多金，但是哥斯拉看起来憨厚老实还忠义，所以如果选男友我还是会挑哥斯拉"
+    },
+    {
+      "user": "深夜声咽",
+      "avatar": "https://img3.doubanio.com/icon/u2712168-64.jpg",
+      "content": "如果不是在杜比影院看了，会感觉这是一坨屎吧，一星给居然强行领了便当的诺曼的麻麻(是的我应该去补完贝茨旅馆了亲爱的麻麻，已经完结好久了哭)"
+    },
+    {
+      "user": "基尔",
+      "avatar": "https://img1.doubanio.com/icon/u1272475-329.jpg",
+      "content": "很喜欢怪兽片 可是这部的尼玛文戏太催眠了 怪兽战斗的时候虽然气势很足但是我根本看不懂是怎么打的 镜头巨晃 总是来回切也分不清谁打谁了 怎么打的 加上烟雾打雷这些 基本就是听响  不过作为一个怪兽迷 看到基多拉 拉顿 魔斯拉还是很激动"
+    },
+    {
+      "user": "资深低阶路人",
+      "avatar": "https://img3.doubanio.com/icon/u92775477-122.jpg",
+      "content": "改了第一部不给人看怪兽的问题，这部海量怪兽绝对主角，各种大特写，群殴，爆头，很好，但人类就不愿乖乖当宠物，尴尬抢戏，建议下部再减少些。 反派的平衡理论已经听烂了，都是一个反派学校毕业的吗？好莱坞需要多开发些理由了。魔斯拉美的发光，但戏份太少，作用鸡肋"
+    },
+    {
+      "user": "刷鞋大王",
+      "avatar": "https://img1.doubanio.com/icon/u157380196-9.jpg",
+      "content": "轰轰轰砰砰砰，哇哇哇啊啊啊，爽爽爽爽爽爽，帅帅帅帅帅帅，傻逼傻逼傻逼\n三头鸟帅死了！！"
+    }
+  ]
+}

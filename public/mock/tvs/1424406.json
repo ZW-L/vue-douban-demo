@@ -1,0 +1,1120 @@
+{
+  "title": "星际牛仔",
+  "url": "https://movie.douban.com/subject/1424406/",
+  "rate": "9.6",
+  "id": "1424406",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2011424828.jpg",
+  "info": [
+    "导演: 渡边信一郎",
+    "编剧: 村井贞之 / 信本敬子 / 渡边信一郎 / 佐藤大 / 山口亮太",
+    "主演: 山寺宏一 / 石冢运升 / 林原惠美 / 多田葵 / 若本规夫 / 高岛雅罗 / 伊藤和晃 / 一城美由希 / 绿川光 / 桧山修之 / 中博史 / 长泽美树 / 垂木勉 / 小山武宏  / 稲荷昭彦",
+    "类型: 剧情 / 动作 / 科幻 / 动画 / 犯罪 / 西部",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "首播: 1998-04-03(日本)",
+    "集数: 26",
+    "单集片长: 25分钟",
+    "又名: 赏金猎人 / 宇宙牛仔 / Kaubôi bibappu: Cowboy Bebop / Cowboy Bebop"
+  ],
+  "desc": "2071年，随着超光速航行技术的实现，人类得以在太阳系范围内方便的移动，但是由于设计上的失误，这种技术引发了月球的爆炸，无数的月球碎片被吸引向地球，造成了空前绝后的大灾难。存活下来的人类逃离地球，并开始在太阳系各地建立家园。由于这次灾难，国家政府等权利机构都极为不稳定、治安问题也成为了一个难题。有些组织开始允许个人抓捕通缉的罪犯并换取奖金，这就是“赏金猎人”。史派克和杰特是驾驶飞船BEBOP号在宇宙中以捉拿逃犯获取奖金为生的赏金猎人。两人在星际间的旅程中，结识了身负巨债、嗜财如命的美女菲和电脑神童艾德，并收养了拥有高智商的数据狗爱因。从此，四人一狗游荡在广阔之宇宙之中，在自己与他人的生活中经历著种种悲欢离合，也寻找著各自的过去。\n                        \n©豆瓣",
+  "members": {
+    "director": {
+      "name": "渡边信一郎 Shinichirô Watanabe",
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3569.jpg"
+    },
+    "cast": [
+      {
+        "name": "山寺宏一 Kôichi Yamadera",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1711.jpg"
+      },
+      {
+        "name": "石冢运升 Unshô Ishizuka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35717.jpg"
+      },
+      {
+        "name": "林原惠美 Megumi Hayashibara",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p988.jpg"
+      },
+      {
+        "name": "多田葵 Aoi Tada",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p42133.jpg"
+      },
+      {
+        "name": "若本规夫 Norio Wakamoto",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357743236.09.jpg"
+      },
+      {
+        "name": "高岛雅罗 Gara Takashima",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1374473703.84.jpg"
+      },
+      {
+        "name": "中博史 Hiroshi Naka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519990548.31.jpg"
+      },
+      {
+        "name": "长泽美树 Miki Nagasawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1548057338.63.jpg"
+      },
+      {
+        "name": "垂木勉 Tsutomu Taruki",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "小山武宏  Takehiro Koyama",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1550236061.8.jpg"
+      },
+      {
+        "name": "岸野幸正 Kishino Yukimasa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pJG1EXQ5LANAcel_avatar_uploaded1541948780.4.jpg"
+      },
+      {
+        "name": "斋贺光希 Mitsuki Saiga",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6158.jpg"
+      },
+      {
+        "name": "喜田亚由美 Kida Ayumi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pcQou8yTf-m0cel_avatar_uploaded1549891122.26.jpg"
+      },
+      {
+        "name": "真山亚子 Rin Mizuhara",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pAus_NVVCW2Icel_avatar_uploaded1533274970.36.jpg"
+      },
+      {
+        "name": "内川蓝维 Uchikawa Ai",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pIqMKs-7LfOocel_avatar_uploaded1560169257.87.jpg"
+      },
+      {
+        "name": "浅野琉璃 Asano Ruri",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pCeIOrWBJy1Ecel_avatar_uploaded1561608094.76.jpg"
+      },
+      {
+        "name": "辻亲八 Shinpachi Tsuji",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1515393135.37.jpg"
+      },
+      {
+        "name": "Lia Sargent",
+        "avatar": "https://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      {
+        "name": "鲍勃·布克霍尔兹 Bob Buchholz",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561452912.67.jpg"
+      },
+      {
+        "name": "伊藤和晃 Itou Kazuaki ",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pWg6-96bS61ccel_avatar_uploaded1565225978.87.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p453759485.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p510983749.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2154992998.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p455326821.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2153629195.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "文泽尔",
+      "avatar": "https://img3.doubanio.com/icon/u1781395-110.jpg",
+      "content": "耍帅到极限，音乐极度优秀..不计成本的风格制作，进入就无法出来的宇宙牛仔世界"
+    },
+    {
+      "user": "舟菖蒲",
+      "avatar": "https://img3.doubanio.com/icon/u1895576-11.jpg",
+      "content": "空空地营造了氛围美，其实什么也没说清楚，好配乐也不是加分的理由。"
+    },
+    {
+      "user": "凌晨的猫",
+      "avatar": "https://img3.doubanio.com/icon/u1982210-42.jpg",
+      "content": "说实话，我真没看出哪儿好来，本来以为可以慢热的，看来我的口味果然和此片不符，不过后几话挺帅的，我的眼睛一只看着过去，一只看着现在。我并不是想死，只是想证明自己活着而已。"
+    },
+    {
+      "user": "老阿飞—故园",
+      "avatar": "https://img3.doubanio.com/icon/u1078855-5.jpg",
+      "content": "成熟，极成熟，经典，极经典，无论故事、叙事、音乐、动画表现，你能挑出刺来算你不是人。"
+    },
+    {
+      "user": "琴  酒",
+      "avatar": "https://img1.doubanio.com/icon/u1439032-409.jpg",
+      "content": "昨天把最后三集又看了一遍，亲爱的艾德，亲爱的菲，亲爱的Spike。反反复复看了大概六七遍，可是看到两个人吃蛋的那一幕眼泪还是收不住。我都没敢再看一遍菲的录像带。草窝头是活在过去的男人，是认死理却又毫不在意细节的男人，菲是漂亮的花钱如流水的，奋力奔跑却发现无处可去的，艾德是眼睛那么闪亮童谣那么好听四肢那么柔软，眼神从不曾暗淡下来的女孩子。那么,see you SpaceBebop,我爱你们。"
+    },
+    {
+      "user": "馬鹿野郎",
+      "avatar": "https://img3.doubanio.com/icon/u4474775-245.jpg",
+      "content": "一部只讲故事不讲道理的作品，这就是我爱它的理由"
+    },
+    {
+      "user": "sue",
+      "avatar": "https://img1.doubanio.com/icon/u1073694-39.jpg",
+      "content": "如果最喜欢的动画只能选一部，我会选这部。两部的话就还加上虫师 =   ="
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "每话25分算，26话650分钟，剧场116分钟，766分钟，约13小时——如果生命允许的话，按照一万小时定律，刷上769遍，变成专家级咆哮牛仔，那是必须的啊。"
+    },
+    {
+      "user": "疯眼穆迪",
+      "avatar": "https://img3.doubanio.com/icon/u1230275-90.jpg",
+      "content": "这种东西对于我来说就是神作，一目了然--天才的作品，画面和音乐的互相补充和升华没有那根弦的导演把握不到这种高度，绝望和孤独在这里蔓延，虽然他有热闹的情节和人物"
+    },
+    {
+      "user": "kissdemon",
+      "avatar": "https://img3.doubanio.com/icon/u1402103-165.jpg",
+      "content": "浩瀚宇宙与悠长蓝调下蠢蠢欲动的各种情绪各种神伤。无法舍弃不愿摆脱的过去，真的只是场冗长无法挣脱的噩梦吧，我只是想确认下我到底是不是真的活着。沧桑浩瀚到我内伤TAT。"
+    },
+    {
+      "user": "月蝕機関",
+      "avatar": "https://img3.doubanio.com/icon/u2097577-783.jpg",
+      "content": "では、エールを、こころから。\n　フレー、フレー、わ・た・し！\n　がんばれ！がんばれ！わ・た・し！\n　負けるな！負けるな！わ・た・し！\n　フレー、フレー、わ・た・し！\n　がんばれ！がんばれ！わ・た・し！"
+    },
+    {
+      "user": "CharlesChou",
+      "avatar": "https://img1.doubanio.com/icon/u55862575-149.jpg",
+      "content": "浪漫主义的极致：科幻/西部/异性爱/同性爱，海明威/菲茨杰拉德/戈达尔/狄更斯/莱姆。小单元是种种经典科幻或动作的致敬升华，大线就是浩浩荡荡的《美国往事》与好莱坞黄金时代再造，同时不失东洋风浓烈的乡愁气息。不管时代多坏，我们都走在寻找归宿的路上。Spike真像格里高利派克。"
+    },
+    {
+      "user": "睡觉是头等大事",
+      "avatar": "https://img1.doubanio.com/icon/u51818484-108.jpg",
+      "content": "本来故事的引力很弱，欲弃，但是后来越发的觉得这想象力天马行空，而且带有《荒野大镖客》类似的爵士配乐，尤其是到后来感觉到的哲学上——无政府主义、存在主义、自由主义、荒诞主义、以及对资本主义的批判的思索，更是令人震撼。神作，堪称神作！8.8"
+    },
+    {
+      "user": "Mignon",
+      "avatar": "https://img3.doubanio.com/icon/u1117930-180.jpg",
+      "content": "我最爱的动画片！经典！向西方电影致敬，向爵士民谣致敬！"
+    },
+    {
+      "user": "路西法尔",
+      "avatar": "https://img3.doubanio.com/icon/u4214564-2.jpg",
+      "content": "Faye才是林原女王的最强声线啊。有些东西是不会随时间褪色的，比如这种逍遥骑士的人生。刘伶曰：“死便埋我。”对世代在红尘中辗转漂泊的心真有永恒的吸引力。话说中华元素果然是神作的充分条件吗？"
+    },
+    {
+      "user": "juani",
+      "avatar": "https://img1.doubanio.com/icon/u52852885-47.jpg",
+      "content": "宇宙渺茫虚无感、爵士的疏离韵味以及斯派克的desperado气质三者契合得相当完美"
+    },
+    {
+      "user": "蚂蚁没问题",
+      "avatar": "https://img1.doubanio.com/icon/u2254558-8.jpg",
+      "content": "Spike，Faye，Jet，Ed，Ein"
+    },
+    {
+      "user": "余小岛",
+      "avatar": "https://img3.doubanio.com/icon/u55323010-42.jpg",
+      "content": "只讲故事不讲道理，不会瞎逼逼什么为了伙伴然后就爆发了，也不会告诉为了梦想不断努力什么的。简单直接的故事，加上堪称神作的音乐，就是经典了。酷到极致，不能再酷了。浪漫到极致，不能再浪漫了。"
+    },
+    {
+      "user": "舒葵",
+      "avatar": "https://img3.doubanio.com/icon/u1338585-174.jpg",
+      "content": "想起来就伤感。越上年纪越不敢多看。"
+    },
+    {
+      "user": "芝麻酱",
+      "avatar": "https://img3.doubanio.com/icon/u2644537-14.jpg",
+      "content": "Everything is clearer now. Life is a dream, you know, that's never ending.\nI'm asvending..."
+    },
+    {
+      "user": "北落師門Hiruma",
+      "avatar": "https://img3.doubanio.com/icon/u1321364-40.jpg",
+      "content": "这辈子最爱的动画，没有之一. [5/7/2015]看完不知道第多少遍,再次深深的陷入CB的情绪里面.[12/23/2016]以前我以为这是个讲“男人的浪漫”的故事，后来再看发现是讲“陷入过去”的故事，这次看觉得是个讲“归宿”的故事，不管归宿来自于过去现在还是未来，call me call me是归宿对人恒久的召唤"
+    },
+    {
+      "user": "煮竹",
+      "avatar": "https://img3.doubanio.com/icon/u1600283-22.jpg",
+      "content": "如果说ed和ein属于童话，spike的存在就是段传奇，faye的经历像一部小说，那么jet的故事，则只能归为纪实。他离开组织，他离开警局，她逃离医院。摆脱他者的束缚的努力最终被证明是失败的。这就是存在主义的困境，想逃离这个荒诞的世界但又不得不再一次面对它。音乐也是包罗万象,从摇滚乐,JAZZ,到柴克夫司基的胡桃夹子圆舞曲一应剧全，感谢菅野洋子，给我们带来NEW AGE这样风格的天籁般的音乐。这样的片子之于我们，并不是劈在木材上的刀痕，能立竿见影地刻骨铭心，而是落进水里的颜料，越是沉淀和荡漾，才浸染越深。"
+    },
+    {
+      "user": "井上新原",
+      "avatar": "https://img3.doubanio.com/icon/u51633471-50.jpg",
+      "content": "冰箱華爾茲 紅龍布魯斯 其實是互文 最苦澀的幽默即最甜蜜的死亡 無不詮釋著ED最後一句。冰冷的煙灰 緋紅的子彈 殘忍的孩子 純真的罪犯 沉默的男人手捧玫瑰射擊 狡猾的女人輕聲罵著笨蛋。古老的歌謠在星際流浪 今夜又有一顆失去了光芒"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "狂野西部与黑色硬汉两大好莱坞黄金时代类型片在荒蛮太空背景下的另一种重现，像是更轻松版本的雷蒙德·钱德勒；每个人的性格都那么饱满，尤其是Spike，身上集合了太多人的影子，而那chain-smoker的习惯和冷漠中暗藏热烈的特质真是像极了鲍嘉；很感兴趣的是乔斯·韦登的《萤火虫》是不是从这里偷师良多"
+    },
+    {
+      "user": "白衣卿相",
+      "avatar": "https://img1.doubanio.com/icon/u1538764-97.jpg",
+      "content": "帅过头了，以后别人怎么混啊，所以我决定给他扣一分"
+    },
+    {
+      "user": "真吸车",
+      "avatar": "https://img1.doubanio.com/icon/u1831331-18.jpg",
+      "content": "比起spike给片子的结局，Ed和Ein的离去，还有Faye的失望归来，才是全片印象最深刻的地方。"
+    },
+    {
+      "user": "加油你是最棒的",
+      "avatar": "https://img3.doubanio.com/icon/u3867754-356.jpg",
+      "content": "半个枕头都湿了水平。动画不可以这样神的。要害死很多人"
+    },
+    {
+      "user": "疯狂魔术师┃星学深似海",
+      "avatar": "https://img3.doubanio.com/icon/u2264264-36.jpg",
+      "content": "对比后来的道子与哈金、鲁邦三世峰不二子、坂道上的阿波罗以及新作的Space Dandy，让人欣慰的是导演桑一直在成长，作品越来越好看。可惜我没能在98年看到这片子，小时候看的话是会奉为神作吧。现在看就觉得Spike死得太矫情。"
+    },
+    {
+      "user": "dooling",
+      "avatar": "https://img3.doubanio.com/icon/u1105219-4.jpg",
+      "content": "大好，故事音乐人设，只是主要情节俗套了"
+    },
+    {
+      "user": "乔大路",
+      "avatar": "https://img3.doubanio.com/icon/u4394291-22.jpg",
+      "content": "spike临终前说：本想做个永不醒来的梦，没曾想做着做着就醒了。背景音乐是管野洋子的《see you space cowbay》。“砰~”"
+    },
+    {
+      "user": "Amasia",
+      "avatar": "https://img3.doubanio.com/icon/u2790683-36.jpg",
+      "content": "空前，估计也绝后"
+    },
+    {
+      "user": "望远镜",
+      "avatar": "https://img3.doubanio.com/icon/u52484734-36.jpg",
+      "content": "逼格太高，情怀和浪漫意会不来。星际航行和multiculture的世界观设定很喜欢。硬派的人设、硬派的枪战，大部分单元剧也是深得我意的，遗憾的主线欠缺一点点火候，竟然讲了一个（或者说是一群）沉陷于过往的人的不那么硬派的故事。"
+    },
+    {
+      "user": "水仙操",
+      "avatar": "https://img3.doubanio.com/icon/u3874720-3.jpg",
+      "content": "宇宙蓝调、007OP、青椒肉丝、执着过去的Spike，遗失过去的Faye，放下过去的Jet、“生平最讨厌的三件事：固执的女人、小孩、狗，为什么都出现在这飞船上？”、萨克斯长发双性战友同志Glen、过牛仔武士Cos瘾的爱马公子哥、海龟的记忆玉匣子。致敬李小龙、2001、异形、狂人皮埃罗、银翼杀手。对天指枪。"
+    },
+    {
+      "user": "biiru_u✨",
+      "avatar": "https://img1.doubanio.com/icon/u1570555-447.jpg",
+      "content": "神作"
+    },
+    {
+      "user": "tata",
+      "avatar": "https://img3.doubanio.com/icon/u2871839-10.jpg",
+      "content": "不打五星睡不着觉"
+    },
+    {
+      "user": "步惊云",
+      "avatar": "https://img3.doubanio.com/icon/u130670054-1.jpg",
+      "content": "没有明确主线的故事一般来说是最好的，但是这片子真的让人很无语啊，你敢不敢弄成电影？每集都没有接连剧所拥有着的握着你的心使你想往下看的欲望，影视和小说又不同可以随时拿起来翻开便看，所以一般看的时候都是强行让自己记起来你还有这部片子没有看完呢……"
+    },
+    {
+      "user": "离净语",
+      "avatar": "https://img1.doubanio.com/icon/u1244527-118.jpg",
+      "content": "说实话星际牛仔是完全反我的审美取向的，因为各方面的完成度都太高了。一直觉得代入影视剧感受成熟是小孩子才会做的事情吧。虽然那些关于过去与回忆与死去与做梦的东西现在也都懂了，但是我流泪的是自己的事情啊。"
+    },
+    {
+      "user": "Cherian",
+      "avatar": "https://img1.doubanio.com/icon/u7429791-9.jpg",
+      "content": "怎么能有如此这般又天真又深刻又浪漫又暴力的神作？没有一个桥段不轮回时间，不念念不忘；没有一处爵士不点到为止，不隐忍暧昧；没有哪一帧不制作精良，不荡气回肠。已经超越银魂怪物棋魂虫师成为我心中No.1神作T^T。导演屌炸裂把动画当电影拍，这单我哭着买。"
+    },
+    {
+      "user": "千岛酱王子样",
+      "avatar": "https://img3.doubanio.com/icon/u3098849-596.jpg",
+      "content": "剧情上没有没有神到传说那样，每个人背负过去的故事。最后的结局太悲伤，音乐可以再加五星。"
+    },
+    {
+      "user": "皮革业",
+      "avatar": "https://img3.doubanio.com/icon/u1264081-15.jpg",
+      "content": "硬派短篇小说集。如果能够重修，建议调整一下字体。"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "诶？竟然一直没加豆瓣，正好重温了一遍，还是好看又好听"
+    },
+    {
+      "user": "Sam@房子",
+      "avatar": "https://img3.doubanio.com/icon/u2173903-2.jpg",
+      "content": "Spike!\nSpike被枪击中坠下大楼的一幕中，无名的儿童和声开始，这段旋律太美了，我用在了自己的婚礼上"
+    },
+    {
+      "user": "蕉",
+      "avatar": "https://img1.doubanio.com/icon/u2596410-198.jpg",
+      "content": "第一部因为原声才想看的动画片...SY抱歉我悟性太低...才知道是神片...cowboy..bebop..什么风马牛不相及的组合...剧情也略老套...可是谁挡得住这淡淡的忧伤呢..一船的奇葩都是最爱.."
+    },
+    {
+      "user": "元気一杯咪噶酱",
+      "avatar": "https://img1.doubanio.com/icon/u28360578-37.jpg",
+      "content": "但当所有繁华落尽，手中的沙再握紧也会落下，好像一个梦，好的坏的，醒过来，依然孤身一人，ED说byebye我要去一个很远很远的地方也许再也不会回来。you're gonna carry that weight。"
+    },
+    {
+      "user": "晨光荣耀",
+      "avatar": "https://img3.doubanio.com/icon/u1094328-50.jpg",
+      "content": "牛鼻灿灿啊……"
+    },
+    {
+      "user": "昨天开始发霉",
+      "avatar": "https://img3.doubanio.com/icon/u3326178-102.jpg",
+      "content": "差不多单元剧形式但是相互又有点联系 每集前半都有点散漫 但是主题都好妥妥地表现出来 一股从容蛋定感 真the real folk blues 啧啧；OST太美了；美中不足主线内容就一点点 不过那个年代的动画也就这种水平吧 另外虽然微妙还是有点蒸汽朋克感"
+    },
+    {
+      "user": "避开目光",
+      "avatar": "https://img3.doubanio.com/icon/u2360841-13.jpg",
+      "content": "不觉得怎么样"
+    },
+    {
+      "user": "神山樹",
+      "avatar": "https://img3.doubanio.com/icon/u4311863-162.jpg",
+      "content": "作为意志与表象的孤独世界，向《德州巴黎》致敬的作品，渡边信一郎是格调派，菅野洋子的音乐是一座丰碑。那么，Spike，Jet，Faye，Ed，Ein, SEE YOU SPACES COWBOY，SOME DAY, SOME WHERE"
+    },
+    {
+      "user": "xīn",
+      "avatar": "https://img3.doubanio.com/icon/u1296250-20.jpg",
+      "content": "第二十集道化师的镇魂歌（狂人皮埃罗-上海小姐-今敏）。第二十三集数字化生存，互联网时代的身心分离。第二十四集see you cowgirl,someday somewhere。第二十五二十六集，已经不喜欢这种为死而死、为酷而酷的结局了。该剧音乐确实非常好。"
+    },
+    {
+      "user": "连短亭。",
+      "avatar": "https://img3.doubanio.com/icon/u2954823-45.jpg",
+      "content": "自从我变成腐女之后，看动画的焦点就发生了相当诡异的偏移。。。嗯，音乐很棒，甚至有喧宾夺主的嫌疑。斯派克和比夏才是真的好基友，茱莉亚你就是个烟雾弹。。。勾起我许久未曾想起的宇宙漂流梦，我爱飞船。"
+    },
+    {
+      "user": "Caneloni",
+      "avatar": "https://img3.doubanio.com/icon/u1036245-144.jpg",
+      "content": "以\"神作\"来说糟点太多。首先是硬掰美国流行文化的夹生感(设定，台词，音乐，英文歌词笨拙)。每集一个与主线无关的独立小故事，篇幅已经很紧张还硬要匀出时间耍帅。四个主角的背景故事都太潦草，全靠氛围制造情绪，只会硬掰些陈词滥调的大道理，而且分开看很有趣的四个人放一起完全不来电。"
+    },
+    {
+      "user": "三七莲华",
+      "avatar": "https://img3.doubanio.com/icon/u1505730-12.jpg",
+      "content": "这部是最爱！太喜欢了太喜欢了。最早关于星际漂流、赏金猎人、宇宙中的孤寂的概念都来自于这部。虽然我现在很难想起来具体的剧情，但一想到就会觉得又美又悲伤，这是文艺作品能给人最好的印象了吧。"
+    },
+    {
+      "user": "人类学科研究员",
+      "avatar": "https://img3.doubanio.com/icon/u2221343-242.jpg",
+      "content": "bang！bang！最后大家同归于尽，悲伤的情感起来了睡不着了，干嘛要再睡前看拉！好烦！我太爱spike了.. 哎，不要问我原因。这货一定是个受过伤又放不下的射手座。你们都好烦啊，干嘛都这样拉！哎，大概会是我最喜欢的一个动画，没有之一，到目前为止。看了差不多也快要大半年了吧，才看完。啊。"
+    },
+    {
+      "user": "童孝贤",
+      "avatar": "https://img3.doubanio.com/icon/u1502012-4.jpg",
+      "content": "极其写意，浪漫和忧伤的作品～有着华丽丽动画形式音乐片～不管喜不喜欢，都是要给满分的，从任何地方看都是完美的，除了故事一直没有给一个主线或者悬念，以至于没有那种想一下子全看完的冲动，但即使是这点，都显出这部作品的那种随意情调～"
+    },
+    {
+      "user": "陈灼",
+      "avatar": "https://img3.doubanio.com/icon/u1017379-76.jpg",
+      "content": "You're gonna carry that weight."
+    },
+    {
+      "user": "D子",
+      "avatar": "https://img1.doubanio.com/icon/u57404473-97.jpg",
+      "content": "Everything is clearer now，Life is just a dream, you know，that's never ending，I'm ascending。See you... \nSee you on Titan，Gren...\nSee you cowgirl（and cow🐶）。\nSomeday somewhere...\nSee you space cowboy...\nSee you cowboy bebop...\nSee you Jonghyun...\n"
+    },
+    {
+      "user": "撒旦的表妹",
+      "avatar": "https://img1.doubanio.com/icon/u2994925-147.jpg",
+      "content": "前段平淡无奇，越往后越舍不得看完。ED走的第24集配乐出奇的温柔看得我眼泪差点下来，而从这集往后一点都不搞笑了，渡边信一郎好像很喜欢这种残缺美的结局，混沌武士是，宇宙牛仔也是，几个不相干的人聚在一起，旅行一段然后又分离，对于讨厌分别的人来说这种结局属实不好受。我喜欢反角Vicious"
+    },
+    {
+      "user": "Wunching",
+      "avatar": "https://img3.doubanio.com/icon/u36544164-12.jpg",
+      "content": "里面那只高智商柯基狗从桥上跳下去的时候四条小短腿绷得直直的，制作组竟然在98年的时候就发现了这个秘密！！！真不愧对牛仔二字，帅爆了！！"
+    },
+    {
+      "user": "★☆☆☆☆",
+      "avatar": "https://img1.doubanio.com/icon/u1895572-128.jpg",
+      "content": "比《虹猫蓝兔七侠传》更暴力的作品之TV版……"
+    },
+    {
+      "user": "Vamei",
+      "avatar": "https://img3.doubanio.com/icon/u3206680-10.jpg",
+      "content": "慢悠悠的节奏，缓缓插入的音乐。很多滋味，细细品。"
+    },
+    {
+      "user": "幽幻",
+      "avatar": "https://img3.doubanio.com/icon/u160880110-3.jpg",
+      "content": "9.5 拖了几个月终于把这个大坑补完（其实只是舍不得看最后几集），人生最爱番剧无疑。作画，配乐已经登峰造极，传达的思想和创意理念更是无人能及，在看似散漫的单元剧格式下，是渡边以科幻，喜剧的口吻讲述宇宙的浪漫，虚无与存在主义。每一集都离不开哲学的母题，西部片，武侠片，犯罪片影迷也能好好过一把瘾。最后几集尤为伤感，挥挥手与过去再见，或是与过去一同埋葬，即使在被剧透的前提下也哭的稀里哗啦，堪称完美。星际牛仔们，我们梦中见。"
+    },
+    {
+      "user": "proustalain",
+      "avatar": "https://img1.doubanio.com/icon/u128956983-17.jpg",
+      "content": "故事满分，人物满分，画面满分，构图满分，配乐满分，一切满分。你说过去根本无所谓，可谁才是被过去给束缚着？花了大半个月看完他们四人一狗的星际冒险，现在只想做一个牛仔，然后哭着打五星。"
+    },
+    {
+      "user": "LifeArtist",
+      "avatar": "https://img3.doubanio.com/icon/u4886785-96.jpg",
+      "content": "能看出这作者每一集的好多小细节都很花心思，画风特别棒整体调调很个性也很有质感，对于那个年代来说确实不容易。可惜，它不是我的菜………"
+    },
+    {
+      "user": "P0P",
+      "avatar": "https://img1.doubanio.com/icon/u1307390-177.jpg",
+      "content": "音乐大大加分渐入佳境单元剧，披着星际皮的西部片，靠赏金过活却一直get不到的赏金猎人，痞子英雄环保大片，(≖◡≖)✧换个诸如“快意恩仇”、“Blue Lee”、“太空痞子”这类名字也毫无违和感。导演借反派之口教育输出，以spike的过去来终结现在。想说有没有看过《枪神》，一翻资料，都是98年4月开播的。一星扣在主线剧情跟支线相比较不够丰满，渡边的片子好像都是这个毛病，编剧信本敬子+横手美智子已经够了。ps:片头和音乐类型跟古畑任三郎(1994)一模一样"
+    },
+    {
+      "user": "丧气全开夏目酱",
+      "avatar": "https://img3.doubanio.com/icon/u63507703-16.jpg",
+      "content": "浪漫主义的极致展现，宇宙中最深邃的绝唱。一段时间内都不想再补番了"
+    },
+    {
+      "user": "Muguet",
+      "avatar": "https://img1.doubanio.com/icon/u65369006-38.jpg",
+      "content": "青椒肉丝，雨中的玫瑰，还有jazz......OP和ED都不能更经典，the real folk blues已经循环好久了。而且作为一个不喜欢看功夫片的人，也被其中动作部分流畅的分镜吸引。还有，最后，菅野大神我要一生追随你!QAQ"
+    },
+    {
+      "user": "浅绵。R。",
+      "avatar": "https://img3.doubanio.com/icon/u28471404-26.jpg",
+      "content": "超棒超棒~~~很久没看到这么好的动漫了……就是发现的太晚了\r\n还有就是不得不提的音乐~~~~"
+    },
+    {
+      "user": "Ricky925",
+      "avatar": "https://img3.doubanio.com/icon/u49326623-40.jpg",
+      "content": "一天两话也就两个星期看的时间。#矢立肇#制作，#菅野洋子#配乐，人设精彩，节奏明快到位，最后牛仔们也要寻找自己的羁绊，怀旧又感伤"
+    },
+    {
+      "user": "Elanor",
+      "avatar": "https://img3.doubanio.com/icon/u62751962-34.jpg",
+      "content": "脚本，分镜，配乐，音效万分精细\n每一个单元都可以拿来膜拜，致敬了2001太空漫游，镖客三部曲，星战，攻壳机动队，异形，VR, AI……\n让人真正感觉活着的东西未必要永远拥有吧。像梦一样"
+    },
+    {
+      "user": "Matt",
+      "avatar": "https://img3.doubanio.com/icon/u63508463-2.jpg",
+      "content": "You're gonna carry that weight-Cowboy"
+    },
+    {
+      "user": "Rorschach",
+      "avatar": "https://img3.doubanio.com/icon/u71141044-10.jpg",
+      "content": "很伤感，所以第一遍没忍心看完"
+    },
+    {
+      "user": "2pthegamer",
+      "avatar": "https://img3.doubanio.com/icon/u1792819-1.jpg",
+      "content": "配乐很棒。可惜我先看的萤火虫。日本人和牛仔风格总是有点不协调。"
+    },
+    {
+      "user": "天才+英雄",
+      "avatar": "https://img3.doubanio.com/icon/u3153650-54.jpg",
+      "content": "千万不要看！一旦看了，轻者会引起伤感、难过、痛苦、爆笑等症状，重者甚至做出离家出走，找秃头、鸡窝头、冻龄穷鬼女、麻烦神经孩子和短腿柯基一起流浪的行为！！毒性之大，无法形容。"
+    },
+    {
+      "user": "MADAO",
+      "avatar": "https://img3.doubanio.com/icon/u3662360-5.jpg",
+      "content": "什么叫做类型片的极致，TV制作水准之大成，脚本功力，作画成本，音乐与音效，分分秒秒的视听都是享受，随便抽五分钟的台本拿出来都能当教材，当然我心里还是更喜欢混沌武士，所以矫情地只打四星"
+    },
+    {
+      "user": "沙耶",
+      "avatar": "https://img3.doubanio.com/icon/u54525025-12.jpg",
+      "content": "优美的bgm配上地球上那唏嘘的风景,犹如做梦一样.无论男人还是女人,都是骗子,都欺骗着自己做着一个美好的梦.到最后,一瞬间还以为在看吴宇森的片,黑帮,女人,兄弟,竟然还有双胞胎."
+    },
+    {
+      "user": "閃光魔法師wing",
+      "avatar": "https://img3.doubanio.com/icon/u2613861-100.jpg",
+      "content": "即使是老掉牙的故事，只要换个故事背景，加上完美的故事架构、节奏控制、背景音乐和细腻画面，也能达到神作的效果。日升你赢了！！"
+    },
+    {
+      "user": "Parsimoniae",
+      "avatar": "https://img1.doubanio.com/icon/u39907408-17.jpg",
+      "content": "很有型的动画，仿美风sunrise社第二没人敢说第一，编创绝对阅片无数，但思想性文学性还是稍差一点。打四星去去火。"
+    },
+    {
+      "user": "黑黑狼Ω",
+      "avatar": "https://img3.doubanio.com/icon/u48906385-5.jpg",
+      "content": "绝对的神作。是日本动画向西方文化学习融合的先驱，从画面、配乐到剧情都洋溢着的西洋音乐情结，加上深邃内敛的主题，给人不同以往日式动画的独特风格。"
+    },
+    {
+      "user": "somnambuleNRR6",
+      "avatar": "https://img1.doubanio.com/icon/u43596232-188.jpg",
+      "content": "Adieu! Adieu! See you in space time, my cowboy Spike!"
+    },
+    {
+      "user": "多久",
+      "avatar": "https://img3.doubanio.com/icon/u3006286-71.jpg",
+      "content": "主线+单元剧形式，整体剧本一般，主线仓促；菲有点像认识的一个人，短发、脾气差、漂亮、欠债，但这种辣妹或许会很钟情；菅野洋子配乐无疑是亮点，goodnight julia堪称美极；并不觉得有传说中那么经典，在整体低龄向的动画市场里，这个无非偏成人化一点。"
+    },
+    {
+      "user": "夏晚卿",
+      "avatar": "https://img3.doubanio.com/icon/u1100234-61.jpg",
+      "content": "以流浪证安，以死亡证生。星际间愿还有牛仔，愿再无牛仔。See you space cowboy.p.s.:喜欢西部片或者爵士、摇滚的可以一看，很多致敬。"
+    },
+    {
+      "user": "亲爱的猥琐猪",
+      "avatar": "https://img3.doubanio.com/icon/u51840446-3.jpg",
+      "content": "在近几年混最惨的一段时间补了这些年最好的一部番，是幸运还是不幸呢。98年，首播之后几个月骨头社就成立了。当年的制作班底现在列出来就是传奇。很多方面的典型，很多意义上的巅峰。比混沌武士完整而细腻，比space☆dandy严谨而严肃。刷再多遍也不腻，使十八年后“竞争激烈”的秋番黯然失色。"
+    },
+    {
+      "user": "龙猫",
+      "avatar": "https://img3.doubanio.com/icon/u3887768-2.jpg",
+      "content": "散碎的小故事，勾画出一个个鲜活生动的人物。看似轻松愉快的气氛，包含了很多人生哲理和人性的悲剧。我无法给它一个准确的定义，只能说它绝对不是一部喜剧。而菅野洋子的音乐，就只能用完美来评价了。"
+    },
+    {
+      "user": "思路乐",
+      "avatar": "https://img3.doubanio.com/icon/u153112416-2.jpg",
+      "content": "【A+】什么都说不出来，真的什么什么都说不出来。只能在看到结尾那颗陨落的星星后默默的说一句:see you,space cowboy,someday,somewhere."
+    },
+    {
+      "user": "絮佩维埃尔",
+      "avatar": "https://img3.doubanio.com/icon/u1011938-5.jpg",
+      "content": "音乐与剧情的走向完美契合，每一集的精良制作着实让人感动。我不知道有什么理由可以错过这部动画。当漫长的追寻的最后，交织着Spike的回忆，阶梯上倒下的身影，镜头拉至鸟瞰的视野，白鸽，日出，响起那句“Never seen a blue sky”。これは、夢ね。はあ、悪い夢さ。"
+    },
+    {
+      "user": "风雨骑老师",
+      "avatar": "https://img3.doubanio.com/icon/u4422848-45.jpg",
+      "content": "好一曲宇宙布鲁斯，如梦般迷离，又如星空般清冷，爵士时代的未来挽歌。个人动画剧Top1"
+    },
+    {
+      "user": "徽柔Orchid",
+      "avatar": "https://img3.doubanio.com/icon/u32131802-4.jpg",
+      "content": "大片感中留有温情，熟悉的中国元素被赋予新的含义。20161211/神作。喜欢ein冲着ED叫着求带走，喜欢Jet没有菜也供餐的超能力，喜欢Spike又强大又傻帽的苦命英雄感，喜欢每一集的背景音乐，还有teddy bomber被噎了又噎的反思世界观。但是不喜欢牛仔"
+    },
+    {
+      "user": "片儿平",
+      "avatar": "https://img1.doubanio.com/icon/u1936214-89.jpg",
+      "content": "虽然感觉每集的篇幅严重限制了剧情的铺展 使得每个小故事都不是那么充盈有滋味 但慢慢的铺陈 在最后一章见出了爆发力 玄关众多 例如Spike和Faye以及Jet间的情愫 Spike的哪只眼睛是义眼 每个人的过去和每个人的归宿 感人至深时 不见唏嘘 不见眼泪 有的 只是情理之中的怅然若失 和郁结不能开的 “释然”"
+    },
+    {
+      "user": "白发生",
+      "avatar": "https://img3.doubanio.com/icon/u31188250-33.jpg",
+      "content": "如果说《混沌武士》弥漫着淡淡的愁绪，那么《星际牛仔》就浸透着刻骨的忧伤。浩瀚苍凉的宇宙中，宿命的齿轮悄然运转。四人一狗聚于一船，却终究无法让孤独的灵魂变得温暖。背负着无法舍弃的过去，在别人的故事里徒然消耗着自己的现在，迎向那早已注定的未来。内外兼修，实为神作。"
+    },
+    {
+      "user": "海樹",
+      "avatar": "https://img3.doubanio.com/icon/u1067265-2.jpg",
+      "content": "看完用時跨度15年……"
+    },
+    {
+      "user": "昆泽",
+      "avatar": "https://img3.doubanio.com/icon/u3250838-265.jpg",
+      "content": "虽然年代久远···小学时看的了···剧情都快忘的差不多了·可是每次听到它的OST·还有之前收集的日历卡上有CB的···都会有种想要掉泪的感觉·PS·介好像是我第一次遇见林原惠美的音色的ANIME啊 啊啊 啊啊~"
+    },
+    {
+      "user": "Ki.v",
+      "avatar": "https://img3.doubanio.com/icon/u4494047-12.jpg",
+      "content": "嚴重覺得五星是不夠用的。很喜歡啊。音樂也非常非常喜歡。可是最後，雖然明白要是真的歡天喜地就假到不行了，但是還是忍不住會想。不要這樣讓人傷心啊。(PД`q。)·。。。。。。"
+    },
+    {
+      "user": "毛毛远",
+      "avatar": "https://img3.doubanio.com/icon/u1520384-196.jpg",
+      "content": "还用说什么么。。。\r\n\r\n初中时代一闷棍- -。。正砸心坎儿 多少年来还是最爱的tv动画/..\\"
+    },
+    {
+      "user": "长胡子的心脏",
+      "avatar": "https://img3.doubanio.com/icon/u2677333-6.jpg",
+      "content": "看来男子还是不要过早的过性生活啊，结局终归是惨淡地。15岁。。。SPIKE太悍了，发育全了嘛？！故事简练，人物鲜明，制作精良，更别提有口碑的菅野洋子子~"
+    },
+    {
+      "user": "［已注销］鸡肉",
+      "avatar": "https://img1.doubanio.com/icon/u91151188-19.jpg",
+      "content": "有些好故事看完之後就可以全部忘卻，有些卻讓人只能邁出一隻腳，另一隻則永遠停在了動畫中"
+    },
+    {
+      "user": "aceusub",
+      "avatar": "https://img3.doubanio.com/icon/u48691154-5.jpg",
+      "content": "每一集的20分钟都达到了电影水准。故事深度，情感，镜头，叙事方法，配乐。神作"
+    },
+    {
+      "user": "马赛克",
+      "avatar": "https://img3.doubanio.com/icon/u45460966-6.jpg",
+      "content": "深论音乐对一部动画的积极影响，不管是任何方面这部动画都算是第一流作品，毕竟不是剧场版，二十六集每集都保持着高水准是非常不容易的。剧情上真是各种虐，再加上菅野洋子的音乐简直是受不了啊！！see you， space cowboy"
+    },
+    {
+      "user": "取名困难症患者",
+      "avatar": "https://img3.doubanio.com/icon/u47647124-12.jpg",
+      "content": "看第一遍的时候绝对脑子不正常，加上是跳着看，对CB没什么感觉。这次补全了，真尼玛棒啊我当初是怎么想的。往事如暗流，终究逃不过汹涌而起的那一天，所以ED回到了父亲身边，JET要面对失去同伴的悲伤，FAYE逃不过无处可回的命运，而SPIKE注定要再次死亡。真伤感。"
+    },
+    {
+      "user": "bk",
+      "avatar": "https://img3.doubanio.com/icon/u1098871-4.jpg",
+      "content": "favorite sci-fi theme+fantastic music+delicate drawings+romantic blues"
+    },
+    {
+      "user": "nanali",
+      "avatar": "https://img3.doubanio.com/icon/u2568671-12.jpg",
+      "content": "如同电影！结局好悲催，史派克就跟菲在一起好了嘛= =泪。。。银时身上有好多史派克的影子~看银魂我腐了，看cowboy我又不腐了。。。"
+    },
+    {
+      "user": "lick",
+      "avatar": "https://img3.doubanio.com/icon/u46608599-6.jpg",
+      "content": "手绘画风、音乐搭配选择皆为上上乘，对整个系列的把握远超出普通动画的范畴，甚至优于绝大部分五星影片。弱化故事完整性，对人物的刻画淋漓尽致；无规则秩序的西部质感与逻辑性十足的高科技背景完美结合。吐血强推，无愧神作二字！！！"
+    },
+    {
+      "user": "长泽雅痞",
+      "avatar": "https://img3.doubanio.com/icon/u3392836-44.jpg",
+      "content": "剧情没有特别惊艳，几个人几个司空见惯的sad story。但是之所以被称为神作，除了九十年代良心画质和菅野洋子的牛逼配乐，渡边的渊博学识也为cb增添了很多细节的魅力，弥补了剧情的俗套。监督一定是中国控，饮食、习俗、道教、香港动作片、满大街的汉字幌子、还有那个出现了无数次的尖沙咀的画面…"
+    },
+    {
+      "user": "宇宙真理猪大肠",
+      "avatar": "https://img3.doubanio.com/icon/u1727133-201.jpg",
+      "content": "确实挺牛逼。《萤火虫》、《银魂》相似故事模式，但比这俩都早。音乐和画面满分，两者结合营造了非常独特的气氛，似乎这些年的岛国动画都无法超越。世界观略显单薄，限于时长，好些故事讲得仓促（但2小时的剧场版故事却又没啥亮点），完结得也比较仓促。不太喜欢Ed这个人物，加进来调节气氛略显勉强。"
+    },
+    {
+      "user": "落蓝",
+      "avatar": "https://img3.doubanio.com/icon/u36368960-10.jpg",
+      "content": "情节并没有想象的那么神，主线黑帮爱情狗血剧也并不出彩。亮点在于充满表现力的BGM和各分集独立的小故事。渡边看来有模仿银翼杀手，外景的画风充斥着cyberpunk元素。最虐的不是主线而是五个人的分别啊！Spike倒下前的那个镜头将是永远的经典"
+    },
+    {
+      "user": "肥泡泡",
+      "avatar": "https://img3.doubanio.com/icon/u1197222-4.jpg",
+      "content": "我们一生都在寻找自己活着的证据，rainbow in your hands"
+    },
+    {
+      "user": "Little Punk",
+      "avatar": "https://img3.doubanio.com/icon/u1285526-33.jpg",
+      "content": "bebop.音乐真行。声优。画风我都喜欢。渡边的动画，只要有，我便看"
+    },
+    {
+      "user": "隰苓",
+      "avatar": "https://img3.doubanio.com/icon/u1553684-80.jpg",
+      "content": "好牛掰啊！！！！！！！！！！！！！！！！膜拜啊！！！！！！！！！！！！！！！磅礴啊！！！！！！！！！！！！"
+    },
+    {
+      "user": "刘十五",
+      "avatar": "https://img3.doubanio.com/icon/u4483484-5.jpg",
+      "content": "逝者已逝，但活着的人却要承受悲伤继续生活，因为，生活仍在继续。。结尾好悲，直到最后他倒下的一瞬间，他从来都没有走出过去。You're gonna carry that weight。"
+    },
+    {
+      "user": "Xie3 Project",
+      "avatar": "https://img1.doubanio.com/icon/u53628802-19.jpg",
+      "content": "「文句なし、大傑作！」渡边为动画业界带来了深入骨髓的成人的孤独和悲伤，还有无限惆怅的相遇和离别。信本领衔单元剧集集神回，中村丰和后藤雅巳为首的作画技惊四座，菅野交出了可能是动画史上最出彩的OST。日升的本气，赛璐璐鼎盛时期一群怪物的初啼兼绝唱，错过是人生损失系列。See you, cowboy."
+    },
+    {
+      "user": "Job",
+      "avatar": "https://img3.doubanio.com/icon/u45773533-145.jpg",
+      "content": "很久之前看过些许剧透，着实对不起。最后这种开放是结局最好了，可是自己相信着spike没有死，倒下前那么戏谑的“piu”的一下怎么看怎么像是个玩笑不是？faye和jet在bebop上等他，ed在某时某地不也在么？see you somewhere,some time,cowboys and cowgirls..."
+    },
+    {
+      "user": "atengbriliance",
+      "avatar": "https://img3.doubanio.com/icon/u1720692-1.jpg",
+      "content": "不是yoko大大，我是不会去看的！看了之后还是很失望，除了伴随音乐的镜头，我觉得没有什么亮点了！"
+    },
+    {
+      "user": "少陵野老大哭着",
+      "avatar": "https://img3.doubanio.com/icon/u3106355-156.jpg",
+      "content": "没有多说的必要！My Spike and Faye!"
+    },
+    {
+      "user": "脫繮的蛇肉堡",
+      "avatar": "https://img3.doubanio.com/icon/u1950537-186.jpg",
+      "content": "重看了；ost实在太厉害。有几集挺喜欢的，但主线故事真的很弱啊。以及faye真是太不讨喜了，不化妆的时候也不好看呀（哈哈哈论衣服和发型的重要性）。喜欢狗狗和大叔，以及spike的腿……＝。＝"
+    },
+    {
+      "user": "Andy",
+      "avatar": "https://img3.doubanio.com/icon/u1475055-1.jpg",
+      "content": "看过的最经典的动画片！不敢评价，只怕配不上这部杰出的动画片！"
+    },
+    {
+      "user": "高压电",
+      "avatar": "https://img1.doubanio.com/icon/u44819703-689.jpg",
+      "content": "20周年重看，菅野洋子是神！"
+    },
+    {
+      "user": "野次馬",
+      "avatar": "https://img3.doubanio.com/icon/u1896147-192.jpg",
+      "content": "我好奇了那么多年，洋子阿姨究竟去哪里找一部作品容得下她全部胡搅蛮缠的奇思怪想。26话结束我想暂时没什么能再让我落泪。"
+    },
+    {
+      "user": "Memento mori",
+      "avatar": "https://img3.doubanio.com/icon/u3282707-30.jpg",
+      "content": "让人想起了美剧firefly萤火虫。元素齐全的科幻片，四位主人公加一只主人犬各有故事并且分别补完。惊心动魄的画面和引人入胜的情节之外，更有合理细致的细节，配乐不必说，爵士乐大师之作，画面色调夸张表现配合音乐的隐喻。无处不在的象征和致敬带来无限惊喜。Cowboy bebop...值得品味的经典之作。"
+    },
+    {
+      "user": "Link",
+      "avatar": "https://img3.doubanio.com/icon/u1821057-105.jpg",
+      "content": "\"you're gonna carry that weight\".超经典无误!!!!!!超好看!!!!!!!!!男人的烂漫!!!!!!!!!!移动硬盘已经改名为:BEBOP.=w="
+    },
+    {
+      "user": "番长橙子",
+      "avatar": "https://img1.doubanio.com/icon/u29059829-19.jpg",
+      "content": "Life is just a dream you know?\nPlease don't wake me up from the dream!"
+    },
+    {
+      "user": "5",
+      "avatar": "https://img3.doubanio.com/icon/u3976650-41.jpg",
+      "content": "周末又看了一遍。。。。。斯派克好性感 o(*////▽////*)q "
+    },
+    {
+      "user": "说了我是黑无常",
+      "avatar": "https://img3.doubanio.com/icon/u46097887-4.jpg",
+      "content": "一只眼看着过去，一只眼看着现在，视之为梦，亦无未来。寥寥主线原来是老港片，此前曾经因为玩脱而发的赞叹都糅碎了。和混沌武士不同，如果在24话结束我可能会更抑郁，大概生离又一次战胜了死别。See you space cowboy, see you cowgirl. →av488321/303312"
+    },
+    {
+      "user": "不是大野",
+      "avatar": "https://img1.doubanio.com/icon/u2185888-108.jpg",
+      "content": "bebop真的很棒，每一集都像一部电影，故事情节多种多样。 每一集单独来看都可以好好品味。 而且动作场面和飞机的战斗都十分出色，棒！很喜欢四个主角，个性都迂回不同。还有渡边式的配乐，简直无得弹"
+    },
+    {
+      "user": "Brix",
+      "avatar": "https://img3.doubanio.com/icon/u1653784-3.jpg",
+      "content": "浪漫到沉重 but we're gonna carry that weight,aren't we?\r\n"
+    },
+    {
+      "user": "l o a f",
+      "avatar": "https://img1.doubanio.com/icon/u1640914-209.jpg",
+      "content": "why haven't i seen this earlier? instant fav! 看完以后心情沉重啊"
+    },
+    {
+      "user": "野蒜",
+      "avatar": "https://img3.doubanio.com/icon/u57966675-30.jpg",
+      "content": "永远赚不到赏金的星际牛仔啊，补全了赛博朋克缺失的太空歌剧部分，牛仔本就是朋克的存在。但剧情真的太水了，每集都不连贯，完全没必要发生在的外星上，最喜欢23集。"
+    },
+    {
+      "user": "Wuiia.",
+      "avatar": "https://img1.doubanio.com/icon/u2740735-147.jpg",
+      "content": "无法超越的经典。（另，第一次有人说出了我心里一直在说的台词。）"
+    },
+    {
+      "user": "粗眉毛的甘乐",
+      "avatar": "https://img3.doubanio.com/icon/u4360751-46.jpg",
+      "content": "渡边是个电影迷啊，不能看出所有的影子作为电影迷我还差得远的远呢。能把作品做的像玩一样，这种能力真让人羡慕啊。"
+    },
+    {
+      "user": "蘭女",
+      "avatar": "https://img3.doubanio.com/icon/u1768681-13.jpg",
+      "content": "嬉笑,悲伤,纯净,搞笑...什么都有,随性却不任性的作品..."
+    },
+    {
+      "user": "阿雷克斯",
+      "avatar": "https://img3.doubanio.com/icon/u44093764-11.jpg",
+      "content": "概括起来就是完美。神作不解释，画面剧情人物全都无懈可击，配乐更是极致，这样的作品5颗星怎么够~"
+    },
+    {
+      "user": "琉球",
+      "avatar": "https://img3.doubanio.com/icon/u36937128-51.jpg",
+      "content": "被虐的心肝疼……其实混沌武士的最后，三个旅行了那么久的伙伴分道扬镳其实是最棒的结局。风说“我走了，某日再会。”而Spike，闭上那只注视着未来的眼睛，选择继续背负着过去倒下了，留下了Faye和Jet。啊…不管怎么说，共度的时光无可取代，而每个人都有自己的使命。这就是生活吧。"
+    },
+    {
+      "user": "生活万岁F小二",
+      "avatar": "https://img3.doubanio.com/icon/u3527707-20.jpg",
+      "content": "动画还是轻松一点好。沉重的东西还是不习惯这种表达方式"
+    },
+    {
+      "user": "无痕~似水",
+      "avatar": "https://img3.doubanio.com/icon/u1434358-11.jpg",
+      "content": "You're gonna carry that weight..."
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "那要是在Firefly号和Bebop号之间选，我肯定还是更想登上Firefly号的啦！真的想象不出约翰赵这么正+禁欲的气质，怎么能演出Spike这种懒洋洋的感觉，年轻时的基努里维斯感觉也不太像，放眼全球最合适的还是小田切让吧！"
+    },
+    {
+      "user": "然潘",
+      "avatar": "https://img3.doubanio.com/icon/u1229112-10.jpg",
+      "content": "最后几集很催泪。是个好动画，超越了当时的年代，然而现在看起来也只能算是优秀了，不能算是出众。"
+    },
+    {
+      "user": "阿米可翡翠",
+      "avatar": "https://img3.doubanio.com/icon/u1865551-4.jpg",
+      "content": "斯派克的死似乎是必然，于是平静地接受，反而是爱德的离开，即使早就知道，仍然伤心，总觉得爱德的人设参考了长袜子皮皮。风的原型就是梅花，那一画极喜欢，尤其是斯派克和菲在屋外，一人拿着个烟盒接烟灰的场景，无端地心动起来。"
+    },
+    {
+      "user": "费德里科维奇",
+      "avatar": "https://img3.doubanio.com/icon/u19872766-362.jpg",
+      "content": "导演渡边唯一的仁慈，是让小鬼Ed带走了小狗Ein，然后大人们就一步步开始了清醒而义无反顾的葬送。Spike不愿从曾经的梦中清醒看不清眼下无法活在过去所以宁愿死于残影，Faye奋力寻找回忆却最终仍然无处可去，Jet的无法挽留无能为力，Ed离开的那首Call Me Call me.."
+    },
+    {
+      "user": "魚仙",
+      "avatar": "https://img3.doubanio.com/icon/u52549098-2.jpg",
+      "content": "Everything is PERFECT! 而且是菅野大神最棒的一套OST。"
+    },
+    {
+      "user": "川宇",
+      "avatar": "https://img3.doubanio.com/icon/u96794310-92.jpg",
+      "content": "See you space cowboy "
+    },
+    {
+      "user": "风向未来吹去",
+      "avatar": "https://img1.doubanio.com/icon/u2107950-89.jpg",
+      "content": "我想我是无法用言语表达的，只有！！！！！！！！！"
+    },
+    {
+      "user": "✨糖柯莉安",
+      "avatar": "https://img3.doubanio.com/icon/u1124652-404.jpg",
+      "content": "渡边的散诞，菅野的音乐"
+    },
+    {
+      "user": "大波罗霸",
+      "avatar": "https://img3.doubanio.com/icon/u52143519-25.jpg",
+      "content": "天马行空的想象力，优秀到极致的音乐，就算是过了十年甚至二十年再看一遍依旧是无法超越的神作"
+    },
+    {
+      "user": "Mitsuo",
+      "avatar": "https://img3.doubanio.com/icon/u4062476-45.jpg",
+      "content": "190831花了一周样子重温并发现自己走出了15年的无助。准备细看齐泽克  走向新生活 181112自 《边缘型人格障碍》第五章辩证行为疗法的基本概念 才明白Spike角色背后有一定的边缘型障碍——不是左巴式活在当下 而是活在过去/未来 180324初心 精听动力 150302终于搞清和09年老ID“孤胆闯天涯”的我，到底共鸣何在：“我的一只眼望着过去,另一只眼看着现在。我只是想确认一下自己是不是真正活着”。《活了一百万次的猫》.日本NF们的神作。布鲁斯：吟唱那些绝望的忧伤。毕业季的镇魂歌http://movie.douban.com/review/5491493/"
+    },
+    {
+      "user": "常喜",
+      "avatar": "https://img1.doubanio.com/icon/u50687127-9.jpg",
+      "content": "赛璐璐时期的美感！太空里的爵士乐章！我们的漂泊无依是为了证明存在！"
+    },
+    {
+      "user": "Briasu",
+      "avatar": "https://img3.doubanio.com/icon/u43932548-2.jpg",
+      "content": "鳥窩頭 截拳道 手槍 駭客 輕藍調 搖滾爵士\n少數結局讓主角死去的傑作"
+    },
+    {
+      "user": "SALvati",
+      "avatar": "https://img3.doubanio.com/icon/u147049693-3.jpg",
+      "content": "和室友看top40日漫回顾 发现基本全看过了我................."
+    },
+    {
+      "user": "慧達君",
+      "avatar": "https://img1.doubanio.com/icon/u1940836-207.jpg",
+      "content": "當之無愧的神作 爵士味的画面 爵士味的配乐 爵士味的对白"
+    },
+    {
+      "user": "鴉",
+      "avatar": "https://img3.doubanio.com/icon/u29898761-120.jpg",
+      "content": "再看一遍果然还是四星...洋子的音乐并没有给我留下太深的印象虽然的确不错 有点懒散的美式公路片大概拍成动画电影比较带感？可能是跟渡边的节奏不同步吧..."
+    },
+    {
+      "user": "Vic",
+      "avatar": "https://img3.doubanio.com/icon/u42168065-45.jpg",
+      "content": "看了多遍以后才看出走形之处，四年了，完全想不起当初16岁的我是怎样啊会爱上这样一个片。重口什么的果然是从那时就开始了么？"
+    },
+    {
+      "user": "漱流枕棠",
+      "avatar": "https://img3.doubanio.com/icon/u39368150-4.jpg",
+      "content": "作为公认的神作，这是不以高智商而以高情商取胜的优秀范例。与高端洋气的设定相对的是简单甚至略俗套的剧情，然而加上唯美的叙事分镜和独特的蓝调配乐，竟产生奇妙的化学反应，仿佛生命在眼前流淌。将平凡的故事演绎出精彩，这正是监督的功力所在"
+    },
+    {
+      "user": "流言",
+      "avatar": "https://img3.doubanio.com/icon/u3806422-14.jpg",
+      "content": "仔细想想，太象星球大战了。唯一不同的是，不是解放军，是混混。"
+    },
+    {
+      "user": "门柱",
+      "avatar": "https://img1.doubanio.com/icon/u1104638-17.jpg",
+      "content": "活活两年才看完。太王家卫，1998年的日本动画美学吗？清淡，全程无笑点无燃点。音乐的确讲究，但也不过是艺术家本人很满意吧。【三个月以后补：CB有他神奇的地方，虽然清淡但总能想起，别的作品可能给了你什么实在的东西，CB则给了你心里一个空白。总能想起寄给faye的beta录像带。音乐五星】"
+    },
+    {
+      "user": "似此星辰",
+      "avatar": "https://img3.doubanio.com/icon/u3438528-6.jpg",
+      "content": "少有的神作无误，看得我快想把现在追的番都弃掉了。情节为主，节奏紧凑故事精彩，时而搞笑时而深沉时而刷爆帅气值的表，人物为辅，但每一个都饱满鲜明。难怪业界也把它视为标杆，里面的梗后来被多少动画一再用到啊。不枉我看完《混沌武士》之后特地隔了半年才来补。"
+    },
+    {
+      "user": "棉亚麻树枝",
+      "avatar": "https://img1.doubanio.com/icon/u3565317-17.jpg",
+      "content": "最爱的是音乐，如此情调无出其右者。节奏和气氛非常完美。故事的话，中间部分更好看些，到后面就差了些。有时觉得乱七八糟大杂烩，不过也自有一些趣味。故事不求完美，不啰嗦，意境到了才好。"
+    },
+    {
+      "user": "Lycidas",
+      "avatar": "https://img3.doubanio.com/icon/u46752165-32.jpg",
+      "content": "二十周年重看"
+    },
+    {
+      "user": "Singin'in rain",
+      "avatar": "https://img3.doubanio.com/icon/u6781489-2.jpg",
+      "content": "神作，只有膜拜的份儿，一部打十星的伟大作品。不少作品因为某个方面的极成功而得以不朽，而Cowboy Bebop则是每个方面都完美到让人想哭，无论是神之配乐，还是人设，剧情，画面，台词功力，还是这部作品本身成了一个类型，都注定了它的传奇。See you space cowboy. YOU'RE GONNA CARRY THAT WEIGHT."
+    },
+    {
+      "user": "卖大米的小椰奶",
+      "avatar": "https://img3.doubanio.com/icon/u35367949-13.jpg",
+      "content": "层次不齐 ，人设配乐都大爱。除了部分剧情，估计早十年看就不觉得俗套了吧"
+    },
+    {
+      "user": "Jacky",
+      "avatar": "https://img3.doubanio.com/icon/u178784571-2.jpg",
+      "content": "明明是老旧时代的科幻作品，却看出了后现代的浪漫情怀。催促我去寻找自由，渐渐觉得自由不在别处，而是在自己的内心。我总是莫名其妙会回想起一些，好像不曾存在过的片段，姥姥大院前面的枯树桩，仲夏午后微风的气味，刺眼的阳光，那些上个世纪的记忆若隐若现。我走过那么些城市，去过海内海外，最想去的还是家，找来找去发现，它就在我的心里，就在我的记忆里。我得放我自己一马，好好生活。"
+    },
+    {
+      "user": "嫣儿jinjun",
+      "avatar": "https://img3.doubanio.com/icon/u2054495-6.jpg",
+      "content": "spike，神一样的存在，连死亡也是那么华丽丽；菲，在重伤的spike面前抢去唯一的橘子，吃掉并把橘皮留给他，在spike离开时却连开六抢；ED，眼睛那么闪亮、童谣那么好听、四肢那么柔软，可以把变异的怪物一口吞掉；爱因，聪明的短腿狗；羡慕你们无拘无束的生活方式，佩服你们斩断一切的勇气。我爱你们。"
+    },
+    {
+      "user": "hilly",
+      "avatar": "https://img1.doubanio.com/icon/u1318150-18.jpg",
+      "content": "26话总算看完了。mkv的高音质果然没让俺错失洋子的完美配乐。故事本身带有淡淡的悲伤，配布鲁斯真是绝妙。最妙的是每个故事到了剧情转折点的时候，洋子大人总是能够恰到好处的踩准那个爆发的点，接着俺就等着沦陷吧。"
+    },
+    {
+      "user": "潇梦",
+      "avatar": "https://img3.doubanio.com/icon/u48659241-155.jpg",
+      "content": "结尾太他妈的令人不甘心了！！Faye, Spike, 大叔， Ed，狗狗。果然是慢慢入味的一部片子，断断续续在边运动边看的情况下陪着Scott看完了。“你认为人为什么会相信神？因为希望相信。是人类创造了神。”“电视才是宗教。” 倒数四集都是神作，BGM永远惊艳！有人在等你，是归宿。 Real Blue Folk  Chris"
+    },
+    {
+      "user": "低绿",
+      "avatar": "https://img3.doubanio.com/icon/u1749778-55.jpg",
+      "content": "比samurai champloo大气深沉，比骇客帝国动画更温暖有趣，渡边信一郎如此年轻就创造了连自己都难以超越的高度"
+    },
+    {
+      "user": "★冰凌宫★",
+      "avatar": "https://img3.doubanio.com/icon/u3993233-93.jpg",
+      "content": "是我喜欢的风格，而且制作感觉上乘，当年是1998年呢，每集一故事但没有我特别喜欢的，没什么超现实怪物，人物刻画上下足了功夫，日本像海绵一样，对各个它所崇尚的国度的文化都吸取转化，乍看起来很美国，看完又觉得不美国，音乐不错分镜极致，最后一集有点伤感，真希望还能进行下去！"
+    },
+    {
+      "user": "圣光骑士TOM",
+      "avatar": "https://img3.doubanio.com/icon/u134175370-5.jpg",
+      "content": "18.3.3 看完第二遍 超好看~~~~~~非常用心的一部作品！！！！https://www.zhihu.com/question/31785696 感叹他们对结局的分析 好棒~~~~~spike特别像我高中同学！！！！！！配乐 动画 台词 人物性格 都非常棒！构思实在是太好了！！！！东方元素 西方元素运用得非常非常好！造诣颇深！世纪末的伟大之作！"
+    },
+    {
+      "user": "Ks",
+      "avatar": "https://img1.doubanio.com/icon/u3278392-8.jpg",
+      "content": "其实看完了并没有大家说的神作那么厉害 但是在星际中一起旅行的感觉确实好的 片头第一次看的时候吃了一惊 很少看到这么电影感觉的 每集基本都没有什么关联 但是都是很不常见的故事呐 每集都有好听的歌曲呐 柯基犬到哪里都是一个小短腿 我觉得小女孩很有趣 没想到是个厉害的电脑工程师 像猫咪一样"
+    },
+    {
+      "user": "OpinionatedDbU",
+      "avatar": "https://img3.doubanio.com/icon/u26414546-64.jpg",
+      "content": "银魂有没有！敢说银魂没有受到过这个影响！绝对的！"
+    },
+    {
+      "user": "Viking Blood",
+      "avatar": "https://img3.doubanio.com/icon/u63692271-23.jpg",
+      "content": "这是一部充满疏离感的动画。前期看似只是有些欢乐的科幻冒险，随着后期主角四人的身世展开和相关人物事件的出现，整个故事多了一丝微妙的情感变化。漂泊在宇宙的Bebop号、寻找归宿的人们、片中无处不在的爵士乐及宇宙本身，共同塑造出一种难以言喻的孤寂。菲的录像带还有最后三集不敢再看。OPED超神。"
+    },
+    {
+      "user": "🌈ransoma",
+      "avatar": "https://img3.doubanio.com/icon/u1679881-133.jpg",
+      "content": "爱死这片子了..."
+    },
+    {
+      "user": "四月",
+      "avatar": "https://img3.doubanio.com/icon/u51167561-55.jpg",
+      "content": "16之后方入佳境。ost添色不少。关于过去和羁绊随意就好。"
+    },
+    {
+      "user": "Dark Archon",
+      "avatar": "https://img3.doubanio.com/icon/u46943365-21.jpg",
+      "content": "[星际牛仔][TV+特别版+OST][日语中字]@By猪猪乐园@御风上扬 640*480 99.5MB*26 557k"
+    },
+    {
+      "user": "cesiiia",
+      "avatar": "https://img1.doubanio.com/icon/u2466680-58.jpg",
+      "content": "因为小组里的一个帖子让我又翻出来看啦……继续各种泪目"
+    },
+    {
+      "user": "沉水",
+      "avatar": "https://img3.doubanio.com/icon/u2347167-5.jpg",
+      "content": "谁都需要一个可以回去的地方，在这里，它叫Bebop。"
+    },
+    {
+      "user": "阴暗中的绝望",
+      "avatar": "https://img3.doubanio.com/icon/u48241664-31.jpg",
+      "content": "100/100：给这作打3星以下的以后可以不用看动画了，绝对不会有你们满意的作品的。"
+    },
+    {
+      "user": "Anaの部屋。",
+      "avatar": "https://img3.doubanio.com/icon/u1120021-13.jpg",
+      "content": "OST好得不像話啊不像話。。"
+    },
+    {
+      "user": "面团打滚",
+      "avatar": "https://img3.doubanio.com/icon/u4580137-14.jpg",
+      "content": "Spike真的很像银时也……虽然很好看剧情也很棒，可是有时候却有种“这动画一集肿么这么长”的感慨……"
+    },
+    {
+      "user": "pastilles",
+      "avatar": "https://img3.doubanio.com/icon/u2443559-6.jpg",
+      "content": "上一秒还问你要不要一起走，下一秒空留她原地。Call me call me。Ed带着Ein离开，Spike看着过去滞留永驻，Faye也会漂泊自己的漂泊，Jet守着船继续没有肉的青椒肉丝，从来也就没有过伙伴的默契和承诺，都是茫茫太空里寥落而又无处可去的人，越喧嚣越孤独，越随性越放不开。See you space cowboy。砰。"
+    },
+    {
+      "user": "戴泰德",
+      "avatar": "https://img3.doubanio.com/icon/u39962514-73.jpg",
+      "content": "每个人的过去和选择的道路，成熟、不羁、忧郁、触不可及，叙事表现力惊人，作画即使放在今天也是无可挑剔，spike、jet、faye的CV经典，OST的爵士之神。see you，space cowboy，somewhen，somewhere."
+    },
+    {
+      "user": "Sodom程",
+      "avatar": "https://img3.doubanio.com/icon/u1030410-40.jpg",
+      "content": "当年到今来说，都是不错的一部动漫~"
+    },
+    {
+      "user": "Meow",
+      "avatar": "https://img3.doubanio.com/icon/u2829066-30.jpg",
+      "content": "You're gonna carry that weight. "
+    },
+    {
+      "user": "甘樂不樂",
+      "avatar": "https://img3.doubanio.com/icon/u44846672-11.jpg",
+      "content": "太浪漫 太揪心难过  明知送死还是要去找vicious... 最后倒下。 ED知道了也会很难过吧"
+    },
+    {
+      "user": "唏唏嘘嘘",
+      "avatar": "https://img1.doubanio.com/icon/u59108154-8.jpg",
+      "content": "跟混沌武士一样，结尾是充满淡淡忧伤的分别，渡边的作品一直表现着这样的主题，追寻过去，了结过去，这其中随之而来的是漫漫人生旅途的孤独，当然，还有友情的佐伴。另外，这种随意铺开不过分阐释的世界观，行云流水一般自然贴切，让人身处其中，类似的还有渡边的混沌武士，优美诗意的幕府末期画卷，"
+    },
+    {
+      "user": "X在被人道毁灭",
+      "avatar": "https://img3.doubanio.com/icon/u3528070-1.jpg",
+      "content": "这货我竟然没打星，神作不解释。。。Spike好男人！，Jet好厨艺~经验的青椒肉丝。。。林原惠依然女神级CV。。。菅野洋子的音乐神作中的神作！各种Jazz，还有call me call me。据说又要拍真人？"
+    },
+    {
+      "user": "牧田夏希",
+      "avatar": "https://img1.doubanio.com/icon/u50275184-87.jpg",
+      "content": "You've gonna carry that weight. You've awakened. Then you meet a woman, she falls in love with you, you die."
+    },
+    {
+      "user": "Dc",
+      "avatar": "https://img3.doubanio.com/icon/u3937153-146.jpg",
+      "content": "- - 看不到主线啊看不到   放在最后几集玩逆转啊玩逆转"
+    },
+    {
+      "user": "胡子捉摸",
+      "avatar": "https://img3.doubanio.com/icon/u1307041-1.jpg",
+      "content": "http://www.douban.com/group/topic/3842277/"
+    },
+    {
+      "user": "JokER",
+      "avatar": "https://img3.doubanio.com/icon/u58060087-6.jpg",
+      "content": "本来是抱着补旧番和冲林原女王来看的，但是发现绝不仅仅如此，另外菅野大神的配乐绝赞"
+    },
+    {
+      "user": "国产凌凌期",
+      "avatar": "https://img3.doubanio.com/icon/u62917415-13.jpg",
+      "content": "2019年4月21日09:37:18。See you space cowboy."
+    },
+    {
+      "user": "虚猫",
+      "avatar": "https://img1.doubanio.com/icon/u3984041-7.jpg",
+      "content": "最初对这部的高分有怀疑，但看完后也被埋葬在了这种人生的荒凉感中。另外，神配乐。"
+    },
+    {
+      "user": "Cosmos42",
+      "avatar": "https://img3.doubanio.com/icon/u1860724-4.jpg",
+      "content": "原来坂田银时的原型在这里~\n一共26集，每一集一个单独的故事，每一集的音乐都很特别~结尾曲菅野洋子的神曲啊。目前看到16，已经知道是悲剧了，不着急看完。"
+    },
+    {
+      "user": "韦达柯",
+      "avatar": "https://img3.doubanio.com/icon/u3333859-22.jpg",
+      "content": "你会在什么地方？|看到结局的时候，让人说不出什么话来"
+    },
+    {
+      "user": "心之pipo师",
+      "avatar": "https://img3.doubanio.com/icon/u5194621-22.jpg",
+      "content": "十多年前的神作 终于补完了 神监督 神BGM "
+    },
+    {
+      "user": "AUBREY",
+      "avatar": "https://img3.doubanio.com/icon/u43330870-10.jpg",
+      "content": "严格意义上是看完的第一部动漫加剧场版。末世蒸汽朋克，哥特意象，公路电影，风水占卜，科幻世界，爵士北欧冷民谣，全部融解漂浮在浩瀚宇宙中，里子却是无法摆脱的宿命论。浪漫到极致，无奈到极致，看得人胃痛又难过。＃去年7月＃"
+    },
+    {
+      "user": "芭芭拉·史翠珊",
+      "avatar": "https://img3.doubanio.com/icon/u3867242-151.jpg",
+      "content": "最后几集太好看了，又精彩又心酸，而且插曲越来越好听。。。动作情节音乐，哈灵。。有点伤了，短时内不敢看第二遍。。。我再看一次混沌武士好了。。。"
+    },
+    {
+      "user": "90",
+      "avatar": "https://img3.doubanio.com/icon/u2494214-1.jpg",
+      "content": "名声在外的作品，实际上刚看的时候被闷到。不过确实是精良制作、风格突出。"
+    },
+    {
+      "user": "楚翰彻",
+      "avatar": "https://img1.doubanio.com/icon/u141744320-18.jpg",
+      "content": "画风、节奏、人设、世界观基本都趋近于完美，如果没有最后两集，我会给五星：生死决别，只身赴险，反派倒戈，说教对白，哲理故事......和这些比起来，我喜欢吃鸡蛋和在废墟上画房子。"
+    },
+    {
+      "user": "青铜",
+      "avatar": "https://img3.doubanio.com/icon/u1631214-1.jpg",
+      "content": "拜菅野洋子很久了，因为这个片子特意饲养柯基小狗一只"
+    },
+    {
+      "user": "acegikmoqsuwyt",
+      "avatar": "https://img1.doubanio.com/icon/u1090775-19.jpg",
+      "content": "“如果有人说动画片幼稚 那就让他看CB” JPCN"
+    },
+    {
+      "user": "爱的镇魂歌",
+      "avatar": "https://img3.doubanio.com/icon/u58910508-4.jpg",
+      "content": "单元故事大多很游戏，个人口味,个别几集不算尽如人意。史派克主线唏嘘的同时总感觉有些许地方描写不足的小缺失。比方说林和真这对兄弟都特意刻画挡子弹而死，但却几乎没有交代过去或介绍，只能简单臆测。CB无疑是一部非常优秀的作品，只希望主线能再加深哪怕一两集，个别人物再稍明了些就更完美了。"
+    },
+    {
+      "user": "Black2018",
+      "avatar": "https://img1.doubanio.com/icon/u3641887-118.jpg",
+      "content": "既然你们都说是神作，那就是神作吧\r\nPS：我真心觉得道子与哈金不比这个差"
+    },
+    {
+      "user": "左~嘞",
+      "avatar": "https://img3.doubanio.com/icon/u26244471-6.jpg",
+      "content": "四星都给第24集 Faye和Ed....  真讨厌离别的感觉 还不如不相识的好  \n音乐真是好 还有那个活了一百万次的猫 原来是Spike讨厌这个故事的"
+    },
+    {
+      "user": "hayashi",
+      "avatar": "https://img3.doubanio.com/icon/u66412871-6.jpg",
+      "content": "Easy come, easy go."
+    }
+  ]
+}

@@ -1,0 +1,1096 @@
+{
+  "title": "动物管理局",
+  "url": "https://movie.douban.com/subject/27107725/",
+  "rate": "7.7",
+  "id": "27107725",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522426850.jpg",
+  "info": [
+    "导演: 金哲勇 / 李雅弢",
+    "编剧: 张璐 / 郭异雯 / 金哲勇 / 张臻 / 跳跳 / 张晨子 / 董蜚",
+    "主演: 陈赫 / 王子文 / 唐晓天 / 孔宋今 / 谭泉 / 黄一琳 / 黄天元 / 龙斌 / 郭京飞 / 海一天 / 凤小岳",
+    "类型: 喜剧 / 奇幻",
+    "制片国家/地区: 中国大陆",
+    "语言: 汉语普通话",
+    "首播: 2019-06-05(中国大陆)",
+    "集数: 24",
+    "单集片长: 45分钟",
+    "又名: 妖怪管理局 / 一代妖精网剧版 / Bureau of Transformer"
+  ],
+  "desc": "兽医郝运（陈赫 饰）因为一场猫咪配种事故，意外发现这个世界上有转化者存在。动物管理局带走郝运，但用各种办法都无法洗掉他的记忆，只好迫使他加入动物管理局。从此郝运和战斗力超强的吴爱爱（王子文 饰）组成搭档，开始处理一桩桩动物案件......开启了一个巨大而神秘的都市精灵世界的故事。",
+  "members": {
+    "director": {
+      "name": "金哲勇 Zheyong Jin",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552385600.82.jpg"
+    },
+    "cast": [
+      {
+        "name": "陈赫 He Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1420296836.46.jpg"
+      },
+      {
+        "name": "王子文 Ziwen Wang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456594665.87.jpg"
+      },
+      {
+        "name": "唐晓天 Xiaotian Tang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533994912.87.jpg"
+      },
+      {
+        "name": "孔宋今 Songjin Kong",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53673.jpg"
+      },
+      {
+        "name": "谭泉 Quan Tan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521533077.41.jpg"
+      },
+      {
+        "name": "黄一琳 Yilin Huang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504169435.56.jpg"
+      },
+      {
+        "name": "黄天元 Tianyuan Huang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37916.jpg"
+      },
+      {
+        "name": "龙斌 Bin Long",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1437989751.52.jpg"
+      },
+      {
+        "name": "郭京飞 Jingfei Guo",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51498.jpg"
+      },
+      {
+        "name": "海一天 Yitian Hai",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565839540.22.jpg"
+      },
+      {
+        "name": "凤小岳 Rhydian Vaughan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372773609.01.jpg"
+      },
+      {
+        "name": "欧阳小如 Xiaoru Ouyang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pzLoE13D_7Kocel_avatar_uploaded1551428359.73.jpg"
+      },
+      {
+        "name": "陈涵 Han Chen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1515853719.34.jpg"
+      },
+      {
+        "name": "张子贤 Zixian Zhang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502755044.6.jpg"
+      },
+      {
+        "name": "朱捷 Jie Zhu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514172956.49.jpg"
+      },
+      {
+        "name": "李沁谣 Maggie Lee",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1400253655.5.jpg"
+      },
+      {
+        "name": "俞瞳 Tong Yu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1368672531.97.jpg"
+      },
+      {
+        "name": "陶慧 Hui Tao",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1404470806.29.jpg"
+      },
+      {
+        "name": "高华阳 Zack Gao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1406119758.81.jpg"
+      },
+      {
+        "name": "孔雁 Yan Kong",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pssysHiQ5DdEcel_avatar_uploaded1531383402.79.jpg"
+      },
+      {
+        "name": "项洪 Hong Xiang",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485413240.05.jpg"
+      },
+      {
+        "name": "鞠泓宇 Hongyu Ju",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464694507.98.jpg"
+      },
+      {
+        "name": "张昊玥 Haoyue Zhang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1479818665.88.jpg"
+      },
+      {
+        "name": "万子晴 Ziqing Wan",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1493619515.17.jpg"
+      },
+      {
+        "name": "郭沛志 Peizhi Guo",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pirVqOLAV4_Qcel_avatar_uploaded1556517444.06.jpg"
+      },
+      {
+        "name": "崔真真 Zhenzhen Cui",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1532264909.11.jpg"
+      },
+      {
+        "name": "楼云飞 Yunfei Lou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1488524251.24.jpg"
+      },
+      {
+        "name": "巩金国 Jinguo Gong",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1491823200.07.jpg"
+      },
+      {
+        "name": "苏尚卿 Shangqing Su",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1539919265.76.jpg"
+      },
+      {
+        "name": "张碧玉 Biyu Zhang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1534130567.87.jpg"
+      },
+      {
+        "name": "陈芋米 Yumi Chen",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1494685933.79.jpg"
+      },
+      {
+        "name": "赵小锐 Xiaorui Zhao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6435.jpg"
+      },
+      {
+        "name": "余浩瑞 Haorui Yu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565786794.65.jpg"
+      },
+      {
+        "name": "钱入富 Rufu Qian",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382670927.55.jpg"
+      },
+      {
+        "name": "周铁 Tie Zhou",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pEumODSdSfAscel_avatar_uploaded1448940142.12.jpg"
+      },
+      {
+        "name": "高煜霏 Yufei Gao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1497443426.25.jpg"
+      },
+      {
+        "name": "柏智杰 Zhijie Bai",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1368498990.64.jpg"
+      },
+      {
+        "name": "李逸男 Yinan Li",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501938071.81.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img1.doubanio.com/img/trailer/medium/2556629589.jpg?",
+        "src": "http://vt1.doubanio.com/201908311543/ccf60872be90504f2c0bb0b5868437d3/view/movie/M/402470021.mp4"
+      }
+    ],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2557591746.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2557591748.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2558843934.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2559454808.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "居无间",
+      "avatar": "https://img3.doubanio.com/icon/u49549492-13.jpg",
+      "content": "创作方向很值得鼓励，立意比影版好很多。奇幻设定下是社会向，以动物为躯壳，讲被都市生活掩盖的人心。但在具体执行上，动物与人类的类比，以及刑侦的类型元素，还是有些简单草率，从蚯蚓精那集开始丰富了。沙雕搞笑部分过多、表演风格略浮夸，都会消解严肃内核，这和《暗黑者》问题一样。为了拥有更多受众，必得付出的代价。陈赫走不出曾小贤，王子文走不出曲筱绡。社长演得挺好。"
+    },
+    {
+      "user": "Migrant57",
+      "avatar": "https://img3.doubanio.com/icon/u157447038-1.jpg",
+      "content": "第八集的蚯蚓精分身的拍摄太棒了"
+    },
+    {
+      "user": "曼彻斯特的雪",
+      "avatar": "https://img3.doubanio.com/icon/u180401152-1.jpg",
+      "content": "本来想给2星的，看在故事设定上的创意勉强给三颗星吧。故事立意应该借鉴了影版二代妖精，但剧版演员选角灾难，陈赫作为演员的污点和丝毫没有长进的演技太赶客了，而王子文的演技和她的颜值一样毫不出众，平淡如水。特效也十分糟糕，第一集的那个加菲猫，我真的不想说什么了。如果演员和特效换成影版的，我会给5星。"
+    },
+    {
+      "user": "冰莹若依",
+      "avatar": "https://img3.doubanio.com/icon/u63570492-1.jpg",
+      "content": "冲着这个尺度就要给个好评！你以为是讲光怪陆离的动物世界，其实讲的还是魑魅魍魉的鬼蜮人心。每个动物代表了一类群体的存在，寻找他们的秘密的时候有时候也是在叩问自己。"
+    },
+    {
+      "user": "励志师",
+      "avatar": "https://img3.doubanio.com/icon/u185740920-6.jpg",
+      "content": "一口气看完，说的尽是动物事，又何尝不是揣测人心。苦等两年不负期待，都市奇幻题材新颖，剧情全程高能无尿点又轻松诙谐。陈赫和子文儿的组合真的很搭，希望借助这部作品让大家知道他们不仅仅是曾小贤和曲筱绡。最后说一句，我吴探长真的帅到没朋友啊！我爱吴探长！"
+    },
+    {
+      "user": "橙爷是妇联社长",
+      "avatar": "https://img3.doubanio.com/icon/u126904611-6.jpg",
+      "content": "事实证明，选对了剧本，就算摆脱不了曾小贤的影子，也能让观众一秒入戏。"
+    },
+    {
+      "user": "吉田辉星",
+      "avatar": "https://img1.doubanio.com/icon/u1438042-29.jpg",
+      "content": "原以为是沙雕雷爽剧，但没想到竟然看着看着被感动。动物的世界原本与人不共通，可万事万物的情感其实牵连在一起，并没有任何的不同。看似沙雕的探员其实最是温柔可靠，谁都有一个不为人知的故事。"
+    },
+    {
+      "user": "风林火山",
+      "avatar": "https://img3.doubanio.com/icon/u124958921-3.jpg",
+      "content": "       难得毫不注水的一部剧，网剧也做出了电影级别的质感。尺度不小，看着嘻嘻哈哈，其实触底现实层面依然勇气可嘉。且看且珍惜，好在底色仍然温情，令人舒心暖意。\n"
+    },
+    {
+      "user": "未注销",
+      "avatar": "https://img3.doubanio.com/icon/u158560296-3.jpg",
+      "content": "设定还挺新颖的，破案比较吸引人。不过陈赫真的演啥都像曾小贤，王子文演啥都像曲筱绡。"
+    },
+    {
+      "user": "野蒜",
+      "avatar": "https://img3.doubanio.com/icon/u57966675-30.jpg",
+      "content": "工夫拍完《一代妖精》，觉得嗳这个设定不拍个网剧可惜了，于是丢给工夫真言拍了个网剧。如果主角是郭京飞和迪丽热巴就好了。"
+    },
+    {
+      "user": "白茶清欢无别事",
+      "avatar": "https://img3.doubanio.com/icon/u130146156-3.jpg",
+      "content": "笑着笑着就有点想哭的节奏。陈赫和王子文也太好磕了吧！画面不错，有电影质感，节奏紧凑悬疑感强，层层渐入的挖掘秘密一定要继续看下去。从动物的视角抽丝剥茧极其新颖，又怎么不知它们是另一个我们呢？"
+    },
+    {
+      "user": "麻蛋小姐",
+      "avatar": "https://img3.doubanio.com/icon/u58281976-13.jpg",
+      "content": "我太喜欢这个设定了！世界观的重新架构，感觉是在说动物的故事，其实反映的都是人性。之前很早也写过一个都市打妖题材的剧本，不过现在“建国后的动物不能成精”，这剧居然过审了！爱奇艺是真的强大"
+    },
+    {
+      "user": "紫苜蓿",
+      "avatar": "https://img3.doubanio.com/icon/u134968001-2.jpg",
+      "content": "以为这类剧一定会制作粗糙，没想到特效还可以！演员演技也不错，陈赫不仅能搞笑，深沉时候也不弱。王子文令人惊喜，暴力警花也是太刺激了～剧情比想象中的更佳，残酷外表下的温情内核，有社会意义。"
+    },
+    {
+      "user": "孤舟长河",
+      "avatar": "https://img3.doubanio.com/icon/u139896761-6.jpg",
+      "content": "天马行空的想象力让人格外惊喜，国产剧的题材愈发新颖可观。都市轻喜剧有点像《一代妖精》的feel，不过剧情则丰富的多，情绪也饱满。爱惨了单元形式，一个故事一个故事的小篇章都有独特的体验，动物的情绪也是人的情绪啊。"
+    },
+    {
+      "user": "风都知道",
+      "avatar": "https://img3.doubanio.com/icon/u145427238-1.jpg",
+      "content": "奇幻设定用的倒是写实的拍摄手法，代入感很强了。片名本身就巧妙有意思，各种各样的动物都有自己独特的特征，高冷傲娇的猫，雌雄同体的黄鳝，7秒钟记忆的金鱼…上辈子，或许你也是其中之一。"
+    },
+    {
+      "user": "轻举绝俗",
+      "avatar": "https://img3.doubanio.com/icon/u62650557-2.jpg",
+      "content": "颜值演技都在线，不仅是主角陈赫和王子文匹配度极佳，主要的动物配角演的也很好。看着看着有点泪目，在张牙舞爪的背后，都有一段心酸情愫。动物是，人亦然。"
+    },
+    {
+      "user": "定都峰定都阁",
+      "avatar": "https://img3.doubanio.com/icon/u124640229-3.jpg",
+      "content": "居然有郭京飞客串，简直笑到头掉哈哈哈哈哈哈！整体剧情都略沙雕但是气氛却可可爱爱的，尤其陈赫和王子文意外的cp感爆棚。剧情也有趣，越到后面越高潮迭起。"
+    },
+    {
+      "user": "使君子",
+      "avatar": "https://img1.doubanio.com/icon/u5487795-27.jpg",
+      "content": "下饭良品必备！陈赫演这种小人物仿佛量身定制，一举一动都恰恰好踩在你的笑点上。王子文的黄鳝设定堪称2019“万万想不到”。整体品质相当不错，又搞笑又甜。能带起一波奇幻风也很是可以。"
+    },
+    {
+      "user": "胡铁花花",
+      "avatar": "https://img3.doubanio.com/icon/u122587004-3.jpg",
+      "content": "       动物和人的结合很棒啊，特效也不错。每个故事代表了一种情绪，有孤独，愤怒，固执，嫉妒等等，放大了人性的反面，但又以温柔的方式疏解开来。编剧不错，难得看见有趣也有人情味的故事了。"
+    },
+    {
+      "user": "有一说一",
+      "avatar": "https://img3.doubanio.com/icon/u140012627-4.jpg",
+      "content": "沙雕探员其实精于人情世故，战斗力爆表的热辣玫瑰竟然是黄鳝的雌雄同体，每个简单的人背后都有独属于自己的故事，笑闹背后温情不灭。 "
+    },
+    {
+      "user": "Monologue",
+      "avatar": "https://img3.doubanio.com/icon/u192508323-2.jpg",
+      "content": "第7、8集蚯蚓精的故事，给了我一些启发。很多人都会面临许智的选择，是去大城市追逐梦想还是留在小地方贪恋安稳？我们没有分身，也不知道选了其中一种之后，另一种是怎样的生活，但是蚯蚓精替我们做到了，只不过结局仍然不像我们想象的那样，去大城市的虽然有梦想但是物质条件不好，留在小城市的虽然看着像人生赢家但是也被憋出了抑郁症，从来就没有什么十全十美，完美人生永远只在想象中。"
+    },
+    {
+      "user": "小笑妈",
+      "avatar": "https://img3.doubanio.com/icon/u170719370-1.jpg",
+      "content": "一天看了10集，剧情很多梗和笑点，还有深意和反讽，演员全员在线，最妙的是演员基本和那些“精”们长得很像，好剧，值得鼓励五星满分（有人说适合十岁以下的看，还真不是，那些看出现实社会问题的，还得是我们😄）"
+    },
+    {
+      "user": "杜冰雁",
+      "avatar": "https://img3.doubanio.com/icon/u155912609-2.jpg",
+      "content": "一集一个小故事，水熊虫自杀一个人能演一百集，花式自杀"
+    },
+    {
+      "user": "二十二岛主",
+      "avatar": "https://img3.doubanio.com/icon/u48369193-16.jpg",
+      "content": "没抱什么预期，看了一集觉得还挺好玩的，一查原来和《二代妖精》还有关联，郭京飞在剧中有客串，看来是想把“妖精”宇宙发扬光大。比较轻松，从动画式的片头到一个接一个小包袱，可以看做是一部网络情景喜剧。最近网剧侦破、探案题材的太多了，偶尔看点这样轻松的也蛮好。"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "都市奇幻题材，兼带有娱乐性的轻喜剧元素，笑点不断。采用单元剧设定，每几集围绕一个案件、讲一个故事，不仅节奏快，而且也比传统的国产剧更加新鲜。从目前的开篇看来，这部作品还是挺温暖有趣的，值得长线观望。"
+    },
+    {
+      "user": "花石榴的红苹果",
+      "avatar": "https://img3.doubanio.com/icon/u3701655-10.jpg",
+      "content": "看了一集太烂了"
+    },
+    {
+      "user": "代码终将消逝",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "我去……这是怎么过审的？不是说“建国后小动物不能成精”么？…… 你看，能成精就很好看嘛！"
+    },
+    {
+      "user": "Iris_Z",
+      "avatar": "https://img1.doubanio.com/icon/u149114640-7.jpg",
+      "content": "很尬，非常尬，各种尬，离黑衣人差了十万八千里，像在看综艺节目"
+    },
+    {
+      "user": "沙雕电影",
+      "avatar": "https://img3.doubanio.com/icon/u185573840-2.jpg",
+      "content": "设定照抄黑衣人... 竟然还有人说脑洞大... 还是青春斗好看... 起码烂得有尊严..."
+    },
+    {
+      "user": "静静等待",
+      "avatar": "https://img3.doubanio.com/icon/u183890484-1.jpg",
+      "content": "陈赫演什么都像曾小贤"
+    },
+    {
+      "user": "有风自南",
+      "avatar": "https://img3.doubanio.com/icon/u145198269-2.jpg",
+      "content": "这剧与尴尬一词简直完美契合😶浪费了一个好立意，特效糊弄，演技浮夸，剧情雷人，那些尬吹的可真够讽刺😅😅😅"
+    },
+    {
+      "user": "陶陶四",
+      "avatar": "https://img1.doubanio.com/icon/u1418573-57.jpg",
+      "content": "看一次笑一次"
+    },
+    {
+      "user": "鱼子酱",
+      "avatar": "https://img3.doubanio.com/icon/u74385390-5.jpg",
+      "content": "第一集就完全看不下去，不知所云"
+    },
+    {
+      "user": "凌枫",
+      "avatar": "https://img3.doubanio.com/icon/u46763146-2.jpg",
+      "content": "实打实的诚意之作，看了特辑更佩服创作团队的勇气和敢于挑战奇幻喜剧的魄力。故事包裹在动物的外壳下，其实尺度不小，非青春爱情题材能上映不易，真的好看，希望能是国产剧一个好的开始。 "
+    },
+    {
+      "user": "zts",
+      "avatar": "https://img1.doubanio.com/icon/u52470011-7.jpg",
+      "content": "设定挺有意思的奇幻喜剧，肥猫变油腻中年大叔发情的桥段很搞笑，菜市场追逃犯调侃了跑男，梗蛮多的；动管局的宗旨应该是和动物和平共处，用吊儿郎当的宠物医生的视线切入还是挺合适的；王子文把女探长演的很英气飒爽。"
+    },
+    {
+      "user": "只看良心剧",
+      "avatar": "https://img3.doubanio.com/icon/u167707840-1.jpg",
+      "content": "必须五星好评，除了陈赫演技其他都感觉凌驾于灵魂摆渡和无心法师之上！用不同动物代表不同性格种类的人！映射之准狠令人发指！能播说明广电总局总算大发慈悲一次🙏🙏🙏🙏"
+    },
+    {
+      "user": "狼人杀",
+      "avatar": "https://img3.doubanio.com/icon/u157700156-1.jpg",
+      "content": "既然是网剧那就按规矩来呀，脑残综艺似的表演，工夫也不过如此嘛，还有广电怎么审查的这啊"
+    },
+    {
+      "user": "财宝酱",
+      "avatar": "https://img3.doubanio.com/icon/u50474968-6.jpg",
+      "content": "片头动画抄袭马男痕迹很重，有点烦。"
+    },
+    {
+      "user": "saga@vertigo",
+      "avatar": "https://img3.doubanio.com/icon/u185911384-3.jpg",
+      "content": "大陆低配版格林"
+    },
+    {
+      "user": "二火山",
+      "avatar": "https://img3.doubanio.com/icon/u51016659-30.jpg",
+      "content": "工夫出品的新剧，和《二代妖精》共享一个宇宙，内地版《黑衣人》，动物转化者的设定在国产网剧里很新鲜，身边的人说不好就是动物变的。诙谐轻松的单元剧，每集一个故事，外在是动物，内在反映的都是形形色色的人性，将萌宠与悬疑破案结合的不错，越往后看越有趣，陈赫依旧是搞笑担当，王子文帅气干练，武力值MAX承包了大部分动作戏，戏路越来越宽了。"
+    },
+    {
+      "user": "sb蒙蒙",
+      "avatar": "https://img3.doubanio.com/icon/u57751641-2.jpg",
+      "content": "为什么这么尬的电视 会有那么多好评……"
+    },
+    {
+      "user": "嗨呀",
+      "avatar": "https://img3.doubanio.com/icon/u146526192-5.jpg",
+      "content": "这个咋过审的啊？厉害厉害！剧情还是不错的，单元剧模式，是我的菜~"
+    },
+    {
+      "user": "窝果骰",
+      "avatar": "https://img3.doubanio.com/icon/u194638572-1.jpg",
+      "content": "“你以为长得漂亮就不用工作吗”迎头重击，人家Lucy这种靠脸吃饭的人都要努力工作，你我还有什么资格不努力？\n"
+    },
+    {
+      "user": "巧克力",
+      "avatar": "https://img3.doubanio.com/icon/u155106342-1.jpg",
+      "content": "尬，后期水平太差了"
+    },
+    {
+      "user": "Tianc",
+      "avatar": "https://img3.doubanio.com/icon/u186223236-1.jpg",
+      "content": "好看啊，这么久了，陈赫总算拍了一部好剧了（说不怎么样的一定要坚持到第四集，后面都很高能）"
+    },
+    {
+      "user": "Elephant",
+      "avatar": "https://img3.doubanio.com/icon/u153261627-2.jpg",
+      "content": "近年来最牛逼的喜剧，清新脱俗"
+    },
+    {
+      "user": "陈年旧景",
+      "avatar": "https://img3.doubanio.com/icon/u131535043-1.jpg",
+      "content": "呵呵我又一次被评分骗的看了一集"
+    },
+    {
+      "user": "拿冰阔落来",
+      "avatar": "https://img3.doubanio.com/icon/u148156086-66.jpg",
+      "content": "爆款潜质。爱奇艺自制奇幻喜剧，有悬疑破案元素，题材类型非常容易破圈层壁垒，也符合平台的年轻化打法；核心创意点为“动物管理局管理转化者使人与动物和平相处”，王子文人设为雌雄同体的黄鳝精，男女主双强设定，一情商高一实力强，利用动物的种族特点来关照人性，去反观人类的孤独，遗憾，仇富等心理情绪，剧本成色还不错，非常沙雕有网感，每集都要笑死好吗？？编剧大概和我的学习生活经历十分相似，每个地名的梗都能get到也是跪 “月河公园 ”（小月河公园）“月河湾”（星河湾）…一看是文学系的…导演拍动物很牛逼 演员选的不错。劣势和不足是在这个异世界群体里没有一套成体系的价值观和行为准则，足以构成异世界，但这难度很大，也可以理解。总之，在题材同质化下这部很棒，妥妥的爆款潜质，暑期档赶的也不错，还遇到九洲缥缈录不播…"
+    },
+    {
+      "user": "韶华倾负410",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "现在看陈赫的表演简直就是灾难，他也算演员？？？"
+    },
+    {
+      "user": "沐梵",
+      "avatar": "https://img3.doubanio.com/icon/u43316233-16.jpg",
+      "content": "这剧牛在，作为一部讲建国后成精的都市灵异剧，竟然能在一大片玄幻撤档叫停的当口顶风上线，薛定谔的审查标准啊。明显的借壳上市型剧，看似敞开了神奇的动物世界，本质还是拟人化的温情关怀。一集一事节奏明快，主题清晰丰富，虽然时不时强调维稳呼吁和谐，但嘻哈耍贱的喜剧风格稀释了让它狗头保命的主旋律色彩。值得夹缝求生的从业者学习。三星半。"
+    },
+    {
+      "user": "山海两茫茫",
+      "avatar": "https://img3.doubanio.com/icon/u172755395-3.jpg",
+      "content": "虽然表面上郝运卖萌耍贱，吴爱爱霸道冷酷，但感觉两人都是一样内心温暖的人呢。"
+    },
+    {
+      "user": "Ash",
+      "avatar": "https://img3.doubanio.com/icon/u1159240-13.jpg",
+      "content": "脑洞太大了吧！！啊哈哈哈哈哈哈哈哈哈哈哈哈"
+    },
+    {
+      "user": "晴天飞雪雨在飘",
+      "avatar": "https://img3.doubanio.com/icon/u151272430-2.jpg",
+      "content": "很好看，现在放出的八集都不错，尤其是许智的案子。"
+    },
+    {
+      "user": "是健身鹅🇨🇳",
+      "avatar": "https://img3.doubanio.com/icon/u12039192-24.jpg",
+      "content": "题材很感兴趣 为什么要找陈赫这种渣男来演 "
+    },
+    {
+      "user": "绝望的状态",
+      "avatar": "https://img3.doubanio.com/icon/u71128052-1.jpg",
+      "content": "建立一个虚假的社会体系，用动物探讨人性，构思挺好的，也很猎奇，只是，拍的真难看，特别是第一个故事，狐狸精的屁，这视觉，这恶心度，我也是服了，陈赫和女主浮夸，做作的演技，分分钟出戏，动物妆容又极其的淘宝地下摊的感觉，所谓的制度，严肃感都拍的像过家家一样，拜托，这拍出来干嘛的？豆瓣分数还那么高？？凭啥?!!!!"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img1.doubanio.com/icon/u125714000-28.jpg",
+      "content": "好久没看过这么有意思的剧了"
+    },
+    {
+      "user": "宋俣萱",
+      "avatar": "https://img3.doubanio.com/icon/u136650653-2.jpg",
+      "content": "无力吐槽，动物成精，演技拙劣，烂剧无疑"
+    },
+    {
+      "user": "梦清扬",
+      "avatar": "https://img3.doubanio.com/icon/u89028434-1.jpg",
+      "content": "本以为是动物喜剧片，看过才发现是一部人性科幻片"
+    },
+    {
+      "user": "9-E",
+      "avatar": "https://img3.doubanio.com/icon/u66148371-1.jpg",
+      "content": "？ 建国之后可以成精了？"
+    },
+    {
+      "user": "Leith",
+      "avatar": "https://img3.doubanio.com/icon/u76168782-1.jpg",
+      "content": "【狐狸精】大家都是彼此人生的过客，总有一天，要踏上各自的旅途。\n【鱼精】当年的那份遗憾始终忘不了。\n【鹅精】说别人的钱不是正道来的，要真的有旁门左道，你肯定第一个冲过去!\n【泰迪精】性骚扰这件事，不分文化高低，你要是犯了，又得挨罚!\n【蚯蚓精】梦想和现实，永远是两条不同的路。\n【水熊虫】无法长久的陪伴，在一起只会增加痛苦。"
+    },
+    {
+      "user": "🤔",
+      "avatar": "https://img3.doubanio.com/icon/u162943228-2.jpg",
+      "content": "好看！！！！各种小故事，有搞笑的，有感人的，胡笑那一个看的我想哭，虽然对陈赫本人有点意见，但他的演技是真不错，王子文这个酷girl也很棒，变男人这个点真是太搞笑了哈哈哈"
+    },
+    {
+      "user": "梦一场",
+      "avatar": "https://img3.doubanio.com/icon/u190014018-1.jpg",
+      "content": "很搞笑"
+    },
+    {
+      "user": "淡泊明志9837",
+      "avatar": "https://img3.doubanio.com/icon/u153124232-3.jpg",
+      "content": "终于有个想看的电视剧了 为什么还要等更新。。。"
+    },
+    {
+      "user": "大树和莲",
+      "avatar": "https://img3.doubanio.com/icon/u193720779-1.jpg",
+      "content": "特别棒！这才是科幻奇幻剧的正确打开方式！我看到第十集了，最好看的故事是蚯蚓精的分身。对，这个剧就是讲各种动物类妖精的故事，别再说什么建国后不准成精啦。男女主感情线也很别具一格，你还在别的剧里见过女主是一只烦恼22岁之后就要变形为男的黄鳝精吗哈哈哈哈哈哈。男二女二的感情线好评，吹爆唐晓天，看好他能火，盘正条顺的大帅哥一枚啊！目前为止，除了女主的男化妆扮我觉得很奇怪以外，这部剧其他细节我认为都做得非常好，演员、编剧、道具、镜头都值得表扬！而且这部剧在重庆拍的，重庆城市的魔幻色彩很好地融合进了这个魔幻的故事！"
+    },
+    {
+      "user": "Song.仔🙈",
+      "avatar": "https://img3.doubanio.com/icon/u151701311-1.jpg",
+      "content": "新神剧！"
+    },
+    {
+      "user": "青橘",
+      "avatar": "https://img3.doubanio.com/icon/u133766553-11.jpg",
+      "content": "全部看完了 确实不错 7.5绝对有 演的动物 其实叙的是人事 基本都是妖（人）的一生的选择 最喜欢蚯蚓分身那一集  最精彩的是最后两集 节奏快 这种铺垫一下子展开的感觉特别爽 \n这剧的名字也很有意思 郝运没有好运 吴爱爱不会爱 Kevin周一点都不洋气 就像每篇故事一样 看似无厘头 细想有深意\n事实证明 尺度放开了 我们的文化底蕴 我们的各种神话 我们的牛鬼蛇神各种传说 是我们的特色 好好的拍出来真的可以很好看 这和封建迷信是不一样的 可惜 这部剧也是被阉割的 好好的妖管局（口型）成了动管局（后期配音）\n\n我是大哥大都能9分 这剧7.6怎么了？不要因为国产就阴阳怪气的行吧 设定 剧情 节奏 演员 目前为止表现都不错啊"
+    },
+    {
+      "user": "在云端",
+      "avatar": "https://img3.doubanio.com/icon/u43977507-12.jpg",
+      "content": "居然意外的好看，哈哈，陈赫真搞笑！"
+    },
+    {
+      "user": "柚二",
+      "avatar": "https://img3.doubanio.com/icon/u87737144-1.jpg",
+      "content": "为编剧打call"
+    },
+    {
+      "user": "violetlmf",
+      "avatar": "https://img3.doubanio.com/icon/u1229710-2.jpg",
+      "content": "编剧太有才了吧！"
+    },
+    {
+      "user": "西桥",
+      "avatar": "https://img3.doubanio.com/icon/u4657391-15.jpg",
+      "content": "集结了各种不能过审的元素，这还是个原创剧本，只有后面不烂尾就好。P.S里面某个人物是我们领导的名字，好出戏……"
+    },
+    {
+      "user": "张小葡萄",
+      "avatar": "https://img3.doubanio.com/icon/u2229972-2.jpg",
+      "content": "这个题材电影一般，电视剧还挺有意思的"
+    },
+    {
+      "user": "Visure⭐",
+      "avatar": "https://img3.doubanio.com/icon/u139452172-2.jpg",
+      "content": "这个题材能播出来就是惊喜了！\n哈哈哈哈"
+    },
+    {
+      "user": "时夜",
+      "avatar": "https://img3.doubanio.com/icon/u193309789-3.jpg",
+      "content": "很有意思，好久没有看这种笑点“低俗”（第三集全集讲放屁）但是又低俗得有意思的喜剧了。现在看到第四集，金鱼精的故事，有点感慨，会继续追的。"
+    },
+    {
+      "user": "受骗体质寡女青",
+      "avatar": "https://img3.doubanio.com/icon/u138829136-10.jpg",
+      "content": "毫无逻辑，处处bug，用脚丫子就能写出来的剧情。"
+    },
+    {
+      "user": "猫问",
+      "avatar": "https://img3.doubanio.com/icon/u135540962-61.jpg",
+      "content": "为第四集于大爷打call。➕一🌟"
+    },
+    {
+      "user": "无心恋战 去吧",
+      "avatar": "https://img3.doubanio.com/icon/u182228362-2.jpg",
+      "content": "本来没有期待，跳过了前两集后面越看越有意思，每个人物单拎出来都可以出个番外，导演有点意思，用心了啊！BTW自杀虫🐛那位真的太搞笑了！"
+    },
+    {
+      "user": "The Monster",
+      "avatar": "https://img3.doubanio.com/icon/u159372384-1.jpg",
+      "content": "有点武林外传的意思"
+    },
+    {
+      "user": "雪盲",
+      "avatar": "https://img1.doubanio.com/icon/u1172326-28.jpg",
+      "content": "一口气看了12集，非常喜欢。因为导演是我在北京电影圈里最要好的朋友，全剧组我几乎都认识，所以反而羞答答的。关于她的优点或缺点，私下都讲完了，不知道说啥。而且近乎诡异地，我觉得她的荣辱与我有关。推荐，属于那种往后看更好看的剧。"
+    },
+    {
+      "user": "我的ABC",
+      "avatar": "https://img3.doubanio.com/icon/u34011099-10.jpg",
+      "content": "借动物喻人类，嬉笑怒骂皆是故事。"
+    },
+    {
+      "user": "NoTeaNoShade",
+      "avatar": "https://img3.doubanio.com/icon/u103277074-12.jpg",
+      "content": "第一集觉得什么鬼东西啊，后面看看还挺好看的，起码比现在电视上播的几部好看多了。"
+    },
+    {
+      "user": "perfume",
+      "avatar": "https://img3.doubanio.com/icon/u150542197-4.jpg",
+      "content": "有的剧是装逼的难看，这个剧是傻逼到好看"
+    },
+    {
+      "user": "Mia",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "果不其然一集弃剧的真的很多，如果只看一集基本都会打一星，相信我一定要坚持看完四集，你会回来改分数的\n前面三集特别特别沙雕，加菲猫发春，狐狸精放屁，王子文变人妖，我真不敢想象陈赫王子文竟然会接这种网剧，事实证明，好演员演什么戏都能看得下去，第四集开始正经，老鱼精洄游把我感动到了，然后越往后越好看，一定一定要看下去"
+    },
+    {
+      "user": "雾与酒馆",
+      "avatar": "https://img3.doubanio.com/icon/u157067365-5.jpg",
+      "content": "故事本身比什么都重要"
+    },
+    {
+      "user": "jaywest",
+      "avatar": "https://img3.doubanio.com/icon/u57776642-3.jpg",
+      "content": "很有意思，不落俗套"
+    },
+    {
+      "user": "greenpine",
+      "avatar": "https://img3.doubanio.com/icon/u49828405-4.jpg",
+      "content": "曾小贤除了能演曾小贤，别的什么也演不了，演技尴尬的要命"
+    },
+    {
+      "user": "Mr-老魏",
+      "avatar": "https://img3.doubanio.com/icon/u145135177-4.jpg",
+      "content": "什么烂七八糟的"
+    },
+    {
+      "user": "苏七月",
+      "avatar": "https://img1.doubanio.com/icon/u122481262-9.jpg",
+      "content": "鱼的那个案子挺感人的"
+    },
+    {
+      "user": "会洗澡的芒果",
+      "avatar": "https://img3.doubanio.com/icon/u161222942-1.jpg",
+      "content": "剧情结构 还有节奏 已经完爆了一溜的网剧 虽有瑕疵 但那满满的诚意和用心 一眼就能看出来 附：蚯蚓的演技爆表"
+    },
+    {
+      "user": "裳竭",
+      "avatar": "https://img3.doubanio.com/icon/u59073966-15.jpg",
+      "content": "害挺好玩哒！！小细节很尊重观众，甚至有点灵摆当时给的惊艳的意思。ch这次演的真的挺不错，也不能就一棍子打死了吧。"
+    },
+    {
+      "user": "颠覆历史",
+      "avatar": "https://img3.doubanio.com/icon/u90190793-5.jpg",
+      "content": "与二代妖精似乎是同一框架，题材新颖，节奏不错的网剧，干净踏实，每一集都能讲好一个故事，五星观望。"
+    },
+    {
+      "user": "豆瓣脑脑",
+      "avatar": "https://img3.doubanio.com/icon/u152490024-1.jpg",
+      "content": "本来以为是普通的垃圾网剧，没想到意外的好看！"
+    },
+    {
+      "user": "锤子锤向日葵",
+      "avatar": "https://img3.doubanio.com/icon/u51933386-2.jpg",
+      "content": "看了动物管理局，感觉剧情设定很棒，制作精良，画面色调看起来也舒服，演员演技也是没得挑，最喜欢周黑丫，唯一不足的是为什么只有二十四集呀。"
+    },
+    {
+      "user": "Pikapikachoo",
+      "avatar": "https://img3.doubanio.com/icon/u155171026-2.jpg",
+      "content": "太好笑了叭 笑到肚子痛 可追👌"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "在这么多年的网剧中至少可以排前五的作品，不光光是一部好玩的剧集，也是一部有温度的剧集，以效仿《黑衣人》的设定讲述着《顽主》式的故事，角色写得生动，单元剧本写得有灵魂，遗憾是碍于预算没有很好地诠释好主线剧情，前两集的代入和后两集的收尾都不尽如人意。"
+    },
+    {
+      "user": "life",
+      "avatar": "https://img3.doubanio.com/icon/u169676505-1.jpg",
+      "content": "国产黑镜啊 。一集一个讽刺 ，神剧预定 ，本土剧尺度够用，荒诞风格但是故事讲的很到位。"
+    },
+    {
+      "user": "思想江化",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "真的不错，脑洞特效都还可以"
+    },
+    {
+      "user": "明朗如春",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "本来随便看看的，结果根本停不下来，笑点节奏非常好，编剧这脑洞太大了。很适合下班后不想用脑的时候看。"
+    },
+    {
+      "user": "金刚小白菜",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "尺度有点大哦  讽刺的真到位  "
+    },
+    {
+      "user": "今天睡到胡彬了",
+      "avatar": "https://img3.doubanio.com/icon/u184669488-1.jpg",
+      "content": "每一集除了搞笑还有很深的寓意，小演员也有敬业的大梦想，活的久不如与爱人安稳度世，好久没看见这么好看的网剧，强推"
+    },
+    {
+      "user": "井上多罗",
+      "avatar": "https://img3.doubanio.com/icon/u38310657-5.jpg",
+      "content": "好看好玩，陈赫真是很能演这种角色"
+    },
+    {
+      "user": "中秋节快乐🎑",
+      "avatar": "https://img3.doubanio.com/icon/u130157693-6.jpg",
+      "content": "噗……"
+    },
+    {
+      "user": "xiaoyu",
+      "avatar": "https://img3.doubanio.com/icon/u35495585-1.jpg",
+      "content": "动管局的片头动画真的好玩呀，给整部剧增添了动漫风，剧情轻松搞笑无厘头，还有悬疑的元素，是部能吸引人看下去的好剧。"
+    },
+    {
+      "user": "君惜凉",
+      "avatar": "https://img3.doubanio.com/icon/u147869325-2.jpg",
+      "content": "我今晚看完了第24集，真的希望各位不要看到演员或者是第一集就觉得这是个无脑喜剧片，起初我对这部剧的预期很低，万万没想到这部剧披着喜剧的外衣的以一种脑洞大开的方式讲起了人生，反映社会现象，悬疑反转？有。搞笑幽默？有。温情感人？也有。实在是2019年国产片不可多得的一部好剧！"
+    },
+    {
+      "user": "临兵斗者",
+      "avatar": "https://img3.doubanio.com/icon/u2830852-12.jpg",
+      "content": "没有期望才会觉得轻松好玩\n两位主演都是演了适合自己的角色, 比如陈赫的喜剧天赋在这部戏里面发挥的淋漓尽致,这些掩住了其演技上的瑕疵."
+    },
+    {
+      "user": "不是新之助",
+      "avatar": "https://img1.doubanio.com/icon/u152262877-9.jpg",
+      "content": "城乡结合部黑衣人，太喜欢王子文了。"
+    },
+    {
+      "user": "liangjian",
+      "avatar": "https://img3.doubanio.com/icon/u146234352-1.jpg",
+      "content": "近期看过的最好的国产片，非常非常非常的精彩"
+    },
+    {
+      "user": "鲜榨丨土豆泥",
+      "avatar": "https://img3.doubanio.com/icon/u164793016-2.jpg",
+      "content": "居然真的还不错。虽然不值五星，但四星有了。而我给了五星是因为不想因为陈赫自带的易黑属性拉低了这部难得的在用心讲故事的好剧。"
+    },
+    {
+      "user": "伽蓝瓷",
+      "avatar": "https://img1.doubanio.com/icon/u51825030-7.jpg",
+      "content": "真好看，内容喜剧，无厘头不反感的剧。梗玩的好并不无脑，怀疑开车没证据。水熊虫，黄鳝，蚯蚓，建国后不许成精！男人是鳝变得这千层梗是要笑死我...！"
+    },
+    {
+      "user": "旧茶山",
+      "avatar": "https://img3.doubanio.com/icon/u165490084-6.jpg",
+      "content": "意料外的敢讲敢拍，很多原以为的禁点借由动物的方式讲出来，好几个单元故事真的精彩，尤其蚯蚓精的很赞。当然也有些浮于表面，不过剧的意义值得点赞表扬。"
+    },
+    {
+      "user": "Tang·qi",
+      "avatar": "https://img3.doubanio.com/icon/u172833972-1.jpg",
+      "content": "陈赫＋猫 我爱的组合  轻松搞笑  喜欢"
+    },
+    {
+      "user": "西伯利亚人",
+      "avatar": "https://img1.doubanio.com/icon/u179250421-7.jpg",
+      "content": "很有趣，也揭示了很多社会现象，不错"
+    },
+    {
+      "user": "大拉链",
+      "avatar": "https://img3.doubanio.com/icon/u29544176-41.jpg",
+      "content": "E09·虚无主义水熊虫赛高，竟然看哭。"
+    },
+    {
+      "user": "正义B胜",
+      "avatar": "https://img3.doubanio.com/icon/u43177047-3.jpg",
+      "content": "工作关系二倍速看了前12集，平心而论，可以给个三星半"
+    },
+    {
+      "user": "刺毛君",
+      "avatar": "https://img3.doubanio.com/icon/u171455136-1.jpg",
+      "content": "刨除男主之前的种种行为，这个剧真的不错。"
+    },
+    {
+      "user": "阿萨萨",
+      "avatar": "https://img3.doubanio.com/icon/u181924385-1.jpg",
+      "content": "可以的可以的，主创很有创意，各个小故事可不就是借着禽兽皮讲着禽兽不如的故事吗"
+    },
+    {
+      "user": "KAIXINDEMALIU",
+      "avatar": "https://img3.doubanio.com/icon/u194699258-4.jpg",
+      "content": "好看，新颖，而且集数不长不劝客"
+    },
+    {
+      "user": "今天早睡喔",
+      "avatar": "https://img1.doubanio.com/icon/u87349053-9.jpg",
+      "content": "我觉得很好看啊！！！\n最近有剧追了，脑洞好大，千篇一律的古装玄幻或者校园爱情里，真的给人眼前一亮！"
+    },
+    {
+      "user": "执笔梦一场",
+      "avatar": "https://img3.doubanio.com/icon/u172987998-5.jpg",
+      "content": "预告带感，是我喜欢的风格，轻松加奇幻的剧情甚得我心"
+    },
+    {
+      "user": "塔格利安的龙蛋",
+      "avatar": "https://img1.doubanio.com/icon/u154883921-7.jpg",
+      "content": "拍摄地好多都是在重庆，爱了\n王子文好有意思，很适合这种酷妹角色\n这部剧的设定我喜欢\n"
+    },
+    {
+      "user": "Angrybabe",
+      "avatar": "https://img3.doubanio.com/icon/u1916655-21.jpg",
+      "content": "第9集最搞笑，演男水熊虫精的演员很有喜剧功底。很好的下饭剧，有些集也会触碰到一些社会或人生稍有些深度的内容。\n原本感觉不错，最后两集烂尾了，减一星。本来最后剧情就没什么悬疑，用脚趾头就能猜出来，演技还有些尬，尤其是男一，让人分分钟出戏。真的是难为了后期剪辑，那么点内容能凑两集。"
+    },
+    {
+      "user": "明年研一！",
+      "avatar": "https://img3.doubanio.com/icon/u133606581-1.jpg",
+      "content": "一看只有24集我就觉得这会是一部好片"
+    },
+    {
+      "user": "我是一粒小灰尘",
+      "avatar": "https://img3.doubanio.com/icon/u53635845-4.jpg",
+      "content": "男主别这么浮夸行不行，演戏不是上综艺啊"
+    },
+    {
+      "user": "豆豆",
+      "avatar": "https://img3.doubanio.com/icon/u132244649-10.jpg",
+      "content": "很搞笑，那只加菲大叔，真的以后我都不敢瞎抱我家加菲了，还有王子文，不要逼我嫁给你，以后不要乱变身了"
+    },
+    {
+      "user": "命题可逆",
+      "avatar": "https://img3.doubanio.com/icon/u172766821-3.jpg",
+      "content": "过审就是胜利！好有趣！"
+    },
+    {
+      "user": "琦琦说",
+      "avatar": "https://img3.doubanio.com/icon/u148183694-1.jpg",
+      "content": "一口气八集，有搞笑也有眼泪，用妖怪的名义讲人生百态，好看，必须五星"
+    },
+    {
+      "user": "LRC17171",
+      "avatar": "https://img3.doubanio.com/icon/u140081511-3.jpg",
+      "content": "给配角、剧本点赞，沙雕但却感人即所谓的有趣， 它揭露的社会情感伤疤，到结局也轻轻贴下一个创口贴"
+    },
+    {
+      "user": "咩咩羊",
+      "avatar": "https://img3.doubanio.com/icon/u158973012-1.jpg",
+      "content": "脑洞不错，终于有部能看的了"
+    },
+    {
+      "user": "XiMu",
+      "avatar": "https://img3.doubanio.com/icon/u140218319-5.jpg",
+      "content": "略一般的水平，每集看得出来想加一些深层的东西，但是对这些点的表现力不够强。单元剧的形式不错，每一个故事的选材和设计可以再多一些。\n总体来说，定位也不是很明确，黑色幽默用的不好，结果搞笑不足；故事的选材、设计不够用心，结果该深入的地方也算不上深入。\n题材还是比较新颖的，有一些画面，光影的应用不错的。"
+    },
+    {
+      "user": "柠柠",
+      "avatar": "https://img3.doubanio.com/icon/u41050839-36.jpg",
+      "content": "终于有评分了！这么优秀的剧必须安利，有主线，每一集三十分钟有小副线也十分符合社会大背景很有深远意义。喜欢赫赫搞笑风格，王子文小小一只又霸气很像自己。\r\r\r推荐"
+    },
+    {
+      "user": "chicaokong",
+      "avatar": "https://img3.doubanio.com/icon/u14508326-2.jpg",
+      "content": "竟然还挺好看。"
+    },
+    {
+      "user": "hhhlll",
+      "avatar": "https://img3.doubanio.com/icon/u167447212-12.jpg",
+      "content": "陈赫真的适合这种贱贱的角色 王子文黄鳝设定也很敢！！我特喜欢虫子说的话 孤独太难熬了！ 活在当下不是我自己要求的！确实 谁能说谁过得怎样呢 能毫无负担要去自杀的人 他一定是快乐的！一定是享受这个过程的！"
+    },
+    {
+      "user": "你这个野菜。",
+      "avatar": "https://img1.doubanio.com/icon/u44378425-18.jpg",
+      "content": "打个鼓励分 题材和内容都很好 就是陈赫表演老看到他自己的影子"
+    },
+    {
+      "user": "take it easy",
+      "avatar": "https://img3.doubanio.com/icon/u2381190-10.jpg",
+      "content": "脑洞大，情节居然合理。挺适合陈赫的，王子文也很本色，希望有其他层次的表演。我看完了，下饭～"
+    },
+    {
+      "user": "老卡子",
+      "avatar": "https://img3.doubanio.com/icon/u191213777-1.jpg",
+      "content": "演水熊虫的哥哥长得好像低配版的高桥一生（高桥一生的粉丝不要打我）。"
+    },
+    {
+      "user": "少年垂暮",
+      "avatar": "https://img3.doubanio.com/icon/u29306053-2.jpg",
+      "content": "特别精彩！！"
+    },
+    {
+      "user": "失语 .者",
+      "avatar": "https://img1.doubanio.com/icon/u138371911-8.jpg",
+      "content": "很长时间不看剧了，《动物管理局》是因为王子文看的。没想到给我带来了惊喜，先不说演技好不好，每一集的故事，抛开设定来说，其实梗都挺老的，但胜在有新东西在里面。每一个故事都带给我们不一样的感动，有点像《灵魂摆渡》的故事套路，但这些套路真的都很好。除了吴爱爱变身之后有点油腻之外哈哈，很不错的网剧。"
+    },
+    {
+      "user": "游在云中的鱼",
+      "avatar": "https://img3.doubanio.com/icon/u161801390-3.jpg",
+      "content": "动物管理局是什么神仙剧情啊，编剧真的厉害啦，好久没有看过这么有意思的剧了，剧情真的各种转，完全让你预料不到！\n陈赫真的好适合演这类型的角色啊，真的好好笑啊，get到了演技\n"
+    },
+    {
+      "user": "元洱_",
+      "avatar": "https://img1.doubanio.com/icon/u48962062-18.jpg",
+      "content": "目前看来还意外的不错。虽然陈赫劝退，但题材新颖，前几集节奏有点差，情节也有些尴尬，后面渐入佳境，特别是许智那俩集，充分运用到了动物的特性😂别说，折剧用了好多冷门种类。陈赫演技真是演谁都是曾小贤，虽然不太差吧，但是被王子文吊打的太明显。话说拍摄地是重庆也，感觉重庆在影视剧出现的频率越来越高了。社长竟然是龙叔！"
+    },
+    {
+      "user": "曾不厌",
+      "avatar": "https://img3.doubanio.com/icon/u132903232-4.jpg",
+      "content": "现在的网剧真是碾压上星剧，看看卫视台的巨幂幂和我的大宝贝，再看看这部剧简直有救命的功效。\r剧情很有意思，沙雕搞笑之余还小小地惹人思考。这才是电视剧身为一种娱乐方式应该有的价值，而不是各种00年的梗一遍一遍玩，在观众的智商下限边缘疯狂试探。"
+    },
+    {
+      "user": "随便啦啦啦",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "强推，请对国产剧不要太苛刻，这么好的剧，竟然只有7.5分！\r脑洞五星，剧情四星，有趣的梗五星，人设六星！！！"
+    },
+    {
+      "user": "颖  15612467071",
+      "avatar": "https://img3.doubanio.com/icon/u180789100-1.jpg",
+      "content": "我喜欢这个电视剧，剧情很可爱，王子文变身特效有点一言难尽，但是不影响我喜欢这个剧，棒哦！"
+    },
+    {
+      "user": "喜东东",
+      "avatar": "https://img3.doubanio.com/icon/u164421076-2.jpg",
+      "content": "哈哈哈哈哈哈哈哈哈哈\n希望我是老虎精"
+    },
+    {
+      "user": "乌鸦火堂",
+      "avatar": "https://img3.doubanio.com/icon/u2297669-12.jpg",
+      "content": "虽然原著设定照搬黑衣人，但对比黑衣人4混得惨样，该剧表现出来的趣味性和脑洞是值得肯定。代入感其实不太好，主要是主角再加上陈赫开始太嘚瑟，转化者形象也不讨喜，但后面世界观展开后就好玩了，趣味性+现实，讽刺蚯蚓那集很喜欢，水熊虫那集好玩，20多集单元剧质量参差，但整体值得一看，PS，比电影版好"
+    },
+    {
+      "user": "水果先森",
+      "avatar": "https://img3.doubanio.com/icon/u108569193-2.jpg",
+      "content": "如果是原创剧情，还是可以看的，轻松搞笑，水虫熊真的太招人喜欢了。蚯蚓精可以分身，黄鳝精会变性这种和动物本身特质结合的技能好妙啊。老郭还没上线，等着看郭京飞呢。"
+    },
+    {
+      "user": "墨朕",
+      "avatar": "https://img3.doubanio.com/icon/u190919810-4.jpg",
+      "content": "又是东抄西借 ……拍得也尴尬"
+    },
+    {
+      "user": "Summer",
+      "avatar": "https://img3.doubanio.com/icon/u47701380-80.jpg",
+      "content": "蛤？题材新颖？这么明显的抄袭《黑衣人》  "
+    },
+    {
+      "user": "Aodamiao",
+      "avatar": "https://img3.doubanio.com/icon/u104256392-3.jpg",
+      "content": "为什么要跟破冰行动比？"
+    },
+    {
+      "user": "Neroat",
+      "avatar": "https://img1.doubanio.com/icon/u58426455-9.jpg",
+      "content": "每个案子都不错，有一定的现实意义，挺好看的，剧情和题材有趣，就是陈赫有点出戏，男女主太没cp感了。三星半水准，多打半星以资鼓励。"
+    },
+    {
+      "user": "噫y7y呀",
+      "avatar": "https://img3.doubanio.com/icon/u185517393-2.jpg",
+      "content": "哲理+剧情+颜值+搞笑\n值得一看！\n宝藏男二！别和我抢！"
+    },
+    {
+      "user": "女生徒",
+      "avatar": "https://img3.doubanio.com/icon/u95856524-3.jpg",
+      "content": "看了十集，选角儿什么的都不错！相对于一色活跃的古装翻拍剧，这个真滴很新颖，基本上一集一个小故事，希望不会烂尾"
+    },
+    {
+      "user": "景色分明o_0",
+      "avatar": "https://img3.doubanio.com/icon/u155001680-3.jpg",
+      "content": "就凭第九集第十集我能给十分！！！"
+    },
+    {
+      "user": "任腾",
+      "avatar": "https://img3.doubanio.com/icon/u152074202-1.jpg",
+      "content": "在我最不快乐的时候给了我快乐"
+    },
+    {
+      "user": "E调的华丽",
+      "avatar": "https://img3.doubanio.com/icon/u121147474-4.jpg",
+      "content": "蛇精病的剧适合我这种蛇精病"
+    },
+    {
+      "user": "鱼罐头",
+      "avatar": "https://img1.doubanio.com/icon/u1184588-7.jpg",
+      "content": "并不雷，很出乎意料。但是这个是怎么过审的？"
+    },
+    {
+      "user": "吼一起睡啊",
+      "avatar": "https://img3.doubanio.com/icon/u142036034-4.jpg",
+      "content": "我仿佛看到了又一个灵摆，真的还挺好看的\n一个个小单元故事，不落俗套，不轻易煽情，温馨又好笑(虽然陈赫怎么怎么怎么，但是曾小贤style我真的觉得很好笑"
+    },
+    {
+      "user": "～Monster °゜",
+      "avatar": "https://img3.doubanio.com/icon/u148977499-5.jpg",
+      "content": "编剧脑洞可以啊"
+    },
+    {
+      "user": "栗钠",
+      "avatar": "https://img3.doubanio.com/icon/u46506462-20.jpg",
+      "content": "绝了。好喜欢这种风格。"
+    },
+    {
+      "user": "老栗",
+      "avatar": "https://img1.doubanio.com/icon/u166091207-7.jpg",
+      "content": "在看有点意思这年头能让我发自肺腑真心笑出来的剧不多了"
+    },
+    {
+      "user": "爆米花教主",
+      "avatar": "https://img3.doubanio.com/icon/u64213791-15.jpg",
+      "content": "居然有龙斌！去年是地星人海星人，今年是转化人，强行科幻也是够拼，光腚局是激发想象力的神奇组织"
+    },
+    {
+      "user": "我是小黄的人",
+      "avatar": "https://img3.doubanio.com/icon/u189679781-1.jpg",
+      "content": "因角色需要变身男人，特效妆故意把形象丑化，王子文也是相当拼一女的！动物管理局中吴爱爱这个角色挺有意思，王子文也是很有演技，黄鳝精雌雄同体的魔幻设定相当精分搞笑。"
+    },
+    {
+      "user": "Fine",
+      "avatar": "https://img3.doubanio.com/icon/u149618516-11.jpg",
+      "content": "本来以为会是一部套上动物的悬疑探案的杀人剧情片，但出乎意料，看了前面10几集感觉挺有意思，案子都是生活中普遍存在的一些社会现象改编过来的，片中的三局一个动管局的破案分局，仿佛给我一个家的感觉。每个片中人物个性分明，一些夸张的刻画增添了许多喜剧效果。虽然集与集之间还是存在分化，但令人惊艳的是它总是能让你快速转换状态进入它所设定的节奏。上一秒的开怀大笑在下一秒变成同情。上一秒的惊心动魄下一秒变成了心中一暖。虽然没有看完但还是想打下分数，三局的关系真的有些打动我了。"
+    },
+    {
+      "user": "Anamnesis",
+      "avatar": "https://img1.doubanio.com/icon/u1667702-57.jpg",
+      "content": "设定挺有趣的 结尾是不接受的 社长的套路是最深的"
+    },
+    {
+      "user": "乘物以游心",
+      "avatar": "https://img3.doubanio.com/icon/u139170523-5.jpg",
+      "content": "搞笑沙雕又温情动人，优秀的喜剧作品，膜拜创作者的想象力，将转化者身上的人类属性与动物属性结合的很好"
+    },
+    {
+      "user": "死肥宅",
+      "avatar": "https://img3.doubanio.com/icon/u154740411-5.jpg",
+      "content": "沙雕版夏目友人帐，很搞笑"
+    },
+    {
+      "user": "刘小青",
+      "avatar": "https://img3.doubanio.com/icon/u3852910-23.jpg",
+      "content": "非常喜欢"
+    },
+    {
+      "user": "神行鹅宝",
+      "avatar": "https://img3.doubanio.com/icon/u1312080-4.jpg",
+      "content": "主角配角都在线，虽然刚开头觉得有点弱智，但是一旦接受了这个设定，就马上被吸引了，简直笑到头掉"
+    },
+    {
+      "user": "deborah",
+      "avatar": "https://img3.doubanio.com/icon/u155915944-2.jpg",
+      "content": "太精彩了!脑洞＋悬疑＋科幻＋萌+搞笑!制作也很棒，演技也满分!爱了爱了!太喜欢好爱cp"
+    },
+    {
+      "user": "曼靑",
+      "avatar": "https://img3.doubanio.com/icon/u3335015-210.jpg",
+      "content": "出乎意料的好看，有一种土土的有趣。假定人类和妥善隐藏的转化者（妖怪）共处的社会背景。动物管理局类似于警察局的设定，局长是驴精，探长是黄鳝精和豹子精，法医是兔子精。看似很西游记的设定，其实却很有现代剧风格。贱贱的人类兽医郝运和脾气异常暴躁的动物管理局探长吴爱爱 合力联手断案。每一个故事都根据一个动物的特性来安排。狐狸精的旧情人把储存起来的奇臭无比的狐狸屁放到商场里引发骚乱，身患洄游症的金鱼精老余一直活在电影片场的杀手戏里，蚯蚓精讲自己的身体一分为二后一个自己去了北京寻找音乐梦想、另一半留在父母身边陪伴。"
+    },
+    {
+      "user": "梵目",
+      "avatar": "https://img3.doubanio.com/icon/u74618752-14.jpg",
+      "content": "很有趣，影射也有，搞笑也有，教育也有。"
+    },
+    {
+      "user": "殇潮|Enigma",
+      "avatar": "https://img3.doubanio.com/icon/u1292181-376.jpg",
+      "content": "虽然创意不错，本质还是尬"
+    },
+    {
+      "user": "十万个我不知道",
+      "avatar": "https://img3.doubanio.com/icon/u92145098-3.jpg",
+      "content": "这剧要是把陈赫换成帅脸小新人，评分至少+1"
+    },
+    {
+      "user": "七阕",
+      "avatar": "https://img1.doubanio.com/icon/u147514342-19.jpg",
+      "content": "看到第七集的时候进入状态，追完12集感觉进入高潮剧情……我爱这种都市精灵题材啊啊啊啊"
+    },
+    {
+      "user": "教练我想吃冰",
+      "avatar": "https://img1.doubanio.com/icon/u133419207-17.jpg",
+      "content": "陈赫演技怎么那么差差差差差差差！虽然王子文声音难听台词也差，但是在陈赫的衬托下也算是合格辽。我一向很喜欢妖怪设定，这部剧也是这个设定吸引了我，去看了两集结果让人失望，剧情俗套，剧情发展也猜的八九不离十。一星给题材设定，一星给道具设计。"
+    },
+    {
+      "user": "DMc.Z",
+      "avatar": "https://img3.doubanio.com/icon/u46364699-5.jpg",
+      "content": "这。。一本正经的胡说八道也能说的这么尬"
+    },
+    {
+      "user": "碾",
+      "avatar": "https://img3.doubanio.com/icon/u62548957-4.jpg",
+      "content": "想法不错，可惜还是做成了弱智片。"
+    },
+    {
+      "user": "拉个彩虹屁",
+      "avatar": "https://img1.doubanio.com/icon/u173589518-7.jpg",
+      "content": "（1）动画片头我好喜欢喔:-O!!!!可以!/脑洞好大啊!动物也要管理的!可是他们长得都都好可爱ớ ₃ờ!!/陈赫长得真的好搞笑一人!讲话也好好笑:-D!(๑ت๑)♡（2）叽叽喳喳讲个不停的人好可爱好讨人喜欢啊哈哈哈）/王子文好飒一女的喔! （3）:放屁大赛冠军🏆!!!!嚯嚯嚯吼吼吼嘿嘿嘿!!!/:-(!孩子都只和爸爸妈妈报喜不报忧!!出了事给爸爸妈妈打电话直说没事没事!:-(!一瞬间我也有感触到!/我日到底被屁臭晕到底是怎么一种体验啊!哈哈哈๑_๑/爱爱变身原来变成肌肉猛男喔:-O!被夸man的小表情好可爱ớ ₃ờ! （4）:靓仔呸摩托简直堪比泡面配香肠 绝配!!!👋赞噢!!/小卞的隐身技能好宰啊!!简直太棒太宰了吧!!"
+    },
+    {
+      "user": "TOM",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "这片在我国能播出，不易啊，且看且珍惜吧。搞笑脑洞大开，好看😊"
+    },
+    {
+      "user": "丢丢乐",
+      "avatar": "https://img3.doubanio.com/icon/u47272998-5.jpg",
+      "content": "不想看感情线的可以跳过18，20和21集，其他部分都不错"
+    },
+    {
+      "user": "我执",
+      "avatar": "https://img3.doubanio.com/icon/u33612137-1.jpg",
+      "content": "很新颖的尝试"
+    },
+    {
+      "user": "我的左脚",
+      "avatar": "https://img3.doubanio.com/icon/u1509425-5.jpg",
+      "content": "作为网剧，很良心，也很好玩，虽有有时候硬搞梗～"
+    }
+  ]
+}

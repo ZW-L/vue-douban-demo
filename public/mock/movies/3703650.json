@@ -1,0 +1,1229 @@
+{
+  "title": "黑袍纠察队 第一季",
+  "url": "https://movie.douban.com/subject/3703650/",
+  "rate": "8.6",
+  "id": "3703650",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558948000.jpg",
+  "info": [
+    "导演: 菲利浦·斯格里西亚 / 丹尼尔·艾提奥斯 / 艾力克·克莱普科 / 詹妮弗·彭 / 斯特凡·施瓦茨 / 马特·沙克曼 / 弗雷德·托耶 / 丹·特拉亨伯格",
+    "编剧: 加思·恩尼斯 / 埃文·戈德堡 / 艾力克·克莱普科",
+    "主演: 卡尔·厄本 / 艾琳·莫里亚蒂 / 杰克·奎德 / 安东尼·斯塔尔 / 多米妮克·麦克艾丽戈特 / 杰西·厄舍 / 切斯·克劳福 / 托默·卡蓬 / 凯伦·福原 / 内森·米切尔 / 伊丽莎白·苏 / 拉兹·阿隆索 / 詹妮弗·艾斯波西多 / 西蒙·佩吉 / 肖恩·本森 / 安·库萨克 / 克里斯蒂安·凯耶斯 / 杰丝·萨尔盖罗 / 妮卡·埃利奥特 / 阿历克斯·哈赛尔 / 米什卡·特博 / 乔丹娜·拉茹瓦 / 马尔科姆·巴雷特 / 布列塔尼·艾伦 / 尼古拉·科雷亚·达姆得 / 斯科特·汤普森·贝克 / 珊特尔·范圣滕 / 大卫·安德鲁 / 大卫·瑞勒 / 布雷丹·贝塞尔 / 约翰·道曼 / 海利·乔·奥斯蒙 / 莱拉·罗宾斯 / 比利·赞恩 / 贾登·马丁 / 保利诺·努内斯 / 克里斯塔·巴科 / 德什伊·帕达亚奇",
+    "类型: 动作 / 科幻 / 犯罪",
+    "制片国家/地区: 美国",
+    "语言: 英语",
+    "首播: 2019-07-26(美国)",
+    "季数: 12",
+    "集数: 8",
+    "单集片长: 60分钟",
+    "又名: 男孩帮 / 黑衣小队 / 七痞郎 / 英雄克星"
+  ],
+  "desc": "《黑袍纠察队》（英语：The Boys）是一部超级英雄类型的美国网路电视影集，根据加斯·恩尼斯和达里克·罗伯逊的同名漫画改编，由埃里克·克里普基、伊凡·戈博和塞斯·罗根开创，预定于2019年7月26日在亚马逊影片首播。2019年7月，在剧集首播之前，亚马逊影片宣布预订第二季。\n                                    \n                                　　剧集讲述超级英雄在巨大的荣耀和名望之外的阴暗面，他们的存在让人们受到威胁，一支由前中央情报局组成的“黑袍纠察队”将出面制裁这些堕落的超级英雄。",
+  "members": {
+    "director": {
+      "name": "菲利浦·斯格里西亚 Philip Sgriccia",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1355119728.46.jpg"
+    },
+    "cast": [
+      {
+        "name": "卡尔·厄本 Karl Urban",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23097.jpg"
+      },
+      {
+        "name": "艾琳·莫里亚蒂 Erin Moriarty",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1556795643.73.jpg"
+      },
+      {
+        "name": "杰克·奎德 Jack Quaid",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51015.jpg"
+      },
+      {
+        "name": "安东尼·斯塔尔 Antony Starr",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564342302.39.jpg"
+      },
+      {
+        "name": "多米妮克·麦克艾丽戈特 Dominique McElligott",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1384935879.22.jpg"
+      },
+      {
+        "name": "杰西·厄舍 Jessie Usher",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1417706145.29.jpg"
+      },
+      {
+        "name": "切斯·克劳福 Chace Crawford",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20278.jpg"
+      },
+      {
+        "name": "托默·卡蓬 Tomer Kapon",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pv76_PwiHgkAcel_avatar_uploaded1518694995.84.jpg"
+      },
+      {
+        "name": "凯伦·福原 Karen Fukuhara",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554371942.04.jpg"
+      },
+      {
+        "name": "内森·米切尔 Nathan Mitchell",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564342588.6.jpg"
+      },
+      {
+        "name": "伊丽莎白·苏 Elisabeth Shue",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360940692.64.jpg"
+      },
+      {
+        "name": "拉兹·阿隆索 Laz Alonso",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31687.jpg"
+      },
+      {
+        "name": "詹妮弗·艾斯波西多 Jennifer Esposito",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13840.jpg"
+      },
+      {
+        "name": "西蒙·佩吉 Simon Pegg",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8176.jpg"
+      },
+      {
+        "name": "肖恩·本森 Shaun Benson",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1376020162.64.jpg"
+      },
+      {
+        "name": "安·库萨克 Ann Cusack",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6037.jpg"
+      },
+      {
+        "name": "克里斯蒂安·凯耶斯 Christian Keyes",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pv76_PwiHgkAcel_avatar_uploaded1526054428.39.jpg"
+      },
+      {
+        "name": "杰丝·萨尔盖罗 Jess Salgueiro",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518971199.81.jpg"
+      },
+      {
+        "name": "妮卡·埃利奥特 Nneka Elliott",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390017.51.jpg"
+      },
+      {
+        "name": "阿历克斯·哈赛尔 Alex Hassell",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pHOJXhM2nc1scel_avatar_uploaded1456842819.12.jpg"
+      },
+      {
+        "name": "米什卡·特博 Mishka Thébaud",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/ptPan_PhzgJkcel_avatar_uploaded1499449117.06.jpg"
+      },
+      {
+        "name": "乔丹娜·拉茹瓦 Jordana Lajoie",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390069.39.jpg"
+      },
+      {
+        "name": "马尔科姆·巴雷特 Malcolm Barrett",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1499921767.16.jpg"
+      },
+      {
+        "name": "布列塔尼·艾伦 Brittany Allen",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1430221843.34.jpg"
+      },
+      {
+        "name": "尼古拉·科雷亚·达姆得 Nicola Correia Damude",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p73Hy1rZmx08cel_avatar_uploaded1355135694.08.jpg"
+      },
+      {
+        "name": "斯科特·汤普森·贝克 Scott Thompson Baker",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p18656.jpg"
+      },
+      {
+        "name": "珊特尔·范圣滕 Shantel VanSanten",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13581.jpg"
+      },
+      {
+        "name": "大卫·安德鲁 David Andrews",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390112.85.jpg"
+      },
+      {
+        "name": "大卫·瑞勒 David Reale",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1430839111.57.jpg"
+      },
+      {
+        "name": "布雷丹·贝塞尔 Brendan Beiser",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1559141954.98.jpg"
+      },
+      {
+        "name": "约翰·道曼 John Doman",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21320.jpg"
+      },
+      {
+        "name": "海利·乔·奥斯蒙 Haley Joel Osment",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p25001.jpg"
+      },
+      {
+        "name": "莱拉·罗宾斯 Laila Robins",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7201.jpg"
+      },
+      {
+        "name": "比利·赞恩 Billy Zane",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45186.jpg"
+      },
+      {
+        "name": "贾登·马丁 Jaden Martin",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390160.49.jpg"
+      },
+      {
+        "name": "保利诺·努内斯 Paulino Nunes",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15013.jpg"
+      },
+      {
+        "name": "克里斯塔·巴科 Christian Bako",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485854696.78.jpg"
+      },
+      {
+        "name": "德什伊·帕达亚奇 Deshay Padayachey",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390205.35.jpg"
+      },
+      {
+        "name": "布列塔尼·德里斯代尔 Brittany Drisdelle",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1433645348.71.jpg"
+      },
+      {
+        "name": "马克·爱德华·刘易斯 Mark Edward Lewis",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390245.59.jpg"
+      },
+      {
+        "name": "克雷格·伯纳托夫斯基 Craig Burnatowski",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1556375784.89.jpg"
+      },
+      {
+        "name": "文森佐·卡尔瓦诺 Vincenzo Calvano",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564390354.43.jpg"
+      },
+      {
+        "name": "吉安卡罗·埃斯波西托 Giancarlo Esposito",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20746.jpg"
+      },
+      {
+        "name": "塞斯·罗根 Seth Rogen",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496749655.98.jpg"
+      },
+      {
+        "name": "吉米·法伦 Jimmy Fallon",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10749.jpg"
+      },
+      {
+        "name": "蔻碧·米纳菲 Colby Minifie",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564550667.69.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2563645683.jpg?",
+        "src": "http://vt1.doubanio.com/201908311511/9086621591728717062f31c7890d9421/view/movie/M/402500394.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2564308377.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2565435776.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2564308375.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2564308374.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "空语因明",
+      "avatar": "https://img3.doubanio.com/icon/u2774114-31.jpg",
+      "content": "如果说流行的超级英雄电影展示了模范政客的理想形象，那么黑袍纠察队展示的就是实际上很可能的样子。"
+    },
+    {
+      "user": "阿卷",
+      "avatar": "https://img3.doubanio.com/icon/u45417817-6.jpg",
+      "content": "什么可以统治超级英雄？答：资本和媒体。"
+    },
+    {
+      "user": "DrMatthew",
+      "avatar": "https://img3.doubanio.com/icon/u52143204-15.jpg",
+      "content": "这部剧的内核不是反英雄，而是反民众，符号人物生于民众，受需于民众，然后被资本家借来消费民众。为什么会这样？我们不是看不见黑暗，只是选择不去相信，我们有选择的权利，但我们选择了便捷选择了懒惰和依赖"
+    },
+    {
+      "user": "能猫桑",
+      "avatar": "https://img3.doubanio.com/icon/u41470087-6.jpg",
+      "content": "过去漫威的X战警里表现超能力者被追杀，暗含了多元取向的崛起；而在黑袍里平凡人对抗变坏的英雄，更多是对资本、娱乐、消费时代的抗议…"
+    },
+    {
+      "user": "goodjob",
+      "avatar": "https://img1.doubanio.com/icon/u157553247-8.jpg",
+      "content": "superhero天朝现实就有，伟大，正确，值得追随！"
+    },
+    {
+      "user": "Palefire",
+      "avatar": "https://img3.doubanio.com/icon/u52309571-50.jpg",
+      "content": "虽然七人队是黑化版正联+守望者，但里面的Vought公司对旗下超英每一个细节精打细算的营销，贩卖人设，打造观众爱看的情节，去医院探望绝症儿童……OK，迪士尼可以自己来认领"
+    },
+    {
+      "user": "小唧唧",
+      "avatar": "https://img1.doubanio.com/icon/u53706260-8.jpg",
+      "content": "剧终的最后一幕，绿草绿树绿成一片绿荫。"
+    },
+    {
+      "user": "睡不醒的LYC",
+      "avatar": "https://img1.doubanio.com/icon/u2522242-18.jpg",
+      "content": "设定有趣，故事无聊。海利·乔·奥斯蒙演一个能读心的过气童星……我感到了深深的恶意。"
+    },
+    {
+      "user": "难知如阴",
+      "avatar": "https://img3.doubanio.com/icon/u153875901-1.jpg",
+      "content": "你并不勇敢，人类才勇敢"
+    },
+    {
+      "user": "千古独来江山尽",
+      "avatar": "https://img3.doubanio.com/icon/u99910531-4.jpg",
+      "content": "不愧是邪典黑色极致的《传教士》作者的作品，以黄暴粗俗的表现形式，充满着对“超级英雄”流行文化的讽刺与现实批判，所谓的超级英雄不过是政治家资本家刻意迎合普通民众偶像崇拜心理之下的消费产物，在资本与舆论控制之下的完美包装，披着所谓“正义”的外表，却做着不为人知的勾当，如此深度的反讽解析“超级英雄”这一流行文化，自阿兰·摩尔《守望者》之后，始见《黑袍》。"
+    },
+    {
+      "user": "Angry River",
+      "avatar": "https://img3.doubanio.com/icon/u90859526-6.jpg",
+      "content": "完美契合这个时代的讽刺喜剧"
+    },
+    {
+      "user": "远野君",
+      "avatar": "https://img3.doubanio.com/icon/u36533870-5.jpg",
+      "content": "近几年最炸裂的超英剧，或者说是反超英剧：资本化的超英世界，超英是美国政府的黑手，各种幕后营销管理，各种恶心的潜规则，各种见不得光。整部剧打了超英一耳光，打了粉丝选择一耳光，打了偶像一耳光，甚至第5集打了宗教一耳光……分级是18+，够血腥，够重口，够真实，够有趣，特效不假，剧情不渣！"
+    },
+    {
+      "user": "拔刀诀",
+      "avatar": "https://img3.doubanio.com/icon/u1182787-1.jpg",
+      "content": "今年最好看的反超英类型的超英剧。超英就是一门生意，在剧中是，在现实中更是。"
+    },
+    {
+      "user": "four8",
+      "avatar": "https://img3.doubanio.com/icon/u142450828-14.jpg",
+      "content": "看了一集，震撼了！这个题材太棒了！超级“英雄”其实都是人渣，视人命如草芥，超级英雄成为商业，每一个英雄背后都是各种电影周边的巨大利益，超级英雄凌驾一切，普通人怎么反抗？"
+    },
+    {
+      "user": "ghost",
+      "avatar": "https://img3.doubanio.com/icon/u78743145-26.jpg",
+      "content": "憨片"
+    },
+    {
+      "user": "该用户己注销",
+      "avatar": "https://img1.doubanio.com/icon/u106162551-9.jpg",
+      "content": "前六分钟还觉得是很普通很套路的英雄美剧，第六分钟以后就简直起鸡皮疙瘩！那个慢动作看得出来导演野心很大！简直让我起了鸡皮疙瘩....追了追了"
+    },
+    {
+      "user": "人民北路的一条",
+      "avatar": "https://img1.doubanio.com/icon/u70659669-7.jpg",
+      "content": "一口气通宵剧"
+    },
+    {
+      "user": "牛奶很忙",
+      "avatar": "https://img3.doubanio.com/icon/u67679988-4.jpg",
+      "content": "讽刺商品社会的超级英雄比内战来的狠多了，强化过的守望者吧，有点眼前一亮。带劲！"
+    },
+    {
+      "user": "_witch2",
+      "avatar": "https://img3.doubanio.com/icon/u1575967-30.jpg",
+      "content": "实在太坑了，所以我不喜欢看剧，看完感觉白白浪费了一整天。本来看设定很有趣，普通人怎么因为仇恨组团逆袭超能力者，很多关于当今消费主义和公关营销的反讽，前几集也还挺有意思。结果后面几集完全变成了狗血言情剧，又是廉价的反转，为下一季挖坑，男主再也不用动脑全凭狗屎运还玩圣母，结局简直看得我像吃了苍蝇一样………………地雷预警，千万别被评分骗了，估计都是刚看了前几集就来打分的人拉高的"
+    },
+    {
+      "user": "陆冠均",
+      "avatar": "https://img3.doubanio.com/icon/u157887545-3.jpg",
+      "content": "反主流黄暴超英剧！过瘾！\n当“超级英雄”变成了一件接地气的生意时，世界将变成怎样？\n究竟又是什么让人变成英雄，是超能力，还是“正义之心”？\n感觉此剧一出，整个超英题材都要经历一次洗礼了！"
+    },
+    {
+      "user": "凌睿",
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "content": "英雄电影看过很多，反派电影也看过很多，但这种反派冒充成英雄招摇撞骗、欺世盗名确实很新颖。\n第1集就全程高能，人们心目中的救世主、正义的化身，竟然全都是衣冠禽兽。\n新人刚刚加入超级七人组，就惨遭超级英雄潜规则，如果不服从就威胁你。\n火车头撞死无辜百姓，非但没觉得自己做错了，反而当成笑话讲给别人听。\n透明人是个猥琐大叔；祖国人表面是圣人实则是伪君子；知道超级英雄的黑料的人会被杀人灭口；被超级英雄伤害的人得不到一个真诚的道歉……\n他们整天在打坏蛋，其实他们就是最大的坏蛋。\n越看到后面越可怕：他们眼睁睁看着受害者死去却不救他们，反而还甩锅给议员不让他们进入国家防御系统。\n没有反派可打了，他们就自己造反派来打。\n甚至他们有超能力的原因都隐藏着一个巨大的秘密。\n更可怕的是，百姓还被蒙在鼓里，以为他们真的是英雄。"
+    },
+    {
+      "user": "V.",
+      "avatar": "https://img1.doubanio.com/icon/u176122983-29.jpg",
+      "content": "刚开始还行，后面都是些什么东西？集数缩减一下会更好"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "不仅黑DC、辱漫威，反讽反得体无完肤，而且矛头设置很巧妙——针对超级英雄文化的恶趣味只是浅层的设计，深层是通过“再造社会”来牵涉消费社会的几乎所有面向，这让它在设定上要广泛于《超人总动员2》甚至《鸟人》。论文例子MARK。而且拍得也爽，沙雕低俗喜剧、快节奏、怪谈风味，给人贯彻一种“看不顺眼那就滚”的粗鲁直接感。结局也写得清奇，咋看之下挺烂的，但又峰回路转、达成对批判的自反。"
+    },
+    {
+      "user": "柯里昂",
+      "avatar": "https://img3.doubanio.com/icon/u3907507-10.jpg",
+      "content": "只有概念有趣，虽然不知道漫画是怎么个玩法，但剧集把“超英”扒得底裤不剩还真有点跟漫威之流对着干的意思，不过从人设的山寨感到一众路人脸的选角都让这部剧显得底气不足，拍得也是一集不如一集，后面几集甚至有些小家子气，以及整体质感也略廉价...Amazon是把钱都投给《指环王》了吗，嗯应该是。"
+    },
+    {
+      "user": "小林鳟",
+      "avatar": "https://img3.doubanio.com/icon/u48598074-963.jpg",
+      "content": "祖国人可以说是非常非常变态了"
+    },
+    {
+      "user": "宋先生",
+      "avatar": "https://img3.doubanio.com/icon/u102070947-1.jpg",
+      "content": "没啥深度，口水片，挺套路的剧情"
+    },
+    {
+      "user": "亵渎电影",
+      "avatar": "https://img3.doubanio.com/icon/u3995080-211.jpg",
+      "content": "继续啃，忍不住来先标一下，日后可以对标10月份即将开播的HBO美剧版《守望者》了吧。"
+    },
+    {
+      "user": "高达君-",
+      "avatar": "https://img3.doubanio.com/icon/u6071212-24.jpg",
+      "content": "高度商业化的英雄社会，像极了娱乐圈。"
+    },
+    {
+      "user": "马赛克",
+      "avatar": "https://img3.doubanio.com/icon/u45460966-6.jpg",
+      "content": "这个深海人跟机器鸡DC特辑的海王高度吻合...除了噱头之外的部分都挺平庸的，这种节奏是漫画的那种硬切pov，但观看起来可是太难受了。"
+    },
+    {
+      "user": "Jin Unrated",
+      "avatar": "https://img3.doubanio.com/icon/u1665693-355.jpg",
+      "content": "Antony Starr 把 Homelander 演得太好了，我觉得未来几年内观众都会记得他皮笑肉不笑的样子和他疯狂的人物设定。剧集总的来说是用 wft moments 和黑色喜剧的光彩掩盖了 cliche 和 plotholes，荒诞但又不显得太 edgy，很清新。"
+    },
+    {
+      "user": "芦哲峰",
+      "avatar": "https://img1.doubanio.com/icon/u1329080-9.jpg",
+      "content": "反超级英雄片，黑得飞起。其实何止超级英雄，一切伟光正的背面莫不如是：黑暗、虚伪、肮脏，全是些见不得人的勾当。"
+    },
+    {
+      "user": "桃桃林林",
+      "avatar": "https://img3.doubanio.com/icon/u1032989-51.jpg",
+      "content": "反超级英雄的黑暗剧，还是自带看点的。尤其是对超级英雄流行文化的恶搞，也非常容易对号入座了。能力越大责任越大对应的就是权力越大欲望也就越大。前面更厚，最后的发展略弱，但整体还是不错的。拿超人娃娃当枪使，也算是全剧最大笑点了"
+    },
+    {
+      "user": "Breeze",
+      "avatar": "https://img3.doubanio.com/icon/u66713336-2.jpg",
+      "content": "母控的大超，双性恋的WW，不漏下巴的老爷（更像夜枭吧），毒虫闪闪，玻璃心的海王，真nm刺激。BTW星光真是小天使！"
+    },
+    {
+      "user": "天涯",
+      "avatar": "https://img3.doubanio.com/icon/u55707013-1.jpg",
+      "content": "开局杀到透明人之后，后续基本没有剧情冲突了，平淡如水。"
+    },
+    {
+      "user": "Lu",
+      "avatar": "https://img3.doubanio.com/icon/u2240229-413.jpg",
+      "content": "homelander绝了！集刘鑫、吴谢宇、黄晓明、某影帝、杰克马于一身。zz素养满分，丧事喜办，多难兴邦。营销（忽悠）手腕满分，创造需求（事端），巧舌三寸操控舆论。主流商业俊朗外形，具备肤浅人格魅力和脑残粉流量，但暗藏反社会人格，严重缺乏同理心，残忍下作不择手段，可谓是集多种武器与一身的终极武器霸王—要你命3000。"
+    },
+    {
+      "user": "夏日扬帆",
+      "avatar": "https://img3.doubanio.com/icon/u3508835-21.jpg",
+      "content": "四集，看不下去了。怎么说呢，虽然是反超级英雄式的剧情，但是本质上还是……正邪对立式的，每一集靠着最后几分钟拉吸引点了"
+    },
+    {
+      "user": "Mr. Infamous",
+      "avatar": "https://img3.doubanio.com/icon/u49948621-34.jpg",
+      "content": "身为漫威粉和DC粉，完全不妨碍我享受这部爽剧，也不知热评某人讽刺个毛线。万民拥戴的超级英雄自爆狰狞，或被爆虚伪，但就像一切处于话语中心的强权，有一整套令人敢怒不敢言、无法言的暴力支援和公关操作，他们愈发肆无忌惮，也愈发可悲可叹。更讽刺的是，商业法则绑架一切。看所有人在公众面前完成耳熟能详的种种表演，特别特别有意思，看完会对种种公众人物、公益事业、商业活动有新的戒备。Homelander、Starlight等多个重要角色都有很深的指涉。虽然还是能看到经费与手法的匮缺，但那种新锐的姿态是藏不住的，总在以为水深处摸出更多渊源，更多反思。四星半。（Nate@GG真的wow，好好翻身）"
+    },
+    {
+      "user": "谢谢你们的鱼",
+      "avatar": "https://img1.doubanio.com/icon/u1752908-27.jpg",
+      "content": "故事创意很喜欢，但是远远称不上是神剧。前四集可以打五星，但是后四集的水平每况愈下，故事的展开更是非常WTF，其实单纯讲述大型企业、媒体、民众如何“宠坏”超级英雄，如何让天生的超级英雄堕落显然更具讽刺性。虽然仅仅8集，但是有好多情节真的拖沓，希望第二季可以有所改善吧。"
+    },
+    {
+      "user": "有寂",
+      "avatar": "https://img3.doubanio.com/icon/u2791615-53.jpg",
+      "content": "祖国人，是08年joker之后我见过最病态邪恶的反派，太迷人了。。。"
+    },
+    {
+      "user": "Ada🧣Wang💋💍",
+      "avatar": "https://img1.doubanio.com/icon/u115657337-27.jpg",
+      "content": "如果说众说周知的Avenger和JLA属于美漫版的建国大业，三观正，人物个个积极正能量，那么The Boys 则属于美漫版的纸牌屋，祖国人则是The Boys的安德伍德，七人组每个人都有不同的奇怪的性癖好和隐私，伪版WW是双性恋，伪版Flash随意撞死人还可以私下吐槽死人多恶心，伪版的鱼尿侠被黑的伸手不见五指。The Boys 成功将伟光正的超级英雄和天天拉投票的国会政客巧妙地结合在一起，他们会假装亲民，伪装坚强，他们会满口谎言，因为他们和我们一样都具有人性。"
+    },
+    {
+      "user": "隋边瞅",
+      "avatar": "https://img3.doubanio.com/icon/u52309598-10.jpg",
+      "content": "从第五集开始崩"
+    },
+    {
+      "user": "恶魔的步调",
+      "avatar": "https://img3.doubanio.com/icon/u1043499-85.jpg",
+      "content": "西蒙·佩吉也已经到了做那么大孩子他爸了。Starlight的平民造型真的太buffy了。感觉这个剧啊，莫不是原来打算拍电影的，然后拉成剧集长度了！？"
+    },
+    {
+      "user": "[未注销]",
+      "avatar": "https://img3.doubanio.com/icon/u76046276-5.jpg",
+      "content": "《守望者》是艺术的话，《英雄克星》就是生活。借超英题材作外衣，内核是讽刺偶像效应、流行文化，尤其是在超英盛行的当下，不留情面地打烂时代的糖衣。戏内外通用的道理：超级英雄只是光环笼罩的人，终究是生意。虽然后半部分没有对此延伸，但结局没让我失望——复仇在温暖的色调、舒缓的音乐中暂时落下帷幕，更显造化弄人。期待第２季将阴谋进行到底。推荐给所有讨厌或喜欢超级英雄的人。"
+    },
+    {
+      "user": "白衣卿相",
+      "avatar": "https://img1.doubanio.com/icon/u1538764-97.jpg",
+      "content": "如果编剧再狠一点，便当发得再勤一点，这部片能成神剧的。可惜了。"
+    },
+    {
+      "user": "柯里昂阁下",
+      "avatar": "https://img3.doubanio.com/icon/u96758842-2.jpg",
+      "content": "现代资本与媒体运作之下的一场造神运动，对话当今成为主流的超级英雄电影，对其进行类型解构与黑化呈现。其实如同反乌托邦电影一样，当整个社会被虚伪的光明和正义笼罩之时，小人物的奋起反击就成为一场捍卫自由和权利的正义之战。他们所要对抗的只不过是整个意志的谎言和强权而已，换一种形式，讲述的仍然是英雄主义。"
+    },
+    {
+      "user": "窥窗桃枝",
+      "avatar": "https://img3.doubanio.com/icon/u3497932-44.jpg",
+      "content": "设定是好的，但DC的剧节奏都很奇怪。为了homelander撑了下来，这种人就属于大众的噩梦——表面上伟光正，实际上反社会无恶不作，偏偏他不但武力逆天，还深谙营销和洗脑，信徒无数，背景深厚，面对这种恶的无解才最令人绝望。"
+    },
+    {
+      "user": "张华弥",
+      "avatar": "https://img3.doubanio.com/icon/u54056542-5.jpg",
+      "content": "无惊无喜，除了西蒙佩吉演的是男主的爹，一个整天看电视的当代活死人"
+    },
+    {
+      "user": "旧书君",
+      "avatar": "https://img3.doubanio.com/icon/u1618297-32.jpg",
+      "content": "大概不到漫画尺度的百分之一，但算是改编得足够优秀，七人的角色写得比boys要好，尤其是homelander，同样是一个anti大超的形象，但不仅仅只是为了颠覆而颠覆。当然选角功不可没，年度假笑第一名吧。后BVS时代，但这个剧吃BVS我完全不反感。最大惊喜居然是海利·乔，太好笑了哈哈哈哈我只能说赛斯罗根人脉广，牛逼。"
+    },
+    {
+      "user": "LeungChanXXX",
+      "avatar": "https://img3.doubanio.com/icon/u48687824-52.jpg",
+      "content": "黑超级英雄的部分挺有意思的，但节奏太差（而且我发现配乐寥寥无几，情绪上就特别干），也没有想象中那么“黄暴”，完全没有被爽到。Frenchie可爱我的菜！"
+    },
+    {
+      "user": "薇羅尼卡",
+      "avatar": "https://img3.doubanio.com/icon/u1048262-16.jpg",
+      "content": "意料之外的剧情走向，本来还以为是个超英片，结果竟然是激素英雄？？最大的基调应该是反讽，被“明星化”的英雄成为了流水线上的产品以及超级武器，由此延伸出背后巨大的利益与阴谋。特别喜欢那个法国小哥，希望第二季凡人能反杀啊！"
+    },
+    {
+      "user": "Stiles",
+      "avatar": "https://img3.doubanio.com/icon/u177394808-14.jpg",
+      "content": "曾经和一位朋友讨论说当超英泛滥时必将会有反超英作品来唤醒大众的英雄美梦，并由此构想了一个超英横行的世界，他们表面维护正义背地罪行累累。今年年初看到黑袍的预告感觉这就是我所想的，果然不负期望。在这里，超英被制造，被营销，被当作权力的筹码。超英产业的成功正如时下的造星运动般由盲目的群众买单，以填充信仰和精神寄托。而剥开超英的外壳，它所展现的权力斗争、职场潜规则、关于亲情和爱情的问题抉择又如此贴近现实。不过总的来说整部剧还是有些高开低走的趋势，结尾留的坑略显刻意，期待下一季能有惊喜。"
+    },
+    {
+      "user": "Jeremiah",
+      "avatar": "https://img3.doubanio.com/icon/u43356588-13.jpg",
+      "content": "【190731】8.5-第八集开始就开始崩，最后10分钟更是毁掉了对整季的好印象，傻逼编剧我CNM。还是那个问题：篓子捅得太大不知道如何收尾，只能草草拿铅笔涂了个结局，对观众来说就是被喂屎。前面几集可真是创意十足，反英雄的剧观众已经见怪不怪了，黑化超英的题材更是满天飞，但是这种建立了一个独特的资本主义主导下的超英世界观可还是第一次。而且更让人惊喜的是你越往后看越是发现这剧只是借了个超英题材的皮来体现主创对当下媒体、娱乐、政治、体育、宗教等方方面面的讽刺剧集。中间还有一集直接花了整集时间来对某宗教进行了全方位的讽刺，不可谓不大胆。越是往后看越是觉得伏笔实在太多，比如DEEP的自我救赎，神秘的玄色，meave的愧疚，第一季只是讲了个故事的上半部分，要完整评价这剧至少得等第二季出来。出来之前看看漫画平复下被喂屎的心情吧。"
+    },
+    {
+      "user": "低俗小说.",
+      "avatar": "https://img3.doubanio.com/icon/u2148439-4.jpg",
+      "content": "越往后越大便."
+    },
+    {
+      "user": "FrozenElsa",
+      "avatar": "https://img3.doubanio.com/icon/u122738024-10.jpg",
+      "content": "四星五星犹豫了一会儿，由于这个结局导致我很期待第二季，所以还是5星吧。这剧缺点还是在剧作上，虽然人物写的真的很好，我也很喜欢，但是作为一个一次性放出的独立美剧大制作，第一季还是有点单薄了点，正反两派基本都是平行发展，没有太多冲突，编剧明显把更多的笔墨放在的世界观和人物的描写上，有得有失吧，失的是，很多人说的后面慢慢泄气了，得的是，人物确实非常不错，爱上了！特别homelander的制服，太帅了！"
+    },
+    {
+      "user": "Creep_",
+      "avatar": "https://img3.doubanio.com/icon/u3688098-112.jpg",
+      "content": "讲故事的方法还是有点弱。"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "借对超级英雄的嘲讽批判社会，切入点很好。前一半玩得很嗨，邪典恶趣味爆棚，太好看了，可惜后一半节奏垮掉了，不过对于厌倦了无聊的超英大片的人来说还是太福利了。比较感慨的是，西门佩吉都开始演老父亲了啊，另外第六感里那个小正太现在长成了个啥啊，才30出头而已，已经不能用长残来定义了，整个一个长废了。"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "3.5。每集一个导演？"
+    },
+    {
+      "user": "老罗Lazzaro",
+      "avatar": "https://img1.doubanio.com/icon/u52337061-7.jpg",
+      "content": "用资本和媒体反Superhero，超七简直就是一套平凡克隆版DC正义联盟，看好后续发展。E1一上来就这么刺激。超英不为人知的两面。E2不信任。E3房东好惨。E4 D七人之底层，H心机，M还算有良知。亚女现。E5之后发展略闷。E6黑队凑齐。E8绑谁都对三观不正的祖国人毫无威胁，还把B反带一帽。"
+    },
+    {
+      "user": "局外人",
+      "avatar": "https://img3.doubanio.com/icon/u49926534-25.jpg",
+      "content": "非常棒，题材加分！特别喜欢开头和结尾，以及怼宗教的那一段。基本上是21世纪的前期《守望者》的故事，还停留“Who watches the watchman？”这个质疑的阶段，加上一点《美丽新世界》的娱乐至死感觉，超级英雄变成了政治明星或偶像团体，每天盯着流量作秀表演，整个由dc和漫威建立的超级英雄宇宙被解构成为畸形儿们的秀场。片里的沃特公司明显就是嘲讽华纳和迪士尼这样的文化巨头。虽然格局和深度比《守望者》差太多，但从几位主角入手批判娱乐、体育、宗教、娱乐文化、种族歧视、性别歧视还是相当尖锐，尤其是限制级镜头数量让人大乎过瘾。当然最重要最重要的是：没有拍成烂俗的超能对决剧！谢天谢地boys们都是正常人，尤其是畏畏缩缩的主角其实性格很不错，强过无数类似同行。"
+    },
+    {
+      "user": "你的益达",
+      "avatar": "https://img1.doubanio.com/icon/u51067589-17.jpg",
+      "content": "结尾挺荒诞的"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "超能力资本变现，信仰与恐惧打包兜售；隐形金刚罩，忍者钢琴家，嗑药闪电侠，极恶超人，幻灭女侠，镭射婴儿枪，沉默不死女，I am your father. 反英雄的超级英雄大作，像原版《Watchmen》，当然，仪式感不够重口味凑"
+    },
+    {
+      "user": "无趣",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "够黑够讽刺，黄段子荤镜头，血腥火爆，重口味杂色拼盘，赞！"
+    },
+    {
+      "user": "英年早睡",
+      "avatar": "https://img3.doubanio.com/icon/u140404503-1.jpg",
+      "content": "借着一个超英题材告诉观众们，你对政治冷漠，但你生活中处处是政治。超英的伟光正是政治正确，是公司利益的宣传导向，是国家形象的正面表达。但背地里，他们的人性被抹杀，被隐藏，被扭曲，甚至真相压根是背道而驰的凶恶。偶像文化，自制外敌，政治打压，危机公关，把一切真相歪曲成最接近利益的说法，人性，十分可怕，民众，十分愚昧。"
+    },
+    {
+      "user": "孔鲤",
+      "avatar": "https://img3.doubanio.com/icon/u82880498-2.jpg",
+      "content": "我跟你们说，这部美剧讲的其实是娱乐圈。"
+    },
+    {
+      "user": "梦朝大海",
+      "avatar": "https://img3.doubanio.com/icon/u2095404-6.jpg",
+      "content": "第一集的时候我想打五星，因为超前思想性(严格来说算是主题叛逆少见)，然后碍于故事性角色塑造的方方面面我一直挣扎在打四星还是三星的情况下，直到最后的绿帽子一顶让我痛下决心给了三星，实在是太天雷滚滚了！"
+    },
+    {
+      "user": "施舍翅膀",
+      "avatar": "https://img3.doubanio.com/icon/u47928438-1.jpg",
+      "content": "塞胖和西蒙巨巨？所以S1讲了个啥，没啥内核纯粹为了爽而爽。Hughie的角色担不起一个纯净唤醒者和打破恶性循环者，这个角色本身行为动机和思想就没有建立，是混乱的，为何后期对卡老师言听计从？混血宝宝这事在真实的人类后就没什么意思了。最讨喜的角色反而是，卡老师的另外两个队员，以及The Deep，颜+肉，他虽然职场性侵然而内心却总是心系海洋生物，可怜而可爱，剃光头之后也没了下文。"
+    },
+    {
+      "user": "爆米花教主",
+      "avatar": "https://img3.doubanio.com/icon/u64213791-15.jpg",
+      "content": "卧槽有史以来最好的超级英雄剧，节奏无与伦比！《我的英雄学院》中的超级英雄职业化，《老虎和兔子》中的超级英雄偶像产业，种种元素都可以在这部剧中看到。主角团真是太可爱了，第四集差点笑死hhhhhhhh 西蒙佩吉居然只是个酱油角色，有些浪费才华。一口气刷完后，立刻燃起二刷欲望，十星推荐！"
+    },
+    {
+      "user": "绿光",
+      "avatar": "https://img3.doubanio.com/icon/u102871082-23.jpg",
+      "content": "有光明的地方就有黑影"
+    },
+    {
+      "user": "金轮际息烙",
+      "avatar": "https://img3.doubanio.com/icon/u2678402-32.jpg",
+      "content": "九分程度的好。好过目前一切超级英雄影集，无论是漫威还是dc。选星光作为故事的前景非常合适，她的光芒缓和了一切绝望。 本剧更适合译作《英雄未满》，不仅英雄们是远不算完美的英雄，主角们也只是不够成熟的男孩。法国人简直了…白人太白目，黑人巴耳朵，英国人长不大，只有法国人，天啊，想嫁。请注意，这个故事并非展示了超级英雄的立体形象，其实还是单面而已，不过和漫威那些糖水片相对应，这是他们的b面，就像终于转过来面向世界的月球的背面。议题放在里面融合得很好，当下热门话题几乎都点到了。除了最后两集外整个故事很有引力，期待下一季。"
+    },
+    {
+      "user": "资深低阶路人",
+      "avatar": "https://img3.doubanio.com/icon/u92775477-122.jpg",
+      "content": "不如预告片精彩，超英反派除了护国超人和A-Train其他人戏份太少，黑侠要么打酱油1秒，要么不出现，比半透人还透明。护国超人是真变态，另外那些成员谈不上邪恶，多是被权力和资本扭曲了。主角的话就男主角和老骨头有记忆点。号称的黄暴，太少，血腥镜头全部剪在预告里了。整体拖沓了些，好看的地方在对应现实的讽刺和明喻。希望下季世界观再拓展点，对配角多一些着墨"
+    },
+    {
+      "user": "蚂蚁没问题",
+      "avatar": "https://img1.doubanio.com/icon/u2254558-8.jpg",
+      "content": "我们这种对超英不怎么掏心掏肺、不太热泪盈眶的升斗小民，值得拥有自己的代言！PS：祖国人真是一微笑着吓死人的好反派！"
+    },
+    {
+      "user": "无鬼斋",
+      "avatar": "https://img1.doubanio.com/icon/u1892609-39.jpg",
+      "content": "全球一半军火供应不是盖的"
+    },
+    {
+      "user": "水水",
+      "avatar": "https://img3.doubanio.com/icon/u1159968-1.jpg",
+      "content": "小暴力小黑暗"
+    },
+    {
+      "user": "旧风",
+      "avatar": "https://img3.doubanio.com/icon/u1261444-32.jpg",
+      "content": "本质上平凡人就应该和超人对立起来……"
+    },
+    {
+      "user": "Webboy",
+      "avatar": "https://img3.doubanio.com/icon/u2195151-30.jpg",
+      "content": "亚马逊猛劲砸钱果然牛逼"
+    },
+    {
+      "user": "二月鸟语",
+      "avatar": "https://img3.doubanio.com/icon/u51159028-14.jpg",
+      "content": "灰常写实了..."
+    },
+    {
+      "user": "我爱罗宾",
+      "avatar": "https://img3.doubanio.com/icon/u49867478-2.jpg",
+      "content": "喜欢黑化设定和AV正义联盟的装扮，但是铺得太大，展开还是有点水"
+    },
+    {
+      "user": "启川",
+      "avatar": "https://img1.doubanio.com/icon/u83406988-7.jpg",
+      "content": "粗制滥造，全球养寇+祖国侠人设不错，男主太特么欠揍了……"
+    },
+    {
+      "user": "幸运+++",
+      "avatar": "https://img3.doubanio.com/icon/u52258502-44.jpg",
+      "content": "这个结尾？？？"
+    },
+    {
+      "user": "服你吸墨器",
+      "avatar": "https://img3.doubanio.com/icon/u82238487-123.jpg",
+      "content": "适合公众号的美剧。"
+    },
+    {
+      "user": "盲忙",
+      "avatar": "https://img3.doubanio.com/icon/u2206329-131.jpg",
+      "content": "开始有点小打小闹，越往后就渐入佳境，结局有点意想不到，但我觉得其实还可以往更深刻更黑暗的方向再进一步。喜欢法国佬，人家才是上得了战场下得了厨房呢，深海的身体又美丽又吓人，这个男美人鱼的创意真是美极了。"
+    },
+    {
+      "user": "又又",
+      "avatar": "https://img1.doubanio.com/icon/u3051458-238.jpg",
+      "content": "一晚上刷完…好喜欢这么暗黑的剧，只是这个结尾真的…哎不喜欢把强奸变成偷情的设定"
+    },
+    {
+      "user": "\\t^h/",
+      "avatar": "https://img1.doubanio.com/icon/u2520407-289.jpg",
+      "content": "最后这集。。。"
+    },
+    {
+      "user": "蒸桑拿的冰激凌",
+      "avatar": "https://img1.doubanio.com/icon/u1350462-28.jpg",
+      "content": "厉害厉害厉害"
+    },
+    {
+      "user": "罗杰·费德勒",
+      "avatar": "https://img3.doubanio.com/icon/u90808222-61.jpg",
+      "content": "一天半刷完"
+    },
+    {
+      "user": "m89",
+      "avatar": "https://img3.doubanio.com/icon/u4896291-26.jpg",
+      "content": "女主好美啊…暗黑大作，崩坏式结尾，坑挖得有点大。川普把国家当作公司来运营的大背景下，超级英雄AKB化的市场式运作，牵扯出人造英雄的美式丑闻和超级恐怖分子的美式战争。"
+    },
+    {
+      "user": "小偷|隐忍沉定",
+      "avatar": "https://img1.doubanio.com/icon/u1286081-138.jpg",
+      "content": "反英雄爆炸剧，复仇者顶绿帽，痴男恋爱，各种人性阴暗面，第一季主线BOSS竟然是个假面恋母癖有点弱"
+    },
+    {
+      "user": "逻姬恨剧透",
+      "avatar": "https://img1.doubanio.com/icon/u1751895-19.jpg",
+      "content": "第一集节奏好差人物塑造细节好差 男女主相遇生硬得可怕 慢镜头好烂。故事概念挺好的。配乐贼老套。2-4原著闪光点来了：屁眼炸弹deep的抱怨漏奶86楼homelander和QMaeve的同事关系frenchie，坠机和zz。第五集发展喜人男主黑化带感。熟脸多选角不大出彩。自损三千第六集。7博士老头ok的/娃肯定生了。cia插入方式不对扯蛋。男主感情戏稀烂。屠夫偏执狂硬到底。8编剧hl亲妈吧反转的我晕了。进度好慢为了第二季省材料呢。流媒体的剧总差点意思缺少细节追求形式和冲突特别是第一集"
+    },
+    {
+      "user": "王别树",
+      "avatar": "https://img3.doubanio.com/icon/u2063361-15.jpg",
+      "content": "《传教士》班底打造，针对超级英雄的复仇小队，血浆飙得爽，相比原作，黄暴跟邪恶程度大有削减，后半截有点泄气，但也比漫威爆米花们有趣得多——以盈利为至高目标、全方位媒体营销的超英7人组看着完全就是对迪士尼漫威及其超英大片的嘲讽。鬼眼第六感那哥们演了个落魄过气童星，哈。3.5"
+    },
+    {
+      "user": "Coralineee",
+      "avatar": "https://img1.doubanio.com/icon/u48915516-89.jpg",
+      "content": "this is anti-big-corp (disney), anti-god, revolting and insidious. i wanted to scream and cry and vomit when i was watching it. kept thinking about the entire time that someone once said that Superman stories aren't a fantasy about how good it would be to have power, but about what it would be if someone with power was good"
+    },
+    {
+      "user": "程小挑",
+      "avatar": "https://img3.doubanio.com/icon/u34272570-75.jpg",
+      "content": "不错"
+    },
+    {
+      "user": "弥赛亚代言人",
+      "avatar": "https://img3.doubanio.com/icon/u51490972-2.jpg",
+      "content": "典型的设定有多好，执行有多糟。剧里对正联的戏仿，对超英背景的颠覆，对当下政治文化议题的解构都值得深挖，可反过来温吞平淡的故事节奏加上全员不在线的角色智商，又让人很难沉浸在情节里进而产生更深层思考，如果仅仅为了看得爽，这部除了大BOSS所有人性格模糊季终集又戛然而止到涉嫌玩赖的剧，似乎……也不是很爽……等等第二季吧，毕竟这剧背景设定足够优秀，兴许就变好了呢？"
+    },
+    {
+      "user": "frozenmoon",
+      "avatar": "https://img3.doubanio.com/icon/u1233038-2.jpg",
+      "content": "作为一个非常不喜欢超级英雄剧的人，看得很乐呵。任何打扮得毫无瑕疵的人都是可疑的。这里面那些装模作样永远一身正能量的超级英雄映射很多现实世界里的人和组织，超级大亨，富商巨贾，领袖权威，一切具有表演性人格的人都被揭露得体无完肤。"
+    },
+    {
+      "user": "9楼2座",
+      "avatar": "https://img3.doubanio.com/icon/u3184101-6.jpg",
+      "content": "本来可以4.0，最后一集有点崩"
+    },
+    {
+      "user": "乱",
+      "avatar": "https://img1.doubanio.com/icon/u33906594-7.jpg",
+      "content": "最初的高潮看到最后就剩一个大大的问号脸。。。第二季预订？？？？"
+    },
+    {
+      "user": "苦行",
+      "avatar": "https://img3.doubanio.com/icon/u11285303-4.jpg",
+      "content": "这么好的题材，拍成如此难看，真是FUCK OFF！别找预算的原因，因为不只是场面格局不配套。根本在于讲故事水平——故事讲的稀烂！且看镜头语言，二流导演而已。看了半集就已经深深感受到烂片的各元素，实在因为喜欢这题材，强忍内伤看到E05……憋不住了，再憋人没了……美剧啊，看了前两集很不适，就及时制止，别指望后面能拍好了……"
+    },
+    {
+      "user": "小J²",
+      "avatar": "https://img1.doubanio.com/icon/u37483485-8.jpg",
+      "content": "看到CW的老编剧和老演员就有不祥预感，果然只有概念和设定能看。第二集过半后就是一出CW当代青春偶像剧，剧情则是E婶编《邪恶力量》贯用的笔法：随心所欲，儿女情长，兜兜转转，家长里短，絮絮叨叨，疯狂煽情……小年轻应该会买账，我这种老人早腻歪了，手动再见。"
+    },
+    {
+      "user": "司大龄",
+      "avatar": "https://img1.doubanio.com/icon/u2600951-27.jpg",
+      "content": "剧集好看，源自原著漫画的大胆叛逆。只给两星，导演的以及制作团队的水准根本不及格。镜头还能从原作中照抄，调色根本就是ae的自带膜版，灯光、配乐、音效就是国产剧水准。烂仔帮特质过于明显，屎尿屁等贱梗让人出戏。"
+    },
+    {
+      "user": "无无眠",
+      "avatar": "https://img1.doubanio.com/icon/u131748540-17.jpg",
+      "content": "明明是新颖的题材，剧情和故事却始终透出一种陈旧的感觉，不管是故事的起承转合或者核心内容，都像把你死死按在那里让你看“反英雄就是这样，简单粗暴懂了没！”以至于你可能都注意不到布景和服道的粗制滥造。"
+    },
+    {
+      "user": "ZeonGin Sou",
+      "avatar": "https://img3.doubanio.com/icon/u3495654-15.jpg",
+      "content": "主题无敌，第一集惊喜不断，但节奏一坨翔，慢悠悠慢悠悠慢悠悠，难道是经费不足导致瞎折腾就是杀不了人？主线推进上缺乏爆点，就算细节再多的闪光点也难以支撑。"
+    },
+    {
+      "user": "red.",
+      "avatar": "https://img3.doubanio.com/icon/u1294931-146.jpg",
+      "content": "感觉是晚拍了10年的剧，人物总体都过于脸谱化。 不过剧中自我产品化的一面很好，只是晚了几年。"
+    },
+    {
+      "user": "甦醒 Nostalgia",
+      "avatar": "https://img3.doubanio.com/icon/u52460978-10.jpg",
+      "content": "好！出了一口恶气。厌烦了漫威的伟光正超级英雄，终于来了这样一部反超级英雄黑作。dc遮遮掩掩没敢讨论清的黑暗问题，也被端上了台面。真是讽刺，烂仔帮总有新奇的点子。"
+    },
+    {
+      "user": "猪头妖怪",
+      "avatar": "https://img1.doubanio.com/icon/u2437825-49.jpg",
+      "content": "这剧的故事线明明从中段开始就一路崩坏到不可收拾的地步了，所以这个评分到底是怎么回事？实在难以理解……"
+    },
+    {
+      "user": "琧婯",
+      "avatar": "https://img3.doubanio.com/icon/u1178038-4.jpg",
+      "content": "难得有个看得进去的美剧了，拍得特脏，唯一的疑问是第二部怎么拍啊，女高管都死翘翘了，小队也暴露了。。"
+    },
+    {
+      "user": "tankdream",
+      "avatar": "https://img1.doubanio.com/icon/u4128805-27.jpg",
+      "content": "看的蛮过瘾的。低配版超级英雄当反派。这个“海王”的身体好恶心 - - 虽然chace身材看起来很不错~很期待已续订的第二季。"
+    },
+    {
+      "user": "dyalikedags",
+      "avatar": "https://img3.doubanio.com/icon/u37608497-32.jpg",
+      "content": "一无所知的情况下看最好 高赞剧照有剧透"
+    },
+    {
+      "user": "超人叔叔",
+      "avatar": "https://img1.doubanio.com/icon/u49274272-7.jpg",
+      "content": "看片头以为是黑DC的 看完发现是黑了全世界；结束在The Shadows的Sleepwalk旋律中 很美了"
+    },
+    {
+      "user": "沙加之伦",
+      "avatar": "https://img3.doubanio.com/icon/u2269768-166.jpg",
+      "content": "各种意义上的好看，大型荒诞bullshit"
+    },
+    {
+      "user": "刘小流",
+      "avatar": "https://img3.doubanio.com/icon/u66469764-151.jpg",
+      "content": "难道这部剧想暗示，漫威那些超级英雄演员，除了没有超能力……口误口误，其实这剧可以用来讽刺娱乐圈、政治圈、慈善圈，各种圈圈圈圈圈圈圈……"
+    },
+    {
+      "user": "Hideo",
+      "avatar": "https://img1.doubanio.com/icon/u6296367-17.jpg",
+      "content": "建议隔壁的《末日巡逻队》剧组多看看取取经。"
+    },
+    {
+      "user": "Tina",
+      "avatar": "https://img1.doubanio.com/icon/u3665615-7.jpg",
+      "content": "感受到了主创满满的恶意，什么正义、安全、民众利益，都不过是嘴上的主义，眼里的生意。超英团队并非伟光正的模范人物，反而充满了道德瑕疵，连保持正常都做不到……第一集停留在“祖国人”（暗黑版美国队长）恶毒的微笑上，真是tmd的太讽刺了"
+    },
+    {
+      "user": "长耳朵走来走去",
+      "avatar": "https://img3.doubanio.com/icon/u2030456-46.jpg",
+      "content": "厉害了"
+    },
+    {
+      "user": "国王KING",
+      "avatar": "https://img1.doubanio.com/icon/u4438977-78.jpg",
+      "content": "编剧牛逼，飞机那一集还有话语权和超英的结合，怎么可以这么好看。"
+    },
+    {
+      "user": "灾星下的男人",
+      "avatar": "https://img1.doubanio.com/icon/u3385035-19.jpg",
+      "content": "美剧八月一匹黑马。反超英电影最近出了个魔童看着很爽但是细节经不起推敲，这部电视剧制作不粗糙，但内容同样粗暴爽快。简直就是哇噢。"
+    },
+    {
+      "user": "镜水修二",
+      "avatar": "https://img3.doubanio.com/icon/u3514261-252.jpg",
+      "content": "血浆指数很达标！暗黑底色却自带希望的在努力抗争贪婪与邪恶。没有人是简单二元对立黑白色，非常值得路过。角色刻画很美好√贱萌的法国2B男√水族倒霉催的妖道角✘怪不得外人呀你们的BOSS犯了大错还在被虐期"
+    },
+    {
+      "user": "皮皮一号",
+      "avatar": "https://img3.doubanio.com/icon/u9798607-35.jpg",
+      "content": "可以算年度十佳了。设定太有意思，以前的超英电影在Boys面前都是迪士尼童话了😂"
+    },
+    {
+      "user": "夜潇狂",
+      "avatar": "https://img3.doubanio.com/icon/u57833598-2.jpg",
+      "content": "高能开局，后面却越来越温吞，高开低走了。。不过题材确实空前，希望下一季能更利落一点。"
+    },
+    {
+      "user": "Sally?imdb9?9",
+      "avatar": "https://img1.doubanio.com/icon/u1425889-68.jpg",
+      "content": "救赎什么的，不存在的"
+    },
+    {
+      "user": "千叶竹",
+      "avatar": "https://img3.doubanio.com/icon/u151762522-1.jpg",
+      "content": "赛斯罗根这帮屌人真的是拳打漫威脚踢DC！甚至有凑到守望者高度的野心。去你妈的商业，去你妈的电影宇宙，Fuck那帮作威作福的SUPES！这就是本世纪最牛逼的superhero TV series！"
+    },
+    {
+      "user": "朱林昭",
+      "avatar": "https://img3.doubanio.com/icon/u2392862-44.jpg",
+      "content": "演员一般般但是故事很有趣 怂逼青年中二意淫产物 屌丝逆袭超巨的春梦 年度惊喜"
+    },
+    {
+      "user": "格林先生",
+      "avatar": "https://img3.doubanio.com/icon/u1250649-34.jpg",
+      "content": "标杆"
+    },
+    {
+      "user": "风雨暗花",
+      "avatar": "https://img3.doubanio.com/icon/u1328517-116.jpg",
+      "content": "虎头蛇尾……最后十分钟变身狗血伦理剧……"
+    },
+    {
+      "user": "hermaphrodite",
+      "avatar": "https://img3.doubanio.com/icon/u2568548-114.jpg",
+      "content": "献给这个时代。"
+    },
+    {
+      "user": "Raphael",
+      "avatar": "https://img3.doubanio.com/icon/u4484066-16.jpg",
+      "content": "有点意思，剧情稍弱。祖国人这个角色演的特别好，很久没看到这么可恨的反派了，希望第二季各种黄暴桥段可以再大胆一点。"
+    },
+    {
+      "user": "糯木",
+      "avatar": "https://img1.doubanio.com/icon/u35711522-19.jpg",
+      "content": "开局惊艳，后半程渐显乏力。以超级英雄流行文化为切入点，讽刺和反叛的其实还是娱乐至死的资本社会——投其所好的造星工业，手到擒来的舆论控制，自愿被收割的民众，这一切大戏幕布后政治与资本的交易，无一不散发着腐臭，穿透流行文化的光鲜制服往外渗。既然这样，我劝各位还是尝试一下更优越的社会主义，或者拍一部《红袍纠察队》，来一场赫胥黎与奥威尔的具象辩论。"
+    },
+    {
+      "user": "雅典娜",
+      "avatar": "https://img3.doubanio.com/icon/u1059709-61.jpg",
+      "content": "Homelander这个psycho实在是很有趣，这片子如果和DC角色对应的话简直别有一番风味～ 全片最开心的镜头是KU举起镭射眼小baby当武器发激光，笑死了"
+    },
+    {
+      "user": "Polaris.J",
+      "avatar": "https://img3.doubanio.com/icon/u60169569-5.jpg",
+      "content": "超棒！！！第一集就神了啊！！！如果世界真的有超级英雄，多半儿会是这样的… 哇 怪不得还没播出就续订第二季了  太厉害了 太黑了 有的设定太变态了~！喜欢！！特别紧张特别好  超级英雄们用自己的能力去做一些其他的事情坏事之类，大家就像是在一个娱乐公司里的明星还有体育明星，然后也有自己的烦恼和潜规则。"
+    },
+    {
+      "user": "神马蚁",
+      "avatar": "https://img3.doubanio.com/icon/u2056255-42.jpg",
+      "content": "反英雄，也就还好吧"
+    },
+    {
+      "user": "少年派的崛起",
+      "avatar": "https://img3.doubanio.com/icon/u70144785-2.jpg",
+      "content": "反类型的超级英雄美剧，特别适合看腻了超级英雄电影之后换换口味。尺度真的好大，充满恶趣味，超级英雄私下里是人渣，被公司雇佣的设定实在是太有创意了"
+    },
+    {
+      "user": "牧三洵",
+      "avatar": "https://img3.doubanio.com/icon/u130380686-20.jpg",
+      "content": "比我想的还高开低走。P.S.西蒙·佩吉都开始演老父亲了？哈。"
+    },
+    {
+      "user": "紫苏バジル",
+      "avatar": "https://img3.doubanio.com/icon/u30978080-62.jpg",
+      "content": "塞斯罗根，西门佩奇，大概只有我冲着这两个人来看的。总体来说还不错！"
+    },
+    {
+      "user": "pksky",
+      "avatar": "https://img3.doubanio.com/icon/u1682352-1.jpg",
+      "content": "超英仇杀队…amazon出品，seth rogan低配版黄暴污…接地气版正义联盟，超英黑童话，隔壁老王喜当爹的复仇故事…肥短小haley、meg ryan之子、annie都是看点…queen Maeve为何分手会在下季自圆其说么…"
+    },
+    {
+      "user": "浅仁",
+      "avatar": "https://img3.doubanio.com/icon/u43980382-1.jpg",
+      "content": "好看。对现在那些过于商业化的超级英雄们真是莫大的讽刺，看得大快人心。"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "估计这剧得把凯文·费奇看得哭笑不得，最后坑挖得是不小，不过这尺度跟原作比简直迪士尼啊，塞胖和戈德堡你们“烂仔帮”都白混了吗，故意给下半年HBO的林德洛夫那厮留机会是吧……"
+    },
+    {
+      "user": "ANNA",
+      "avatar": "https://img3.doubanio.com/icon/u1704805-76.jpg",
+      "content": "海王不要死！海王萌萌哒！"
+    },
+    {
+      "user": "哔呣咣啵の哸啐",
+      "avatar": "https://img3.doubanio.com/icon/u1310319-5.jpg",
+      "content": "👍"
+    },
+    {
+      "user": "Thomas",
+      "avatar": "https://img1.doubanio.com/icon/u1236291-798.jpg",
+      "content": "Homelander又变态又可爱"
+    },
+    {
+      "user": "红猪",
+      "avatar": "https://img3.doubanio.com/icon/u1074794-1.jpg",
+      "content": "这是一部伦理剧"
+    },
+    {
+      "user": "Sodom程",
+      "avatar": "https://img3.doubanio.com/icon/u1030410-40.jpg",
+      "content": "我确实看够漫超了。"
+    },
+    {
+      "user": "胡二",
+      "avatar": "https://img3.doubanio.com/icon/u11120634-56.jpg",
+      "content": "与其说是反英雄片，还不如说是对娱乐圈的讽刺，造神造星，躺枪的何止DC漫威迪士尼"
+    },
+    {
+      "user": "不是大野",
+      "avatar": "https://img1.doubanio.com/icon/u2185888-108.jpg",
+      "content": "超人们的痛脚"
+    },
+    {
+      "user": "维恩B",
+      "avatar": "https://img3.doubanio.com/icon/u1613526-2.jpg",
+      "content": "7。这个题材太有潜力了，也很有趣。算得上是超级英雄或者说是超级英雄题材的反噬。可惜拍得还是太保守了。在“反”这件事上，与其说“反类型”，实际上更多的还是传统的平民“反英雄”的复仇和救赎。关于资本侵蚀和过度品牌营销的恶果，这个能够直击痛处的地方还是着墨太少。一个有趣又心酸的事实：当我们谈论超级英雄和现实的关系时，正如剧里所表现的那样，噱头果然还是更重要。"
+    },
+    {
+      "user": "话事人",
+      "avatar": "https://img3.doubanio.com/icon/u4243064-12.jpg",
+      "content": "好有趣！这他妈黑吃黑的男主黄头发一上有点法鲨那个意思啊"
+    },
+    {
+      "user": "人形大叔正太心",
+      "avatar": "https://img1.doubanio.com/icon/u1387316-8.jpg",
+      "content": "结局太讽刺了！！！"
+    },
+    {
+      "user": "L.A.Darwinci",
+      "avatar": "https://img3.doubanio.com/icon/u60236579-16.jpg",
+      "content": "题材新颖"
+    },
+    {
+      "user": "道臣岚",
+      "avatar": "https://img3.doubanio.com/icon/u51004773-2.jpg",
+      "content": "哈哈哈哈哈哈这个结局我可以！"
+    },
+    {
+      "user": "Chunchun",
+      "avatar": "https://img3.doubanio.com/icon/u52087275-21.jpg",
+      "content": "有趣，欲罢不能。"
+    },
+    {
+      "user": "黄青蕉",
+      "avatar": "https://img1.doubanio.com/icon/u2524948-39.jpg",
+      "content": "讽刺资本主义，讽刺超英生意，讽刺绝对力量带来的绝对膨胀，讽刺普通人对英雄的巨婴心理，前半段真是大胆惹"
+    },
+    {
+      "user": "微辣",
+      "avatar": "https://img3.doubanio.com/icon/u1169145-5.jpg",
+      "content": "太辛辣了，本年度神剧"
+    },
+    {
+      "user": "Raphael雷",
+      "avatar": "https://img3.doubanio.com/icon/u96638998-10.jpg",
+      "content": "爽惹"
+    },
+    {
+      "user": "007",
+      "avatar": "https://img3.doubanio.com/icon/u140977887-1.jpg",
+      "content": "黑的合情合理，有的时候相当枯燥，尺度够大高开低走了"
+    },
+    {
+      "user": "阿拆",
+      "avatar": "https://img3.doubanio.com/icon/u155712285-2.jpg",
+      "content": "一天binge完，又黑又讽刺剧情也撑得起来的反超英片，的确符合时代。暴力血腥是有，但总体来说还好。角色塑造有意思。\nhomelander的mommy issue也太严重了，他这个人设没太戳到我，我只觉得他很变态…black noir怎么戏份这么少啊我好想了解他！他好可爱？！最开始觉得deep很那个结果后来他每次出场都带给我快乐哈哈哈哈哈还老是拿跟鱼说话作梗，隔壁海王都气哭了！\n法国小哥太暖太可爱了吧呜呜呜果然法国人自带浪漫气质，妹子也好可爱，他俩真的好可爱啊都（语无伦次\nAnnie真的是天真又年轻啊…但谁曾经没有一个超英梦呢\n这剧超多梗，说VCU的时候我都喷了。铺天盖地的超英相关文化娱乐产业是真实现状，我顺嘴骂一句迪士尼。\nthe 7真实正联。迪西太惨了，希望能拿点版权费\n还蛮想看第二季的！"
+    },
+    {
+      "user": "大卫·独处尼",
+      "avatar": "https://img1.doubanio.com/icon/u1205892-9.jpg",
+      "content": "最后一集的意思就是每个人都找到了真正的自我呗……"
+    },
+    {
+      "user": "孔府小鱼",
+      "avatar": "https://img1.doubanio.com/icon/u63115912-7.jpg",
+      "content": "淦，有些喜欢？"
+    },
+    {
+      "user": "lostmore",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "看惯超英雄的正义，看看腹黑还是蛮有创意。各种熟悉的演员让人亲切，各种狗血的剧情让人着迷。男主女友被闪电给撞的尸骨无存只有残留的双手，曾经的美好突然全部消失。后调查发现原来是打药之后异常引起，男2让其去总部放监听器时被透明人发现跟踪回家被车撞并被电晕后关押在无信号笼子里，后尿杯里到电线里打开笼子后被男主炸死。女主要参加7人组织被海王潜规则。2人去飞机救人时发现机长被杀死后决定逃离现场，但并未带任何人脱险在空中看着飞机坠毁。举办活动时女主暴出被潜和一些不应该说的话。通过找通灵的人了解亚女的身份但被告秘给超人，几人被暴光后女主也很蒙去对质时被男2赶到用枪打倒并带着离开，突击时他们被抓，男主去救他们。而超人赶到发现女老板仍藏着秘密后杀死她，在引暴时将他救下带回他老婆和儿子面前。"
+    },
+    {
+      "user": "巴斯特德",
+      "avatar": "https://img3.doubanio.com/icon/u41863480-70.jpg",
+      "content": "It's so dark and so real"
+    },
+    {
+      "user": "左眼看电影",
+      "avatar": "https://img3.doubanio.com/icon/u1737624-3.jpg",
+      "content": "又黑又黄又暴的反英雄剧，最后的结尾太贱了，只能等第二季"
+    },
+    {
+      "user": "素人冯",
+      "avatar": "https://img1.doubanio.com/icon/u53942573-8.jpg",
+      "content": "好看，扎实！"
+    },
+    {
+      "user": "Thor(in)Asgard",
+      "avatar": "https://img3.doubanio.com/icon/u1256697-74.jpg",
+      "content": "变态血腥混合故作山寨的奇怪感觉……"
+    },
+    {
+      "user": "SUN",
+      "avatar": "https://img1.doubanio.com/icon/u1295915-68.jpg",
+      "content": "很独特"
+    },
+    {
+      "user": "TM1001",
+      "avatar": "https://img3.doubanio.com/icon/u48787128-21.jpg",
+      "content": "夏季剧荒期好片，结局评价只有一句 - what the fxxk。。。"
+    },
+    {
+      "user": "Q.Henry",
+      "avatar": "https://img3.doubanio.com/icon/u1867258-15.jpg",
+      "content": "I am your father.We are family."
+    },
+    {
+      "user": "雨夜飞行",
+      "avatar": "https://img3.doubanio.com/icon/u2005598-106.jpg",
+      "content": "前面几集噱头有了，后面又回到了《传教士》的老路，玩脱了。杀妻仇人突然变成了救命恩人，如此现实又荒唐的结局，主角第二季估计人设要塌"
+    },
+    {
+      "user": "DONT_BOTHER",
+      "avatar": "https://img3.doubanio.com/icon/u61019177-5.jpg",
+      "content": "很爽"
+    },
+    {
+      "user": "凤林村阿涛",
+      "avatar": "https://img3.doubanio.com/icon/u43667898-41.jpg",
+      "content": "《黑袍纠察队》特别重口、特别反英雄、特别恶趣味。举例子来说，当深海（影射DC海王）和鱼缸里的其中一只龙虾“相谈甚欢”决定带着它脱离苦海时，海产营业员走了过来帮深海捞起了缸里的龙虾（深海特别说明是哪一只），并迅速完成了“去壳”操作，本来是一场“营救”演变成间接结果了那只龙虾，实在讽刺。此外，这剧的看点在于一群凡人组成的小队和超人类的力量对比悬殊，前者是怎样向后者发起冲击的？有点看蝙蝠侠对阵超人时候的那种快感。"
+    },
+    {
+      "user": "ryujin",
+      "avatar": "https://img3.doubanio.com/icon/u2597570-1.jpg",
+      "content": "扎实剧本，比那个什么传教士和美国众神高到不知道哪去了，比那些神神叨叨言之无物故弄玄虚的“呕吐物”好太多， 多米尼克·库珀可惜了，还好这里有卡尔·厄本，俩人的颜我都很吃。"
+    },
+    {
+      "user": "Ston3s",
+      "avatar": "https://img3.doubanio.com/icon/u1338828-153.jpg",
+      "content": "前五集相当紧凑~即没有狂飙情节又兼顾了人物刻画~偶尔的视觉刺激恰到好处~尺度不设限真棒~后面三集既要制造这季的高潮又要留点重磅料吊起下季的胃口~略散~炸鸡叔声音还是那么牛逼~卡司很棒~超能加凡人心理特别好~恋母梗也设置的顺~明线暗线画面噱头都期待~第二季来前会再看几次"
+    },
+    {
+      "user": "Reaper",
+      "avatar": "https://img3.doubanio.com/icon/u27442548-20.jpg",
+      "content": "大概因为没预算？服化道演员和调色等等各方面都透着一股廉价感。除了设定带感之外，其余全部落入美剧俗套之中。"
+    },
+    {
+      "user": "217",
+      "avatar": "https://img3.doubanio.com/icon/u60855359-6.jpg",
+      "content": "有的东西讽刺个十分钟就够了，打着反英雄讽刺的旗号就可以出一整个系列？不好意思难道你不是为了钱么，内核其实多么的傻逼，脱掉所谓的反类型外衣，什么值得你给它打五星？这种美式幽默我接受不了"
+    },
+    {
+      "user": "WilliamOsborne",
+      "avatar": "https://img3.doubanio.com/icon/u157548945-2.jpg",
+      "content": "超级英雄公司、凡人义警猎杀反英雄，是没接触过的超英题材，每个角色的塑造都可圈可点，重口，黑暗，类乌托邦。好的我又剧荒了。"
+    },
+    {
+      "user": "CuRry_常喜舍；",
+      "avatar": "https://img3.doubanio.com/icon/u2543754-225.jpg",
+      "content": "反类型，反英雄主义；"
+    },
+    {
+      "user": "陈灼",
+      "avatar": "https://img3.doubanio.com/icon/u1017379-76.jpg",
+      "content": "结尾很好很意外。为海豚和大龙虾心疼。"
+    },
+    {
+      "user": "funny_vee",
+      "avatar": "https://img3.doubanio.com/icon/u1329927-2.jpg",
+      "content": "正非正，邪非邪。"
+    },
+    {
+      "user": "孤獨江湖虛名",
+      "avatar": "https://img3.doubanio.com/icon/u72792251-30.jpg",
+      "content": "高开低走吧，前半部节奏飞快，说脱就脱说杀就杀，虽说每集有自己的小高潮吧，但到最后都没找出整季故事的起承转合，铺垫高潮结尾。也没看到什么反超英的新点子，最后不还是指望着一小波人拯救世界。并且没有一个人物让人喜欢。"
+    },
+    {
+      "user": "rodney",
+      "avatar": "https://img3.doubanio.com/icon/u51983779-4.jpg",
+      "content": "还是不错的，希望下季经费能再给点。很好的开头"
+    },
+    {
+      "user": "Jue",
+      "avatar": "https://img1.doubanio.com/icon/u3461831-9.jpg",
+      "content": "剧集的后1/3略疲软，但是不小心看了剧透觉得好吧，可以原谅。"
+    },
+    {
+      "user": "走马",
+      "avatar": "https://img3.doubanio.com/icon/u3261682-162.jpg",
+      "content": "政治剧的设定放到超级英雄身上更好看了"
+    },
+    {
+      "user": "暖",
+      "avatar": "https://img3.doubanio.com/icon/u19615070-16.jpg",
+      "content": "站在超英的构架里讽刺超英，资本逻辑，消费逻辑，血浆瓦解。"
+    },
+    {
+      "user": "善良虎",
+      "avatar": "https://img3.doubanio.com/icon/u72576980-42.jpg",
+      "content": "民主国家 最后一集看的一头雾水"
+    },
+    {
+      "user": "熬夜真的很不好",
+      "avatar": "https://img3.doubanio.com/icon/u1288503-14.jpg",
+      "content": "超级英雄狂打你的脸"
+    },
+    {
+      "user": "流霜",
+      "avatar": "https://img3.doubanio.com/icon/u129904804-1.jpg",
+      "content": "我们看了太多superhero以至于需要这样一部剧来解解腻"
+    },
+    {
+      "user": "leafalone",
+      "avatar": "https://img3.doubanio.com/icon/u1738012-2.jpg",
+      "content": "今年反超英片的扛把子，足够现实主义，也不缺血浆，节奏够快够爽，还有青春线，可以说是老少咸宜。超英带来的丛林效应恶果，不是新课题，但值得反复强调，因为并不只有会飞会放电的，才会被大众看作是“超级英雄”。"
+    },
+    {
+      "user": "瓦力",
+      "avatar": "https://img3.doubanio.com/icon/u62974457-11.jpg",
+      "content": "有人觉得男主长得像迈克尔珊侬，祖国人长得像杰森贝特曼+约翰特拉沃尔塔么…… 卡尔厄本这造型可以直接去演新一代金刚狼了。。。超级英雄泛滥的当下确实需要这类毁超级英雄题材。"
+    },
+    {
+      "user": "李湘",
+      "avatar": "https://img3.doubanio.com/icon/u2055364-24.jpg",
+      "content": "还挺好看的。"
+    },
+    {
+      "user": "Evarnold",
+      "avatar": "https://img3.doubanio.com/icon/u1436154-2.jpg",
+      "content": "的确比BVS拍得好。"
+    },
+    {
+      "user": "brave",
+      "avatar": "https://img3.doubanio.com/icon/u39699719-2.jpg",
+      "content": "看前四集的时候是觉得high爆了，切入点想法都很棒，血腥到位（别把镜头拉那么近啊喂 吃西瓜呢）但是越看后面越觉得乏味吧，尤其结局，真是令人一阵迷思~\n西蒙只是打了酱油，还以为有更多的爆点呢（不过剧中有些超能力者的一些小设定还蛮有意思的 哈哈哈我说的就是那个黑人背后雪女的故事）海豚龙虾好惨\n6.9~应该不会追第二季了，就酱。"
+    },
+    {
+      "user": "鹿酱",
+      "avatar": "https://img1.doubanio.com/icon/u3602846-299.jpg",
+      "content": "hhhhhhhhhh这个结尾，hhhhhhhhh完结撒花。"
+    },
+    {
+      "user": "其实叫朗基努斯",
+      "avatar": "https://img3.doubanio.com/icon/u1257423-96.jpg",
+      "content": "虽然某些地方剧情有点bug,而且有些地方没有展开讲，但是瑕不掩瑜，整体非常紧凑。最出彩的地方就是人物的塑造，是这两年短剧集里群像写得最好的剧，没有一个干净的好人，homlander这个角色真是太带感了，邪恶虚伪变态又可怜可悲，演员演得也很有层次。PS：吸萌巨巨都开始演二十多岁宅男的老实爹了，真是太打击人了"
+    },
+    {
+      "user": "R",
+      "avatar": "https://img3.doubanio.com/icon/u49389929-12.jpg",
+      "content": "这才叫真正的反超级英雄片。"
+    },
+    {
+      "user": "草原英雄小姐妹",
+      "avatar": "https://img3.doubanio.com/icon/u131371772-1.jpg",
+      "content": "化身肉酱的那一刻就彻底被折服了"
+    },
+    {
+      "user": "费啵",
+      "avatar": "https://img3.doubanio.com/icon/u125112879-13.jpg",
+      "content": "高开低走了，确实被恶心到了"
+    },
+    {
+      "user": "余小岛",
+      "avatar": "https://img3.doubanio.com/icon/u55323010-42.jpg",
+      "content": "资本收服超级英雄，娱乐控制平民百姓，大公司掌握政治和权力。说到底这世界人人都是韭菜，人人都是愚民。。"
+    },
+    {
+      "user": "王写写",
+      "avatar": "https://img1.doubanio.com/icon/u4222027-38.jpg",
+      "content": "3.5。一场大型的娱乐文化批判，对象是好莱坞工业、演艺圈名利场、偶像文化、媒体营销、托拉斯垄断、洗脑式娱乐和假英雄，但是批判力度随剧情发展逐步递减。后两集低劣到令人无以复加，可别认为是反高潮，仅仅是力不从心。"
+    },
+    {
+      "user": "小刀周遠",
+      "avatar": "https://img3.doubanio.com/icon/u1137650-31.jpg",
+      "content": "美国还有这样的漫画…我服了"
+    },
+    {
+      "user": "劳勃·拜拉席恩",
+      "avatar": "https://img3.doubanio.com/icon/u45096927-34.jpg",
+      "content": "这个发展可以的，虽然不是多新颖，但是胜在老道，等下一季"
+    },
+    {
+      "user": "火怪",
+      "avatar": "https://img3.doubanio.com/icon/u45068964-65.jpg",
+      "content": "超级英雄版传教士？"
+    },
+    {
+      "user": "口口吉吉",
+      "avatar": "https://img3.doubanio.com/icon/u82926047-2.jpg",
+      "content": "又想吹又想骂的感觉%&*\n以后还怎么直视DC漫画啊"
+    },
+    {
+      "user": "煎鱼",
+      "avatar": "https://img1.doubanio.com/icon/u78065496-7.jpg",
+      "content": "尺度贼大，烂仔帮名不虚传。赶在被和谐之前看完了，美滋滋。"
+    },
+    {
+      "user": "吉光片羽",
+      "avatar": "https://img3.doubanio.com/icon/u46682134-5.jpg",
+      "content": "制作略简陋，没有大场面打斗，剧情结构也有点东一榔头西一棒子，但是看着挺痛快，剧情和人物设定是真的棒。"
+    },
+    {
+      "user": "没有鱼丸",
+      "avatar": "https://img3.doubanio.com/icon/u2144628-1.jpg",
+      "content": "反套路的类型片"
+    }
+  ]
+}

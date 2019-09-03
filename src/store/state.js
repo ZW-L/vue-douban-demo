@@ -3,7 +3,7 @@ const state = {
   hotAndNew: {
     cinemaHot: {
       title: '影院热映',
-      listName: 'movie_hot_now',
+      listName: 'movie_cinema_hot',
       list: '',
       type: 'movies',
     },

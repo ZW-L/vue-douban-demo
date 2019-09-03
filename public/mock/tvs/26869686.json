@@ -1,0 +1,1105 @@
+{
+  "title": "毒枭：墨西哥 第一季",
+  "url": "https://movie.douban.com/subject/26869686/",
+  "rate": "9.1",
+  "id": "26869686",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2528450871.jpg",
+  "info": [
+    "导演: 约瑟夫·久保田·瓦拉达卡 / 安德烈斯·拜斯 / 阿玛特·伊斯卡拉特 / 阿隆索·帕拉西奥斯",
+    "编剧: 卡洛·伯纳德 / 克里斯·布兰卡托 / 道格·米洛 / 埃里克·纽曼 / 克莱顿·特鲁塞尔 / 阿瑟利·莱尔 / 巴特·尼克尔森 / 斯科特·泰姆斯 / 安德鲁·布莱克 / 杰西·尼克森-洛佩斯",
+    "主演: 迭戈·卢纳 / 迈克尔·佩纳 / 马特·莱斯切尔 / 欧内斯特·艾戴里欧 / 艾尔莎·迪亚茨 / 特蕾莎·鲁伊斯",
+    "类型: 剧情 / 动作 / 犯罪",
+    "制片国家/地区: 美国",
+    "语言: 英语 / 西班牙语",
+    "首播: 2018-11-16(美国)",
+    "季数: 12",
+    "集数: 10",
+    "单集片长: 50分钟",
+    "又名: 缉毒特警 / 毒枭风云 / 毒枭 衍生剧 / 毒枭 第四季"
+  ],
+  "desc": "“逆闪”马特·莱斯切尔(《闪电侠》《明日传奇》)加盟《毒枭》第四季，与此前宣布的迭戈·鲁纳和迈克尔·佩纳共同担任主演。第三季中，对大毒枭巴勃罗·埃斯科巴的追捕结束，缉毒局将目标转向强大的卡利集团和四名主导者：Gilberto Rodriguez Orejuela、Miguel Rodriguez Orejuela、Pacho Herrera、Chepe Santacruz Londono。莱斯切尔将饰演James Kuykendal，是缉毒局探员与哥伦比亚警方组成的新团队的其中一员，他们将全力聚焦卡利集团，而且这次占据优势：集团内部有间谍。该剧目前在墨西哥拍摄，播出日期暂时未定。",
+  "members": {
+    "director": {
+      "name": "约瑟夫·久保田·瓦拉达卡 Josef Kubota Wladyka",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pVpU993L7k6kcel_avatar_uploaded1474646451.51.jpg"
+    },
+    "cast": [
+      {
+        "name": "迭戈·卢纳 Diego Luna",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36123.jpg"
+      },
+      {
+        "name": "迈克尔·佩纳 Michael Peña",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454118774.76.jpg"
+      },
+      {
+        "name": "马特·莱斯切尔 Matt Letscher",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48364.jpg"
+      },
+      {
+        "name": "欧内斯特·艾戴里欧 Ernesto Alterio",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36234.jpg"
+      },
+      {
+        "name": "艾尔莎·迪亚茨 Alyssa Diaz",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1412654505.51.jpg"
+      },
+      {
+        "name": "特蕾莎·鲁伊斯 Teresa Ruiz ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1544361572.02.jpg"
+      },
+      {
+        "name": "杰基·厄尔·哈利 Jackie Earle Haley",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20331.jpg"
+      },
+      {
+        "name": "斯科特·麦克纳里 Scoot McNairy",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p25940.jpg"
+      },
+      {
+        "name": "萨宾娜·加德克奇 Sabina Gadecki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356866396.97.jpg"
+      },
+      {
+        "name": "泰莎·依亚 Tessa Ia",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386161955.6.jpg"
+      },
+      {
+        "name": "特诺切·韦尔塔 Tenoch Huerta",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1383100101.58.jpg"
+      },
+      {
+        "name": "娜塔莎·埃斯卡 Natasha Esca",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/ptwvp8RwymmUcel_avatar_uploaded1542595697.64.jpg"
+      },
+      {
+        "name": "瓦格纳·马拉 Wagner Moura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22255.jpg"
+      },
+      {
+        "name": "豪尔赫·安东尼奥·格雷罗 Jorge Antonio Guerrero",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545115216.99.jpg"
+      },
+      {
+        "name": "霍拉西欧·加西亚·罗哈斯 Horacio Garcia Rojas",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pA6xRpJ9q3-Qcel_avatar_uploaded1545405296.97.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [
+      {
+        "pic": "https://img3.doubanio.com/img/trailer/medium/2537395322.jpg?",
+        "src": "http://vt1.doubanio.com/201908311629/58e594defcf94f30466f713c87efa958/view/movie/M/402380063.mp4"
+      }
+    ],
+    "pics": [
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2540370209.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2540369940.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2540369938.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2540369942.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "小J²",
+      "avatar": "https://img1.doubanio.com/icon/u37483485-8.jpg",
+      "content": "农民企业家毒枭转型中间商赚差价，不是在等电话就是在四处跑业务中，除他以外都是大爷，谁都不敢得罪，到处被人看不起。娱乐性太强太生硬，主要人物动机缺乏交代，仿佛毒枭天生就野心膨胀，DEA探员天生就好大喜功。剧情也有点跳跃，毒枭前半部走不近女色人设，后半部突然就冒出来一堆情妇私生子抛家弃子。全剧只有一个剧情——“惹不起 惹不起”，毒枭只有一个表情——皱眉苦逼脸。"
+    },
+    {
+      "user": "Matrix",
+      "avatar": "https://img3.doubanio.com/icon/u54366489-12.jpg",
+      "content": "1.摄影进步不少 很多镜头的构图真的是时髦又惊艳 2.枪战时追逐的运镜有一线动作片的水准 很有代入感 3.剧情虽然有bug 但总体瑕不掩瑜 4.墨西哥的毒枭总是那么忧郁 永远都是在眉头紧锁 凡事都要思前想后 哪里像麦德林的大哥 从来不怂 就是干"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "第6集33：18，惊现普通话“他妈的”\n"
+    },
+    {
+      "user": "Scarlettmoon",
+      "avatar": "https://img3.doubanio.com/icon/u59218953-23.jpg",
+      "content": "失望惹……节奏拖沓，剧情平淡……"
+    },
+    {
+      "user": "一块纸尿布",
+      "avatar": "https://img3.doubanio.com/icon/u175733048-2.jpg",
+      "content": "毒枭系列诠释了“魔幻现实主义”"
+    },
+    {
+      "user": "时间之葬",
+      "avatar": "https://img1.doubanio.com/icon/u2126832-179.jpg",
+      "content": "前半程那种尴尬的最后一分钟营救，渐渐被后半程给扳了回来。一个在苦心孤诣地构建一个体系，另一个在谨小慎微地与既有的庞大体系对抗。毒品战争之所以注定不可能赢，其实既不在于美国的官僚体系过于庞大，也不在于拉美国家深入骨髓的腐败，而在于毒品这个一本万利的东西，九成的市场都在美帝自己，而把毒品倾销过去的拉美政客，实在有太多理由支持这件事。反观美帝自己，其推崇的自由与人权，到头来也只对美国公民适用，对于其它国家的二等公民，从来是肆意屠戮"
+    },
+    {
+      "user": "阿白",
+      "avatar": "https://img3.doubanio.com/icon/u1227489-3.jpg",
+      "content": "想给菲利斯点一首《你不是真正的快乐》"
+    },
+    {
+      "user": "Intercept",
+      "avatar": "https://img3.doubanio.com/icon/u3529919-14.jpg",
+      "content": "Miguel：我这辈子只成了三件事，合并了大麻和可卡因的运输线，主事Guadalajara Cartel，联合了Sinaloa、Durango等十几个Plaza加入，最后是撮成了南方毒品北上传艺。还有一点微小的贡献是empower了DEA。比前三季平淡，毕竟墨西哥内战结束的早制度较健全PRI太牛逼，毒贩刚起步受制于人，独立武装强硬起来后才开始群雄争霸。和巴勃罗同框时Miguel就像一卖银行理财产品的。"
+    },
+    {
+      "user": "凌烟阁主",
+      "avatar": "https://img3.doubanio.com/icon/u46865330-3.jpg",
+      "content": "讽刺的是，大麻现在居然合法了"
+    },
+    {
+      "user": "听候清退旧精魂",
+      "avatar": "https://img3.doubanio.com/icon/u1018653-1.jpg",
+      "content": "比前面几季Narcos差的太远。演员不论正反方都毫无个人魅力；Diego Luna演的Felix GALLARDO那样的风云人物，肢体语言没有一点威慑力，游说能力、管理水准都全不在线 - 这种人做什么毒枭？笑话。Michael Pena的Kiki就是一个愣头青，哪像现实中优秀agent Caramena那种有章法的调查策划。剧本水准也很一般，对话凑泊，应景而已，无助于人物刻画或者情节推动；连旁白都不如以前。"
+    },
+    {
+      "user": "睡不醒的LYC",
+      "avatar": "https://img1.doubanio.com/icon/u2522242-18.jpg",
+      "content": "这个《毒枭》衍生剧与原剧的差距完全反映在EP05两位主角那场对手戏：作为毒枭，人生的境界差得太远啊。"
+    },
+    {
+      "user": "刘小流",
+      "avatar": "https://img3.doubanio.com/icon/u66469764-151.jpg",
+      "content": "哥伦比亚的几位大佬在第五集亲情客串，巴勃罗的故事太传奇，以至于本以为第三季都没有看的必要，和米格尔对峙也明显是大哥对小弟嘛，但还是够魔幻刺激；前两季最魔幻，第三季剧情上抓人，对比下这季显得有点弱。本季中DEA还刚刚崛起，特工奇奇被杀就导致美国激烈反弹，（为了把他们抓回美国甚至使用了赏金猎人……估计下一季就该拍到了）这也解释了前两季中毒枭为什么不敢碰DEA的人。哀悼下为取景牺牲的制片人卡罗·穆诺兹……"
+    },
+    {
+      "user": "Momomomomonica",
+      "avatar": "https://img3.doubanio.com/icon/u54717954-20.jpg",
+      "content": "腐败、勾结、屠杀，离上帝太远的墨西哥，这个体制容不下英雄。第五集，墨西哥和麦德林交集串联，Pablo小胖再现，感动！（悄咪咪说：还是哥伦比亚线比较好看"
+    },
+    {
+      "user": "圣多默",
+      "avatar": "https://img3.doubanio.com/icon/u134937362-2.jpg",
+      "content": "我来自17号，熬了一夜已经都看完了，好精彩！一如既往拿捏有度的节奏感，一流的摄影、镜头调度、及平行蒙太奇处理。但美中不足的是米格尔感情线的处理，致使其人设饱满度欠缺，言而总之该季存在着过多一头雾水的伏笔，期待下一季来填充，希望与其正传交相辉映构成属于拉美毒枭的《百年孤独》."
+    },
+    {
+      "user": "日租界傀儡",
+      "avatar": "https://img1.doubanio.com/icon/u56088234-19.jpg",
+      "content": "拉美毒枭宇宙..."
+    },
+    {
+      "user": "Harmonica",
+      "avatar": "https://img3.doubanio.com/icon/u113124571-14.jpg",
+      "content": "……迭戈·卢纳有种禁欲系的帅！"
+    },
+    {
+      "user": "兰波",
+      "avatar": "https://img3.doubanio.com/icon/u1119223-3.jpg",
+      "content": "前三季侧重点还是放在人物，尤其是巴勃罗埃斯科瓦尔身上，政治制度攻讦相对于个人影响力来说，并没有太多着墨处，且哥伦比亚政坛相较于墨西哥来说，派系斗争更分化，权力也更分散，并没有像墨西哥这种一D独大，一手遮天的状况，巴勃罗急于用金钱换取政治影响力，就在于他的保护伞并不够完善，他的安全感不足于让他屈居幕后，是以，他想直接竞选议员，甚至坐上总统宝座的美梦。与之相比，米格尔并没有政治上的野心（或不敢有），他更甘于躲在幕后，操纵政客去实现自己的目标，他所有的目标就在于赚大钱，赚更多的钱，因为拥有足够的钱才能收买更多的政客，换取政治庇护乃至“独家经营的默许”。没错，在墨西哥，毒品贩卖如同国企经营权，要政府给予特权才能做得下去。之后评论被SB豆瓣移除了。"
+    },
+    {
+      "user": "水包酱",
+      "avatar": "https://img3.doubanio.com/icon/u43087284-2.jpg",
+      "content": "这个体制容不下英雄。"
+    },
+    {
+      "user": "★☆☆☆☆",
+      "avatar": "https://img1.doubanio.com/icon/u1895572-128.jpg",
+      "content": "（９／１０）这一季改编自kiki案，看得很难受。墨西哥毒贩和政府不是对抗、而是从属关系。了解下墨西哥毒品史就会知道，政府才是最大的毒贩，甚至总统的家人、缉毒局局长、官僚都会参与贩毒，还会收“毒品税”。毒贩只是政府的毒品销售人。看完这个系列最厌恶的不是毒贩，而是包庇毒贩的警察，你把安全托付给他们，他们却在做与职责相反的事。"
+    },
+    {
+      "user": "Imperfect",
+      "avatar": "https://img3.doubanio.com/icon/u113554851-4.jpg",
+      "content": "9.8分开局可怕...."
+    },
+    {
+      "user": "saul",
+      "avatar": "https://img3.doubanio.com/icon/u125570850-2.jpg",
+      "content": "⭐⭐⭐⭐⭐用十集开个头，重点还是在下一季啊，PS:Don't fuck with DEA"
+    },
+    {
+      "user": "啵嚨嘬Peculiar",
+      "avatar": "https://img1.doubanio.com/icon/u137742177-57.jpg",
+      "content": "与埃斯科巴截然不同，受制于人，萎了九集，厚积薄发第10集直接硬起，从来不是强大到能够统治一切。今年喊“卧槽”最多的剧，这无法松懈的紧绷我还是被震惊了。感恩回归秀一波的大佬，同时第10集近乎残忍的幽默非常对头，这完全不是盗火线，而是现代启示录的气场。迭戈·卢纳演技是不错，Felix荡平局势的神采好霸气，自信迎难上，也睿智难捉摸。从第一季最先开始有的那种专属于Pablo的南美暴发户装逼范没了，所以本季里本尊的人物光环显得优劣兼具。连猪队友作为男人都懂得思考了，双方打枪放炮免不了有后顾之忧。我心里还是有点难过，墨西哥人总缺少最直接的干脆利落。看明白了，钱的确是万能的，可现实中人大多是贪得无厌心又黑，抽身那么早还逼人太甚当挡箭牌，不外乎沉沦在彼此互相掌控的游戏（至17日晚17时55分，整季全部刷完）"
+    },
+    {
+      "user": "文青是病",
+      "avatar": "https://img3.doubanio.com/icon/u81799497-5.jpg",
+      "content": "还以为能见识下大场面，结果所谓【毒枭】，却是跟过家家一样。这些一个个的大佬，平日真是没半点安保意识，简直比鸡还好宰。"
+    },
+    {
+      "user": "容易鸡冻的孩纸",
+      "avatar": "https://img3.doubanio.com/icon/u57278963-4.jpg",
+      "content": "熟悉的片头曲响起，嗯！网飞，真香。"
+    },
+    {
+      "user": "nothing传叔",
+      "avatar": "https://img3.doubanio.com/icon/u35530931-12.jpg",
+      "content": "毒枭三季的番外，竟然为了逆闪坚持看完的，客串太出戏。奇奇无亮点，去了墨西哥还当在美国（还是毒枭点醒了他），不发动群众不依靠群众也不统战，动辄对墨警察说FKY，毫无谋略，也无提防，最后被绑身死，成了其他DEA探员的保护神。。。这季墨毒枭晃了10集还象路人，巴勃罗出来提两下裤带就拽到云端，评分不是一般的虚高。。。"
+    },
+    {
+      "user": "rikukenkou",
+      "avatar": "https://img3.doubanio.com/icon/u2146226-4.jpg",
+      "content": "恕我直言和前三季比起来就是坨那个"
+    },
+    {
+      "user": "Badcat",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "比前作差远了。"
+    },
+    {
+      "user": "托尼·王大拿",
+      "avatar": "https://img3.doubanio.com/icon/u4403626-330.jpg",
+      "content": "哥伦比亚是无差别的暴力地狱，而墨西哥则是体制化的沆瀣一气，于是虽然开始不似前者的模样，但终于在更为黑暗和压抑的加持下超越了前者的疯狂；网飞交出了一份“如何讲好已经知晓结局的故事”的答卷，美国则很难找到“怎样打赢一场注定失败的战争”的道路。"
+    },
+    {
+      "user": "有得有失",
+      "avatar": "https://img3.doubanio.com/icon/u138984757-3.jpg",
+      "content": "这一季弱爆了.......剧本太差了"
+    },
+    {
+      "user": "文森Vincent",
+      "avatar": "https://img3.doubanio.com/icon/u76028606-133.jpg",
+      "content": "叙事和第三季一样拖泥带水，调度华丽铺张却严重缺乏趣味性和可读性，整个故事也完全是电视剧的工整写法。严肃的题材和基调绝非佳作的标志，《毒枭》首季的致胜不仅在于其呈现的南美魔幻现实奇观，更重要是它全面企及当下电视工业的一流制作水准。相对而言，本剧只能称作是规格化的二流商业制作。★★★"
+    },
+    {
+      "user": "redhousepainter",
+      "avatar": "https://img3.doubanio.com/icon/u1190688-12.jpg",
+      "content": "虽然是毒枭4，其实是毒枭0，以前的几位老朋友都在第五集里出现。这个系列如果一直拍下去的话就等于把毒品史梳理了一遍。一个墨西哥人发明了无籽大麻，在墨西哥沙漠中间种了一大片大麻田，每年的产量达到美国每年消耗大麻量的三分之一。。。。飞行员第一次知道这种故事真心太震撼了，哈哈哈！"
+    },
+    {
+      "user": "MR.CHarles",
+      "avatar": "https://img1.doubanio.com/icon/u106347535-29.jpg",
+      "content": "和发生在哥伦比亚的原三季作出区分是明智的，因为那一部分的成功是建立在哥伦比亚特色的魔幻现实主义之上。而发生在墨西哥的故事，则变成残忍暴力的现实主义。利益成为驱动这个庞大毒品帝国机器的核心齿轮，配合从上到下，从国境这头到那一头的腐败，才成功运转几十多年。摄影和制作上感觉比老三季更为华丽，而叙事模式也相应作出调整和更改。部分片段不禁想到边境杀手。虽然是基于现实所改编，但依然给观众大致展现出美国毒品战争的诞生与初始。"
+    },
+    {
+      "user": "高压电",
+      "avatar": "https://img1.doubanio.com/icon/u44819703-689.jpg",
+      "content": "两派人物弧光非常模糊，拍的毒品不迷人也不吓人."
+    },
+    {
+      "user": "陶子冬",
+      "avatar": "https://img3.doubanio.com/icon/u4292525-3.jpg",
+      "content": "衍生剧差了好多，节奏慢，剧情散"
+    },
+    {
+      "user": "你能怎样",
+      "avatar": "https://img3.doubanio.com/icon/u139050240-12.jpg",
+      "content": "17年时候刷微博说制片人为第四季取景被当地毒枭枪杀，致敬，怎么都要给五星啊啊啊啊啊"
+    },
+    {
+      "user": "Cathay",
+      "avatar": "https://img3.doubanio.com/icon/u59530679-5.jpg",
+      "content": "风格变了，节奏慢了，本季我们的大佬特别挣扎，没有哥伦比亚那么爽和豪气，魔幻少了，好像更写实和接地气，所以多少显得有点无趣。有些支线有点多余（比如拉法这个戏多的傻逼天天有的没的），砍掉变成8集会紧凑些。"
+    },
+    {
+      "user": "西决",
+      "avatar": "https://img3.doubanio.com/icon/u48484295-22.jpg",
+      "content": "毒枭系列的剧本太弱了，哥伦比亚玩不转了转向墨西哥，依然是真实事件改编，本季的人设大失所望，开始还是有点看好新毒枭的，没有巴勃罗的霸气，走的逆袭之路，可后期突然膨胀完全崩掉，而正方人物更是毫无亮点，正邪两都不立啊，配角里索菲亚很美，内托这个老头有意思，麦德林和卡利的人有客串，第六集不错。"
+    },
+    {
+      "user": "老珂",
+      "avatar": "https://img1.doubanio.com/icon/u4529884-8.jpg",
+      "content": "感觉本季比过往三季，少了一点更出彩的浓郁。"
+    },
+    {
+      "user": "小次蛙",
+      "avatar": "https://img1.doubanio.com/icon/u9355195-179.jpg",
+      "content": "能真实闻到血味、汗臭、体味、烟草味、刺激性香料味的剧，后面几集体验着心脏炸裂的同时又被人捂住不让炸裂之感。Felix的演员简直就是墨西哥诺顿，这样选演员属于犯规。"
+    },
+    {
+      "user": "paperman",
+      "avatar": "https://img3.doubanio.com/icon/u56526011-4.jpg",
+      "content": "一年最期待的两部剧，律师和毒枭。献上我的膝盖。"
+    },
+    {
+      "user": "韩产小昊子",
+      "avatar": "https://img3.doubanio.com/icon/u52821908-2.jpg",
+      "content": "如果说哥伦比亚的毒枭就是直接干，DEA和警察也敢硬碰硬，而在墨西哥包括毒枭和DEA，警察都处在更为复杂的江湖里各奔东西。一开始挺反感Miguel总是比Escobar弱一些，但是最终看完之后，Muguel才是真正的赢者。也更令人期待下一季的Nasty war. 摄影大有提高，演员们毫无逊色，故事线一开始稍微拖，但依然很精彩！一口气看完十集，14个月的等待没白等"
+    },
+    {
+      "user": "Tailor",
+      "avatar": "https://img3.doubanio.com/icon/u66114761-6.jpg",
+      "content": "远远不如前三部啊 老大魅力太差"
+    },
+    {
+      "user": "frozenmoon",
+      "avatar": "https://img3.doubanio.com/icon/u1233038-2.jpg",
+      "content": "因为拍个剧，勘个景，人都死了，还继续拍，真是五体投地。"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "保持前两季在镜头质感、虚实相间剧情的优点，长镜和手持用得游刃有余，构图亦有匠造痕迹，迭戈·卢纳虽帅，但Miguel自身魅力较Pablo依旧逊色一点，E5麦德林集团和卡利集团现身惊喜，合力构成南美大陆的魔幻现实。底层发家的野心家，不仅具有毒辣手段，更有前瞻意识，被高层蠹虫鄙视压制却能携有效生存智慧屡屡脱身，毒枭的成长也是墨西哥毒品市场壮大的过程。本片最有趣的一个点：所谓“正方”无疑是Kiki代表的美国，然而维持毒品链长久不灭的也恰是美国（甚至包括军火的供给关系，以及政坛格局的变动），一切皆由利益驱动，不同阵营的站队，同一阵营的趋利，浸润着无穷暗黑血色的无底洞——永远会有下一个毒枭。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "那么！哪里能看呢！\r开完第一集，还是一如既往的好看，我就放心了！这周末把十集补完！\r觉得里面的角色真的不如前两季啊，特别是没有像卡里略和第二季那位上校的狠面正派角色。"
+    },
+    {
+      "user": "然后",
+      "avatar": "https://img3.doubanio.com/icon/u3113055-55.jpg",
+      "content": "不知道KIKI在天之灵知道大麻现在合法了作何感想"
+    },
+    {
+      "user": "咖喱娜",
+      "avatar": "https://img1.doubanio.com/icon/u4901541-128.jpg",
+      "content": "这真的是创建史上第一贩毒集团，人称“毒枭的毒枭”米格尔·加利亚多的故事？明明是教父级的大佬，既没有麦德林大魔王的张扬霸气，也没有卡利绅士的八面玲珑，瘦弱的小身板，永远愁眉苦脸的表情，谨小慎微，怂的一批，一天到晚疲于奔命应付颐指气使的安全局长，漫天要价的州长政客，当婊子偏要立牌坊的上层权贵，而不省心的兄弟和闹着回娘家的老婆也来添乱，摁下葫芦浮起瓢，一波未平一波又起，哪有老大的架势？后来我明白了，《毒枭：墨西哥》讲的并不是米格尔的故事，而是真正的毒枭，最大的贩毒集团——墨西哥政府。米格尔和他的一帮子毒贩不过是这台国家贩毒机器上的齿轮罢了。一枚棋子怎会有纵横捭阖施展拳脚的空间？剧尾靠着两盘磁带，米格尔终于威风了一把，可接下来他将面对的是美帝的雷霆之怒和墨政府的弃卒甩锅，他的结局已经显而易见了。"
+    },
+    {
+      "user": "竺竹.哼哼.不二",
+      "avatar": "https://img3.doubanio.com/icon/u56922790-52.jpg",
+      "content": "最后一集，那辆房车的出现让我产生了老白和小粉归来的强烈错觉。\n但不同于看《绝命毒师》时因为人物塑造的原因偶尔还会泛起同情，这一部中Kiki被虐杀和主线中卡里略的悲剧顿时又让我清醒过来，又想到了辛弃疾和颜真卿这样的孤胆英雄。\n而且在不断更正一个观念：黑暗与光明站在了纺锤形的两端，并且更多时候，黑暗才是主控这陀螺旋转的原力。但总有一群人，真的是任尔东西南北风，千磨万击还坚劲的坚守天生正义。\n如果在平常中，你是纺锤中间那平庸的大多数，那在大是大非面前，一定要选择善良，选择正义，让这陀螺回到光明在上的轨道。"
+    },
+    {
+      "user": "Schwartz_man",
+      "avatar": "https://img3.doubanio.com/icon/u72224486-93.jpg",
+      "content": "这只是个开头而已。从第7集之后更精彩，老大才有老大的本色，黑帮与政治之间的纠葛，老美一直在憋屈。"
+    },
+    {
+      "user": "⚪️HelloThere🔵",
+      "avatar": "https://img3.doubanio.com/icon/u35510811-184.jpg",
+      "content": "这季就差拿着大喇叭对你吼——最坏的人一定是为政府工作的。一如既往看得超憋屈。前7集节奏很好，后面有点断链。"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "4.0。"
+    },
+    {
+      "user": "鼠",
+      "avatar": "https://img3.doubanio.com/icon/u82779293-220.jpg",
+      "content": "毒枭已经成为新的金字招牌，期待剧组在更多国家拍摄这个系列（同时避免人员伤亡）。该剧已经证明了自己，它的优秀与巴勃罗·埃斯科巴没关系（即便如此，在别人的故事里登场也一样令人激动）。四季的故事串了起来，拉美贩毒网已经形成。彩蛋：罗夏演员、巴里·林登主题曲。"
+    },
+    {
+      "user": "甦醒 Nostalgia",
+      "avatar": "https://img3.doubanio.com/icon/u52460978-10.jpg",
+      "content": "依旧好看！整个毒枭的创业史，很符合现在的大部分创业的模式，首先你得有爆款产品（无籽大麻）然后你得有铁杆代理商（广场头目）给你分销，等有一天你公司发达了但还不够上市就得有更高效赚钱的产品，那就贴牌哥伦比亚白粉，也终会有一天你的公司像一个帝国化的集团了，你的创业团队会对产品有分歧，你的代理商会觉得不爽，家人远离，你开始踱步一如创业初始一样忧伤，有钱原来他妈的使人空虚啊。虽然墨西哥毒枭没哥伦比亚的毒枭那么魔幻，但这一季还是成功的塑造了一种垂直和堕落式的人物美学，卡玛瑞拉探员的死拉开了整个毒品战争的帷幕也给其他探员打通了南美行走无忧的通行证，总有人得牺牲换取大众的觉醒，但实在是不公和残忍，一个体制的腐败一定是由内到外的，你看外表是毒枭的魔幻创业史，真是应该是高层魔幻的腐坏和各种阴差阳错事件的巧合。"
+    },
+    {
+      "user": "人号",
+      "avatar": "https://img3.doubanio.com/icon/u56818119-22.jpg",
+      "content": "是我心不在焉还是咋地 感觉不咋好看啊 还没一二部好，更没第三部扣人心弦了"
+    },
+    {
+      "user": "西帕克",
+      "avatar": "https://img3.doubanio.com/icon/u49097402-173.jpg",
+      "content": "第一季的埃斯科巴是梦想家，第三季的卡利是商人，到了这季的菲利斯则完全是一个推销员，可以说虽然是墨西哥和哥伦比亚，但毒枭的崛起其实很美国梦。总体上延续前三季的套路，最后一集旁白终于现身，可算是把叙事结构圆回来了。"
+    },
+    {
+      "user": "群众",
+      "avatar": "https://img3.doubanio.com/icon/u49606803-272.jpg",
+      "content": "没头脑VS不高兴。"
+    },
+    {
+      "user": "Leon",
+      "avatar": "https://img1.doubanio.com/icon/u59213940-8.jpg",
+      "content": "收买与被收买的，出卖与被出卖的，几个毒枭消失了，更多的毒枭出现了，一个警察倒下，更多的警察来了。这一季不温不火，对活太多，稍显唠叨，看得并不过瘾，gun battle, drug dealer, blood and sex，这一季没什么让我印象深刻，记不住几张面孔，更像是为第二季埋下引子，再会吧，面瘫的菲利斯，安息吧，满腔正义的奇奇，上场吧DEA，给我来点真正的好戏。"
+    },
+    {
+      "user": "给我个电话亭，我要拯救地球！",
+      "avatar": "https://img3.doubanio.com/icon/u1920660-106.jpg",
+      "content": "没脱裤子减一星"
+    },
+    {
+      "user": "litkio",
+      "avatar": "https://img1.doubanio.com/icon/u54665612-127.jpg",
+      "content": "比起第一部的石破天惊炸天炸地，实在是越拍越憋屈。警察全程碰壁，米格深思苦虑。而且剧情太过紧逼，零散，观感并不太好。与之前的剧情模式实在太类似，还缺乏惊喜的侧重点。但不管怎样，下季该要爽点了。"
+    },
+    {
+      "user": "Mammad Lee",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "一切都是利益，绝大多数人都是相似的。谁掌握了先进生产力和组织形式，谁就是老大。一个商人能和政府官员搞好关系，就能白手起家成为首富；一个研究者会造编造别人认可的数据，就能成为科学家；一个大学老师工于心计，就有很多女学生跟他开房。然而一个警察恪尽职守就会死，一个科学家要不编数据就找不到工作"
+    },
+    {
+      "user": "轱辘",
+      "avatar": "https://img3.doubanio.com/icon/u2201900-33.jpg",
+      "content": "太平淡了，所有主角都一副弱鸡脸，隔靴搔痒的感觉。"
+    },
+    {
+      "user": "盲忙",
+      "avatar": "https://img3.doubanio.com/icon/u2206329-131.jpg",
+      "content": "the born of Godfather. Diego Luna 大概是史上最优雅的毒枭了，人物塑造铿锵有力，剪辑扣人心弦，配乐深沉大气，perfect!"
+    },
+    {
+      "user": "davekozg",
+      "avatar": "https://img3.doubanio.com/icon/u2039887-2.jpg",
+      "content": "拉美毒贩的故事就像是马尔克斯的小说，读来目瞪口呆，却往往是当事人无可置疑的亲身经历。这片魔幻现实主义的土地，总能让观者能达到想象力边界之外的真实世界，每个置身其中的角色，都在这真实世界的故事里光彩夺目 #真实总是比虚构更有力量，也更离奇#"
+    },
+    {
+      "user": "雅诗兰豆",
+      "avatar": "https://img3.doubanio.com/icon/u3198636-23.jpg",
+      "content": "哇塞太好看了，这电视剧太高级了，不仅拍出了电影的质感，还是《教父》级别的电影！"
+    },
+    {
+      "user": "水水",
+      "avatar": "https://img3.doubanio.com/icon/u1159968-1.jpg",
+      "content": "镜头讲究"
+    },
+    {
+      "user": "鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1394007-34.jpg",
+      "content": "坐等下一季"
+    },
+    {
+      "user": "维城乱马",
+      "avatar": "https://img3.doubanio.com/icon/u1367110-160.jpg",
+      "content": "去年传出剧组取景工作人员被毒贩枪杀的新闻，更给这一季平添了许多神秘色彩，虽然这么说可能有些不尊重死者，但大家无疑因此更关注更关注和期待这一季。这次转战墨西哥，编剧导演主演大换血，毒品犹存，枭雄不再。无论角色还是演员本身的魅力都远远逊于前作，故事发展都在意料之中，叙事过于平铺直叙，菲利斯的心理转变又显得铺垫不足，中途一度想放弃，虽食之无味，但又弃之觉得可惜，还是咬牙坚持，最终足足花了一周才看完。对我来说全剧唯一的亮点莫过于第五集巴勃罗的出场，在霸气侧漏的真 . 大佬面前，菲利斯就像个小跟班。整体我只能给三星半吧。题材的特殊性和拍摄难度值得再加半颗星。看了豆瓣影评里的一些真实人物和历史事件的介绍，倒是觉得比剧集有意思，也更佩服剧组的选角，化妆和美术。"
+    },
+    {
+      "user": "纵横四海",
+      "avatar": "https://img3.doubanio.com/icon/u46356952-74.jpg",
+      "content": "剧情介绍写的啥J8玩意儿？一通乱写！"
+    },
+    {
+      "user": "Hengcuo",
+      "avatar": "https://img3.doubanio.com/icon/u1162845-1.jpg",
+      "content": "消音赛高~"
+    },
+    {
+      "user": "一碗云吞",
+      "avatar": "https://img3.doubanio.com/icon/u1349428-10.jpg",
+      "content": "剧情很行云流水啊，但是感觉felix最常见的状态是懵逼和发愁，最后两集才有点像大佬。。。。提前被剧透了结局，所以一直都有心理准备，可是全部看完之后又回想起之前的情节，想起kiki那么认真正义又热情觉得好郁闷。。。"
+    },
+    {
+      "user": "风雨骑老师",
+      "avatar": "https://img3.doubanio.com/icon/u4422848-45.jpg",
+      "content": "精彩依旧，摄影和叙事已经是完全电影水准了。Felix可能不如前三季的哥伦比亚大佬们怼天怼地的霸气，外面对付生意伙伴和烂到骨子里的政府有操不完的心，内部还要帮各种猪队友擦屁股，但他如毒蛇般阴狠毒辣的处事风格也丝毫不落下风。结局依旧很丧，Kiki生不逢时，不过没有他也不会有后面的DEA。最后的镜头也让人无比期待下一季，War, war never changes."
+    },
+    {
+      "user": "大波罗霸",
+      "avatar": "https://img3.doubanio.com/icon/u52143519-25.jpg",
+      "content": "三星半吧。前几集平淡得让人泄气，唯一高潮还在巴勃罗的惊喜登场，新毒枭气场完全比不上，好在最后两集水准回升，还是期待下下一季吧"
+    },
+    {
+      "user": "X杰",
+      "avatar": "https://img3.doubanio.com/icon/u33120695-13.jpg",
+      "content": "这季的故事线太多吐槽点了，首先对主角kiki的角色设定和描写弱得不行，对一个灵活的卧底DEA警察形象根本立不起来，所以kiki死时没办法带入仇恨感。其二是毒枭那边的崛起故事线乱七八糟，只是把其中几个重要节点串在一起，而连续性太差了，完全没有前3季故事的连贯和畅快感。最后，西语的翻译太TM差了，根本看不懂翻译什么意思，导致剧情和角色性格根本很难理解。"
+    },
+    {
+      "user": "姨太.FENG",
+      "avatar": "https://img1.doubanio.com/icon/u2247370-7.jpg",
+      "content": "单看可能要给四分 但是毒枭的剧组对得起五分 剧情跟节奏跟之前三季有了很大的憋屈 可能是墨西哥大佬们跟背景跟哥伦比亚党确实不太一样 所以感觉整体都很憋屈 终于有一种毒枭都赶紧死的观影感了 Pablo的彩蛋让人格外兴奋 以及Pablo的气场真是无人能敌 再次为Pablo的演员演技折服"
+    },
+    {
+      "user": "电影盘点君",
+      "avatar": "https://img1.doubanio.com/icon/u139295356-8.jpg",
+      "content": "相当慢热，到第5，6集才渐入佳境，最大的罪犯不是毒枭，而是。。。。"
+    },
+    {
+      "user": "木偶",
+      "avatar": "https://img3.doubanio.com/icon/u1333942-42.jpg",
+      "content": "从时间线上看，这是开始，DEA从此开始发迹，剧情和人物上都弱与前三季，米格尔同学在埃斯科瓦尔面前简直就是个保险经理（详情见第五集）。主角奇奇也比佩纳逊色很多。优点在于仍然保留了魔幻风格，看着依然很过瘾。"
+    },
+    {
+      "user": "逆风的方向",
+      "avatar": "https://img3.doubanio.com/icon/u4393910-11.jpg",
+      "content": "叙事一如既往的精彩，多线交叉节奏分明，镜头调度超级棒！主要讲墨西哥毒枭Felix崛起史，在过程中人性逐渐泯灭，这与欲望有关，也与周围污浊环境的侵蚀有关。该剧对毒品问题的讨论较为深刻，涉及很多现实揭露，然而对俩男主的刻画都较为欠缺，毒枭魅力较麦德林Pablo差很多，从客串时的气势就能觉出；警察更是全剧都被吊打，好不容易胜一仗，代价是被绑架刑讯…两男主只在8集末尾见了一面，说了一句话，火花还未擦亮就灭了，可惜可惜。该剧对女性并不友好，几位重要女性要么蛇蝎美人，要么糟糠被弃，部长家的小浪蹄子一开始要革命，生死关头当面背叛情人，倒是男主妻子坚强又不失进取，可也是家庭妇女的设定。不能不说既是当时背景的写实，也是该剧对女性刻画的缺陷。"
+    },
+    {
+      "user": "Zhang Yixin",
+      "avatar": "https://img3.doubanio.com/icon/u1024031-32.jpg",
+      "content": "看完这季不奇怪巴布洛竞选总统了哈哈哈。Felix没过几天好日子。巴勃罗在本季出现的时候不是小胖子了没有胖的可爱。 还是好看，节奏比前几季慢，看完又能看什么美剧呢。"
+    },
+    {
+      "user": "惑星統合機関",
+      "avatar": "https://img3.doubanio.com/icon/u1408530-120.jpg",
+      "content": "毒枭真的一季不如一季，居然能产生这种鸡肋感，药丸。拖了这么多个月，要不是为了清硬盘+听西语我都懒得看完，结果最后居然一季还没讲完这个故事Orzzzzz别说主角和故事背景不如哥伦比亚，连配角都乏善可陈，在跟体制打交道方面也表现得麻麻"
+    },
+    {
+      "user": "Virgil",
+      "avatar": "https://img3.doubanio.com/icon/u7987819-61.jpg",
+      "content": "TBH我也更喜欢麦德林的大哥(￣∇￣)"
+    },
+    {
+      "user": "全塑料外壳",
+      "avatar": "https://img1.doubanio.com/icon/u2839065-7.jpg",
+      "content": "本来想着换了人会不会降低吸引力，被第一集后半部分震到了"
+    },
+    {
+      "user": "Sodom程",
+      "avatar": "https://img3.doubanio.com/icon/u1030410-40.jpg",
+      "content": "应该是前传，讲缉毒警探员被虐杀的那段事。"
+    },
+    {
+      "user": "Way-Kwok Chu",
+      "avatar": "https://img1.doubanio.com/icon/u70077537-29.jpg",
+      "content": "好评"
+    },
+    {
+      "user": "功夫兔子",
+      "avatar": "https://img3.doubanio.com/icon/u4713424-41.jpg",
+      "content": "最后两集是精华"
+    },
+    {
+      "user": "猫苦艾。",
+      "avatar": "https://img3.doubanio.com/icon/u63406200-61.jpg",
+      "content": "作为传奇毒枭，菲利克斯的形象塑造有些弱了，完全比不上帕布罗，人物挖掘不够，当然，这也和墨西哥的情况有关，毒枭从属于政府。种大麻的孩子得不到想要的爱情，看过史料，这里应该是戏剧化了。期待第二季。取景师R.I.P"
+    },
+    {
+      "user": "个别人",
+      "avatar": "https://img3.doubanio.com/icon/u45581073-26.jpg",
+      "content": "没有前三季好看。下一季可能不会再看了。什么时候Pena出场再说吧。"
+    },
+    {
+      "user": "ipanema",
+      "avatar": "https://img3.doubanio.com/icon/u1620005-15.jpg",
+      "content": "好人与坏人都比前几部弱"
+    },
+    {
+      "user": "Sora",
+      "avatar": "https://img3.doubanio.com/icon/u11115224-10.jpg",
+      "content": "这季摄影很棒，动作戏搞了很多长镜头，还有各种低光柔光看得出来导演和dp还是有点想法的，刚开始看的时候就已经从画面感觉到了魔幻感。可惜后面几集节奏变得很奇怪，每次都是最后关头boss跑了...不是说戏剧化的东西不好而是你不能整个剧都一直来这种套路，审美疲劳好吗。然而男主太帅！看侠盗一号的时候就很喜欢"
+    },
+    {
+      "user": "可惜流年",
+      "avatar": "https://img3.doubanio.com/icon/u46692711-3.jpg",
+      "content": "没有埃斯科巴的一身匪气，没有卡利集团的精英气质，墨西哥的大佬永远紧锁眉头，慌忙地连纵合横，精确地计算着自己每一分利润，最终打造了富可敌国的Cartel。也许是距离美国太近，也许是埃斯科巴的故事太过传奇，这位墨西哥大佬除了有钱，却依然难以建立一个从中央到地方的独立王国。但从三个毒枭身上，似乎可以找到一些共同点：那些看似用不完的财富和呼风唤雨的威风背后，永远是朝不保夕的不安全感；扫荡毒品集团，永远要依靠一个富有正义感、不讲法治和程序的强势人物；毒品战争永远要让位于政治利益；美国的官僚系统也许低效，但永远是正义最终的保障。不同于哥伦比亚故事线，本季毒枭与DEA大部分时间都少有对垒，精彩程度也有所下降，不过这依然是本年度最值得推荐的剧集。"
+    },
+    {
+      "user": "pksky",
+      "avatar": "https://img3.doubanio.com/icon/u1682352-1.jpg",
+      "content": "末尾才是精华，一场战争的源起，Kiki的牺牲作为引子，满心期待下一季…pablo和Cali的乱入燃起小鸡冻…mexico的首位毒枭养成记，如何从一个小打小闹在乱世中成长为心狠手辣的patron，弱鸡了大半季，终于学会整支army护体了…tessa la和teresa ruiz是唯一黄暴点了…"
+    },
+    {
+      "user": "喜宴",
+      "avatar": "https://img1.doubanio.com/icon/u1637278-207.jpg",
+      "content": "这一季总结俩字就是憋屈，没有人过得很爽，一个毒枭愁眉苦脸，一个毒枭恋爱失败，剩下的就是郁郁不得志，缉毒人员这边整天啥都干不了，最后还是个BE（算是吧虽然结局前几季早就告诉大家了），不过下季的剧情应该爽快，因为美爹终于有空收拾局面了。"
+    },
+    {
+      "user": "Alexxx_61",
+      "avatar": "https://img3.doubanio.com/icon/u46065523-5.jpg",
+      "content": "narcos有种让我为坏人提心吊胆甚至standing ovation的诱惑。。。"
+    },
+    {
+      "user": "hiro",
+      "avatar": "https://img3.doubanio.com/icon/u35819210-16.jpg",
+      "content": "剧里面杀个墨西哥人跟杀条狗一样，但是杀DEA探员就不一样了"
+    },
+    {
+      "user": "Killjoy",
+      "avatar": "https://img3.doubanio.com/icon/u57451690-111.jpg",
+      "content": "Tuyo的墨西哥版太欢快了吧23333"
+    },
+    {
+      "user": "Noel",
+      "avatar": "https://img3.doubanio.com/icon/u2891842-93.jpg",
+      "content": "想要mika这样的妻子，想要don neto这样的朋友"
+    },
+    {
+      "user": "影身",
+      "avatar": "https://img3.doubanio.com/icon/u177893765-2.jpg",
+      "content": "太牛逼了。前三季用滥的平行剪辑重焕光泽，毒枭和探员相似的困境和愿景建立了剪辑的内在逻辑，影像间的情感流动极其连贯，致使二者最后的相见克制却也冲突满溢。摄影上构图也十分美妙。南美的魔幻与现实的冷酷糅在一起，魅力惊人。"
+    },
+    {
+      "user": "AshtrayGem",
+      "avatar": "https://img3.doubanio.com/icon/u2230213-91.jpg",
+      "content": "居然有哥伦比亚天团客串2333333惊喜233333看到后面太难过了...墨西哥真是魔幻...说西语的大哥们真都很魔幻...记得以前西语课老师说她外派到墨西哥的时候从银行出来被打劫了两次（。"
+    },
+    {
+      "user": "Lazy Designer",
+      "avatar": "https://img3.doubanio.com/icon/u2928700-15.jpg",
+      "content": "期待下一季屠城……19/04/09"
+    },
+    {
+      "user": "草原上的马",
+      "avatar": "https://img3.doubanio.com/icon/u149612767-1.jpg",
+      "content": "这才是一部优质美剧应该有的样子"
+    },
+    {
+      "user": "鱼子由ZIJI WOO",
+      "avatar": "https://img3.doubanio.com/icon/u3139991-6.jpg",
+      "content": "配乐棒棒哒"
+    },
+    {
+      "user": "时针",
+      "avatar": "https://img3.doubanio.com/icon/u49091528-20.jpg",
+      "content": "缉毒警察真的太不容易了"
+    },
+    {
+      "user": "大瘦瘦",
+      "avatar": "https://img3.doubanio.com/icon/u1804355-2.jpg",
+      "content": "最好看的是e5和e6，这两集导演的是赫利和野蛮地区的伊斯卡拉特，既有他标志性的突然爆头大招，又带出麦德林和卡利集团串联成宇宙。但整体来说米格尔的魅力实在和前几季的毒枭们相差悬殊，男主kiki一脸谐星样总是无法让人入戏（被抓那段就想，蚁人赶紧来救他吧），土帅土帅的rafa又学邦尼与克莱德还脑补自己是疤面煞星帕西诺让人恨不起来，制作上倒是更精致了，但大高潮屠城戏又直接给延到下一季了，最后旁白者出现，和正在播的真探第三季搭上了 PS：期待墨西哥这个故事能拍到《犬之力》的时间段；同时也期待继续衍生出#毒枭：金三角#"
+    },
+    {
+      "user": "荒芜到岸",
+      "avatar": "https://img3.doubanio.com/icon/u1409472-101.jpg",
+      "content": "反派主角有点水，面瘫脸，演技不在线，黑化这条线讲得不明不白。白瞎了长得这么像我偶像爱德华诺顿。摄影有点装，很多机位想故作工整，反而显得莫名其妙。几个配角倒不错，警察小哥老婆，奈多等。总的来说还能看，就是节奏比较慢。"
+    },
+    {
+      "user": "YoyoRan",
+      "avatar": "https://img3.doubanio.com/icon/u1247587-1506.jpg",
+      "content": "屌。这个世界的疯狂超出了我们的想象。"
+    },
+    {
+      "user": "田井中律",
+      "avatar": "https://img1.doubanio.com/icon/u58689768-9.jpg",
+      "content": "菲利斯好帅，这剧延续了《毒枭》的残暴，人物剧情用光配乐各方面真是精品，奈飞的剧做得太有良心了！！我愿意买奈飞的会员，但在墙内的我买不了"
+    },
+    {
+      "user": "没名字",
+      "avatar": "https://img1.doubanio.com/icon/u52724289-87.jpg",
+      "content": "港实话剧作有点萎。我真的不是故意拖这么久才看完的，是真的前三集就让人难以下咽。"
+    },
+    {
+      "user": "西西弗西西",
+      "avatar": "https://img1.doubanio.com/icon/u3989398-29.jpg",
+      "content": "这一季节奏又慢了许多，墨西哥毒枭发家史，前面还是顾虑重重，后面就狠了许多，虽然一开始就知道是个伤心的故事，可看到奇奇受折磨还是很心疼，更别说真正的奇奇了，向他致敬！期待下一季能看到潘纳～😀"
+    },
+    {
+      "user": "米枪",
+      "avatar": "https://img3.doubanio.com/icon/u2670282-11.jpg",
+      "content": "Narcos，仅次于火线、权力的游戏、黑道家族和大宅门的棒剧。"
+    },
+    {
+      "user": "scofieldd",
+      "avatar": "https://img3.doubanio.com/icon/u43548260-2.jpg",
+      "content": "这一季有点太温和了吧"
+    },
+    {
+      "user": "Camellia,S",
+      "avatar": "https://img1.doubanio.com/icon/u1433879-197.jpg",
+      "content": "新瓶旧汤，主角没之前帅 但叙事一样好"
+    },
+    {
+      "user": "leafalone",
+      "avatar": "https://img3.doubanio.com/icon/u1738012-2.jpg",
+      "content": "前半非常精彩，后半有点赶场，瑕不掩瑜，依然伟大。一想到年底才能看到复仇小队的表演就百爪挠心。"
+    },
+    {
+      "user": "小刀周遠",
+      "avatar": "https://img3.doubanio.com/icon/u1137650-31.jpg",
+      "content": "Maybe the Mexico government system is the most powerful #Narco in Mexico."
+    },
+    {
+      "user": "醉舟",
+      "avatar": "https://img3.doubanio.com/icon/u29955643-15.jpg",
+      "content": "人物性格鲜明。Felix的谨慎和野心。拉法太浮夸，很难相信如此巨大高效的大麻田是他弄出来的。内托老奸巨猾，最后看穿一切。奇奇最壮烈，独自对抗整个国家机器。结局很现实，在政府庇护下的毒枭依然逍遥法外。"
+    },
+    {
+      "user": "三七",
+      "avatar": "https://img1.doubanio.com/icon/u1938235-257.jpg",
+      "content": "Luna实在太好看，远没有Rafa演得可恨"
+    },
+    {
+      "user": "诱导师",
+      "avatar": "https://img3.doubanio.com/icon/u2212543-30.jpg",
+      "content": "相比“毒枭”系列出色的前三季“正剧”，《毒枭：墨西哥》这部衍生剧似乎有些相形见绌，虽然看起来毒枭们的行为更加残暴，正直的警察们也更加无力，但总的来说给人一种拖沓和失衡的感觉，导致本身主角光环就不够亮的墨西哥度校门看起来更像一些2号人物一样的配角。不过令人惊喜的是麦德林和卡利两大哥伦比亚集团头目的出现，这些熟悉的角色和《毒枭：墨西哥》结尾的铺垫让我们期待NETFLIX进一步打造世界毒枭大宇宙。"
+    },
+    {
+      "user": "瑞鸡",
+      "avatar": "https://img3.doubanio.com/icon/u28883779-2.jpg",
+      "content": "真好看。因为升华于真实"
+    },
+    {
+      "user": "melvins",
+      "avatar": "https://img3.doubanio.com/icon/u1131992-50.jpg",
+      "content": "不输《教父》。"
+    },
+    {
+      "user": "WilliamOsborne",
+      "avatar": "https://img3.doubanio.com/icon/u157548945-2.jpg",
+      "content": "没有麦德林的狠辣，没有卡利的纪律性，墨西哥是一位一直看人眼色的枭雄，确是做到了性质最为恶劣的事情，杀死了主方的探员。他们会付出代价的。"
+    },
+    {
+      "user": "吉光片羽",
+      "avatar": "https://img3.doubanio.com/icon/u46682134-5.jpg",
+      "content": "这季戏剧性弱了好多，也没有特别有代入的或者特别吸引人的角色，演员卡司也差好多。结尾还算不错，能让人对下一季有些兴趣。"
+    },
+    {
+      "user": "身体大师",
+      "avatar": "https://img3.doubanio.com/icon/u61736839-4.jpg",
+      "content": "不错，推荐。期待第二季"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "好剧。唯一的缺点就是因为知道kiki的结局，所以一直等他被抓被杀，然后老美来一波复仇。可竟然用满了10集，也算是多了个期待下一季的理由。可是拍什么呢？"
+    },
+    {
+      "user": "先知玛丽苏斯",
+      "avatar": "https://img1.doubanio.com/icon/u1048449-427.jpg",
+      "content": "看了一下原型科普，像大麻田和kiki卧底这两个点都已经很有抓马，这个改编略寡淡。有上两季的哥伦比亚熟人客串。"
+    },
+    {
+      "user": "oh la la",
+      "avatar": "https://img3.doubanio.com/icon/u2634610-21.jpg",
+      "content": "又一场魔幻现实主义大戏，这次对准“毒贩教父”米格尔。此人不如巴勃罗凶狠，却很阴险狡诈，打斗不多都变成暗中金钱交易。酿成墨西哥政府军队与毒枭勾结和DEA正义探员惨死。总体来说，没有巴勃罗看得刺激过瘾"
+    },
+    {
+      "user": "猫觅",
+      "avatar": "https://img3.doubanio.com/icon/u2126532-82.jpg",
+      "content": "Kiki就这么领盒饭了，去给蚁人当猪头小队长讲“我有一个堂兄。。。”的故事。最后电钻在人身体上钻，毒枭们的脑洞真是大啊。。。上一季哥伦比亚毒枭把Netflix派去采景的人都干掉了，too many questions。。。80年代种大麻闹到派军队去销毁烧光大麻田，如今大麻合法，并且美帝要开大麻店的营业执照跟等待绿卡一样，排队排着吧。。。"
+    },
+    {
+      "user": "濃飛虎神秘之旅",
+      "avatar": "https://img3.doubanio.com/icon/u1547351-25.jpg",
+      "content": "9分多是疯了吗？这剧的casting简直惨不忍睹，演得什么jb玩意儿 弃剧了"
+    },
+    {
+      "user": "南极小姐",
+      "avatar": "https://img3.doubanio.com/icon/u3894700-13.jpg",
+      "content": "感觉这一季其实可以不用看"
+    },
+    {
+      "user": "拔刀诀",
+      "avatar": "https://img3.doubanio.com/icon/u1182787-1.jpg",
+      "content": "维持了以往水准，但没有个性强烈的人物，过于平淡。"
+    },
+    {
+      "user": "元首特价大酬宾",
+      "avatar": "https://img1.doubanio.com/icon/u41785476-49.jpg",
+      "content": "#年指活系列#"
+    },
+    {
+      "user": "[未注销]",
+      "avatar": "https://img3.doubanio.com/icon/u76046276-5.jpg",
+      "content": "墨西哥，只是个开始。（第４次赞美美洲女人/惊喜：第２集的“矮子”华金，第５集的卡利、麦德林）"
+    },
+    {
+      "user": "PARKER",
+      "avatar": "https://img1.doubanio.com/icon/u1374505-119.jpg",
+      "content": "看到最后一集还觉得M是义军的卧底，K是蚁人的卧底……而且还有哥伦比亚天团客串。"
+    },
+    {
+      "user": "小晨",
+      "avatar": "https://img1.doubanio.com/icon/u1522921-128.jpg",
+      "content": "老大Félix手下的所有人，都是一种土匪的气质，唯独Félix，甚至让你觉得他绅士。坐在这个位置，的确是头脑过人，每一季毒枭的中心人物，都能让人感受到人格魅力，然而他们依然是实打实、杀人不眨眼的人渣。毒枭看的人麻木，社会到底是黑白持衡，或者根本就是黑暗的天下？"
+    },
+    {
+      "user": "Rokutousei",
+      "avatar": "https://img3.doubanio.com/icon/u51920827-181.jpg",
+      "content": "结尾什么鬼，张力和表现力远不如哥伦比亚线，还是Pablo和Cali看着过瘾"
+    },
+    {
+      "user": "willamette",
+      "avatar": "https://img3.doubanio.com/icon/u46003030-44.jpg",
+      "content": "可能是不同毒品/不同国家？墨西哥人和哥伦比亚人差得有点多，加上可能剧本的问题，Felix这个大佬的某些行为挺蠢，而且人物的转变交代不够充分... 俩男主的魅力也比前作稍差点"
+    },
+    {
+      "user": "一日看尽长安花",
+      "avatar": "https://img3.doubanio.com/icon/u65233303-5.jpg",
+      "content": "不如正剧，是审美疲劳了？"
+    },
+    {
+      "user": "连城叁月",
+      "avatar": "https://img3.doubanio.com/icon/u40067511-4.jpg",
+      "content": "从哥伦比亚咖啡到墨西哥龙舌兰，唯一不变的依旧是那股魔幻现实主义味道。"
+    },
+    {
+      "user": "李风",
+      "avatar": "https://img1.doubanio.com/icon/u1437198-7.jpg",
+      "content": "多了人性的优雅，丧失了那么一点点的魅力。无论是大佬还是DEA的个人性格上，失了一分。"
+    },
+    {
+      "user": "哗啦啦",
+      "avatar": "https://img1.doubanio.com/icon/u1902672-17.jpg",
+      "content": "叙事依旧值得学习，可惜历史太简单。"
+    },
+    {
+      "user": "Martha",
+      "avatar": "https://img1.doubanio.com/icon/u45411639-17.jpg",
+      "content": "被男主迷晕，想要他的墨镜。哪找的这么多这么好的演员啊，会说两国话，扮谁是谁，整个质量比很多电影都好太多，现在很少电视剧能全神贯注的看也完全不觉得无聊了。已经开始从头补第一部了"
+    },
+    {
+      "user": "青山戚戚蛙",
+      "avatar": "https://img1.doubanio.com/icon/u1346918-427.jpg",
+      "content": "跳着看的"
+    },
+    {
+      "user": "牛奶很忙",
+      "avatar": "https://img3.doubanio.com/icon/u67679988-4.jpg",
+      "content": "精彩"
+    },
+    {
+      "user": "依旧西兰花",
+      "avatar": "https://img3.doubanio.com/icon/u2229021-42.jpg",
+      "content": "正反主角都缺乏魅力，剧情缺乏张力，看的过程中睡过去好几次…………撑着看完了。比前三集差得蛮远。"
+    },
+    {
+      "user": "咯咯精",
+      "avatar": "https://img3.doubanio.com/icon/u41608208-13.jpg",
+      "content": "E6 Sarabande 妙用"
+    },
+    {
+      "user": "破旧的时光机",
+      "avatar": "https://img3.doubanio.com/icon/u76585778-2.jpg",
+      "content": "kiki真的是可惜菲利克斯皱眉苦逼脸全程，拉菲是真的扶不起啊。毒枭系列总是那么魔幻现实"
+    },
+    {
+      "user": "diaoduoxi",
+      "avatar": "https://img3.doubanio.com/icon/u4125133-140.jpg",
+      "content": "本以为哥伦比亚已经烂到家，没想到老墨又刷新了新的下限。白粉生意干脆就是政府“公私合营”的。期待下一季美国佬的报复行动。"
+    },
+    {
+      "user": "麦场晒铁",
+      "avatar": "https://img3.doubanio.com/icon/u138232515-3.jpg",
+      "content": "刚下载完，熟悉的片头曲，只有两个字，牛逼！！！"
+    },
+    {
+      "user": "Orangedietc",
+      "avatar": "https://img3.doubanio.com/icon/u78955356-1.jpg",
+      "content": "拉法真的又土又丑又蠢又坏，早该卖了他了。国防部长诠释了为什么伪善比真恶更让人恶心。一个腐烂的体制，无药可救的国家。"
+    },
+    {
+      "user": "zykmilan",
+      "avatar": "https://img3.doubanio.com/icon/u3761104-2.jpg",
+      "content": "断续可算看完了。跟哥伦比亚毒枭比还真是从个性到方式的全然不同。最后结尾是挺绝望，挺画龙点睛的。"
+    },
+    {
+      "user": "Lily Liu",
+      "avatar": "https://img3.doubanio.com/icon/u33538142-1.jpg",
+      "content": "Netflix神剧归来！不叫第四季，而是《毒枭：墨西哥》番外篇。全新的主演阵容，但同样的主题，同样的半记录片形式，这次时间线是在第一季同期，墨西哥毒品教父成长史，从一个谨小慎微的小人物一步步成长为六亲不认的黑帮老大，一样的挥金如土、一言不合就会暴尸街头、墨西哥政府依旧各种腐败，美国缉毒局各种无能为力，还有很多与哥伦比亚毒枭巴勃罗和卡利集团的穿插情节，又看到那几位巨头！完全可以摧毁人性世界观的魔幻现实主义！还会有下一季！强推！"
+    },
+    {
+      "user": "Flâneur🐰",
+      "avatar": "https://img1.doubanio.com/icon/u2699021-227.jpg",
+      "content": "年度操蛋魔幻現實主義開播，對墨西哥的政府職能部門有了全新認識，南毒北調的中繼站，以後還可能去墨西哥城或坎昆嗎？節奏好緊張，畫面好搖晃，現實好詭譎！"
+    },
+    {
+      "user": "EE",
+      "avatar": "https://img3.doubanio.com/icon/u2348297-140.jpg",
+      "content": "Diego Luna has come a long way."
+    },
+    {
+      "user": "Chow",
+      "avatar": "https://img3.doubanio.com/icon/u53340996-15.jpg",
+      "content": "无脑打分"
+    },
+    {
+      "user": "Riobluemoon",
+      "avatar": "https://img3.doubanio.com/icon/u51715849-3.jpg",
+      "content": "纸牌屋崩了，好在毒枭还没崩！这次的版本重新讲了墨西哥毒枭们的成长史，感觉上比起哥伦比亚的同行，他们似乎更为忧郁和狡猾呢~~~要我说墨西哥这国家真没救了~~~~个人评价：A"
+    },
+    {
+      "user": "咩咩羊影视",
+      "avatar": "https://img3.doubanio.com/icon/u151189116-1.jpg",
+      "content": "最强犯罪美剧，没毛病"
+    },
+    {
+      "user": "不是天才是地才",
+      "avatar": "https://img3.doubanio.com/icon/u42846330-103.jpg",
+      "content": "牵涉到太多不可描述的内幕，情节不如哥伦比亚篇抓人。等下一季开大。"
+    },
+    {
+      "user": "ameibush9799",
+      "avatar": "https://img3.doubanio.com/icon/u2054438-153.jpg",
+      "content": "4.5星，第五集老熟人回来嗨了，最后一集终于有boss的感觉了！这一季铺垫的很慢，但下一季应该很爽！（看完10集等一年，MMP！）"
+    },
+    {
+      "user": "毕竟是你二大爷",
+      "avatar": "https://img1.doubanio.com/icon/u1504310-79.jpg",
+      "content": "kiki没啥发挥啊这一季，而且墨西哥也就是个转运商啊，无本万利物流"
+    },
+    {
+      "user": "夜空",
+      "avatar": "https://img3.doubanio.com/icon/u57721245-72.jpg",
+      "content": "如果下一季不是大对决，劳资要给编剧寄刀片！"
+    },
+    {
+      "user": "月棠暗香",
+      "avatar": "https://img3.doubanio.com/icon/u48275569-4.jpg",
+      "content": "看得是各种憋气，期待第二季KIKI的同僚们帮他报仇"
+    },
+    {
+      "user": "南岛",
+      "avatar": "https://img3.doubanio.com/icon/u2251895-12.jpg",
+      "content": "现实，比电影更精彩"
+    },
+    {
+      "user": "陈赖汉",
+      "avatar": "https://img3.doubanio.com/icon/u1615988-3.jpg",
+      "content": "只有一个问题：第五季啥时候播？"
+    },
+    {
+      "user": "温带季风归来",
+      "avatar": "https://img3.doubanio.com/icon/u2680703-42.jpg",
+      "content": "即使毒枭，我还是觉得墨西哥都比大🐔国好的多得多，不知道为什么，可能是全世界都觉得墨西哥犹如哥伦比亚般魔幻现实的的时候却没看到大🐔国的现实魔幻吧。"
+    },
+    {
+      "user": "风中李子树",
+      "avatar": "https://img3.doubanio.com/icon/u56827554-2.jpg",
+      "content": "威武雄壮，真正的用生命拍剧，再次五体投地！\n\n老泪纵横、内牛满面 已无法形容老衲此刻的心情。\n\n心目中真正称得上神剧的就是Narcos系列了，没有之一，只有唯一。还是那句话，不是针对谁，在座的所有电视剧都是娘炮！\n\n祈福剧组一切顺利，第二季可别再有勇士不幸牺牲了！\n\nPS 月亮哥太酷了！那么 矮子 会找谁来演？看好Freddy Rodriguez."
+    },
+    {
+      "user": "沙地老伯伯",
+      "avatar": "https://img1.doubanio.com/icon/u2002751-8.jpg",
+      "content": "能看完，最后一集开头不错，哥国毒枭集体再亮相赞一个。整体比前三季单薄很多。人为增强戏剧性，搞成了飞鸽吴那种双雄对决架势。拉法和内托这两大主要配角多余戏太多。期待后面Peña过来力挽狂澜。"
+    },
+    {
+      "user": "Anyphant",
+      "avatar": "https://img3.doubanio.com/icon/u2808962-56.jpg",
+      "content": "一口气刷完，毒枭宇宙终于诞生了"
+    },
+    {
+      "user": "三角猫",
+      "avatar": "https://img3.doubanio.com/icon/u47268593-31.jpg",
+      "content": "压力大到吐血的墨西哥毒枭老大…白手起家辛辛苦苦挣大钱还没什么人看得起他也是惨…自己猪队友还沉迷女色和毒品天天搞事情…珍爱生命远离创业和毒品…"
+    },
+    {
+      "user": "安桑",
+      "avatar": "https://img3.doubanio.com/icon/u46475797-6.jpg",
+      "content": "看了五集，那个建立墨西哥大麻走私帝国的毒枭人设似乎单薄了不少，而且缉毒警这边似乎也缺了点儿啥，没了前三季那种味儿。可能是大麻和海洛因的差别吧。"
+    },
+    {
+      "user": "PEY!",
+      "avatar": "https://img3.doubanio.com/icon/u66957428-94.jpg",
+      "content": "意料中的碟中谍无间道 plot twist 没有更多惊喜，有够墨迹的，压缩成六集的规格应该更好看。(reading subtitles gives me an actual headache)"
+    },
+    {
+      "user": "麻绳",
+      "avatar": "https://img3.doubanio.com/icon/u2334378-11.jpg",
+      "content": "看之前就知道了这个故事的惨烈结局，也正因为如此我才能坚持把这部剧看完，要不可能在中间就放弃了，前面一大半的情节太水了。从前三季惊心动魄的哥伦比亚毒品战争到这一季常规的缉毒行动，格局落差有点大。跟以一己之力与国家机器掰手腕的巴勃罗相比，菲利斯只是墨西哥腐败官员和警察的提款机而已，一直到最后也没控过局，美国人稍微一上手段立刻土崩瓦解。全剧最突出的是摄影了，运动长镜头确实漂亮。神剧不再，下一季要不要入坑到时候要掂量一下了。"
+    },
+    {
+      "user": "肋骨兄",
+      "avatar": "https://img3.doubanio.com/icon/u83805757-2.jpg",
+      "content": "Pablo and Gentlemen of Cali’s cameos just make this season perfect."
+    },
+    {
+      "user": "Winnie",
+      "avatar": "https://img3.doubanio.com/icon/u2145215-11.jpg",
+      "content": "没有前几季好看，看的很急人，弃了。"
+    },
+    {
+      "user": "啊砸",
+      "avatar": "https://img3.doubanio.com/icon/u1229481-2.jpg",
+      "content": "具备现实意义的好剧，正义从来都没有得过伸张，利益大过天，所有的牺牲都是毫无意义的。"
+    },
+    {
+      "user": "Combeferre",
+      "avatar": "https://img3.doubanio.com/icon/u33177895-14.jpg",
+      "content": "故事终于来到了墨西哥，米格儿一个原警察，后来白手起家变成大毒枭，季终也逍遥法外了，拉法这个配角的戏也十分有趣（但是毁在女人手里）。月亮和Pena双男主对抗特别精彩！看到一半实在好奇就去搜了旁白是谁，这剧引进新角色的方法还有点意思。卡利集团（Pacho好帅啊）和Pablo也都出现了，还有矮子毒枭！...啊啊啊啊这个系列看不腻啊！！等着看下一季DEA反攻！期待下一季！"
+    },
+    {
+      "user": "一根曲木",
+      "avatar": "https://img3.doubanio.com/icon/u59334722-4.jpg",
+      "content": "第六集后半宛如史诗，一切积蓄的矛盾在平静中无声地爆发，顷刻之间，乾坤倒转，让人寒毛直竖，血脉喷张。棒棒棒！"
+    },
+    {
+      "user": "电漫",
+      "avatar": "https://img1.doubanio.com/icon/u1541133-79.jpg",
+      "content": "毒枭不像毒枭 政府不像政府  坐等下一季开战"
+    },
+    {
+      "user": "墨殊",
+      "avatar": "https://img1.doubanio.com/icon/u52576922-89.jpg",
+      "content": "看完觉得最可怕的甚至不是拥有军队的政府权威，而是人与人之间永恒的阶级，social mobility几乎是零，权利站在平等的对立面。有的地方是按肤色划出这条线，有的按金钱，有的按性别。Felix还是瑞思白的，聪明口才好，男主光环带来的视角很讨喜，Luna接这个角色太好了。感觉这季经费又涨了？镜头语言精致很多，几个close shot镜头都太喜欢！！（这个走向是不是下一季也没有Pena（嚎哭了"
+    },
+    {
+      "user": "🦉",
+      "avatar": "https://img3.doubanio.com/icon/u44049217-93.jpg",
+      "content": "瑕不掩瑜"
+    },
+    {
+      "user": "Σελήνη",
+      "avatar": "https://img3.doubanio.com/icon/u2176515-15.jpg",
+      "content": "Episode 8 拉法的私奔，佩服\nEpisode 9 男反一逆袭，震惊\nEpisode 10 结尾搞暗杀？？"
+    },
+    {
+      "user": "自決",
+      "avatar": "https://img1.doubanio.com/icon/u49079483-9.jpg",
+      "content": "que chinga maricon"
+    },
+    {
+      "user": "Zipporah",
+      "avatar": "https://img3.doubanio.com/icon/u1092648-1.jpg",
+      "content": "看得非常难过，毒品战争治标不治本，打击力度再大，也斗不过体制的顽固，只要全球对毒品的消费不停止，就会有更多的Kiki被牺牲，更多的毒枭死灰复燃。"
+    },
+    {
+      "user": "德尔基西奥",
+      "avatar": "https://img3.doubanio.com/icon/u64214018-6.jpg",
+      "content": "赶紧下一季。埃斯科巴和卡利都有出现~"
+    },
+    {
+      "user": "天王君1/7魂魄",
+      "avatar": "https://img1.doubanio.com/icon/u2801412-28.jpg",
+      "content": "正反男主太出戏，随时要搞笑迈克尔佩纳，一直演弱鸡迭戈卢纳"
+    },
+    {
+      "user": "FanFineF",
+      "avatar": "https://img3.doubanio.com/icon/u63602853-20.jpg",
+      "content": "有点失望，没有了毒枭系列的狠，感觉墨西哥这位总是皱着眉头，窝囊受气。"
+    },
+    {
+      "user": "stupid world",
+      "avatar": "https://img3.doubanio.com/icon/u152620211-3.jpg",
+      "content": "垃圾，主角唯唯诺诺，每天紧皱着眉头一副马上要死hold不住的样子，演个马仔倒是很像。穿西装也就算了，完全不挺拔，前7集更是搞笑，反正一点铺垫都没有，全靠旁白自己脑补。对比起毒枭三季，完全就是shi。"
+    },
+    {
+      "user": "你好吗",
+      "avatar": "https://img1.doubanio.com/icon/u44658884-18.jpg",
+      "content": "比正剧差一点点吧。中美南美真是魔幻啊，想去玩"
+    },
+    {
+      "user": "假装在画画",
+      "avatar": "https://img1.doubanio.com/icon/u43193100-18.jpg",
+      "content": "还是因为想掌控这一切"
+    },
+    {
+      "user": "Choux",
+      "avatar": "https://img3.doubanio.com/icon/u2066635-10.jpg",
+      "content": "毒枭宇宙诞生？简直是季播剧的制作范本了，套路一丝不差，精彩一集不落。"
+    },
+    {
+      "user": "非虚构",
+      "avatar": "https://img3.doubanio.com/icon/u139314696-71.jpg",
+      "content": "#毒枭# 种植技术的介绍，全景地图的绘制，资料素材的大量使用，如纪录片般的往真实上恨下功夫，怎能不好看！\n"
+    },
+    {
+      "user": "幽灵不会哭",
+      "avatar": "https://img3.doubanio.com/icon/u1535563-1.jpg",
+      "content": "毒品贸易确实可以最赤裸裸地呈现人性的荒谬，权力和金钱都是贪欲的终极所指，毒品恰恰能快速和彻底地让人获得这两项看似遥不可及的梦想，毒枭们无不是从一个底层的老鼠开始，靠着坚强的神经和敢为天下先的赌博态度最终成为传奇，然后开始操纵那些高高在上的权贵，享受让他们趴下来舔钱的样子，一个国家被绑架，正义成为被交易的砝码，和哥伦比亚比，墨西哥政府更加显得软弱和无能，但美国还是那个美国，黄金与梦想之地，毒品的最大消费国，如深渊如星辰，吸引着贫穷之人飞蛾扑火"
+    },
+    {
+      "user": "Nemo",
+      "avatar": "https://img3.doubanio.com/icon/u63642212-66.jpg",
+      "content": "Miguel的怂包决定剧情走向的闷骚，Kiki就更没啥存在感了，角色定位略中二，多一星给镜头画面"
+    },
+    {
+      "user": "mi4444d",
+      "avatar": "https://img3.doubanio.com/icon/u1044920-65.jpg",
+      "content": "企业管理大课"
+    },
+    {
+      "user": "𝕄𝕪ℝ𝕖𝕞𝕖𝕕𝕪",
+      "avatar": "https://img1.doubanio.com/icon/u82620092-17.jpg",
+      "content": "第四季还是很好看，奇奇死的特别惨，都不忍心看了。"
+    },
+    {
+      "user": "Frank",
+      "avatar": "https://img3.doubanio.com/icon/u3393944-13.jpg",
+      "content": "制片人被枪杀这件事，我还真是服了这个剧组。"
+    },
+    {
+      "user": "JR",
+      "avatar": "https://img3.doubanio.com/icon/u1407666-45.jpg",
+      "content": "不能说完美但是绝对推荐，9.5/10。很多情节令人瞠目。Kiki现实中死的太惨，好心痛。Felix由喜欢的Diego Luna扮演，一直到最后一集才让我厌恶，前面始终有种教父Michael的味道。墨西哥这个国家，烂到根里头去了，看到吐。接下来回头把前三季捡回来看咯。"
+    },
+    {
+      "user": "宇文少横",
+      "avatar": "https://img3.doubanio.com/icon/u48369120-2.jpg",
+      "content": "反派视角下个人与体制的政治攻坚，倍感无力的忧郁毒枭发家史。"
+    },
+    {
+      "user": "M & R",
+      "avatar": "https://img1.doubanio.com/icon/u60709783-39.jpg",
+      "content": "ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ，和K一起追的剧。"
+    },
+    {
+      "user": "一匹马赛克",
+      "avatar": "https://img3.doubanio.com/icon/u36149701-30.jpg",
+      "content": "精湛回味！不同于前几季的主角和格局，这次把很多东西慢热处理，更显得深海炸弹的厉害，越看到最后越难以自拔。视听语言十分用心，美术摄影配乐样样精湛，演员们更不必说。看完之后看了更多真实对照的人物和故事，更是发觉这部剧深层次的魅力。希望第二季快快到来。"
+    },
+    {
+      "user": "Zach",
+      "avatar": "https://img1.doubanio.com/icon/u2200021-7.jpg",
+      "content": "不同的风格，依旧很好看，美术和摄影提升了一个档次，黑暗暴力不一定非得是明面上的"
+    },
+    {
+      "user": "青山",
+      "avatar": "https://img3.doubanio.com/icon/u1076839-1.jpg",
+      "content": "新世界的前半发家史还是不错的，果然后半段编剧开始意淫以后急转直下。这么大的设定，非要用瞎编出来逻辑不通的剧情充时间。编剧好像以为最后一秒脱险就是精彩故事了，反复用N遍，也是呵呵。后半段设计抓kiki开始就槽点无数，最后结尾还强行来个美国版战狼，醉了。不过剧放一边，宁肯墨西哥人枉死十万，不能杀美国一人这种实力，我国路漫漫呀"
+    },
+    {
+      "user": "Mojo",
+      "avatar": "https://img3.doubanio.com/icon/u1185777-34.jpg",
+      "content": "这两季的反派boss都太弱了……或者说是第一季的门槛太高了……"
+    },
+    {
+      "user": "钝刀",
+      "avatar": "https://img3.doubanio.com/icon/u135843569-3.jpg",
+      "content": "由第一季看到墨西哥，脑子里一直在想“Netflix是怎么拍出来的？”，而且，自始至终保持如此高的水准。"
+    }
+  ]
+}

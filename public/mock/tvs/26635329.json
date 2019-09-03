@@ -1,0 +1,1121 @@
+{
+  "title": "火花",
+  "url": "https://movie.douban.com/subject/26635329/",
+  "rate": "9.3",
+  "id": "26635329",
+  "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2329051227.jpg",
+  "info": [
+    "导演: 广木隆一 / 白石和弥 / 冲田修一 / 久万真路 / 毛利安孝",
+    "编剧: 又吉直树 / 加藤正人 / 高桥美幸 / 加藤结子",
+    "主演: 林遣都 / 波冈一喜 / 门胁麦 / 菜叶菜 / 山本彩 / 染谷将太 / 田口智朗 / 小林薰 / 北浦爱 / 渡边哲 / 奥田惠梨华 / 德永绘里 / 村田秀亮 / 好井まさお / 渡边大知 / 小野花梨",
+    "类型: 剧情",
+    "官方网站: hibana-netflix.jp",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "首播: 2016-06-03(日本)",
+    "集数: 10",
+    "单集片长: 50分钟",
+    "又名: Sparks / Hibana"
+  ],
+  "desc": "名不见经传的漫才艺人德永太步，在热海的烟花大会上偶遇前辈漫才艺人神谷才藏。德永答应为对方著书立传，由此得以拜入神谷的门下。神谷的搞笑天赋固然令人折服，此外他极具感染力的人情味更是将德永深深吸引。面对这名诚挚的弟子，神谷终于敞开心怀，倾囊相授……\n                                    \n                                　　由漫才师又吉直树小说《火花》改编 。",
+  "members": {
+    "director": {
+      "name": "广木隆一 Ryuichi Hiroki",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p19123.jpg"
+    },
+    "cast": [
+      {
+        "name": "林遣都 Kento Hayashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503230595.1.jpg"
+      },
+      {
+        "name": "波冈一喜 Kazuki Namioka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1498401626.19.jpg"
+      },
+      {
+        "name": "门胁麦 Mugi Kadowaki",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1442220023.65.jpg"
+      },
+      {
+        "name": "菜叶菜 Nahana",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p44916.jpg"
+      },
+      {
+        "name": "山本彩 Sayaka Yamamoto",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1405265582.14.jpg"
+      },
+      {
+        "name": "染谷将太 Shôta Sometani",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50940.jpg"
+      },
+      {
+        "name": "田口智朗 Tomorowo Taguchi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20174.jpg"
+      },
+      {
+        "name": "小林薰 Kaoru Kobayashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20084.jpg"
+      },
+      {
+        "name": "北浦爱 Ayu Kitaura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1457493830.63.jpg"
+      },
+      {
+        "name": "渡边哲 Tetsu Watanabe",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51364.jpg"
+      },
+      {
+        "name": "奥田惠梨华 Erika Okuda",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1355823017.18.jpg"
+      },
+      {
+        "name": "德永绘里 Eri Tokunaga",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1546139698.05.jpg"
+      },
+      {
+        "name": "村田秀亮 Hideaki Murata",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484063632.3.jpg"
+      },
+      {
+        "name": "好井まさお Masao Yoshii",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1484063406.45.jpg"
+      },
+      {
+        "name": "渡边大知 Daichi Watanabe",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441985518.59.jpg"
+      },
+      {
+        "name": "小野花梨 Karin Ono",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p39900.jpg"
+      },
+      {
+        "name": "高桥玛莉润 Maryjun Takahashi",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1395292081.12.jpg"
+      },
+      {
+        "name": "梅舟惟永 ",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59z9F_iMDJccel_avatar_uploaded1484644503.11.jpg"
+      },
+      {
+        "name": "榎纱里奈 Sarina Enoki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pSqbFqieQpKkcel_avatar_uploaded1499601803.69.jpg"
+      },
+      {
+        "name": "竹财辉之助 Terunosuke Takezai",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545813506.27.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2365515125.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2367100996.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2368571626.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p2365514519.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p2369616436.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "flyinbed",
+      "avatar": "https://img3.doubanio.com/icon/u41786270-4.jpg",
+      "content": "逗别人笑的人，首先都学会了哭。"
+    },
+    {
+      "user": "Khef",
+      "avatar": "https://img3.doubanio.com/icon/u44733365-54.jpg",
+      "content": "看片无数，这应该是迄今为止让人最伤感的巨乳！"
+    },
+    {
+      "user": "无处遁形",
+      "avatar": "https://img3.doubanio.com/icon/u61272579-13.jpg",
+      "content": "我決定把我以前打五分的劇全部改成四分"
+    },
+    {
+      "user": "第六天大萌王",
+      "avatar": "https://img3.doubanio.com/icon/u2194011-140.jpg",
+      "content": "重版是鸡汤，火花是现实，间隔服用催泪有奇效"
+    },
+    {
+      "user": "jj73浅之",
+      "avatar": "https://img3.doubanio.com/icon/u1267105-374.jpg",
+      "content": "真是惊喜啊！既保留日式横道世之介般不经意的温暖，竟也嗅到LouisCK感尖刻的黑色，勇敢抛弃日剧狗血、煽情、大特写的样板，大量使用电影化的空镜、长镜、大全景。不编织世界中心呼唤爱的谎言，只表达世界那么大哪里是我家的真相。人物的拼搏与格格不入相互交织，好一曲都市残酷物语。"
+    },
+    {
+      "user": "Edward",
+      "avatar": "https://img3.doubanio.com/icon/u1535709-191.jpg",
+      "content": "几乎一口气看完，超越原著的成功改编。建议先看原作，这样才知道它做得有多好。近乎纪录片式的细节展示和作者式的影像风格，使它更像一部超长电影而非电视剧。原作的结尾或许象征意味太强，过于超现实，但影像化处理竟看得边笑边哭。「只要活着就没有bad end。」两个疯癫的灵魂狂笑着在路上疾走的故事"
+    },
+    {
+      "user": "欢乐分裂",
+      "avatar": "https://img3.doubanio.com/icon/u1147451-92.jpg",
+      "content": "木秀于林风必摧之，仰天大笑出门去的神谷洒脱不羁，是德永逐梦路上灯塔般存在的指引光芒，在无数细碎甚至无聊的对谈间，沉淀着波澜万丈的日常肌理，酝酿着脑力碰撞的灵感火花；极具电影质感，喜欢拍摄背影的运动长镜，宛如人生路上的步履不停，宛如自得其乐的平凡奇迹。"
+    },
+    {
+      "user": "不良生",
+      "avatar": "https://img1.doubanio.com/icon/u2065435-38.jpg",
+      "content": "真是很意识流的日剧啊，每一集都不知道自己在看什么，可是每每看到最后都仿佛体会到，悲从中来，四个字。（好魔性）。这个世界上，才华与成功本来就不是成正比的啊。而且人生啊，本来就有些事情，是徒劳无功的啊。PS：林遣都有一张张智霖+郑伊健+冯德伦+霍建华的脸。"
+    },
+    {
+      "user": "王大根",
+      "avatar": "https://img3.doubanio.com/icon/u4640303-151.jpg",
+      "content": "再不出OST死给你看"
+    },
+    {
+      "user": "葵",
+      "avatar": "https://img1.doubanio.com/icon/u53204704-57.jpg",
+      "content": "在徳永眼中，神谷是最耀眼的火花。Sparks的故事太现实，他们推翻的，只有“努力必定会有回报”这句美好的话语。"
+    },
+    {
+      "user": "shininglove",
+      "avatar": "https://img1.doubanio.com/icon/u2849243-79.jpg",
+      "content": "Netflix与又吉直树携手，以超一流的制作水准完成日剧向电影化进阶的新高度，不可思议！叹为观止！年度日剧毫无悬念。荒诞情境下小人物的自省与孤独，自若泰然的月光下，他们是平凡的奇迹。"
+    },
+    {
+      "user": "-煊野-",
+      "avatar": "https://img3.doubanio.com/icon/u60016666-25.jpg",
+      "content": "潜心在事业上的人都是孤独的，妥协于世俗又不愿意刻意逢迎的德永，坚守自己却迷失其中得不到认同的神谷，拼尽全力，热血的梦想最多可能点燃的只有刹那的火花，不过大概人活着就不会有太差的结局吧。喜欢各种大全景下小人物透出的疏离感和孤独感，谢幕演出非常精彩，这部镜头语言真丰富，演员表演很棒"
+    },
+    {
+      "user": "小椿山",
+      "avatar": "https://img3.doubanio.com/icon/u57945182-163.jpg",
+      "content": "尽管算是师徒关系，但其实只是两个同龄人，师父的一些观念虽然耀眼但他自己也难以做到，在德永看来他是自己想成为而无法成为的人，把他的观念作为自己的准绳。但如果要在社会里取得一个位置，拘泥于本质问题便行不通了，连师父也露怯，他们只好成为有才能的失败者，不过失败也没什么。"
+    },
+    {
+      "user": "btsakura",
+      "avatar": "https://img3.doubanio.com/icon/u3171917-4.jpg",
+      "content": "仿佛随便打开一本尼采的书，随便指一段都能套用上去一样。这一句最让人唏嘘：“自由的保证是什么？是对自己不再感到羞耻。”艺术和生活确实要用两个体系评定，可艺术家和凡人总要有交汇的地方，艺术家也无法逃脱人间烟火的束缚，当他意识到这一点时已经不是艺术家，而是一个赤裸在人间的、羞耻的人。"
+    },
+    {
+      "user": "阿北",
+      "avatar": "https://img3.doubanio.com/icon/u1000001-30.jpg",
+      "content": "10小时长的电影。超赞不多说。"
+    },
+    {
+      "user": "文泽尔",
+      "avatar": "https://img3.doubanio.com/icon/u1781395-110.jpg",
+      "content": "看过剧后专门找了又吉直树的原著来读过 整个本子令人想起古谷实 影视化的完成度也很高  结局部分虽然意外但也是宿命使然 毕竟神谷师傅这般恃才狷狂的人物 早在开始时已预示了结局 说起漫才 托妻子常播日综的福 看过不少 但始终get不到笑点 还是老相声有趣 郭德纲和曹云金的师徒十年 拍出来想必也有趣"
+    },
+    {
+      "user": "福尔馒斯",
+      "avatar": "https://img1.doubanio.com/icon/u16582511-8.jpg",
+      "content": "“爱迪生发明了黑暗”\n“是阴暗的地下室发明了爱迪生”"
+    },
+    {
+      "user": "vhtcg",
+      "avatar": "https://img1.doubanio.com/icon/u58683224-8.jpg",
+      "content": "总之都去给我看"
+    },
+    {
+      "user": "有未始有始也者",
+      "avatar": "https://img1.doubanio.com/icon/u1170907-137.jpg",
+      "content": "比「赤羽」還好。如果不是廣木隆一而是沖田修一開頭結尾可能就給滿分。結尾略弱。get不到漫才的笑點（只覺心酸）但是日常特別好笑。久萬真路借物手段真好，第8集那個火鍋炖的啊⋯⋯意外的是白石和彌導得那兩集居然還不錯，林遣都居然演得也不錯。山下為甚麼長得那麼像泰造？"
+    },
+    {
+      "user": "紫苏バジル",
+      "avatar": "https://img3.doubanio.com/icon/u30978080-62.jpg",
+      "content": "在无情的世界里深情地活着。林遣都的演技简直耀眼到令人无法直视，都不敢叫他小林子了w"
+    },
+    {
+      "user": "黄青蕉",
+      "avatar": "https://img1.doubanio.com/icon/u2524948-39.jpg",
+      "content": "看完哭到脑壳痛。戏烂人未死，感谢这个世界存在偏执狂的天才，也感谢温柔包容他们的普通人们"
+    },
+    {
+      "user": "某J。624",
+      "avatar": "https://img1.doubanio.com/icon/u2223174-29.jpg",
+      "content": "get不到点适应不了节奏的人请坚持到第四集。用大量长镜头组成的剧像看了将近十个小时的电影。最绝望的不是在歌声中落荒而逃的告别，不是和搭档用反话完成的最后演出，而是神谷哭着说\"我想德永是会笑的\"。那些孤独而有趣的夜晚，空无一人的街道上有着笑得仿若征服世界的灵魂。去死！去死！去死！去死！"
+    },
+    {
+      "user": "Methy",
+      "avatar": "https://img3.doubanio.com/icon/u2442430-22.jpg",
+      "content": "近年来看过最好的日剧......不对，它应该要去和电影比。"
+    },
+    {
+      "user": "匡匡",
+      "avatar": "https://img3.doubanio.com/icon/u1017464-80.jpg",
+      "content": "若有十星也会毫不犹豫给。哭着笑，笑着哭，笑中有哭、哭中带笑⋯原来不是我哭点太奇怪，是剧本身的魔性。本子，就该这么写；镜头，就该这么走；表演，就该这么“不演”。不是本季or本年度最佳，是多年一遇or多年不遇的最佳。应该给群像演技奖。让我想起一句日本俗语：馬鹿になれ、夢を持て。"
+    },
+    {
+      "user": "阿廖沙",
+      "avatar": "https://img1.doubanio.com/icon/u1214986-88.jpg",
+      "content": "活着也没什么意思啊，梦想不会实现，在一起的人会分开，只有走过的马路等你走上一遍遍。"
+    },
+    {
+      "user": "Queen",
+      "avatar": "https://img3.doubanio.com/icon/u3109987-24.jpg",
+      "content": "不知道为什么被粘住 明明觉得无聊 还是很认真的看完了 泪目"
+    },
+    {
+      "user": "颜落寒",
+      "avatar": "https://img3.doubanio.com/icon/u2856002-44.jpg",
+      "content": "烟火是为了那些积极向上的人而存在，我们无数次从崖边跌落，选择放弃是妥协还是解脱？梦想还没有完结，我们仍在故事的中途。"
+    },
+    {
+      "user": "黄七",
+      "avatar": "https://img3.doubanio.com/icon/u50698250-10.jpg",
+      "content": "我竟然看完了，真的，非常无聊。"
+    },
+    {
+      "user": "xxhhcc",
+      "avatar": "https://img3.doubanio.com/icon/u1816154-1.jpg",
+      "content": "38岁的波冈一喜依然努力地活跃在日本娱乐圈边缘，38岁的波冈一喜依然会去饰演高中不良少年。像神谷说的那样，世界上不存在“淘汰”一词，哪怕你只成功一次，对于那个表演舞台而言还是“必要”的。其实波冈一喜的人生轨迹很符合“火花”这部作品，虽是残酷物语，但“梦想”永远不会消失！"
+    },
+    {
+      "user": "鬼鬼朵米",
+      "avatar": "https://img3.doubanio.com/icon/u34754153-30.jpg",
+      "content": "这是年度最好的日本电影而不是日剧"
+    },
+    {
+      "user": "翠西 。o 0 O",
+      "avatar": "https://img1.doubanio.com/icon/u1223204-9.jpg",
+      "content": "可以每年看一遍 喜欢到并不想与人分享"
+    },
+    {
+      "user": "水脉",
+      "avatar": "https://img3.doubanio.com/icon/u46144657-20.jpg",
+      "content": "嗯哼，不是装，看了两集真的看不下去。又跳着看了所谓的震撼感人催泪的最后一集，确定这部剧是怎么回事了。想搞文艺想搞情怀，但没颜值没深度，仍然被日剧那点小格局和中二感限制着，成为了特别无聊做作和无病呻吟的产物"
+    },
+    {
+      "user": "丸内虐待狂⛱",
+      "avatar": "https://img3.doubanio.com/icon/u65309880-24.jpg",
+      "content": "揪心的玩笑与漫长的白日梦"
+    },
+    {
+      "user": "自由之丘",
+      "avatar": "https://img3.doubanio.com/icon/u74353904-4.jpg",
+      "content": "真实的还原东京 现实感极强的长镜头 把大段庸常的生活展示给我们 再用代入感极强的细节感染观众 无论是从故事还是制作上都上乘的日剧 让我想起了醉乡民谣 这些失败者有自己的坚持 也有无能为力的时候 不能强求 像火花 人生中灿烂是暂时 平凡才是常态 生活是苦乐交织 只好享受这片刻和瞬间"
+    },
+    {
+      "user": "萨库拉",
+      "avatar": "https://img1.doubanio.com/icon/u4193588-7.jpg",
+      "content": "相比打鸡血的《重版出来》，我更喜欢这部。残酷才更接近真相。从技法来说算得上日剧里程碑的作品。那些鹅黄色路灯下穿街过巷的长镜头，像极了在日本时走过的夜晚。为了火花闪耀的时刻，长久的黑暗也不算什么。"
+    },
+    {
+      "user": "帷野久",
+      "avatar": "https://img3.doubanio.com/icon/u27162768-735.jpg",
+      "content": "我時至今日一直孤身奮戰，然而如今卻甚有行將失敗之感，因而心境為之羸弱不堪。即便如此，也絕不可能對著不斷到來的懷抱輕蔑之感的人們說：「我妥協了，過去是我不好。」\n終於，我只好依舊獨自一人，喝著劣質的酒，堅持著我自己的戰鬥而別無它法。"
+    },
+    {
+      "user": "GoalieT",
+      "avatar": "https://img3.doubanio.com/icon/u4682058-4.jpg",
+      "content": "这部剧在中国竟如此冷门，堪称社会现象。"
+    },
+    {
+      "user": "栗文",
+      "avatar": "https://img3.doubanio.com/icon/u4576316-15.jpg",
+      "content": "一部无法用电视剧的水准来评价的日剧，像一部十小时的电影，残忍地把追梦人的平凡生活的每一面都细致展现。每一次夜间行走都是对灵魂的放逐。不管结果怎样，坚持过的人就不会有坏结局。平凡就是最好。大家都是微弱的火花，哪里能够燎原。近几年最好的剧。林遣都的表演无可挑剔。"
+    },
+    {
+      "user": "大胃⃣麒⃣",
+      "avatar": "https://img3.doubanio.com/icon/u1550861-35.jpg",
+      "content": "在本我和超我围攻下的自我，只能选择做一个庸才。因为你既无法不顾一切地忠于自己，又无法圆滑地运用成功的诀窍。"
+    },
+    {
+      "user": "陆支羽",
+      "avatar": "https://img3.doubanio.com/icon/u2866549-132.jpg",
+      "content": "5.0。1.爱迪生发明的不是电灯，是黑暗。2.只要有街道就能唱歌，只要有舞台就能漫才，只要有幕布就有电影，难道不是吗？3.最后一集简直超变态啊，变态得让人想大哭一场，不是鬼才肯定想不出这样的结局。这个有点吊诡有点前卫的结局，让很多原先想不通的桥段瞬间有了灵魂支撑点。"
+    },
+    {
+      "user": "sweetbear",
+      "avatar": "https://img1.doubanio.com/icon/u1048787-9.jpg",
+      "content": "所谓人生，就是逐渐接受自己毫无才能的事实，但是依然渴望平凡的奇迹"
+    },
+    {
+      "user": "Doublebitch",
+      "avatar": "https://img3.doubanio.com/icon/u1917438-180.jpg",
+      "content": "印象很深的一幕是德永开着车回到吉祥寺，熟悉的街景和人物勾勒出这十年间的无数回忆。口琴横町、井之头公园、SUNROAD商店街、有了孩子却依然宛如天使的真树姑娘……满满都是俩人爱的见证。我想有一天，当我回到鼓楼东大街，应该也会有和他一样的感受吧。PS：看完这部剧我更加不喜欢大胸了。"
+    },
+    {
+      "user": "亚比煞",
+      "avatar": "https://img1.doubanio.com/icon/u1025094-38.jpg",
+      "content": "最感动处，竟是德永说的那句“好想红啊！”看梵高书信集时，他也常对提奥如此倾诉：”我很想出名，希望世界都知道我的存在“。是啊！大声说出自己就是想红，想得到回应和认同，这有什么可耻？总比一边假清高，一边又酸葡萄的人要可爱的多了，创作者，首要的道德就是真诚不是吗？"
+    },
+    {
+      "user": "五色全味",
+      "avatar": "https://img1.doubanio.com/icon/u1380001-9.jpg",
+      "content": "哭死我吧😭。那些與創作有關的堅守和失落，那些徘徊遊蕩在街頭的希望與失望，相信追過夢的人都會有共鳴吧"
+    },
+    {
+      "user": "LeungChanXXX",
+      "avatar": "https://img3.doubanio.com/icon/u48687824-52.jpg",
+      "content": "十小时的细水长流却包覆了角色的十年浮沉。相遇的火花，是短讯，是火锅，是凌晨的酩酊，是我亲笔写下的传记。染发，搬家，笑啊，跑啊，生活却永远走在我们前面。说不出口的表白，止不住的泪。推翻那些美好的话语，镜头推远的茫茫夜景我们也是发光的一隅，我们仍在故事的中途，空に星が綺麗。"
+    },
+    {
+      "user": "幽灵不会哭",
+      "avatar": "https://img3.doubanio.com/icon/u1535563-1.jpg",
+      "content": "5个导演居然风格那么统一，喜欢那些漫无目的地在东京夜色里游走的长镜头了，表面上看似是一个关于梦想与妥协的故事，背后却是日本年轻一代对生活意义的寻找，如何处理自我与他者的关系，成熟是否也就意味着平凡，颓废其实心中还有火花，抓住那一瞬间的美丽，也就能忍受那无所不在的失落"
+    },
+    {
+      "user": "女宛心兑",
+      "avatar": "https://img3.doubanio.com/icon/u41637500-5.jpg",
+      "content": "兴趣不大，对搞笑也get不到点，只觉镜头常常很美。"
+    },
+    {
+      "user": "内陆飞鱼",
+      "avatar": "https://img3.doubanio.com/icon/u1226256-41.jpg",
+      "content": "命运并不会轻易放过一个隆了F罩杯的大叔。郭德纲、曹云金师徒撕得不可开交的时候，刚刚一口气看完讲相声艺人的热门日剧《火花》，超五星推荐，满分，演员、剧本、摄影、色彩太棒了，那么多运动镜头、长镜头，林遣都、波冈一喜从演以来最好的角色，电影的拍法，那么多日常生活，吃喝拉撒满满细节。"
+    },
+    {
+      "user": "kylegun",
+      "avatar": "https://img3.doubanio.com/icon/u2265138-3.jpg",
+      "content": "太鼓太鼓哦尼桑！戴红帽的哦尼桑！养大叔还是养鹦鹉，易拉罐和旧电器，说不出的话，狂奔过的街。吃火锅当然是吃里面的料，但现在太多人只顾着啃锅了。爆裂热泪后是怪奇结尾，永远出其不意的漫才真魂，厉害！"
+    },
+    {
+      "user": "ANNA",
+      "avatar": "https://img3.doubanio.com/icon/u1704805-76.jpg",
+      "content": "如果这都不算爱，还有什么好悲哀。"
+    },
+    {
+      "user": "胤祥",
+      "avatar": "https://img3.doubanio.com/icon/u1228445-130.jpg",
+      "content": "日剧/相声版的[醉乡民谣]啊……长镜头帅到令人想哭。“老板一斤理想多少钱”，不如相忘于江湖。"
+    },
+    {
+      "user": "Morning",
+      "avatar": "https://img3.doubanio.com/icon/u2557883-3.jpg",
+      "content": "攝影超讚.最喜歡醉酒後德永睡在真樹家,神谷和真樹一起轉被子,神谷帶德永去真樹家分手拿東西,要德永勃起,德永和神谷及其新的女朋友吃火鍋潸然淚下,超好哭.配樂和慢鏡結合得天衣無縫.知道愛好的意義,知道付出的意義,知道堅持自我,知道探索沒有止境,知道付出不見得有等價回報."
+    },
+    {
+      "user": "阿德",
+      "avatar": "https://img3.doubanio.com/icon/u1015534-35.jpg",
+      "content": "“我们仍然在故事的中途”，献给所有被梦想击垮后仍能坚持自我的人，平凡中的奇迹最动人。年度最燃，大叔含泪推荐。"
+    },
+    {
+      "user": "荞麦",
+      "avatar": "https://img3.doubanio.com/icon/u1123004-1.jpg",
+      "content": "可以借此认知任何创作型的工作，搞笑艺人和观众的关系也是写作者和读者的关系。"
+    },
+    {
+      "user": "路克",
+      "avatar": "https://img1.doubanio.com/icon/u1137842-98.jpg",
+      "content": "我看来其实“重版”是现实，因为是那种“就当被（鸡汤）骗好了反正试试嘛”就是现实的人生；火花的世界才是对友情或者梦想的一种还挺一言难尽的理念化；神谷的话只是听起来精辟，但就像“只是差一点点就能成功”的成年人幻觉一样，我们不过是在找我们的德永作为听众，或长或短地做一些无谓的努力。"
+    },
+    {
+      "user": "叶酱",
+      "avatar": "https://img3.doubanio.com/icon/u3901770-146.jpg",
+      "content": "属于需要一点反射弧，回过头来发现好棒，永远失败、永远热泪盈眶"
+    },
+    {
+      "user": "Omar",
+      "avatar": "https://img1.doubanio.com/icon/u55999327-27.jpg",
+      "content": "个别几集真的五星水准，其他集令人尴尬不知所云（16-8-23这部剧后劲太大了，麻痹太好看了，我完全忘了他的坏）"
+    },
+    {
+      "user": "不平行",
+      "avatar": "https://img3.doubanio.com/icon/u10157903-63.jpg",
+      "content": "太难看了吧两个演员演得也是差劲，配乐难听，剧情也是烂俗，还有什么鬼的最后一集啦，一点都不打动人，我才没有用光一包餐巾纸擦眼泪。"
+    },
+    {
+      "user": "SundanceKid🌈",
+      "avatar": "https://img3.doubanio.com/icon/u65864683-55.jpg",
+      "content": "“我唯一推翻的只有'努力必定会有回报'这句美好的话语”，最后的舞台，我哭得比山下更凶。每次想起都是无可奈何和拼命生活的毅力交杂。最难过的甚至不是无疾而终，场场好聚好散，不觉已十年。EP9跟随心爱的人离开又回归的镜头，还是落于世界之后。他对艺术对生活，仍然在混沌和火花(神谷)间的一点"
+    },
+    {
+      "user": "迷宝",
+      "avatar": "https://img3.doubanio.com/icon/u49422504-21.jpg",
+      "content": "一个月前看的，喜欢到舍不得推荐，去书店拿着原著下了决心要再加倍认真地学日语，心想着就让这个剧默默地沉下去吧，不要有太多人知道才好…不过现在好像红了，那就破罐破摔地推一下吧。"
+    },
+    {
+      "user": "Rhodesia",
+      "avatar": "https://img3.doubanio.com/icon/u2697640-72.jpg",
+      "content": "买书前先看了剧的前几集，后来书看完了却还不舍得把剧看完。尽善尽美的改编，原作略显单薄的部分得到了拓展，卡司完美，画面精雕细琢，尤其喜欢白石和弥监督的三四话，几乎出来了斯科塞斯喜剧之王的狠辣味道。匠人和朋克集为一体，追求有趣如同追求真理，用悲苦的搞笑负面肯定人生，アホ，アホ！"
+    },
+    {
+      "user": "斯图维嘉",
+      "avatar": "https://img3.doubanio.com/icon/u63788522-2.jpg",
+      "content": "日剧有三宝：回忆、暗恋 加 奔跑  ， 清新、美食少不了，追日剧约有十年，从未见过如此细腻， 严重怀疑导演细节控 ，感叹为日剧解析视听语言公式之集大成"
+    },
+    {
+      "user": "西决",
+      "avatar": "https://img3.doubanio.com/icon/u48484295-22.jpg",
+      "content": "卡农的经文，栖身在一坪半房间里的救世主，特蕾莎修女的背摔，长得和女友一模一样的排水沟，爱迪生发明的是黑暗，是阴暗的地下室发明了爱迪生…Netflix日剧，演技大赞配乐满分镜头感棒呆，像一场八小时的电影，一路泪目，尽头恍然开悟癫狂大笑，只要活着仍然在这故事的中途，期待着刹那的火花！"
+    },
+    {
+      "user": "春焼辰",
+      "avatar": "https://img3.doubanio.com/icon/u23599586-776.jpg",
+      "content": "生活中各式各类的人  我也搞不清  大家都是在模仿谁  不想去应付自己难受的事也只是想为自己找到更好的出口来治愈一段时间的难受  每日的生活就像世上的每条街道一样总有热闹时总有空旷时  总想与地球对抗最后才发现自己只不过是在踩水泥罢了"
+    },
+    {
+      "user": "风满蜃气楼",
+      "avatar": "https://img3.doubanio.com/icon/u2662236-665.jpg",
+      "content": "好看。是那种很难具体说出哪里好看的好看。贴近生活本身，比起搞笑更多的是沉重和辛酸。曲高和寡与迎合大众真的是完全对立的吗?看似对漫才精髓固执己见不肯低头的神谷其实比谁都迷茫脆弱，比起故作洒脱的他我反而更欣赏了解自己的德永。接受现实勇于改变，哪怕火星陨落，至少你们曾经闪耀过。"
+    },
+    {
+      "user": "十老不二阿",
+      "avatar": "https://img3.doubanio.com/icon/u52123243-4.jpg",
+      "content": "看完后觉得，不会有比这更好的剧了。不会再有了。这辈子能看到它也就够了。“我是积攒了多少坏运气，才看到了最烂的你们，我对你们一点感激之情都没有啊！” 搞笑艺人的拳头，越是挥拳，越是让人感到幸福。我们的失败，我们这些被淘汰的人，只要曾经站上过舞台，人生就不是毫无意义的。"
+    },
+    {
+      "user": "一刀瘦肉",
+      "avatar": "https://img3.doubanio.com/icon/u57318445-44.jpg",
+      "content": "先生头上一轮明月，不念过往，不闻明日"
+    },
+    {
+      "user": "cabo小伙",
+      "avatar": "https://img3.doubanio.com/icon/u27998962-26.jpg",
+      "content": "世界上到底有多少人在走投无路/走火入魔中为自己隆上了一对“神谷的巨乳”？这部日剧/影所告诉我 隐瞒我 嘲笑我 启发我的东西大概值一百个星  毫无疑问 《火花》是一座巫山"
+    },
+    {
+      "user": "叶纸君",
+      "avatar": "https://img3.doubanio.com/icon/u1789713-283.jpg",
+      "content": "看到一整年都处于慢性忧郁状态的德永就像好像看到自己了一样。虽然已经读过原作，但是看到最后几集时还是哭得不行。努力了十年，最后唯一能推翻的大概只有“努力必定会有回报”这句美好的话语。可是梦想啊，也许就是你明知会失败，但仍然无法舍弃的东西。"
+    },
+    {
+      "user": "2koo",
+      "avatar": "https://img1.doubanio.com/icon/u1440407-27.jpg",
+      "content": "口笛吹いて歩こう、肩落としてる友よ。"
+    },
+    {
+      "user": "周眠",
+      "avatar": "https://img3.doubanio.com/icon/u1254355-160.jpg",
+      "content": "“我永远珍惜你的言语，黑夜中不熄的谈话录。” \n这句话终于找到它的剧集了。\n看完了开始二刷。"
+    },
+    {
+      "user": "斯齊佐飛力尼克",
+      "avatar": "https://img1.doubanio.com/icon/u35834579-249.jpg",
+      "content": "一个基佬苦恋一个与自己兴趣相投的直男多年最后却发现直男居然是个人妖的悲伤故事。泪点在第四集卖唱的朋友回老家和第十集开头的告别演出，剧中所有漫才的段子都笑不出来。本来想打四星的，但最后一集神谷的胸让我大翻白眼。"
+    },
+    {
+      "user": "林西拿",
+      "avatar": "https://img3.doubanio.com/icon/u3406556-60.jpg",
+      "content": "倒數第二集，那種把痛苦過往轉為笑料令觀眾笑中帶淚的場面，真的把我感動到了。"
+    },
+    {
+      "user": "辫子鞭",
+      "avatar": "https://img3.doubanio.com/icon/u14515351-13.jpg",
+      "content": "经此一役，不哭死神的雅号我就转手他人了。"
+    },
+    {
+      "user": "小油飞",
+      "avatar": "https://img3.doubanio.com/icon/u1918202-5.jpg",
+      "content": "果真年度最佳。别的日剧拿五星是因为比四星高一点，这部拿五星是因为只有五颗星可以给。。实际的差距可能有十倍不止。拿电影的标准去要求也可以碾压。神结局。"
+    },
+    {
+      "user": "团小纸",
+      "avatar": "https://img3.doubanio.com/icon/u34646513-495.jpg",
+      "content": "电影的镜头语言用来拍剧会多份气质，而这“盛世蝼蚁”闪烁微弱“火花”光芒也格外贴合镜头。“努力就有回报”一定是假的，但活下去总还是需要努力再努力。"
+    },
+    {
+      "user": "阿鳥阿鳥",
+      "avatar": "https://img3.doubanio.com/icon/u2170133-91.jpg",
+      "content": "看到凌晨三點，愛不釋手小心翼翼疊好，然後珍藏起來，就是這樣的感覺。"
+    },
+    {
+      "user": "雨宫萤",
+      "avatar": "https://img3.doubanio.com/icon/u1150428-1.jpg",
+      "content": "又吉直树获奖跟名人效应一点关系都没有，故事确实很棒，很丧很悲伤地笑着哭的人生。全剧制作精良，全方位拔尖，平衡感亦好，独具匠心处甚多，Netflix大手笔，拍得跟电影似的。期待出插入歌集。"
+    },
+    {
+      "user": "夢",
+      "avatar": "https://img3.doubanio.com/icon/u58731459-160.jpg",
+      "content": "前后花了两个月…根本不舍得看完。i see reflection  in your eyes也日日夜夜循环了无数遍。明明没有那么煽情，却哭了好多好多次。我爱这个剧，我爱它每一秒的镜头和冷暖的灯光，就像德永遇到神谷先生一样。看完只想坐在月光下打开啤酒，与你敬这惨淡的人生。"
+    },
+    {
+      "user": "Castor ⊿ ⊿ ⊿",
+      "avatar": "https://img1.doubanio.com/icon/u4541017-307.jpg",
+      "content": "看完之后，感触良多。生而为人，立命于世，大家都想成为光芒万丈的焰火，受众人瞩目。然而，自诩为独特的自己，并不能打破世俗种种的枷锁，或天时，或地利，或人和，不用太多，有一项便足以梦碎。努力并不一定带来成功，但是，身为火花，不去努力，不去挣扎，就永远见不到燎原之日。"
+    },
+    {
+      "user": "室内滂沱",
+      "avatar": "https://img3.doubanio.com/icon/u5812768-70.jpg",
+      "content": "情深义重，坚韧不拔。对“盖茨比写法”的典范运用，日剧日漫惯用的“两位主角何时联手”的悬念从一开头就隐约闪烁，看到最后也是被这一点彻底感动。我也许知道我的人生有另外的活法，但我离不开你，我最好的朋友。一部反励志剧集+平民美食大片，主角们在壮志未酬下大口吃饭大口饮酒，从头到尾喝掉的啤酒怕是有一片湖那么多了吧，总量快比得上我看剧时吞下的口水和流下的泪水。台上有多可笑，台下就有多心酸，最后每个人都过上了顺理成章却又抛却理想的生活，平淡原来是这么容易吞咽。结尾太疯了，就像剧集最后忍不住终于掀桌痛骂生活。每一集都那么新颖，每一秒都那么耐人寻味，看完舍不得删。"
+    },
+    {
+      "user": "五月微蓝",
+      "avatar": "https://img3.doubanio.com/icon/u1566814-133.jpg",
+      "content": "今年到目前为止最好的一部剧，真实得让人笑又惹人哭。镜头应用太美，非常有想法，有电影的质感。小林子在这部剧里真的演技升华啊！没想到能演得这么好，还有男二波冈一喜演得更是特别好，配角们也都非常走心，人夫那么酱油的戏份还有一场特别棒的戏。最后想说，这师徒之间明明就是爱情啊！"
+    },
+    {
+      "user": "岬",
+      "avatar": "https://img3.doubanio.com/icon/u1745245-721.jpg",
+      "content": "夜晚能让人呼吸。夜晚独自走在平常的街道上，看见火花，错过末班列车，寂寥又欢喜。绝望和幽默并行，荒诞与诗意作伴，一边勃起一边哭泣。自由快活的夜晚太奢侈，不是幸福万人的花火，是海海人间里最脆弱而最妙不可言的火花。曾经亲眼见过，也想亲手发射一朵，是我能想象到最寂寞却最浪漫纯粹的一种活。"
+    },
+    {
+      "user": "曹一条",
+      "avatar": "https://img3.doubanio.com/icon/u102666477-4.jpg",
+      "content": "2016年看过的最惊喜的电视剧，没有之一。余味残留到现在，导演编剧的实力非同一般，是如何能把一个看似荒唐的开头，让观众接受，从片中看到了自己，看到了现实。唏嘘，却很感谢有这样一部电视剧的出现。"
+    },
+    {
+      "user": "坦克手贝吉塔",
+      "avatar": "https://img1.doubanio.com/icon/u1207750-29.jpg",
+      "content": "感动的"
+    },
+    {
+      "user": "赖剌狮",
+      "avatar": "https://img3.doubanio.com/icon/u31272312-12.jpg",
+      "content": "没有发令枪终点线，人会因为什么全力奔跑呢？全力错过喜欢的女孩子，全力目送搭档和十年热望，腿好酸。纯粹的神谷，就算带着感伤的巨乳依旧天真到发光。从第一集就和徳永100%对接导致后面大爆哭，止不住的直感伤心。就算无法实现，也不要变成忘记无法实现的人，会熄灭的，才是spark."
+    },
+    {
+      "user": "螃蟹|依然武汉",
+      "avatar": "https://img3.doubanio.com/icon/u1312772-13.jpg",
+      "content": "看完第一集大概99%的想法是弃剧，看完第二集这个感受降到了80%，全部看完觉得这个片子的压抑程度其实超过了马男Bojack...这是很需要人生经历去看的一部很压抑的东西···"
+    },
+    {
+      "user": "南三环新垣结衣",
+      "avatar": "https://img3.doubanio.com/icon/u2404967-244.jpg",
+      "content": "这么多年推翻的只有努力必有回报这句话。"
+    },
+    {
+      "user": "深夜的阿斯伯格",
+      "avatar": "https://img1.doubanio.com/icon/u35827809-27.jpg",
+      "content": "很久没这样哭过了，原来在客厅捧着手机看，后来跑到卧室一个人哭花了视线，手机他妈的差点进水。"
+    },
+    {
+      "user": "空想特摄兔男郎",
+      "avatar": "https://img3.doubanio.com/icon/u3828662-6.jpg",
+      "content": "这个剧对于我这个人到中年，自认为怀才不遇，疏离主流，摆出一副清高姿态心中却默默地比谁都渴望得到认可的半业余艺术家来说，实在是太残酷了。剧中的每一个境遇，每一句话，都让我有刀刀见血般的切身感触。但即便如此，不得不承认这是我看过的最好的电视剧之一（如果不是最好的话），有着艺术电影一般的质感，镜头运用，以及表演（当然还有沉闷）我之前说过日本影视剧越来越丧的趋势。看完此剧我似乎又有了进一步的理解，就是这种丧，未尝不是物哀传统在这个急速坠落的时代的延续。正如剧中末尾神谷在月下沐浴的镜头，既悲哀又闪耀着光芒。丧到刻骨铭心之时，或许就是美的另一种极致。"
+    },
+    {
+      "user": "アイリス",
+      "avatar": "https://img3.doubanio.com/icon/u52555204-16.jpg",
+      "content": "第二集结尾听哭了。如果在那样一个夜晚遇到那样一首歌，我也愿意把身上的钱都给他。可惜那样的夜晚我遇到的是被唱烂了的蓝莲花，然后去吃了碗地狱拉面。最后两集暴哭。我还以为神谷先生知道所有的答案，原来他也什么都不知道。"
+    },
+    {
+      "user": "哔呣咣啵の哸啐",
+      "avatar": "https://img3.doubanio.com/icon/u1310319-5.jpg",
+      "content": "去年去日本，难免地逛了一些书店，无一例外地都在宣传《火花》这本书，哪怕是酒店的电视里，也有节目在讲，倒不是就得出结论文学在日本大众中的地位是多么地重要，但起码说明了这部小说的的现象性。NETFILX很敢拍，电影化语言把一部电视剧拍成了10小时长的电影，在内容的表现上，恐怕也是不输原作的。"
+    },
+    {
+      "user": "你大立",
+      "avatar": "https://img3.doubanio.com/icon/u35546552-21.jpg",
+      "content": "为能看到此剧而感到感激"
+    },
+    {
+      "user": "依阿古",
+      "avatar": "https://img3.doubanio.com/icon/u3081252-23.jpg",
+      "content": "每一顿火锅戏都特别棒！"
+    },
+    {
+      "user": "爱情海",
+      "avatar": "https://img3.doubanio.com/icon/u157237265-2.jpg",
+      "content": "夜深人静时一个人默默的看着，泪默默地流着，理想与现实之间的矛盾，努力并不一定有收获，但谁不是为了生活而努力着。"
+    },
+    {
+      "user": "岩井俊七",
+      "avatar": "https://img3.doubanio.com/icon/u1815039-22.jpg",
+      "content": "深深折服于平淡琐碎中催泪之法，与其说反高潮叙事标杆，不如说只因戳中了每一个平凡而孤独的我们吧。也曾梦想驰骋，虽风华光芒如火花转瞬即逝，可知有人眼里你是光你是平凡的奇迹，能想出来让彼此搀扶面对野兽般冷漠残忍的世间的俩人早早就一起白头，也不枉遭遇疑似观影路上最瞎的日剧结尾"
+    },
+    {
+      "user": "咖布藤",
+      "avatar": "https://img1.doubanio.com/icon/u104261144-17.jpg",
+      "content": "你能感受到这部作品 它在呼吸"
+    },
+    {
+      "user": "Annai",
+      "avatar": "https://img1.doubanio.com/icon/u52051492-17.jpg",
+      "content": "严格意义上来说，应该算是一部8小时的电影，属于越看越有味的类型。摄影和BGM很棒，每个镜头都自带语言。镜头下每个人透露出来的温柔、依赖又疏离、孤独，才是人生的常态。"
+    },
+    {
+      "user": "放摊",
+      "avatar": "https://img1.doubanio.com/icon/u2810938-67.jpg",
+      "content": "少加一星拉拉分。冲广木隆一看的"
+    },
+    {
+      "user": "枯草[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/u1078604-129.jpg",
+      "content": "还是想要个jump式结局啊，人生已经如此艰难……"
+    },
+    {
+      "user": "Intercept",
+      "avatar": "https://img3.doubanio.com/icon/u3529919-14.jpg",
+      "content": "感觉像周星驰在另一个平行世界的艺术生涯。"
+    },
+    {
+      "user": "seabisuit",
+      "avatar": "https://img3.doubanio.com/icon/u1293096-21.jpg",
+      "content": "时间证明的兄弟情，十年秋冬流逝互相影响，那种吸引和改变生命轨迹在惊人的第十集用日式的夸张终于说明白了，很庆幸身边也有这样的哥们儿，谁又在为你书写神谷传记，而看德永还老联想到星爷。漫才段子与生活中的呼应，各种细节大段跟拍长镜头调度和洗脑配乐更是亮点，不光神剧他还能帮你认识存在的价值。"
+    },
+    {
+      "user": "luren",
+      "avatar": "https://img1.doubanio.com/icon/u1553038-39.jpg",
+      "content": "真的是很久没看过这么浪漫的日剧了。"
+    },
+    {
+      "user": "夏日扬帆",
+      "avatar": "https://img3.doubanio.com/icon/u3508835-21.jpg",
+      "content": "一天两集，舍不得看完，感觉像是度过了漫长的十年一般，走了一遍人生。每一处细节都做到了极致，有人说把德云社的故事拍一下，那也是两回事，即使故事一模一样国内的环境也拍不出来，整部剧从导演角度与故事讲述都非常克制，演员的演技更是没得说，BGM值得一听再听，完美，一百颗星"
+    },
+    {
+      "user": "Winnie",
+      "avatar": "https://img1.doubanio.com/icon/u1012293-718.jpg",
+      "content": "赚了我好多眼泪。全心全力地活着，我们一直在途中。好几年没看小林子的戏了，以前当他是温弱小白脸，万万没想到这次看到了男人的神态。"
+    },
+    {
+      "user": "雪盲",
+      "avatar": "https://img1.doubanio.com/icon/u1172326-28.jpg",
+      "content": "非常棒，就像在幽深黑暗的空间里，忽然抓住根绳子一样。"
+    },
+    {
+      "user": "Ms.A扑柔",
+      "avatar": "https://img1.doubanio.com/icon/u1555525-57.jpg",
+      "content": "虽然看原作的时候一直是带入又吉先生的，小林子演得太好（银发太帅）！喜欢德永各种奔跑的长镜头，渡边大知的夏の手，ハーモニカ横丁。后几集一直是QAQ 知道结局但还是被小林子最后的独白击中，疯魔的神谷也只是无数灯光中的一点，又吉的无赖派在叛逆、破坏、无奈之后还是有着火花般的希望吧"
+    },
+    {
+      "user": "幕天席地",
+      "avatar": "https://img3.doubanio.com/icon/u119429128-6.jpg",
+      "content": "明明是奋斗拼搏的故事却不是鸡汤，请备好纸巾"
+    },
+    {
+      "user": "zhang 2nd",
+      "avatar": "https://img3.doubanio.com/icon/u2343960-135.jpg",
+      "content": "不燃，也不鸡汤，但是让有理想有追求的人看得激动有共鸣。把对爱好的热爱与坚持拍得很心酸。来自各方面的阻力太多太杂，仅仅满足于获取乐趣是不思进取，发展为职业又势必受到各种限制和违心。有的有过 有的想过，有的看到过。netflix近期的有两部剧都很神，另一部是怀旧恐怖的《怪奇物语》"
+    },
+    {
+      "user": "村上春咪",
+      "avatar": "https://img3.doubanio.com/icon/u26730526-10.jpg",
+      "content": "哪怕只有一个知己，这世间就不再是平庸和无聊的了"
+    },
+    {
+      "user": "高尔吉亚",
+      "avatar": "https://img3.doubanio.com/icon/u1127201-26.jpg",
+      "content": "一个人在深夜走过那些漫画的墙壁前面，逝世的漫才前辈在电视前的视角转换，说到大路和筋疲力尽时候的黑白特效，从第一集节奏慢到要让人快放弃到慢慢越看越有味道，果然这就是日本映画的魅力吧，真的觉得就像电影一般的日剧。德永的人工智能好棒可惜不讨观众喜欢，师匠坚持自我挑战观众的意外反应很感动"
+    },
+    {
+      "user": "媛木子",
+      "avatar": "https://img3.doubanio.com/icon/u156064887-5.jpg",
+      "content": "超级棒的日剧，比很多的电影都好很多！看哭我系列。"
+    },
+    {
+      "user": "proustalain",
+      "avatar": "https://img1.doubanio.com/icon/u128956983-17.jpg",
+      "content": "“所谓烟火，是给积极向上生活的人看的。”果然是完全的致郁系日剧。要如何形容德永和神谷这段超越师生、兄弟的感情？或许是超然世俗的精神灵契，带着对漫才最原始狂热的热爱，抑或是从郁郁不得志中相互照亮彼此的惺惺相惜之情吧。"
+    },
+    {
+      "user": "静静的投资",
+      "avatar": "https://img3.doubanio.com/icon/u67876993-16.jpg",
+      "content": "画质以及清晰度都很高，配角卡司也很棒。不过用剧中的话来说就是：那是个很自嗨的段子，客人完全笑不出来，但他们本人却非常乐在其中。"
+    },
+    {
+      "user": "这货是牛奶",
+      "avatar": "https://img3.doubanio.com/icon/u40357733-13.jpg",
+      "content": "Netflix第一部原创日剧。镜头语言极丰富，演员表演极到位，剧情主题极深沉。中间N集主人公心理活动推来倒去的剧情看得人乏，但头尾值得跪舔的桥段极多。独树一帜的超五星日剧！（我不相信霓虹普罗大众能把这剧坚持看到最后。。"
+    },
+    {
+      "user": "暹罗copen",
+      "avatar": "https://img3.doubanio.com/icon/u1881299-343.jpg",
+      "content": "毫无泪点，我却哭个不停。此生最佳与最爱日剧，没有之一。"
+    },
+    {
+      "user": "动物园长阿莉莉",
+      "avatar": "https://img3.doubanio.com/icon/u45448846-2.jpg",
+      "content": "记不得已经多少年没一口气看完一部剧了，完全被林遣都巨大的演技进步震惊，且剧中造型完全是我泰普，如果他存在在我人生中我愿意包养他！！！这么年轻就颜和演技都如此出众，未来可期，感觉等到三十五岁以上会非常非常有魅力（啊但是那我也就快35了哎不要啊）。结局设定有点奇怪但很适合整部剧的氛围。"
+    },
+    {
+      "user": "等一个人",
+      "avatar": "https://img1.doubanio.com/icon/u2557215-57.jpg",
+      "content": "看过最好的电视剧之一"
+    },
+    {
+      "user": "Fan.S",
+      "avatar": "https://img3.doubanio.com/icon/u1892283-6.jpg",
+      "content": "怎么讲，分高就没人敢骂了？前两集看睡着五次，不要说坚持到第几集就对了，对个卵"
+    },
+    {
+      "user": "半个桃李林檎",
+      "avatar": "https://img3.doubanio.com/icon/u2281421-72.jpg",
+      "content": "摄影和剪辑工整得可怕，真的是带着拍电影的严肃态度；第四集和第八集各催一次泪，不多不少刚刚好；果然好的喜剧人都有一颗悲剧心。最关键是所描绘的那种前所未有的孤独感，是日本人所特有的"
+    },
+    {
+      "user": "树子",
+      "avatar": "https://img3.doubanio.com/icon/u64763127-143.jpg",
+      "content": "这对巨乳让我对本剧的狂热消逝了一些..."
+    },
+    {
+      "user": "康乐股长王紫菜",
+      "avatar": "https://img3.doubanio.com/icon/u13446337-26.jpg",
+      "content": "从街头乐手离开大城市回到乡下，到这对十年组合的分离，哭的眼泪决堤。小林子这个角色太吸引人了，完成度也超高。他是火花从生发到耀眼再到熄灭的参与者，也见证耗尽精神全力活着的神谷，身上背负太多的理想和偏执，这样的人本身就是平凡的奇迹。"
+    },
+    {
+      "user": "birds",
+      "avatar": "https://img3.doubanio.com/icon/u66186806-41.jpg",
+      "content": "这个拍法太奇怪了，无聊段子撑起的戏……"
+    },
+    {
+      "user": "表妹你好销魂",
+      "avatar": "https://img3.doubanio.com/icon/u4547079-22.jpg",
+      "content": "配乐和镜头都很棒，剧情有点慢但是表达的东西很深刻。尽管是大家眼里的loser，但是身边有真正理解懂你的人陪你一起在空无一人的马路上疯癫陪你渡过人生的起起落落，欣赏得看着你仿佛在发光。到最后获得成功好像很重要好像也没有那么重要，毕竟只要活着就不是bad end，这就是平凡的奇迹。"
+    },
+    {
+      "user": "drunkdoggy",
+      "avatar": "https://img3.doubanio.com/icon/u1106293-54.jpg",
+      "content": "看哭啦 以前有个人跟我分手的时候说十年后再见吧 我觉得不可思议 他说十年是很快的 在这部剧里 对一个一直在失败的人来说 十年真的是很快很快的啊 最后我的感受跟男主一样 还活着就好！"
+    },
+    {
+      "user": "拔刀诀",
+      "avatar": "https://img3.doubanio.com/icon/u1182787-1.jpg",
+      "content": "火花只耀一时也能撑起漫漫人生～"
+    },
+    {
+      "user": "梅山君",
+      "avatar": "https://img1.doubanio.com/icon/u136505664-108.jpg",
+      "content": "不管妥协生活，还是放弃梦想，自我认为解脱了所有包袱，我们仍在漫长的人生旅途中，仍然活在自己的故事中，不管是普通的，渺小的，精彩的，伟大的。要记住，自己才是，永远都应该是自己故事中最出色的那位人物。"
+    },
+    {
+      "user": "麦神的小跟班",
+      "avatar": "https://img3.doubanio.com/icon/u36105243-14.jpg",
+      "content": "致郁系。"
+    },
+    {
+      "user": "玛可塔",
+      "avatar": "https://img3.doubanio.com/icon/u2587762-655.jpg",
+      "content": "谢谢在我平凡的日子里有你们这么闪耀的火花，往柳暗花明山穷水尽之中独行的人们我爱你们。"
+    },
+    {
+      "user": "惘然",
+      "avatar": "https://img1.doubanio.com/icon/u1240460-27.jpg",
+      "content": "虽然朋友已有预警，但最后两集还是让我又哭又笑了。好喜欢结尾，特别害怕最后让他们成功了（我这什么心理），幸好没有……我们都在故事的途中。"
+    },
+    {
+      "user": "Zoe",
+      "avatar": "https://img3.doubanio.com/icon/u1396295-14.jpg",
+      "content": "“只要活着，就不是坏结局，我们都在故事的中途。”   德永和神谷真是灵魂伴侣啊!"
+    },
+    {
+      "user": "游坦",
+      "avatar": "https://img3.doubanio.com/icon/u8460892-74.jpg",
+      "content": "平凡之路。曾经失落失望 失掉所有方向\n\n直到看见平凡 才是唯一的答案"
+    },
+    {
+      "user": "叶枕",
+      "avatar": "https://img1.doubanio.com/icon/u46959346-77.jpg",
+      "content": "努力家的墓志铭。千万不要愚蠢到去责备整个时代啊。"
+    },
+    {
+      "user": "阿图",
+      "avatar": "https://img3.doubanio.com/icon/u2775203-16.jpg",
+      "content": "就像随着一条小溪流，跟着笑了，一起哭了，然后被带到心里的小角落发呆。还要再看一遍。"
+    },
+    {
+      "user": "金魚J",
+      "avatar": "https://img3.doubanio.com/icon/u1531339-36.jpg",
+      "content": "最喜欢的一段是德永看到儿时喜欢的艺人死去 始终没说出自己的伤心 师傅电话里故意和他对起了吃火锅的台词 特别温暖 还有德永神谷直树三人之间的感情写的也特别好以及德永永远坚信直树是世间最好的女人 还有送别山下送别剪发女孩时候也很难受 总之在年末遇到了今年最爱的片子 很幸运"
+    },
+    {
+      "user": "☂fish",
+      "avatar": "https://img3.doubanio.com/icon/u42676589-72.jpg",
+      "content": "本年度看过的最好的日剧 又压抑又感动的心情贯穿着整个看剧的过程 结尾那句“我们仍然在故事的中途”真是太戳了QAQ"
+    },
+    {
+      "user": "黄小米",
+      "avatar": "https://img3.doubanio.com/icon/u1371556-70.jpg",
+      "content": "前三集看了半年 第四集起看了5天 其中三天是舍不得看最后一集"
+    },
+    {
+      "user": "陆 味 地 黄 丸",
+      "avatar": "https://img3.doubanio.com/icon/u64005853-62.jpg",
+      "content": "10/题材无抵抗力，镜头语言，剪辑，布景几乎满分。生活化演技，无论街头装疯卖傻还是饭桌温馨谈话，句句肺腑。这不是电视剧，这是艺人们的安魂曲"
+    },
+    {
+      "user": "倒长的树",
+      "avatar": "https://img3.doubanio.com/icon/u41576123-42.jpg",
+      "content": "因为漫才师的坚持，学着师傅不去逢迎观众和电视台，最终错失机会维持不了生计而做不了漫才师看着一个个放弃梦想和坚持的朋友离开自己。这种坚持到底什么意义？\n很多晃晃的和长镜头，很久看电视剧没这么哭过了。\n如果不是师傅耍帅，如果不是相遇。他们也许走上另外一条路。"
+    },
+    {
+      "user": "Richor",
+      "avatar": "https://img1.doubanio.com/icon/u65120909-8.jpg",
+      "content": "像是看一部缓慢冗长的电影，看长镜头浅浅慢慢侵入他们的十年，看再熟悉不过的吉祥寺长阶、井之头公园、口琴横丁和垂直交错的商店街。妥协和幻灭，终究是大多数人的终点。"
+    },
+    {
+      "user": "听风",
+      "avatar": "https://img3.doubanio.com/icon/u37018764-5.jpg",
+      "content": "“但是啊，只要想到，这或许也是那些家伙度过漫漫长夜的唯一方法，就会觉得随他们去吧。”“所谓的烟火是为了那些积极向上活着的人们而存在的啊。”把BROTHER和空に星が绮丽听了好多遍。"
+    },
+    {
+      "user": "Pirouette",
+      "avatar": "https://img1.doubanio.com/icon/u3258321-189.jpg",
+      "content": "开头那场烟花大会的戏就深深打动了我。结尾也超厉害。近几年日剧的巅峰，芥川龙之介奖+netflix 还有什么好说的。"
+    },
+    {
+      "user": "文森特九六",
+      "avatar": "https://img3.doubanio.com/icon/u66306592-41.jpg",
+      "content": "哦"
+    },
+    {
+      "user": "Jeannels",
+      "avatar": "https://img3.doubanio.com/icon/u92468807-20.jpg",
+      "content": "喜欢。适合深夜安静刷完，像一部超长日影，高水准制作加持，配乐赞，有几幕堪称年度最佳动人影像段落，结尾还真是出乎意料。"
+    },
+    {
+      "user": "viennavirus",
+      "avatar": "https://img3.doubanio.com/icon/u1014188-36.jpg",
+      "content": "从基调、细节到表演，所有技巧都自然温润地融为一体，故事则在败者美学中孕育希望，真诚而令人深信不疑。吉祥寺的赞美诗。"
+    },
+    {
+      "user": "无非",
+      "avatar": "https://img3.doubanio.com/icon/u1473794-234.jpg",
+      "content": "我也不懂什么是生活，我只是在认真做一件事情罢了。"
+    },
+    {
+      "user": "12",
+      "avatar": "https://img3.doubanio.com/icon/u3512931-140.jpg",
+      "content": "“神谷先生的头上，挂着一轮自若泰然的明月，那副美景，宛如平凡的奇迹。”"
+    },
+    {
+      "user": "朱尔赫斯",
+      "avatar": "https://img3.doubanio.com/icon/u1050948-91.jpg",
+      "content": "我唯一推翻的，就是“只要努力就会有回报”这句话。"
+    },
+    {
+      "user": "cat",
+      "avatar": "https://img3.doubanio.com/icon/u3591047-6.jpg",
+      "content": "梦想是扰人的 抓不到也放不掉"
+    },
+    {
+      "user": "yangbin",
+      "avatar": "https://img3.doubanio.com/icon/u15183757-13.jpg",
+      "content": "牛逼！！！！！！！！！！！！！！！！！！！！！"
+    },
+    {
+      "user": "犹在镜中",
+      "avatar": "https://img3.doubanio.com/icon/u93158337-283.jpg",
+      "content": "大概每个人都能从中找到共鸣；喜欢里面的长镜头"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img3.doubanio.com/icon/user_normal_f.jpg",
+      "content": "于世分红花绿叶，于你仅漫天火花..."
+    },
+    {
+      "user": "Clarke",
+      "avatar": "https://img1.doubanio.com/icon/u1054908-49.jpg",
+      "content": "年度最佳日剧粗线啦～ 十一区人民果然是佛教属性，没个走火入魔劲儿真是拍不出。网飞也是厉害。配乐摄影演技剧本全方位好评撒花～"
+    },
+    {
+      "user": "Necropolis",
+      "avatar": "https://img3.doubanio.com/icon/u3213065-334.jpg",
+      "content": "强大的文学性"
+    },
+    {
+      "user": "Cure Sa10",
+      "avatar": "https://img3.doubanio.com/icon/u57972459-44.jpg",
+      "content": "看这个剧的人普遍产生一种自己和主角很像的错觉w 不会说话、临场反应慢但是擅于事先准备，不善社交、躲应酬躲现充，慢热、生活中只抱着一两个谈得来的朋友，感性、(自认为)对文艺方面有一定品味或天赋，(自认为)是个正直的人"
+    },
+    {
+      "user": "hzezero",
+      "avatar": "https://img3.doubanio.com/icon/u3315245-14.jpg",
+      "content": "在这个冰冷世界里，那些温柔的人，那些执着的梦想，那些惺惺相惜，那些孤独，那些疯狂，那些遗憾，那些美好，那些人性的光辉，那些难以名状的情感，都是人生里最绚烂的花火。我的史上日剧最佳！！！"
+    },
+    {
+      "user": "绝缘儿",
+      "avatar": "https://img1.doubanio.com/icon/u2171815-18.jpg",
+      "content": "8.7 起舞吧"
+    },
+    {
+      "user": "草签",
+      "avatar": "https://img1.doubanio.com/icon/u2110511-7.jpg",
+      "content": "年度最佳，摄影赞，配乐赞，德永的表演赞。宛若看到了自己某一段的人生，那些无奈的分别，那些说不出口的话，那些莫名奇妙的失败，那些不知如何是好的时刻……"
+    },
+    {
+      "user": "瑞波恩",
+      "avatar": "https://img3.doubanio.com/icon/u39690610-4.jpg",
+      "content": "#心上的经典日剧#“我啊，是为了表演足以推翻世界常识的漫才而走上这条路的。但是，我唯一推翻的，只有“努力就会有回报”这句美好的话语。”可能是这些年看过的最酷也最动人的日剧了，更惊人的是，这个故事还源于真人真事。又吉直树芥川奖的同名受赏作，加上堪比电影的制作水准，以及一众优秀演员的走心演绎，精心炮制后便是一飞冲天的梦想火花祭了。PS 这不是纯粹的漫才表演，观看时请自备纸巾，因为说不定什么时候你已内牛满面了。"
+    },
+    {
+      "user": "阿巴厮",
+      "avatar": "https://img1.doubanio.com/icon/u1078120-58.jpg",
+      "content": "梦想什么的，为之努力的，又没能真正成功的，活在大时代里的小人物什么的，看起来最有感触了。但是也得有德永那双水灵灵的大眼睛来看疯疯癫癫的神谷老师才最有意义啊。"
+    },
+    {
+      "user": "白衣卿相",
+      "avatar": "https://img1.doubanio.com/icon/u1538764-97.jpg",
+      "content": "最好的日剧是那种，感动我的不是剧情故事，，而是自己"
+    },
+    {
+      "user": "徐若风",
+      "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+      "content": "3.5"
+    },
+    {
+      "user": "iano",
+      "avatar": "https://img3.doubanio.com/icon/u1982658-63.jpg",
+      "content": "爱迪生发明的是黑暗"
+    },
+    {
+      "user": "东林君",
+      "avatar": "https://img3.doubanio.com/icon/u21158381-2.jpg",
+      "content": "这部剧有意思的地方是，如果你把它当作一部电视剧来看，会觉得节奏缓慢、细节冗杂。但如果你把它当作一部500分钟的电影来看，一切都说得通了。加藤鹰先生也是这么说的。"
+    },
+    {
+      "user": "最愛藍",
+      "avatar": "https://img1.doubanio.com/icon/u1251719-39.jpg",
+      "content": "知道要拍电影版后，我觉得菅田将晖应该无法超越林遣都，而桐谷健太更是……难以超越波冈一喜。波冈一喜在这部里的演技让我目瞪口呆无话可说，尽管他在我过去看过的诸多日剧中充当配角并且没有给我留下任何印象。"
+    },
+    {
+      "user": "屈楚萧",
+      "avatar": "https://img3.doubanio.com/icon/u60141694-35.jpg",
+      "content": "躺在床上静静的看，然后一直掉眼泪，伤感到不行，现实与理想的残酷碰撞下，你是否还在坚持……佩服导演，无论是画面、镜头、色调、bgm，有着让瞬间沉静下来的魔力。日本影视剧总是有着这样超强的治愈能力，洞悉着你的内心。"
+    },
+    {
+      "user": "豆瓣尼姑",
+      "avatar": "https://img3.doubanio.com/icon/u52610308-23.jpg",
+      "content": "今年预定最佳日剧 是将电视剧镜头电影化的最佳示范 叙事化的长镜头 恰到好处的bgm 哭的最动人的演技 看完决定去看原著 一口气看完就像是过完了一段漫才的人生 他们有的是轻盈的灵魂 笨拙的生活 对 同时也是我看过最忧伤的巨乳 你们都是平凡的奇迹"
+    },
+    {
+      "user": "斯  琰 🌈",
+      "avatar": "https://img3.doubanio.com/icon/u30563078-190.jpg",
+      "content": "16.8.7~17.1.7，5个月里，断断续续地看，感觉它陪我度过了很长的时间。很多个加班的夜晚，我在回住处的路上，总会想起德永的身影，一个人在长长的路上行走着，车来车往，灯明灯暗。在夜如海洋的城市里，怀疑着坚持与努力的意义，近乎本能地继续迈步。“这十年来做过的事，能令你无悔骄傲吗？”"
+    },
+    {
+      "user": "伊夏",
+      "avatar": "https://img3.doubanio.com/icon/u30123013-41.jpg",
+      "content": "没有办法活成正态分布的标准人生，但每个人都是独一无二的折线图。【2016.08.04】"
+    },
+    {
+      "user": "三日又木",
+      "avatar": "https://img1.doubanio.com/icon/u126663148-9.jpg",
+      "content": "送神谷一句话:不疯魔，不成活。"
+    },
+    {
+      "user": "NG",
+      "avatar": "https://img3.doubanio.com/icon/u1062095-22.jpg",
+      "content": "连着两天看完，最近不看日剧了，我要缓一缓"
+    },
+    {
+      "user": "miyukiDd",
+      "avatar": "https://img1.doubanio.com/icon/u67004506-7.jpg",
+      "content": "Netflix向日本进军的第一步，改编又吉直树的《火花》。 近乎纪录片式的细节和影像风格，一言不合就开始的长镜头，更像一部10小时的电影。 作为漫才师德永和师傅神谷追求\"有趣\"而逐渐偏离世俗，只要在舞台上努力过，就算被淘汰，也不是没有意义的，哪怕只有刹那火花。"
+    },
+    {
+      "user": "will",
+      "avatar": "https://img3.doubanio.com/icon/u51392069-2.jpg",
+      "content": "高逼格的日剧，牛逼的镜头调度，电影级别的美术与摄影。"
+    },
+    {
+      "user": "肖恩恩恩恩肖",
+      "avatar": "https://img3.doubanio.com/icon/u60599665-40.jpg",
+      "content": "明明讲的是追梦者最终失败的故事，却不丧，当然也不燃。故事的整体脉络，表演，包括摄影和配乐，用一种超凡脱俗的审美，去呈现了失败和孤独本身的美感。"
+    },
+    {
+      "user": "rabbitgrey",
+      "avatar": "https://img3.doubanio.com/icon/u44182158-2.jpg",
+      "content": "一场500分钟的电影。长镜头和配乐的运用近乎完美，以纪录片式的纯粹质感呈现出来，看得我“脸上虽然笑着，看不见的泪水却流在心中”。90后的林遣都演技竟如此渋い，体验派漫才表演自不必说，每场哭戏也都堪称教科书级别，更过分的是，银发童颜超高颜值已然突破二次元，简直人间至宝..."
+    },
+    {
+      "user": "皮革业",
+      "avatar": "https://img3.doubanio.com/icon/u1264081-15.jpg",
+      "content": "虽说完全没法get到漫才的乐趣，还是能被这样的作品触动到。话说回来，眼下可能正是家庭娱乐出名著的时代，估计今后十年就看Netflix和amazon的了……"
+    },
+    {
+      "user": "Alan",
+      "avatar": "https://img3.doubanio.com/icon/u2099122-11.jpg",
+      "content": "目前看过最厉害的日剧 大量手持长镜头赏心悦目 而故事还是那么简单又感人 形式和内容都大赞 羡慕那些有勇气追求心动的人 这个剧值得一看再看"
+    },
+    {
+      "user": "我没有马甲",
+      "avatar": "https://img3.doubanio.com/icon/u55499243-10.jpg",
+      "content": "看过最好的日剧。日剧不管喜剧抓马，无论质量高低，都是高度的通俗情节剧，而《火花》却是颠覆的，先锋的，尖刻的，形而上的，走向了台本文学化，视听电影化，内核情绪化的进阶。本剧现实外的与众不同甚至和剧内情节产生了有趣的互文：《火花》就像失意却超凡脱俗的神谷先生，观者如我大概就是德永吧。"
+    },
+    {
+      "user": "艾略特在吃菠菜",
+      "avatar": "https://img3.doubanio.com/icon/u89911508-13.jpg",
+      "content": "人生白日梦之一：在一个冬夜跑去东京街头，背着电吉他唱BROTHER。看完这一部，再也看不下其他日剧。"
+    },
+    {
+      "user": "judy",
+      "avatar": "https://img3.doubanio.com/icon/u1956648-61.jpg",
+      "content": "近年看到最好的日劇。又吉直樹給Netflix做是對的，如果給主流電視台可能就拍成了雞湯勵志劇。但火花不只是這樣的故事。而是靜靜記錄著漫才師主角們的生活、談話、收穫與失落，而我深受感動。兩男主表演出色，對林遣都刮目相看，也新認識了波岡一喜。最後收尾簡直神來之筆，意想不到又非常契合!"
+    },
+    {
+      "user": "坂阿本莎白",
+      "avatar": "https://img3.doubanio.com/icon/u2748514-132.jpg",
+      "content": "一起吃火锅的时候那微小的情绪捕捉，小到弥漫在空气里的情绪和温暖，））（（时间越往后推，越来越爱德永所做的一切，巨大的勇气来面对生活，来面对师傅的改变，长镜头捕捉了所有的情绪，，真的好难受又好喜悦。。"
+    },
+    {
+      "user": "非虚构",
+      "avatar": "https://img3.doubanio.com/icon/u139314696-71.jpg",
+      "content": "何谓好看？就是非自然的自然。何谓创新？就是非重复的重复。"
+    },
+    {
+      "user": "陈River",
+      "avatar": "https://img3.doubanio.com/icon/u35344977-131.jpg",
+      "content": "真的，是火花"
+    },
+    {
+      "user": "催眠",
+      "avatar": "https://img3.doubanio.com/icon/u2380239-33.jpg",
+      "content": "看到他们的最后一场演出时，泪水奔流不止。持不同观点的人，仿佛处于不同的世界，有时简直是平行宇宙，而漫才师不得不考虑的就是如何游走于不同的世界。神谷和德永看起来是失败了，但他们不得不如此，自己“选择”的失败未必是失败。"
+    },
+    {
+      "user": "开开",
+      "avatar": "https://img3.doubanio.com/icon/u55320874-2.jpg",
+      "content": "骚情，活着就是骚情。二逼小青年走在路上，幻想自己才是世界的主角，手机里找来找去为了给此刻配个乐，然后想着什么时候这个画面会切成全景？对于这种心态，以及这种心态做出来的作品，我感同身受，只能给满分。啊，骚情"
+    },
+    {
+      "user": "JOJOORC/Z",
+      "avatar": "https://img1.doubanio.com/icon/u1322447-169.jpg",
+      "content": "喜欢前四集的内在生猛，之后下跌，最后一集回到了熟悉又无聊的日剧套路和表现方式，有些失望。但还是牛逼，这些年来看过的最好的日剧。"
+    },
+    {
+      "user": "柒目葉",
+      "avatar": "https://img3.doubanio.com/icon/u80728936-5.jpg",
+      "content": "最后一集说，花火是给积极向上的人看的，可是我每次看花火的时候，都在想：我活着就是为了看这场花火的吧，为了看它一瞬间的绚烂，然后散尽了，紧接着又是一瞬间，散尽了，又是一瞬间，散尽，一瞬间……多好啊，这样丰富的人生，而我还活着。"
+    },
+    {
+      "user": "库索",
+      "avatar": "https://img1.doubanio.com/icon/u1127293-69.jpg",
+      "content": "我们仍在故事途中。"
+    },
+    {
+      "user": "二道贩子",
+      "avatar": "https://img1.doubanio.com/icon/u1066987-47.jpg",
+      "content": "终于补课了"
+    },
+    {
+      "user": "王多功",
+      "avatar": "https://img3.doubanio.com/icon/u1811326-210.jpg",
+      "content": "假且作。又名《裂穴记：居酒屋の爱》"
+    },
+    {
+      "user": "于是",
+      "avatar": "https://img3.doubanio.com/icon/u1032146-3.jpg",
+      "content": "被戳中。。。。。"
+    },
+    {
+      "user": "明哥的粉色毛毛",
+      "avatar": "https://img1.doubanio.com/icon/u92111711-7.jpg",
+      "content": "只要活着就不会有bad end"
+    },
+    {
+      "user": "徽柔Orchid",
+      "avatar": "https://img3.doubanio.com/icon/u32131802-4.jpg",
+      "content": "自2016年7月开始看。也是在南浔的夜晚，还有热气腾腾的巴士上坐在最后一排看着打鼓的小哥被点燃。有时候，我也想成为一束光，一团火，一朵绽放的烟花。在下坡路时涕泪横流地看完了万家灯火中的一点光亮，莫名有种契合感。王怜花说上坡路和下坡路是同一条路。我也许渐渐明白。人生百味，苦味最甜。"
+    },
+    {
+      "user": "暴走君",
+      "avatar": "https://img3.doubanio.com/icon/u46419402-14.jpg",
+      "content": "看影评才多少看懂点。觉得两位男主的性格很小孩子，单纯执着。从直女的角度看，追求梦想很重要，更重要的是，希望你能在这一路上遇到陪伴理解，回忆起来也都是开心啊"
+    },
+    {
+      "user": "白苹果皇后",
+      "avatar": "https://img1.doubanio.com/icon/u4663675-37.jpg",
+      "content": "世上能杀死人的除了梁朝伟的眼神，从今起还多了德永的眼神。"
+    },
+    {
+      "user": "Cara",
+      "avatar": "https://img3.doubanio.com/icon/u4209953-14.jpg",
+      "content": "没有半点搞笑天赋的人  硬要让观众接受不知所云的说笑  完了观众不买单 还特委屈 特悲哀 也确实悲哀 "
+    },
+    {
+      "user": "大人！",
+      "avatar": "https://img1.doubanio.com/icon/u48097096-17.jpg",
+      "content": "有十颗星的话我就打十颗星了。"
+    },
+    {
+      "user": "菓粒子",
+      "avatar": "https://img1.doubanio.com/icon/u3629066-8.jpg",
+      "content": "其实我也不知道为什么会这么高分……确实绝大多数人表面嘻嘻哈哈，但其实已经丧到骨头里。平凡人的生活不易，无奈常有，后面几集小触动，有梦想很努力也不一定能成功。另外，我不能理解小林同学的角色，生活中很无趣的人怎么能可能在舞台上逗笑他人，只知道这只会显得生硬。"
+    },
+    {
+      "user": "Sonata Noir",
+      "avatar": "https://img3.doubanio.com/icon/u60291037-754.jpg",
+      "content": "谁？"
+    },
+    {
+      "user": "月球漫舞者",
+      "avatar": "https://img3.doubanio.com/icon/u2218047-36.jpg",
+      "content": "当我在看这部剧的时候，我想的不是年度最佳，是十年最佳、二十年最佳、史上最佳之一。最终话刻意留到卧铺火车上，熄灯后在过道看完，一点也没有煽情式的感动，但想到自己的人生，不由得对着那个理想中的自我泪流满面。能与这样的作品相遇是作为影迷（不只是剧迷）极大的幸运。"
+    }
+  ]
+}

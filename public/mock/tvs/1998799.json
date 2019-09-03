@@ -1,0 +1,1156 @@
+{
+  "title": "灌篮高手",
+  "url": "https://movie.douban.com/subject/1998799/",
+  "rate": "9.6",
+  "id": "1998799",
+  "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2445459194.jpg",
+  "info": [
+    "导演: 西泽信孝 / 志水淳儿",
+    "编剧: 岸间信明 / 菅良幸",
+    "主演: 草尾毅 / 绿川光 / 梁田清之 / 置鲇龙太郎 / 盐屋翼 / 原惠理子 / 平松晶子 / 田中秀幸 / 小野坂昌也 / 神奈延年 / 西村知道 / 森川智之 / 干本雄之 / 盐屋浩三 / 佐藤正治 / 江川央生 / 川津泰彦 / 大塚芳忠 / 石川英郎",
+    "类型: 喜剧 / 动画 / 运动",
+    "制片国家/地区: 日本",
+    "语言: 日语",
+    "首播: 1993-10-16(日本) / 2013-11-03",
+    "集数: 101",
+    "单集片长: 22分钟",
+    "又名: 篮球飞人 / 男儿当入樽(港) / Slam Dunk"
+  ],
+  "desc": "湘北高中的一年级新生樱木花道在初中就有了被50个女孩抛弃的“悲惨”经历，最后一个女孩抛弃他原来是看上了篮球部队小田，由此樱木对篮球更是深恶痛绝。进入高中后，樱木看上了美少女赤木晴子，晴子十分热爱篮球，为了赢取晴子的芳心，樱木决定加入篮球部。在侥幸赢得与篮球队队长赤木刚宪的打赌后，樱木顺利加入了篮球队。随着国中篮球联赛的最有价值球员流川枫的到来、伤愈复出的控位宫城良田以及误入歧途的前国中最有价值球员三井寿的回归，去年不堪一击的湘北篮球今年可谓人强马壮，虽然问题少年一大帮，但是在队长赤木刚宪的带领下，这一群以全国第一为目标的篮球少年正朝着自己的梦想进发！\n                        \n©豆瓣",
+  "members": {
+    "director": {
+      "name": "西泽信孝 Nobutaka Nishizawa",
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421879718.75.jpg"
+    },
+    "cast": [
+      {
+        "name": "草尾毅 Takeshi Kusao",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32556.jpg"
+      },
+      {
+        "name": "绿川光 Hikaru Midorikawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27393.jpg"
+      },
+      {
+        "name": "梁田清之 Kiyoyuki Yanada",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1457335060.95.jpg"
+      },
+      {
+        "name": "置鲇龙太郎 Ryôtarô Okiayu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1377188597.4.jpg"
+      },
+      {
+        "name": "盐屋翼 Yoku Shioya",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1361166575.76.jpg"
+      },
+      {
+        "name": "原惠理子 Eriko Hara",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360832665.68.jpg"
+      },
+      {
+        "name": "平松晶子 Akiko Hiramatsu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360841174.58.jpg"
+      },
+      {
+        "name": "田中秀幸 Hideyuki Tanaka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32677.jpg"
+      },
+      {
+        "name": "小野坂昌也 Masaya Onosaka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1379474463.4.jpg"
+      },
+      {
+        "name": "神奈延年 Nobutoshi Canna",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5778.jpg"
+      },
+      {
+        "name": "西村知道 Tomomichi Nishimura",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p18272.jpg"
+      },
+      {
+        "name": "森川智之 Toshiyuki Morikawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p25446.jpg"
+      },
+      {
+        "name": "干本雄之 Yûji Mikimoto",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1361164370.38.jpg"
+      },
+      {
+        "name": "盐屋浩三 Kôzô Shioya",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1361008956.65.jpg"
+      },
+      {
+        "name": "佐藤正治 Masaharu Sato",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1527501034.56.jpg"
+      },
+      {
+        "name": "江川央生 Hisao Egawa",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p30519.jpg"
+      },
+      {
+        "name": "大塚芳忠 Hôchû Ôtsuka",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50952.jpg"
+      },
+      {
+        "name": "石川英郎 Hideo Ishikawa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45404.jpg"
+      },
+      {
+        "name": "胡大卫 Dawei Hu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1404289078.33.jpg"
+      },
+      {
+        "name": "辻谷耕史 Kôji Tsujitani",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p44660.jpg"
+      },
+      {
+        "name": "白鸟由里 Yuri Shiratori",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360814523.96.jpg"
+      },
+      {
+        "name": "石冢运升 Unshô Ishizuka",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35717.jpg"
+      },
+      {
+        "name": "于正昇 Zhengsheng Yu",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4k6LlKmQWRwcel_avatar_uploaded1368110429.94.jpg"
+      },
+      {
+        "name": "官志宏 Zhihong Guan",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1378373180.35.jpg"
+      },
+      {
+        "name": "韩力 Li Han",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1495265026.73.jpg"
+      },
+      {
+        "name": "张明亮 Mingliang Zhang",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441842823.19.jpg"
+      },
+      {
+        "name": "岸野幸正 Kishino Yukimasa",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pJG1EXQ5LANAcel_avatar_uploaded1541948780.4.jpg"
+      },
+      {
+        "name": "幸野善之 Kouno Yoshiyuki",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pQaOuDW6MXkocel_avatar_uploaded1547640770.18.jpg"
+      },
+      {
+        "name": "里内信夫 Satouchi Shinobu",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pWg6-96bS61ccel_avatar_uploaded1565087414.69.jpg"
+      }
+    ]
+  },
+  "show": {
+    "videos": [],
+    "pics": [
+      "https://img3.doubanio.com/view/photo/sqxs/public/p764807852.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p764807614.jpg",
+      "https://img1.doubanio.com/view/photo/sqxs/public/p1331501757.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p1629412664.jpg",
+      "https://img3.doubanio.com/view/photo/sqxs/public/p1571999040.jpg"
+    ]
+  },
+  "comment": [
+    {
+      "user": "昏金暗玉",
+      "avatar": "https://img1.doubanio.com/icon/u1173035-399.jpg",
+      "content": "谁能给出5星以下，那他一定不懂得勇气、理想、夏天、冲动、纯粹、简单等等词汇。"
+    },
+    {
+      "user": "pinking。墨白",
+      "avatar": "https://img3.doubanio.com/icon/u1223659-110.jpg",
+      "content": "他们永远17岁"
+    },
+    {
+      "user": "浪味仙",
+      "avatar": "https://img1.doubanio.com/icon/u1681567-28.jpg",
+      "content": "谁评很差我剁了他"
+    },
+    {
+      "user": "♣lùlu♣",
+      "avatar": "https://img3.doubanio.com/icon/u1645264-36.jpg",
+      "content": "到底哪个最帅,这是个难题"
+    },
+    {
+      "user": "罗弘霉素",
+      "avatar": "https://img3.doubanio.com/icon/u18194188-65.jpg",
+      "content": "这部动漫的意义已经超出了动漫本身，他的力量让还是孩子的我们懂得了什么叫做梦想、什么叫做热血、什么叫做青春。他让我们放下了足球，走向了篮球场，他对于亚洲孩子在篮球方面的带动甚至大于他人物的原型NBA。这里有数不清的台词是那么经典，数不清的画面让我们会看的时候浑身热血，甚至战栗流泪。"
+    },
+    {
+      "user": "沉歌",
+      "avatar": "https://img1.doubanio.com/icon/u1552466-189.jpg",
+      "content": "“你喜欢篮球吗”的开始，“这次决不说谎，我是真的喜欢篮球”的结束，感动不会随着时间流逝而沉淀，反而会延绵不绝的浮现，这大概就是经典的力量。"
+    },
+    {
+      "user": "战国客",
+      "avatar": "https://img3.doubanio.com/icon/u1577739-80.jpg",
+      "content": "最喜欢的动画片，前无古人，估计也后无来者了，剧情很合理，不像《足球小子》那样假，大空翼一出手就无人能敌~~"
+    },
+    {
+      "user": "星尘战场",
+      "avatar": "https://img1.doubanio.com/icon/u1419434-167.jpg",
+      "content": "经典啊，连那么多配角都那么多粉丝。我爱三井。"
+    },
+    {
+      "user": "打盹的拉布拉多",
+      "avatar": "https://img3.doubanio.com/icon/u1708373-5.jpg",
+      "content": "片头曲、片尾曲，总是那么激情洋溢"
+    },
+    {
+      "user": "abby",
+      "avatar": "https://img3.doubanio.com/icon/u1680359-80.jpg",
+      "content": "影响我们一代人"
+    },
+    {
+      "user": "阿包™",
+      "avatar": "https://img1.doubanio.com/icon/u2126740-907.jpg",
+      "content": "最爱樱木"
+    },
+    {
+      "user": "papi",
+      "avatar": "https://img3.doubanio.com/icon/u2333354-285.jpg",
+      "content": "流川枫 我爱你 我！爱！你！"
+    },
+    {
+      "user": "眼角的花朵",
+      "avatar": "https://img1.doubanio.com/icon/u1799318-99.jpg",
+      "content": "爱樱木，喜欢那样一往直前的勇气~"
+    },
+    {
+      "user": "花儿",
+      "avatar": "https://img1.doubanio.com/icon/u1413427-8.jpg",
+      "content": "我喜欢宫城"
+    },
+    {
+      "user": "lawson_tao",
+      "avatar": "https://img3.doubanio.com/icon/u1560239-43.jpg",
+      "content": "高中时候晚自修前的必修课"
+    },
+    {
+      "user": "某茶君",
+      "avatar": "https://img3.doubanio.com/icon/u1062449-186.jpg",
+      "content": "当年好流行...连我爸都看...最经典的就是那个一秒放好几集..."
+    },
+    {
+      "user": "汽水|不core不得嗨",
+      "avatar": "https://img3.doubanio.com/icon/u2246896-23.jpg",
+      "content": "樱木做哥哥，流川做老公，三井当兄弟~这人生就完美了~~~~"
+    },
+    {
+      "user": "withinbeyond",
+      "avatar": "https://img3.doubanio.com/icon/u1501360-44.jpg",
+      "content": "体育类动漫不可错过的作品"
+    },
+    {
+      "user": "宇宙小姐",
+      "avatar": "https://img3.doubanio.com/icon/u2155399-100.jpg",
+      "content": "永远的樱木，关于高中最好的回忆"
+    },
+    {
+      "user": "老袁",
+      "avatar": "https://img3.doubanio.com/icon/u49599056-123.jpg",
+      "content": "TV版居然没有全国大赛。小时候买不起书，只能守着电视看灌篮高手，电视又播不齐。结局是靠小孩间传谣，发小告诉我的结局是流川枫去美国得了艾滋，樱木花道打全国大赛累死了。赤木晴子没跟任何人好。"
+    },
+    {
+      "user": "正义的路人😘",
+      "avatar": "https://img3.doubanio.com/icon/u144045833-2.jpg",
+      "content": "童年中看过的第一部热血沸腾的日本动漫，最喜欢樱木了，记得第一集樱木向心仪的女孩子表白，被婉拒，朋友们嘲笑他，愤怒的樱木把他们撞的满头包😂，还有三井见到曾经的恩师安西教练，哭着说我想打篮球，当时真的哭了😭。"
+    },
+    {
+      "user": "清歌墨苒",
+      "avatar": "https://img3.doubanio.com/icon/u56146054-4.jpg",
+      "content": "童年最爱的两部日漫之一，反复看过最多的一部，燃中之最。它不像现在的热血漫，主角开头就很牛或处处有奇遇，樱木从零开始，性格也是少见的让我喜欢的男主角（大部分日漫我都不喜欢男主角），所有的角色都有闪光点，不只一次看得泪崩，肌肉线条不能更漂亮，可惜动画没出全国大赛，漫画结局遗憾却真实。"
+    },
+    {
+      "user": "欣欣向荣",
+      "avatar": "https://img3.doubanio.com/icon/u3574203-2.jpg",
+      "content": "童年，好喜欢，日本这种竞技体育方面的动画片好多啊，从小就培养体育运动员，也让不喜欢体育运动的人，因为动画片而去了解相关。"
+    },
+    {
+      "user": "Doublebitch",
+      "avatar": "https://img3.doubanio.com/icon/u1917438-180.jpg",
+      "content": "热血时代"
+    },
+    {
+      "user": "|",
+      "avatar": "https://img3.doubanio.com/icon/u1744757-501.jpg",
+      "content": "一生一部动画"
+    },
+    {
+      "user": "竹叶青",
+      "avatar": "https://img3.doubanio.com/icon/u174200122-3.jpg",
+      "content": "樱木花道，流川枫，仙道彰，每一个都是我从小学就喜欢的男神，而且会一直喜欢下去。"
+    },
+    {
+      "user": "雨果",
+      "avatar": "https://img3.doubanio.com/icon/u154019316-3.jpg",
+      "content": "如果早些时间看这第二遍，相信会好好的打篮球…樱木就不说了，一半大臭小子坚持自我的坏男孩；很喜欢的角色是宫城，第一眼看到左耳上闪耀着蓝色的耳钉和棉花糖头就喜欢上了他，面对彩子傻傻的他面对不良少年轻蔑的他面对对手电光火石的他，让人安心开心；顺带一提流川枫球技很不错"
+    },
+    {
+      "user": "喜欢吗~",
+      "avatar": "https://img1.doubanio.com/icon/u2165720-7.jpg",
+      "content": "无法超越的热血漫，现在的很多新漫真的不是卖肉就是卖腐。最喜欢仙道，主题曲一直是手机铃声。"
+    },
+    {
+      "user": "小岩菽",
+      "avatar": "https://img3.doubanio.com/icon/u1026383-151.jpg",
+      "content": "永恒永恒的SLAM DUNK。听到主题曲就想飞起。"
+    },
+    {
+      "user": "一起吃地瓜",
+      "avatar": "https://img3.doubanio.com/icon/u172924438-2.jpg",
+      "content": "灌篮高手个人认为是日本最好的动漫，可惜只有100集。主题曲响起来热血沸腾，最喜欢樱木花道，是个逗逼。因为灌篮高手而喜欢上篮球，中央5的NBA转播几手场场不落，像喜欢樱木一样喜欢很多90年代的篮球巨星。"
+    },
+    {
+      "user": "天然呆",
+      "avatar": "https://img3.doubanio.com/icon/u60504625-3.jpg",
+      "content": "童年的记忆，最喜欢的流川枫啊"
+    },
+    {
+      "user": "蓝色啄木鸟",
+      "avatar": "https://img3.doubanio.com/icon/u73056364-15.jpg",
+      "content": "歌曲一响起就让人热血沸腾的动画片，现在还有收藏漫画和碟片！"
+    },
+    {
+      "user": "有未始有始也者",
+      "avatar": "https://img1.doubanio.com/icon/u1170907-137.jpg",
+      "content": "后面太拖了，一个三分球投20分钟那叫一个崩溃"
+    },
+    {
+      "user": "已注销",
+      "avatar": "https://img1.doubanio.com/icon/u174462591-9.jpg",
+      "content": "热血，青春，向上，对于年轻人来说是一部不错的动漫，喜欢。"
+    },
+    {
+      "user": "伍德与夏洛蒂",
+      "avatar": "https://img3.doubanio.com/icon/u3416004-931.jpg",
+      "content": "过去再多年也是我的挚爱，没有之一。"
+    },
+    {
+      "user": "安德烈大叔",
+      "avatar": "https://img3.doubanio.com/icon/u7315956-50.jpg",
+      "content": "虽然始终没有爱上篮球，但是一直用片头曲打鸡血"
+    },
+    {
+      "user": "粉堕百花洲",
+      "avatar": "https://img3.doubanio.com/icon/u174207326-1.jpg",
+      "content": "有感动，有热血，有青春，有激情，对于篮球在亚洲的推广也有积极作用。"
+    },
+    {
+      "user": "石头星",
+      "avatar": "https://img3.doubanio.com/icon/u150292300-3.jpg",
+      "content": "樱木花道"
+    },
+    {
+      "user": "柠檬or番茄",
+      "avatar": "https://img3.doubanio.com/icon/u89667311-6.jpg",
+      "content": "樱木花道害羞的时候，脸会红"
+    },
+    {
+      "user": "铃儿响叮当",
+      "avatar": "https://img3.doubanio.com/icon/u156016222-4.jpg",
+      "content": "热血青春的回忆，最好看的一部热血动漫，想当年是上至60多岁，下止几岁，都在看啊"
+    },
+    {
+      "user": "昵称被占不开心",
+      "avatar": "https://img3.doubanio.com/icon/u94506833-2.jpg",
+      "content": "超好看"
+    },
+    {
+      "user": "末摘花",
+      "avatar": "https://img3.doubanio.com/icon/u152688532-2.jpg",
+      "content": "唯一买过的动漫影碟"
+    },
+    {
+      "user": "吾皇万岁",
+      "avatar": "https://img3.doubanio.com/icon/u164952645-4.jpg",
+      "content": "我的流川枫，我只承认我是个颜狗"
+    },
+    {
+      "user": "大头绿豆",
+      "avatar": "https://img3.doubanio.com/icon/u1000152-23.jpg",
+      "content": "情节太拖沓了点。每次到比赛我就想快进。\n可是我喜欢晴子。"
+    },
+    {
+      "user": "不懂相负",
+      "avatar": "https://img3.doubanio.com/icon/u77161027-3.jpg",
+      "content": "十一号的流川枫，绿川光！！原声带一想起简直热血！"
+    },
+    {
+      "user": "锐利修蕊",
+      "avatar": "https://img1.doubanio.com/icon/u12544519-58.jpg",
+      "content": "有人和我一样觉得流川枫和樱木才是最配的一对吗？？"
+    },
+    {
+      "user": "世界尽头",
+      "avatar": "https://img3.doubanio.com/icon/u156941004-5.jpg",
+      "content": "我的童年啊，现在也会时不时翻出来看看。这里的每个角色我都喜欢，都有自己的故事，都是立得住的人物。尤其心疼三井，人生中有的东西错过了就是错过了，但如果你能迷途知返，那就是值得庆幸的。"
+    },
+    {
+      "user": "吴昊昊",
+      "avatar": "https://img3.doubanio.com/icon/u1080110-55.jpg",
+      "content": "努力、奋斗"
+    },
+    {
+      "user": "sosovipp",
+      "avatar": "https://img3.doubanio.com/icon/u53968282-2.jpg",
+      "content": "樱木花道就是负责搞笑的，在搞笑中成长，有点像鹿鼎记里的韦小宝。"
+    },
+    {
+      "user": "xxxx",
+      "avatar": "https://img3.doubanio.com/icon/u151733404-1.jpg",
+      "content": "儿时最喜欢的动画片之一，一堆人迷流川枫，我偏就喜欢樱木花道，太逗比，为了梦想奋斗，有热血有激情"
+    },
+    {
+      "user": "37°2",
+      "avatar": "https://img3.doubanio.com/icon/u1224197-31.jpg",
+      "content": "个人认为仍然是顶级的动漫，人物塑造登峰造极，井上的画风突破了日系的千篇一律……"
+    },
+    {
+      "user": "绿河",
+      "avatar": "https://img1.doubanio.com/icon/u146031997-8.jpg",
+      "content": "超级燃，超级爱的一部番，现在我的手机铃声还是片头"
+    },
+    {
+      "user": "桃子",
+      "avatar": "https://img3.doubanio.com/icon/u1044635-42.jpg",
+      "content": "忘了tag的"
+    },
+    {
+      "user": "Aubrey",
+      "avatar": "https://img3.doubanio.com/icon/u37241630-144.jpg",
+      "content": "我爱仙道~"
+    },
+    {
+      "user": "joker",
+      "avatar": "https://img3.doubanio.com/icon/u4530521-13.jpg",
+      "content": "10/10"
+    },
+    {
+      "user": "blb",
+      "avatar": "https://img3.doubanio.com/icon/u1532705-21.jpg",
+      "content": "看的断断续续"
+    },
+    {
+      "user": "Aether",
+      "avatar": "https://img1.doubanio.com/icon/u3305538-9.jpg",
+      "content": "当时我喜欢的是谁"
+    },
+    {
+      "user": "路西法尔",
+      "avatar": "https://img3.doubanio.com/icon/u4214564-2.jpg",
+      "content": "热血系至此极矣"
+    },
+    {
+      "user": "望仔滚去减肥",
+      "avatar": "https://img3.doubanio.com/icon/u1706338-90.jpg",
+      "content": "我爱日文原版配音……"
+    },
+    {
+      "user": "P0P",
+      "avatar": "https://img1.doubanio.com/icon/u1307390-177.jpg",
+      "content": "表妹叫蜗看，结果发现，好看死了 =。="
+    },
+    {
+      "user": "任染",
+      "avatar": "https://img1.doubanio.com/icon/u3320543-38.jpg",
+      "content": "泪目"
+    },
+    {
+      "user": "Irreversing",
+      "avatar": "https://img3.doubanio.com/icon/u1988262-20.jpg",
+      "content": "best"
+    },
+    {
+      "user": "蛔蛔大人的女票",
+      "avatar": "https://img1.doubanio.com/icon/u33905935-9.jpg",
+      "content": "我的爱。"
+    },
+    {
+      "user": "Charice",
+      "avatar": "https://img3.doubanio.com/icon/u3116356-95.jpg",
+      "content": "阿神！！"
+    },
+    {
+      "user": "其艾拉",
+      "avatar": "https://img3.doubanio.com/icon/u3988985-5.jpg",
+      "content": "不错"
+    },
+    {
+      "user": "少室山宅男",
+      "avatar": "https://img3.doubanio.com/icon/u60046415-2.jpg",
+      "content": "最经典最励志的，没有之一"
+    },
+    {
+      "user": "花落  思量错",
+      "avatar": "https://img3.doubanio.com/icon/u156004677-5.jpg",
+      "content": "流川枫的画报伴随我整个青春，高考的时候还贴在我的书桌前，一个充满梦想勇气个热情的世界，现在回忆起来还是悸动满满。"
+    },
+    {
+      "user": "ABCD的D",
+      "avatar": "https://img1.doubanio.com/icon/u1352367-27.jpg",
+      "content": "!@!!2"
+    },
+    {
+      "user": "疾走",
+      "avatar": "https://img3.doubanio.com/icon/u3231508-34.jpg",
+      "content": "红头猴子和冰山的碰撞\n但还是更喜欢里面的那些配角"
+    },
+    {
+      "user": "小忌廉",
+      "avatar": "https://img3.doubanio.com/icon/u1291134-53.jpg",
+      "content": "这么多年来 坑爹了多少次 我只想求个结局  "
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "美啥说的。"
+    },
+    {
+      "user": "-VeronicaWooo-",
+      "avatar": "https://img3.doubanio.com/icon/u34946168-4.jpg",
+      "content": "不看人生不完整的。其实，还不错的撒@Home"
+    },
+    {
+      "user": "💙",
+      "avatar": "https://img1.doubanio.com/icon/u50150793-187.jpg",
+      "content": "我爱湘北的一切。"
+    },
+    {
+      "user": "左啾啾",
+      "avatar": "https://img1.doubanio.com/icon/u2243189-37.jpg",
+      "content": "狂爱流川枫和樱木"
+    },
+    {
+      "user": "‐「Lesley﹠",
+      "avatar": "https://img1.doubanio.com/icon/u1750580-77.jpg",
+      "content": "永远的最爱"
+    },
+    {
+      "user": "和运超",
+      "avatar": "https://img3.doubanio.com/icon/u2038126-46.jpg",
+      "content": "绝对经典，百看不厌"
+    },
+    {
+      "user": "蓝下老婆",
+      "avatar": "https://img3.doubanio.com/icon/u155986714-2.jpg",
+      "content": "超好看的动画，当时每天必追动画之一，红头猴子当时是我画画的素材，就贴在我书桌前，主题曲也超好听的"
+    },
+    {
+      "user": "小美人鱼",
+      "avatar": "https://img1.doubanio.com/icon/u43521810-228.jpg",
+      "content": "男同学们都太帅了估计现在看肯定把持不住"
+    },
+    {
+      "user": "Memento Mori",
+      "avatar": "https://img3.doubanio.com/icon/u3578803-11.jpg",
+      "content": "啊，我的曾经热血年华。"
+    },
+    {
+      "user": "辰星祭",
+      "avatar": "https://img1.doubanio.com/icon/u49062903-7.jpg",
+      "content": "女人，这是我们漫画的开始也是我们纠缠的开始，直到现在没有终结"
+    },
+    {
+      "user": "沉默支撐我",
+      "avatar": "https://img3.doubanio.com/icon/u26484499-33.jpg",
+      "content": "不用说"
+    },
+    {
+      "user": "lucia绿",
+      "avatar": "https://img1.doubanio.com/icon/u16824758-7.jpg",
+      "content": "这个不用说啦"
+    },
+    {
+      "user": "赵麻花",
+      "avatar": "https://img1.doubanio.com/icon/u41727557-8.jpg",
+      "content": "虽然看的不全....热血动画的经典啊~"
+    },
+    {
+      "user": "生人回避",
+      "avatar": "https://img3.doubanio.com/icon/u51911319-11.jpg",
+      "content": "那可是一个时代！"
+    },
+    {
+      "user": "七彩糖果",
+      "avatar": "https://img3.doubanio.com/icon/u174205101-1.jpg",
+      "content": "热血动漫在普遍喜欢流川枫樱木花道的大环境下喜欢仙道"
+    },
+    {
+      "user": "烧鱼",
+      "avatar": "https://img3.doubanio.com/icon/u2720362-21.jpg",
+      "content": "家喻户晓"
+    },
+    {
+      "user": "老六",
+      "avatar": "https://img3.doubanio.com/icon/u2639133-14.jpg",
+      "content": "啊……你的童年在干啥？"
+    },
+    {
+      "user": "萌 . 李",
+      "avatar": "https://img1.doubanio.com/icon/u28246905-57.jpg",
+      "content": "我对这种动画一向不怎么感兴趣，但至少看过，忘了。。。"
+    },
+    {
+      "user": "大潦",
+      "avatar": "https://img1.doubanio.com/icon/u3849411-158.jpg",
+      "content": "永远最喜欢的动画片！"
+    },
+    {
+      "user": "苍耳",
+      "avatar": "https://img1.doubanio.com/icon/u37217911-7.jpg",
+      "content": "小时候对流川枫那叫一个花痴。现在看他还是觉得萌"
+    },
+    {
+      "user": "撒么而",
+      "avatar": "https://img1.doubanio.com/icon/u1233620-18.jpg",
+      "content": "红豆！大红豆！三井寿，屁好臭"
+    },
+    {
+      "user": "夏天De西瓜",
+      "avatar": "https://img3.doubanio.com/icon/u23450183-4.jpg",
+      "content": "小时候的记忆始终是 樱木无敌的身体素质 和 自然系始祖的晴子"
+    },
+    {
+      "user": "★☆☆☆☆",
+      "avatar": "https://img1.doubanio.com/icon/u1895572-128.jpg",
+      "content": "（8/10）多年以后，我才知道《灌篮高手》 的主题其实是：凡人不管再怎么努力，终究不会是天才的对手……（所以长谷川拼命了三年也只能被荒废了两年的咪酱完爆，所以配角进入回忆杀就快要扑街，所以眼镜兄、小安、阿福、鱼住……所以翔阳和陵南合并起来也抵不过主角们的升级挂……）"
+    },
+    {
+      "user": "feather",
+      "avatar": "https://img1.doubanio.com/icon/u2580958-18.jpg",
+      "content": "部分"
+    },
+    {
+      "user": "随风的蒲公英",
+      "avatar": "https://img3.doubanio.com/icon/u157273071-1.jpg",
+      "content": "当时的流川枫可是好多女生中的男神！"
+    },
+    {
+      "user": "元宝宝",
+      "avatar": "https://img3.doubanio.com/icon/u152434281-2.jpg",
+      "content": "学生时代必看动漫作品之一，满满的全是回忆呀！"
+    },
+    {
+      "user": "暴富的女孩是我",
+      "avatar": "https://img3.doubanio.com/icon/u156682524-3.jpg",
+      "content": "🏀好帅"
+    },
+    {
+      "user": "LEMON",
+      "avatar": "https://img3.doubanio.com/icon/u160870609-5.jpg",
+      "content": "热血青春漫画，相信当时很多人会因为这部漫画开始打篮球从而爱上篮球"
+    },
+    {
+      "user": "草莓__三月",
+      "avatar": "https://img3.doubanio.com/icon/u152762782-2.jpg",
+      "content": "喜欢樱木花道的执着和努力，不过流川枫也很帅啊"
+    },
+    {
+      "user": "999",
+      "avatar": "https://img1.doubanio.com/icon/u3501515-87.jpg",
+      "content": "老了，现在回看也没激情了"
+    },
+    {
+      "user": "咖喱娜",
+      "avatar": "https://img1.doubanio.com/icon/u4901541-128.jpg",
+      "content": "这个也不用解释吧!"
+    },
+    {
+      "user": "donglao",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "这是关于青春,梦想,狂放,和满足的骄傲"
+    },
+    {
+      "user": "请叫我船长大人",
+      "avatar": "https://img3.doubanio.com/icon/u37470512-5.jpg",
+      "content": "什么时候都能看的热血沸腾欲罢不能热泪盈眶。我们相信理想。"
+    },
+    {
+      "user": "西桦夜",
+      "avatar": "https://img1.doubanio.com/icon/u3057364-49.jpg",
+      "content": "又在重温  曾经让我沉迷的漫画"
+    },
+    {
+      "user": "蛮吉",
+      "avatar": "https://img1.doubanio.com/icon/u1108281-29.jpg",
+      "content": "日本"
+    },
+    {
+      "user": "X",
+      "avatar": "https://img1.doubanio.com/icon/u158679347-9.jpg",
+      "content": "说灌篮高手是一代人的动漫记忆一点也不为过，每天准时等电视，主题曲永不过时，据说在韩国也很火，亚洲大ip"
+    },
+    {
+      "user": "Cherry Chi",
+      "avatar": "https://img3.doubanio.com/icon/u4682492-84.jpg",
+      "content": "必须五星啊"
+    },
+    {
+      "user": "死也不告诉你",
+      "avatar": "https://img3.doubanio.com/icon/u1553487-4.jpg",
+      "content": "这就是青春"
+    },
+    {
+      "user": "拯救失足妇女",
+      "avatar": "https://img3.doubanio.com/icon/u37382057-15.jpg",
+      "content": "青春篮球梦！"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "真的好好笑，那个二逼樱木花道据说是白羊男吧，他总是出状况总是有笑料发生，但依然那么帅。小学时代男生的偶像，女生的白马王子（不是流川枫！），漫画书也就是一本《灌篮高手》从开始疯传然后才有七龙珠机器猫幽游白书蜡笔小新小忍者美少女……"
+    },
+    {
+      "user": "放风的人",
+      "avatar": "https://img1.doubanio.com/icon/u4105244-8.jpg",
+      "content": "梦永远不会终结"
+    },
+    {
+      "user": "阿妙妙",
+      "avatar": "https://img3.doubanio.com/icon/u1092492-6.jpg",
+      "content": "高中时全城热看"
+    },
+    {
+      "user": "天衣無縫",
+      "avatar": "https://img3.doubanio.com/icon/u50941857-15.jpg",
+      "content": "神昨啊。。。膜拜井上大人  高中时的最爱。。。"
+    },
+    {
+      "user": "Bluesky",
+      "avatar": "https://img1.doubanio.com/icon/u1531151-8.jpg",
+      "content": "看我头像就知道啦"
+    },
+    {
+      "user": "飞鸟凉",
+      "avatar": "https://img3.doubanio.com/icon/u1125189-195.jpg",
+      "content": "我们家寿寿～～"
+    },
+    {
+      "user": "肯洛斯周",
+      "avatar": "https://img3.doubanio.com/icon/u3215431-13.jpg",
+      "content": "经典！"
+    },
+    {
+      "user": "Zero-_-",
+      "avatar": "https://img3.doubanio.com/icon/u3125566-2.jpg",
+      "content": "陪伴童年的成长"
+    },
+    {
+      "user": "结球",
+      "avatar": "https://img3.doubanio.com/icon/u1360428-421.jpg",
+      "content": "高二放的。怎么那样红。"
+    },
+    {
+      "user": "章鱼小暖",
+      "avatar": "https://img1.doubanio.com/icon/u4159451-7.jpg",
+      "content": "错过的结尾，没错过的你们"
+    },
+    {
+      "user": "大佑",
+      "avatar": "https://img3.doubanio.com/icon/u2918454-271.jpg",
+      "content": "我童年的最愛 \r\n>       <"
+    },
+    {
+      "user": "爱",
+      "avatar": "https://img1.doubanio.com/icon/u51862789-8.jpg",
+      "content": "运动动漫的NO.1,小时候那个迷呀，书皮、贴画、海报都是灌啊"
+    },
+    {
+      "user": "王無為",
+      "avatar": "https://img3.doubanio.com/icon/u1041702-73.jpg",
+      "content": "我们这一代的热血"
+    },
+    {
+      "user": "半透明",
+      "avatar": "https://img3.doubanio.com/icon/u3115439-4.jpg",
+      "content": "不用说了"
+    },
+    {
+      "user": "miwaMIRAGE",
+      "avatar": "https://img1.doubanio.com/icon/u42714191-39.jpg",
+      "content": "不打五星的都去死两次吧"
+    },
+    {
+      "user": "vivien",
+      "avatar": "https://img3.doubanio.com/icon/u43947990-143.jpg",
+      "content": "最喜欢灌篮高手slamdunk。。遗憾的是100集后就没有下回了。。漫画书里也画的与有失水准。。太印象深刻的经典人物了。。流川枫》樱木》三井》仙道。。呵呵。。"
+    },
+    {
+      "user": "一计落甘",
+      "avatar": "https://img3.doubanio.com/icon/u1768301-126.jpg",
+      "content": "爱篮球"
+    },
+    {
+      "user": "双木临峰",
+      "avatar": "https://img3.doubanio.com/icon/u48114475-3.jpg",
+      "content": "永远的篮球记忆"
+    },
+    {
+      "user": "回力猴子",
+      "avatar": "https://img1.doubanio.com/icon/u4527692-67.jpg",
+      "content": "夏天，篮球"
+    },
+    {
+      "user": "镜中的Alice",
+      "avatar": "https://img3.doubanio.com/icon/u2415600-1.jpg",
+      "content": "这部影响了多少我们这一代人啊~无愧的经典~后人无法再超越~~~"
+    },
+    {
+      "user": "A_Huang",
+      "avatar": "https://img3.doubanio.com/icon/u48171604-2.jpg",
+      "content": "我的青少年时期最激情澎湃的记忆～"
+    },
+    {
+      "user": "FUNNI",
+      "avatar": "https://img1.doubanio.com/icon/u3328226-8.jpg",
+      "content": "最经典的就是一个球投出去能回忆好几集，没耐心看第二部了"
+    },
+    {
+      "user": "达达 、",
+      "avatar": "https://img1.doubanio.com/icon/u4354439-7.jpg",
+      "content": "樱木和仙道"
+    },
+    {
+      "user": "yukainju",
+      "avatar": "https://img3.doubanio.com/icon/u3262787-5.jpg",
+      "content": "最爱樱木~"
+    },
+    {
+      "user": "中/小雨",
+      "avatar": "https://img3.doubanio.com/icon/u1129504-14.jpg",
+      "content": "童年！童年！"
+    },
+    {
+      "user": "小野山猪",
+      "avatar": "https://img1.doubanio.com/icon/u1525445-128.jpg",
+      "content": "热血青春"
+    },
+    {
+      "user": "姐有手",
+      "avatar": "https://img3.doubanio.com/icon/u18540790-145.jpg",
+      "content": "101"
+    },
+    {
+      "user": "八月槎",
+      "avatar": "https://img1.doubanio.com/icon/u1033955-18.jpg",
+      "content": "樱木花道么，呵呵。"
+    },
+    {
+      "user": "大魔包",
+      "avatar": "https://img3.doubanio.com/icon/u21711460-5.jpg",
+      "content": "无法用语言表达"
+    },
+    {
+      "user": "lulu",
+      "avatar": "https://img3.doubanio.com/icon/u40768918-14.jpg",
+      "content": "like 死了~~"
+    },
+    {
+      "user": "Ume",
+      "avatar": "https://img3.doubanio.com/icon/u2254840-55.jpg",
+      "content": "在校园的中最应景的动画 陪我度过了整个学生时代"
+    },
+    {
+      "user": "Ume",
+      "avatar": "https://img3.doubanio.com/icon/u2254840-55.jpg",
+      "content": "在校园的中最应景的动画 陪我度过了整个学生时代"
+    },
+    {
+      "user": "炫3D",
+      "avatar": "https://img3.doubanio.com/icon/u158123544-4.jpg",
+      "content": "热血沸腾的高中时代、那时候喜欢乔丹，喜欢公牛，常常把灌篮高手里的人物和NBA去匹配。"
+    },
+    {
+      "user": "Oo龙芽oo",
+      "avatar": "https://img1.doubanio.com/icon/u2936691-8.jpg",
+      "content": "后面地呢？"
+    },
+    {
+      "user": "Roooooolls",
+      "avatar": "https://img3.doubanio.com/icon/u33975090-134.jpg",
+      "content": "怎么可能没看过！！！虽然老子不会打篮球！！！"
+    },
+    {
+      "user": "阿翔需要美少男解毒！",
+      "avatar": "https://img1.doubanio.com/icon/u2572220-107.jpg",
+      "content": "好看。"
+    },
+    {
+      "user": "蓝雨笛",
+      "avatar": "https://img3.doubanio.com/icon/u56712686-6.jpg",
+      "content": "我的童年"
+    },
+    {
+      "user": "Miss氢气",
+      "avatar": "https://img3.doubanio.com/icon/u21027773-6.jpg",
+      "content": "！！！！！！！！！！！！！！"
+    },
+    {
+      "user": "wintery",
+      "avatar": "https://img1.doubanio.com/icon/u1743660-9.jpg",
+      "content": "我的青春 超想看真人版！"
+    },
+    {
+      "user": "记得当时有风",
+      "avatar": "https://img3.doubanio.com/icon/u46781316-4.jpg",
+      "content": "每个角色都是那么鲜明。层出不穷的笑料和喷涌而出的感动。"
+    },
+    {
+      "user": "celestebook",
+      "avatar": "https://img3.doubanio.com/icon/u2856497-11.jpg",
+      "content": "我喜欢的人：流川枫 水户洋平（我是不是很闷骚。。。）"
+    },
+    {
+      "user": "抖坂熊🐻",
+      "avatar": "https://img1.doubanio.com/icon/u2958727-7.jpg",
+      "content": "是它，就是它，开启了我漫画世界的一道门"
+    },
+    {
+      "user": "牛奶盒子烂掉了",
+      "avatar": "https://img3.doubanio.com/icon/u4888012-16.jpg",
+      "content": "超好看。。。"
+    },
+    {
+      "user": "Carla",
+      "avatar": "https://img3.doubanio.com/icon/u2066424-190.jpg",
+      "content": "看这片儿很有激情...."
+    },
+    {
+      "user": "巴巴罗莎蠢猫脸",
+      "avatar": "https://img1.doubanio.com/icon/u47443279-7.jpg",
+      "content": "不评论。"
+    },
+    {
+      "user": "本无缰",
+      "avatar": "https://img3.doubanio.com/icon/u2664545-40.jpg",
+      "content": "青春和梦想"
+    },
+    {
+      "user": "泥鳅鳅",
+      "avatar": "https://img1.doubanio.com/icon/u4129708-28.jpg",
+      "content": "竟然没标。。当年的流川枫啊。"
+    },
+    {
+      "user": "萤火虫小花",
+      "avatar": "https://img3.doubanio.com/icon/u1031124-1.jpg",
+      "content": "那时很傻，不知道复制。生生把我的光驱看坏了。"
+    },
+    {
+      "user": "教主饶命",
+      "avatar": "https://img1.doubanio.com/icon/u3306621-9.jpg",
+      "content": "影响整个少年时代"
+    },
+    {
+      "user": "不列颠没有皇帝",
+      "avatar": "https://img3.doubanio.com/icon/u46886098-2.jpg",
+      "content": "最爱~~~~"
+    },
+    {
+      "user": "tsaione",
+      "avatar": "https://img3.doubanio.com/icon/u2741345-6.jpg",
+      "content": "太慢 漫画好"
+    },
+    {
+      "user": "Mannialanck",
+      "avatar": "https://img3.doubanio.com/icon/u2664326-53.jpg",
+      "content": "11分。电视上看过2次以上，电脑上日本原声一次。"
+    },
+    {
+      "user": "在.",
+      "avatar": "https://img3.doubanio.com/icon/u1711573-10.jpg",
+      "content": "野猴子"
+    },
+    {
+      "user": "不会武功的女侠",
+      "avatar": "https://img1.doubanio.com/icon/u37009396-9.jpg",
+      "content": "每个暑假都看一遍也不会腻"
+    },
+    {
+      "user": "dormant",
+      "avatar": "https://img3.doubanio.com/icon/u1035406-36.jpg",
+      "content": "忘加了"
+    },
+    {
+      "user": "Setting",
+      "avatar": "https://img1.doubanio.com/icon/u2781232-58.jpg",
+      "content": "意义不用明说。"
+    },
+    {
+      "user": "劈劈mi",
+      "avatar": "https://img3.doubanio.com/icon/u1767575-1045.jpg",
+      "content": "补完。 国配樱木比较萌 所以是半路出家去看国配的"
+    },
+    {
+      "user": "orange",
+      "avatar": "https://img3.doubanio.com/icon/u1485883-15.jpg",
+      "content": "经典，没说的。"
+    },
+    {
+      "user": "黄嘟嘟",
+      "avatar": "https://img3.doubanio.com/icon/u3657987-833.jpg",
+      "content": "仙道！"
+    },
+    {
+      "user": "小山贼",
+      "avatar": "https://img3.doubanio.com/icon/u2636565-164.jpg",
+      "content": "童年回忆,我的红毛猴子啊!!"
+    },
+    {
+      "user": "飯团君。",
+      "avatar": "https://img3.doubanio.com/icon/u2941507-15.jpg",
+      "content": "陪伴我长大的动画！"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "经典"
+    },
+    {
+      "user": "多米多多乐",
+      "avatar": "https://img3.doubanio.com/icon/u2333031-1.jpg",
+      "content": "青春啊"
+    },
+    {
+      "user": "合疾||白痴",
+      "avatar": "https://img1.doubanio.com/icon/u2222264-48.jpg",
+      "content": "我的记忆在里面"
+    },
+    {
+      "user": "笔三",
+      "avatar": "https://img1.doubanio.com/icon/u30716792-18.jpg",
+      "content": "我想打篮球"
+    },
+    {
+      "user": "就叫我铿爷吧",
+      "avatar": "https://img3.doubanio.com/icon/u1281419-10.jpg",
+      "content": "初中时代的回忆，无论重温多少次都很振奋人心。"
+    },
+    {
+      "user": "tricky_V",
+      "avatar": "https://img3.doubanio.com/icon/u21775946-25.jpg",
+      "content": "我爱樱木~！！"
+    },
+    {
+      "user": "悠悠",
+      "avatar": "https://img3.doubanio.com/icon/u162223336-3.jpg",
+      "content": "我最喜欢的动画片，不喜欢帅帅的流川枫，喜欢痞痞的樱木花道，虽然脾气暴躁，但是有点呆萌，有点可爱！"
+    },
+    {
+      "user": "只手撕天",
+      "avatar": "https://img3.doubanio.com/icon/u34161257-2.jpg",
+      "content": "我最喜欢的动漫作品，从小到大觉得最好看的体育题材动漫，虽然夸张到极点，YY味儿十足，但是真情实意，阳刚气十足，可惜动画化未完全，遗憾啊。"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "prefect"
+    },
+    {
+      "user": "[已注销]",
+      "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+      "content": "的确是非常经典的励志动画，很好，我的童年，完整了……我终于全部看完了~"
+    },
+    {
+      "user": "木雅游",
+      "avatar": "https://img3.doubanio.com/icon/u33991248-2.jpg",
+      "content": "谁高中的时候心中没有一个灌篮高手"
+    },
+    {
+      "user": "小矮人没有童话",
+      "avatar": "https://img3.doubanio.com/icon/u2705335-6.jpg",
+      "content": "看了这个,我玩起了篮球."
+    },
+    {
+      "user": "Vita Kei。",
+      "avatar": "https://img3.doubanio.com/icon/u4266483-482.jpg",
+      "content": "经典。"
+    },
+    {
+      "user": "阿猫",
+      "avatar": "https://img3.doubanio.com/icon/u2390849-145.jpg",
+      "content": "曾经一度为之而疯狂~~"
+    },
+    {
+      "user": "Sundance小千",
+      "avatar": "https://img1.doubanio.com/icon/u1564786-9.jpg",
+      "content": "因为这个才开始打篮球的"
+    },
+    {
+      "user": "宁森淼",
+      "avatar": "https://img3.doubanio.com/icon/u172655739-5.jpg",
+      "content": "经典的运动动漫，不知道为什么一直没看完。"
+    },
+    {
+      "user": "yocofcjx28",
+      "avatar": "https://img3.doubanio.com/icon/u149120019-4.jpg",
+      "content": "高中时代的回忆！最爱三井寿！"
+    },
+    {
+      "user": "戚风卷小马达",
+      "avatar": "https://img3.doubanio.com/icon/u1842712-10.jpg",
+      "content": "怎么把它给忘了 初中时的精神支柱"
+    },
+    {
+      "user": "piglet❤Mia~",
+      "avatar": "https://img3.doubanio.com/icon/u23303087-6.jpg",
+      "content": "眼镜哥哥和樱木是我的最爱~"
+    },
+    {
+      "user": "·謎語語語語",
+      "avatar": "https://img3.doubanio.com/icon/u2429792-60.jpg",
+      "content": "听说要出大结局啦！！！"
+    },
+    {
+      "user": "hiphop",
+      "avatar": "https://img3.doubanio.com/icon/u1144153-5.jpg",
+      "content": "看了无数遍，每一次都觉得经典"
+    },
+    {
+      "user": "DreamMaker",
+      "avatar": "https://img1.doubanio.com/icon/u2252375-147.jpg",
+      "content": "还好"
+    },
+    {
+      "user": "大官人",
+      "avatar": "https://img3.doubanio.com/icon/u1832425-81.jpg",
+      "content": "樱木灌篮啦！"
+    },
+    {
+      "user": "stknight",
+      "avatar": "https://img3.doubanio.com/icon/u3026435-2.jpg",
+      "content": "是没拍完吗"
+    },
+    {
+      "user": "鑫鑫鑫❤",
+      "avatar": "https://img1.doubanio.com/icon/u36667983-7.jpg",
+      "content": "一年了……"
+    },
+    {
+      "user": "穆.",
+      "avatar": "https://img3.doubanio.com/icon/u1669108-41.jpg",
+      "content": "再也没有哪部漫画比你有更多回忆"
+    },
+    {
+      "user": "Bailey",
+      "avatar": "https://img3.doubanio.com/icon/u2724619-16.jpg",
+      "content": "能说什么呢？"
+    },
+    {
+      "user": "小妞·♬",
+      "avatar": "https://img3.doubanio.com/icon/u2252801-2.jpg",
+      "content": "一致五星通过"
+    },
+    {
+      "user": "正好同学",
+      "avatar": "https://img3.doubanio.com/icon/u1429099-5.jpg",
+      "content": "那球打到木地板上的音效做得真好，还有球鞋的吱吱声，还有结尾那首大黑摩季的《只想注视着你》"
+    },
+    {
+      "user": "Verkhovtsev",
+      "avatar": "https://img3.doubanio.com/icon/u3616408-21.jpg",
+      "content": "但是我很讨厌篮球"
+    }
+  ]
+}
