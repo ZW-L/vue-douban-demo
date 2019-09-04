@@ -16,8 +16,8 @@
 
 <script>
 import 'swiper/dist/css/swiper.css';
-import LinearSwiperItem from '../components/LinearSwiperItem';
 import { swiper, swiperSlide } from 'vue-awesome-swiper';
+import LinearSwiperItem from './LinearSwiperItem.vue';
 
 export default {
   name: 'linear-swiper',
@@ -41,25 +41,24 @@ export default {
     scrollbarDragSize: {
       type: Number,
       default: 30,
-    }
+    },
   },
 
   data() {
     return {
       swiperOption: {
-        width: this.slideWidth,  // 每个 slide 的宽度
-        freeMode: true,  // 开启惯性滑动和触底反弹
-        freeModeMomentumRatio: 1,  // 惯性滑动的速度
-        spaceBetween: this.slideSpace,  // slide 的间隔
-        scrollbar: {  // 设置滚动条
-          el: '.swiper-scrollbar',  // 作为滚动条的 DOM 元素
-          dragSize: this.scrollbarDragSize,  //  设置滚动条的间隔
+        width: this.slideWidth, // 每个 slide 的宽度
+        freeMode: true, // 开启惯性滑动和触底反弹
+        freeModeMomentumRatio: 1, // 惯性滑动的速度
+        spaceBetween: this.slideSpace, // slide 的间隔
+        scrollbar: { // 设置滚动条
+          el: '.swiper-scrollbar', // 作为滚动条的 DOM 元素
+          dragSize: this.scrollbarDragSize, //  设置滚动条的间隔
         },
       },
-    }
+    };
   },
-
-}
+};
 </script>
 
 <style lang="scss" scoped>

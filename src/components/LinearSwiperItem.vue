@@ -9,17 +9,17 @@
 </template>
 
 <script>
- export default {
-   name: 'linear-swiper-item',
+export default {
+  name: 'linear-swiper-item',
 
-   props: {
-     avatar: {
-       type: String,
-       default: '',
-     }
-   },
+  props: {
+    avatar: {
+      type: String,
+      default: '',
+    },
+  },
 
- }
+};
 </script>
 
 <style lang="scss" scoped>
