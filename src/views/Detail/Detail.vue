@@ -2,41 +2,41 @@
   <div class="detail">
     <header class="header">Detail View</header>
     <div class="content">
-      <detail-movie-card
-        :cover="detail.cover"
-        :title="detail.title"
-        :info="detail.info"
-        :rate="detail.rate"
-      ></detail-movie-card>
-      <div class="desc content-item">
-        <header class="desc-title title-light">详情介绍</header>
-        <div class="desc-content">{{detail.desc}}</div>
+      <div class="content-header">
+        <detail-movie-card
+          :cover="detail.cover"
+          :title="detail.title"
+          :info="detail.info"
+          :rate="detail.rate"
+        ></detail-movie-card>
       </div>
-      <div class="cast content-item">
-        <header class="cast-title title-light">演员表</header>
-        <linear-swiper :list="castList"></linear-swiper>
+      <div class="content-item">
+        <header class="title-light">详情介绍</header>
+        <detail-content-desc :desc="detail.desc"></detail-content-desc>
       </div>
-      <div class="related content-item">
-        <header class="related-title title-light">预告片/剧照</header>
-        <div class="related-content">
-          <div class="related-video">
-            <video controls>
-              <source :src="detail.show.videos[0].src">
-            </video>
-          </div>
-          <div class="related-pic">
-
-          </div>
-        </div>
+      <div class="content-item">
+        <header class="title-light">演员表</header>
+        <linear-swiper 
+          :list="members"
+          :ratio="140"
+        ></linear-swiper>
       </div>
-      <div class="comment content-item">
-        <header class="comment-title title-light">精彩短评</header>
+      <div class="content-item">
+        <header class="title-light">预告片/剧照</header>
+        <linear-swiper 
+          :list="pics"
+          :slideWidth="180"
+          :ratio="56"
+        ></linear-swiper>
+      </div>
+      <div class="content-item">
+        <header class="title-light">精彩短评</header>
         <div class="comment-list" v-for="item in detail.comment" :key="item.avatar">
-          <comment-item
+          <detail-comment-item
             :user="item.user"
             :avatar="item.avatar"
             :content="item.content"
-          ></comment-item>
+          ></detail-comment-item>
         </div>
       </div>
     </div>
@@ -45,16 +45,20 @@
 
 <script>
 import { getDetail } from '@/api/get';
-import CommentItem from '@/components/CommentItem.vue';
 import LinearSwiper from '@/components/LinearSwiper.vue';
 import DetailMovieCard from './components/DetailMovieCard.vue';
+import DetailContentDesc from './components/DetailContentDesc.vue';
+import DetailCommentItem from './components/DetailCommentItem.vue';
 
 export default {
 
+  name: 'detail',
+
   components: {
-    CommentItem,
-    LinearSwiper,
     DetailMovieCard,
+    DetailContentDesc,
+    LinearSwiper,
+    DetailCommentItem,
   },
 
   props: {},
@@ -66,21 +70,38 @@ export default {
   },
 
   computed: {
-    castList() {
+    director() {
+      return this.detail.members.director;
+    },
+    cast() {
       return this.detail.members.cast;
     },
+    members() {
+      const list = [];
+      list.push({ title: this.director.name, pic: this.director.avatar, type: '导演' });
+      return this.cast.reduce((accu, curr) => {
+        accu.push({ title: curr.name, pic: curr.avatar, type: '演员' });
+        return accu;
+      }, list);
+    },
+    pics() {
+      let videos = this.detail.show.videos.map(v => ({ pic: v.pic, isVideo: true, src: v.src }));
+      let pics = this.detail.show.pics.map(v => ({ pic: v }));
+      return videos.concat(pics);
+    }
   },
 
   created() {
-    getDetail().then(res => {
-      console.log(res.data.data);
+    getDetail('movies_detail').then(res => {
       this.detail = res.data.data;
+      // console.log(this.detail);
     });
   },
 };
 </script>
 
 <style lang="scss" scoped>
+
 @import '@/assets/css/mixin.scss';
 
 .detail {
@@ -100,21 +121,6 @@ export default {
         line-height: .8rem;
         color: #ccc;
         font-size: .3rem;
-      }
-    }
-    .desc {
-      .desc-content {
-        text-indent: .5rem;
-        line-height: .4rem;
-        @include multi-ellipsis(5);
-      }
-    }
-    .related {
-      .related-video {
-        width: 50%;
-        & video {
-          width: 100%;
-        }
       }
     }
   }

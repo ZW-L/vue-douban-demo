@@ -7,7 +7,11 @@
       </div>
       <div class="content">
         <div class="item" v-for="item of listPart6" :key="item.id">
-          <movie-card :item="item" :type="categoryInfo.type"></movie-card>
+          <movie-card 
+            :item="item" 
+            :type="categoryInfo.type" 
+            :listName="categoryInfo.listName"
+          ></movie-card>
         </div>
       </div>
     </div>
@@ -29,6 +33,10 @@ export default {
       type: Object,
       default: {}
     }
+  },
+
+  created() {
+    console.log(this.categoryInfo.listName);
   },
 
   computed: {

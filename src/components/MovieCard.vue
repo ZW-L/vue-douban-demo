@@ -14,32 +14,41 @@
 </template>
 
 <script>
-// import { getPic } from '@/api/get.js';
+import { getDetail } from '@/api/get';
 
 export default {
+
   name: 'movie-card',
+
   props: {
     item: Object,
-    type: String
+    type: String,
+    listName: String,
   },
+
   data() {
     return {
       picName: 'movie_default_medium.png',
     }
   },
+
   methods: {
-    _getPic() {
+    _initStyle() {
       this.picName = this.item.cover.match(/([^/]+\.(jpg|png))/)[0];
+      const el = this.$refs.stars;
+      const position_y = (Math.ceil(this.item.rate) + 1) * 10;
+      el.style.backgroundPosition = `0 ${position_y}px`;
     },
     toDetailView(id) {
-      this.$router.push({ path: `/detail/${id}`});
+      getDetail(this.listName).then(res => {
+        console.log(res.data.data);
+        this.$router.push({ path: `/detail/${id}`});
+      });
     }
   },
+
   mounted() {
-    this._getPic();
-    const el = this.$refs.stars;
-    const position_y = (Math.ceil(this.item.rate) + 1) * 10;
-    el.style.backgroundPosition = `0 ${position_y}px`;
+    this._initStyle();
   }
 }
 </script>
@@ -72,7 +81,6 @@ export default {
       width: 1rem;
       height: .2rem;
       background: url('../../public/img/icons/stars.png');
-      // background-position: 0 80px;
       background-size: cover;
     }
     .rating-num {

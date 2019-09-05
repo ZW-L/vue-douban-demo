@@ -50,6 +50,17 @@
 
 ## vue 的使用
 
+
+### 生命周期函数
+
+
+#### created
+
+
+#### mounted
+
++ 可以在这里动态更改 CSS，在 `created` 钩子中不能获取！(原因？)
+
 ### vue-router
 
 
@@ -57,15 +68,20 @@
 
 
 
+
 ## 第三方库的使用
 
+
 ### express
+
 
 
 ### webpack
 
 
+
 ### babel
+
 
 
 ### axios
@@ -140,3 +156,34 @@ const el = this.$refs.stars;  // 获取 DOM 元素
 const position_y = (Math.ceil(this.item.rate) + 1) * 10;  // 纵轴偏移
 el.style.backgroundPosition = `0 ${position_y}px`;  // 设置偏移
 ```
+
+### CSS: 按比例放缩图片
+&emsp;&emsp;这样使用的优点是，不用知道 wrapper 的宽高，就能在不拉伸图片的前提下放缩图片。
+HTML:
+```html
+<div class="item">
+    <div class="wrapper">
+      <img :src="item.pic">
+    </div>
+</div>
+```
+CSS:
+```scss
+.item {
+  width: 100%;
+  .wrapper {
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+    border-radius: .2rem;
+    .show {
+      width: 100%;
+    }
+  }
+}
+```
+说明：
++ wrapper 的 `height` 为 0，但它的盒子高度被 `padding-bottom` 撑开了，这时候 `padding-bottom` 的值如果是百分比的话，是相对于 `width` 的值的，也就是说可以将其设置为图片实际"高/宽"的百分比（在组件中还可以动态设置）。
++ `padding-bottom` 不能为 `padding-top`，否则图片直接被 `hidden`。
++ img 的 width 直接设置为 100%。

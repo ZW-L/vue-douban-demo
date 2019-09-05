@@ -7,14 +7,20 @@
       <span class="item-date">{{date}}</span>
     </div>
     <div class="item-content">
-      <span>{{content}}</span>
+      <div v-if="showShort">
+        {{shortText}}
+        <span v-show="showShort" class="show-btn" @click="showAll=!showAll">展开</span>
+      </div>
+      <div v-else>
+        {{content}}
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'comment-item',
+  name: 'detail-comment-item',
 
   props: {
     avatar: String,
@@ -30,20 +36,41 @@ export default {
     content: String,
   },
 
-  methods: {
-    _setStars() {
-      const el = this.$refs.stars;
-      const position_y = (Math.ceil(this.rate) + 1) * 10;
-      el.style.backgroundPosition = `0 ${position_y}px`;
+  data() {
+    return {
+      showAll: false,
     }
   },
 
-}
+  computed: {
+    showShort() {
+      return !this.showAll && this.content.length > 80;
+    },
+    shortText() {
+      let text = this.content.slice(0, 80);
+      return `${text}...`;
+    },
+  },
+
+  methods: {
+    _setStars() {
+      const el = this.$refs.stars;
+      const rate = Math.ceil(Math.random()*10); // 模拟评分
+      const positionY = (Math.ceil(rate) + 1) * 10;
+      el.style.backgroundPosition = `0 ${positionY}px`;
+    },
+  },
+
+  mounted() {
+    this._setStars();
+  }
+
+};
 </script>
 
 <style lang="scss" scoped>
 
-@import '../assets/css/mixin.scss';
+@import '@/assets/css/mixin.scss';
 
 .item {
   padding: .2rem 0;
@@ -66,7 +93,7 @@ export default {
       width: 1rem;
       height: .2rem;
       line-height: .5rem;
-      background: url('../../public/img/icons/stars.png');
+      background: url('../../../../public/img/icons/stars.png');
       background-size: cover;
     }
     .item-date {
@@ -78,7 +105,9 @@ export default {
     margin-left: .7rem;
     line-height: .4rem;
     font-size: .26rem;
-    @include multi-ellipsis(3);
+    .show-btn {
+      color: blue;
+    }
   }
 }
 </style>

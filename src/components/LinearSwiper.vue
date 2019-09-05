@@ -1,12 +1,12 @@
 <template>
   <div class="swiper-content">
     <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
-      <swiper-slide class="swiper-item" v-for="item of list" :key="item.avatar">
-        <linear-swiper-item :avatar="item.avatar">
-          <template v-slot:title>
-            <div class="swiper-title">{{item.name}}</div>
-          </template>
-          <div class="swiper-info">演员</div>
+      <swiper-slide class="swiper-item" v-for="(item, index) of list" :key="index">
+        <linear-swiper-item :item="item" :ratio="ratio">
+          <div slot="title" v-show="item.title">
+            <div class="swiper-title">{{item.title}}</div>  
+          </div>
+          <div class="swiper-info" v-show="item.type">{{item.type}}</div>
         </linear-swiper-item>
       </swiper-slide>
       <div class="swiper-scrollbar" slot="scrollbar"></div>
@@ -29,7 +29,7 @@ export default {
   },
 
   props: {
-    list: Array,
+    list: Array, // list like: [{ pic: '', title: '', ... }], must have param: pic.
     slideWidth: {
       type: Number,
       default: 80,
@@ -42,6 +42,7 @@ export default {
       type: Number,
       default: 30,
     },
+    ratio: Number,
   },
 
   data() {
@@ -58,6 +59,10 @@ export default {
       },
     };
   },
+
+  created() {
+    // console.log(this.ratio);
+  }
 };
 </script>
 

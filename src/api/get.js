@@ -21,8 +21,8 @@ export function getList(listName) {
     .catch(err => console.log(err));
 }
 
-export function getDetail() {
-  const url = '/api/movies_detail';
+export function getDetail(listName) {
+  const url = `/api/${listName}`;
   return axios.get(url)
     .then(res => Promise.resolve(res))
     .catch(err => console.log(err));
