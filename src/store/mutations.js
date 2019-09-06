@@ -64,4 +64,7 @@ export default {
   [types.TV_CATEGORIES_DOCUMENTARY](state, list) {
     state.categories.tvs[7].list = list;
   },
+  [types.UPDATE_ACTIVE_DETAIL](state, list) {
+    state.activeDetail = list;
+  },
 };

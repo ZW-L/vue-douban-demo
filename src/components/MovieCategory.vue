@@ -1,42 +1,66 @@
 <template>
   <div class="category">
-    <div class="wrapper hot-cinema">
+    <div class="wrapper">
       <div class="title">
         <span class="title-left">{{categoryInfo.title}}</span>
-        <span class="title-right" v-if="categoryInfo.subCategory">{{categoryInfo.subCategory}}</span>
+        <span class="title-right" v-if="sign">??????</span>
       </div>
       <div class="content">
-        <div class="item" v-for="item of listPart6" :key="item.id">
-          <movie-card 
-            :item="item" 
-            :type="categoryInfo.type" 
-            :listName="categoryInfo.listName"
-          ></movie-card>
-        </div>
+        <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
+          <div class="swiper-pagination"  slot="pagination"></div>
+          <swiper-slide class="swiper-item" v-for="(list, index) of listPart6" :key="index">
+            <div class="slide-content">
+              <movie-card class="slide-content-item" v-for="item in list" :key=item.id
+                :item="item" 
+                :type="categoryInfo.type" 
+                :listName="categoryInfo.listName"
+              ></movie-card>
+            </div>
+          </swiper-slide>
+        </swiper>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import MovieCard from './MovieCard'
-import { getList } from '../api/get'
+import { getList } from '../api/get';
+import { swiper, swiperSlide } from 'vue-awesome-swiper';
+import MovieCard from './MovieCard.vue';
 
 export default {
 
   components:{
-    MovieCard
+    MovieCard,
+    swiper,
+    swiperSlide
   },
 
   props:{
     categoryInfo: {
       type: Object,
       default: {}
+    },
+    sign: {
+      type: Boolean,
+      default: false
+    }
+  },
+
+  data() {
+    return {
+      swiperOption: {
+        slidesPerView: 1,
+        pagination: {
+          el: '.swiper-pagination',
+          type: 'bullets'
+        }
+      }
     }
   },
 
   created() {
-    console.log(this.categoryInfo.listName);
+    // console.log(this.categoryInfo.listName);
   },
 
   computed: {
@@ -44,13 +68,23 @@ export default {
       return this.categoryInfo.list;
     },
     listPart6() {
-      return this.list.slice(0, 6);
+      let listPart6 = []
+      for (let i = 0; i < this.list.length; i += 6) {
+        listPart6.push(this.list.slice(i, i+6));
+      }
+      return listPart6;
     }
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>
+
+.content /deep/ .swiper-pagination {
+  // background-color: red;
+  bottom: 0;
+}
+
 .wrapper {
   width: 100%;
   margin-top: 1rem;
@@ -67,22 +101,19 @@ export default {
       margin-left: .2rem;
       color: #aaa;
     }
-    .title-more {
-      position: absolute;
-      right: .2rem;
-      font-size: 15px;
-      a {
-        color: blue;
-        text-decoration: none;
-      }
-    }
   }
   .content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    .item {
-      width: 28vw;
+    // background-color: #ccc;
+    .slide-content {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      width: 100%;
+      // height: 600px;
+      padding-bottom: 10px;
+      .slide-content-item {
+        width: 30%;
+      }
     }
   }
 }

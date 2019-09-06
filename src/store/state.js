@@ -140,6 +140,7 @@ const state = {
       },
     ],
   },
+  activeDetail: {},
 };
 
 export default state;

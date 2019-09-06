@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <div class="card-wrapper"  ref="wrapper">
+    <div class="card-wrapper" ref="wrapper">
       <div class="card-info">
         <div class="info-pic">
           <img :src="cover" ref="pic">
@@ -23,7 +23,7 @@
             <div class="stars-pic" ref="stars"></div>
             <div class="rating-nums">(34215人评价)</div>
           </div>
-          <div class="rate-btn">去写点评</div>
+          <div class="rate-btn">我要评分</div>
         </div>
       </div>
     </div>

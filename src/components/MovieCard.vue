@@ -40,10 +40,7 @@ export default {
       el.style.backgroundPosition = `0 ${position_y}px`;
     },
     toDetailView(id) {
-      getDetail(this.listName).then(res => {
-        console.log(res.data.data);
-        this.$router.push({ path: `/detail/${id}`});
-      });
+      this.$router.push({ path: `/detail/${id}`});
     }
   },
 
@@ -57,6 +54,9 @@ export default {
 <style lang="scss" scoped>
 .content {
   display: flex;
+  flex-direction: column;
+  margin-top: .1rem;
+  margin-bottom: .2rem;
   .wrapper {
     width: 100%;
     img {

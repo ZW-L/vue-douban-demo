@@ -75,13 +75,10 @@
 ### express
 
 
-
 ### webpack
 
 
-
 ### babel
-
 
 
 ### axios
@@ -89,6 +86,26 @@
 
 ### vue-awesome-swiper
 
+使用：
+```js
+
+```
+
+注意：
++ pagination 是可以通过指定样式的，也可以在组件中使用样式穿透实现。
+
+
+### better-scroll
+
+使用：
+```js
+
+```
+
+注意：
++ 一定要固定 wrapper 的高度(或宽度)，才会发生滚动；而且只会监听 wrapper 的第一个元素(因此要再包一个 content 块)。
++ `click` 参数是点击穿透的(否则点击都是作用在 wrapper 上)， `probeType` 参数默认为 1 (若要监听 scroll 事件，一定要设置为 2?)。
++ `refresh()` 用于重新计算滚动区域高度，否则滑动会出现问题。
 
 ### ESLint
 

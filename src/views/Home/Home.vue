@@ -2,7 +2,7 @@
   <div class="home">
     <div class="header">Home View</div>
     <div>
-      <movie-category :categoryInfo="cinemaHot"></movie-category>
+      <movie-category :categoryInfo="cinemaHot" :sign="true"></movie-category>
     </div>
     <div v-for="item of categoriesHot" :key="item.title">
       <movie-category :categoryInfo="item"></movie-category>
@@ -12,8 +12,8 @@
 
 <script>
 // @ is an alias to /src
-import MovieCategory from '../components/MovieCategory';
-import { getList } from '../api/get';
+import MovieCategory from '@/components/MovieCategory';
+import { getList } from '@/api/get';
 import { mapGetters } from 'vuex';
 
 export default {
