@@ -3,7 +3,9 @@
     <div class="wrapper">
       <div class="title">
         <span class="title-left">{{categoryInfo.title}}</span>
-        <span class="title-right" v-if="sign">??????</span>
+        <span class="title-right" ref="comming">
+          <slot></slot>
+        </span>
       </div>
       <div class="content">
         <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
@@ -11,8 +13,8 @@
           <swiper-slide class="swiper-item" v-for="(list, index) of listPart6" :key="index">
             <div class="slide-content">
               <movie-card class="slide-content-item" v-for="item in list" :key=item.id
-                :item="item" 
-                :type="categoryInfo.type" 
+                :item="item"
+                :type="categoryInfo.type"
                 :listName="categoryInfo.listName"
               ></movie-card>
             </div>
@@ -24,27 +26,26 @@
 </template>
 
 <script>
-import { getList } from '../api/get';
 import { swiper, swiperSlide } from 'vue-awesome-swiper';
 import MovieCard from './MovieCard.vue';
 
 export default {
 
-  components:{
+  components: {
     MovieCard,
     swiper,
-    swiperSlide
+    swiperSlide,
   },
 
-  props:{
+  props: {
     categoryInfo: {
       type: Object,
-      default: {}
+      default: {},
     },
     sign: {
       type: Boolean,
-      default: false
-    }
+      default: false,
+    },
   },
 
   data() {
@@ -53,10 +54,10 @@ export default {
         slidesPerView: 1,
         pagination: {
           el: '.swiper-pagination',
-          type: 'bullets'
-        }
-      }
-    }
+          type: 'bullets',
+        },
+      },
+    };
   },
 
   created() {
@@ -68,17 +69,19 @@ export default {
       return this.categoryInfo.list;
     },
     listPart6() {
-      let listPart6 = []
+      const listPart6 = [];
       for (let i = 0; i < this.list.length; i += 6) {
-        listPart6.push(this.list.slice(i, i+6));
+        listPart6.push(this.list.slice(i, i + 6));
       }
       return listPart6;
-    }
-  }
+    },
+  },
 };
 </script>
 
 <style lang="scss" scoped>
+
+@import '@/assets/css/mixin.scss';
 
 .content /deep/ .swiper-pagination {
   // background-color: red;
@@ -86,19 +89,18 @@ export default {
 }
 
 .wrapper {
+  box-sizing: border-box;
   width: 100%;
-  margin-top: 1rem;
+  margin-top: .5rem;
+  padding: .2rem;
   .title {
-    height: 40px;
-    line-height: 40px;
-    font-size: 20px;
+    @include home-title;
     .title-left {
       display: inline-block;
-      margin-left: .2rem;
     }
     .title-right {
-      display: inline-block;
       margin-left: .2rem;
+      display: inline-block;
       color: #aaa;
     }
   }

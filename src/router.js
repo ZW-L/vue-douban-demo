@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home/Home.vue';
-import List from './views/List.vue';
+import TopList from './views/TopList/TopList.vue';
 import Detail from './views/Detail/Detail.vue';
 import ErrorView from './views/Error.vue';
 
@@ -18,9 +18,9 @@ export default new Router({
       component: Home,
     },
     {
-      path: '/list',
-      name: 'list',
-      component: List,
+      path: '/toplist/:category',
+      name: 'toplist',
+      component: TopList,
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.

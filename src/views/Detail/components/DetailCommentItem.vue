@@ -3,8 +3,9 @@
     <div class="item-user">
       <img class="item-user-pic" :src="avatar">
       <span class="item-username">{{user}}</span>
-      <span class="item-rate" ref="stars"></span>
-      <span class="item-date">{{date}}</span>
+      <rating-stars :size="'small'" :rate="rate" class="item-stars">
+        <span class="item-date">{{date}}</span>
+      </rating-stars>
     </div>
     <div class="item-content">
       <div v-if="showShort">
@@ -19,8 +20,14 @@
 </template>
 
 <script>
+import RatingStars from '@/components/RatingStars.vue';
+
 export default {
   name: 'detail-comment-item',
+
+  components: {
+    RatingStars,
+  },
 
   props: {
     avatar: String,
@@ -51,32 +58,15 @@ export default {
       return `${text}...`;
     },
   },
-
-  methods: {
-    _setStars() {
-      const el = this.$refs.stars;
-      const rate = Math.ceil(Math.random()*10); // 模拟评分
-      const positionY = (Math.ceil(rate) + 1) * 10;
-      el.style.backgroundPosition = `0 ${positionY}px`;
-    },
-  },
-
-  mounted() {
-    this._setStars();
-  }
-
 };
 </script>
 
 <style lang="scss" scoped>
 
-@import '@/assets/css/mixin.scss';
-
 .item {
   padding: .2rem 0;
   .item-user {
     display: flex;
-    line-height: .5rem;
     align-items: center;
     .item-user-pic {
       width: .5rem;
@@ -88,16 +78,7 @@ export default {
       font-size: .3rem;
       font-weight: bold;
     }
-    .item-rate {
-      margin-left: .2rem;
-      width: 1rem;
-      height: .2rem;
-      line-height: .5rem;
-      background: url('../../../../public/img/icons/stars.png');
-      background-size: cover;
-    }
-    .item-date {
-      color: #ccc;
+    .item-stars {
       margin-left: .2rem;
     }
   }

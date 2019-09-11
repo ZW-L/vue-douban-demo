@@ -2,7 +2,10 @@
   <div class="home">
     <div class="header">Home View</div>
     <div>
-      <movie-category :categoryInfo="cinemaHot" :sign="true"></movie-category>
+      <movie-category :categoryInfo="cinemaHot" :sign="true">即将上映</movie-category>
+    </div>
+    <div>
+      <ranking-list></ranking-list>
     </div>
     <div v-for="item of categoriesHot" :key="item.title">
       <movie-category :categoryInfo="item"></movie-category>
@@ -12,7 +15,8 @@
 
 <script>
 // @ is an alias to /src
-import MovieCategory from '@/components/MovieCategory';
+import MovieCategory from '@/components/MovieCategory.vue';
+import RankingList from './components/RankingList.vue';
 import { getList } from '@/api/get';
 import { mapGetters } from 'vuex';
 
@@ -20,7 +24,8 @@ export default {
   name: 'home',
 
   components: {
-    MovieCategory
+    MovieCategory,
+    RankingList,
   },
 
   created() {
@@ -30,6 +35,22 @@ export default {
         this.$store.commit('MOVIE_CINEMA_HOT', res.data.data);
       })
       .catch(err => console.log(err));
+    // 电影排行
+    getList(this.rankingList.topListWeek.listName)
+      .then(res => {
+        // console.log(res.data.data);
+        this.$store.commit('TOP_LIST_WEEK', res.data.data);
+      })
+    getList(this.rankingList.topList250.listName)
+      .then(res => {
+        // console.log(res.data.data);
+        this.$store.commit('TOP_LIST_250', res.data.data);
+      })
+    getList(this.rankingList.topListNew.listName)
+      .then(res => {
+        // console.log(res.data.data);
+        this.$store.commit('TOP_LIST_NEW', res.data.data);
+      })
     // 热门电影
     getList(this.categoriesHot.movies.listName)
       .then(res => {

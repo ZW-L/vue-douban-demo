@@ -13,6 +13,7 @@ module.exports = {
     'arrow-parens': 0,
     'import/prefer-default-export': 0,
     'no-underscore-dangle': 0,
+    'max-len': 'off',
   },
   parserOptions: {
     parser: 'babel-eslint'

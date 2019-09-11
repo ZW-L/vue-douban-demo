@@ -20,7 +20,7 @@
         <div class="rate-content">
           <div class="content-nums">{{rate}}</div>
           <div class="content-stars">
-            <div class="stars-pic" ref="stars"></div>
+            <rating-stars :size="'middle'" :rate="rate"></rating-stars>
             <div class="rating-nums">(34215人评价)</div>
           </div>
           <div class="rate-btn">我要评分</div>
@@ -31,24 +31,21 @@
 </template>
 
 <script>
+import RatingStars from '@/components/RatingStars.vue';
 import { getRandomColor } from '@/api/util';
 
 export default {
   name: 'detial-movie-card',
+
+  components: {
+    RatingStars,
+  },
 
   props: {
     cover: String,
     title: String,
     info: Array,
     rate: String,
-  },
-
-  mounted() {
-    const wrapper = this.$refs.wrapper;
-    wrapper.style.backgroundColor = getRandomColor();
-    const stars = this.$refs.stars;
-    const position_y = (Math.ceil(this.rate) + 1) * 15;
-    stars.style.backgroundPosition = `0 ${position_y}px`;
   },
 }
 </script>
@@ -111,7 +108,6 @@ export default {
       .rate-content {
         display: flex;
         height: 1rem;
-        // justify-content: space-between;
         .content-nums {
           width: 20%;
           height: 1rem;
@@ -120,13 +116,6 @@ export default {
           font-size: .8rem;
         }
         .content-stars {
-          .stars-pic {
-            width: 1.5rem;
-            height: .3rem;
-            line-height: .5rem;
-            background: url('../../../../public/img/icons/stars.png');
-            background-size: cover;
-          }
           .rating-nums {
             margin-top: .15rem;
             font-size: .25rem;
