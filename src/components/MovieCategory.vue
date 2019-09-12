@@ -1,26 +1,21 @@
 <template>
-  <div class="category">
-    <div class="wrapper">
-      <div class="title">
-        <span class="title-left">{{categoryInfo.title}}</span>
-        <span class="title-right" ref="comming">
-          <slot></slot>
-        </span>
-      </div>
-      <div class="content">
-        <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
-          <div class="swiper-pagination"  slot="pagination"></div>
-          <swiper-slide class="swiper-item" v-for="(list, index) of listPart6" :key="index">
-            <div class="slide-content">
-              <movie-card class="slide-content-item" v-for="item in list" :key=item.id
+  <div class="category wrapper">
+    <div class="content">
+      <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
+        <div class="swiper-pagination"  slot="pagination"></div>
+        <swiper-slide class="swiper-item" v-for="(list, index) of listPart6" :key="index">
+          <div class="slide-content">
+            <div class="slide-content-item" v-for="item in list" :key=item.id>
+              <movie-card v-if="item"
                 :item="item"
                 :type="categoryInfo.type"
                 :listName="categoryInfo.listName"
               ></movie-card>
+              <div v-else></div>
             </div>
-          </swiper-slide>
-        </swiper>
-      </div>
+          </div>
+        </swiper-slide>
+      </swiper>
     </div>
   </div>
 </template>
@@ -38,14 +33,7 @@ export default {
   },
 
   props: {
-    categoryInfo: {
-      type: Object,
-      default: {},
-    },
-    sign: {
-      type: Boolean,
-      default: false,
-    },
+    categoryInfo: Object,
   },
 
   data() {
@@ -60,10 +48,6 @@ export default {
     };
   },
 
-  created() {
-    // console.log(this.categoryInfo.listName);
-  },
-
   computed: {
     list() {
       return this.categoryInfo.list;
@@ -71,7 +55,11 @@ export default {
     listPart6() {
       const listPart6 = [];
       for (let i = 0; i < this.list.length; i += 6) {
-        listPart6.push(this.list.slice(i, i + 6));
+        const list = this.list.slice(i, i + 6);
+        while (list.length < 6) {
+          list.push(false);
+        }
+        listPart6.push(list);
       }
       return listPart6;
     },
@@ -84,34 +72,19 @@ export default {
 @import '@/assets/css/mixin.scss';
 
 .content /deep/ .swiper-pagination {
-  // background-color: red;
   bottom: 0;
 }
 
 .wrapper {
   box-sizing: border-box;
   width: 100%;
-  margin-top: .5rem;
-  padding: .2rem;
-  .title {
-    @include home-title;
-    .title-left {
-      display: inline-block;
-    }
-    .title-right {
-      margin-left: .2rem;
-      display: inline-block;
-      color: #aaa;
-    }
-  }
+  padding: 0 .2rem;
   .content {
-    // background-color: #ccc;
     .slide-content {
       display: flex;
       justify-content: space-around;
       flex-wrap: wrap;
       width: 100%;
-      // height: 600px;
       padding-bottom: 10px;
       .slide-content-item {
         width: 30%;

@@ -15,7 +15,7 @@ export function getPic(id) {
 }
 
 export function getList(listName) {
-  const url = `/api/${listName}`;
+  const url = `http://172.20.10.9:3000/list/${listName}`;
   return axios.get(url)
     .then(res => Promise.resolve(res))
     .catch(err => console.log(err));

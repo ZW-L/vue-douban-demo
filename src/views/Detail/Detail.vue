@@ -1,8 +1,8 @@
 <template>
-  <div class="wrapper" ref="wrapper">
-    <div class="detail" ref="detail">
+  <div class="detail" ref="detail">
+    <base-header v-if="detail" :back="true">{{detail.title}}</base-header>
+    <div class="wrapper" ref="wrapper">
       <div v-if="detail">
-        <header class="header">Detail View</header>
         <div class="content"  ref="content">
           <div class="content-header">
             <detail-movie-card
@@ -52,6 +52,7 @@
 <script>
 import BScroll from 'better-scroll';
 import LinearSwiper from '@/components/LinearSwiper.vue';
+import BaseHeader from '@/components/BaseHeader.vue';
 import DetailMovieCard from './components/DetailMovieCard.vue';
 import DetailContentDesc from './components/DetailContentDesc.vue';
 import DetailCommentItem from './components/DetailCommentItem.vue';
@@ -64,6 +65,7 @@ export default {
   components: {
     DetailMovieCard,
     DetailContentDesc,
+    BaseHeader,
     LinearSwiper,
     DetailCommentItem,
   },
@@ -117,9 +119,9 @@ export default {
   },
 
   mounted() {
-    setTimeout(() => {
+    this.$nextTick(() => {
       this._initScroll();
-    }, 10);
+    });
   },
 
   methods: {
@@ -162,13 +164,7 @@ export default {
 }
 .detail {
   width: 100%;
-  .header {
-    height: 1rem;
-    font-size: .7rem;
-    line-height: 1rem;
-    text-align: center;
-    color: rgb(89, 126, 190);
-  }
+  margin-top: 1rem;
   .content {
     .content-item {
       margin-top: .6rem;

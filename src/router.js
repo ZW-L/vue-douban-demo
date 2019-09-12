@@ -3,6 +3,7 @@ import Router from 'vue-router';
 import Home from './views/Home/Home.vue';
 import TopList from './views/TopList/TopList.vue';
 import Detail from './views/Detail/Detail.vue';
+import CategoryPage from './views/Home/views/Page.vue';
 import ErrorView from './views/Error.vue';
 
 
@@ -13,9 +14,16 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
+      path: '/home',
       name: 'home',
       component: Home,
+      children: [
+        {
+          path: '/home/:page',
+          name: 'page',
+          component: CategoryPage,
+        },
+      ],
     },
     {
       path: '/toplist/:category',
