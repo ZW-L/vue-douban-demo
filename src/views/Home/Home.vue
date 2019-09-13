@@ -3,15 +3,20 @@
     <base-header>豆瓣电影</base-header>
     <div>
       <category-title>
-        <span @click="handleGetList()">影院热映</span>
-        <span @click="handleGetList()">即将上映</span>
+        <span @click="handleGetList(0, 'hotNew')" :class="{ 'active': hotCoverComing }">影院热映</span>
+        <span @click="handleGetList(1, 'hotNew')" :class="{ 'active': !hotCoverComing }">即将上映</span>
       </category-title>
       <movie-category :categoryInfo="hotCategoryInfo"></movie-category>
     </div>
-    <ranking-list></ranking-list>
+    <div>
+      <ranking-list></ranking-list>
+    </div>
     <div>
       <category-title>
-        <span v-for="(title, i) of movieTitles" :key="i" @click="handleGetList(i, 'movie')">
+        <span v-for="(title, i) of movieTitles" :key="i" 
+          @click="handleGetList(i, 'movie')"
+          :class="{ 'active': movieIndex === i }"
+        >
           {{title}}
         </span>
       </category-title>
@@ -19,7 +24,10 @@
     </div>
     <div>
       <category-title>
-        <span v-for="(title, i) of tvTitles" :key="i" @click="handleGetList(i, 'tv')">
+        <span v-for="(title, i) of tvTitles" :key="i" 
+          @click="handleGetList(i, 'tv')"
+          :class="{ 'active': tvIndex === i }"
+        >
           {{title}}
         </span>
       </category-title>
@@ -49,6 +57,7 @@ export default {
 
   data() {
     return {
+      hotCoverComing: true,
       movieIndex: 0,
       tvIndex: 0,
     };
@@ -58,13 +67,19 @@ export default {
     ...mapGetters([
       'hotAndNew',
       'rankingList',
-      'categoriesMovies',
-      'categoriesTvs',
-      'movieListNames',
-      'tvListNames',
+      'categories',
     ]),
-    cinemaHot() {
-      return this.hotAndNew.cinemaHot;
+    categoriesMovies() {
+      return this.categories.movies;
+    },
+    categoriesTvs() {
+      return this.categories.tvs;
+    },
+    movieListNames() {
+      return this.categoriesMovies.map(v => v.listName);
+    },
+    tvListNames() {
+      return this.categoriesTvs.map(v => v.listName);
     },
     movieTitles() {
       return this.categoriesMovies.map(v => v.title);
@@ -73,7 +88,7 @@ export default {
       return this.categoriesTvs.map(v => v.title);
     },
     hotCategoryInfo() {
-      return this.cinemaHot;
+      return this.hotCoverComing ? this.hotAndNew.cinemaHot : this.hotAndNew.comingSoon;
     },
     movieCategoryInfo() {
       return this.categoriesMovies[this.movieIndex];
@@ -85,10 +100,12 @@ export default {
 
   created() {
     // 影院热映
-    getList(this.cinemaHot.listName)
-      .then(res => {
-        this.$store.commit('MOVIE_CINEMA_HOT', res.data.subjects);
-      });
+    if (!this.hotAndNew.cinemaHot.list) {
+      getList(this.hotAndNew.cinemaHot.listName)
+        .then(res => {
+          this.$store.commit('MOVIE_CINEMA_HOT', res.data.subjects);
+        });
+    }
     // 电影排行
     getList(this.rankingList.topListWeek.listName)
       .then(res => {
@@ -103,36 +120,66 @@ export default {
         this.$store.commit('TOP_LIST_NEW', res.data.subjects);
       });
     // 热门电影
-    getList(this.categoriesMovies[0].listName)
-      .then(res => {
-        this.$store.commit('MOVIE_CATEGORIES_HOT', res.data.subjects);
-      });
+    if (!this.categoriesMovies[0].list) {
+      getList(this.categoriesMovies[0].listName)
+        .then(res => {
+          this.$store.commit('MOVIE_CATEGORIES_HOT', res.data.subjects);
+        });
+    }
     // 热门电视剧
-    getList(this.categoriesTvs[0].listName)
-      .then(res => {
-        this.$store.commit('TV_CATEGORIES_HOT', res.data.subjects);
-      });
+    if (!this.categoriesTvs[0].list) {
+      getList(this.categoriesTvs[0].listName)
+        .then(res => {
+          this.$store.commit('TV_CATEGORIES_HOT', res.data.subjects);
+        });
+    }
   },
 
   methods: {
     handleGetList(index, type) {
-      if (type === 'movie') {
-        const listName = this.movieListNames[index];
-        getList(listName)
-          .then(res => {
-            const mutationType = listName.toUpperCase();
-            this.$store.commit(mutationType, res.data.subjects);
-            this.movieIndex = index;
-          });
+      // 影院热映和即将上映的数据请求/切换
+      if (type === 'hotNew') {
+        if ( index === 0 && !this.hotAndNew.cinemaHot.list) {
+          getList(this.hotAndNew.cinemaHot.listName)
+            .then(res => {
+              this.$store.commit('MOVIE_CINEMA_HOT', res.data.subjects);
+            });
+        }
+        if ( index === 1 && !this.hotAndNew.comingSoon.list) {
+          getList(this.hotAndNew.comingSoon.listName)
+            .then(res => {
+              this.$store.commit('MOVIE_COMING_SOON', res.data.subjects);
+            });
+        }
+        this.hotCoverComing = index === 0;
       }
+      // 电影分类的数据请求/切换
+      if (type === 'movie') {
+        if (!this.categoriesMovies[index].list) {
+          const listName = this.movieListNames[index];
+          const mutationType = listName.toUpperCase();
+          setTimeout(() => {
+            console.log('Wait 2000 ms!');
+            getList(listName)
+              .then(res => {
+                this.$store.commit(mutationType, res.data.subjects);
+              });
+          }, 1000);
+          
+        }
+        this.movieIndex = index;
+      }
+      // 电视剧分类的数据请求/切换
       if (type === 'tv') {
-        const listName = this.tvListNames[index];
-        getList(listName)
-          .then(res => {
-            const mutationType = listName.toUpperCase();
-            this.$store.commit(mutationType, res.data.subjects);
-            this.tvIndex = index;
-          });
+        if (!this.categoriesMovies[index].list) {
+          const listName = this.tvListNames[index];
+          const mutationType = listName.toUpperCase();
+          getList(listName)
+            .then(res => {
+              this.$store.commit(mutationType, res.data.subjects);
+            });
+        }
+        this.tvIndex = index;
       }
     },
   },

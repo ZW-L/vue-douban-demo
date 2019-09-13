@@ -18,3 +18,29 @@
   line-height: .8rem;
   font-size: .4rem;
 }
+@mixin router-change {
+  .slide-right-enter-active,
+  .slide-right-leave-active,
+  .slide-left-enter-active,
+  .slide-left-leave-active {
+    // will-change: transform;
+    transition: all .5s;
+    // position: absolute;
+  }
+  .slide-right-enter {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  .slide-right-leave-active {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  .slide-left-enter {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  .slide-left-leave-active {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+}

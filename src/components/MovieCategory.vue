@@ -1,6 +1,6 @@
 <template>
   <div class="category wrapper">
-    <div class="content">
+    <div v-if="list" class="content">
       <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
         <div class="swiper-pagination"  slot="pagination"></div>
         <swiper-slide class="swiper-item" v-for="(list, index) of listPart6" :key="index">
@@ -16,6 +16,9 @@
           </div>
         </swiper-slide>
       </swiper>
+    </div>
+    <div v-else class="content-loading">
+      <div class="loading-pic"></div>
     </div>
   </div>
 </template>
@@ -75,11 +78,14 @@ export default {
   bottom: 0;
 }
 
+@import '@/assets/css/animations.scss';
+
 .wrapper {
   box-sizing: border-box;
   width: 100%;
   padding: 0 .2rem;
   .content {
+    animation: rotateX-in 1s ease;
     .slide-content {
       display: flex;
       justify-content: space-around;
@@ -89,6 +95,19 @@ export default {
       .slide-content-item {
         width: 30%;
       }
+    }
+  }
+  .content-loading {
+    height: 8.4rem;
+    text-align: center;
+    .loading-pic {
+      display: inline-block;
+      margin-top: .5rem;
+      width: 1rem;
+      height: 1rem;
+      background-image: url('../../public/img/icons/loading_1.png');
+      background-size: cover;
+      animation: loading 2s ease infinite;
     }
   }
 }

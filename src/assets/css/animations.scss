@@ -1,0 +1,43 @@
+@keyframes rotateX-in {
+  from {
+    opacity: 0;
+    transform: rotateX(-90deg);
+  }
+  to {
+    opacity: 1;
+    transform: rotateX(0deg);
+  }
+}
+
+@keyframes loading {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes text-zoom-in {
+  from {
+    font-size: .25rem;
+    color: #ccc;
+  }
+  to {
+    font-size: .4rem;
+    color: #000;
+    border-bottom: 2px solid rgb(78, 186, 136);
+  }
+}
+
+@keyframes text-zoom-out {
+  from {
+    font-size: .4rem;
+    color: #000;
+    border-bottom: 2px solid rgb(78, 186, 136);
+  }
+  to {
+    font-size: .25rem;
+    color: #ccc;
+  }
+}

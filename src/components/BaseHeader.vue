@@ -1,9 +1,9 @@
 <template>
   <div class="header">
     <div class="header-left">
-      <router-link to="/home" v-if="back">
+      <div @click="goBack()" v-if="back">
         <img class="back-icon" :src="require('../../public/img/icons/back.png')" />
-      </router-link>
+      </div>
     </div>
     <div class="header-content">
       <slot></slot>
@@ -27,7 +27,7 @@ export default {
 
   methods: {
     goBack() {
-      this.router.go(-1);
+      this.$router.go(-1);
     }
   },
 };

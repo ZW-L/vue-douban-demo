@@ -1,6 +1,6 @@
 <template>
   <div class="list">
-    <div class="header">List View</div>
+    <base-header :back="true">排行榜</base-header>
     <div class="content">
       <div class="item" v-for="item in list" :key="item.id">
         <movie-card :item="item"></movie-card>
@@ -10,6 +10,7 @@
 </template>
 
 <script>
+import BaseHeader from '@/components/BaseHeader.vue';
 import MovieCard from '@/components/MovieCard';
 
 export default {
@@ -17,7 +18,8 @@ export default {
   name: 'top-list',
 
   components: {
-    MovieCard
+    MovieCard,
+    BaseHeader,
   },
 
   data() {
@@ -44,13 +46,7 @@ export default {
 
 <style lang="scss" scoped>
 .list {
-  .header {
-    height: 1rem;
-    font-size: .7rem;
-    line-height: 1rem;
-    text-align: center;
-    color: rgb(89, 126, 190);
-  }
+  margin-top: 1.2rem;
   .content {
     display: flex;
     flex-wrap: wrap;

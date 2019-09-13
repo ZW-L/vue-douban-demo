@@ -14,8 +14,9 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/home',
       name: 'home',
+      path: '/home',
+      meta: { index: 0 },
       component: Home,
       children: [
         {
@@ -26,8 +27,9 @@ export default new Router({
       ],
     },
     {
-      path: '/toplist/:category',
       name: 'toplist',
+      path: '/toplist/:category',
+      meta: { index: 1 },
       component: TopList,
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
@@ -35,13 +37,15 @@ export default new Router({
       // component: () => import(/* webpackChunkName: "about" */ './views/About.vue'),
     },
     {
-      path: '/detail/:id',
       name: 'detail',
+      path: '/detail/:id',
+      meta: { index: 2 },
       component: Detail,
     },
     {
-      path: '/error',
       name: 'error',
+      path: '/error',
+      meta: { index: 3 },
       component: ErrorView,
     },
   ],
