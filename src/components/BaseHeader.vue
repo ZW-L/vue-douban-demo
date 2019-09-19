@@ -46,7 +46,6 @@ export default {
   left: 0;
   right: 0;
   display: flex;
-  width: 100%;
   height: 1rem;
   text-align: center;
   color: #fff;

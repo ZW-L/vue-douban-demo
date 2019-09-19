@@ -1,47 +1,49 @@
 <template>
-  <div class="detail" ref="detail">
+  <div class="detail">
     <base-header v-if="detail" :back="true">{{detail.title}}</base-header>
+    <div class="white-header"></div>
     <div class="wrapper" ref="wrapper">
-      <div v-if="detail">
-        <div class="content"  ref="content">
-          <div class="content-header">
-            <detail-movie-card
-              :cover="detail.cover"
-              :title="detail.title"
-              :info="detail.info"
-              :rate="detail.rate"
-            ></detail-movie-card>
-          </div>
-          <div class="content-item">
-            <header class="title-light">详情介绍</header>
-            <detail-content-desc :desc="detail.desc"></detail-content-desc>
-          </div>
-          <div class="content-item">
-            <header class="title-light">演员表</header>
-            <linear-swiper
-              :list="members"
-              :ratio="140"
-            ></linear-swiper>
-          </div>
-          <div class="content-item">
-            <header class="title-light">预告片/剧照</header>
-            <linear-swiper
-              :list="pics"
-              :slideWidth="180"
-              :ratio="56"
-            ></linear-swiper>
-          </div>
-          <div class="content-item">
-            <header class="title-light">精彩短评</header>
-            <div class="comment-list" v-for="(list, index) of commentPart10" :key="index">
-              <div class="comment-part" v-show="_isBook(index)" v-for="item of list" :key="item.avatar">
-                <detail-comment-item
-                  :user="item.user"
-                  :avatar="item.avatar"
-                  :content="item.content"
-                ></detail-comment-item>
-              </div>
+      <div v-if="detail" class="content" ref="content">
+        <div class="content-header">
+          <detail-movie-card
+            :cover="detail.cover"
+            :title="detail.title"
+            :info="detail.info"
+            :rate="detail.rate"
+          ></detail-movie-card>
+        </div>
+        <div class="content-item">
+          <header class="title-light">详情介绍</header>
+          <detail-content-desc :desc="detail.desc"></detail-content-desc>
+        </div>
+        <div class="content-item">
+          <header class="title-light">演员表</header>
+          <linear-swiper
+            :list="members"
+            :ratio="140"
+          ></linear-swiper>
+        </div>
+        <div class="content-item">
+          <header class="title-light">预告片/剧照</header>
+          <linear-swiper
+            :list="pics"
+            :slideWidth="180"
+            :ratio="56"
+          ></linear-swiper>
+        </div>
+        <div class="content-item">
+          <header class="title-light">精彩短评</header>
+          <div class="comment-list" v-for="(list, index) of commentPart10" :key="index">
+            <div class="comment-part" v-show="commentBook[index]" v-for="item of list" :key="item.user">
+              <detail-comment-item
+                :user="item.user"
+                :avatar="item.avatar"
+                :content="item.content"
+              ></detail-comment-item>
             </div>
+          </div>
+          <div class="commnet-more" v-show="isBottom">
+            <h1>加载更多...</h1>
           </div>
         </div>
       </div>
@@ -50,7 +52,7 @@
 </template>
 
 <script>
-import BScroll from 'better-scroll';
+import BScroll from '@better-scroll/core';
 import LinearSwiper from '@/components/LinearSwiper.vue';
 import BaseHeader from '@/components/BaseHeader.vue';
 import DetailMovieCard from './components/DetailMovieCard.vue';
@@ -73,8 +75,8 @@ export default {
   data() {
     return {
       detail: null,
-      scroll: '',
-      commentBook: [0, 1],
+      commentBook: [true],
+      isBottom: false,
     };
   },
 
@@ -115,39 +117,25 @@ export default {
       // alert('页面丢失！');
       console.log('Data not found!');
       // this.$router.go(-1);
-    });
-  },
-
-  mounted() {
-    this.$nextTick(() => {
+    }).finally(() => {
       this._initScroll();
     });
   },
 
+  beforeDestroy() {
+    this.bs.destroy();
+  },
+
   methods: {
     _initScroll() {
-      const { wrapper, detail } = this.$refs;
-      this.scroll = new BScroll(wrapper, {
-        bounce: false,
-        click: true,
+      this.bs = new BScroll(this.$refs.wrapper, {
         scrollY: true,
-        probeType: 2,
-      });
-      this.scroll.on('scroll', (pos) => {
-        // console.log(pos.x, pos.y, detail.clientHeight, wrapper.clientHeight);
-        if (Math.abs(pos.y) > detail.clientHeight - wrapper.clientHeight - 50) {
-          console.log('加载数据中...');
-          this.scroll.stop();
-          this.commentBook.push(this.commentBook.length);
-          this.scroll.refresh();
-        }
-      });
+        click: true,
+        probeType: 3,
+      })
     },
     _isBook(index) {
-      if (this.commentBook.indexOf(index) > -1) {
-        return true;
-      }
-      return false;
+      return this.commentBook.includes(index);
     },
   },
 };
@@ -157,22 +145,26 @@ export default {
 
 @import '@/assets/css/mixin.scss';
 
-
-.wrapper {
-  width: 100%;
-  height: 100vh;
-}
 .detail {
   width: 100%;
-  margin-top: 1rem;
-  .content {
-    .content-item {
-      margin-top: .6rem;
-      padding: 0 .3rem;
-      .title-light {
-        line-height: .8rem;
-        color: #ccc;
-        font-size: .3rem;
+  .white-header {
+    width: 100%;
+    height: 1rem;
+  }
+  .wrapper {
+    width: 100%;
+    height: calc(100vh - 1rem);
+    overflow: hidden;
+    .content {
+      width: 100%;
+      .content-item {
+        margin-top: .6rem;
+        padding: 0 .3rem;
+        .title-light {
+          line-height: .8rem;
+          color: #ccc;
+          font-size: .3rem;
+        }
       }
     }
   }

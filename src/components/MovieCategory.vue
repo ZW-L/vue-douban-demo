@@ -1,5 +1,5 @@
 <template>
-  <div class="category wrapper">
+  <div class="category">
     <div v-if="list" class="content">
       <swiper class="swiper-wrapper" ref="mySwiper" :options="swiperOption">
         <div class="swiper-pagination"  slot="pagination"></div>
@@ -80,10 +80,11 @@ export default {
 
 @import '@/assets/css/animations.scss';
 
-.wrapper {
+.category {
   box-sizing: border-box;
   width: 100%;
   padding: 0 .2rem;
+  margin-bottom: .5rem;
   .content {
     animation: rotateX-in 1s ease;
     .slide-content {

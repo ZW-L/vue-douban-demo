@@ -73,10 +73,13 @@ export default {
 @import '@/assets/css/mixin.scss';
 
 .ranking-list {
-  margin-top: .5rem;
+  margin-top: .2rem;
   padding: .2rem;
   .title {
-    @include home-title;
+    height: .8rem;
+    margin-top: .5rem;
+    line-height: .8rem;
+    font-size: .4rem;
   }
   .list {
     display: flex;

@@ -1,37 +1,42 @@
 <template>
   <div class="home">
     <base-header>豆瓣电影</base-header>
-    <div>
-      <category-title>
-        <span @click="handleGetList(0, 'hotNew')" :class="{ 'active': hotCoverComing }">影院热映</span>
-        <span @click="handleGetList(1, 'hotNew')" :class="{ 'active': !hotCoverComing }">即将上映</span>
-      </category-title>
-      <movie-category :categoryInfo="hotCategoryInfo"></movie-category>
-    </div>
-    <div>
-      <ranking-list></ranking-list>
-    </div>
-    <div>
-      <category-title>
-        <span v-for="(title, i) of movieTitles" :key="i" 
-          @click="handleGetList(i, 'movie')"
-          :class="{ 'active': movieIndex === i }"
-        >
-          {{title}}
-        </span>
-      </category-title>
-      <movie-category :categoryInfo="movieCategoryInfo"></movie-category>
-    </div>
-    <div>
-      <category-title>
-        <span v-for="(title, i) of tvTitles" :key="i" 
-          @click="handleGetList(i, 'tv')"
-          :class="{ 'active': tvIndex === i }"
-        >
-          {{title}}
-        </span>
-      </category-title>
-      <movie-category :categoryInfo="tvCategoryInfo"></movie-category>
+    <div class="content-header"></div>
+    <div class="wrapper" ref="wrapper">
+      <div class="content">
+        <div class="item">
+          <category-title>
+            <span @click="handleGetList(0, 'hotNew')" :class="{ 'active': hotCoverComing }">影院热映</span>
+            <span @click="handleGetList(1, 'hotNew')" :class="{ 'active': !hotCoverComing }">即将上映</span>
+          </category-title>
+          <movie-category :categoryInfo="hotCategoryInfo"></movie-category>
+        </div>
+        <div class="item item-ranking">
+          <ranking-list></ranking-list>
+        </div>
+        <div class="item item-movie">
+          <category-title>
+            <span v-for="(title, i) of movieTitles" :key="i" 
+              @click="handleGetList(i, 'movie')"
+              :class="{ 'active': movieIndex === i }"
+            >
+              {{title}}
+            </span>
+          </category-title>
+          <movie-category :categoryInfo="movieCategoryInfo"></movie-category>
+        </div>
+        <div class="item item-tv">
+          <category-title>
+            <span v-for="(title, i) of tvTitles" :key="i" 
+              @click="handleGetList(i, 'tv')"
+              :class="{ 'active': tvIndex === i }"
+            >
+              {{title}}
+            </span>
+          </category-title>
+          <movie-category :categoryInfo="tvCategoryInfo"></movie-category>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -39,6 +44,7 @@
 <script>
 // @ is an alias to /src
 import { mapGetters } from 'vuex';
+import BScroll from '@better-scroll/core';
 import BaseHeader from '@/components/BaseHeader.vue';
 import CategoryTitle from '@/components/CategoryTitle.vue';
 import MovieCategory from '@/components/MovieCategory.vue';
@@ -135,7 +141,22 @@ export default {
     }
   },
 
+  mounted() {
+    this._initScroll();
+  },
+
+  beforeDestroy() {
+    this.bs.destroy();
+  },
+
   methods: {
+    _initScroll() {
+      this.bs = new BScroll(this.$refs.wrapper, {
+        scrollY: true,
+        click: true,
+        probeType: 3,
+      })
+    },
     handleGetList(index, type) {
       // 影院热映和即将上映的数据请求/切换
       if (type === 'hotNew') {
@@ -165,7 +186,6 @@ export default {
                 this.$store.commit(mutationType, res.data.subjects);
               });
           }, 1000);
-          
         }
         this.movieIndex = index;
       }
@@ -185,3 +205,24 @@ export default {
   },
 };
 </script>
+
+<style lang="scss" scoped>
+  
+.home {
+  width: 100%;
+  .content-header {
+    width: 100%;
+    height: 1rem;
+  }
+  .wrapper {
+    width: 100%;
+    height: calc(100vh - 1rem);
+    overflow: hidden;
+    .content {
+      .item-movie, .item-tv {
+        margin-top: 1rem;
+      }
+    }
+  }
+}
+</style>
